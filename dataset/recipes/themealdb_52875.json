@@ -1,0 +1,376 @@
+{
+  "id": "1a712f57-0be2-51b3-b936-c95fd8db8590",
+  "version": "1.0.0",
+  "title": "Chicken Ham and Leek Pie",
+  "slug": "chicken-ham-and-leek-pie",
+  "summary": "A savory British-style pie filled with chicken, ham, and leeks in a creamy white sauce, encased in a homemade shortcrust pastry.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:45:17Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52875"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/xrrtss1511555269.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/xrrtss1511555269.jpg/small",
+      "alt_text": "Photo of Chicken Ham and Leek Pie",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=xr-CpPE_lNk"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "meat",
+      "pie"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 55,
+    "total_time_minutes": 85
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 large slice of pie"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "f522493f-87df-5299-a564-3612a19d2403",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "5040d6a3-1430-5846-b982-6b16caffadbc",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "450ml Chicken Stock",
+          "quantity": 450.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "e6addc2d-69e9-5564-a9fc-158b76feddda",
+          "ingredient_id": "e23191a1-4966-5b21-a6f1-8df6f50b79db",
+          "name": "chicken breast",
+          "display_text": "3 Chicken Breast",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "d6fe3121-45bf-56d7-9b41-d5ad705bf424",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "75g Butter",
+          "quantity": 75.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "ecf774f1-fb66-5554-b8f0-dc623443274f",
+          "ingredient_id": "ef5d99bc-384e-522a-8c0f-1c8501f6612c",
+          "name": "leek",
+          "display_text": "2 sliced Leek",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e658ea30-d9a1-5816-82d6-fb1151f1f077",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves minced Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "minced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "abb10581-04ef-522f-b23c-43a8787c87a7",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "50g Plain Flour",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "815daae3-ebc3-5222-b122-a50501d08a47",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "200ml Milk",
+          "quantity": 200.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "7d0a0755-a6db-55ba-87d9-4a2ffc56d603",
+          "ingredient_id": "7dfa4179-cc08-5fb6-b4fc-aa52abc5f515",
+          "name": "white wine",
+          "display_text": "3 tbs White Wine",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "2675b5e3-9995-5ef1-add9-26e351048bf1",
+          "ingredient_id": "81b5723b-47de-5017-987f-cdcc95dd362b",
+          "name": "double cream",
+          "display_text": "150ml Double Cream",
+          "quantity": 150.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "31e9169b-ae1b-5b16-b49d-a993c5d52a9c",
+          "ingredient_id": "c61b86c2-f691-51ef-9d76-0787f0d404f5",
+          "name": "ham",
+          "display_text": "150g Ham",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "b984436f-a709-52b6-be3a-9582a5bf65e8",
+          "ingredient_id": "9ffd51ab-918f-5fa2-838e-51c491b97dd2",
+          "name": "sea salt",
+          "display_text": "spinkling Sea Salt",
+          "quantity": 1,
+          "unit": "sprinkling",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "d28f88d8-5e31-5dd1-aae8-3aa6e5418981",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "pinch Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "12bf8de3-65c7-5c95-a783-08346cbf5b79",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "350g Plain Flour",
+          "quantity": 350.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 350.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "516148ee-47cc-5051-a469-8c6b9b2958fa",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "200g Butter",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "b1b56fc3-4f0c-5f53-9915-7fd6a43b6f10",
+          "ingredient_id": "7800b020-ce2c-5ce6-b2e3-c33751c69459",
+          "name": "free-range egg, beaten",
+          "display_text": "1 Free-range Egg, Beaten",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "bbe736f5-1e17-5480-b747-90b10e8355ee",
+          "ingredient_id": "e930e741-687b-5138-af0d-dad1cdfcffbe",
+          "name": "cold water",
+          "display_text": "1 tbls Cold Water",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "945131a3-2829-5b5c-b434-0c133285eb53",
+          "ingredient_id": "7800b020-ce2c-5ce6-b2e3-c33751c69459",
+          "name": "free-range egg, beaten",
+          "display_text": "1 Free-range Egg, Beaten",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the chicken stock in a lidded saucepan. Add the chicken breast and bring to a low simmer. Cover with a lid and cook for 10 minutes. Remove the chicken breasts from the water with tongs and place on a plate. Pour the cooking liquor into a large jug.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "5040d6a3-1430-5846-b982-6b16caffadbc",
+        "e6addc2d-69e9-5564-a9fc-158b76feddda"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Melt 25g/1oz of the butter in a large heavy-based saucepan over a low heat. Stir in the leeks and fry gently for two minutes, stirring occasionally until just softened. Add the garlic and cook for a further minute. Add the remaining butter and stir in the flour as soon as the butter has melted. Cook for 30 seconds, stirring constantly.",
+      "timer_seconds": 30,
+      "ingredients_used": [
+        "d6fe3121-45bf-56d7-9b41-d5ad705bf424",
+        "ecf774f1-fb66-5554-b8f0-dc623443274f",
+        "e658ea30-d9a1-5816-82d6-fb1151f1f077",
+        "516148ee-47cc-5051-a469-8c6b9b2958fa"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Slowly pour the milk into the pan, just a little at a time, stirring well between each adding. Gradually add 250ml/10fl oz of the reserved stock and the wine, if using, stirring until the sauce is smooth and thickened slightly. Bring to a gentle simmer and cook for 3 minutes.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "815daae3-ebc3-5222-b122-a50501d08a47",
+        "7d0a0755-a6db-55ba-87d9-4a2ffc56d603"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Season the mixture, to taste, with salt and freshly ground black pepper. Remove from the heat and stir in the cream. Pour into a large bowl and cover the surface of the sauce with cling ilm to prevent a skin forming. Set aside to cool.",
+      "ingredients_used": [
+        "b984436f-a709-52b6-be3a-9582a5bf65e8",
+        "d28f88d8-5e31-5dd1-aae8-3aa6e5418981"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Preheat the oven to 200C/400F/Gas 6. Put a baking tray in the oven to heat.",
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 6,
+      "instruction": "For the pastry, put the flour and butter in a food processor and blend on the pulse setting until the mixture resembles fine breadcrumbs. With the motor running, add the beaten egg and water and blend until the mixture forms a ball. Portion off 250g/10oz of pastry for the lid.",
+      "ingredients_used": [
+        "d6fe3121-45bf-56d7-9b41-d5ad705bf424",
+        "516148ee-47cc-5051-a469-8c6b9b2958fa",
+        "b1b56fc3-4f0c-5f53-9915-7fd6a43b6f10",
+        "945131a3-2829-5b5c-b434-0c133285eb53"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Roll the remaining pastry out on a lightly floured surface, turning the pastry frequently until around 5mm/¼in thick and 4cm/1½in larger than the pie dish. Lift the pastry over the rolling pin and place it gently into the pie dish. Press the pastry firmly up the sides, making sure there are no air bubbles. Leave the excess pastry overhanging the sides."
+    },
+    {
+      "step_number": 8,
+      "instruction": "Cut the chicken breasts into 3cm/1¼in pieces. Stir the chicken, ham and leeks into the cooled sauce. Pour the chicken filling into the pie dish. Brush the rim of the dish with beaten egg. Roll out the reserved pastry for the lid.",
+      "ingredients_used": [
+        "e6addc2d-69e9-5564-a9fc-158b76feddda",
+        "ecf774f1-fb66-5554-b8f0-dc623443274f",
+        "31e9169b-ae1b-5b16-b49d-a993c5d52a9c",
+        "b1b56fc3-4f0c-5f53-9915-7fd6a43b6f10",
+        "945131a3-2829-5b5c-b434-0c133285eb53"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Cover the pie with the pastry lid and press the edges together firmly to seal. Trim any excess pastry."
+    },
+    {
+      "step_number": 10,
+      "instruction": "Make a small hole in the center of the pie with the tip of a knife. Glaze the top of the pie with beaten egg. Bake on the preheated tray in the center of the oven for 35-40 minutes or until the pie is golden-brown all over and the filling is piping hot.",
+      "timer_seconds": 2400,
+      "ingredients_used": [
+        "b1b56fc3-4f0c-5f53-9915-7fd6a43b6f10",
+        "945131a3-2829-5b5c-b434-0c133285eb53"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbc.co.uk/food/recipes/creamy_chicken_ham_and_03877"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

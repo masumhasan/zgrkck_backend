@@ -1,0 +1,241 @@
+{
+  "id": "02b182f8-6af3-5b05-90b5-9aa3c8cf98ed",
+  "version": "1.0.0",
+  "title": "Oatmeal pancakes",
+  "slug": "oatmeal-pancakes",
+  "summary": "A Venezuelan-style breakfast dish made from ground oats, egg, and milk, served with strawberries and sugar syrup.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:24:47Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53331"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/c400ok1764439058.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/c400ok1764439058.jpg/small",
+      "alt_text": "Photo of Oatmeal pancakes",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=kkrRFWN4LG4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "7511fbbd-fbff-5fb1-ad48-c4a89d390e43",
+        "slug": "venezuelan",
+        "name": "Venezuelan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 10,
+    "marinating_time_minutes": 10,
+    "total_time_minutes": 25
+  },
+  "yield": {
+    "servings": 1,
+    "serving_unit": "servings",
+    "serving_size_description": "a stack of oatmeal pancakes with strawberries"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "eggs"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "5eb13b9c-d8aa-5c08-9242-c2bd008f1be6",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "cbe5a3bf-1293-5db4-b21d-bfd192b906ef",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 medium Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "d37347ab-4273-5568-963e-ec6612b5fad8",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "80 ml Milk",
+          "quantity": 80.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 80.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "582ec853-d481-5887-a5ee-53206ab62167",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 tablespoon Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "b5577667-f75d-5dee-8289-149c7aa0fc2b",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 tsp Baking Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "51bb8f56-cbbd-59f4-948c-66477b56d03f",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "644b7191-2dc2-52b9-8748-04efb57c7aa8",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1 dash Vanilla Extract",
+          "quantity": 1.0,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "fcf99d09-a6a9-5487-ba71-945bde14182e",
+          "ingredient_id": "869d9932-f47e-5706-a4c1-92ab254b0e06",
+          "name": "ground oats",
+          "display_text": "150g Ground Oats",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "c3cb0c1e-234d-5292-9a06-b29546f33a03",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "150g Butter",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "a6cc6a3a-149d-5d0b-90df-300c53c976cb",
+          "ingredient_id": "7894b96a-6cdc-57d2-a534-693eb05a2487",
+          "name": "sugar syrup",
+          "display_text": "1 tablespoon Sugar Syrup",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "5c5e39ff-6f6b-5a7a-82d0-468d168d936b",
+          "ingredient_id": "8633a33a-dc11-5c17-a43b-c84d3669eb95",
+          "name": "strawberries",
+          "display_text": "3 Strawberries",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Place all the ingredients in the glass and beat."
+    },
+    {
+      "step_number": 2,
+      "instruction": "Let the mixture stand for 10 minutes.",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 3,
+      "instruction": "Grease a hot frying pan with a little butter and pour a little of the mixture.",
+      "ingredients_used": [
+        "c3cb0c1e-234d-5292-9a06-b29546f33a03"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "When it starts to bubble on the surface, turn over with a spatula. Cook over medium-low heat so that they do not burn."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Finally, add the caramel and strawberries.",
+      "ingredients_used": [
+        "5c5e39ff-6f6b-5a7a-82d0-468d168d936b"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://goya.es/en/recipes/oatmeal-pancakes"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

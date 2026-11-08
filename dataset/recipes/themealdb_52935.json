@@ -1,0 +1,310 @@
+{
+  "id": "6030bca5-0671-575d-82a0-7a39f10f187d",
+  "version": "1.0.0",
+  "title": "Steak Diane",
+  "slug": "steak-diane",
+  "summary": "Steak Diane is a classic French dish featuring beef fillets served in a rich, creamy sauce made with mushrooms, brandy, Dijon mustard, and Worcestershire sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:50:38Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52935"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/vussxq1511882648.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/vussxq1511882648.jpg/small",
+      "alt_text": "Photo of Steak Diane",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=9rWZNHkrsNg"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "fe8f07a1-591f-5711-ae5b-f3c9afcc3e60",
+        "slug": "french",
+        "name": "French"
+      }
+    ],
+    "tags": [
+      "cheasy",
+      "datenight",
+      "expensive",
+      "mainmeal",
+      "meat"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": [
+      "date_night"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 27,
+    "total_time_minutes": 42
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 beef fillet with sauce"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "soy",
+      "fish",
+      "mustard",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "shellfish",
+      "sesame"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "9169cec4-c7eb-5198-83b7-0bb9d10210d8",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "14ea752e-4bcc-5422-8a75-04ffcf1085c2",
+          "ingredient_id": "a2b10768-5e5c-5fab-80bc-cf7fbc51f362",
+          "name": "canola oil",
+          "display_text": "2 tbs Canola Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "2de0f443-7643-5c46-baeb-0aac55c19479",
+          "ingredient_id": "d520ed56-24b8-5d5e-ba56-f31d734071eb",
+          "name": "beef fillet",
+          "display_text": "4 Beef Fillet",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "5fd7184a-f205-5921-8722-f6b72020fa3c",
+          "ingredient_id": "39a746ef-3300-5229-b0b2-3e03970ea60c",
+          "name": "beef stock",
+          "display_text": "1 1/2 cup Beef Stock",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "c8ae0776-d3c0-56ec-9a8e-6cc11408a771",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "2 tbs Butter",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "1691735e-70cd-5f92-9b61-5df685fcf5bf",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves minced Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "minced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "68382c20-92b1-5280-8465-4c82f531d00e",
+          "ingredient_id": "b5be86c1-9338-59cc-924e-96de6771869c",
+          "name": "challots",
+          "display_text": "1 medium finely diced Challots",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "medium finely diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "5e64825a-d7dd-5e20-9045-3ff9f8ed7986",
+          "ingredient_id": "5031dcf8-ef4a-588f-ae8f-de7c2790dfac",
+          "name": "mushrooms",
+          "display_text": "4 oz Mushrooms",
+          "quantity": 4.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 113.4,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "ea3ce431-386c-51c7-ae9d-66e296512f72",
+          "ingredient_id": "063ff6f2-ecba-5f08-abd6-0646882f3f1d",
+          "name": "brandy",
+          "display_text": "¼ cup Brandy",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "4f186594-90c1-517b-aedb-e583402eed0e",
+          "ingredient_id": "cb8d5d02-f2f1-547b-b7e6-054d6629adc1",
+          "name": "heavy cream",
+          "display_text": "¼ cup Heavy Cream",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "dc60c2dc-71d6-5ed9-b31b-ea3cf785992a",
+          "ingredient_id": "ca633897-45c5-5885-985b-5fbe25d58c8d",
+          "name": "dijon mustard",
+          "display_text": "1 tbs Dijon Mustard",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "a28633d6-7a03-509a-893e-8174b12b7535",
+          "ingredient_id": "31e8f031-3e86-5406-8703-0e73554e2898",
+          "name": "worcestershire sauce",
+          "display_text": "1 tbs Worcestershire Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "37086b13-a877-5dd6-b0d8-3b6a356a80b5",
+          "ingredient_id": "1048106f-fe5a-5188-bb45-786e1fdc0afe",
+          "name": "tabasco sauce",
+          "display_text": "Dash Tabasco Sauce",
+          "quantity": 1,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "condiments"
+        },
+        {
+          "id": "d60ae7a1-daf9-5438-8139-df0e2ce5d742",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "1 tbs minced Parsley",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "preparation": "minced",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "4c77b5ee-9d5f-5f0e-ba34-6a1435d59c9f",
+          "ingredient_id": "85291054-0b21-5fc5-ac52-86bee20f4bbc",
+          "name": "chives",
+          "display_text": "1 tbs minced Chives",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "preparation": "minced",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "ef6b3422-f1cb-5660-bd6f-7b3501ba4516",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "to taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "2eb6ce92-d587-5736-996b-755cee537fa2",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "to taste Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oil in a 12\" skillet over medium-high heat. Season steaks with salt and pepper, and add to skillet; cook, turning once, until browned on both sides and cooked to desired doneness, about 4 to 5 minutes for medium-rare. Transfer steaks to a plate, and set aside.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "ef6b3422-f1cb-5660-bd6f-7b3501ba4516",
+        "2eb6ce92-d587-5736-996b-755cee537fa2"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Return skillet to high heat, and add stock; cook until reduced until to 1⁄2 cup, about 10 minutes. Pour into a bowl, and set aside. Return skillet to heat, and add butter; add garlic and shallots, and cook, stirring, until soft, about 2 minutes. Add mushrooms, and cook, stirring, until they release any liquid and it evaporates and mushrooms begin to brown, about 2 minutes. Add cognac, and light with a match to flambée; cook until flame dies down. Stir in reserved stock, cream, Dijon, Worcestershire, and hot sauce, and then return steaks to skillet; cook, turning in sauce, until warmed through and sauce is thickened, about 4 minutes. Transfer steak to serving plates and stir parsley and chives into sauce; pour sauce over steaks to serve.",
+      "ingredients_used": [
+        "c8ae0776-d3c0-56ec-9a8e-6cc11408a771",
+        "1691735e-70cd-5f92-9b61-5df685fcf5bf",
+        "5e64825a-d7dd-5e20-9045-3ff9f8ed7986",
+        "d60ae7a1-daf9-5438-8139-df0e2ce5d742",
+        "4c77b5ee-9d5f-5f0e-ba34-6a1435d59c9f"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.saveur.com/article/Recipes/Classic-Steak-Diane"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

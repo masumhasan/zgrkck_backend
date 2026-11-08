@@ -1,0 +1,216 @@
+{
+  "id": "79d53d72-e080-5d35-bc6e-a371d64488a7",
+  "version": "1.0.0",
+  "title": "Rogaliki (Polish Croissant Cookies)",
+  "slug": "rogaliki-polish-croissant-cookies",
+  "summary": "Rogaliki are traditional Polish crescent-shaped cookies made from a dough containing cream cheese and filled with jam.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:57:48Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53024"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/7mxnzz1593350801.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/7mxnzz1593350801.jpg/small",
+      "alt_text": "Photo of Rogaliki (Polish Croissant Cookies)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=VAR10T9mfhU"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d40b0607-0a3a-5f5d-8012-7eaf1b714fa5",
+        "slug": "polish",
+        "name": "Polish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert",
+      "snack"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 12,
+    "rest_time_minutes": 15,
+    "total_time_minutes": 47
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "pieces",
+    "serving_size_description": "10 cookies"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery"
+    ],
+    "may_contain": [
+      "sulfites"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "37e615d8-fc71-5965-bcfe-7a6cc8ce2ea9",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "025b2fbe-b737-5288-b3e7-11b9d2deebac",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "1 cup Butter",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "ec75bb67-142c-5334-8c19-c8c6ed1715f0",
+          "ingredient_id": "051a3118-01a4-5366-a922-19ecf618e2f9",
+          "name": "egg yolks",
+          "display_text": "3 Egg Yolks",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "c2be6b43-bac8-5253-b146-db67f0a184c1",
+          "ingredient_id": "0523a624-2afe-5b39-a3e8-a4588a68c1c2",
+          "name": "cream cheese",
+          "display_text": "8 oz Cream Cheese",
+          "quantity": 8.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 226.8,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "152a3dda-bec1-5dd1-a4f4-36b8e92133bc",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 tsp Baking Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "3b14722a-3e4b-5fa9-8e05-b2fe223e7c7c",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "3 cups Flour",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "de8ae423-45cf-545f-9cac-26e21eac9cc4",
+          "ingredient_id": "0db24971-f1c6-5bf8-994e-61a8358d553c",
+          "name": "jam",
+          "display_text": "1 Jar Jam",
+          "quantity": 1.0,
+          "unit": "jar",
+          "is_optional": false,
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "In a medium bowl mix egg yolks, philly cheese and baking powder using a hand held mixer. Carefully start adding the flour. When the mixture will not be mixing well, and will look like wood chips, put away the blending mixer and using your hands knead the dough.",
+      "ingredients_used": [
+        "ec75bb67-142c-5334-8c19-c8c6ed1715f0",
+        "152a3dda-bec1-5dd1-a4f4-36b8e92133bc",
+        "3b14722a-3e4b-5fa9-8e05-b2fe223e7c7c"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Create a roll and cover in foil and freeze for 15 minutes. At this time preheat the oven to 375.",
+      "timer_seconds": 900
+    },
+    {
+      "step_number": 3,
+      "instruction": "Take the dough out and separate into two. Roll and cut out 3 inch trangles."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Make as many as you can and on center of each put a small spoon of jam. Roll them into a croissant shape.",
+      "ingredients_used": [
+        "de8ae423-45cf-545f-9cac-26e21eac9cc4"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Place the croissants onto a greased cookie sheet, and bake for 10-12 minutes or until golden.",
+      "timer_seconds": 720
+    },
+    {
+      "step_number": 6,
+      "instruction": "Repeat with the rest of the dough."
+    },
+    {
+      "step_number": 7,
+      "instruction": "When you take them out, put aside and sprinkle with powdered sugar on top."
+    },
+    {
+      "step_number": 8,
+      "instruction": "This makes about 3 batches of 20 cookies each."
+    },
+    {
+      "step_number": 9,
+      "instruction": "Total count about 60 cookies."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.food.com/recipe/rogaliki-polish-croissant-cookies-with-jam-filling-200668"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

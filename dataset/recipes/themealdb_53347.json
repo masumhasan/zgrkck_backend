@@ -1,0 +1,253 @@
+{
+  "id": "ed405dbf-ecb8-5da4-b356-eaab0e681c07",
+  "version": "1.0.0",
+  "title": "No-Churn Rum Raisin Ice Cream",
+  "slug": "no-churn-rum-raisin-ice-cream",
+  "summary": "A creamy, no-churn dessert featuring raisins soaked in dark rum and spiced with cinnamon and allspice.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:26:22Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53347"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/s9qyzd1764790772.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/s9qyzd1764790772.jpg/small",
+      "alt_text": "Photo of No-Churn Rum Raisin Ice Cream",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=6WpzVZrOwIs"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "2dfec5c8-490a-551c-9d2f-e8e21f706bda",
+        "slug": "jamaican",
+        "name": "Jamaican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 5,
+    "marinating_time_minutes": 30,
+    "rest_time_minutes": 360,
+    "total_time_minutes": 410
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "servings"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "sulfites"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "e302573b-1a5c-5517-b15f-b50e4a62cd3b",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "034236ab-6c91-584c-9149-8ab720349a31",
+          "ingredient_id": "594e7cf1-3430-546d-8a0c-8a7ab49de9f6",
+          "name": "dark rum",
+          "display_text": "1/2 cup Dark Rum",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "440395e7-d24c-556c-8f67-0ee58deee44b",
+          "ingredient_id": "8d52ad34-1aea-57a9-8e92-aabab5116059",
+          "name": "raisins",
+          "display_text": "1 cup Raisins",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "3e1dbca9-08fe-50f0-8530-31f22171ffcc",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1 tsp Vanilla Extract",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "fd3b69ff-fc8a-5fea-8de4-fcd99e175546",
+          "ingredient_id": "3fe531f9-aa92-5d4e-9940-e8eddf18456b",
+          "name": "condensed milk",
+          "display_text": "14 oz jar Condensed Milk",
+          "quantity": 14.0,
+          "unit": "ounce",
+          "preparation": "jar",
+          "is_optional": false,
+          "metric_quantity": 396.9,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "29be5a11-f3f6-5242-8404-43d151c2219f",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "2 tablespoons Brown Sugar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "473db71f-4d85-58b6-9fc4-cc5500c37b7c",
+          "ingredient_id": "7af3c207-3c37-5965-a096-bf34ac1db1f4",
+          "name": "ground cinnamon",
+          "display_text": "1/4 tsp Ground Cinnamon",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "7194ea5b-3134-5411-b9f0-c24188d8f212",
+          "ingredient_id": "38dedce7-9a7f-57ee-8e46-5162ab60eba8",
+          "name": "allspice",
+          "display_text": "1/8 teaspoon Allspice",
+          "quantity": 0.125,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 0.6,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "82e1e961-8b15-5a9e-913c-829eefaed875",
+          "ingredient_id": "cb8d5d02-f2f1-547b-b7e6-054d6629adc1",
+          "name": "heavy cream",
+          "display_text": "2 cups Heavy Cream",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "65abc717-9f5e-50f9-b697-538c5d935eb3",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the rum in a small saucepan over medium heat until warm (do not boil). Remove from heat and stir in the raisins and vanilla extract. Let the mixture sit for at least 30 minutes. After soaking, drain off the extra rum, but keep ¼ cup of the rum and reserve it to mix into your ice cream base.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "440395e7-d24c-556c-8f67-0ee58deee44b",
+        "3e1dbca9-08fe-50f0-8530-31f22171ffcc"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a large bowl, whisk together the sweetened condensed milk, dark brown sugar, cinnamon, allspice, salt, and reserved rum (¼ cup). Stir until the brown sugar is fully dissolved.",
+      "ingredients_used": [
+        "fd3b69ff-fc8a-5fea-8de4-fcd99e175546",
+        "29be5a11-f3f6-5242-8404-43d151c2219f",
+        "473db71f-4d85-58b6-9fc4-cc5500c37b7c",
+        "7194ea5b-3134-5411-b9f0-c24188d8f212",
+        "65abc717-9f5e-50f9-b697-538c5d935eb3"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "In a separate bowl, whip the cold heavy cream with an electric mixer until stiff peaks form.",
+      "ingredients_used": [
+        "82e1e961-8b15-5a9e-913c-829eefaed875"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Gently fold the whipped cream into the condensed milk mixture until fully combined, being careful not to deflate the cream. Fold in the drained rum-soaked raisins to distribute them evenly.",
+      "ingredients_used": [
+        "440395e7-d24c-556c-8f67-0ee58deee44b",
+        "fd3b69ff-fc8a-5fea-8de4-fcd99e175546"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Pour the mixture into a loaf pan or freezer-safe container. Smooth the top and cover with plastic wrap or an airtight lid. Freeze for at least 6 hours, or until firm.",
+      "timer_seconds": 21600
+    },
+    {
+      "step_number": 6,
+      "instruction": "Let the ice cream sit at room temperature for 5–10 minutes before scooping for the best texture.",
+      "timer_seconds": 600
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.myforkinglife.com/rum-raisin-ice-cream/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

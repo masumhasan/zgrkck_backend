@@ -1,0 +1,302 @@
+{
+  "id": "a3eab455-6543-5881-982f-83b68d45da42",
+  "version": "1.0.0",
+  "title": "Sauerkraut pierogii",
+  "slug": "sauerkraut-pierogii",
+  "summary": "Ukrainian-style pierogi filled with a savory mixture of sauerkraut, cabbage, and fried shallots, served with sour cream and crispy shallots.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:23:24Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53314"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/gqlxgc1764368767.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/gqlxgc1764368767.jpg/small",
+      "alt_text": "Photo of Sauerkraut pierogii",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=eVWBJt2jaPU"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "e00f83fa-fc1f-5fa7-b77b-c52fa0a57fe1",
+        "slug": "ukrainian",
+        "name": "Ukrainian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 30,
+    "rest_time_minutes": 30,
+    "total_time_minutes": 90
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "portions",
+    "serving_size_description": "approx 6 pierogi"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "968fc2c2-3fd3-5f12-b797-ba9359ac34ac",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "2e9596ac-b3be-5c29-84db-94283e21bf3b",
+          "ingredient_id": "aa561384-0d26-5008-a25e-3ba9db4b2a3f",
+          "name": "sunflower oil",
+          "display_text": "1 tablespoon Sunflower Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "cba4bb2d-f619-5eee-9ee0-d8fde10e1e0a",
+          "ingredient_id": "d22accc4-e562-59bf-9cbb-1ad38d461e99",
+          "name": "shallots",
+          "display_text": "2 chopped Shallots",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2230bf56-ccbd-5ebb-86e3-8733d955c13b",
+          "ingredient_id": "3f420211-9c78-59f6-bedc-67dae51f7566",
+          "name": "sauerkraut",
+          "display_text": "150g Sauerkraut",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "c0c96e13-c582-5a79-87b7-5aee2a0a7aff",
+          "ingredient_id": "f40b94d9-ae7e-5ff9-ba0f-48ff65e52443",
+          "name": "hispi (sweetheart) cabbage",
+          "display_text": "150g Hispi (sweetheart) Cabbage",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "dfc4faf8-2ec3-57c0-bab2-1063a1748aa1",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 beaten Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "beaten",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "0223ac8d-0fb8-525c-8926-d7371d068b36",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "1/2 tbs Vegetable Oil",
+          "quantity": 0.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "dac60013-7248-54ae-b101-6b4dfb219c9a",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "350g Plain Flour",
+          "quantity": 350.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 350.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "529ae156-bfbc-5535-bb21-5bb1089d47f9",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "For frying Vegetable Oil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "for frying",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "a11ee85e-36f2-5a55-a430-281fd54dcce7",
+          "ingredient_id": "d22accc4-e562-59bf-9cbb-1ad38d461e99",
+          "name": "shallots",
+          "display_text": "2 sliced Shallots",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c8f3f374-3a7b-53e5-8977-9a37869617c2",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "Dusting Plain Flour",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "dusting",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "edbf04d9-3a29-5c8c-81e9-2f5e1fcdfab0",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "45g Butter",
+          "quantity": 45.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "7b21ed29-bb5c-58b3-a90b-3a64098241b9",
+          "ingredient_id": "6ca777b1-4e80-5a4b-8ffe-88c954e2cc8a",
+          "name": "sour cream",
+          "display_text": "60 ml Sour Cream",
+          "quantity": 60.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "First, make the crispy shallots. Heat the oil in a saucepan to 180C (a cube of bread will turn golden in 15 secs). Toss the shallots in a little flour and deep-fry for 1 min or until light golden and crispy. Drain on kitchen paper. Can be made up to two days before and kept in an airtight container.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "cba4bb2d-f619-5eee-9ee0-d8fde10e1e0a",
+        "a11ee85e-36f2-5a55-a430-281fd54dcce7"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "To make the filling, heat the oil in a medium non-stick frying pan and gently fry the shallots for 10 mins until starting to turn golden.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "cba4bb2d-f619-5eee-9ee0-d8fde10e1e0a",
+        "a11ee85e-36f2-5a55-a430-281fd54dcce7"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the sauerkraut and cabbage, and cook for 5-10 mins until the cabbage has softened. Taste and add a little salt if under-seasoned, or sugar if stringent. Scrape into a bowl and leave to cool completely.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "2230bf56-ccbd-5ebb-86e3-8733d955c13b",
+        "c0c96e13-c582-5a79-87b7-5aee2a0a7aff"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "To make the dough, mix the eggs and oil with 125ml water, then gradually add in the flour, mixing well with your hands. Knead it on a well-floured surface until the dough stops sticking to your hands. You should end up with firm, elastic dough. Wrap it in cling film and rest in the fridge for at least 30 mins, or overnight.",
+      "timer_seconds": 1800
+    },
+    {
+      "step_number": 5,
+      "instruction": "Flour your work surface generously. Roll out the dough to a 40cm circle or until the dough is as thick as £1 coin."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Using a 9cm cookie cutter, cut out discs in the dough – you should end up with about 25 discs. Do not throw away the off-cuts – we throw them in with the pierogi when boiling to minimize any waste."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Have a well-floured tray ready. Put 1 tsp of the filling into the center of each disc. In your hand, fold in half around the filling and seal to create half-moon shapes. Put them on the floured tray, making sure they don’t touch each other."
+    },
+    {
+      "step_number": 8,
+      "instruction": "Bring a large saucepan of salted water to the boil and carefully lower the pierogi in. Boil them for 2 mins or until they float to the top.",
+      "timer_seconds": 120
+    },
+    {
+      "step_number": 9,
+      "instruction": "Drain and serve with a knob of butter and some soured cream. Finish by sprinkling the crispy shallots on top to serve.",
+      "ingredients_used": [
+        "cba4bb2d-f619-5eee-9ee0-d8fde10e1e0a",
+        "a11ee85e-36f2-5a55-a430-281fd54dcce7",
+        "edbf04d9-3a29-5c8c-81e9-2f5e1fcdfab0"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/pierogi"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

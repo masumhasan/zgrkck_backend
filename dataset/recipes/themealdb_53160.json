@@ -1,0 +1,268 @@
+{
+  "id": "599133be-8071-5370-a951-0ce9f484fdb9",
+  "version": "1.0.0",
+  "title": "Pisto con huevos",
+  "slug": "pisto-con-huevos",
+  "summary": "A traditional Spanish vegetable stew made with sautéed peppers, zucchini, eggplant, and tomatoes, served with poached eggs.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:09:34Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53160"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/0nswfe1763279040.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/0nswfe1763279040.jpg/small",
+      "alt_text": "Photo of Pisto con huevos",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/shorts/T43aUS9bG_0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 53,
+    "total_time_minutes": 68
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 portion of vegetable stew with 1 egg"
+  },
+  "allergens": {
+    "contains": [
+      "eggs"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "0e0f1ceb-8199-53aa-ad33-217ca0006490",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "393fc4e0-0d91-5441-b962-6e8e76618af0",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tblsp Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "eedc7ba9-6df9-5523-9b0d-c04b8f22e6d9",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "2 Onion",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3952b9e7-7a59-5850-aca7-1bb5c0e6c9e6",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "4 Chopped Garlic Clove",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1507d377-36e0-5d2b-ac08-4cc917c3e880",
+          "ingredient_id": "0c86a8fd-bbaf-5641-bcc3-79f9dd4be0cb",
+          "name": "mixed peppers",
+          "display_text": "5 Mixed peppers",
+          "quantity": 5.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ec48290f-f4ef-5669-8508-e2e5568cf3e7",
+          "ingredient_id": "035f27db-b6ac-512c-a6e4-48e289cafefe",
+          "name": "oregano",
+          "display_text": "1 teaspoon Oregano",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "c424fcbc-ae9c-5093-bbcb-8afccacde0a4",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "Sprigs of fresh Thyme",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "sprigs of fresh",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "96e38cac-e59b-5f57-b8f5-a621d646f1d4",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaves",
+          "display_text": "4 leaves Bay Leaves",
+          "quantity": 4.0,
+          "unit": "leaf",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "7a1e7a01-6c92-5501-9af2-bf22f9585906",
+          "ingredient_id": "868972c7-da7a-5cf2-864d-fe1f7aada74b",
+          "name": "courgettes",
+          "display_text": "2 chopped Courgettes",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "919f1600-e3a3-59d0-8e42-88a969458da3",
+          "ingredient_id": "0c13526c-c9d0-5c10-bc72-13ae3bf32c7e",
+          "name": "aubergine",
+          "display_text": "1 chopped Aubergine",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "29ea3ccb-abdf-5e3c-ad5a-e8ef5e8d57ea",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "4 large Tomato",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "a39a4ddc-74b3-5d32-83f8-33f2c5970d44",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "4 large Egg",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "1432e96f-7a63-583b-85b4-1d8978cda5d0",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Handful Parsley",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oil in a large flameproof casserole dish or a cast-iron skillet over a low heat. Add the onions and a sprinkle of salt, cover and cook gently for 15 mins, stirring occasionally. Add the garlic and cook for another 2 mins.",
+      "ingredients_used": [
+        "eedc7ba9-6df9-5523-9b0d-c04b8f22e6d9"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Next, throw in the peppers and cook over a medium heat, covered, for about 5 mins, stirring every so often, until the peppers are just tender.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "1507d377-36e0-5d2b-ac08-4cc917c3e880"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Mix in the oregano, thyme, bay leaves, some black pepper and a little salt, if needed. Tip in the courgettes and aubergine, combine thoroughly, and cook over a medium heat, covered, for 10 mins. Stir in the tomatoes, cover and cook for 20 mins, stirring occasionally.",
+      "ingredients_used": [
+        "ec48290f-f4ef-5669-8508-e2e5568cf3e7",
+        "c424fcbc-ae9c-5093-bbcb-8afccacde0a4",
+        "96e38cac-e59b-5f57-b8f5-a621d646f1d4",
+        "7a1e7a01-6c92-5501-9af2-bf22f9585906",
+        "919f1600-e3a3-59d0-8e42-88a969458da3",
+        "29ea3ccb-abdf-5e3c-ad5a-e8ef5e8d57ea"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Carefully crack the eggs over the pisto – try not to break the yolks. Cook in the sauce on a medium heat for 5-6 mins until the eggs are cooked through but still a little soft, then scatter with parsley before serving",
+      "timer_seconds": 360,
+      "ingredients_used": [
+        "1432e96f-7a63-583b-85b4-1d8978cda5d0"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/pisto-con-huevos"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

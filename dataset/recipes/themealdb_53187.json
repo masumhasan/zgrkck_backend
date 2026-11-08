@@ -1,0 +1,293 @@
+{
+  "id": "4e0ffa15-4996-52b8-a3b1-c61734494e7c",
+  "version": "1.0.0",
+  "title": "Šúĺlance s Makom",
+  "slug": "sullance-s-makom",
+  "summary": "Traditional Slovak potato dumplings served with a sweet topping of ground poppy seeds, powdered sugar, and melted butter.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:11:53Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53187"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/d6o4nu1763362422.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/d6o4nu1763362422.jpg/small",
+      "alt_text": "Photo of Šúĺlance s Makom",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/shorts/gUS-__P4nW0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "044b7bf3-e48a-565d-bf41-9893debca860",
+        "slug": "slovak",
+        "name": "Slovak"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 55
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a bowl of dumplings"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "e7aaadee-9b4f-5f60-b4e2-208103f081b9",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "c0baac1d-7e6c-5e75-a2ed-5a6ac5bfe97c",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "700g Potatoes",
+          "quantity": 700.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 700.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "0bb6d932-180c-5656-8531-1807f64807d9",
+          "ingredient_id": "d1e5ec78-b8c2-5649-962c-a9f67272ea92",
+          "name": "all purpose flour",
+          "display_text": "300g All purpose flour",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "04a3234b-5a1e-566d-b5ff-635bd64c8533",
+          "ingredient_id": "7da61410-ac24-55ff-b82f-b5119bd9da58",
+          "name": "semolina",
+          "display_text": "100g Semolina",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "9e2afc98-edfb-5a62-8b1d-9dcdd5f51aab",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "da2239f9-dbbe-588e-aeaf-f73d2835d1c6",
+          "ingredient_id": "ea4c8358-f6e3-5d95-87d7-6ab90f11d70e",
+          "name": "ground poppy seeds",
+          "display_text": "150g Ground Poppy seeds",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "cce9abc6-6aea-5895-b186-f38f58752d78",
+          "ingredient_id": "c644e242-4958-5575-8256-69e88b283feb",
+          "name": "powdered sugar",
+          "display_text": "100g Powdered Sugar",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "a6be5499-98bb-569e-ab95-dd0ada488563",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "100g Butter",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Prepare the Potatoes",
+      "ingredients_used": [
+        "c0baac1d-7e6c-5e75-a2ed-5a6ac5bfe97c"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Boil the potatoes with their skins on until tender.",
+      "ingredients_used": [
+        "c0baac1d-7e6c-5e75-a2ed-5a6ac5bfe97c"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Let them cool completely (preferably overnight), then peel and mash them finely."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Make the Dough"
+    },
+    {
+      "step_number": 5,
+      "instruction": "In a bowl, combine mashed potatoes, flour, semolina, and salt.",
+      "ingredients_used": [
+        "c0baac1d-7e6c-5e75-a2ed-5a6ac5bfe97c",
+        "04a3234b-5a1e-566d-b5ff-635bd64c8533",
+        "9e2afc98-edfb-5a62-8b1d-9dcdd5f51aab"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Knead the mixture until you get a smooth, non-sticky dough."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Shape the Šúĺlance"
+    },
+    {
+      "step_number": 8,
+      "instruction": "Divide the dough into portions and roll each into a thin rope (about 1.5 cm in diameter)."
+    },
+    {
+      "step_number": 9,
+      "instruction": "Cut into 3 cm-long pieces and roll between your palms to shape small dumplings."
+    },
+    {
+      "step_number": 10,
+      "instruction": "Cook the Dumplings"
+    },
+    {
+      "step_number": 11,
+      "instruction": "Bring a pot of salted water to a boil.",
+      "ingredients_used": [
+        "9e2afc98-edfb-5a62-8b1d-9dcdd5f51aab"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Drop in the dumplings in batches and cook until they float to the surface (about 2-3 minutes).",
+      "timer_seconds": 180
+    },
+    {
+      "step_number": 13,
+      "instruction": "Drain and transfer to a bowl."
+    },
+    {
+      "step_number": 14,
+      "instruction": "Prepare the Topping"
+    },
+    {
+      "step_number": 15,
+      "instruction": "In a separate bowl, mix ground poppy seeds and powdered sugar.",
+      "ingredients_used": [
+        "da2239f9-dbbe-588e-aeaf-f73d2835d1c6",
+        "cce9abc6-6aea-5895-b186-f38f58752d78"
+      ]
+    },
+    {
+      "step_number": 16,
+      "instruction": "Melt the butter and keep it ready.",
+      "ingredients_used": [
+        "a6be5499-98bb-569e-ab95-dd0ada488563"
+      ]
+    },
+    {
+      "step_number": 17,
+      "instruction": "Assemble the Dish"
+    },
+    {
+      "step_number": 18,
+      "instruction": "Drizzle the cooked dumplings with melted butter.",
+      "ingredients_used": [
+        "a6be5499-98bb-569e-ab95-dd0ada488563"
+      ]
+    },
+    {
+      "step_number": 19,
+      "instruction": "Toss them in the poppy seed-sugar mixture until evenly coated."
+    },
+    {
+      "step_number": 20,
+      "instruction": "Serve and Enjoy"
+    },
+    {
+      "step_number": 21,
+      "instruction": "Serve warm, optionally with a dusting of extra powdered sugar or a drizzle of honey.",
+      "ingredients_used": [
+        "cce9abc6-6aea-5895-b186-f38f58752d78"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.slovakia-foods.co.uk/blog/post/sullance-s-makom-recipe-how-to-make-authentic-slovak-sweet-poppy-seed-rolls.html"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

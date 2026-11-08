@@ -1,0 +1,276 @@
+{
+  "id": "cc75381d-99ac-5bca-bcb0-c9764d661979",
+  "version": "1.0.0",
+  "title": "Wontons",
+  "slug": "wontons",
+  "summary": "Fried wontons filled with a mixture of ground pork, aromatics, and finely chopped vegetables.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:51:49Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52948"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/1525876468.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/1525876468.jpg/small",
+      "alt_text": "Photo of Wontons",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=9h9No18ZyCI"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6813a95e-62cf-55e7-9d4b-6f19ee1d7391",
+        "slug": "chinese",
+        "name": "Chinese"
+      }
+    ],
+    "tags": [
+      "mainmeal"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course",
+      "appetizer"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of wontons"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "sesame",
+      "celery"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "fish",
+      "shellfish",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "3e42d769-d711-5262-a6ea-3a664b7c2992",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "ae3dee6d-8576-5d40-9735-5d67537a7c40",
+          "ingredient_id": "f16b4344-55cf-5ee7-a3a2-d8f68550bd18",
+          "name": "pork",
+          "display_text": "1lb Pork",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "06fcbaf9-bbe0-5118-9ac9-6656ee3a9009",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "3 chopped Garlic Clove",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3059d466-b18f-5df0-8c9d-a870e2e355c7",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "1 tsp Ginger",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "8398f9ae-80c0-5b98-8022-816078e01d5a",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "1 tbs Soy Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "7922f025-75db-5f0b-82fe-b65dbf6753a7",
+          "ingredient_id": "653731ca-07ee-57df-aa38-0f8f2b71ccc6",
+          "name": "sesame seed oil",
+          "display_text": "1 tsp Sesame Seed Oil",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "e0e97dc9-b867-59c6-9050-389ac7e65f36",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "3 finely chopped Carrots",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "42f440e7-024a-557a-bd02-3f707fa8ac62",
+          "ingredient_id": "ed4951b3-26e6-5bb4-a5af-9c61a46687a0",
+          "name": "celery",
+          "display_text": "3 finely chopped Celery",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b4875576-387c-5bac-b6d7-340a363ead38",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "6 chopped Spring Onions",
+          "quantity": 6.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c19294d3-1091-530e-ab2f-15ff9b308814",
+          "ingredient_id": "2bdb51bc-a0ff-5faf-92a5-0c61fd49d563",
+          "name": "wonton skin",
+          "display_text": "1 Packet Wonton Skin",
+          "quantity": 1.0,
+          "unit": "packet",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "9299d7c6-2a2e-5e3e-8c07-af2766a8337c",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "Fry Oil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "fry",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "c8277f17-5160-5c69-ad94-d265de0643ca",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "Bottle Water",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "bottle",
+          "is_optional": false,
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Combine pork, garlic, ginger, soy sauce, sesame oil, and vegetables in a bowl.",
+      "ingredients_used": [
+        "ae3dee6d-8576-5d40-9735-5d67537a7c40",
+        "3059d466-b18f-5df0-8c9d-a870e2e355c7",
+        "8398f9ae-80c0-5b98-8022-816078e01d5a",
+        "9299d7c6-2a2e-5e3e-8c07-af2766a8337c"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Separate wonton skins.",
+      "ingredients_used": [
+        "c19294d3-1091-530e-ab2f-15ff9b308814"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Place a heaping teaspoon of filling in the center of the wonton."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Brush water on 2 borders of the skin, covering 1/4 inch from the edge.",
+      "ingredients_used": [
+        "c19294d3-1091-530e-ab2f-15ff9b308814",
+        "c8277f17-5160-5c69-ad94-d265de0643ca"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Fold skin over to form a triangle, sealing edges.",
+      "ingredients_used": [
+        "c19294d3-1091-530e-ab2f-15ff9b308814"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Pinch the two long outside points together."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Heat oil to 450 degrees and fry 4 to 5 at a time until golden.",
+      "ingredients_used": [
+        "9299d7c6-2a2e-5e3e-8c07-af2766a8337c"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Drain and serve with sauce."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://www.geniuskitchen.com/recipe/chinese-wontons-20235"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

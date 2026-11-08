@@ -1,0 +1,193 @@
+{
+  "id": "ea76a1de-311e-55b5-8ce4-311c6f10bc0e",
+  "version": "1.0.0",
+  "title": "Chicken wings with cumin, lemon & garlic",
+  "slug": "chicken-wings-with-cumin-lemon-garlic",
+  "summary": "Turkish-style chicken wings marinated in a blend of garlic, lemon, and cumin, then roasted or barbecued with a honey glaze.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:18:35Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53261"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/4hzyvq1763792564.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/4hzyvq1763792564.jpg/small",
+      "alt_text": "Photo of Chicken wings with cumin, lemon & garlic",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=hmJPOVzMvK4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4c480df7-c067-5e9c-ac08-d8d49afa7f51",
+        "slug": "turkish",
+        "name": "Turkish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch",
+      "snack"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 50,
+    "marinating_time_minutes": 60,
+    "total_time_minutes": 125
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "3 chicken wings"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": [
+      "tree_nuts"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "d990aa02-7ef3-54e8-a57b-f1f7372e9cb0",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "b30c10ae-1ef2-5b62-a3a7-0287da5dc391",
+          "ingredient_id": "d75e5426-d3ce-5e38-8e5b-8d62128506e7",
+          "name": "chicken wings",
+          "display_text": "12 Chicken Wings",
+          "quantity": 12.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "f0fb3c2e-98f7-50dd-b422-df79b70fb837",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves minced Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "minced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d3e51a02-7f51-5144-a858-6dda06f45829",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "Zest and juice of 1 Lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "zest and juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "776d8b7e-c341-54b5-9448-1beb381bd374",
+          "ingredient_id": "e03a9d77-1724-50c7-abdd-1b6af998189f",
+          "name": "cumin seeds",
+          "display_text": "1 tsp Cumin Seeds",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "213f1d6a-5f5c-5d6e-b96f-bb4d23008aac",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tablespoons Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "33f0e895-1b0d-5316-8fc8-50c6571f3b74",
+          "ingredient_id": "7ad11d6e-3134-5831-97df-4db2a67589f7",
+          "name": "honey",
+          "display_text": "1 tablespoon Honey",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Using a pair of sharp kitchen scissors, cut each wing at the knuckle into two pieces. Mix the garlic, lemon zest and juice, cumin and oil with plenty of seasoning, then tip into a dish with the chicken wings and toss to coat. Cover and put in the fridge to marinate for at least 1 hr, or overnight if you have time.",
+      "timer_seconds": 3600,
+      "ingredients_used": [
+        "b30c10ae-1ef2-5b62-a3a7-0287da5dc391",
+        "f0fb3c2e-98f7-50dd-b422-df79b70fb837",
+        "d3e51a02-7f51-5144-a858-6dda06f45829"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat oven to 200C/180C fan/gas 6, or heat an outdoor barbecue. Bake the chicken wings on an oven tray for 45-50 mins until crisp, or barbecue for 20 mins, drizzling over the honey for the final 10 mins of each method. Serve on a platter with plenty of paper napkins. Fill small bowls with olives, pistachios or almonds, dates and pickled chillies and flatbreads to serve alongside, along with the dishes below.",
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "b30c10ae-1ef2-5b62-a3a7-0287da5dc391",
+        "33f0e895-1b0d-5316-8fc8-50c6571f3b74"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/chicken-wings-cumin-lemon-garlic"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

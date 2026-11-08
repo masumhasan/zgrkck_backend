@@ -1,0 +1,258 @@
+{
+  "id": "24722f44-f67e-5ef1-b322-8ab971b3cfda",
+  "version": "1.0.0",
+  "title": "Treacle Tart",
+  "slug": "treacle-tart",
+  "summary": "A classic British dessert consisting of a shortcrust pastry shell filled with a sweet mixture of golden syrup and breadcrumbs, topped with a lattice pastry crust.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:46:49Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52892"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/wprvrw1511641295.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/wprvrw1511641295.jpg/small",
+      "alt_text": "Photo of Treacle Tart",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=YMmgKCNcqwI"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "tart"
+    ],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 40,
+    "total_time_minutes": 70
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "115749a1-ada4-5705-9a79-b7283c7323d2",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "bd70b810-cce4-5d0c-8cce-5998a7079d47",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "250g Plain Flour",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "847d316a-6901-5dcf-8504-6e480f8160bb",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "135g Butter",
+          "quantity": 135.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 135.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "9e4abde5-2193-58fd-aeb1-0953aed944d1",
+          "ingredient_id": "c41764f1-4930-56cd-9515-4a677dd7e880",
+          "name": "golden syrup",
+          "display_text": "400g Golden Syrup",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "52462e5a-1bd3-50ea-92ff-837225a6dedf",
+          "ingredient_id": "00efa231-6d81-5c88-91fa-b330117cc5f4",
+          "name": "breadcrumbs",
+          "display_text": "150g Breadcrumbs",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "03b85c2a-a910-511d-9bc7-38a55398b232",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemons",
+          "display_text": "Zest of 2 Lemons",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "zest",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "79037f2d-ea0e-5b7b-90b3-3dc91f067b3d",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "1 beaten Eggs",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "beaten",
+          "is_optional": false,
+          "category": "eggs"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "First make the short crust pastry: measure the flour into a large bowl and rub in the butter with your fingertips until the mixture resembles fine breadcrumbs (alternatively, this can be done in a food processor). Add about three tablespoons of cold water and mix to a firm dough, wrap in cling film and chill in the fridge for about 20 minutes.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "847d316a-6901-5dcf-8504-6e480f8160bb",
+        "52462e5a-1bd3-50ea-92ff-837225a6dedf"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Preheat the oven to 200C/400F/Gas 6 and put a heavy baking tray in the oven to heat up. Grease a deep 18cm/7in loose-bottomed fluted flan tin with butter.",
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "847d316a-6901-5dcf-8504-6e480f8160bb"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Remove about 150g/5½oz of pastry from the main ball and set aside for the lattice top."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Roll the rest of the pastry out thinly on a lightly floured work surface and line the prepared flan tin with the pastry."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Prick the base with a fork, to stop the base rising up during baking."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Place the reserved pastry for the lattice top on cling film and roll out thinly. Egg wash the pastry and set aside to chill in the fridge (the cling film makes it easier to move about). Do not cut into strips at this stage. Do not egg wash the strips once they are on the tart as it will drip into the treacle mixture."
+    },
+    {
+      "step_number": 7,
+      "instruction": "To make the filling, heat the syrup gently in a large pan but do not boil.",
+      "ingredients_used": [
+        "9e4abde5-2193-58fd-aeb1-0953aed944d1"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Once melted, add the breadcrumbs, lemon juice and zest to the syrup. (You can add less lemon if you would prefer less citrus taste.) If the mixture looks runny, add a few more breadcrumbs.",
+      "ingredients_used": [
+        "9e4abde5-2193-58fd-aeb1-0953aed944d1",
+        "52462e5a-1bd3-50ea-92ff-837225a6dedf"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Pour the syrup mixture into the lined tin and level the surface.",
+      "ingredients_used": [
+        "9e4abde5-2193-58fd-aeb1-0953aed944d1"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "Remove the reserved pastry from the fridge and cut into long strips, 1cm/½in wide. Make sure they are all longer than the edges of the tart tin."
+    },
+    {
+      "step_number": 11,
+      "instruction": "Egg wash the edge of the pastry in the tin, and start to make the woven laying lattice pattern over the mixture, leave the strips hanging over the edge of the tin."
+    },
+    {
+      "step_number": 12,
+      "instruction": "Once the lattice is in place, use the tin edge to cut off the strips by pressing down with your hands, creating a neat finish."
+    },
+    {
+      "step_number": 13,
+      "instruction": "Bake on the pre-heated baking tray in the hot oven for about 10 minutes until the pastry has started to color, and then reduce the oven temperature to 180C/350F/Gas 4. If at this stage the lattice seems to be getting too dark brown, cover the tart with tin foil.",
+      "timer_seconds": 600,
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 14,
+      "instruction": "Bake for a further 25-30 minutes until the pastry is golden-brown and the filling set.",
+      "timer_seconds": 1800
+    },
+    {
+      "step_number": 15,
+      "instruction": "Remove the tart from the oven and leave to firm up in the tin. Serve warm or cold."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbc.co.uk/food/recipes/mary_berrys_treacle_tart_28524"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "id": "363bc585-9c2d-5595-8c3c-7c79b4e8e5ab",
+  "version": "1.0.0",
+  "title": "Smoky tomato pepper salsa",
+  "slug": "smoky-tomato-pepper-salsa",
+  "summary": "A Brazilian-style salsa made with red onions, cherry tomatoes, and red pepper, seasoned with smoked paprika and red wine vinegar.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:37:45Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53479"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/hkz4k71782590338.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/hkz4k71782590338.jpg/small",
+      "alt_text": "Photo of Smoky tomato pepper salsa",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6675856e-6919-5ea9-9f7a-8bf7f195e27f",
+        "slug": "brazilian",
+        "name": "Brazilian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 10
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "portions",
+    "serving_size_description": "1/2 cup salsa"
+  },
+  "allergens": {
+    "contains": [
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "3b20c3a3-7b6a-55f6-9187-46784d0d01b9",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "d6bd2e4d-3d4f-57ca-b8bb-1040a7d69311",
+          "ingredient_id": "716f7639-3b59-56a7-9146-1819649ebdad",
+          "name": "red onions",
+          "display_text": "1 small Red Onions",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "82a30f9c-5d62-5fd5-9dc7-c1f5233c9194",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "Bunch Coriander",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "bunch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "518baac9-8694-5fa7-9db7-c2ee3b13373c",
+          "ingredient_id": "041e90f7-87c0-5883-b651-a9f26dce39b7",
+          "name": "cherry tomatoes",
+          "display_text": "125g Cherry Tomatoes",
+          "quantity": 125.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 125.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "582f21a8-0929-55b3-8213-0b3c3f21845d",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1/2 Red Pepper",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f319c98c-0e74-59a4-b48b-8fc1370d8398",
+          "ingredient_id": "96cc0c2b-795a-53be-a503-05d14e92b236",
+          "name": "extra virgin olive oil",
+          "display_text": "3  tablespoons Extra Virgin Olive Oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "940e428a-d6bc-5918-8208-9962f6a379e7",
+          "ingredient_id": "38df984b-29a1-5431-8935-d850dfe8f8f7",
+          "name": "red wine vinegar",
+          "display_text": "2 tablespoons Red Wine Vinegar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "77a3beb6-68c9-5eda-ba2d-f0ad9234c865",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1 1/2 tsp Paprika",
+          "quantity": 1.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "4841c8af-3a75-5c48-940a-c9e7c6a906cb",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "Pinch Sugar",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "sweeteners"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Put all the ingredients in a food processor and pulse until chopped, but not too fine. Pour into a serving bowl and add seasoning and a pinch of sugar.",
+      "ingredients_used": [
+        "4841c8af-3a75-5c48-940a-c9e7c6a906cb"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/smoky-tomato-pepper-salsa"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

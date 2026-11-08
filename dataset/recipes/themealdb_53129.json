@@ -1,0 +1,236 @@
+{
+  "id": "4d43cdc3-dd96-5747-9687-28402f93cc98",
+  "version": "1.0.0",
+  "title": "Norwegian Krumkake",
+  "slug": "norwegian-krumkake",
+  "summary": "Norwegian Krumkake are thin, crisp, waffle-like cookies traditionally shaped into cones while still warm. They are flavored with cardamom and nutmeg.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:06:52Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53129"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/z9g8011763075640.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/z9g8011763075640.jpg/small",
+      "alt_text": "Photo of Norwegian Krumkake",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=7JXuI2V2MLg"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "56e78dbc-276d-5104-bca5-2bb213b93a49",
+        "slug": "norwegian",
+        "name": "Norwegian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "christmas"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 20,
+    "marinating_time_minutes": 30,
+    "total_time_minutes": 65
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "pieces",
+    "serving_size_description": "2 krumkake cookies"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "2809517d-ff8d-55b8-86dd-140bb92f7e3e",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "92fa8ea5-0ce0-5a64-8022-71c28207d7c1",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "3 Large Egg",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "85c13705-265f-5e01-9b98-0b6a4cc3b749",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "3/4 cup Sugar",
+          "quantity": 0.75,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 180.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "b3b0a2af-fe17-55af-9727-533dbf5ddae2",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "2/3 Cup Butter",
+          "quantity": 0.6667,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 160.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "6a02f97a-50d7-5713-980f-e639885ecfff",
+          "ingredient_id": "d72c12ae-5cbc-534c-bbd5-bc044d844d0a",
+          "name": "cardamom",
+          "display_text": "1 teaspoon Cardamom",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "94f1b588-d5b5-538e-a24a-b2dd22ace35e",
+          "ingredient_id": "9426e9cd-e7b2-540e-8ddb-187c01748931",
+          "name": "nutmeg",
+          "display_text": "1 pinch Nutmeg",
+          "quantity": 1.0,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e0f573e4-f7ba-5caa-b1eb-fe10485e595f",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/2 teaspoon Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "5aa23428-2016-5351-ba0a-0964b44318ce",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "1 1/4 cup Flour",
+          "quantity": 1.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "daad90e8-9f0a-57d7-b9dd-5f91bccf5564",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "Splash Water",
+          "quantity": 1,
+          "unit": "splash",
+          "is_optional": false,
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Whisk the egg and sugar until the mixture thickens.",
+      "ingredients_used": [
+        "92fa8ea5-0ce0-5a64-8022-71c28207d7c1",
+        "85c13705-265f-5e01-9b98-0b6a4cc3b749"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Melt the butter and let it cool slightly, then add the butter to the egg mixture.",
+      "ingredients_used": [
+        "92fa8ea5-0ce0-5a64-8022-71c28207d7c1",
+        "b3b0a2af-fe17-55af-9727-533dbf5ddae2"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Mix in spices and then slowly add the flour while stirring to avoid lumps.",
+      "ingredients_used": [
+        "5aa23428-2016-5351-ba0a-0964b44318ce"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Let the batter rest for at least 30 minutes. This improves the texture of the krumkaker.",
+      "timer_seconds": 1800
+    },
+    {
+      "step_number": 5,
+      "instruction": "Spoon about one heaping tablespoon of batter onto iron and bake. If the batter is too thick, add some water to it.",
+      "ingredients_used": [
+        "daad90e8-9f0a-57d7-b9dd-5f91bccf5564"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "While still hot, shape the krumkake with a wooden krumkake roller or over a cup (if using a cup, make them a bit thicker). The krumkaker harden quickly, so you can just let them sit on the roller/cup until the next krumkake is ready to be shaped."
+    },
+    {
+      "step_number": 7,
+      "instruction": "After completely cooled, store the krumkaker in a metal or glass tin lined with paper towels at the bottom. You can also freeze them!"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://scandinaviancookbook.com/norwegian-krumkake/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

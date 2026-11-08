@@ -1,0 +1,211 @@
+{
+  "id": "1857922f-c98c-576e-9a8e-8684a9c4c2fc",
+  "version": "1.0.0",
+  "title": "Sugar Pie",
+  "slug": "sugar-pie",
+  "summary": "A traditional Canadian dessert consisting of a creamy custard-like filling made from brown sugar, eggs, and milk baked in a pie dish.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:50:13Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52931"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/yrstur1511816601.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/yrstur1511816601.jpg/small",
+      "alt_text": "Photo of Sugar Pie",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=uVQ66jiL-Dc"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "54838e2c-2c59-558b-8932-e019f7cc6d0c",
+        "slug": "canadian",
+        "name": "Canadian"
+      }
+    ],
+    "tags": [
+      "desert",
+      "pie"
+    ],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "holiday"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 50,
+    "rest_time_minutes": 60,
+    "total_time_minutes": 120
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 slice of pie"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "318847bc-6aee-52b5-a40f-bef08a004e97",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "ddca1baa-1361-548a-8caf-eddc2d214328",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "2 cups Brown Sugar",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "401d81b8-2fc0-5863-afad-f7878ff01d7f",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "¼ cup Butter",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "dd69f147-ada3-5ffc-ac33-623ac6454bbf",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "2 Eggs",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "9af9d93f-97cb-5a49-b72a-8b9d0c67ebd1",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1 tsp Vanilla Extract",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "06c64ccc-a54a-5d09-aca9-440609f65a97",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "d6baad6c-3f0a-5440-b033-03bbe71b256c",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "½ cup Plain Flour",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "78a6a10f-d561-514c-aab2-4aaf11a8749d",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "1 1/2 cups Milk",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat oven to 350 degrees F (175 degrees C). Grease a 9-inch pie dish.",
+      "temperature": {
+        "value": 350,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "Place the brown sugar and butter in a mixing bowl, and beat them together with an electric mixer until creamy and very well combined, without lumps. Beat in eggs, one at a time, incorporating the first egg before adding the next one. Add the vanilla extract and salt; beat the flour in, a little at a time, and then the milk, making a creamy batter. Pour the batter into the prepared pie dish.",
+      "ingredients_used": [
+        "ddca1baa-1361-548a-8caf-eddc2d214328",
+        "401d81b8-2fc0-5863-afad-f7878ff01d7f",
+        "dd69f147-ada3-5ffc-ac33-623ac6454bbf",
+        "9af9d93f-97cb-5a49-b72a-8b9d0c67ebd1",
+        "06c64ccc-a54a-5d09-aca9-440609f65a97",
+        "78a6a10f-d561-514c-aab2-4aaf11a8749d"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Bake in the preheated oven for 35 minutes; remove pie, and cover the rim with aluminum foil to prevent burning. Return to oven, and bake until the middle sets and the top forms a crusty layer, about 15 more minutes. Let the pie cool to room temperature, then refrigerate for at least 1 hour before serving."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://allrecipes.com/recipe/213595/miraculous-canadian-sugar-pie/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

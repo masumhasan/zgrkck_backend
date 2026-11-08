@@ -1,0 +1,243 @@
+{
+  "id": "05344491-ca0f-5ad1-b5fe-b86b326b4b6b",
+  "version": "1.0.0",
+  "title": "Black bean & meat stew - feijoada",
+  "slug": "black-bean-meat-stew-feijoada",
+  "summary": "A hearty Brazilian stew made with black beans, various cuts of pork, and chorizo. It is traditionally slow-cooked until the meat is tender and the beans are soft.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:38:02Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53482"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/xrxz7h1782592711.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/xrxz7h1782592711.jpg/small",
+      "alt_text": "Photo of Black bean & meat stew - feijoada",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6675856e-6919-5ea9-9f7a-8bf7f195e27f",
+        "slug": "brazilian",
+        "name": "Brazilian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 120,
+    "total_time_minutes": 135
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "a large bowl of stew"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "a3e32d24-0a24-5ddf-a59b-dece567871fe",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "495b0154-df24-583e-b037-06cf9a030532",
+          "ingredient_id": "4958b57f-af77-572c-8240-fdfa5d5543c8",
+          "name": "black beans",
+          "display_text": "250g Black Beans",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "6cd7f5b7-c256-5082-a920-2e347e0cf8c6",
+          "ingredient_id": "956cfefc-d0f9-5c1f-9f20-d38a1e4dbdad",
+          "name": "bacon",
+          "display_text": "100g Bacon",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "51c1d480-7bfa-5fec-8af0-9ac99309783e",
+          "ingredient_id": "d68580e2-0915-51bf-b4ba-4604052b66d8",
+          "name": "pork back ribs",
+          "display_text": "500g Pork Back Ribs",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "e1722c42-26c6-5aac-a7bf-bb20cb616070",
+          "ingredient_id": "d4235a95-0bb4-579b-8855-bbb8f4efeb46",
+          "name": "chorizo",
+          "display_text": "3 Chorizo",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "6a393cb3-cac6-5611-bc96-74aad07a93ba",
+          "ingredient_id": "d9ebfce1-d14a-5b53-afb1-816b0200e76b",
+          "name": "pork shoulder",
+          "display_text": "500g Pork Shoulder",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "16692d76-efc9-5c5b-9b38-abcd0c23a1dc",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "3 chopped Onion",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f37006a1-6d97-55cb-87ce-9e20b68bdd89",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "4 Cloves Chopped Garlic",
+          "quantity": 4.0,
+          "unit": "clove",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "88c80b18-501f-5002-a2ae-61ceb4ebc25b",
+          "ingredient_id": "25e62537-6a4e-5945-adda-37c29baeffdd",
+          "name": "chilli flakes",
+          "display_text": "Pinch Chilli Flakes",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "afdd59f9-ce2d-5d68-bd91-cbc0e6094b1f",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "Drizzle Oil",
+          "quantity": 1,
+          "unit": "drizzle",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "cc8e7530-72cb-54d8-a6cb-4e06c1271dd0",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "2 Bay Leaf",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat a large heavy-based saucepan with a fitted lid, add the bacon and fry until crisp. Remove and keep the oil in the pan. In batches sear the ribs, sausages and pork shoulder. Season each batch with salt and pepper.",
+      "ingredients_used": [
+        "6cd7f5b7-c256-5082-a920-2e347e0cf8c6",
+        "51c1d480-7bfa-5fec-8af0-9ac99309783e",
+        "6a393cb3-cac6-5611-bc96-74aad07a93ba",
+        "afdd59f9-ce2d-5d68-bd91-cbc0e6094b1f"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Remove the meat and set aside. Add the onion, garlic and chilli to the pan. Pour in a little olive oil if it needs more. Season with salt and pepper and fry for 8 mins or until soft.",
+      "timer_seconds": 480,
+      "ingredients_used": [
+        "16692d76-efc9-5c5b-9b38-abcd0c23a1dc",
+        "f37006a1-6d97-55cb-87ce-9e20b68bdd89",
+        "afdd59f9-ce2d-5d68-bd91-cbc0e6094b1f"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the meat, bay leaves, white wine vinegar and drained beans. Cover with just enough water to cover, about 650ml. Bring to a boil and reduce the heat to a low simmer. Cover and cook for 2 hrs, or until the beans are soft and the meat is tender. If there is too much liquid in the pot take the lid off in the last hr. You can also use a slow cooker on the short method (4 hr) or make a quick version using a pressure cooker in batches for 30 mins each. Another method is to cook it in the oven for 3-4 hrs at 160C/140C fan/gas 3.",
+      "temperature": {
+        "value": 160,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "495b0154-df24-583e-b037-06cf9a030532"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Serve with rice, a sprinkle of parsley or coriander, hot pepper sauce and orange slices."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/black-bean-meat-stew-feijoada"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

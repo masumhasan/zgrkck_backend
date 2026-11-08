@@ -1,0 +1,259 @@
+{
+  "id": "2a5c6519-6dba-5a7b-83b8-a696e180ca4a",
+  "version": "1.0.0",
+  "title": "Codfish deviled eggs",
+  "slug": "codfish-deviled-eggs",
+  "summary": "A Dominican-style appetizer featuring hard-boiled egg whites filled with a creamy yolk mixture and topped with codfish.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:45:15Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53561"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/vayi021784668764.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/vayi021784668764.jpg/small",
+      "alt_text": "Photo of Codfish deviled eggs",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4da88d96-f05f-5f73-a14b-c5e37ee2541e",
+        "slug": "dominican",
+        "name": "Dominican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "breakfast"
+    ],
+    "courses": [
+      "appetizer"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 deviled egg"
+  },
+  "allergens": {
+    "contains": [
+      "eggs",
+      "fish",
+      "mustard"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "shellfish",
+      "sesame",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "7eb5d348-1c8b-562e-a27d-3f6e75ce8de2",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "71855653-c582-5f39-bf0a-b91bdf6775fd",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "12 Eggs",
+          "quantity": 12.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "955a4322-4355-57b1-b856-1a2fc43c6072",
+          "ingredient_id": "6a3a5ec7-7840-5eff-a3ce-0e3aafbaa822",
+          "name": "mayonnaise",
+          "display_text": "7 tablespoons Mayonnaise",
+          "quantity": 7.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 105.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "e3111fd6-b59c-5ae4-9b15-d29964151777",
+          "ingredient_id": "b9e3afdc-e194-5f5e-bbae-5c3659d35a67",
+          "name": "mustard",
+          "display_text": "1 tsp Mustard",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "038ddbfb-8065-5161-896f-5650959fb032",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "To taste Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "ab60ec55-8fb7-55eb-abb6-32b45272d403",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "96be9a36-17bb-5b9a-98ed-b1c8fb3888bc",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "Pinch Paprika",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "21df025c-c841-5711-b89c-6377984a22ad",
+          "ingredient_id": "85291054-0b21-5fc5-ac52-86bee20f4bbc",
+          "name": "chives",
+          "display_text": "Garnish Chives",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "garnish",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "2a1effdf-5a77-509c-9917-9ae05a6d69d4",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "Garnish Black Pepper",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "garnish",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "1a593d5d-cb1a-59b2-b074-644105f0ae69",
+          "ingredient_id": "9d9fa904-c94d-500e-849d-81ff7e4ed04c",
+          "name": "codfish bulljaw",
+          "display_text": "Topping Codfish Bulljaw",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "topping",
+          "is_optional": false,
+          "category": "fish"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Bring eggs to a boil for 15 minutes. Let eggs sit in the water for another 5. Run under cold water",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "71855653-c582-5f39-bf0a-b91bdf6775fd"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "let eggs further cool",
+      "ingredients_used": [
+        "71855653-c582-5f39-bf0a-b91bdf6775fd"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Rest eggs",
+      "ingredients_used": [
+        "71855653-c582-5f39-bf0a-b91bdf6775fd"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Peel eggs",
+      "ingredients_used": [
+        "71855653-c582-5f39-bf0a-b91bdf6775fd"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Cut eggs in half and remove egg yolks, place them in bowl",
+      "ingredients_used": [
+        "71855653-c582-5f39-bf0a-b91bdf6775fd"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Mash egg yolks in a bowl"
+    },
+    {
+      "step_number": 7,
+      "instruction": "Combine all ingredients except for chives and peppercorns",
+      "ingredients_used": [
+        "21df025c-c841-5711-b89c-6377984a22ad"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Put the mixture in a piping bag or plastic bag"
+    },
+    {
+      "step_number": 9,
+      "instruction": "Fill egg slices with the mixture"
+    },
+    {
+      "step_number": 10,
+      "instruction": "Add codfish on the wider side of the egg"
+    },
+    {
+      "step_number": 11,
+      "instruction": "Garnish with crushed peppercorn and chive"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://dominicagourmet.com/codfish-deviled-eggs-recipe/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

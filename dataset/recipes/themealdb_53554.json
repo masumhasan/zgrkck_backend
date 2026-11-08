@@ -1,0 +1,249 @@
+{
+  "id": "b53fe77a-7b86-55ce-adcb-874d80ad0aff",
+  "version": "1.0.0",
+  "title": "Open-faced Sandwich With Potato",
+  "slug": "open-faced-sandwich-with-potato",
+  "summary": "A Danish open-faced sandwich featuring boiled new potatoes, crispy fried onion rings, and bacon served on buttered rye bread.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:44:29Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53554"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/wooxjq1784663522.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/wooxjq1784663522.jpg/small",
+      "alt_text": "Photo of Open-faced Sandwich With Potato",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "11f008d8-4600-56c5-aaa2-cde07db70a5a",
+        "slug": "danish",
+        "name": "Danish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 25,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 45
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "2 slices of rye bread with potato, bacon, and onion"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "45fcb28f-ac73-53f8-ab7a-52178e726946",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "5a0721b0-93d7-5b72-b9fb-ed2f37e776d3",
+          "ingredient_id": "41049e61-611a-545b-8a7c-13e15a6e843b",
+          "name": "new potatoes",
+          "display_text": "500g New Potatoes",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "7252d5b6-cab8-5f32-90ed-9ee3b111e63b",
+          "ingredient_id": "956cfefc-d0f9-5c1f-9f20-d38a1e4dbdad",
+          "name": "bacon",
+          "display_text": "4 slices Bacon",
+          "quantity": 4.0,
+          "unit": "slice",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "1b3e1547-71fe-52bf-851c-4fd3f630f045",
+          "ingredient_id": "6a3a5ec7-7840-5eff-a3ce-0e3aafbaa822",
+          "name": "mayonnaise",
+          "display_text": "4 tablespoons Mayonnaise",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "5b87cf00-9118-54b4-8f32-238fa3587323",
+          "ingredient_id": "85291054-0b21-5fc5-ac52-86bee20f4bbc",
+          "name": "chives",
+          "display_text": "Handful Chives",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d6b89a81-0d03-5d13-972f-c776e0bfe15b",
+          "ingredient_id": "3d79fabd-7fe0-5b24-b087-9ec7fd95037d",
+          "name": "rye bread",
+          "display_text": "8 slices Rye Bread",
+          "quantity": 8.0,
+          "unit": "slice",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "f73b0e83-a78d-5c22-a748-50fe75304b2e",
+          "ingredient_id": "716f7639-3b59-56a7-9146-1819649ebdad",
+          "name": "red onions",
+          "display_text": "2 Red Onions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7a8d44ef-73ea-5f14-b2ab-6f5aa129154d",
+          "ingredient_id": "d1e5ec78-b8c2-5649-962c-a9f67272ea92",
+          "name": "all purpose flour",
+          "display_text": "1/2 cup All purpose flour",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "799489db-694a-5ee3-b99f-9741aed0ad48",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "1 1/4 cup Vegetable Oil",
+          "quantity": 1.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "52b55855-35be-577b-af17-36eda4c098a2",
+          "ingredient_id": "9ffd51ab-918f-5fa2-838e-51c491b97dd2",
+          "name": "sea salt",
+          "display_text": "Pinch Sea Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Scrub the potatoes clean and place in a small saucepan with water and 1 tablespoon of salt. Bring to a boil and simmer the potatoes for about 10 minutes. Turn off the heat and let the potatoes stand in the water for 5 minutes. Drain the potatoes and allow to cool slightly. Remember that potatoes come in various sizes, so the cooking time may vary – if they do not easily glide off of a fork when speared and lifted out of the water, they are not done yet.",
+      "ingredients_used": [
+        "5a0721b0-93d7-5b72-b9fb-ed2f37e776d3",
+        "52b55855-35be-577b-af17-36eda4c098a2"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Fry bacon slices and transfer to a dish lined with paper towels.",
+      "ingredients_used": [
+        "7252d5b6-cab8-5f32-90ed-9ee3b111e63b"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Peel the red onion and slice in thin rings."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Transfer the flour to a bowl and toss the onions in the flour. Remove onions and shake off excess flour.",
+      "ingredients_used": [
+        "f73b0e83-a78d-5c22-a748-50fe75304b2e"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Heat the oil in a saucepan over medium heat. You can test whether the oil is hot enough by adding a small piece of onion to the saucepan. If the oil bubbles around the onion, the oil is ready."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Transfer as many onion rings to the saucepan as can fit in one layer. Do not add too many onion rings at once."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Fry the onions for a couple of minutes until they are golden brown. Transfer onions to a dish lined with paper towels and sprinkle with salt. Repeat the process until all onions are fried.",
+      "ingredients_used": [
+        "f73b0e83-a78d-5c22-a748-50fe75304b2e",
+        "52b55855-35be-577b-af17-36eda4c098a2"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Butter a slice of dark rye bread and arrange round potato slices (or, if the potatoes are very small, halved potatoes) on top. Top your open potato sandwich with a good mayonnaise, crispy fried onions, fried bacon and sliced chives.",
+      "ingredients_used": [
+        "5a0721b0-93d7-5b72-b9fb-ed2f37e776d3",
+        "7252d5b6-cab8-5f32-90ed-9ee3b111e63b",
+        "1b3e1547-71fe-52bf-851c-4fd3f630f045",
+        "5b87cf00-9118-54b4-8f32-238fa3587323",
+        "d6b89a81-0d03-5d13-972f-c776e0bfe15b",
+        "f73b0e83-a78d-5c22-a748-50fe75304b2e"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://denmark.dk/people-and-culture/recipes/open-sandwich-with-potato/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

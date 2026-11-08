@@ -1,0 +1,311 @@
+{
+  "id": "a3d8da57-c873-5bb1-b5e9-269267faf458",
+  "version": "1.0.0",
+  "title": "Pork Cassoulet",
+  "slug": "pork-cassoulet",
+  "summary": "A traditional French slow-cooked stew featuring pork, haricot beans, and aromatic vegetables simmered in a savory broth.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:42:45Z",
+  "updated_at": "2026-10-16T10:22:48Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52847"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/wxuvuv1511299147.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/wxuvuv1511299147.jpg/small",
+      "alt_text": "Photo of Pork Cassoulet",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=MEdHMTD0VCA"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "fe8f07a1-591f-5711-ae5b-f3c9afcc3e60",
+        "slug": "french",
+        "name": "French"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 155,
+    "total_time_minutes": 170
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a bowl of stew with beans and pork"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "5104343b-a3bd-513f-9a72-afb2f0f6f0ba",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "d00a4e60-c554-5003-ae7f-e860cbfd3b2a",
+          "ingredient_id": "bd24bb8a-c18e-52a5-bc53-8249b7e7d8b8",
+          "name": "goose fat",
+          "display_text": "4 tbsp Goose Fat",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "poultry"
+        },
+        {
+          "id": "89dc1bfa-f212-5ad5-bdc5-f346d4ead421",
+          "ingredient_id": "f16b4344-55cf-5ee7-a3a2-d8f68550bd18",
+          "name": "pork",
+          "display_text": "350g Pork",
+          "quantity": 350.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 350.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "7a8a0d89-164c-506c-9081-549897b541a4",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 large Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "10a0aa2b-a541-5039-9a98-ee8dcd2c0bae",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "10 Garlic",
+          "quantity": 10.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "597d17b2-63e3-5a45-bbc1-ebc1195486a4",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "1 thinly sliced Carrots",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "thinly sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "68e26eb3-7e47-5b95-aa71-3ee8bb3c0a84",
+          "ingredient_id": "020529fb-59b6-53c9-af68-aa8298301e38",
+          "name": "fennel seeds",
+          "display_text": "1 tsp Fennel Seeds",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "4fbb5844-c875-58cf-9b02-890c16e40edf",
+          "ingredient_id": "38df984b-29a1-5431-8935-d850dfe8f8f7",
+          "name": "red wine vinegar",
+          "display_text": "2 tblsp Red Wine Vinegar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "1800dd59-4823-5950-93ef-4980e90602c6",
+          "ingredient_id": "2d490c0b-0744-5be5-a104-641c87b13636",
+          "name": "vegetable stock",
+          "display_text": "600ml Vegetable Stock",
+          "quantity": 600.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 600.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "aab1149e-4737-546f-979b-dbfd5359d880",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "1 tblsp Tomato Puree",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "f37d6d13-3100-5572-b78b-3eeab13843dd",
+          "ingredient_id": "b0bbff87-223e-5a9c-aa07-1ee472617b84",
+          "name": "rosemary",
+          "display_text": "2 sticks Rosemary",
+          "quantity": 2.0,
+          "unit": "stick",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "a5bec1ab-03fc-58b5-9fd9-f8c61e139d50",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Handful Parsley",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "7702949f-e113-532c-940e-46f064c91910",
+          "ingredient_id": "ff4b8abf-bb2c-518c-b32f-9c4e6f4963d3",
+          "name": "haricot beans",
+          "display_text": "400g Haricot Beans",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "6a596b9f-f5d0-5904-98bb-c1038acec409",
+          "ingredient_id": "00efa231-6d81-5c88-91fa-b330117cc5f4",
+          "name": "breadcrumbs",
+          "display_text": "2 tblsp Breadcrumbs",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "c48ac17f-e431-5d9f-9e73-b9cd32e641ca",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "drizzle Oil",
+          "quantity": 1,
+          "unit": "drizzle",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "08025449-4d2f-5629-bbb5-a94b6ac63c24",
+          "ingredient_id": "95128a6e-6409-5797-b33b-a94a27c5951f",
+          "name": "bread",
+          "display_text": "to serve Bread",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "567a7114-4ea1-5cac-ab89-5afea01d1b54",
+          "ingredient_id": "31e88f63-2128-56b2-a28a-224d203ee96c",
+          "name": "broccoli",
+          "display_text": "to serve Broccoli",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 140C/120C fan/gas 1. Put a large ovenproof pan (with a tight-fitting lid) on a high heat. Add your fat and diced meat, cook for a few mins to seal the edges, giving it a quick stir to cook evenly. Reduce the heat to low, add the sliced onion, whole garlic cloves, carrot and fennel seeds, and cook gently to soften the veg for a few mins.",
+      "temperature": {
+        "value": 140,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "7a8a0d89-164c-506c-9081-549897b541a4",
+        "10a0aa2b-a541-5039-9a98-ee8dcd2c0bae",
+        "68e26eb3-7e47-5b95-aa71-3ee8bb3c0a84"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Pour over the red wine vinegar, scraping any meaty bits off the bottom of the pan. Add the stock, tomato purée, and half the rosemary and parsley. Bring to the boil and simmer for 10 mins, then season, cover with a lid and put into the oven for 2 hrs, removing the lid for the final hour of cooking. Stir occasionally and add the beans with 30 mins to go.",
+      "ingredients_used": [
+        "4fbb5844-c875-58cf-9b02-890c16e40edf",
+        "f37d6d13-3100-5572-b78b-3eeab13843dd",
+        "a5bec1ab-03fc-58b5-9fd9-f8c61e139d50",
+        "7702949f-e113-532c-940e-46f064c91910"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Remove the pan from the oven and heat the grill. Scatter the top with the remaining herbs and breadcrumbs, drizzle a little oil over the top, and return to the oven for 5-10 mins, until the breadcrumbs are golden. Serve with crusty bread and green veg.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "6a596b9f-f5d0-5904-98bb-c1038acec409",
+        "c48ac17f-e431-5d9f-9e73-b9cd32e641ca",
+        "08025449-4d2f-5629-bbb5-a94b6ac63c24"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/jacks-pork-cassoulet"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

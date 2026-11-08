@@ -1,0 +1,280 @@
+{
+  "id": "ca52b905-c1fc-54d1-a34a-f4a08c8077fc",
+  "version": "1.0.0",
+  "title": "Eggplant Adobo",
+  "slug": "eggplant-adobo",
+  "summary": "A Filipino-style eggplant dish cooked in a savory and tangy sauce of vinegar, soy sauce, and garlic, complemented by browned ground pork.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:02:11Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53073"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/y7h0lq1683208991.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/y7h0lq1683208991.jpg/small",
+      "alt_text": "Photo of Eggplant Adobo",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=pKXACYjwMns"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "3e1a78f5-e83e-5b97-a090-8a1e2d2271a8",
+        "slug": "filipino",
+        "name": "Filipino"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "marinating_time_minutes": 20,
+    "total_time_minutes": 80
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of eggplant and pork with rice"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "2601ecd9-188b-5417-a667-ab3fa5d7b31a",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "8f9b9b77-f09c-528c-900e-a735a6a4b455",
+          "ingredient_id": "08b505fe-2af9-5025-98f3-845df35333e6",
+          "name": "egg plants",
+          "display_text": "1 lb Egg Plants",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "9b7c6728-8831-5334-9717-848ec50ca8f5",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "2 tbs Sugar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "2f0c3ec9-00e0-5a0d-9ff7-87d567c1bd9d",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "06e0b78a-97b8-5468-999b-0bc857c8cb3c",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "1 tsp Pepper",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "c47df465-776d-592c-9400-26e9c20f3923",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 whole Garlic",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "whole",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d19c14f0-8975-54f1-8a34-ba25375f2abd",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "3 tbs Olive Oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "10e063d9-8896-5787-a640-0cf627ae5297",
+          "ingredient_id": "43eb0e54-4681-5c1a-b0f7-d686895d5f7a",
+          "name": "ground pork",
+          "display_text": "4 oz Ground Pork",
+          "quantity": 4.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 113.4,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "d6521486-5f88-51ab-91a6-89f9d1d3c11e",
+          "ingredient_id": "cad15bc5-2770-5a5f-8572-c5ac5ad79569",
+          "name": "rice vinegar",
+          "display_text": "3 tbs Rice Vinegar",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "647a7f14-1401-50fa-861b-34d9b8dfcdb5",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "2 tbs Soy Sauce",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "39ce1117-0501-537f-89ea-aeeb3e7459c9",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "2 Bay Leaf",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Slice 1 lb. small Japanese or Italian eggplant (about 3) into quarters lengthwise, then cut crosswise into 2\"-wide pieces. Place in a medium bowl. Add 1 Tbsp. sugar, 1 tsp. Diamond Crystal or ½ tsp. Morton kosher salt, and ½ tsp. freshly ground black pepper. Toss to evenly coat eggplant and let sit at room temperature at least 20 minutes and up to 2 hours.",
+      "ingredients_used": [
+        "9b7c6728-8831-5334-9717-848ec50ca8f5",
+        "2f0c3ec9-00e0-5a0d-9ff7-87d567c1bd9d",
+        "06e0b78a-97b8-5468-999b-0bc857c8cb3c"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Peel and thinly slice 8 garlic cloves. Add 3 Tbsp. vegetable oil and half of garlic to a medium Dutch oven or other heavy pot. Cook over medium-high heat, stirring constantly with a wooden spoon, until light golden and crisp, about 5 minutes. Using a slotted spoon, transfer garlic chips to a plate; season lightly with salt.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "2f0c3ec9-00e0-5a0d-9ff7-87d567c1bd9d",
+        "c47df465-776d-592c-9400-26e9c20f3923"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Place 4 oz. ground pork in same pot and break up into small pieces with wooden spoon. Season with ¼ tsp. Diamond Crystal or Morton kosher salt and cook, undisturbed, until deeply browned underneath, about 5 minutes. Using a slotted spoon, transfer to another plate, leaving fat behind in the pot.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "2f0c3ec9-00e0-5a0d-9ff7-87d567c1bd9d",
+        "10e063d9-8896-5787-a640-0cf627ae5297"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Place eggplant on a clean kitchen towel and blot away any moisture the salt has drawn out.",
+      "ingredients_used": [
+        "2f0c3ec9-00e0-5a0d-9ff7-87d567c1bd9d"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Working in batches and adding more oil if needed, cook eggplant in the same pot until lightly browned, about 3 minutes per side. Transfer to a plate with pork.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "10e063d9-8896-5787-a640-0cf627ae5297"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Pour 1½ cups of water into the pot and scrape up browned bits from the bottom with a wooden spoon. Add remaining garlic, 3 Tbsp. coconut vinegar or unseasoned rice vinegar, 2 Tbsp. soy sauce, 2 bay leaves, 1 tsp. freshly ground black pepper, and remaining 1 Tbsp. sugar. Bring to a simmer, then return pork and eggplant to pot. Reduce heat to medium-low, partially cover, and simmer until eggplant is tender and silky and sauce is reduced by half, 20–25 minutes. Taste and season with more salt and pepper and add a little more sugar if needed.",
+      "timer_seconds": 1500,
+      "ingredients_used": [
+        "9b7c6728-8831-5334-9717-848ec50ca8f5",
+        "2f0c3ec9-00e0-5a0d-9ff7-87d567c1bd9d",
+        "06e0b78a-97b8-5468-999b-0bc857c8cb3c",
+        "c47df465-776d-592c-9400-26e9c20f3923",
+        "10e063d9-8896-5787-a640-0cf627ae5297",
+        "d6521486-5f88-51ab-91a6-89f9d1d3c11e",
+        "647a7f14-1401-50fa-861b-34d9b8dfcdb5"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Top with garlic chips and serve with cooked white rice.",
+      "ingredients_used": [
+        "c47df465-776d-592c-9400-26e9c20f3923"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://salu-salo.com/eggplant-adobo/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

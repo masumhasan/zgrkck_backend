@@ -1,0 +1,199 @@
+{
+  "id": "46d04385-27a6-52e3-bac2-bd6c2071c1ff",
+  "version": "1.0.0",
+  "title": "Syrian Bread",
+  "slug": "syrian-bread",
+  "summary": "A traditional Syrian flatbread made with a simple dough of flour, water, yeast, and oil, cooked until puffed and golden.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:03:18Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53089"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/54xzk31760524666.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/54xzk31760524666.jpg/small",
+      "alt_text": "Photo of Syrian Bread",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Pjzj0dws0Yk"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "a8c10f43-1ba0-5839-9ba9-834872824efe",
+        "slug": "syrian",
+        "name": "Syrian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "snack",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish",
+      "appetizer"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "lunchbox",
+      "picnic"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 40,
+    "rest_time_minutes": 30,
+    "total_time_minutes": 85
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 flatbread"
+  },
+  "allergens": {
+    "contains": [
+      "gluten"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "24a9935f-ad99-51e4-b56c-91aa4434a084",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "29612a88-b941-5021-9702-093a9169c2a0",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1 and 1/8 cup Water",
+          "quantity": 0,
+          "unit": "as_needed",
+          "is_optional": false,
+          "category": "beverages"
+        },
+        {
+          "id": "f9f40636-5572-59aa-94d5-fa2bce8c4b63",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "2 tblsp Vegetable Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "ca74c9a3-9fd9-5cf5-879b-a13a0ce0086b",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1/2 teaspoon Sugar",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "bcd6a03d-40d3-52e8-9d6a-b36948dcfb7f",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 1/2 tsp Salt",
+          "quantity": 1.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "cfb06558-f916-58c6-8dd0-1af25e64c4b5",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "3 Cups Flour",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "7eda2fa2-9877-5650-acf0-d92c0103736b",
+          "ingredient_id": "28b21302-909b-59d3-a88f-a543e26ac34f",
+          "name": "yeast",
+          "display_text": "1 1/2 tsp Yeast",
+          "quantity": 1.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Place ingredients in the pan of the bread machine in the order recommended by the manufacturer. Select Dough cycle; press Start."
+    },
+    {
+      "step_number": 2,
+      "instruction": "When the Dough cycle is almost complete, preheat the oven to 475 degrees F (245 degrees C).",
+      "temperature": {
+        "value": 475,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 3,
+      "instruction": "Turn dough out onto a lightly floured surface. Divide into eight equal pieces and form into rounds. Cover the rounds with a damp cloth and let rest."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Roll dough into thin flat circles, about 8 inches in diameter. Cook two at a time on preheated baking sheets or a baking stone until puffed up and golden brown, about 5 minutes. Repeat for remaining loaves.",
+      "timer_seconds": 300
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.allrecipes.com/recipe/20834/syrian-bread/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

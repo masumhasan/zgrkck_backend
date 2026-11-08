@@ -1,0 +1,208 @@
+{
+  "id": "86b2975d-6978-56fd-9d4c-6e8b2e81984d",
+  "version": "1.0.0",
+  "title": "Rye bread",
+  "slug": "rye-bread",
+  "summary": "A traditional Polish rye bread made with a blend of rye and strong white flour, flavored with caraway seeds and honey.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:22:51Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53308"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/lmc6r51764365554.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/lmc6r51764365554.jpg/small",
+      "alt_text": "Photo of Rye bread",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=bP7m7xx0GpM"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d40b0607-0a3a-5f5d-8012-7eaf1b714fa5",
+        "slug": "polish",
+        "name": "Polish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "snack"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 30,
+    "rest_time_minutes": 140,
+    "total_time_minutes": 185
+  },
+  "yield": {
+    "servings": 1,
+    "serving_unit": "servings"
+  },
+  "allergens": {
+    "contains": [
+      "gluten"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "3b391b16-c664-50f1-ba1f-e42ac16085e6",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "1188c9e5-2273-51d4-acf3-1b188b8bf82a",
+          "ingredient_id": "cf3247d8-b6ba-5d4c-9b7f-950b3155151c",
+          "name": "rye",
+          "display_text": "200g Rye",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "8dea1ba1-fec4-574b-8ae3-31ba2fbce367",
+          "ingredient_id": "2792320f-e680-5b9e-9e82-1ae536ce731e",
+          "name": "strong white bread flour",
+          "display_text": "200g Strong white bread flour",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "f5fd76b6-4be4-589b-959f-13ee8df1c0a4",
+          "ingredient_id": "28b21302-909b-59d3-a88f-a543e26ac34f",
+          "name": "yeast",
+          "display_text": "10g Yeast",
+          "quantity": 10.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "747df969-c057-5ec0-a5d7-c3639187d759",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/2 tsp Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "7f47c165-0c28-5534-8450-28df6448e63b",
+          "ingredient_id": "7ad11d6e-3134-5831-97df-4db2a67589f7",
+          "name": "honey",
+          "display_text": "1 tablespoon Honey",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "33f0b6a9-10a9-50cd-a0ff-bfe03b9f5056",
+          "ingredient_id": "110599c9-bd03-5bad-84c6-a2e20655dd5b",
+          "name": "caraway seed",
+          "display_text": "1 tsp Caraway Seed",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Tip the flours, yeast and salt into a bowl. In a jug, mix the honey with 250ml warm water, pour the liquid into the bowl and mix to form a dough. Rye flour can be quite dry and absorbs lots of water, if the dough looks too dry add more warm water until you have a soft dough Tip out onto your work surface and knead for 10 mins until smooth. Rye contains less gluten than white flour so the dough will not feel as springy as a conventional white loaf.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "1188c9e5-2273-51d4-acf3-1b188b8bf82a",
+        "f5fd76b6-4be4-589b-959f-13ee8df1c0a4",
+        "747df969-c057-5ec0-a5d7-c3639187d759",
+        "7f47c165-0c28-5534-8450-28df6448e63b"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Place the dough in a well oiled bowl, cover with cling film and leave to rise in a warm place for 1-2 hrs, or until roughly doubled in size. Dust a 2lb/900g loaf tin with flour.",
+      "timer_seconds": 7200
+    },
+    {
+      "step_number": 3,
+      "instruction": "Tip the dough back onto your work surface and knead briefly to knock out any air bubbles. If using caraway seeds work these in to the dough. Shape into a smooth oval loaf and pop into your tin. Cover the tin with oiled cling film and leave to rise somewhere warm for a further 1 – 1.5 hr, or until doubled in size.",
+      "timer_seconds": 5400,
+      "ingredients_used": [
+        "33f0b6a9-10a9-50cd-a0ff-bfe03b9f5056"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Heat oven to 220C/200C fan/gas 7. Remove the cling film and dust the surface of the loaf with rye flour. Slash a few incisions on an angle then bake for 30 mins until dark brown and hollow sounding when tapped. Transfer to a wire cooling rack and leave to cool for at least 20 mins before serving",
+      "temperature": {
+        "value": 220,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "1188c9e5-2273-51d4-acf3-1b188b8bf82a"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/rye-bread"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

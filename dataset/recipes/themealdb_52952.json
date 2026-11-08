@@ -1,0 +1,391 @@
+{
+  "id": "66953405-00d4-5407-96bf-be914b1bd81b",
+  "version": "1.0.0",
+  "title": "Beef Lo Mein",
+  "slug": "beef-lo-mein",
+  "summary": "A Chinese-style stir-fry dish featuring tender beef, noodles, and a variety of vegetables like mushrooms and bean sprouts in a savory sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:52:10Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52952"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/1529444830.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/1529444830.jpg/small",
+      "alt_text": "Photo of Beef Lo Mein",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ZT9LSsNXXe0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6813a95e-62cf-55e7-9d4b-6f19ee1d7391",
+        "slug": "chinese",
+        "name": "Chinese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of beef lo mein"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "79d1b2ac-a4ed-566d-8beb-d6ca89768174",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "1996218f-2aa4-5a73-821c-15d5c09f39ba",
+          "ingredient_id": "c2102b4e-a5b4-5bab-b7d5-bdfa5244ae7b",
+          "name": "beef",
+          "display_text": "1/2 lb Beef",
+          "quantity": 0.5,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 226.8,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "d6610abb-f320-510c-9339-cf7446fa10e1",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "3071938d-fabd-5d8d-a77d-5475d7997df3",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "pinch Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "140a2137-c458-5de2-83cb-0ad8942c8dac",
+          "ingredient_id": "653731ca-07ee-57df-aa38-0f8f2b71ccc6",
+          "name": "sesame seed oil",
+          "display_text": "2 tsp Sesame Seed Oil",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "03c9bcfb-c94d-5d2c-9deb-23e62ec6b110",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1/2 Egg",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "4b38b9ff-9413-5d3c-ba1b-77f253bcb9c2",
+          "ingredient_id": "b3c5c45a-2d05-5ed4-91b1-a5aa3324e259",
+          "name": "starch",
+          "display_text": "3 tbs Starch",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "00904397-aac0-559c-b080-bbcff746ee51",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "5 tbs Oil",
+          "quantity": 5.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "9e8bdfe6-1952-5984-9092-82bd32be9571",
+          "ingredient_id": "146fea77-b9e6-5dfa-9b3e-8978c2ade654",
+          "name": "noodles",
+          "display_text": "1/4 lb Noodles",
+          "quantity": 0.25,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 113.4,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "75c4e9a3-090c-5c5b-96ba-edd2e0d78189",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1/2 cup Onion",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "9ff47532-ec53-542a-9e73-69a46bfae2f9",
+          "ingredient_id": "39d03be8-6193-58a7-94b7-bad7961f2aa6",
+          "name": "minced garlic",
+          "display_text": "1 tsp Minced Garlic",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "c8288eb5-2fdd-54ce-89d7-5903c00e0f45",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "1 tsp Ginger",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "9424651a-f533-5e4b-bfe4-b98c4ccfe5c1",
+          "ingredient_id": "2ac15386-42dc-5765-807a-4b4cf4edfcba",
+          "name": "bean sprouts",
+          "display_text": "1 cup Bean Sprouts",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "a5b356e6-3c2a-5afc-8255-f4ec0441a116",
+          "ingredient_id": "5031dcf8-ef4a-588f-ae8f-de7c2790dfac",
+          "name": "mushrooms",
+          "display_text": "1 cup Mushrooms",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "0bc3c1cd-58a5-56a3-abd6-daad7870bc57",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1 cup Water",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "d32709b1-4559-573c-bbef-99b135afe65e",
+          "ingredient_id": "42972e00-9d00-55f1-8658-5357075be010",
+          "name": "oyster sauce",
+          "display_text": "1 tbs Oyster Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "2f398c5b-f805-541a-9f1e-c8c740ff22c3",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 tsp Sugar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "8fc2de87-8dc3-5048-868f-c0e617a83ad8",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "1 tsp Soy Sauce",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "MARINATING THE BEEF",
+      "ingredients_used": [
+        "1996218f-2aa4-5a73-821c-15d5c09f39ba"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a bowl, add the beef, salt, 1 pinch white pepper, 1 Teaspoon sesame seed oil, 1/2 egg, corn starch,1 Tablespoon of oil and mix together.",
+      "ingredients_used": [
+        "1996218f-2aa4-5a73-821c-15d5c09f39ba",
+        "d6610abb-f320-510c-9339-cf7446fa10e1",
+        "3071938d-fabd-5d8d-a77d-5475d7997df3",
+        "140a2137-c458-5de2-83cb-0ad8942c8dac",
+        "03c9bcfb-c94d-5d2c-9deb-23e62ec6b110",
+        "4b38b9ff-9413-5d3c-ba1b-77f253bcb9c2",
+        "00904397-aac0-559c-b080-bbcff746ee51"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "BOILING THE THE NOODLES",
+      "ingredients_used": [
+        "9e8bdfe6-1952-5984-9092-82bd32be9571"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "In a 6 qt pot add your noodles to boiling water until the noodles are submerged and boil on high heat for 10 seconds. After your noodles is done boiling strain and cool with cold water.",
+      "timer_seconds": 10,
+      "ingredients_used": [
+        "9e8bdfe6-1952-5984-9092-82bd32be9571",
+        "0bc3c1cd-58a5-56a3-abd6-daad7870bc57"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "STIR FRY"
+    },
+    {
+      "step_number": 6,
+      "instruction": "Add 2 Tablespoons of oil, beef and cook on high heat untill beef is medium cooked.",
+      "ingredients_used": [
+        "1996218f-2aa4-5a73-821c-15d5c09f39ba",
+        "00904397-aac0-559c-b080-bbcff746ee51"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Set the cooked beef aside",
+      "ingredients_used": [
+        "1996218f-2aa4-5a73-821c-15d5c09f39ba"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "In a wok add 2 Tablespoon of oil, onions, minced garlic, minced ginger, bean sprouts, mushrooms, peapods and 1.5 cups of water or until the vegetables are submerged in water.",
+      "ingredients_used": [
+        "00904397-aac0-559c-b080-bbcff746ee51",
+        "75c4e9a3-090c-5c5b-96ba-edd2e0d78189",
+        "9ff47532-ec53-542a-9e73-69a46bfae2f9",
+        "c8288eb5-2fdd-54ce-89d7-5903c00e0f45",
+        "9424651a-f533-5e4b-bfe4-b98c4ccfe5c1",
+        "a5b356e6-3c2a-5afc-8255-f4ec0441a116",
+        "0bc3c1cd-58a5-56a3-abd6-daad7870bc57"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Add the noodles to wok",
+      "ingredients_used": [
+        "9e8bdfe6-1952-5984-9092-82bd32be9571"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "To make the sauce, add oyster sauce, 1 pinch white pepper, 1 teaspoon sesame seed oil, sugar, and 1 Teaspoon of soy sauce.",
+      "ingredients_used": [
+        "3071938d-fabd-5d8d-a77d-5475d7997df3",
+        "140a2137-c458-5de2-83cb-0ad8942c8dac",
+        "00904397-aac0-559c-b080-bbcff746ee51",
+        "d32709b1-4559-573c-bbef-99b135afe65e",
+        "2f398c5b-f805-541a-9f1e-c8c740ff22c3",
+        "8fc2de87-8dc3-5048-868f-c0e617a83ad8"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Next add the beef to wok and stir-fry",
+      "ingredients_used": [
+        "1996218f-2aa4-5a73-821c-15d5c09f39ba"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://sueandgambo.com/pages/beef-lo-mein"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

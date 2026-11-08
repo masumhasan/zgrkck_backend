@@ -1,0 +1,243 @@
+{
+  "id": "09a3a6bd-c9c4-508e-a116-87f65f9a652a",
+  "version": "1.0.0",
+  "title": "Spaghetti alla Carbonara",
+  "slug": "spaghetti-alla-carbonara",
+  "summary": "A classic Italian pasta dish made with spaghetti, eggs, cheese, and cured pork, creating a creamy sauce without the use of cream.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:54:46Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52982"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg/small",
+      "alt_text": "Photo of Spaghetti alla Carbonara",
+      "width": 800,
+      "height": 800
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=_T6jkRvhlkk"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "5777da00-e671-5ded-9c46-d7577d65960f",
+        "slug": "italian",
+        "name": "Italian"
+      }
+    ],
+    "tags": [
+      "bbq",
+      "breakfast",
+      "pasta"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 25
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 portion of spaghetti"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "f64fd4d8-62c3-5fad-879e-428dfb0a4c7a",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "a50aeabd-56c2-540f-9149-d54fdefa3882",
+          "ingredient_id": "d91ee0f1-9526-50eb-9a82-388a6e83d702",
+          "name": "spaghetti",
+          "display_text": "320g Spaghetti",
+          "quantity": 320.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 320.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "fe53b65d-949b-580f-ae89-10cd12ab5ab1",
+          "ingredient_id": "051a3118-01a4-5366-a922-19ecf618e2f9",
+          "name": "egg yolks",
+          "display_text": "6 Egg Yolks",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "84182697-a47f-588d-9db6-caba3d7f23fd",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "As required Salt",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "as required",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "080af3cd-a084-5207-83e8-fd4e94b78369",
+          "ingredient_id": "956cfefc-d0f9-5c1f-9f20-d38a1e4dbdad",
+          "name": "bacon",
+          "display_text": "150g Bacon",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "eb7cd975-ebeb-5769-8dd3-2b194702f4dd",
+          "ingredient_id": "aa6fab7a-f8f9-5879-aa30-b2978322fd66",
+          "name": "pecorino",
+          "display_text": "50g Pecorino",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "b5d68a91-8bfc-5414-ab10-e0b21b1d79f2",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "As required Black Pepper",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "as required",
+          "is_optional": false,
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Put a large saucepan of water on to boil."
+    },
+    {
+      "step_number": 2,
+      "instruction": "Finely chop the 100g pancetta, having first removed any rind. Finely grate 50g pecorino cheese and 50g parmesan and mix them together.",
+      "ingredients_used": [
+        "eb7cd975-ebeb-5769-8dd3-2b194702f4dd"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Beat the 3 large eggs in a medium bowl and season with a little freshly grated black pepper. Set everything aside.",
+      "ingredients_used": [
+        "b5d68a91-8bfc-5414-ab10-e0b21b1d79f2"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add 1 tsp salt to the boiling water, add 350g spaghetti and when the water comes back to the boil, cook at a constant simmer, covered, for 10 minutes or until al dente (just cooked).",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "a50aeabd-56c2-540f-9149-d54fdefa3882",
+        "84182697-a47f-588d-9db6-caba3d7f23fd"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Squash 2 peeled plump garlic cloves with the blade of a knife, just to bruise it."
+    },
+    {
+      "step_number": 6,
+      "instruction": "While the spaghetti is cooking, fry the pancetta with the garlic. Drop 50g unsalted butter into a large frying pan or wok and, as soon as the butter has melted, tip in the pancetta and garlic.",
+      "ingredients_used": [
+        "a50aeabd-56c2-540f-9149-d54fdefa3882"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Leave to cook on a medium heat for about 5 minutes, stirring often, until the pancetta is golden and crisp. The garlic has now imparted its flavor, so take it out with a slotted spoon and discard.",
+      "timer_seconds": 300
+    },
+    {
+      "step_number": 8,
+      "instruction": "Keep the heat under the pancetta on low. When the pasta is ready, lift it from the water with a pasta fork or tongs and put it in the frying pan with the pancetta. Don’t worry if a little water drops in the pan as well (you want this to happen) and don’t throw the pasta water away yet."
+    },
+    {
+      "step_number": 9,
+      "instruction": "Mix most of the cheese in with the eggs, keeping a small handful back for sprinkling over later."
+    },
+    {
+      "step_number": 10,
+      "instruction": "Take the pan of spaghetti and pancetta off the heat. Now quickly pour in the eggs and cheese. Using the tongs or a long fork, lift up the spaghetti so it mixes easily with the egg mixture, which thickens but doesn’t scramble, and everything is coated.",
+      "ingredients_used": [
+        "a50aeabd-56c2-540f-9149-d54fdefa3882"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Add extra pasta cooking water to keep it saucy (several tablespoons should do it). You don’t want it wet, just moist. Season with a little salt, if needed.",
+      "ingredients_used": [
+        "84182697-a47f-588d-9db6-caba3d7f23fd"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Use a long-pronged fork to twist the pasta on to the serving plate or bowl. Serve immediately with a little sprinkling of the remaining cheese and a grating of black pepper. If the dish does get a little dry before serving, splash in some more hot pasta water and the glossy sauciness will be revived.",
+      "ingredients_used": [
+        "b5d68a91-8bfc-5414-ab10-e0b21b1d79f2"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/ultimate-spaghetti-carbonara-recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

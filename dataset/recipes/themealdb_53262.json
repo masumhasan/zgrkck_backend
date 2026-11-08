@@ -1,0 +1,181 @@
+{
+  "id": "f7823a88-4685-5965-b62d-f3259130c85b",
+  "version": "1.0.0",
+  "title": "Adana kebab",
+  "slug": "adana-kebab",
+  "summary": "Adana kebab is a traditional Turkish minced lamb dish seasoned with red pepper paste and pul biber. The meat is typically shaped onto skewers or into köfte and grilled or baked until crispy.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:18:38Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53262"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/04axct1763793018.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/04axct1763793018.jpg/small",
+      "alt_text": "Photo of Adana kebab",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Wj7sXu9B_ME"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4c480df7-c067-5e9c-ac08-d8d49afa7f51",
+        "slug": "turkish",
+        "name": "Turkish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 18,
+    "marinating_time_minutes": 120,
+    "total_time_minutes": 153
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "portions"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "bfb162cb-ee1e-5e7c-9bae-c39a271b78d3",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "f62a6b33-28b9-5d28-bbb2-05a6639fdd38",
+          "ingredient_id": "028c605d-96da-5913-855a-dba460639123",
+          "name": "romano pepper",
+          "display_text": "2 large Romano Pepper",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "9fa658d1-3d96-541c-9157-078ff8f4c1a3",
+          "ingredient_id": "4d40d67a-57b5-5c91-91d3-62eba5bf1b7e",
+          "name": "lamb mince",
+          "display_text": "800g Lamb Mince",
+          "quantity": 800.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 800.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "05a415b3-1de7-500f-ac5d-76681b9f3f29",
+          "ingredient_id": "f589ad84-9ded-5cd2-8088-82650f46e8f7",
+          "name": "red pepper paste",
+          "display_text": "3  tablespoons Red Pepper Paste",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "d2ef01f5-c483-55f2-a085-54724b204d59",
+          "ingredient_id": "0c7e3e27-e5dd-572b-8687-b9df60633f5c",
+          "name": "pul biber",
+          "display_text": "1 tablespoon Pul Biber",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "74383877-d8cb-54d7-868e-b279613ebc96",
+          "ingredient_id": "aa561384-0d26-5008-a25e-3ba9db4b2a3f",
+          "name": "sunflower oil",
+          "display_text": "3  tablespoons Sunflower Oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Finely chop the peppers in a food processor, then tip them in a sieve and press into the sieve so that the peppers release all of their juices. Tip into a bowl along with the mince, red pepper paste, pul biber, 1½ tsp flaky sea salt, and 2 tbsp of the oil. Mix together, kneading well for at least 2-3 mins. If you need to, wet your hands with cold water to prevent the mixture from sticking. The mixture should be sticky when ready. Cover and chill for at least 2 hrs, or up to 12 hrs.",
+      "ingredients_used": [
+        "9fa658d1-3d96-541c-9157-078ff8f4c1a3",
+        "05a415b3-1de7-500f-ac5d-76681b9f3f29",
+        "d2ef01f5-c483-55f2-a085-54724b204d59"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "When ready to cook, heat the grill to high or an oven to 220C/200C fan/gas 6. Divide the mixture into 12 equal portions, around 85g each. If you’d like to skewer them, divide into 8 equal portions and roll into balls. Using wet hands, thread the balls onto the end of the skewers, massaging the mixture down the skewers in between the palms of your hands, until evenly distributed. Ensure that the mixture is fully wrapped tightly around the skewers without any exposed metal. Alternatively, lay them on a large baking tray lined with parchment paper if cooking in the oven, or foil if cooking under the grill. Shape into 20cm-long köfte. Wet your fingers with a little cold water and make indents all along the köfte for the traditional shape.",
+      "temperature": {
+        "value": 220,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 3,
+      "instruction": "Gently brush each köfte with the remaining 1 tbsp oil and cook under the grill, on the top shelf for 10-12 mins, turning regularly, or cook in the oven for 16-18 mins, until crispy on the outside and juicy in the middle"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/adana-kebab"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

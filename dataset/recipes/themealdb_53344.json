@@ -1,0 +1,320 @@
+{
+  "id": "82d51fd2-dcb9-5cd1-98c6-61d91c7fbdde",
+  "version": "1.0.0",
+  "title": "Jamaican Sweet Potato Pudding",
+  "slug": "jamaican-sweet-potato-pudding",
+  "summary": "A traditional Jamaican dessert made with grated sweet potatoes, coconut milk, and warm spices like allspice and nutmeg.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:26:06Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53344"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/xj9sa81764788866.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/xj9sa81764788866.jpg/small",
+      "alt_text": "Photo of Jamaican Sweet Potato Pudding",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=8W8hZeGuiOc"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "2dfec5c8-490a-551c-9d2f-e8e21f706bda",
+        "slug": "jamaican",
+        "name": "Jamaican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 90,
+    "total_time_minutes": 110
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "servings"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "91f47a88-a83b-5ee2-a988-1059bdbc4217",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "2a7e5584-4b3e-5a65-9d45-f2eae23359e5",
+          "ingredient_id": "47da68fd-6de3-548e-856a-a2034af5866f",
+          "name": "sweet potatoes",
+          "display_text": "2 Lbs Sweet Potatoes",
+          "quantity": 2.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 907.2,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "618d8ab6-d9bd-5d8e-8809-1b171a7ac934",
+          "ingredient_id": "0435e55e-84f6-566c-ac81-37617bbab91c",
+          "name": "coconut milk",
+          "display_text": "1 1/2 cup Coconut Milk",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "fbd0978f-4999-5ff8-9f1e-9b9826cbae86",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "1 1/2 cup Brown Sugar",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "ba024acc-48c2-5f45-a479-5b9a852d0f07",
+          "ingredient_id": "d1e5ec78-b8c2-5649-962c-a9f67272ea92",
+          "name": "all purpose flour",
+          "display_text": "1/2 cup All purpose flour",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "6407650b-a4ba-588d-a8d1-720694ef3795",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1 tablespoon Vanilla Extract",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "d9d47c9e-ae43-5e84-891f-29dde99ca6fe",
+          "ingredient_id": "38dedce7-9a7f-57ee-8e46-5162ab60eba8",
+          "name": "allspice",
+          "display_text": "1 teaspoon Allspice",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "17addfa8-8498-5411-8183-494c53694767",
+          "ingredient_id": "7af3c207-3c37-5965-a096-bf34ac1db1f4",
+          "name": "ground cinnamon",
+          "display_text": "1 tsp Ground Cinnamon",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "15babf5d-2901-54d2-b14f-29a77ead6a32",
+          "ingredient_id": "43fdd2fd-26e3-5e32-af4b-0c63a027d37c",
+          "name": "ground nutmeg",
+          "display_text": "1 tsp Ground Nutmeg",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e0e7fb50-cc0e-5fc4-b307-e1cf2f4baef0",
+          "ingredient_id": "9c72d0cf-8d9c-53f6-b4c6-5631779ba66b",
+          "name": "ground ginger",
+          "display_text": "1/2 tsp Ground Ginger",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "dc608da2-ed47-5d0e-830a-e7a136d651cb",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/4 tsp Salt",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "15f75ea3-442a-5028-ad56-6b931ae006ee",
+          "ingredient_id": "8d52ad34-1aea-57a9-8e92-aabab5116059",
+          "name": "raisins",
+          "display_text": "1/2 cup Raisins",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "3b8eccd3-22b8-5706-8b53-9108fb329f14",
+          "ingredient_id": "0435e55e-84f6-566c-ac81-37617bbab91c",
+          "name": "coconut milk",
+          "display_text": "3/4 cup Coconut Milk",
+          "quantity": 0.75,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 180.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "6913fcdb-c73d-5e92-8808-d698e04821f2",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "1 tablespoon Brown Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "20920064-8228-5b98-80b6-2091d4f06d88",
+          "ingredient_id": "7af3c207-3c37-5965-a096-bf34ac1db1f4",
+          "name": "ground cinnamon",
+          "display_text": "1/8 teaspoon Ground Cinnamon",
+          "quantity": 0.125,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 0.6,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "09590844-b54c-57a8-a07f-c99d0f13dcad",
+          "ingredient_id": "43fdd2fd-26e3-5e32-af4b-0c63a027d37c",
+          "name": "ground nutmeg",
+          "display_text": "1/8 teaspoon Ground Nutmeg",
+          "quantity": 0.125,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 0.6,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat oven to 350°F (175°C). Grease and line a 9-inch round pan or loaf pan with parchment paper.",
+      "temperature": {
+        "value": 350,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "Place your cut sweet potatoes in the bowl of a food processor and process until finely grated. In a small bowl, toss raisins in 2 teaspoons flour from the ½ cup. Set aside.",
+      "ingredients_used": [
+        "2a7e5584-4b3e-5a65-9d45-f2eae23359e5",
+        "15f75ea3-442a-5028-ad56-6b931ae006ee"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "In a large bowl, combine grated sweet potatoes, light brown sugar, all-purpose flour, vanilla extract, allspice, cinnamon, nutmeg, ginger, and salt. Stir in 1½ cups of coconut milk until a batter forms. Fold in the raisins that were tossed in the flour.",
+      "ingredients_used": [
+        "2a7e5584-4b3e-5a65-9d45-f2eae23359e5",
+        "618d8ab6-d9bd-5d8e-8809-1b171a7ac934",
+        "fbd0978f-4999-5ff8-9f1e-9b9826cbae86",
+        "6407650b-a4ba-588d-a8d1-720694ef3795",
+        "d9d47c9e-ae43-5e84-891f-29dde99ca6fe",
+        "17addfa8-8498-5411-8183-494c53694767",
+        "15babf5d-2901-54d2-b14f-29a77ead6a32",
+        "e0e7fb50-cc0e-5fc4-b307-e1cf2f4baef0",
+        "dc608da2-ed47-5d0e-830a-e7a136d651cb",
+        "15f75ea3-442a-5028-ad56-6b931ae006ee",
+        "3b8eccd3-22b8-5706-8b53-9108fb329f14",
+        "6913fcdb-c73d-5e92-8808-d698e04821f2",
+        "20920064-8228-5b98-80b6-2091d4f06d88",
+        "09590844-b54c-57a8-a07f-c99d0f13dcad"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Pour the batter into the prepared pan and smooth the top. Bake uncovered for 1 hour 30 minutes, until mostly set but still slightly soft in the center"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.myforkinglife.com/jamaican-sweet-potato-pudding/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

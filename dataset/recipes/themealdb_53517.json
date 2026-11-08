@@ -1,0 +1,333 @@
+{
+  "id": "9a8a7abe-effc-562c-b6f3-e7372aee7994",
+  "version": "1.0.0",
+  "title": "Pastel de Papas (Chilean Potato Pie)",
+  "slug": "pastel-de-papas-chilean-potato-pie",
+  "summary": "A traditional Chilean comfort dish consisting of layers of seasoned ground beef and creamy mashed potatoes, topped with cheese and baked until golden.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:41:14Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53517"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/h031jy1782853081.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/h031jy1782853081.jpg/small",
+      "alt_text": "Photo of Pastel de Papas (Chilean Potato Pie)",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "2681863c-dfb1-5347-8330-bcdf36e53ac6",
+        "slug": "chilean",
+        "name": "Chilean"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 80,
+    "rest_time_minutes": 10,
+    "total_time_minutes": 110
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "a large portion of pie"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "eggs"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "462328c5-3282-5bd7-9983-17bb15def53f",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "f7d83d96-e1aa-5b9c-a06e-afa7d341b78c",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "5 Cups Potatoes",
+          "quantity": 5.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 1200.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "dd3365bb-744d-55fa-bd6f-31dd0ed92b09",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "2 tablespoons Butter",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "6ba86055-0453-5c8d-86e7-5bf3856748aa",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "48636f88-7739-5b7b-8902-b57dfc797fac",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "2 Beaten Eggs",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "beaten",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "c5412ffd-f02c-5890-b327-d5ee2c8a0cef",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "1/2 cup Vegetable Oil",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "69edaf09-6b23-5d46-b6b1-98fd9d78835f",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Diced Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e7aa5355-1fa5-532f-aa70-e31a9dd927fe",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove peeled crushed Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "preparation": "peeled crushed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "a79a3353-bca9-5bf1-8643-9329156d420b",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "2 diced Tomato",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "8c47f61e-ec44-5c1a-8e32-f3717c5a68cb",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "1 tablespoon Tomato Puree",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "85cc9910-80ec-5d76-b97b-bde23638c46b",
+          "ingredient_id": "daceaafa-62e0-5268-ab7d-62934c564c72",
+          "name": "ground beef",
+          "display_text": "1 lb Ground Beef",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "0c1aa896-774b-5eb1-aa8c-6b08db08dbeb",
+          "ingredient_id": "07a21b6e-3847-5629-97bb-5d468dae3f29",
+          "name": "panquehue cheese",
+          "display_text": "2 tablespoons Panquehue Cheese",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "c4931f61-e4c0-5182-93f1-fb8fe4895fc6",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "1/2 tsp Parsley",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1a498e7c-2daa-5216-96aa-aaea64fa21f7",
+          "ingredient_id": "97dd86b9-4ad7-5a3a-bc6c-86485409c325",
+          "name": "cayenne pepper",
+          "display_text": "1 pinch Cayenne Pepper",
+          "quantity": 1.0,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "c70d4c93-fa54-5b06-8c2d-875022094a49",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "b05895d8-847e-5a03-89bb-bb70a1e2d13d",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "To taste Black Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Place potatoes into a large pot and cover with salted water; bring to a boil. Reduce the heat to medium-low and simmer until tender, about 20 minutes.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "f7d83d96-e1aa-5b9c-a06e-afa7d341b78c",
+        "6ba86055-0453-5c8d-86e7-5bf3856748aa",
+        "c70d4c93-fa54-5b06-8c2d-875022094a49"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "While the potatoes are cooking, heat oil in a large skillet over medium heat. Add onion; cook and stir until translucent, about 5 minutes, adding garlic for the last minute. Stir in diced tomatoes and tomato paste; cook until tomatoes soften and begin to lose their shape, 3 to 5 minutes.",
+      "ingredients_used": [
+        "f7d83d96-e1aa-5b9c-a06e-afa7d341b78c",
+        "69edaf09-6b23-5d46-b6b1-98fd9d78835f",
+        "e7aa5355-1fa5-532f-aa70-e31a9dd927fe",
+        "a79a3353-bca9-5bf1-8643-9329156d420b"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add ground beef to the skillet; cook and stir until browned and crumbly, about 10 minutes. Stir in Panquehue cheese, parsley, and cayenne pepper; season with salt and pepper. Turn off the heat and let sit until needed.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "6ba86055-0453-5c8d-86e7-5bf3856748aa",
+        "85cc9910-80ec-5d76-b97b-bde23638c46b",
+        "0c1aa896-774b-5eb1-aa8c-6b08db08dbeb",
+        "c4931f61-e4c0-5182-93f1-fb8fe4895fc6",
+        "1a498e7c-2daa-5216-96aa-aaea64fa21f7",
+        "c70d4c93-fa54-5b06-8c2d-875022094a49"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Preheat the oven to 350 degrees F (175 degrees C). Grease a 2-quart baking dish.",
+      "temperature": {
+        "value": 350,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 5,
+      "instruction": "Drain potatoes in a colander, then allow to steam dry for 1 to 2 minutes. Transfer potatoes back to the pot, add butter and salt, and mash until smooth. Let cool until just warm, 5 to 10 minutes, then stir in beaten egg.",
+      "ingredients_used": [
+        "f7d83d96-e1aa-5b9c-a06e-afa7d341b78c",
+        "dd3365bb-744d-55fa-bd6f-31dd0ed92b09",
+        "6ba86055-0453-5c8d-86e7-5bf3856748aa",
+        "c70d4c93-fa54-5b06-8c2d-875022094a49"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Spread 1/2 of the mashed potatoes over the bottom of the prepared baking dish. Layer ground beef mixture over top, then completely cover with remaining potatoes.",
+      "ingredients_used": [
+        "f7d83d96-e1aa-5b9c-a06e-afa7d341b78c",
+        "85cc9910-80ec-5d76-b97b-bde23638c46b"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Bake in the preheated oven until potatoes are hot and lightly browned on top, about 40 minutes.",
+      "timer_seconds": 2400,
+      "ingredients_used": [
+        "f7d83d96-e1aa-5b9c-a06e-afa7d341b78c"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.allrecipes.com/recipe/210774/chilean-potato-pie-pastel-de-papas/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

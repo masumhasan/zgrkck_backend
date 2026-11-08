@@ -1,0 +1,250 @@
+{
+  "id": "ca5fc5c8-2605-50bb-88df-d22c3ce7f5f7",
+  "version": "1.0.0",
+  "title": "Bistek",
+  "slug": "bistek",
+  "summary": "A classic Filipino beef dish marinated in soy sauce and citrus, then simmered until tender and topped with sautéed onions.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:01:54Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53069"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/4pqimk1683207418.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/4pqimk1683207418.jpg/small",
+      "alt_text": "Photo of Bistek",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=xOQON5_S7as"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "3e1a78f5-e83e-5b97-a090-8a1e2d2271a8",
+        "slug": "filipino",
+        "name": "Filipino"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "marinating_time_minutes": 60,
+    "total_time_minutes": 120
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of beef with onions"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "ca853777-4491-5b07-b9b5-aeef01a58593",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "78da8de4-c16d-5748-a544-b7ad58bf3350",
+          "ingredient_id": "c2102b4e-a5b4-5bab-b7d5-bdfa5244ae7b",
+          "name": "beef",
+          "display_text": "1 lb Beef",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "49ef22a7-074b-526a-a618-14aa03ea4053",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "5 tablespoons Soy Sauce",
+          "quantity": 5.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "72ec5a81-171e-5411-8d57-e28c7688df6e",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "1 Lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "29bc22d5-fdf4-51f5-a691-4d3414bb2c2d",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 cloves Garlic",
+          "quantity": 3.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4ffaced8-20e0-5fe4-8330-59213210254e",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "3 parts Onion",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "parts",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1298ba01-016f-5d13-a54b-fbd671b96917",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "4 tbs Olive Oil",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "40759b04-ab1b-5223-9a33-e543de4dee53",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1 cup Water",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "433673e0-6a44-5754-a8c8-bf0a610e3c65",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 pinch Salt",
+          "quantity": 1.0,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Marinate beef in soy sauce, lemon (or calamansi), and ground black pepper for at least 1 hour. Note: marinate overnight for best result",
+      "timer_seconds": 3600,
+      "ingredients_used": [
+        "78da8de4-c16d-5748-a544-b7ad58bf3350",
+        "49ef22a7-074b-526a-a618-14aa03ea4053",
+        "72ec5a81-171e-5411-8d57-e28c7688df6e"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat the cooking oil in a pan then pan-fry half of the onions until the texture becomes soft. Set aside",
+      "ingredients_used": [
+        "4ffaced8-20e0-5fe4-8330-59213210254e"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Drain the marinade from the beef. Set it aside. Pan-fry the beef on the same pan where the onions were fried for 1 minute per side. Remove from the pan. Set aside",
+      "timer_seconds": 60,
+      "ingredients_used": [
+        "78da8de4-c16d-5748-a544-b7ad58bf3350",
+        "4ffaced8-20e0-5fe4-8330-59213210254e"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add more oil if needed. Saute garlic and remaining raw onions until onion softens.",
+      "ingredients_used": [
+        "29bc22d5-fdf4-51f5-a691-4d3414bb2c2d",
+        "4ffaced8-20e0-5fe4-8330-59213210254e"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Pour the remaining marinade and water. Bring to a boil.",
+      "ingredients_used": [
+        "40759b04-ab1b-5223-9a33-e543de4dee53"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Add beef. Cover the pan and simmer until the meat is tender. Note: Add water as needed.",
+      "ingredients_used": [
+        "78da8de4-c16d-5748-a544-b7ad58bf3350",
+        "40759b04-ab1b-5223-9a33-e543de4dee53"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Season with ground black pepper and salt as needed. Top with pan-fried onions.",
+      "ingredients_used": [
+        "4ffaced8-20e0-5fe4-8330-59213210254e",
+        "433673e0-6a44-5754-a8c8-bf0a610e3c65"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Transfer to a serving plate. Serve hot. Share and Enjoy!"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://panlasangpinoy.com/bistek-tagalog-beefsteak-recipe/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

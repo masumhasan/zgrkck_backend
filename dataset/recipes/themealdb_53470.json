@@ -1,0 +1,190 @@
+{
+  "id": "af567126-f7fe-5e1e-a4ce-41b060ef70d1",
+  "version": "1.0.0",
+  "title": "Seswaa",
+  "slug": "seswaa",
+  "summary": "Seswaa is a traditional Botswanan dish consisting of tender, shredded beef slow-cooked with onions and spices.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:36:57Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53470"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/p7eid81782503889.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/p7eid81782503889.jpg/small",
+      "alt_text": "Photo of Seswaa",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "7eccd33d-bce1-55b8-8196-232aa305f7a3",
+        "slug": "botswanan",
+        "name": "Botswanan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 240,
+    "total_time_minutes": 255
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of shredded beef"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "0c193d08-a856-5ee1-a79c-88c21f87c0f2",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "d2ee99ea-4d17-5c26-83e2-33b45742d8a4",
+          "ingredient_id": "c2102b4e-a5b4-5bab-b7d5-bdfa5244ae7b",
+          "name": "beef",
+          "display_text": "1 kg Beef",
+          "quantity": 1.0,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "kilogram",
+          "category": "meat"
+        },
+        {
+          "id": "c968d4ba-b1d3-56c0-b7bb-6eff9ec2790e",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d700ee0f-9f02-5f12-9179-6f70574b6246",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "3 Bay Leaf",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "41d06405-2ee4-531c-9602-f9f6b3160a56",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "29d8a736-b2ca-5c2f-b5d5-43f178950204",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "Sprinkling Black Pepper",
+          "quantity": 1,
+          "unit": "sprinkling",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "d6220294-610c-5f42-be2d-014a2157f433",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1 Liter Water",
+          "quantity": 1.0,
+          "unit": "liter",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "liter",
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Pre heat the oven to 160 degrees Celsius. Cut the meat into large chunks then brown in a dish suitable for slow cooking in the oven such as a cast iron casserole dish.",
+      "temperature": {
+        "value": 160,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the whole peeled onion, salt, cracked black pepper, water and bay leaves. Bring to the boil then cover and place into the oven for 4 hours.",
+      "timer_seconds": 14400,
+      "ingredients_used": [
+        "c968d4ba-b1d3-56c0-b7bb-6eff9ec2790e",
+        "41d06405-2ee4-531c-9602-f9f6b3160a56",
+        "29d8a736-b2ca-5c2f-b5d5-43f178950204",
+        "d6220294-610c-5f42-be2d-014a2157f433"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "After 4 hours, remove from oven and place onto the stove burner in order to cook off most of the remaining liquid. Use a wooden spoon to pound or mash up the meat, the meat should fall apart quite easily. and will appear shredded. You may brown the meat further if desired.",
+      "timer_seconds": 14400
+    },
+    {
+      "step_number": 4,
+      "instruction": "Check seasoning then serve with polenta or the more traditional thick cornmeal porridge known as pap or sadza, and a side of green vegetables."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.myburntorange.com/how-to-make-seswaa/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

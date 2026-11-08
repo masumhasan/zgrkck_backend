@@ -1,0 +1,314 @@
+{
+  "id": "6d2d5389-a0a6-5dc1-9b50-b81723201cf6",
+  "version": "1.0.0",
+  "title": "Baklava with spiced nuts, ricotta & chocolate",
+  "slug": "baklava-with-spiced-nuts-ricotta-chocolate",
+  "summary": "A Turkish-inspired dessert featuring layers of filo pastry filled with spiced nuts and citrus-scented ricotta, finished with a sugar syrup and dark chocolate.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:20:13Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53279"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ytme8t1764111401.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ytme8t1764111401.jpg/small",
+      "alt_text": "Photo of Baklava with spiced nuts, ricotta & chocolate",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=yK_sSFDvsT0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4c480df7-c067-5e9c-ac08-d8d49afa7f51",
+        "slug": "turkish",
+        "name": "Turkish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "advanced",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 45,
+    "cook_time_minutes": 45,
+    "rest_time_minutes": 60,
+    "total_time_minutes": 150
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "pieces",
+    "serving_size_description": "4 pieces of baklava"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "tree_nuts"
+    ],
+    "free_from": [
+      "peanuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "0783e2ec-c55e-5df6-9643-8ce8f1c49b55",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "007450dc-5d38-5ad6-bb9d-9ece12bd8d85",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "500g Sugar",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "3a0d43a5-0a9e-5c10-8bbf-dfbc9656789a",
+          "ingredient_id": "4020879e-a0a5-58e2-b093-33c7e85c8a08",
+          "name": "lemon juice",
+          "display_text": "To taste Lemon Juice",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "70b37e76-bd9d-583e-a29f-fd89f336d336",
+          "ingredient_id": "0ad40f09-76c2-5007-b9ca-38f3ecd4a51d",
+          "name": "walnuts",
+          "display_text": "300g Walnuts",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "91c61a09-4cef-5f57-8df0-60a708a19597",
+          "ingredient_id": "8d7d8e57-30de-5aa2-83ba-f1f140d96726",
+          "name": "pecan nuts",
+          "display_text": "200g Pecan Nuts",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "68e47b5f-430a-5567-b6b2-9d9b2fe29dc5",
+          "ingredient_id": "1f65be5f-ad9d-5713-aca2-600f7b2a1ee8",
+          "name": "almonds",
+          "display_text": "100g Almonds",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "75820be0-fe26-5f68-8496-3c3c78cbb460",
+          "ingredient_id": "7af3c207-3c37-5965-a096-bf34ac1db1f4",
+          "name": "ground cinnamon",
+          "display_text": "2 tablespoons Ground Cinnamon",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "103a2b03-53ce-57e0-853c-8310f1f94f56",
+          "ingredient_id": "3bca0ce2-1312-525a-a4c2-bee7bbeaa967",
+          "name": "ground cardomom",
+          "display_text": "1 tablespoon Ground Cardomom",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "d25525d5-4c94-5b6c-8d0b-c603094935ff",
+          "ingredient_id": "8d0de567-62a1-52a2-bfda-c80f966ac532",
+          "name": "ricotta",
+          "display_text": "500g Ricotta",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "14c66894-9864-5ccd-bd61-58203a6b996f",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "Zest of 1 Lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "zest",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "83f4ddfd-663e-5526-885d-58ad13c713a7",
+          "ingredient_id": "4f3b3c33-6392-5e5a-ac51-d269b68aa6e4",
+          "name": "orange",
+          "display_text": "Zest of 1 Orange",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "zest",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "9d7e5415-e875-57b0-bf54-532530c8675a",
+          "ingredient_id": "80edbd74-e9c9-5e93-b58f-6f19fb3fdfd4",
+          "name": "vanilla bean paste",
+          "display_text": "1 tablespoon Vanilla Bean Paste",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "6064de16-9f2a-5449-8af8-a349323da3af",
+          "ingredient_id": "bc46b2a6-8a59-50ee-a044-ce38bddb125c",
+          "name": "unsalted butter",
+          "display_text": "250g Unsalted Butter",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "daa89dda-8ce1-529b-8c72-d6d8adcb7fad",
+          "ingredient_id": "62dcf130-9a4f-5feb-a1df-0a2b3719d3a8",
+          "name": "filo pastry",
+          "display_text": "500g Filo Pastry",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "77998604-4b7c-56c5-9a8b-8d06a2fc74db",
+          "ingredient_id": "a9458e01-2452-564a-b678-4a8e579f2555",
+          "name": "ground pistachios",
+          "display_text": "100g Ground Pistachios",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "First, make the syrup. Tip the sugar into a large saucepan with 650ml water. Stir over a low heat until the sugar has dissolved, then turn up the heat and bring to the boil. Reduce the heat to a simmer and cook for 15 mins, then squeeze in a few drops of lemon juice and simmer for a further 5 mins. Remove from the heat and leave to cool. Meanwhile, for assembling the baklava later, melt the butter in a small pan over a low heat for 5 mins, skimming and discarding any froth that rises to the surface.",
+      "ingredients_used": [
+        "007450dc-5d38-5ad6-bb9d-9ece12bd8d85",
+        "3a0d43a5-0a9e-5c10-8bbf-dfbc9656789a",
+        "14c66894-9864-5ccd-bd61-58203a6b996f",
+        "6064de16-9f2a-5449-8af8-a349323da3af"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "For the filling, crush all of the nuts in a pestle and mortar, or blitz in a food processor – you want a mixture of finely ground nuts with a few chunky pieces. Tip into a bowl, stir through the spices and set aside.",
+      "ingredients_used": [
+        "91c61a09-4cef-5f57-8df0-60a708a19597"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "In a separate bowl, mix the ricotta with the lemon and orange zests and vanilla. Heat the oven to 180C/160C fan/gas 4. Brush the bottom of a large baking tray (about 35 x 47cm) with some of the melted butter. Working with one sheet of filo at a time (covering the rest with a damp tea towel to prevent it drying out), lay the sheet out on a board so one of the short ends is facing you. Sprinkle 30g of the nut mixture evenly over the whole sheet, then spoon 1 tbsp of the ricotta mixture across the end closest to you. Fold this end over to enclose the filling, then lay a long, thin skewer next to the folded edge and roll the pastry around it to create a long roll. When it’s fully rolled up, it should be roughly the thickness of a chipolata sausage. While holding one end of the rolling pin or skewer, gently scrunch the filo roll like an accordion and carefully push it off the skewer and onto the prepared tray. Repeat with the rest of the filo and fillings – you should get about 12 rolls. Cut each roll into four to make 48 large baklava, or eight to make 96 mini.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "d25525d5-4c94-5b6c-8d0b-c603094935ff",
+        "14c66894-9864-5ccd-bd61-58203a6b996f",
+        "83f4ddfd-663e-5526-885d-58ad13c713a7",
+        "6064de16-9f2a-5449-8af8-a349323da3af",
+        "daa89dda-8ce1-529b-8c72-d6d8adcb7fad"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Brush with the remaining melted butter. Bake for 20-25 mins until evenly golden, turning the tray around halfway through. While still hot, immediately pour over 5-6 ladlefuls of the syrup. You should hear the syrup sizzle as it hits the hot baklava. Set aside to cool and absorb.",
+      "timer_seconds": 1500,
+      "ingredients_used": [
+        "6064de16-9f2a-5449-8af8-a349323da3af"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Melt the dark chocolate in a heatproof bowl set over a pan of simmering water, ensuring the bowl doesn’t touch the water, or in the microwave in short bursts. Drizzle this over the cooled baklava and sprinkle with the ground pistachios.",
+      "ingredients_used": [
+        "77998604-4b7c-56c5-9a8b-8d06a2fc74db"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/baklava-with-spiced-nuts-ricotta-chocolate"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

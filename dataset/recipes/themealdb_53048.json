@@ -1,0 +1,333 @@
+{
+  "id": "71546003-c3c5-5fc1-9e94-95c7498bd3e3",
+  "version": "1.0.0",
+  "title": "Mee goreng mamak",
+  "slug": "mee-goreng-mamak",
+  "summary": "A Malaysian stir-fried noodle dish characterized by a spicy, tangy paste made from aromatics and tamarind. It typically features a combination of tofu, vegetables, and seafood.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:00:01Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53048"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/xquakq1619787532.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/xquakq1619787532.jpg/small",
+      "alt_text": "Photo of Mee goreng mamak",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=pOJEmDBgtSk"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "336a5cbb-5bdd-53e1-aca6-9d291720d97b",
+        "slug": "malaysian",
+        "name": "Malaysian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 25,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 50
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "portions",
+    "serving_size_description": "1 plate of noodles"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "peanuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish"
+    ],
+    "free_from": [
+      "dairy",
+      "tree_nuts",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "2043d2eb-34fd-5505-84f1-6538e2ec2e1a",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "592ffee1-d2fd-50d3-8297-a0e335f4eecb",
+          "ingredient_id": "200b7141-d967-52ee-b154-4f8ed303ac02",
+          "name": "peanuts",
+          "display_text": "50g Peanuts",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "4368eb6b-130e-5580-8d57-e2cab652034a",
+          "ingredient_id": "3deb6c1f-bd27-560b-a63b-f2b3eaf9e82e",
+          "name": "chilli",
+          "display_text": "15g Chilli",
+          "quantity": 15.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "33e566a4-5135-522a-addc-86a00910c729",
+          "ingredient_id": "d2faf7d8-97cd-57b2-9aee-58261714f9d5",
+          "name": "prawns",
+          "display_text": "10g Prawns",
+          "quantity": 10.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "25307d58-46ed-5d94-867b-0087dabdf8e8",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "5 tbs Oil",
+          "quantity": 5.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "d40b7385-ce10-5fcd-8928-5189d5017a36",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "750 ml Water",
+          "quantity": 750.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 750.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "4cc0768e-33d7-5f4e-81eb-5e646787cd5f",
+          "ingredient_id": "459ccfd6-d28f-544c-80d1-1b5a80bf5bed",
+          "name": "tamarind paste",
+          "display_text": "1/2 tbs Tamarind Paste",
+          "quantity": 0.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "ebb1a594-49a9-529d-aef6-4430d95ed40d",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "250g Potatoes",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "a5e52ca5-fe14-5fde-b68d-9c45632db234",
+          "ingredient_id": "716f7639-3b59-56a7-9146-1819649ebdad",
+          "name": "red onions",
+          "display_text": "2 Red Onions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ab81a4b0-bb71-5734-8e50-bbd93a30b076",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "4 Garlic Clove",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "592ead7e-6179-536b-8157-e11400615143",
+          "ingredient_id": "8604c41c-a935-5634-b405-fed806fe806b",
+          "name": "cabbage",
+          "display_text": "30g Cabbage",
+          "quantity": 30.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "79ab30ee-678b-5a85-9a66-60c73b3372db",
+          "ingredient_id": "f92f7715-0730-5d6e-946b-35f767bb7793",
+          "name": "chinese broccoli",
+          "display_text": "30g Chinese Broccoli",
+          "quantity": 30.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "0a623ffc-d900-5231-9ba7-36a7f842fc50",
+          "ingredient_id": "c7df0777-fdda-55fe-977b-f7cb1e396954",
+          "name": "tofu",
+          "display_text": "1 Tofu",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "5267e9e3-145e-5674-be7b-f5a270d2ba55",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "1 tbs Soy Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "3f42cda2-e20a-5d17-968c-56551eef8b79",
+          "ingredient_id": "146fea77-b9e6-5dfa-9b3e-8978c2ade654",
+          "name": "noodles",
+          "display_text": "4 Noodles",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "c4815260-f3fe-57b1-bee7-89ffd689afc8",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oil in a pan at medium heat. Then, add peanuts, dried chilies, dried shrimps and dhal. Fry the aromatics until fragrant. Remove from pan and leave aside.",
+      "ingredients_used": [
+        "592ffee1-d2fd-50d3-8297-a0e335f4eecb",
+        "25307d58-46ed-5d94-867b-0087dabdf8e8"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Blend fried ingredients with tamarind paste and water until fine. Then, sauté the blended ingredients in oil heated over low heat. Continue cooking until the oil separates from the paste and turns a darker shade.",
+      "ingredients_used": [
+        "25307d58-46ed-5d94-867b-0087dabdf8e8",
+        "d40b7385-ce10-5fcd-8928-5189d5017a36",
+        "4cc0768e-33d7-5f4e-81eb-5e646787cd5f"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Skin and cut potatoes into small chunks and boil them in a pot of water until knife-tender. Once ready, remove them from the pot and leave aside. Discard water.",
+      "ingredients_used": [
+        "d40b7385-ce10-5fcd-8928-5189d5017a36",
+        "ebb1a594-49a9-529d-aef6-4430d95ed40d"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Slice onion and fried tofu, mince garlic, cut some cabbage and Chinese flowering cabbage (choi sam). Prepare prawn fritters and cut them. Boil noodles to soften them if bought dried. Also mix black soy sauce with water.",
+      "ingredients_used": [
+        "d40b7385-ce10-5fcd-8928-5189d5017a36",
+        "592ead7e-6179-536b-8157-e11400615143",
+        "0a623ffc-d900-5231-9ba7-36a7f842fc50",
+        "5267e9e3-145e-5674-be7b-f5a270d2ba55",
+        "3f42cda2-e20a-5d17-968c-56551eef8b79"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "To fry one portion of mee goreng mamak, heat oil and add 1/4 of the following ingredients in this order: garlic, onion, paste. Sauté until fragrant. Optionally, add prawns.",
+      "ingredients_used": [
+        "33e566a4-5135-522a-addc-86a00910c729",
+        "25307d58-46ed-5d94-867b-0087dabdf8e8"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Add in 1/4 amount of tofu, boiled potatoes, cabbage, Chinese flowering cabbage and prawn fritters. Sauté for another 30 seconds.",
+      "timer_seconds": 30,
+      "ingredients_used": [
+        "ebb1a594-49a9-529d-aef6-4430d95ed40d",
+        "592ead7e-6179-536b-8157-e11400615143",
+        "0a623ffc-d900-5231-9ba7-36a7f842fc50"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Add noodles to the wok. Add 3 tablespoons of dark soy sauce mixture. Mix evenly for the next 1 minute. Then, move the noodles to the side of the wok. Stir in an egg. Garnish with a slice of lime and slices of green chilies. To cook another plate of noodles, repeat from step 5 onwards.",
+      "timer_seconds": 60,
+      "ingredients_used": [
+        "5267e9e3-145e-5674-be7b-f5a270d2ba55",
+        "3f42cda2-e20a-5d17-968c-56551eef8b79",
+        "c4815260-f3fe-57b1-bee7-89ffd689afc8"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.nyonyacooking.com/recipes/mee-goreng-mamak~BkTLRjTuX"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

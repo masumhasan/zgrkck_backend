@@ -1,0 +1,195 @@
+{
+  "id": "9a9c02a1-2fb8-5c34-bbf1-2d2dd1401156",
+  "version": "1.0.0",
+  "title": "plantain rolls",
+  "slug": "plantain-rolls",
+  "summary": "Fried plantain slices rolled around pieces of codfish bulljaw and secured with a skewer.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:45:35Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53566"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/6ebldy1784672108.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/6ebldy1784672108.jpg/small",
+      "alt_text": "Photo of plantain rolls",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4da88d96-f05f-5f73-a14b-c5e37ee2541e",
+        "slug": "dominican",
+        "name": "Dominican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 25
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "pieces",
+    "serving_size_description": "2-3 plantain rolls"
+  },
+  "allergens": {
+    "contains": [
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "10012eaa-1516-5ae6-8282-04af80854cc6",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "148b1a43-d74d-5e24-b1f5-baaea77c281f",
+          "ingredient_id": "a3d2e3eb-8e72-5f6f-9a52-c0cdb0bdc45a",
+          "name": "plantain",
+          "display_text": "3 Plantain",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b50c97b4-4132-5b32-8eec-a8b7dc6399de",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "1 cup Vegetable Oil",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "ee192dd0-f038-51d4-91c8-50ab6265b3e9",
+          "ingredient_id": "9d9fa904-c94d-500e-849d-81ff7e4ed04c",
+          "name": "codfish bulljaw",
+          "display_text": "1/2 lb Codfish Bulljaw",
+          "quantity": 0.5,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 226.8,
+          "metric_unit": "gram",
+          "category": "fish"
+        },
+        {
+          "id": "d49e45b8-16d5-596a-919f-1a81a88d7375",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "1/4 cup Parsley",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Peel plantains",
+      "ingredients_used": [
+        "148b1a43-d74d-5e24-b1f5-baaea77c281f"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Slice them in ¼ inch slices (horizontally)"
+    },
+    {
+      "step_number": 3,
+      "instruction": "Heat oil in the frying and add your plantain slices to the pan",
+      "ingredients_used": [
+        "148b1a43-d74d-5e24-b1f5-baaea77c281f"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "fried plantain rolls",
+      "ingredients_used": [
+        "148b1a43-d74d-5e24-b1f5-baaea77c281f"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "When they start getting golden brown, turn them over"
+    },
+    {
+      "step_number": 6,
+      "instruction": "Remove from the frying pan when both sides are brown, and place them on a plater lined with paper towel to absorb the oil"
+    },
+    {
+      "step_number": 7,
+      "instruction": "Place codfish bulljaw on the end of your plantain slice and roll it",
+      "ingredients_used": [
+        "148b1a43-d74d-5e24-b1f5-baaea77c281f",
+        "ee192dd0-f038-51d4-91c8-50ab6265b3e9"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Secure the roll with the toothpick or skewer (I like using knotted bamboo)"
+    },
+    {
+      "step_number": 9,
+      "instruction": "Garnish and enjoy!"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://dominicagourmet.com/how-to-make-fried-plantain-rolls/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

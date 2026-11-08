@@ -1,0 +1,316 @@
+{
+  "id": "096a7d97-1ddc-5c3e-8ba3-bd7389519b91",
+  "version": "1.0.0",
+  "title": "Chick-Fil-A Sandwich",
+  "slug": "chick-fil-a-sandwich",
+  "summary": "A crispy fried chicken sandwich featuring a pickle-brined chicken breast coated in a seasoned flour mixture and served on a toasted sesame seed bun.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:57:11Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53016"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/sbx7n71587673021.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/sbx7n71587673021.jpg/small",
+      "alt_text": "Photo of Chick-Fil-A Sandwich",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=1WDesu7bUDM"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b95bb9d4-1e18-5623-a50f-942c7d140e82",
+        "slug": "american",
+        "name": "American"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "marinating_time_minutes": 60,
+    "total_time_minutes": 85
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 fried chicken cutlet on a bun"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs",
+      "sesame",
+      "celery"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "4506229e-e056-58c3-852f-dc852cadf4fd",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "dbea97e9-7738-5048-9d5f-62fb5d1af15c",
+          "ingredient_id": "e23191a1-4966-5b21-a6f1-8df6f50b79db",
+          "name": "chicken breast",
+          "display_text": "1 Chicken Breast",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "ad0ef248-ca8f-5183-bd61-3a5a802e2f64",
+          "ingredient_id": "6b7f3319-2721-5bad-8f34-000a78ad7ad5",
+          "name": "pickle juice",
+          "display_text": "1/4 cup Pickle Juice",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "16f432a5-79f1-5708-b9cd-13c51a45ae54",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "26e638b6-4f91-5510-885a-f1cc9c3c9265",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "1/4 cup Milk",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "3e20eac6-0254-5c62-9d90-47a4e7a63269",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "1/2 cup Flour",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "98072ae0-5084-52c5-8d7d-b67ce19e2e43",
+          "ingredient_id": "c3b952d9-9879-569e-a989-b29a9b7ec664",
+          "name": "icing sugar",
+          "display_text": "1 tbs Icing Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "f38ce8ba-3fee-5dd2-8039-d40a36e0dc1d",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1/2 tsp Paprika",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "72da1dfe-6be8-5438-8089-5c996b229712",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/2 tsp Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "326babaf-e26a-5abc-81b9-369b4ab9cf54",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1/4 tsp Black Pepper",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "1af0df39-04e7-5e52-900d-ed0bc6199208",
+          "ingredient_id": "856e47ab-bcee-5e44-bc03-f1ba0c6859b1",
+          "name": "garlic powder",
+          "display_text": "1/4 tsp Garlic Powder",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "62d4970b-ece8-5f66-88e6-b1993e616547",
+          "ingredient_id": "4f7cbde9-b895-5798-a448-39acd7d23bde",
+          "name": "celery salt",
+          "display_text": "1/4 tsp Celery Salt",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "ce3ca7af-fab9-5484-b3a0-71034e0a8f79",
+          "ingredient_id": "97dd86b9-4ad7-5a3a-bc6c-86485409c325",
+          "name": "cayenne pepper",
+          "display_text": "1/2 tsp Cayenne Pepper",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3eff331c-8b66-57d7-83e8-c87747b24efe",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 cup Olive Oil",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "f3e4e219-25e8-5c6e-9557-ab48e2a1ab42",
+          "ingredient_id": "dcfeacec-32e6-56ec-ba6a-97da3c4663d0",
+          "name": "sesame seed burger buns",
+          "display_text": "1 Sesame Seed Burger Buns",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "grains_pasta"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Wrap the chicken loosely between plastic wrap and pound gently with the flat side of a meat tenderizer until about 1/2 inch thick all around."
+    },
+    {
+      "step_number": 2,
+      "instruction": "Cut into two pieces, as even as possible."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Marinate in the pickle juice for 30 minutes to one hour (add a teaspoon of Tabasco sauce now for a spicy sandwich).",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "ad0ef248-ca8f-5183-bd61-3a5a802e2f64"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Beat the egg with the milk in a bowl.",
+      "ingredients_used": [
+        "16f432a5-79f1-5708-b9cd-13c51a45ae54",
+        "26e638b6-4f91-5510-885a-f1cc9c3c9265"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Combine the flour, sugar, and spices in another bowl.",
+      "ingredients_used": [
+        "3e20eac6-0254-5c62-9d90-47a4e7a63269"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Dip the chicken pieces each into the egg on both sides, then coat in flour on both sides.",
+      "ingredients_used": [
+        "16f432a5-79f1-5708-b9cd-13c51a45ae54",
+        "3e20eac6-0254-5c62-9d90-47a4e7a63269"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Heat the oil in a skillet (1/2 inch deep) to about 345-350."
+    },
+    {
+      "step_number": 8,
+      "instruction": "Fry each cutlet for 2 minutes on each side, or until golden and cooked through.",
+      "timer_seconds": 120
+    },
+    {
+      "step_number": 9,
+      "instruction": "Blot on paper and serve on toasted buns with pickle slices.",
+      "ingredients_used": [
+        "f3e4e219-25e8-5c6e-9557-ab48e2a1ab42"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://hilahcooking.com/chick-fil-a-copycat/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

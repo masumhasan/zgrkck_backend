@@ -1,0 +1,257 @@
+{
+  "id": "c4044b62-a6e2-50c2-9f59-97cd817809a1",
+  "version": "1.0.0",
+  "title": "Magwinya: Doughnut Bites from Botswana",
+  "slug": "magwinya-doughnut-bites-from-botswana",
+  "summary": "Magwinya are traditional Botswanan fried dough bites, often served as a snack or dessert, characterized by a crispy exterior and soft interior.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:37:26Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53474"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/4ae5tp1782506270.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/4ae5tp1782506270.jpg/small",
+      "alt_text": "Photo of Magwinya: Doughnut Bites from Botswana",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "7eccd33d-bce1-55b8-8196-232aa305f7a3",
+        "slug": "botswanan",
+        "name": "Botswanan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "rest_time_minutes": 90,
+    "total_time_minutes": 110
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a handful of doughnut bites"
+  },
+  "allergens": {
+    "contains": [
+      "gluten"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "a20b39ae-e799-5dbe-8813-f24954c116cc",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "338f145b-8b6c-5ce9-8fcf-dc2542fee9b7",
+          "ingredient_id": "d1e5ec78-b8c2-5649-962c-a9f67272ea92",
+          "name": "all purpose flour",
+          "display_text": "300g All purpose flour",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "25ae7aca-291b-562d-9813-b29978cfbe47",
+          "ingredient_id": "390767a5-b5bd-56c6-93dd-03bf9dcc5356",
+          "name": "warm water",
+          "display_text": "1/4 cup Warm Water",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "09a736d5-98d1-5c02-93e2-1a2f0f56d32f",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "2 tablespoons Sugar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "52f6bfea-0e2b-50fc-8d82-43d85b1af888",
+          "ingredient_id": "28b21302-909b-59d3-a88f-a543e26ac34f",
+          "name": "yeast",
+          "display_text": "1 1/2 tsp Yeast",
+          "quantity": 1.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "b8420ada-fd07-52a4-8a6a-a24d745be59f",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/4 tsp Salt",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "0223437c-8068-5fa6-b714-2b7d23efec2b",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "1 1/2 tsp Vegetable Oil",
+          "quantity": 1.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "6a98d861-eb67-55c9-9df4-bec4449aca52",
+          "ingredient_id": "afe158e8-7b4c-5b42-b209-215345addd1c",
+          "name": "ground sugar",
+          "display_text": "1/2 cup Ground Sugar",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "5b1de545-a4c8-59a6-9641-019391201ada",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "2 cups Vegetable Oil",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Mix the dough"
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a stand mixer bowl. add the water, sugar, and yeast. Leave to get foamy, about 5 minutes.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "09a736d5-98d1-5c02-93e2-1a2f0f56d32f",
+        "52f6bfea-0e2b-50fc-8d82-43d85b1af888"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add in the flour, salt, and vegetable oil.",
+      "ingredients_used": [
+        "b8420ada-fd07-52a4-8a6a-a24d745be59f",
+        "0223437c-8068-5fa6-b714-2b7d23efec2b",
+        "5b1de545-a4c8-59a6-9641-019391201ada"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Knead with a dough hook until a smooth dough forms, about 5 minutes.",
+      "timer_seconds": 300
+    },
+    {
+      "step_number": 5,
+      "instruction": "Leave the dough to rise"
+    },
+    {
+      "step_number": 6,
+      "instruction": "Remove the dough from the mixer bowl and form into a ball. Lightly mist the bowl with oil and replace the ball of dough into it. Cover the bowl and let rise in a warm place, 1 to 1½ hours, until doubled."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Shape and fry the doughnuts"
+    },
+    {
+      "step_number": 8,
+      "instruction": "Preheat about 5cm (2\") of vegetable oil in a pot to 180℃ / 350℉ – you can use a smaller pot needing less oil to fill but cooking less doughnuts at a time, or a larger one and cook more each batch. I also like to set up a drying rack set over a paper-towel-lined sheet pan to drain the doughnuts on, so they stay crispy. You can also prep a plate with paper towels if you don't want to bother.",
+      "ingredients_used": [
+        "0223437c-8068-5fa6-b714-2b7d23efec2b",
+        "5b1de545-a4c8-59a6-9641-019391201ada"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "When the oil is at temperature, use a cookie scoop or two regular tablespoons to form a piece of dough into a rough ball shape and place in the oil. Repeat for as many doughnuts as will fit in your pot without overcrowding."
+    },
+    {
+      "step_number": 10,
+      "instruction": "Fry each doughnut for about a minute on each side, turning halfway through. Drain on prepared rack or paper towels."
+    },
+    {
+      "step_number": 11,
+      "instruction": "When the doughnuts have cooled slightly, sprinkle with powdered sugar.",
+      "ingredients_used": [
+        "09a736d5-98d1-5c02-93e2-1a2f0f56d32f"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://kosherworldkitchen.com/magwinya-doughnuts-from-botswana/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

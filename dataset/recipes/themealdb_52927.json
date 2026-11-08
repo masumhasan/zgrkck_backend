@@ -1,0 +1,358 @@
+{
+  "id": "8aee1c30-3e77-5634-bc4e-0e1726dbb3a6",
+  "version": "1.0.0",
+  "title": "Montreal Smoked Meat",
+  "slug": "montreal-smoked-meat",
+  "summary": "A traditional Canadian deli-style beef brisket that is cured, rubbed with spices, smoked, and then steamed for a tender result.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:49:54Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52927"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/uttupv1511815050.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/uttupv1511815050.jpg/small",
+      "alt_text": "Photo of Montreal Smoked Meat",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=g5oCDoyxbBk"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "54838e2c-2c59-558b-8932-e019f7cc6d0c",
+        "slug": "canadian",
+        "name": "Canadian"
+      }
+    ],
+    "tags": [
+      "snack",
+      "speciality",
+      "strongflavor"
+    ],
+    "meal_types": [
+      "snack"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "advanced",
+    "occasions": [
+      "easter"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 480,
+    "marinating_time_minutes": 576,
+    "total_time_minutes": 1086
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "servings",
+    "serving_size_description": "slices of brisket"
+  },
+  "allergens": {
+    "contains": [
+      "mustard",
+      "celery"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "sulfites"
+    ],
+    "may_contain": [
+      "gluten"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "80a0a6ac-82b0-514b-9ffc-87a852015027",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "e731f2a4-0a6f-5ba4-81bf-d15b12234094",
+          "ingredient_id": "912306cc-7127-5c59-8a0d-abb900c0fa1c",
+          "name": "beef brisket",
+          "display_text": "1 Beef Brisket",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "819e5576-5167-5c25-9905-4ed3847f1584",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "3 tbs Salt",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "08102898-7f44-5831-8d94-687e2b6075a0",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "3 tbs Black Pepper",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "df547e18-8bed-54c0-b61e-79ad26fe70e3",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "1 tbs Coriander",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d2398c21-83fe-50b4-81db-f6e499951934",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 tbs Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "61b82e45-f575-55ef-8e2e-dd43ff9f44f5",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "1 tsp Bay Leaf",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "9e48d66d-4065-5ef0-8a39-fd8e75f0f4c9",
+          "ingredient_id": "73063cfc-1094-5f58-87bf-49227197f2a2",
+          "name": "cloves",
+          "display_text": "1 tsp Cloves",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "33fb152b-1ed0-5aac-b88a-8eb0c91396e9",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "3 tbs Black Pepper",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "a254d862-8901-5bec-816f-3bfbccb8ac52",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "1 tbs Coriander",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "b2010600-c615-5211-8088-8f07e0cba1a3",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1 tbs Paprika",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "2639ba6d-8b7b-5689-a0a0-6be6824f990a",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 tbs Garlic",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "3f2e4360-771f-5ee3-ab0d-7abd6f412bd5",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 tbs Onion",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "6dc614c6-aae1-51a8-9684-7db686b9c1d2",
+          "ingredient_id": "c20ef13e-7f52-5fce-847f-34f123e6392e",
+          "name": "dill",
+          "display_text": "1 tbs Dill",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "b053e960-467a-5e1d-8e1d-f7ba7497fb87",
+          "ingredient_id": "3442e73c-2c01-58d5-ad72-6d20eeddcc9a",
+          "name": "english mustard",
+          "display_text": "1 tsp English Mustard",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "99c97259-15a4-5eef-9fdc-82fa7e0969b1",
+          "ingredient_id": "4f7cbde9-b895-5798-a448-39acd7d23bde",
+          "name": "celery salt",
+          "display_text": "1 tbs Celery Salt",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "6d26d486-77ae-5992-9eaf-14a4b27b35b2",
+          "ingredient_id": "288d1261-262e-5a23-aa76-135a3c62df23",
+          "name": "red pepper flakes",
+          "display_text": "1 tsp Red Pepper Flakes",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "To make the cure, in a small bowl mix together salt, pink salt, black pepper, coriander, sugar, bay leaf, and cloves. Coat entire brisket with the cure and place in an extra-large resealable plastic bag. Place in the coldest part of the refrigerator and cure for 4 days, flipping brisket twice a day.",
+      "ingredients_used": [
+        "e731f2a4-0a6f-5ba4-81bf-d15b12234094",
+        "819e5576-5167-5c25-9905-4ed3847f1584",
+        "08102898-7f44-5831-8d94-687e2b6075a0",
+        "df547e18-8bed-54c0-b61e-79ad26fe70e3",
+        "d2398c21-83fe-50b4-81db-f6e499951934",
+        "61b82e45-f575-55ef-8e2e-dd43ff9f44f5",
+        "9e48d66d-4065-5ef0-8a39-fd8e75f0f4c9",
+        "33fb152b-1ed0-5aac-b88a-8eb0c91396e9",
+        "a254d862-8901-5bec-816f-3bfbccb8ac52",
+        "99c97259-15a4-5eef-9fdc-82fa7e0969b1"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Remove brisket from bag and wash as much cure off as possible under cold running water. Place brisket in a large container and fill with water and let soak for 2 hours, replacing water every 30 minutes. Remove from water and pat dry with paper towels.",
+      "ingredients_used": [
+        "e731f2a4-0a6f-5ba4-81bf-d15b12234094"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "To make the rub, mix together black pepper, coriander, paprika, garlic powder, onion powder, dill weed, mustard, celery seed, and crushed red papper in a small bowl. Coat entire brisket with the rub.",
+      "ingredients_used": [
+        "e731f2a4-0a6f-5ba4-81bf-d15b12234094",
+        "08102898-7f44-5831-8d94-687e2b6075a0",
+        "df547e18-8bed-54c0-b61e-79ad26fe70e3",
+        "33fb152b-1ed0-5aac-b88a-8eb0c91396e9",
+        "a254d862-8901-5bec-816f-3bfbccb8ac52",
+        "b2010600-c615-5211-8088-8f07e0cba1a3",
+        "2639ba6d-8b7b-5689-a0a0-6be6824f990a",
+        "3f2e4360-771f-5ee3-ab0d-7abd6f412bd5",
+        "6dc614c6-aae1-51a8-9684-7db686b9c1d2",
+        "b053e960-467a-5e1d-8e1d-f7ba7497fb87"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Fire up smoker or grill to 225 degrees, adding chunks of smoking wood chunks when at temperature. When wood is ignited and producing smoke, place brisket in, fat side up, and smoke until an instant read thermometer registers 165 degrees when inserted into thickest part of the brisket, about 6 hours.",
+      "timer_seconds": 21600,
+      "ingredients_used": [
+        "e731f2a4-0a6f-5ba4-81bf-d15b12234094"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Transfer brisket to large roasting pan with V-rack. Place roasting pan over two burners on stovetop and fill with 1-inch of water. Bring water to a boil over high heat, reduce heat to medium, cover roasting pan with aluminum foil, and steam brisket until an instant read thermometer registers 180 degrees when inserted into thickest part of the meat, 1 to 2 hours, adding more hot water as needed.",
+      "timer_seconds": 7200,
+      "ingredients_used": [
+        "e731f2a4-0a6f-5ba4-81bf-d15b12234094"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Transfer brisket to cutting board and let cool slightly. Slice and serve, preferably on rye with mustard.",
+      "ingredients_used": [
+        "e731f2a4-0a6f-5ba4-81bf-d15b12234094",
+        "b053e960-467a-5e1d-8e1d-f7ba7497fb87"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://www.meatwave.com/blog/montreal-smoked-meat-recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

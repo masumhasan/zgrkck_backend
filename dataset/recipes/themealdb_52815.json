@@ -1,0 +1,226 @@
+{
+  "id": "73904ac1-8013-581e-a3a0-45757838d667",
+  "version": "1.0.0",
+  "title": "French Lentils With Garlic and Thyme",
+  "slug": "french-lentils-with-garlic-and-thyme",
+  "summary": "A simple French dish of lentils simmered with aromatic vegetables, garlic, and thyme.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:39:52Z",
+  "updated_at": "2026-10-16T10:22:45Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52815"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/vwwspt1487394060.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/vwwspt1487394060.jpg/small",
+      "alt_text": "Photo of French Lentils With Garlic and Thyme",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=CrlTS1mJQMA"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "fe8f07a1-591f-5711-ae5b-f3c9afcc3e60",
+        "slug": "french",
+        "name": "French"
+      }
+    ],
+    "tags": [
+      "pulse"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course",
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 35,
+    "total_time_minutes": 45
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of lentils"
+  },
+  "allergens": {
+    "contains": [
+      "celery"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "890f5b44-7f3e-5307-a20e-287d6b4ae362",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "9575c32e-ba01-54f6-b927-9fcddd2351da",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "3 tablespoons Olive Oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "8c263ef8-8f9b-5b74-8560-1fbddadf78f8",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c3d9b9c3-b3fd-5ee5-a0de-228baae756b4",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "9aa760e6-0d16-5c1f-beb6-0a412b95b893",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "1 Carrots",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3289f34d-c674-5810-bd92-9f19f20e65d9",
+          "ingredient_id": "fe47fd12-70bb-5c48-8d2f-c8c9a426e605",
+          "name": "french lentils",
+          "display_text": "2 1/4 cups French Lentils",
+          "quantity": 2.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 540.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "537c1139-b92c-5a1d-9fc2-783368ff84de",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "1 teaspoon Thyme",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "98e694a1-1628-581b-8c83-f4e54c737c87",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "3 Bay Leaf",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d75b1f1a-19c9-50ea-9cb0-23afdcc80eaa",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tablespoon Salt",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "568ff949-ba40-5f25-b491-880b7666f6e2",
+          "ingredient_id": "ed4951b3-26e6-5bb4-a5af-9c61a46687a0",
+          "name": "celery",
+          "display_text": "2 sticks Celery",
+          "quantity": 2.0,
+          "unit": "stick",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Place a large saucepan over medium heat and add oil. When hot, add chopped vegetables and sauté until softened, 5 to 10 minutes.",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add 6 cups water, lentils, thyme, bay leaves and salt. Bring to a boil, then reduce to a fast simmer.",
+      "ingredients_used": [
+        "3289f34d-c674-5810-bd92-9f19f20e65d9",
+        "537c1139-b92c-5a1d-9fc2-783368ff84de",
+        "d75b1f1a-19c9-50ea-9cb0-23afdcc80eaa"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Simmer lentils until they are tender and have absorbed most of the water, 20 to 25 minutes. If necessary, drain any excess water after lentils have cooked. Serve immediately, or allow them to cool and reheat later.",
+      "timer_seconds": 1500,
+      "ingredients_used": [
+        "3289f34d-c674-5810-bd92-9f19f20e65d9"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "For a fuller taste, use some chicken stock and reduce the water by the same amount."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

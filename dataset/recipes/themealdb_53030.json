@@ -1,0 +1,254 @@
+{
+  "id": "baaed464-ef89-580a-a240-a6ad081a380f",
+  "version": "1.0.0",
+  "title": "Feteer Meshaltet",
+  "slug": "feteer-meshaltet",
+  "summary": "Feteer Meshaltet is a traditional Egyptian flaky pastry made by layering dough with butter and oil. It is characterized by its many thin, crispy layers and soft interior.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:58:22Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53030"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/9f4z6v1598734293.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/9f4z6v1598734293.jpg/small",
+      "alt_text": "Photo of Feteer Meshaltet",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=-mW1unsVhFU"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "3586d868-9b83-5a6f-adb2-43d378fffcd2",
+        "slug": "egyptian",
+        "name": "Egyptian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "snack"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 10,
+    "rest_time_minutes": 20,
+    "total_time_minutes": 50
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 feteer"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "b5bd5c02-8308-50fb-82c4-ca584e72559b",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "56249ab9-3ad7-5a2b-825f-5cd872c7aa9b",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "4 cups Flour",
+          "quantity": 4.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 960.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "66b6af04-7968-5e91-be87-55133ae98f8c",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1 1/2 cups Water",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "c08f3e72-c44a-5381-8bd0-4735f9fd9f50",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/4 tsp Salt",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "a611c4b1-623c-5616-ac84-e22095bb4ed2",
+          "ingredient_id": "bc46b2a6-8a59-50ee-a044-ce38bddb125c",
+          "name": "unsalted butter",
+          "display_text": "1 cup Unsalted Butter",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "d375d345-7881-588a-b9c2-68384887d7fa",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1/4 cup Olive Oil",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Mix the flour and salt then pour one cup of water and start kneading.",
+      "ingredients_used": [
+        "56249ab9-3ad7-5a2b-825f-5cd872c7aa9b",
+        "66b6af04-7968-5e91-be87-55133ae98f8c",
+        "c08f3e72-c44a-5381-8bd0-4735f9fd9f50"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "If you feel the dough is still not coming together or too dry, gradually add the remaining water until you get a dough that is very elastic so that when you pull it and it won’t be torn.",
+      "ingredients_used": [
+        "66b6af04-7968-5e91-be87-55133ae98f8c"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Let the dough rest for just 10 minutes then divide the dough into 6-8 balls depending on the size you want for your feteer.",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 4,
+      "instruction": "Warm up the butter/ghee or oil you are using and pour into a deep bowl.",
+      "ingredients_used": [
+        "a611c4b1-623c-5616-ac84-e22095bb4ed2"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Immerse the dough balls into the warm butter. Let it rest for 15 to 20 minutes.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "a611c4b1-623c-5616-ac84-e22095bb4ed2"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Preheat oven to 550F.",
+      "temperature": {
+        "value": 550,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 7,
+      "instruction": "Stretch the first ball with your hands on a clean countertop. Stretch it as thin as you can, the goal here is to see your countertop through the dough."
+    },
+    {
+      "step_number": 8,
+      "instruction": "Fold the dough over itself to form a square brushing in between folds with the butter mixture.",
+      "ingredients_used": [
+        "a611c4b1-623c-5616-ac84-e22095bb4ed2"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Set aside and start making the next ball."
+    },
+    {
+      "step_number": 10,
+      "instruction": "Stretch the second one thin as we have done for the first ball."
+    },
+    {
+      "step_number": 11,
+      "instruction": "Place the previous one on the middle seam side down. Fold the outer one over brushing with more butter mixture as you fold. Set aside.",
+      "ingredients_used": [
+        "a611c4b1-623c-5616-ac84-e22095bb4ed2"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Keep doing this for the third and fourth balls. Now we have one ready, place on a 10 inch baking/pie dish seam side down and brush the top with more butter.",
+      "ingredients_used": [
+        "a611c4b1-623c-5616-ac84-e22095bb4ed2"
+      ]
+    },
+    {
+      "step_number": 13,
+      "instruction": "Repeat for the remaining 4 balls to make a second one. With your hands lightly press the folded feteer to spread it on the baking dish."
+    },
+    {
+      "step_number": 14,
+      "instruction": "Place in preheated oven for 10 minutes when the feteer starts puffing turn on the broiler to brown the top.",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 15,
+      "instruction": "When it is done add little butter on top and cover so it won’t get dry.",
+      "ingredients_used": [
+        "a611c4b1-623c-5616-ac84-e22095bb4ed2"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://amiraspantry.com/egyptian-feteer-meshaltet/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "id": "cefb5b26-bc70-5f2f-82e7-1598448036cb",
+  "version": "1.0.0",
+  "title": "Yorkshire Puddings",
+  "slug": "yorkshire-puddings",
+  "summary": "Yorkshire puddings are savory, airy British side dishes made from a batter of eggs, flour, and milk.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:03:57Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53097"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/x5qz5k1761595900.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/x5qz5k1761595900.jpg/small",
+      "alt_text": "Photo of Yorkshire Puddings",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.bing.com/videos/riverview/relatedvideo?q=yorkshire+pudding+pecipe+youtune&&mid=8A37CC95703100D3C8E58A37CC95703100D3C8E5&mcid=757E2787DB13499281255AD4321A912C&FORM=VAMGZC"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 35
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces",
+    "serving_size_description": "2 Yorkshire puddings"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "4afd262b-9075-5840-8c61-a84d1ba12bf9",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "57c94384-71b4-5371-8fbb-fd0ee82c7bda",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "140g Flour",
+          "quantity": 140.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 140.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "4e6581ff-52ea-5adf-9175-332450f8bfa2",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "4 Egg",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "223e25da-efd6-52da-8d24-ab80a86a3099",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "200ml Milk",
+          "quantity": 200.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "95f82e1e-7d7a-5a02-8871-4aded1243f70",
+          "ingredient_id": "aa561384-0d26-5008-a25e-3ba9db4b2a3f",
+          "name": "sunflower oil",
+          "display_text": "Drizzle Sunflower Oil",
+          "quantity": 1,
+          "unit": "drizzle",
+          "is_optional": false,
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 230C/fan 210C/gas 8.",
+      "temperature": {
+        "value": 230,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "Drizzle a little sunflower oil evenly into two 4-hole Yorkshire pudding tins or two 12-hole non-stick muffin tins and place in the oven to heat through.",
+      "ingredients_used": [
+        "95f82e1e-7d7a-5a02-8871-4aded1243f70"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "To make the batter, tip 140g plain flour into a bowl and beat in 4 eggs until smooth.",
+      "ingredients_used": [
+        "57c94384-71b4-5371-8fbb-fd0ee82c7bda"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Gradually add 200ml milk and carry on beating until the mix is completely lump-free. Season with salt and pepper.",
+      "ingredients_used": [
+        "223e25da-efd6-52da-8d24-ab80a86a3099"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Pour the batter into a jug, then remove the hot tins from the oven. Carefully and evenly pour the batter into the holes."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Place the tins back in the oven and leave undisturbed for 20-25 mins until the puddings have puffed up and browned.",
+      "timer_seconds": 1500
+    },
+    {
+      "step_number": 7,
+      "instruction": "Serve immediately. You can now cool them and freeze for up to 1 month."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/best-yorkshire-puddings"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

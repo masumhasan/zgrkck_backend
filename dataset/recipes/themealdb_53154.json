@@ -1,0 +1,244 @@
+{
+  "id": "ee94ec6f-9e87-5c74-a2b9-4c7d56a64939",
+  "version": "1.0.0",
+  "title": "Clam, chorizo & white bean stew",
+  "slug": "clam-chorizo-white-bean-stew",
+  "summary": "A Spanish-style seafood stew featuring clams, chorizo, and butter beans in a tomato and vegetable stock base.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:09:10Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53154"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/92wbmf1763252334.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/92wbmf1763252334.jpg/small",
+      "alt_text": "Photo of Clam, chorizo & white bean stew",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=IoRuT7TxDAo"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "beginner",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "a bowl of stew with clams and beans"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "shellfish",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "814bd9b3-9a7c-5bf6-b985-03a38019a70d",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "78917d39-4c4b-5b63-9aa1-eb1ebe809754",
+          "ingredient_id": "d4235a95-0bb4-579b-8855-bbb8f4efeb46",
+          "name": "chorizo",
+          "display_text": "50g Chorizo",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "4d5322dd-a932-5cef-a1f9-62a32504a052",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "6ce084ba-831b-520e-af06-cb283130aafa",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "1 Garlic Clove",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "56a89cd5-1716-5093-a19a-da8b619c9a97",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Bunch Parsley",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "bunch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "a056d7cb-542b-51c8-ae93-6b303c96feb7",
+          "ingredient_id": "2d490c0b-0744-5be5-a104-641c87b13636",
+          "name": "vegetable stock",
+          "display_text": "200ml Vegetable Stock",
+          "quantity": 200.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "b66dbfb4-8ff4-5905-864d-afcd0dbb66aa",
+          "ingredient_id": "5cf11297-0a5b-55fb-85b2-ff239b80e4f4",
+          "name": "tinned tomatos",
+          "display_text": "400g Tinned Tomatos",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "f54f05b5-d87c-525d-a8ce-f608d04fa9f6",
+          "ingredient_id": "9a828326-2a9a-5eaa-afb5-f6508a5d14e1",
+          "name": "butter beans",
+          "display_text": "400g Butter Beans",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "326c2a10-b8e6-593d-b14c-ca494cb050cf",
+          "ingredient_id": "284d3e0d-9e9f-56ee-95b4-7e7dc1b66214",
+          "name": "sherry vinegar",
+          "display_text": "1 teaspoon Sherry vinegar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "3134aaa6-a0e4-5969-9ef5-3cd706df3cb2",
+          "ingredient_id": "ed56a766-8341-54bc-9a49-06a1d5eb42b6",
+          "name": "clams",
+          "display_text": "600g Clams",
+          "quantity": 600.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 600.0,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "d45c8036-85d5-598e-b96c-372568491fda",
+          "ingredient_id": "aea11f92-660c-5997-b6dd-1a0030c1bfef",
+          "name": "crusty bread",
+          "display_text": "To serve Crusty Bread",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "grains_pasta"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Fry the chorizo in a large frying pan with a lid, over a medium heat until it is starting to crisp up and release its oil. Add the onion and cook for 5 mins until starting to soften. Then add the garlic and finely chopped parsley, and fry for 1 min more.",
+      "ingredients_used": [
+        "78917d39-4c4b-5b63-9aa1-eb1ebe809754",
+        "4d5322dd-a932-5cef-a1f9-62a32504a052",
+        "56a89cd5-1716-5093-a19a-da8b619c9a97"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Pour on the stock and tomatoes. Bring to the boil, reduce the heat, then add the beans and sherry vinegar. Simmer for 10 mins until the liquid is slightly reduced.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "f54f05b5-d87c-525d-a8ce-f608d04fa9f6",
+        "326c2a10-b8e6-593d-b14c-ca494cb050cf"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Scatter over the clams, cover with the lid and steam for 2-4 mins, shaking the pan occasionally until the clams are open. Have a little taste before seasoning, as the clams can be quite salty. Then scatter over the chopped parsley. Eat with lots of crusty bread.",
+      "timer_seconds": 240,
+      "ingredients_used": [
+        "56a89cd5-1716-5093-a19a-da8b619c9a97",
+        "3134aaa6-a0e4-5969-9ef5-3cd706df3cb2",
+        "d45c8036-85d5-598e-b96c-372568491fda"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/clam-chorizo-white-bean-stew"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

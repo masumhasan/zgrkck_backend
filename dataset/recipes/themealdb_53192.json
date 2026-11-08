@@ -1,0 +1,379 @@
+{
+  "id": "94a3df3d-592d-5456-ab8b-4cf433e57ad4",
+  "version": "1.0.0",
+  "title": "Panang chicken curry (kaeng panang gai)",
+  "slug": "panang-chicken-curry-kaeng-panang-gai",
+  "summary": "A rich and creamy Thai curry made with coconut milk, panang curry paste, and chicken, typically served with jasmine rice.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:12:25Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53192"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/0dhtwr1763371444.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/0dhtwr1763371444.jpg/small",
+      "alt_text": "Photo of Panang chicken curry (kaeng panang gai)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=dYZHzK7YfYI"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "724b7c6a-f254-57d4-9729-335a2b2d93b1",
+        "slug": "thai",
+        "name": "Thai"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 35
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "a bowl of curry with jasmine rice"
+  },
+  "allergens": {
+    "contains": [
+      "peanuts",
+      "fish",
+      "shellfish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "fb19fd53-8b35-5e65-b5be-6214c0138fd2",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "8627a25b-af63-522d-ae0f-cb7ccf7a47e2",
+          "ingredient_id": "0435e55e-84f6-566c-ac81-37617bbab91c",
+          "name": "coconut milk",
+          "display_text": "400ml Coconut Milk",
+          "quantity": 400.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "3c68b79c-4047-5c28-ad80-ef5a7e06eaf1",
+          "ingredient_id": "a49592ac-eeec-591a-b9c5-8541109ee943",
+          "name": "panang curry paste",
+          "display_text": "1-2tbsp Panang Curry Paste",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "73f2b129-3e22-5150-acf0-63fd0e71264c",
+          "ingredient_id": "e23191a1-4966-5b21-a6f1-8df6f50b79db",
+          "name": "chicken breast",
+          "display_text": "200g Chicken Breast",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "poultry"
+        },
+        {
+          "id": "e45372d0-3569-556a-a2c6-6ba7c5f91090",
+          "ingredient_id": "76e924de-1ab6-5ae5-94fc-70f3fd268a7d",
+          "name": "green beans",
+          "display_text": "100g Green Beans",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "7f8bed8a-0c63-5875-a15c-32939907be77",
+          "ingredient_id": "de927c20-fdfa-5b98-8ee9-7840fa951a2f",
+          "name": "fish sauce",
+          "display_text": "2-3 tbsp Fish Sauce",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "f2953d10-aa2e-5a89-8c10-aff6f9270a61",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "1-2tbsp Brown Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "933d9e36-f967-55da-af95-d5a2b2834e64",
+          "ingredient_id": "fccf951a-7d8d-5390-bdc9-cbc0f83dff8f",
+          "name": "makrut lime leaves",
+          "display_text": "2 makrut lime leaves",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "f4edc089-3d56-514d-a8d7-9a98ab967774",
+          "ingredient_id": "a1783c57-4793-5f4c-b52e-1ed99ab34832",
+          "name": "basil leaves",
+          "display_text": "Handful Basil Leaves",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "f499ffe1-e7ec-57e5-8a9a-973fff4a980c",
+          "ingredient_id": "5e15f536-69f0-5645-a107-7aef5fc85d55",
+          "name": "jasmine rice",
+          "display_text": "Boiled Jasmine Rice",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "boiled",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "2707771b-816f-54da-bbea-98b468907eec",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "6 Red Chilli",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b8bd4f3d-d0e0-54ba-a156-27b37cacdaba",
+          "ingredient_id": "78d8d7b8-5363-59ef-a8e2-abdc64789807",
+          "name": "dried red chillies",
+          "display_text": "4 Dried Red Chillies",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f588b383-85da-5a34-a20a-f59e0bf855b9",
+          "ingredient_id": "9b6d6d13-8674-50d9-9392-dcd405db8263",
+          "name": "shrimp paste",
+          "display_text": "1 teaspoon Shrimp Paste",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seafood"
+        },
+        {
+          "id": "a61b5866-faf4-51aa-bdd2-36931ac0ba89",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "4 Cloves Chopped Garlic",
+          "quantity": 4.0,
+          "unit": "clove",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "618ebb79-8356-59a5-9c45-2e39b8300ddd",
+          "ingredient_id": "1ef022c5-e346-547b-99d4-708840c155a2",
+          "name": "galangal",
+          "display_text": "1 tblsp Galangal",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "9ae0da43-ecd5-509c-a20a-c28a664af8b3",
+          "ingredient_id": "784549c9-8cb9-52e6-bee9-208af4ebb3b1",
+          "name": "lemongrass",
+          "display_text": "1 tblsp Lemongrass",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "455eaf99-093c-50e0-830a-9864a4034795",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "Zest of 2 Lime",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "zest",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c380fa01-b4c8-5ce0-aedb-ab258af1e755",
+          "ingredient_id": "43fdd2fd-26e3-5e32-af4b-0c63a027d37c",
+          "name": "ground nutmeg",
+          "display_text": "1 teaspoon Ground Nutmeg",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "62c9149a-0227-52d7-9dd1-f90872fbc6a0",
+          "ingredient_id": "81534384-b0e9-52fb-8b88-01288b93f32a",
+          "name": "ground coriander",
+          "display_text": "1 tsp Ground Coriander",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "c8e8b7f8-6c50-5d22-b9cf-016b5f1ef21b",
+          "ingredient_id": "efa5be6a-3bc3-55ca-812f-22dd145ba53d",
+          "name": "ground cumin",
+          "display_text": "1 teaspoon Ground Cumin",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "445864bd-9b42-5336-8a49-32a3deb8009b",
+          "ingredient_id": "200b7141-d967-52ee-b154-4f8ed303ac02",
+          "name": "peanuts",
+          "display_text": "2 tblsp Peanuts",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "nuts_seeds"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "First, make the curry paste. Use a pestle and mortar to pound together the dried and fresh chillies, shrimp paste, garlic, galangal, lemongrass, lime zest, white pepper, coriander, cumin, nutmeg and peanuts, plus 1 tsp salt. You should have a rough paste. Alternatively, add all the ingredients to a food processor along with 2-3 tbsp of coconut milk and pulse until you have a paste. Store in a lidded jar in the fridge. Will keep for up to two weeks.",
+      "ingredients_used": [
+        "8627a25b-af63-522d-ae0f-cb7ccf7a47e2",
+        "2707771b-816f-54da-bbea-98b468907eec",
+        "b8bd4f3d-d0e0-54ba-a156-27b37cacdaba",
+        "f588b383-85da-5a34-a20a-f59e0bf855b9",
+        "a61b5866-faf4-51aa-bdd2-36931ac0ba89",
+        "618ebb79-8356-59a5-9c45-2e39b8300ddd",
+        "9ae0da43-ecd5-509c-a20a-c28a664af8b3",
+        "455eaf99-093c-50e0-830a-9864a4034795",
+        "c380fa01-b4c8-5ce0-aedb-ab258af1e755",
+        "62c9149a-0227-52d7-9dd1-f90872fbc6a0",
+        "c8e8b7f8-6c50-5d22-b9cf-016b5f1ef21b",
+        "445864bd-9b42-5336-8a49-32a3deb8009b"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add 2-3 tbsp of the thick part of the coconut milk into a saucepan over a medium-high heat. When the coconut milk starts bubbling, add 1-2 tbsp of the curry paste and stir well for about 1 min, until fragrant.",
+      "timer_seconds": 60,
+      "ingredients_used": [
+        "8627a25b-af63-522d-ae0f-cb7ccf7a47e2"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Stir in the chicken and let it cook for about 3-4 mins until beginning to brown all over. Follow with the French beans and stir well.",
+      "timer_seconds": 240,
+      "ingredients_used": [
+        "e45372d0-3569-556a-a2c6-6ba7c5f91090"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Season with the fish sauce and sugar, then add the rest of coconut milk. Mix well, add half the makrut lime leaves and simmer for 3-5 mins until the chicken is cooked through. Taste and add more sugar or fish sauce if necessary – it should be salty and nutty, and the sweetness should come through. Add the Thai basil leaves, give it a quick mix and take off the heat. Serve with steamed jasmine rice, garnished with the sliced chilli and the rest of the makrut lime leaves.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "8627a25b-af63-522d-ae0f-cb7ccf7a47e2",
+        "7f8bed8a-0c63-5875-a15c-32939907be77",
+        "933d9e36-f967-55da-af95-d5a2b2834e64",
+        "f4edc089-3d56-514d-a8d7-9a98ab967774",
+        "f499ffe1-e7ec-57e5-8a9a-973fff4a980c",
+        "2707771b-816f-54da-bbea-98b468907eec",
+        "455eaf99-093c-50e0-830a-9864a4034795"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/panang-chicken-curry-kaeng-panang-gai"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

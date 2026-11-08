@@ -1,0 +1,270 @@
+{
+  "id": "3a0068ac-542b-5495-b6f7-d646282013c2",
+  "version": "1.0.0",
+  "title": "Chicken Fajita Mac and Cheese",
+  "slug": "chicken-fajita-mac-and-cheese",
+  "summary": "A creamy pasta dish combining seasoned chicken, bell peppers, and onions with a rich cheese sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:40:07Z",
+  "updated_at": "2026-10-16T10:22:46Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52818"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/qrqywr1503066605.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/qrqywr1503066605.jpg/small",
+      "alt_text": "Photo of Chicken Fajita Mac and Cheese",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=bwTSmLTZKNg"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b95bb9d4-1e18-5623-a50f-942c7d140e82",
+        "slug": "american",
+        "name": "American"
+      }
+    ],
+    "tags": [
+      "cheasy",
+      "cheesy",
+      "meat",
+      "pasta"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of pasta with chicken and vegetables"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "d2fb089a-ff96-5bee-bf4d-c30f97ac8f53",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "4a0d3edd-f226-5afb-8b2b-f3f870249d64",
+          "ingredient_id": "0ec71036-cad4-57f1-81a8-9396827c3785",
+          "name": "macaroni",
+          "display_text": "500g macaroni",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "4abcb6d3-3fed-51b1-b496-04d294864ac6",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "2 cups chicken stock",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "8ebd2e44-fc20-5e2d-b6c1-eabbdf3643e5",
+          "ingredient_id": "cb8d5d02-f2f1-547b-b7e6-054d6629adc1",
+          "name": "heavy cream",
+          "display_text": "1/2 cup heavy cream",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "e7452c88-ccab-54f4-86b6-bca28f8aa6d4",
+          "ingredient_id": "071486df-9eed-5085-b8d7-a2e14d11cf13",
+          "name": "fajita seasoning",
+          "display_text": "1 packet fajita seasoning",
+          "quantity": 1.0,
+          "unit": "packet",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "bcc9392f-b29a-5939-9dc8-ce9a68538cce",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "9723adf7-262c-5216-bbb8-e4378ac81af2",
+          "ingredient_id": "e23191a1-4966-5b21-a6f1-8df6f50b79db",
+          "name": "chicken breast",
+          "display_text": "3 diced chicken breast",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "diced",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "c4d0f3d9-045f-5c2e-b273-8d5132de30ee",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tbsp olive oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "eb5b4c6f-d0e8-5090-9e7e-8539862c6755",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 small finely diced onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "small finely diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "fa21839d-f87d-51c3-8973-1ed569dc0367",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "2 finely diced red pepper",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "finely diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0c09b9a5-4a55-5ae5-80a2-7d22aba7fbab",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves minced garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "minced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "be86e63e-8561-56e9-9eb4-ba36c1e8cee3",
+          "ingredient_id": "fe9682db-38d4-56f5-81fb-f846056c2505",
+          "name": "cheddar cheese",
+          "display_text": "1 cup cheddar cheese",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "aee2623b-04a0-564d-91b2-8b588642801d",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "garnish chopped parsley",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "garnish chopped",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Fry your onion, peppers and garlic in olive oil until nicely translucent. Make a well in your veg and add your chicken. Add your seasoning and salt. Allow to color slightly.",
+      "ingredients_used": [
+        "e7452c88-ccab-54f4-86b6-bca28f8aa6d4",
+        "bcc9392f-b29a-5939-9dc8-ce9a68538cce",
+        "c4d0f3d9-045f-5c2e-b273-8d5132de30ee",
+        "eb5b4c6f-d0e8-5090-9e7e-8539862c6755",
+        "0c09b9a5-4a55-5ae5-80a2-7d22aba7fbab"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add your cream, stock and macaroni.",
+      "ingredients_used": [
+        "4a0d3edd-f226-5afb-8b2b-f3f870249d64"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Cook on low for 20 minutes. Add your cheeses, stir to combine.",
+      "timer_seconds": 1200
+    },
+    {
+      "step_number": 4,
+      "instruction": "Top with roasted peppers and parsley.",
+      "ingredients_used": [
+        "aee2623b-04a0-564d-91b2-8b588642801d"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://twistedfood.co.uk/chicken-fajita-mac-n-cheese/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

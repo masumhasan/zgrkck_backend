@@ -1,0 +1,184 @@
+{
+  "id": "bfc0a4c3-f3e5-5882-99ae-15a36f9cc1da",
+  "version": "1.0.0",
+  "title": "Jajek",
+  "slug": "jajek",
+  "summary": "A refreshing Armenian yogurt-based dip or soup made with cucumber, garlic, and dried mint.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:33:55Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53436"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/8x0vgs1780090328.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/8x0vgs1780090328.jpg/small",
+      "alt_text": "Photo of Jajek",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "2e3a53d2-b262-5dd0-b1a9-2ef277b88347",
+        "slug": "armenian",
+        "name": "Armenian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 0,
+    "marinating_time_minutes": 120,
+    "total_time_minutes": 130
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of jajek"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "4cb99c81-9ece-558c-ac76-7902948a0913",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "cee10ac2-668e-5c83-804a-ca7e09881991",
+          "ingredient_id": "c2dfe217-47d5-5561-8ce3-2d7cb17fc75b",
+          "name": "yogurt",
+          "display_text": "2 cups Yogurt",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "544b94d6-5fec-5b20-9636-656925549e2b",
+          "ingredient_id": "e930e741-687b-5138-af0d-dad1cdfcffbe",
+          "name": "cold water",
+          "display_text": "1 cup Cold Water",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "8b3e8ffe-af46-5e6e-94fc-134f35146e48",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove peeled crushed Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "preparation": "peeled crushed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "618eb950-0fd7-5b47-80b8-af01cec02446",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/2 tsp Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "c3cfa877-3537-585f-9811-3e8d210042c5",
+          "ingredient_id": "fdc4c2c2-c7f6-52bb-a4dd-06d8021062d2",
+          "name": "dried mint",
+          "display_text": "1 tsp Dried Mint",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "eb78eb64-3612-5c01-abcf-ec3112164465",
+          "ingredient_id": "8f9e104a-822f-5bda-b376-eee34fc38609",
+          "name": "cucumber",
+          "display_text": "1 Cucumber",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Place yogurt, water, garlic and salt in food processor and process for a few seconds. Transfer to a bowl and mix with mint and cucumber.  Best served chilled for a few hours.",
+      "ingredients_used": [
+        "cee10ac2-668e-5c83-804a-ca7e09881991",
+        "8b3e8ffe-af46-5e6e-94fc-134f35146e48",
+        "618eb950-0fd7-5b47-80b8-af01cec02446",
+        "c3cfa877-3537-585f-9811-3e8d210042c5",
+        "eb78eb64-3612-5c01-abcf-ec3112164465"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "When serving, add a few ice cubes to add additional refreshment!  Makes about four servings."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.armenianmuseum.org/armenian-recipes/jajek"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

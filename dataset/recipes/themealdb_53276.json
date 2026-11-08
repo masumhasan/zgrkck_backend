@@ -1,0 +1,207 @@
+{
+  "id": "5df5844f-d34a-532c-82bf-a1fd97fd4236",
+  "version": "1.0.0",
+  "title": "Apricot & Turkish delight mess",
+  "slug": "apricot-turkish-delight-mess",
+  "summary": "A light Turkish-inspired dessert combining creamy mascarpone and yogurt with crunchy meringue, soft apricots, and fragrant Turkish delight.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:19:56Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53276"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/p277uc1764109195.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/p277uc1764109195.jpg/small",
+      "alt_text": "Photo of Apricot & Turkish delight mess",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4c480df7-c067-5e9c-ac08-d8d49afa7f51",
+        "slug": "turkish",
+        "name": "Turkish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 10
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 dessert bowl"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "tree_nuts",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "6a271974-dc3c-57c1-aa23-6c44914ac6ed",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "f02b0065-90d8-5097-a262-15663b8444b1",
+          "ingredient_id": "46a7c18d-4f96-5454-b9fa-a262e8226782",
+          "name": "mascarpone",
+          "display_text": "100g Mascarpone",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "0838ff9c-17b5-5315-b186-5d0073b59f57",
+          "ingredient_id": "ba22b73d-e619-5bc7-a859-f65b683613fe",
+          "name": "greek yogurt",
+          "display_text": "50g Greek Yogurt",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "4237e713-a165-5c3b-ae7d-84678c44483f",
+          "ingredient_id": "c3b952d9-9879-569e-a989-b29a9b7ec664",
+          "name": "icing sugar",
+          "display_text": "25g Icing Sugar",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "b708ac3d-edf0-56ad-8810-e613791520ee",
+          "ingredient_id": "b41ab788-7bf8-564d-bca1-fb09fd008992",
+          "name": "orange blossom water",
+          "display_text": "2 tablespoons Orange Blossom Water",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "48181a64-8fc8-5d01-8c70-a4900c8c003d",
+          "ingredient_id": "7bb77bde-ec47-56c7-9e96-487edf8b188e",
+          "name": "meringue nests",
+          "display_text": "1 Meringue Nests",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "32d18532-d6ff-5b79-b0f7-c3aae13c4e8c",
+          "ingredient_id": "ee2c8bb9-cd00-583a-b03d-c403a249783d",
+          "name": "apricot",
+          "display_text": "3 Apricot",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "62991d8a-b7af-598d-8f61-09ee71a3c683",
+          "ingredient_id": "cf2e4567-6efd-5f83-b91f-87bcc4a4d140",
+          "name": "turkish delight",
+          "display_text": "2 pieces Turkish Delight",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "d1adfdf3-71d9-5702-8e1d-d5390e28caa7",
+          "ingredient_id": "1f65be5f-ad9d-5713-aca2-600f7b2a1ee8",
+          "name": "almonds",
+          "display_text": "25g Almonds",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "39d3dd9b-4eb5-55af-a85f-b375078626bf",
+          "ingredient_id": "0e838047-684d-55cb-884e-e7872e0e96c4",
+          "name": "mint",
+          "display_text": "4 Mint",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Place the mascarpone, yogurt, sugar and orange flower water into a large bowl and whisk until thickened. Fold the remaining ingredients through, then divide the mix between 2 dessert glasses or bowls and decorate with extra mint, if you like.",
+      "ingredients_used": [
+        "f02b0065-90d8-5097-a262-15663b8444b1",
+        "0838ff9c-17b5-5315-b186-5d0073b59f57",
+        "39d3dd9b-4eb5-55af-a85f-b375078626bf"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/apricot-turkish-delight-mess"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

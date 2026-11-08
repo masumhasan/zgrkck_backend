@@ -1,0 +1,219 @@
+{
+  "id": "a0bbfdc6-df2d-57cf-850e-c2de5c8f6db0",
+  "version": "1.0.0",
+  "title": "Mango Tropical Salsa",
+  "slug": "mango-tropical-salsa",
+  "summary": "A fresh Costa Rican salsa made with diced mango, tomato, avocado, and red onion, seasoned with lime juice and cilantro.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:43:08Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53538"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ukeksq1784395551.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ukeksq1784395551.jpg/small",
+      "alt_text": "Photo of Mango Tropical Salsa",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c34e726c-a17e-5cad-a035-3eaf9df4125f",
+        "slug": "costa-rican",
+        "name": "Costa Rican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 0,
+    "marinating_time_minutes": 15,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1/2 cup salsa"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "680202e7-b9b6-5c7f-bf9f-6bf04f6dd633",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "71429222-ee34-59c4-a1bd-0eac32db4b33",
+          "ingredient_id": "716f7639-3b59-56a7-9146-1819649ebdad",
+          "name": "red onions",
+          "display_text": "1/4 cup Red Onions",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "5796629b-a0a3-51c5-aa96-c7e376e6362c",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1/4 cup Red Pepper",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "e4c172b5-de0b-5882-98d3-97ed340a2c1d",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "2 1/2 cups Tomato",
+          "quantity": 2.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 600.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "af4c9b6a-9e5a-5f14-a9c3-74eb06211c22",
+          "ingredient_id": "96878be2-434c-5f44-ad8d-01130790c5ef",
+          "name": "mango",
+          "display_text": "1 1/2 cups Mango",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "c88dcceb-6685-5b69-b532-f109bede86e8",
+          "ingredient_id": "eb7e0cb5-be44-5074-93b2-98cbac9baf42",
+          "name": "avocado",
+          "display_text": "1 cup Avocado",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "121d96c8-d0be-5b42-a6e9-443dc9303879",
+          "ingredient_id": "1655ccbe-97a7-59b3-9245-ebc95a0ed6d0",
+          "name": "cilantro",
+          "display_text": "1/4 cup Cilantro",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3d809ef4-6d94-598d-8534-5e56fd2b4967",
+          "ingredient_id": "36c0f276-68d5-5515-9abe-1ef57bc6eed7",
+          "name": "lime juice",
+          "display_text": "1/3 cup Lime juice",
+          "quantity": 0.3333,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 80.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "3e485eb3-08d9-579e-97ef-52f3cd3eb10d",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "60a1e62c-60b9-5748-bb8d-68f2a0ff7515",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1 tsp Black Pepper",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "In a large bowl, combine all the ingredients together, mix well! Cover and refrigerate for at least 15 min before serving. Serve with chips",
+      "timer_seconds": 900
+    },
+    {
+      "step_number": 2,
+      "instruction": "I recommend to make this salsa just 15 to 20 minutes before serving, it you make it to early it will get a little to soupy. Have everything chopped and ready and just put it together when your guest arrive.",
+      "timer_seconds": 1200
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.recipesfromcostarica.com/recipes"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

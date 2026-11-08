@@ -1,0 +1,326 @@
+{
+  "id": "ead2a9ec-e567-5bb0-880e-fc669da5cfe9",
+  "version": "1.0.0",
+  "title": "Raspeballer (Norwegian Potato Dumplings)",
+  "slug": "raspeballer-norwegian-potato-dumplings",
+  "summary": "Raspeballer are traditional Norwegian potato dumplings made from a mixture of boiled and grated raw potatoes, typically served with pork knuckle, sausages, and mashed rutabaga.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:06:26Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53124"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/hhm7xy1763075871.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/hhm7xy1763075871.jpg/small",
+      "alt_text": "Photo of Raspeballer (Norwegian Potato Dumplings)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=2NFNabRkF04"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "56e78dbc-276d-5104-bca5-2bb213b93a49",
+        "slug": "norwegian",
+        "name": "Norwegian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 240,
+    "total_time_minutes": 270
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of dumplings, meat, and mashed vegetables"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "43810916-16ce-5b21-a699-25cb87cb8bb3",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "7ec046e7-bafd-5d05-85bb-5e5cad24a487",
+          "ingredient_id": "13402211-b013-540d-b0a7-c38d71b27576",
+          "name": "pork knuckle",
+          "display_text": "1 Pork knuckle",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "a943a6b5-9797-5604-b033-ec9bf649ded0",
+          "ingredient_id": "0e53b5a4-2ff0-53fb-a8ef-b53dca6ce663",
+          "name": "sausages",
+          "display_text": "1 Sausages",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "4c2895cd-c78a-53a1-824f-73dc77b70902",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "1 lb Potatoes",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "3dc6ae0c-ee29-506a-9b9b-c42396fcbf8e",
+          "ingredient_id": "53c324cb-8a7f-5123-9cea-2f1d60144900",
+          "name": "red potatoes",
+          "display_text": "2 Lbs Red Potatoes",
+          "quantity": 2.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 907.2,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "69ad1265-0136-5558-842d-6779d6afcfb9",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "1 1/4 cup Flour",
+          "quantity": 1.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "1092d5ec-1e45-57cb-aed7-e704d3762ac2",
+          "ingredient_id": "d1e5ec78-b8c2-5649-962c-a9f67272ea92",
+          "name": "all purpose flour",
+          "display_text": "2 tblsp All purpose flour",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "c629d898-d109-56dd-b9e1-bf17f357220c",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 teaspoon Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "c3ffdf80-1ad0-57ec-9f01-330c3f84607e",
+          "ingredient_id": "b8cf4b92-0e1e-59dd-be68-cfe8c5be56d3",
+          "name": "bouillon cubes",
+          "display_text": "4 Bouillon Cubes",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "8604f37a-def2-56ad-aea5-64b3d3248d08",
+          "ingredient_id": "a1c590f6-d2a1-5923-8aeb-e632e74b6074",
+          "name": "freshly chopped parsley",
+          "display_text": "Pinch Freshly Chopped Parsley",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "39728b70-d416-5f2a-9e73-c0e119a96b81",
+          "ingredient_id": "5d08caa9-b04f-5458-b5be-718012f0d133",
+          "name": "swede",
+          "display_text": "1 Swede",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "87da611f-6901-5d85-83ca-664ff275bce1",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "2 Carrots",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f6f386bd-f136-5c19-807d-65a0dab5d80b",
+          "ingredient_id": "43dddb7a-8e44-5264-87bc-a38406ffbb26",
+          "name": "cream",
+          "display_text": "1/4 cup Cream",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "5660dd22-fc19-5afc-aaf7-12c831f242c1",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "1 tblsp Butter",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "af29697a-adbb-5653-9660-4ba9de88292b",
+          "ingredient_id": "9426e9cd-e7b2-540e-8ddb-187c01748931",
+          "name": "nutmeg",
+          "display_text": "1 teaspoon Nutmeg",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Raspeballer & (Optional) Salted Meat",
+      "ingredients_used": [
+        "c629d898-d109-56dd-b9e1-bf17f357220c"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "If you're making pork knuckle, cook it in simmering water for about 3 hours, until the meat falls from the bone. Remove the pork and save the broth to cook the raspeballer.",
+      "timer_seconds": 10800,
+      "ingredients_used": [
+        "7ec046e7-bafd-5d05-85bb-5e5cad24a487"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Boil the boiled potatoes and peel once cooled. Also peel the raw potatoes, and then grate them or run them through a food processor. Use a paper towel to remove some of the moisture from the grated potatoes.",
+      "ingredients_used": [
+        "4c2895cd-c78a-53a1-824f-73dc77b70902",
+        "3dc6ae0c-ee29-506a-9b9b-c42396fcbf8e"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Mash the boiled potatoes in a potato ricer or with a masher. Make sure there are no lumps. Add the grated raw potatoes to the mashed potatoes in a large mixing bowl and stir together. Add the barley flour, all purpose flour, and salt and mix together with your hands until the mixture is fully blended.",
+      "ingredients_used": [
+        "4c2895cd-c78a-53a1-824f-73dc77b70902",
+        "3dc6ae0c-ee29-506a-9b9b-c42396fcbf8e",
+        "69ad1265-0136-5558-842d-6779d6afcfb9",
+        "1092d5ec-1e45-57cb-aed7-e704d3762ac2",
+        "c629d898-d109-56dd-b9e1-bf17f357220c"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "You can cook the raspeballer in either vegetable or beef broth, or if you're making pork knuckle, cook them in the broth from the pork knuckle. Bring the broth to a very light simmer – you don't want it to fully boil because then the raspeballer might break apart.",
+      "ingredients_used": [
+        "7ec046e7-bafd-5d05-85bb-5e5cad24a487"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Use a tablespoon dipped in cold water to shape each raspeball in your hand. Try to make them as smooth as possible and then gently drop them into the simmering broth. Dip the tablespoon in a bowl of cold water between each raspeball."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Let the raspeballer simmer for about 30 minutes. If you're making smoked sausage, you can heat the sausage in the same pot with the raspeballer. Top with fresh chopped parsley.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "8604f37a-def2-56ad-aea5-64b3d3248d08"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Mashed Rutabaga"
+    },
+    {
+      "step_number": 9,
+      "instruction": "Peel the rutabaga and carrots and cut into small pieces. Boil in water for about 30 minutes, or until tender. Then drain the water, add the cream/milk, butter and nutmeg and mash until smooth.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "87da611f-6901-5d85-83ca-664ff275bce1",
+        "f6f386bd-f136-5c19-807d-65a0dab5d80b",
+        "5660dd22-fc19-5afc-aaf7-12c831f242c1",
+        "af29697a-adbb-5653-9660-4ba9de88292b"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "Serve alongside the raspeballer and meat."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://scandinaviancookbook.com/raspeballer-norwegian-potato-dumplings/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

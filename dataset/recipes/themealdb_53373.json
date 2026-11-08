@@ -1,0 +1,336 @@
+{
+  "id": "d23efb96-3ffc-55c5-8161-5840cb58b48a",
+  "version": "1.0.0",
+  "title": "Air Fryer Egg Rolls",
+  "slug": "air-fryer-egg-rolls",
+  "summary": "Crispy, golden-brown egg rolls filled with a savory mixture of ground pork, cabbage, carrots, and aromatics, prepared using an air fryer for a lighter alternative to deep frying.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:30:56Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53373"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/grhn401765687086.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/grhn401765687086.jpg/small",
+      "alt_text": "Photo of Air Fryer Egg Rolls",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=XnA-wcVb4l0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6813a95e-62cf-55e7-9d4b-6f19ee1d7391",
+        "slug": "chinese",
+        "name": "Chinese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish",
+      "appetizer"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 45
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "pieces",
+    "serving_size_description": "3 egg rolls"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "eggs",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "ebc30e7f-3416-52a8-8eb4-1e0ec429d372",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "8050463a-adb0-5b4a-9637-3cfc651f0c92",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 tablespoon Olive Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "598cd147-1449-5215-9d4d-0d3a15b2196e",
+          "ingredient_id": "43eb0e54-4681-5c1a-b0f7-d686895d5f7a",
+          "name": "ground pork",
+          "display_text": "1 lb Ground Pork",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "2d9f7cf8-c748-5e32-9cc5-a3ce5916eb46",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove peeled crushed Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "preparation": "peeled crushed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "befb01d5-c63f-5d40-b746-8f9bb0b7f932",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "1 tablespoon Ginger",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "bc45e114-90fa-549d-b5f9-f951f3ec35ee",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "1 medium Carrots",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "28f97ffa-9f66-534e-b7a4-f08bf6ee9092",
+          "ingredient_id": "24cbab0a-29d3-5e28-b361-77f90e93af9c",
+          "name": "scallions",
+          "display_text": "3 chopped Scallions",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d40faff9-f936-5430-8d87-e6b810f6b743",
+          "ingredient_id": "8604c41c-a935-5634-b405-fed806fe806b",
+          "name": "cabbage",
+          "display_text": "3 Cups Cabbage",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "3616bcf1-ecfd-5198-b892-fd30407adaa1",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "1 tablespoon Soy Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "06e36fda-0605-5a6a-bc03-7cf3ac1f9f3e",
+          "ingredient_id": "cad15bc5-2770-5a5f-8572-c5ac5ad79569",
+          "name": "rice vinegar",
+          "display_text": "1 tablespoon Rice Vinegar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "a45d7b87-add2-559e-b9c2-9f6276d11ef5",
+          "ingredient_id": "5a93f4b8-e356-5a1e-ad80-2e6f5df792e6",
+          "name": "egg roll wrappers",
+          "display_text": "12 Egg Roll Wrappers",
+          "quantity": 12.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "34fe4a28-e0b9-55d7-b842-a361d2b72532",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "For brushing Oil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "for brushing",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "56de96c4-ccb0-5feb-80de-fbae23653f09",
+          "ingredient_id": "31b36ea9-f555-5c7c-ab7f-9ce58e5c2062",
+          "name": "duck sauce",
+          "display_text": "To serve Duck Sauce",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "condiments"
+        },
+        {
+          "id": "dd829483-7a57-5ee1-8fe3-09e06cea07d2",
+          "ingredient_id": "97bd4463-d30b-53a3-90af-100308feb2ca",
+          "name": "plum sauce",
+          "display_text": "To serve Plum Sauce",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "condiments"
+        },
+        {
+          "id": "74a6159a-1910-5944-8a7b-8b7c2f4713b7",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "To serve Soy Sauce",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Alternative Pan Fry Method: If you don’t have access to an air fryer, you can make these egg rolls using a traditional pan fry method. Add enough oil to a medium skillet with high walls so the oil is about 1/2 inch up the side of the skillet. Heat oil on medium high heat until it reaches 350°F. Add egg rolls and fry for 3 to 4 minutes, flip, and fry for another 3 to 4 minutes until golden brown. Remove and let them drain and cool on a few paper towels.",
+      "temperature": {
+        "value": 350,
+        "unit": "fahrenheit"
+      },
+      "ingredients_used": [
+        "34fe4a28-e0b9-55d7-b842-a361d2b72532"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Cook the filling:"
+    },
+    {
+      "step_number": 3,
+      "instruction": "In a large skillet over medium heat, add the olive oil along with the ground pork or chicken. Break apart the meat with a spatula or wooden spoon as it cooks. Cook until the meat is cooked through, 6 to 8 minutes.",
+      "timer_seconds": 480,
+      "ingredients_used": [
+        "8050463a-adb0-5b4a-9637-3cfc651f0c92",
+        "598cd147-1449-5215-9d4d-0d3a15b2196e",
+        "34fe4a28-e0b9-55d7-b842-a361d2b72532"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add garlic, ginger, carrot, scallions, and cabbage. Continue to cook until cabbage wilts down and is soft, another 3 to 4 minutes, stirring regularly. Season the filling with soy sauce and rice wine vinegar, and take off the heat to cool. (This filling can be made in advance.)",
+      "timer_seconds": 240,
+      "ingredients_used": [
+        "2d9f7cf8-c748-5e32-9cc5-a3ce5916eb46",
+        "befb01d5-c63f-5d40-b746-8f9bb0b7f932",
+        "28f97ffa-9f66-534e-b7a4-f08bf6ee9092",
+        "d40faff9-f936-5430-8d87-e6b810f6b743",
+        "3616bcf1-ecfd-5198-b892-fd30407adaa1",
+        "74a6159a-1910-5944-8a7b-8b7c2f4713b7"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Assemble the egg rolls:"
+    },
+    {
+      "step_number": 6,
+      "instruction": "Place a single egg roll wrapper on a dry surface with one point of the square facing you (like a diamond). Place about 1/4 cup of the egg roll filling mixture in the middle of the wrapper."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Dip your fingers in water and run around the edges of the wrapper. Then fold the edges of the wrapper over the center and start rolling the egg roll away from you to form a tight cylinder. Place on a plate and repeat until you are out of filling. You should get at least a dozen egg rolls."
+    },
+    {
+      "step_number": 8,
+      "instruction": "Air fry the egg rolls:"
+    },
+    {
+      "step_number": 9,
+      "instruction": "Place the egg rolls in the basket of your air fryer. Spray or brush them lightly with oil. Add as many as you can without stacking the egg rolls, making sure they don’t touch. Air needs to circulate around them. Brush the egg rolls lightly with oil.",
+      "ingredients_used": [
+        "34fe4a28-e0b9-55d7-b842-a361d2b72532"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "Place the basket in the air fryer and turn the air fryer to 350°F. Cook for 6 to 7 minutes, then flip the egg rolls, spray or brush with oil a second time on the bottom side, and cook for another 4 to 5 minutes.",
+      "temperature": {
+        "value": 350,
+        "unit": "fahrenheit"
+      },
+      "ingredients_used": [
+        "34fe4a28-e0b9-55d7-b842-a361d2b72532"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Finished egg rolls should be golden brown and crispy! Serve immediately."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.simplyrecipes.com/recipes/air_fryer_chinese_egg_rolls/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

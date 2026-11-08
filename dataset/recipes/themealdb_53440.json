@@ -1,0 +1,299 @@
+{
+  "id": "4440ecf2-39dc-5714-b0a9-ee3365f64ff9",
+  "version": "1.0.0",
+  "title": "Balchi di Pisca",
+  "slug": "balchi-di-pisca",
+  "summary": "Aruban-style fish balls made from salt cod and mashed potatoes, served with a blended tomato and pepper sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:34:14Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53440"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/qqwhw51780093126.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/qqwhw51780093126.jpg/small",
+      "alt_text": "Photo of Balchi di Pisca",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "0582bdef-9340-5f24-b48f-1bf7f5f392ac",
+        "slug": "aruban",
+        "name": "Aruban"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 25,
+    "marinating_time_minutes": 1440,
+    "total_time_minutes": 1495
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "several fish balls with sauce"
+  },
+  "allergens": {
+    "contains": [
+      "eggs",
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "1751dfe9-62d1-5853-a108-a64c85a8b509",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "e7a492c4-3dfd-5fa3-9959-f9a66683e728",
+          "ingredient_id": "06385c78-0e19-5144-946a-22bd05df2c78",
+          "name": "salt cod",
+          "display_text": "1 Salt Cod",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "95f5a639-895a-57d9-b495-7ddd9d6cec25",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "3 Medium Potatoes",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "bd686bd7-30de-5485-9127-f4e67f547b4f",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "1 Tomato",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7d66b734-6454-5b61-8e3d-7c5855973b37",
+          "ingredient_id": "f86b83d4-879d-54bb-a883-73bbfa9228ba",
+          "name": "green pepper",
+          "display_text": "1/2 Green Pepper",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "aa22cbda-7434-5df7-9b55-43c122020b0b",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 medium Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "dc9e77c4-93c8-5da2-a20e-c07ab760b448",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove peeled sliced Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "preparation": "peeled sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "907ee7f4-ef38-5107-a4cd-8a2ea1dbd8b3",
+          "ingredient_id": "95863dfc-1957-5225-8d5e-45e7ae221333",
+          "name": "tobasco sauce",
+          "display_text": "1/2 tsp Tobasco Sauce",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "e7464a73-60e7-5035-bd93-7cb3262442ff",
+          "ingredient_id": "9426e9cd-e7b2-540e-8ddb-187c01748931",
+          "name": "nutmeg",
+          "display_text": "Dash Nutmeg",
+          "quantity": 1,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e075fa8d-170a-57e9-9dd9-8c94d94eea15",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "f2afb0b2-2032-51cd-9330-925f1058d3f9",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "To taste Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "631eaa7b-d544-5b71-8969-cfeb909ea368",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "These delectable fish balls can also be made with salmon or fish fillets. Substitute one large can of salmon or one pound of any white fish for the cod."
+    },
+    {
+      "step_number": 2,
+      "instruction": "Soak for twenty-four hours:"
+    },
+    {
+      "step_number": 3,
+      "instruction": "1 salted cod, or bakijow Discard the water.",
+      "ingredients_used": [
+        "e075fa8d-170a-57e9-9dd9-8c94d94eea15"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Place cod in saucepan with fresh water to cover. Simmer gently until the fish flakes easily when tested with the tines of a fork. Strain, reserving a bit of the broth. De bone the cod and set it aside for later use. In a saucepan, bring to boil in water to cover: 3 medium potatoes, peeled and diced When the potatoes are tender, drain them well. Add the cod and mash the two ingredients thoroughly together.",
+      "ingredients_used": [
+        "95f5a639-895a-57d9-b495-7ddd9d6cec25"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Place in the container of an electric blender:"
+    },
+    {
+      "step_number": 6,
+      "instruction": "1 tomato, peeled and chopped",
+      "ingredients_used": [
+        "bd686bd7-30de-5485-9127-f4e67f547b4f"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "1/2 green pepper, chopped",
+      "ingredients_used": [
+        "7d66b734-6454-5b61-8e3d-7c5855973b37",
+        "f2afb0b2-2032-51cd-9330-925f1058d3f9"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "1 medium onion, peeled and chopped",
+      "ingredients_used": [
+        "aa22cbda-7434-5df7-9b55-43c122020b0b"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "1 clove garlic, slivered",
+      "ingredients_used": [
+        "dc9e77c4-93c8-5da2-a20e-c07ab760b448"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "1/2 tsp. Tabasco sauce, or minced hot pepper",
+      "ingredients_used": [
+        "f2afb0b2-2032-51cd-9330-925f1058d3f9"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Dash of nutmeg",
+      "ingredients_used": [
+        "e7464a73-60e7-5035-bd93-7cb3262442ff"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Salt and pepper to taste",
+      "ingredients_used": [
+        "e075fa8d-170a-57e9-9dd9-8c94d94eea15",
+        "f2afb0b2-2032-51cd-9330-925f1058d3f9"
+      ]
+    },
+    {
+      "step_number": 13,
+      "instruction": "Blend for a few seconds and pour the sauce over the mashed fish mixture. Combine these ingredients well and add 1 egg, beaten Mixture should be stiff enough to mold into balls about one and a half inches in diameter, If it's too dry, add the fish stock a tablespoon at a time. Fry the balls in hot, deep fat until golden brown.",
+      "ingredients_used": [
+        "631eaa7b-d544-5b71-8969-cfeb909ea368"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.visitaruba.com/aruba-recipes/balchi-di-pisca/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

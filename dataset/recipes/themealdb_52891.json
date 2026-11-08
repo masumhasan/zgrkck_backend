@@ -1,0 +1,340 @@
+{
+  "id": "479733e3-d8f5-51f0-8cac-097edbf1005a",
+  "version": "1.0.0",
+  "title": "Blackberry Fool",
+  "slug": "blackberry-fool",
+  "summary": "A classic British dessert consisting of a fruit purée swirled into whipped cream and yogurt, served alongside crunchy hazelnut biscuits.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:46:39Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52891"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/rpvptu1511641092.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/rpvptu1511641092.jpg/small",
+      "alt_text": "Photo of Blackberry Fool",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=kniRGjDLFrQ"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "dairy",
+      "desert",
+      "fruity",
+      "summer"
+    ],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "summer_refreshment"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 25,
+    "cook_time_minutes": 35,
+    "rest_time_minutes": 20,
+    "total_time_minutes": 80
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of fool with several biscuits"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "tree_nuts"
+    ],
+    "free_from": [
+      "peanuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "814c226e-3078-58b2-b96f-a68429ae73e4",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "edc5d0fa-7d48-51f1-9998-c804d840f95f",
+          "ingredient_id": "c5de7b3b-1dd2-5539-adea-c9eaa0d9f6a1",
+          "name": "hazlenuts",
+          "display_text": "50g Hazlenuts",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "8528cbd3-187f-5bff-8b6e-685ed28685c6",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "125g Butter",
+          "quantity": 125.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 125.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "c878e4fd-dabf-51d6-8674-9c1354df8fc5",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "150g Caster Sugar",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "f8ae09b6-ea3f-5ce5-bedb-664feff59a37",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "Grated Lemon",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "grated",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7ad04c29-6dbb-5035-9514-baf00728d5ee",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "150g Plain Flour",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "83f7db91-c4e3-536a-b413-b8de0a380c4f",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "½ tsp Baking Powder",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "845d3ba9-118a-5bd6-9fb0-12e12dd41e7e",
+          "ingredient_id": "6a077770-26c3-5b86-8e16-a2d03421b135",
+          "name": "blackberries",
+          "display_text": "600g Blackberries",
+          "quantity": 600.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 600.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "e6ad7f07-8ab5-545d-8778-2a6e6295c7a1",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "75g Sugar",
+          "quantity": 75.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "b2e350de-d42e-5b85-b065-872753c46964",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "2 tbs Caster Sugar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "fbd1807a-ee91-5dc6-93d2-81037f7a972c",
+          "ingredient_id": "4020879e-a0a5-58e2-b093-33c7e85c8a08",
+          "name": "lemon juice",
+          "display_text": "1 tbs Lemon Juice",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "4671ce96-48fc-5e52-a978-0ec34a74d6ef",
+          "ingredient_id": "81b5723b-47de-5017-987f-cdcc95dd362b",
+          "name": "double cream",
+          "display_text": "300ml Double Cream",
+          "quantity": 300.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "04335514-ea4e-5d92-988a-ca86f77163e4",
+          "ingredient_id": "c2dfe217-47d5-5561-8ce3-2d7cb17fc75b",
+          "name": "yogurt",
+          "display_text": "100ml Yogurt",
+          "quantity": 100.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "62722d27-e861-5ddc-99d8-5d3741f0c22e",
+          "ingredient_id": "0e838047-684d-55cb-884e-e7872e0e96c4",
+          "name": "mint",
+          "display_text": "Garnish with Mint",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "garnish with",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "For the biscuits, preheat the oven to 200C/180C (fan)/Gas 6 and line two large baking trays with baking parchment. Scatter the nuts over a baking tray and roast in the oven for 6-8 minutes, or until golden-brown. Watch them carefully so that they don’t have a chance to burn. Remove from the oven, tip onto a board and leave to cool.",
+      "timer_seconds": 480,
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "Put the butter and sugar in a large bowl and beat with a wooden spoon until light and creamy. Roughly chop the cooled nuts and add to the creamed butter and sugar, along with the lemon zest, flour and baking powder. Stir well until the mixture comes together and forms a ball – you may need to use your hands.",
+      "ingredients_used": [
+        "8528cbd3-187f-5bff-8b6e-685ed28685c6",
+        "f8ae09b6-ea3f-5ce5-bedb-664feff59a37",
+        "83f7db91-c4e3-536a-b413-b8de0a380c4f",
+        "e6ad7f07-8ab5-545d-8778-2a6e6295c7a1"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Divide the biscuit dough into 24 even pieces and roll into small balls. Place the balls the prepared baking trays, spaced well apart to allow for spreading."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Press the biscuits to flatten to around 1cm/½in thick. Bake the biscuits, one tray at a time, for 12 minutes or until very pale golden-brown. Leave to cool on the trays. They will be very soft when you take them out of the oven, but will crisp as they cool.",
+      "timer_seconds": 720
+    },
+    {
+      "step_number": 5,
+      "instruction": "Store in an airtight tin and eat within five days."
+    },
+    {
+      "step_number": 6,
+      "instruction": "For the fool, rinse the blackberries in a colander to wash away any dust or dirt. Put the blackberries in a non-stick saucepan and sprinkle over the caster sugar.",
+      "ingredients_used": [
+        "c878e4fd-dabf-51d6-8674-9c1354df8fc5",
+        "845d3ba9-118a-5bd6-9fb0-12e12dd41e7e",
+        "e6ad7f07-8ab5-545d-8778-2a6e6295c7a1",
+        "b2e350de-d42e-5b85-b065-872753c46964"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Stir in the lemon juice and heat gently for two minutes, or until the blackberries begin to soften and release their juices. Remove and reserve 12 blackberries for decoration and continue cooking the rest.",
+      "ingredients_used": [
+        "f8ae09b6-ea3f-5ce5-bedb-664feff59a37",
+        "845d3ba9-118a-5bd6-9fb0-12e12dd41e7e",
+        "fbd1807a-ee91-5dc6-93d2-81037f7a972c"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Simmer the blackberries very gently for 15 minutes, stirring regularly until very soft and squidgy. Remove from the heat and press the berries and juice through a sieve over a bowl, using the bottom of a ladle to help you extract as much of the purée as possible. Leave the purée to cool and discard the seeds. You should end up with around 325ml/11fl oz of purée.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "845d3ba9-118a-5bd6-9fb0-12e12dd41e7e"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Put the cream and yogurt in a large bowl and whip with an electric whisk until soft peaks form when the whisk is removed from the bowl – the acidity of the fruit will thicken the cream further, so don’t take it too far."
+    },
+    {
+      "step_number": 10,
+      "instruction": "When the purée is completely cold, adjust the sweetness to taste by adding more sugar if needed. Pour it into the bowl with the whipped cream and yogurt and stir just once or twice until very lightly combined.",
+      "ingredients_used": [
+        "e6ad7f07-8ab5-545d-8778-2a6e6295c7a1"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Spoon the blackberry fool into individual wide, glass dishes – or one large, single bowl. It should look quite marbled, so don’t over-stir it. Scatter a few tiny mint leaves on top and decorate with the reserved blackberries. Sprinkle with a little sugar if you like and serve with the hazelnut biscuits.",
+      "ingredients_used": [
+        "845d3ba9-118a-5bd6-9fb0-12e12dd41e7e",
+        "e6ad7f07-8ab5-545d-8778-2a6e6295c7a1",
+        "62722d27-e861-5ddc-99d8-5d3741f0c22e"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbc.co.uk/food/recipes/blackberry_fool_with_11859"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

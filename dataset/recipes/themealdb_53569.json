@@ -1,0 +1,196 @@
+{
+  "id": "91bce14e-a4f1-5ab1-8353-1dda591e7a89",
+  "version": "1.0.0",
+  "title": "Creamy mango smoothie",
+  "slug": "creamy-mango-smoothie",
+  "summary": "A smooth and creamy tropical beverage made by blending fresh mango with condensed milk and vanilla.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:45:50Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53569"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/pjbaq11784731571.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/pjbaq11784731571.jpg/small",
+      "alt_text": "Photo of Creamy mango smoothie",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4da88d96-f05f-5f73-a14b-c5e37ee2541e",
+        "slug": "dominican",
+        "name": "Dominican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 10
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 glass of smoothie"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "bc70ecfd-17a2-5245-a2c8-8fd11c5028b1",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "2dc2e3ee-9d7a-5d78-9121-011cc0843fa6",
+          "ingredient_id": "96878be2-434c-5f44-ad8d-01130790c5ef",
+          "name": "mango",
+          "display_text": "3 Large Mango",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "388aa9e8-39a9-53e8-bc32-23804b0f32a0",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1 tsp Vanilla Extract",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "7f49576b-8233-52f4-96cb-fbc241b6008a",
+          "ingredient_id": "3fe531f9-aa92-5d4e-9940-e8eddf18456b",
+          "name": "condensed milk",
+          "display_text": "1/2 cup Condensed Milk",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "6f149fe2-b626-558c-8f13-51e3ed26e166",
+          "ingredient_id": "3d9cf15b-2c70-5a41-97b3-008ef5fe4516",
+          "name": "ice cubes",
+          "display_text": "Large handful Ice Cubes",
+          "quantity": 1,
+          "unit": "handful",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Peel mangoes and slice",
+      "ingredients_used": [
+        "2dc2e3ee-9d7a-5d78-9121-011cc0843fa6"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Cut two of the mangoes into chunks",
+      "ingredients_used": [
+        "2dc2e3ee-9d7a-5d78-9121-011cc0843fa6"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Blend all ingredients until smooth and creamy"
+    },
+    {
+      "step_number": 4,
+      "instruction": "Pour in a glass"
+    },
+    {
+      "step_number": 5,
+      "instruction": "Mango rose",
+      "ingredients_used": [
+        "2dc2e3ee-9d7a-5d78-9121-011cc0843fa6"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Cut two of the largest opposite slices"
+    },
+    {
+      "step_number": 7,
+      "instruction": "Lay them down on a cutting board"
+    },
+    {
+      "step_number": 8,
+      "instruction": "Using a sharp knife, create small ¼ inch slices. Cut the mango slightly diagonally to get longer pieces.",
+      "ingredients_used": [
+        "2dc2e3ee-9d7a-5d78-9121-011cc0843fa6"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Create a circular bud with one slice, build around it with the other slices, placing them individually the previous row to take on the form of a rose."
+    },
+    {
+      "step_number": 10,
+      "instruction": "Repeat this until you've arrived at your desired size."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://dominicagourmet.com/creamy-mango-smoothie-recipe/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

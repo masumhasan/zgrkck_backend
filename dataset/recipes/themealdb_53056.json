@@ -1,0 +1,370 @@
+{
+  "id": "03376f7d-814b-5d0d-9427-10d3c19ca67e",
+  "version": "1.0.0",
+  "title": "Croatian lamb peka",
+  "slug": "croatian-lamb-peka",
+  "summary": "A traditional Croatian slow-cooked dish featuring lamb shoulder layered with potatoes and various vegetables in a seasoned oil and wine marinade.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:00:49Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53056"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/pn59o51628769837.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/pn59o51628769837.jpg/small",
+      "alt_text": "Photo of Croatian lamb peka",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=K0ipnz4fwJI"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b5d05ee7-9bce-5691-809b-0e253d6b7ed2",
+        "slug": "croatian",
+        "name": "Croatian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 115,
+    "total_time_minutes": 135
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a large portion of lamb and vegetables"
+  },
+  "allergens": {
+    "contains": [
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "gluten",
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "8e6cd7f0-6bd8-529a-bd7d-469b62b4494f",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "2a5adc3e-a7b9-5c57-89ab-32b9277de01f",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "600g Potatoes",
+          "quantity": 600.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 600.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "aa1771d1-5694-53de-926e-65cf2c3cdd3f",
+          "ingredient_id": "868972c7-da7a-5cf2-864d-fe1f7aada74b",
+          "name": "courgettes",
+          "display_text": "1 chopped Courgettes",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "818cbc46-eacb-5369-902b-f20edfccefe5",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "1 chopped Carrots",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "797235e0-4c4d-5b58-91e2-012dd47bc2f6",
+          "ingredient_id": "f86b83d4-879d-54bb-a883-73bbfa9228ba",
+          "name": "green pepper",
+          "display_text": "1 chopped Green Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "21989bcc-4f0e-5c9d-a691-1d77cef7738d",
+          "ingredient_id": "0c13526c-c9d0-5c10-bc72-13ae3bf32c7e",
+          "name": "aubergine",
+          "display_text": "1 small Aubergine",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "9802a80d-fec9-5665-a13d-42dd2d1dca7d",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Large Chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "774d34ea-f87f-5e5e-875c-96162a57d380",
+          "ingredient_id": "d3502ea3-9e5b-5fe6-a3e5-4cbc8ca5e58f",
+          "name": "lamb shoulder",
+          "display_text": "800g Lamb Shoulder",
+          "quantity": 800.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 800.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "9d0b5a7b-e9fb-5e74-ac98-96bc6c07f721",
+          "ingredient_id": "e91400c5-b274-5e91-b1e8-2a9102f78036",
+          "name": "garlic sauce",
+          "display_text": "1 tbs Garlic Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "7c4988e5-9ebc-51a0-a009-06a23faacafb",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "1 tbs Tomato Puree",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "5b10d9c3-225f-5385-9e19-19e5e1036f58",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "80 ml Olive Oil",
+          "quantity": 80.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 80.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "e17b8c8a-17ce-5674-896f-f3529c586c30",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "Sprinking Thyme",
+          "quantity": 1,
+          "unit": "sprinkling",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "087b2373-0ab0-55b9-a0d0-cb990a1f6ca3",
+          "ingredient_id": "7dfa4179-cc08-5fb6-b4fc-aa52abc5f515",
+          "name": "white wine",
+          "display_text": "250ml White Wine",
+          "quantity": 250.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "ed0d5ae0-9740-5aa6-a01d-23a48ef49675",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "Pinch Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat oven to 200°C fan / 220°C / 425°F / Gas mark 7",
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "If you have not bought diced lamb, cut your lamb shoulder or leg into large chunks and place to one side.",
+      "ingredients_used": [
+        "774d34ea-f87f-5e5e-875c-96162a57d380"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Chunks of chopped lamb of a red chopping board"
+    },
+    {
+      "step_number": 4,
+      "instruction": "Make oil marinade -"
+    },
+    {
+      "step_number": 5,
+      "instruction": "Mix 80ml of olive oil in a bowl with garlic puree, sundried tomato puree ,black pepper and salt.",
+      "ingredients_used": [
+        "7c4988e5-9ebc-51a0-a009-06a23faacafb",
+        "5b10d9c3-225f-5385-9e19-19e5e1036f58",
+        "ed0d5ae0-9740-5aa6-a01d-23a48ef49675"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "olive oil, gia sundried tomato puree and gia garlic puree and black pepper mixed together in a silver bowl to make Croatian peka",
+      "ingredients_used": [
+        "7c4988e5-9ebc-51a0-a009-06a23faacafb",
+        "5b10d9c3-225f-5385-9e19-19e5e1036f58",
+        "ed0d5ae0-9740-5aa6-a01d-23a48ef49675"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Add potatoes and vegetables into a large lidded casserole dish.",
+      "ingredients_used": [
+        "2a5adc3e-a7b9-5c57-89ab-32b9277de01f"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Chopped up vegetables which consist of chopped up red onion, courgette, potatoes red peppers in a cast iron pan",
+      "ingredients_used": [
+        "2a5adc3e-a7b9-5c57-89ab-32b9277de01f",
+        "9802a80d-fec9-5665-a13d-42dd2d1dca7d"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Place diced lamb on top of the vegetables, pour the marinade and wine over the top.",
+      "ingredients_used": [
+        "087b2373-0ab0-55b9-a0d0-cb990a1f6ca3"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "Chunks of lamb covered in in a sundried tomato oil sauce which is on top of chopped red onion, aubergine, courgette and potatoes in a cast iron pan",
+      "ingredients_used": [
+        "2a5adc3e-a7b9-5c57-89ab-32b9277de01f",
+        "21989bcc-4f0e-5c9d-a691-1d77cef7738d",
+        "9802a80d-fec9-5665-a13d-42dd2d1dca7d"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Add the rosemary, thyme and sage, trying to keep the herbs on top.",
+      "ingredients_used": [
+        "e17b8c8a-17ce-5674-896f-f3529c586c30"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "So you can easily remove the herb stalks once cooked."
+    },
+    {
+      "step_number": 13,
+      "instruction": "Chunks of lamb coated in a sundried tomato oil sauce and covered with thyme, rosemary and sage which is on top of chopped red onion, aubergine, courgette and potatoes in a cast iron pan",
+      "ingredients_used": [
+        "2a5adc3e-a7b9-5c57-89ab-32b9277de01f",
+        "21989bcc-4f0e-5c9d-a691-1d77cef7738d",
+        "9802a80d-fec9-5665-a13d-42dd2d1dca7d",
+        "e17b8c8a-17ce-5674-896f-f3529c586c30"
+      ]
+    },
+    {
+      "step_number": 14,
+      "instruction": "Place lid on the casserole dish and cook for 1hr 30 minute"
+    },
+    {
+      "step_number": 15,
+      "instruction": "If you do not have a lid cover very well with kitchen foil"
+    },
+    {
+      "step_number": 16,
+      "instruction": "Cast iron dish with lid on in the oven"
+    },
+    {
+      "step_number": 17,
+      "instruction": "Take the lid off, remove any thick herb stems. Stir in 2 tbsp of olive oil.",
+      "ingredients_used": [
+        "5b10d9c3-225f-5385-9e19-19e5e1036f58"
+      ]
+    },
+    {
+      "step_number": 18,
+      "instruction": "Cook for a further 20-30 mins.",
+      "timer_seconds": 1800
+    },
+    {
+      "step_number": 19,
+      "instruction": "Cooked Croatian Lamb Peka in a cast iron pan in the oven"
+    },
+    {
+      "step_number": 20,
+      "instruction": "Serve with fresh homemade bread to dip into the juices."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://flawlessfood.co.uk/croatian-lamb-peka/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

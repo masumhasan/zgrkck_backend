@@ -1,0 +1,331 @@
+{
+  "id": "5c1e8e0c-de31-583f-b21b-7decc183c81b",
+  "version": "1.0.0",
+  "title": "Hot and Sour Soup",
+  "slug": "hot-and-sour-soup",
+  "summary": "A traditional Chinese soup characterized by its spicy and tangy flavor profile, featuring tofu, mushrooms, and pork.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:52:21Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52954"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/1529445893.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/1529445893.jpg/small",
+      "alt_text": "Photo of Hot and Sour Soup",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=KgV9Zq3aSTo"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6813a95e-62cf-55e7-9d4b-6f19ee1d7391",
+        "slug": "chinese",
+        "name": "Chinese"
+      }
+    ],
+    "tags": [
+      "soup"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "soup"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of soup"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "eggs",
+      "sesame",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "fish",
+      "shellfish",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "57041d22-d10a-5c14-8d70-224c749010a9",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "1a7bd1ec-2df3-57ec-aebe-daec9641d23a",
+          "ingredient_id": "5031dcf8-ef4a-588f-ae8f-de7c2790dfac",
+          "name": "mushrooms",
+          "display_text": "1/3 cup Mushrooms",
+          "quantity": 0.3333,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 80.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "9401ca2a-138d-5722-ab79-10846b847654",
+          "ingredient_id": "f70fb739-4d27-53f4-84ad-2b623cdb6023",
+          "name": "wood ear mushrooms",
+          "display_text": "1/3 cup Wood Ear Mushrooms",
+          "quantity": 0.3333,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 80.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "c09dd0f5-016b-5d7a-bd07-8f05de60ba7d",
+          "ingredient_id": "c7df0777-fdda-55fe-977b-f7cb1e396954",
+          "name": "tofu",
+          "display_text": "2/3 Cup Tofu",
+          "quantity": 0.6667,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 160.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "da804d9f-b786-5ea4-a987-ea4719b594a7",
+          "ingredient_id": "f16b4344-55cf-5ee7-a3a2-d8f68550bd18",
+          "name": "pork",
+          "display_text": "1/2 cup Pork",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "meat"
+        },
+        {
+          "id": "61970d09-dd20-5067-845a-dab119f5ce3d",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "2-1/2 cups Chicken Stock",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "ad022ae3-7336-5859-bad1-4d9054b75fd4",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/2 tsp Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "fe8eee95-1dc8-5a95-bd2a-41a665e3c187",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1/4 tsp Sugar",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "8d30afc9-362e-596a-bb99-934ce7d160dc",
+          "ingredient_id": "653731ca-07ee-57df-aa38-0f8f2b71ccc6",
+          "name": "sesame seed oil",
+          "display_text": "1 tsp Sesame Seed Oil",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "1505e240-3225-50b2-8688-743ea81d4867",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "1/4 tsp Pepper",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "f09d5b10-6a74-510d-8bd3-35b0d7c6e6ee",
+          "ingredient_id": "42d67342-d05a-512d-958a-1c2fdbf7a682",
+          "name": "hotsauce",
+          "display_text": "1/2 tsp Hotsauce",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "f8c628df-18a2-5cd2-8453-3732b366a3e0",
+          "ingredient_id": "ab5b1e5d-c74e-59bc-9caa-0009568a07cb",
+          "name": "vinegar",
+          "display_text": "1-½ cups Vinegar",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "0560c2b5-55b4-534d-af9f-6da3c3be0492",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "1 tsp Soy Sauce",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "d1a7660d-a6b1-5994-8b4a-f76a7713054a",
+          "ingredient_id": "4bdb1684-cdb6-5a8f-b220-c622cf2655cc",
+          "name": "cornstarch",
+          "display_text": "1 tbs Cornstarch",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "ea01bb90-a88c-5466-89ce-b9f7f0c1107c",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "2 tbs Water",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "b6af811d-4ab9-5d94-8129-eb45b0967954",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "1/4 cup Spring Onions",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "MAKING THE SOUP"
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a wok add chicken broth and wait for it to boil."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Next add salt, sugar, sesame seed oil, white pepper, hot pepper sauce, vinegar and soy sauce and stir for few seconds.",
+      "ingredients_used": [
+        "ad022ae3-7336-5859-bad1-4d9054b75fd4",
+        "fe8eee95-1dc8-5a95-bd2a-41a665e3c187",
+        "8d30afc9-362e-596a-bb99-934ce7d160dc",
+        "1505e240-3225-50b2-8688-743ea81d4867",
+        "f8c628df-18a2-5cd2-8453-3732b366a3e0",
+        "0560c2b5-55b4-534d-af9f-6da3c3be0492"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add Tofu, mushrooms, black wood ear mushrooms to the wok.",
+      "ingredients_used": [
+        "1a7bd1ec-2df3-57ec-aebe-daec9641d23a",
+        "9401ca2a-138d-5722-ab79-10846b847654",
+        "c09dd0f5-016b-5d7a-bd07-8f05de60ba7d"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "To thicken the sauce, whisk together 1 Tablespoon of cornstarch and 2 Tablespoon of water in a bowl and slowly add to your soup until it's the right thickness.",
+      "ingredients_used": [
+        "d1a7660d-a6b1-5994-8b4a-f76a7713054a",
+        "ea01bb90-a88c-5466-89ce-b9f7f0c1107c"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Next add 1 egg slightly beaten with a knife or fork and add it to the soup and stir for 8 seconds",
+      "timer_seconds": 8
+    },
+    {
+      "step_number": 7,
+      "instruction": "Serve the soup in a bowl and add the bbq pork and sliced green onions on top.",
+      "ingredients_used": [
+        "da804d9f-b786-5ea4-a987-ea4719b594a7",
+        "b6af811d-4ab9-5d94-8129-eb45b0967954"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://sueandgambo.com/pages/chinese-hot-and-sour-soup"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

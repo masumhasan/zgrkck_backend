@@ -1,0 +1,272 @@
+{
+  "id": "721bb544-9994-5131-a1f8-420602d39f84",
+  "version": "1.0.0",
+  "title": "Algerian Bouzgene Berber Bread with Roasted Pepper Sauce",
+  "slug": "algerian-bouzgene-berber-bread-with-roasted-pepper-sauce",
+  "summary": "A traditional Algerian dish consisting of handmade semolina flatbreads served with a rustic roasted red pepper and tomato sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:20:43Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53284"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/se5vhk1764114880.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/se5vhk1764114880.jpg/small",
+      "alt_text": "Photo of Algerian Bouzgene Berber Bread with Roasted Pepper Sauce",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "44067efa-6d33-5eeb-9836-eb49ba7b3e31",
+        "slug": "algerian",
+        "name": "Algerian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 45
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 flatbread with sauce"
+  },
+  "allergens": {
+    "contains": [
+      "gluten"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "fb4314ee-da98-5a21-8cb6-4e5e8f605949",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "69482feb-a7b1-5008-bd3d-1aee1efd03f8",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "2 Red Pepper",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7f62fd3a-4c0c-5c1a-8d2f-9853f4de594a",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "4 Tomato",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4c00fa49-a3ba-5ddf-b443-c79d5651be3a",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 tablespoon Olive Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "748ff1db-4387-5703-8ad9-b838d71f1607",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "4 Cloves Chopped Garlic",
+          "quantity": 4.0,
+          "unit": "clove",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b4217fdc-dd00-5392-90a9-2df83eaf1247",
+          "ingredient_id": "eef793c9-14cb-5fa6-bd09-7094600a8921",
+          "name": "jalapeno",
+          "display_text": "1 chopped Jalapeno",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4ba6affc-ea66-537e-923b-15b5e6caea42",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "964f2a6a-5a59-5f00-b216-5e65641e7c01",
+          "ingredient_id": "7da61410-ac24-55ff-b82f-b5119bd9da58",
+          "name": "semolina",
+          "display_text": "2 Lbs Semolina",
+          "quantity": 2.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 907.2,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "6fcf7c7a-474a-50ca-bccf-71e8a60d9802",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 1/2 tsp Salt",
+          "quantity": 1.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "7bdf5434-dcdb-5a54-8596-4632651c5852",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "3 Cups Water",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "de06753c-c0c5-5444-bd61-ed19948c3d09",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "4 tablespoons Olive Oil",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "97dd9924-ee28-5504-b687-c95a26dba378",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "6 tablespoons Olive Oil",
+          "quantity": 6.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 90.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat your oven's broiler. Place red bell peppers and tomatoes on a baking sheet, and roast under the broiler for about 8 minutes, turning occasionally. This should blacken the skin and help it peel off more easily. Cool, then scrape the skins off of the tomatoes and peppers, and place them in a large bowl. Remove cores and seeds from the bell peppers.",
+      "timer_seconds": 480,
+      "ingredients_used": [
+        "7f62fd3a-4c0c-5c1a-8d2f-9853f4de594a"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat 1 tablespoon of olive oil in a skillet over medium heat. Add the jalapenos and garlic, and cook until tender, stirring frequently. Remove from heat, and transfer the garlic and jalapeno to the bowl with the tomatoes and red peppers. Using two sharp steak knives (one in each hand), cut up the tomatoes and peppers to a coarse and soupy consistency. Stir, and set sauce aside.",
+      "ingredients_used": [
+        "7f62fd3a-4c0c-5c1a-8d2f-9853f4de594a",
+        "4c00fa49-a3ba-5ddf-b443-c79d5651be3a",
+        "748ff1db-4387-5703-8ad9-b838d71f1607",
+        "b4217fdc-dd00-5392-90a9-2df83eaf1247",
+        "de06753c-c0c5-5444-bd61-ed19948c3d09",
+        "97dd9924-ee28-5504-b687-c95a26dba378"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Place the semolina in a large bowl, and stir in salt and 4 tablespoons of olive oil. Gradually add water while mixing and squeezing with your hand until the dough holds together without being sticky or dry, and molds easily with the hand. Divide into 6 pieces and form into balls.",
+      "ingredients_used": [
+        "4c00fa49-a3ba-5ddf-b443-c79d5651be3a",
+        "4ba6affc-ea66-537e-923b-15b5e6caea42",
+        "964f2a6a-5a59-5f00-b216-5e65641e7c01",
+        "6fcf7c7a-474a-50ca-bccf-71e8a60d9802",
+        "7bdf5434-dcdb-5a54-8596-4632651c5852",
+        "de06753c-c0c5-5444-bd61-ed19948c3d09",
+        "97dd9924-ee28-5504-b687-c95a26dba378"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "For each round, heat 1 tablespoon of olive oil in a large heavy skillet over medium heat. Roll out dough one round at a time, to no thicker than 1/4 inch. Fry in the hot skillet until dark brown spots appear on the surface, and they are crispy. Remove from the skillet, and wrap in a clean towel while preparing the remaining flat breads.",
+      "ingredients_used": [
+        "4c00fa49-a3ba-5ddf-b443-c79d5651be3a",
+        "de06753c-c0c5-5444-bd61-ed19948c3d09",
+        "97dd9924-ee28-5504-b687-c95a26dba378"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "To eat the bread and sauce, break off pieces of the bread, and scoop them into the sauce. It will slide off, but just keep reaching in!"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.allrecipes.com/recipe/72363/algerian-bouzgene-berber-bread-with-roasted-pepper-sauce/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "id": "f0752d4c-866c-5bea-bb01-354ec8590f76",
+  "version": "1.0.0",
+  "title": "Amok Trey – Cambodian Fish Curry",
+  "slug": "amok-trey-cambodian-fish-curry",
+  "summary": "A traditional Cambodian steamed fish curry made with coconut milk, red curry paste, and egg to create a custard-like texture.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:39:19Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53495"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/diuub11782687570.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/diuub11782687570.jpg/small",
+      "alt_text": "Photo of Amok Trey – Cambodian Fish Curry",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9366172c-dff3-589e-9436-4be7c7f595b3",
+        "slug": "cambodian",
+        "name": "Cambodian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 45
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 banana leaf packet of curry"
+  },
+  "allergens": {
+    "contains": [
+      "eggs",
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "f75c62d3-1611-5772-85f8-bbc8a9a053df",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "c9a49888-7599-5965-8e1d-b1a661da517f",
+          "ingredient_id": "2f08406c-d076-5ac2-9443-c634a0b4ce03",
+          "name": "fish fillet",
+          "display_text": "1 lb Fish fillet",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "fish"
+        },
+        {
+          "id": "57e331b8-8638-528e-bf56-5aa11e1b1637",
+          "ingredient_id": "0435e55e-84f6-566c-ac81-37617bbab91c",
+          "name": "coconut milk",
+          "display_text": "1 Can Coconut Milk",
+          "quantity": 1.0,
+          "unit": "can",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "7b7d1a12-b2ce-5246-9654-828383838810",
+          "ingredient_id": "51cfaefc-03f3-5c8a-9e12-0900e51f3b03",
+          "name": "red curry paste",
+          "display_text": "2 tablespoons Red Curry Paste",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "39da4e4e-d0bb-5e97-b40e-34508de2150b",
+          "ingredient_id": "de927c20-fdfa-5b98-8ee9-7840fa951a2f",
+          "name": "fish sauce",
+          "display_text": "1 tablespoon Fish Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "e03c603d-1fed-511f-b0db-a9f74d845f78",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "1 tsp Brown Sugar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "435a9b66-4e57-523d-bcd1-38e271dab9cf",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "1 cup Chicken Stock",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "0cb6756f-91cc-57c1-8dbc-74e05389b883",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "7b4bb050-e7b7-5cf9-a124-dbf5f84757e6",
+          "ingredient_id": "b68d56c5-29fc-57c8-82da-35103b765c1e",
+          "name": "kaffir lime leaves",
+          "display_text": "2 Kaffir Lime Leaves",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4ea9c809-8d25-5b17-8d94-0d653d6e9728",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "1 tablespoon Vegetable Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "40f0d7a8-dc36-5884-a0ae-bf06c0979607",
+          "ingredient_id": "74f2421e-e0f4-577a-8887-ca6e6d03fa27",
+          "name": "banana leaves",
+          "display_text": "Handful Banana Leaves",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2abdead5-b8f6-5a31-9adf-cdcb23b4f633",
+          "ingredient_id": "1655ccbe-97a7-59b3-9245-ebc95a0ed6d0",
+          "name": "cilantro",
+          "display_text": "Garnish Cilantro",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "garnish",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "88241a56-cd2a-58eb-af64-06750dd547c0",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "Garnish Lime",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "garnish",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "In a medium bowl, combine the coconut milk, red curry paste, fish sauce, palm sugar, and broth, whisking until smooth—this ensures no lumps in the sauce.",
+      "ingredients_used": [
+        "57e331b8-8638-528e-bf56-5aa11e1b1637",
+        "7b7d1a12-b2ce-5246-9654-828383838810",
+        "39da4e4e-d0bb-5e97-b40e-34508de2150b"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat the vegetable oil in a large skillet over medium heat (about 350°F) for 30 seconds until shimmering.",
+      "timer_seconds": 30,
+      "temperature": {
+        "value": 350,
+        "unit": "fahrenheit"
+      },
+      "ingredients_used": [
+        "4ea9c809-8d25-5b17-8d94-0d653d6e9728"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Pour the coconut milk mixture into the skillet and bring it to a gentle simmer, stirring occasionally, which should take about 3-4 minutes.",
+      "timer_seconds": 240,
+      "ingredients_used": [
+        "57e331b8-8638-528e-bf56-5aa11e1b1637"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add the fish cubes and kaffir lime leaves to the skillet, submerging them fully in the sauce.",
+      "ingredients_used": [
+        "7b4bb050-e7b7-5cf9-a124-dbf5f84757e6",
+        "88241a56-cd2a-58eb-af64-06750dd547c0"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Reduce the heat to low, cover the skillet, and let it cook for 10 minutes until the fish is opaque and flakes easily with a fork—avoid overcooking to keep it tender.",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 6,
+      "instruction": "Stir in the beaten egg slowly, cooking for 2 more minutes until the sauce thickens slightly, which adds a rich, custard-like texture.",
+      "ingredients_used": [
+        "0cb6756f-91cc-57c1-8dbc-74e05389b883"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "While the curry simmers, prepare the banana leaves by briefly passing them over a gas flame for 10 seconds to make them pliable, or use parchment paper as a handy alternative.",
+      "timer_seconds": 10,
+      "ingredients_used": [
+        "40f0d7a8-dc36-5884-a0ae-bf06c0979607"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Spoon the curry into the center of each banana leaf square, folding the edges to form a tight packet to trap steam."
+    },
+    {
+      "step_number": 9,
+      "instruction": "Place the packets in a steamer basket over boiling water and steam for 10 minutes until heated through and fragrant.",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 10,
+      "instruction": "Carefully unwrap the packets and garnish with fresh cilantro and lime wedges before serving",
+      "ingredients_used": [
+        "2abdead5-b8f6-5a31-9adf-cdcb23b4f633",
+        "88241a56-cd2a-58eb-af64-06750dd547c0"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://recipes-for-life.com/cambodian-recipes/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

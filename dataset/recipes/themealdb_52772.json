@@ -1,0 +1,252 @@
+{
+  "id": "27f0188e-b4db-52d0-8685-bbbb596a665b",
+  "version": "1.0.0",
+  "title": "Teriyaki Chicken Casserole",
+  "slug": "teriyaki-chicken-casserole",
+  "summary": "A Japanese-inspired casserole featuring baked chicken breasts in a sweet and savory teriyaki sauce, tossed with stir-fry vegetables and brown rice.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:30:25Z",
+  "updated_at": "2026-10-16T10:22:42Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52772"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg/small",
+      "alt_text": "Photo of Teriyaki Chicken Casserole",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=4aZr5hZXP_s"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "56a9f85e-d404-5cf3-b90f-babb495ba40f",
+        "slug": "japanese",
+        "name": "Japanese"
+      }
+    ],
+    "tags": [
+      "casserole",
+      "meat"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 50,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 70
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of chicken, rice, and vegetables"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "baaf2bc4-7dba-55b2-bee6-ca42e20ded95",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "7e062a50-d905-577c-b249-18c275768125",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "3/4 cup soy sauce",
+          "quantity": 0.75,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 180.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "07808fa1-0e6a-5991-8c9b-f3d0de2a71a6",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1/2 cup water",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "2f85fe96-118a-5a5b-a321-20328de179a3",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "1/4 cup brown sugar",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "cd8e748d-c417-5369-b28a-9d2a13eb0ea4",
+          "ingredient_id": "9c72d0cf-8d9c-53f6-b4c6-5631779ba66b",
+          "name": "ground ginger",
+          "display_text": "1/2 teaspoon ground ginger",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "10eadbe5-1f87-5651-bd4e-bbc54665b5c7",
+          "ingredient_id": "39d03be8-6193-58a7-94b7-bad7961f2aa6",
+          "name": "minced garlic",
+          "display_text": "1/2 teaspoon minced garlic",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "13d30722-2619-5b3e-8e43-fe7c8e196c54",
+          "ingredient_id": "4bdb1684-cdb6-5a8f-b220-c622cf2655cc",
+          "name": "cornstarch",
+          "display_text": "4 Tablespoons cornstarch",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "806e3514-5b74-5e70-93b7-bd400ffdffef",
+          "ingredient_id": "e23191a1-4966-5b21-a6f1-8df6f50b79db",
+          "name": "chicken breasts",
+          "display_text": "2 chicken breasts",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "e8d75075-7c48-5845-b035-a1a83cf85025",
+          "ingredient_id": "23986e5a-025d-5ef8-bc61-1526037c2826",
+          "name": "stir-fry vegetables",
+          "display_text": "1 (12 oz.) stir-fry vegetables",
+          "quantity": 1.0,
+          "unit": "bag",
+          "preparation": "12 oz. stir-fry vegetables",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ebfaef71-37b3-5290-93c3-253e798e8ba3",
+          "ingredient_id": "e4d322eb-fa90-5796-b25b-59d2f50cb9ae",
+          "name": "brown rice",
+          "display_text": "3 cups brown rice",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat oven to 350° F. Spray a 9x13-inch baking pan with non-stick spray.",
+      "temperature": {
+        "value": 350,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "Combine soy sauce, ½ cup water, brown sugar, ginger and garlic in a small saucepan and cover. Bring to a boil over medium heat. Remove lid and cook for one minute once boiling.",
+      "ingredients_used": [
+        "7e062a50-d905-577c-b249-18c275768125",
+        "07808fa1-0e6a-5991-8c9b-f3d0de2a71a6",
+        "2f85fe96-118a-5a5b-a321-20328de179a3",
+        "cd8e748d-c417-5369-b28a-9d2a13eb0ea4",
+        "10eadbe5-1f87-5651-bd4e-bbc54665b5c7"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Meanwhile, stir together the corn starch and 2 tablespoons of water in a separate dish until smooth. Once sauce is boiling, add mixture to the saucepan and stir to combine. Cook until the sauce starts to thicken then remove from heat.",
+      "ingredients_used": [
+        "07808fa1-0e6a-5991-8c9b-f3d0de2a71a6"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Place the chicken breasts in the prepared pan. Pour one cup of the sauce over top of chicken. Place chicken in oven and bake 35 minutes or until cooked through. Remove from oven and shred chicken in the dish using two forks.",
+      "timer_seconds": 2100,
+      "ingredients_used": [
+        "806e3514-5b74-5e70-93b7-bd400ffdffef"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "*Meanwhile, steam or cook the vegetables according to package directions.",
+      "ingredients_used": [
+        "e8d75075-7c48-5845-b035-a1a83cf85025"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Add the cooked vegetables and rice to the casserole dish with the chicken. Add most of the remaining sauce, reserving a bit to drizzle over the top when serving. Gently toss everything together in the casserole dish until combined. Return to oven and cook 15 minutes. Remove from oven and let stand 5 minutes before serving. Drizzle each serving with remaining sauce. Enjoy!",
+      "ingredients_used": [
+        "e8d75075-7c48-5845-b035-a1a83cf85025",
+        "ebfaef71-37b3-5290-93c3-253e798e8ba3"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

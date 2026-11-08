@@ -1,0 +1,316 @@
+{
+  "id": "fa3fd392-507e-5712-a878-913bbd80aaf5",
+  "version": "1.0.0",
+  "title": "Flija Layered Pancake / Crepe",
+  "slug": "flija-layered-pancake-crepe",
+  "summary": "Flija is a traditional Albanian layered dish made by alternating thin layers of batter and a creamy fat-based filling, cooked under a grill.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:32:01Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53413"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/eqnf3p1779649407.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/eqnf3p1779649407.jpg/small",
+      "alt_text": "Photo of Flija Layered Pancake / Crepe",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=D2zlt4ZXAfA"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "e7c6b7b1-e982-5d1b-96fc-1577c9153035",
+        "slug": "albanian",
+        "name": "Albanian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "advanced",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 120,
+    "marinating_time_minutes": 10,
+    "total_time_minutes": 150
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "servings",
+    "serving_size_description": "a large slice of layered pancake"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "8a67208d-c19e-502e-880d-e9e85dcb2024",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "26a39620-d03f-50cc-ba34-cf9703ed4965",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "1 kg Flour",
+          "quantity": 1.0,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "kilogram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "0eaa7e67-26aa-56ce-81c9-a96c2ec36336",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1 L Water",
+          "quantity": 1.0,
+          "unit": "liter",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "liter",
+          "category": "beverages"
+        },
+        {
+          "id": "fa7843d5-5755-52c8-a4ca-1134a961a4ed",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "93136365-d63b-5d33-8542-9d55b467eddb",
+          "ingredient_id": "824a7073-84ed-52c2-97ef-4d532cabeb6d",
+          "name": "melted butter",
+          "display_text": "220g Melted Butter",
+          "quantity": 220.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 220.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "aaa97a92-553c-517d-a3f2-8a442bd71ccc",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "200ml Vegetable Oil",
+          "quantity": 200.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "99a9c9e1-0135-5a96-9ddc-020486a6bdc1",
+          "ingredient_id": "ba22b73d-e619-5bc7-a859-f65b683613fe",
+          "name": "greek yogurt",
+          "display_text": "5 tablespoons Greek Yogurt",
+          "quantity": 5.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "761e53a6-0453-5a6b-a7bf-adb0c1cac231",
+          "ingredient_id": "824a7073-84ed-52c2-97ef-4d532cabeb6d",
+          "name": "melted butter",
+          "display_text": "220g Melted Butter",
+          "quantity": 220.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 220.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "828eeb08-95ac-5c44-ba66-08f320e655d0",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "200ml Vegetable Oil",
+          "quantity": 200.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "95802ca7-00f1-5c2a-b1aa-b8bd2ca02e77",
+          "ingredient_id": "75fda4c8-5908-5551-a6c6-1b0eb39bbec3",
+          "name": "clotted cream",
+          "display_text": "3  tablespoons Clotted Cream",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "3b6f060f-5129-5011-b0f3-ac52fe7d6271",
+          "ingredient_id": "824a7073-84ed-52c2-97ef-4d532cabeb6d",
+          "name": "melted butter",
+          "display_text": "220g Melted Butter",
+          "quantity": 220.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 220.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "4f991ae9-307e-597e-b1e8-0661e1ccc2f8",
+          "ingredient_id": "6ca777b1-4e80-5a4b-8ffe-88c954e2cc8a",
+          "name": "sour cream",
+          "display_text": "500ml Sour Cream",
+          "quantity": 500.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "abceb1f0-b64b-54c9-a8f0-de1216ce8785",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "3  tablespoons Olive Oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Prepare the Flour Batter",
+      "ingredients_used": [
+        "26a39620-d03f-50cc-ba34-cf9703ed4965"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Mix together the flour, water and salt ensuring all the lumps are dissolved. The mixture should be thick but still of a pouring consistency, add a little extra water if required. Put to one side.",
+      "ingredients_used": [
+        "26a39620-d03f-50cc-ba34-cf9703ed4965",
+        "0eaa7e67-26aa-56ce-81c9-a96c2ec36336",
+        "fa7843d5-5755-52c8-a4ca-1134a961a4ed"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Prepare the Batter Filling"
+    },
+    {
+      "step_number": 4,
+      "instruction": "Mix together the butter, oil and chosen yogurt / cream ensuring all the lumps are dissolved. The mixture should be runny, leave to rest for 10 minutes before given it another good mix. The consistency should be similar to custard. Put to one side.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "93136365-d63b-5d33-8542-9d55b467eddb",
+        "99a9c9e1-0135-5a96-9ddc-020486a6bdc1",
+        "761e53a6-0453-5a6b-a7bf-adb0c1cac231",
+        "3b6f060f-5129-5011-b0f3-ac52fe7d6271"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Baking"
+    },
+    {
+      "step_number": 6,
+      "instruction": "Preheat the gill to a medium setting (I use mark 4 of 6). Take a large deep baking tray or pie pan and rub some olive oil over the base. Make the first layer of flour batter using a squirty bottle or laydel, don't try to pour the batter as it will be too thick in the pan. You need to make a star effect by leaving triangles between each line of batter layers. Place under the grill until golden brown. This will take between 3 - 5 minutes.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "26a39620-d03f-50cc-ba34-cf9703ed4965",
+        "abceb1f0-b64b-54c9-a8f0-de1216ce8785"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Remove from under the grill and using a brush or the back of spoon rub over the whole pan (both battered and un-battered areas) a layer of the batter filling. Then, add a layer of the flour filling, use the same star effect this time placing the lines of batter through the gaps left from the previous layering. Also, leaving the same triangle shapes between each line. Place under the grill until golden brown. This will take between 3 - 5 minutes.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "26a39620-d03f-50cc-ba34-cf9703ed4965"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Repeat step 4 until all the mixture has been used and ensuring each triangle gap is filled with flour batter on each layer - this will take around 2 hours. After every couple of layers, use one layer just to fill up any spaces (large gaps between the batter stars) that may have started to show.",
+      "timer_seconds": 7200,
+      "ingredients_used": [
+        "26a39620-d03f-50cc-ba34-cf9703ed4965"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Serving"
+    },
+    {
+      "step_number": 10,
+      "instruction": "Once the Flija is ready serve straight away with honey or yogurt.",
+      "ingredients_used": [
+        "99a9c9e1-0135-5a96-9ddc-020486a6bdc1"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.myalbanianfood.com/recipe/albanian-flija-pancake/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "id": "9aad8f5d-a1d8-535b-a9fb-8cbe93452de1",
+  "version": "1.0.0",
+  "title": "Apple Frangipan Tart",
+  "slug": "apple-frangipan-tart",
+  "summary": "A British dessert featuring a buttery biscuit base topped with sliced Bramley apples and a sweet almond frangipane filling.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:36:34Z",
+  "updated_at": "2026-10-16T10:22:42Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52768"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg/small",
+      "alt_text": "Photo of Apple Frangipan Tart",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=rp8Slv4INLk"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "baking",
+      "fruity",
+      "tart"
+    ],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "afternoon_snack",
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 25,
+    "rest_time_minutes": 15,
+    "total_time_minutes": 60
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1 slice of tart"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "tree_nuts",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "9e21c001-ee88-5a40-9425-5044ea9ba7c5",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "1d3aead7-4ac3-5ec3-b995-3855bb25a3aa",
+          "ingredient_id": "42f8f655-c997-50ed-870f-09babd4cc947",
+          "name": "digestive biscuits",
+          "display_text": "175g/6oz digestive biscuits",
+          "quantity": 175.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 175.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "81ec4b91-2a59-5c80-ae88-304bc6d664e2",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "75g/3oz butter",
+          "quantity": 75.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "56c50def-7bdd-55c7-8220-92ab6456a68e",
+          "ingredient_id": "a5429717-646c-519b-9cd6-e52407f5b361",
+          "name": "bramley apples",
+          "display_text": "200g/7oz Bramley apples",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "a91d4035-b0bd-51d4-8a94-e74f064a47b7",
+          "ingredient_id": "61d59118-43ac-5ce0-8424-181c34200c44",
+          "name": "salted butter",
+          "display_text": "75g/3oz Salted Butter",
+          "quantity": 75.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "9ba8d398-973d-5b6f-9bcb-faab2b9aa3d5",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "75g/3oz caster sugar",
+          "quantity": 75.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "2bcb49f6-f899-5440-bc28-7046f8959146",
+          "ingredient_id": "d85c725d-ff25-5a04-870f-57c9b9e40f80",
+          "name": "free-range eggs, beaten",
+          "display_text": "2 free-range eggs, beaten",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "2c995efd-d9f0-5abf-a3fb-88bf5ba101bc",
+          "ingredient_id": "41e42808-3e57-5cd0-b774-00a901be35d9",
+          "name": "ground almonds",
+          "display_text": "75g/3oz ground almonds",
+          "quantity": 75.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "8dc366df-7ac7-5fb7-9fa9-36bb43b224b0",
+          "ingredient_id": "278d6272-cef1-5153-8ee2-6a0fb031c264",
+          "name": "almond extract",
+          "display_text": "1 tsp almond extract",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "080e953d-328d-5d41-a7b0-3943c80c0f09",
+          "ingredient_id": "a31e0742-002d-5418-8c74-ccc647e894b8",
+          "name": "flaked almonds",
+          "display_text": "50g/1¾oz flaked almonds",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat the oven to 200C/180C Fan/Gas 6.",
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "Put the biscuits in a large re-sealable freezer bag and bash with a rolling pin into fine crumbs. Melt the butter in a small pan, then add the biscuit crumbs and stir until coated with butter. Tip into the tart tin and, using the back of a spoon, press over the base and sides of the tin to give an even layer. Chill in the fridge while you make the filling.",
+      "ingredients_used": [
+        "1d3aead7-4ac3-5ec3-b995-3855bb25a3aa",
+        "81ec4b91-2a59-5c80-ae88-304bc6d664e2",
+        "a91d4035-b0bd-51d4-8a94-e74f064a47b7"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Cream together the butter and sugar until light and fluffy. You can do this in a food processor if you have one. Process for 2-3 minutes. Mix in the eggs, then add the ground almonds and almond extract and blend until well combined.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "81ec4b91-2a59-5c80-ae88-304bc6d664e2",
+        "a91d4035-b0bd-51d4-8a94-e74f064a47b7",
+        "2c995efd-d9f0-5abf-a3fb-88bf5ba101bc",
+        "8dc366df-7ac7-5fb7-9fa9-36bb43b224b0",
+        "080e953d-328d-5d41-a7b0-3943c80c0f09"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Peel the apples, and cut thin slices of apple. Do this at the last minute to prevent the apple going brown. Arrange the slices over the biscuit base. Spread the frangipane filling evenly on top. Level the surface and sprinkle with the flaked almonds.",
+      "ingredients_used": [
+        "56c50def-7bdd-55c7-8220-92ab6456a68e",
+        "2c995efd-d9f0-5abf-a3fb-88bf5ba101bc",
+        "080e953d-328d-5d41-a7b0-3943c80c0f09"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Bake for 20-25 minutes until golden-brown and set.",
+      "timer_seconds": 1500
+    },
+    {
+      "step_number": 6,
+      "instruction": "Remove from the oven and leave to cool for 15 minutes. Remove the sides of the tin. An easy way to do this is to stand the tin on a can of beans and push down gently on the edges of the tin.",
+      "timer_seconds": 900
+    },
+    {
+      "step_number": 7,
+      "instruction": "Transfer the tart, with the tin base attached, to a serving plate. Serve warm with cream, crème fraiche or ice cream."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

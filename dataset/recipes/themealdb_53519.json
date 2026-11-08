@@ -1,0 +1,187 @@
+{
+  "id": "7c040f00-02ef-5f4a-bb0b-ff120949d28a",
+  "version": "1.0.0",
+  "title": "Leche Asada",
+  "slug": "leche-asada",
+  "summary": "A traditional Chilean custard dessert made by infusing milk with lemon zest and cinnamon, then baking it with eggs and sugar.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:41:30Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53519"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/fnh40v1782853788.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/fnh40v1782853788.jpg/small",
+      "alt_text": "Photo of Leche Asada",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "2681863c-dfb1-5347-8330-bcdf36e53ac6",
+        "slug": "chilean",
+        "name": "Chilean"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 35,
+    "marinating_time_minutes": 15,
+    "total_time_minutes": 60
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1 slice of custard"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "eggs"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "6270d2b4-c570-54b1-92bc-e657d38ff968",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "51794fa4-bc0c-51af-813e-b07440645e6f",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "1 quart Milk",
+          "quantity": 1.0,
+          "unit": "quart",
+          "is_optional": false,
+          "metric_quantity": 946.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "a5d4b924-392f-50d3-845e-a045465c35a0",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "Zest of 1 Lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "zest",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "a160a0b6-1b68-5069-9daf-9352433f94e5",
+          "ingredient_id": "815267d7-ad8f-543a-b885-c3fdabdc63fb",
+          "name": "cinnamon stick",
+          "display_text": "2 Cinnamon Stick",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "384ca702-b681-5988-b3e4-39193f244a0d",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "4 Eggs",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "9353b851-6f24-5739-8450-53f0b6e2b382",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1/2 cup Sugar",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat oven to 350 degrees F (175 degrees C).",
+      "temperature": {
+        "value": 350,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "Pour the milk into a saucepan along with the lemon zest and cinnamon sticks. Bring to a simmer over medium-high heat, then reduce heat to low, and cook for 5 minutes. Turn heat off, and allow to steep for 15 minutes.",
+      "ingredients_used": [
+        "51794fa4-bc0c-51af-813e-b07440645e6f",
+        "a5d4b924-392f-50d3-845e-a045465c35a0",
+        "a160a0b6-1b68-5069-9daf-9352433f94e5"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Gently beat the eggs and sugar together until the sugar has dissolved. Slowly beat in 1 cup of the hot milk, a little at a time, until it has been incorporated. Stir the egg mixture back into the hot milk, pour in the pisco, and mix until well combined.",
+      "ingredients_used": [
+        "51794fa4-bc0c-51af-813e-b07440645e6f",
+        "384ca702-b681-5988-b3e4-39193f244a0d",
+        "9353b851-6f24-5739-8450-53f0b6e2b382"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Pour the custard through a fine mesh sieve into a 2-quart ceramic casserole dish to remove the lemon zest and cinnamon. Bake in preheated oven until set, and browned on top, about 30 minutes. Chill before serving.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "a5d4b924-392f-50d3-845e-a045465c35a0"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.allrecipes.com/recipe/134327/leche-asada/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

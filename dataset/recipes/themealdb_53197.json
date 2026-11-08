@@ -1,0 +1,266 @@
+{
+  "id": "782c2148-2231-5bc4-954b-e5342fd52358",
+  "version": "1.0.0",
+  "title": "Thai pork & peanut curry",
+  "slug": "thai-pork-peanut-curry",
+  "summary": "A Thai-inspired curry featuring tender pork slices simmered in a creamy sauce of red curry paste, peanut butter, and coconut milk, served with jasmine rice.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:12:50Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53197"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/snmtd61763426568.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/snmtd61763426568.jpg/small",
+      "alt_text": "Photo of Thai pork & peanut curry",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=cxryD8ZHCdQ"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "724b7c6a-f254-57d4-9729-335a2b2d93b1",
+        "slug": "thai",
+        "name": "Thai"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a bowl of curry with rice"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "peanuts",
+      "soy"
+    ],
+    "free_from": [
+      "dairy",
+      "tree_nuts",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "edbab0f3-bddf-5887-86e2-34e8a761193a",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "4ac3691f-8b36-5fcb-87ed-1a860938f4bd",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "1 tablespoon Vegetable Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "dd2bd485-60ad-5b61-b093-d828ae8a4351",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "Bunch Spring Onions",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "bunch",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0a611f16-cb0c-5b95-829b-4decc46c845c",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "Bunch Coriander",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "bunch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3af20708-26fe-557d-a2b5-15a59b39ec4d",
+          "ingredient_id": "c7b42688-ab55-5241-845b-d88498091799",
+          "name": "pork tenderloin",
+          "display_text": "400g Pork Tenderloin",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "49d9f79a-d71c-56e7-a15b-375abae5b01c",
+          "ingredient_id": "beb6cb16-691a-5cca-80dd-69a4020c3fa6",
+          "name": "thai red curry paste",
+          "display_text": "4 tablespoons Thai Red Curry Paste",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "efb9ab2f-7b07-5d6c-b0d1-0259f322d4d4",
+          "ingredient_id": "7d1aec85-0aaa-5080-9fc7-4d5396f799f9",
+          "name": "peanut butter",
+          "display_text": "4 tablespoons Peanut Butter",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "4b4803e0-e657-58e0-b67d-ccfd043e4bbc",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "1 tablespoon Brown Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "3c8cc110-01d7-5d43-b145-1c7112c1bc77",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "1 tbsp Soy Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "cecb98b8-81d4-52fc-bc24-9be0ce73212c",
+          "ingredient_id": "0435e55e-84f6-566c-ac81-37617bbab91c",
+          "name": "coconut milk",
+          "display_text": "400ml Coconut Milk",
+          "quantity": 400.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "98ee47d8-1969-591d-b6d0-47f372ac46f7",
+          "ingredient_id": "92714bc1-780e-51dd-976e-bfbc04bc95a8",
+          "name": "sweetcorn",
+          "display_text": "175g Sweetcorn",
+          "quantity": 175.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 175.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "67dfec88-820e-5074-8a49-bcc1b37693ac",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "Juice of 1 Lime",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "07cbc7c8-4612-5ac7-b625-2844ca08d3db",
+          "ingredient_id": "5e15f536-69f0-5645-a107-7aef5fc85d55",
+          "name": "jasmine rice",
+          "display_text": "Steamed Jasmine Rice",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "steamed",
+          "is_optional": false,
+          "category": "grains_pasta"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oil in a large saucepan or flameproof casserole. Add the spring onions and coriander stalks and cook for 1 min. Add the pork slices and cook for 5 mins until starting to brown.",
+      "ingredients_used": [
+        "dd2bd485-60ad-5b61-b093-d828ae8a4351",
+        "0a611f16-cb0c-5b95-829b-4decc46c845c"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Stir in the curry paste and peanut butter. After 30 secs, add the sugar, soy and coconut milk, plus ½ can of water. Mix well, put a lid on and leave to simmer for 15 mins, stirring occasionally.",
+      "ingredients_used": [
+        "efb9ab2f-7b07-5d6c-b0d1-0259f322d4d4",
+        "cecb98b8-81d4-52fc-bc24-9be0ce73212c"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Remove the lid, add the baby corn and increase the heat. Bubble for 3 mins until the corn is cooked and the sauce has thickened a little. Stir in the lime juice and check the seasoning. Can now be frozen for up to 2 months. To cook from frozen: thoroughly defrost, then heat in a pan on the hob until curry is hot all the way through. Serve scattered with the coriander leaves and rice.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "0a611f16-cb0c-5b95-829b-4decc46c845c",
+        "67dfec88-820e-5074-8a49-bcc1b37693ac",
+        "07cbc7c8-4612-5ac7-b625-2844ca08d3db"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/thai-pork-peanut-curry"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

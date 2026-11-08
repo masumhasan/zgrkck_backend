@@ -1,0 +1,247 @@
+{
+  "id": "81a8d450-dd37-5791-8312-1dd95fc4dc61",
+  "version": "1.0.0",
+  "title": "Hot cumin lamb wrap with crunchy slaw & spicy mayo",
+  "slug": "hot-cumin-lamb-wrap-with-crunchy-slaw-spicy-mayo",
+  "summary": "Spiced lamb steaks served in pita bread with a crunchy vegetable slaw and a creamy pepper-infused mayonnaise.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:18:19Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53258"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/jyylmo1763790808.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/jyylmo1763790808.jpg/small",
+      "alt_text": "Photo of Hot cumin lamb wrap with crunchy slaw & spicy mayo",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4c480df7-c067-5e9c-ac08-d8d49afa7f51",
+        "slug": "turkish",
+        "name": "Turkish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 8,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 28
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 stuffed pita bread"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "eggs",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "3acc218b-ceb8-5ab2-89c0-11a668c965f6",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "48ce17f4-d134-5359-98b3-f26fb7dab7d2",
+          "ingredient_id": "3e654cff-550d-5ae5-ae81-f532c48f2674",
+          "name": "lamb leg",
+          "display_text": "4 small Lamb Leg",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "730ec09b-c369-5f55-83dd-b544dcd48695",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tsp Olive Oil",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "8991e16d-9533-5a74-adfb-2a49243cce8e",
+          "ingredient_id": "efa5be6a-3bc3-55ca-812f-22dd145ba53d",
+          "name": "ground cumin",
+          "display_text": "1 tsp Ground Cumin",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "fc307f9a-8691-56c4-ba43-820ea3621aad",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 tablespoon Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "d5456a22-b9ac-5f15-bdda-491ec607d3fb",
+          "ingredient_id": "fa7445fe-6dac-523d-9bc7-0bdbcf354913",
+          "name": "white wine vinegar",
+          "display_text": "3  tablespoons White Wine Vinegar",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "61b2e970-0e0e-584b-8f2b-f9c178c2fcc2",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "2 Carrots",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "faada69b-d34d-5044-bf5b-2ad953f99fcd",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "2 sliced Spring Onions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d128fa02-c5f8-5804-b175-58db688d13f7",
+          "ingredient_id": "21b2d42b-5b38-5551-ac7b-75008ee144d3",
+          "name": "white cabbage",
+          "display_text": "400g White Cabbage",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "f761f45e-7cae-57a5-84bf-77c9d3a59241",
+          "ingredient_id": "53dc018f-69cc-55c5-8559-2f66923173b1",
+          "name": "sweet peppadew peppers",
+          "display_text": "5 Sweet Peppadew Peppers",
+          "quantity": 5.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "70d5a579-ff3a-5295-810b-d66225b67957",
+          "ingredient_id": "6a3a5ec7-7840-5eff-a3ce-0e3aafbaa822",
+          "name": "mayonnaise",
+          "display_text": "3  tablespoons Mayonnaise",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "96c8964a-3a02-5176-a9f1-1a45f1f15042",
+          "ingredient_id": "3998084f-e7c2-5364-b223-62058fa4c0c9",
+          "name": "pita bread",
+          "display_text": "4 large Pita Bread",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "grains_pasta"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat a griddle pan. Rub the lamb steaks with the oil, cumin and some seasoning. Griddle for about 3-4 mins on each side or until cooked to your liking. Place to one side on a plate to rest.",
+      "timer_seconds": 240,
+      "ingredients_used": [
+        "8991e16d-9533-5a74-adfb-2a49243cce8e"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a large bowl, stir the sugar into the vinegar until dissolved. Add the carrots, spring onions, cabbage and some seasoning, and toss together.",
+      "ingredients_used": [
+        "fc307f9a-8691-56c4-ba43-820ea3621aad",
+        "61b2e970-0e0e-584b-8f2b-f9c178c2fcc2",
+        "faada69b-d34d-5044-bf5b-2ad953f99fcd",
+        "d128fa02-c5f8-5804-b175-58db688d13f7"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Blitz the whole peppers and the mayo in a food processor. Add a heap of the salad to each flatbread. Slice the lamb, trimming off any excess fat and lay on top of the salad, drizzling with the resting juices. Spoon over the mayo and scatter with a few of the sliced peppers. Roll up and eat. If using pitta, split and stuff. Serve any extra salad on the side.",
+      "ingredients_used": [
+        "f761f45e-7cae-57a5-84bf-77c9d3a59241"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/hot-cumin-lamb-wrap-crunchy-slaw-spicy-mayo"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

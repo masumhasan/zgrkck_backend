@@ -1,0 +1,343 @@
+{
+  "id": "a8cfcaf1-fd80-5256-abb2-84e1258eb857",
+  "version": "1.0.0",
+  "title": "Num Pang – Cambodian Baguette Sandwich",
+  "slug": "num-pang-cambodian-baguette-sandwich",
+  "summary": "A Cambodian-style sandwich featuring marinated chicken thighs served in a toasted baguette with pickled carrots and daikon, cucumber, cilantro, and a spicy sriracha mayonnaise.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:39:52Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53501"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/o93jur1782769321.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/o93jur1782769321.jpg/small",
+      "alt_text": "Photo of Num Pang – Cambodian Baguette Sandwich",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9366172c-dff3-589e-9436-4be7c7f595b3",
+        "slug": "cambodian",
+        "name": "Cambodian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 15,
+    "marinating_time_minutes": 20,
+    "total_time_minutes": 50
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 sandwich"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "eggs",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "1160f5a5-7f32-58d4-8d93-37e59a6f1cb5",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "355cdb7c-fca8-5875-a379-b0638bcd996e",
+          "ingredient_id": "43b5d3b2-0e2d-5ff1-9c0e-d047e896af5e",
+          "name": "baguette",
+          "display_text": "4 Baguette",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "c56ca88d-faba-53f2-88d1-d9d82f4f9a3d",
+          "ingredient_id": "e0e4d032-0f9f-5908-ab90-db9a8ec5b68c",
+          "name": "chicken thighs",
+          "display_text": "1 lb Chicken Thighs",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "poultry"
+        },
+        {
+          "id": "3f10b037-2ee5-551c-b987-80078892f2da",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "1/4 cup Soy Sauce",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "765a4115-8980-5563-abbb-bac01de63151",
+          "ingredient_id": "7ad11d6e-3134-5831-97df-4db2a67589f7",
+          "name": "honey",
+          "display_text": "2 tablespoons Honey",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "08d23830-d2bb-57f0-a543-cccd5ee32db0",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "2 tablespoons Vegetable Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "4122ce29-0054-548b-9ed7-173e353952ee",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "1/2 cup Carrots",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "5c2dc3e2-c7e6-5eed-9f12-25a1c20e17e9",
+          "ingredient_id": "fa73193f-11af-5abb-92da-ec749c3b522b",
+          "name": "daikon radish",
+          "display_text": "1/2 cup Daikon Radish",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "6a661819-90c1-5b04-a1bc-f497ab60c90c",
+          "ingredient_id": "cad15bc5-2770-5a5f-8572-c5ac5ad79569",
+          "name": "rice vinegar",
+          "display_text": "1/4 cup Rice Vinegar",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "f5217c7c-e8d6-503d-b8d1-7772fa6900e6",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 tablespoon Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "589353e9-a585-532d-b022-8fcee4ef5f34",
+          "ingredient_id": "6a3a5ec7-7840-5eff-a3ce-0e3aafbaa822",
+          "name": "mayonnaise",
+          "display_text": "1/4 cup Mayonnaise",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "58359fde-e54b-5f2c-8986-3130b26b1b3a",
+          "ingredient_id": "da2d6b43-f9b6-5a86-b2be-b5c2a1578fa8",
+          "name": "sriracha",
+          "display_text": "1 tablespoon Sriracha",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "82cfd00e-0aad-5517-932d-080fed7aba0b",
+          "ingredient_id": "c9d1de7b-7a65-598c-ac18-7860212efe0d",
+          "name": "cilantro leaves",
+          "display_text": "1/2 cup Cilantro Leaves",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "2a207880-f184-5786-a57d-ef5f06050124",
+          "ingredient_id": "8f9e104a-822f-5bda-b376-eee34fc38609",
+          "name": "cucumber",
+          "display_text": "1/4 cup Cucumber",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "In a medium bowl, whisk together the soy sauce and honey to create a marinade.",
+      "ingredients_used": [
+        "3f10b037-2ee5-551c-b987-80078892f2da",
+        "765a4115-8980-5563-abbb-bac01de63151"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the chicken thigh strips to the marinade, ensuring each piece is fully coated, and let it sit for 20 minutes at room temperature.",
+      "timer_seconds": 1200
+    },
+    {
+      "step_number": 3,
+      "instruction": "While the chicken marinates, combine the julienned carrots, daikon radish, rice vinegar, and granulated sugar in a separate bowl, stirring until the sugar dissolves to pickle the vegetables.",
+      "ingredients_used": [
+        "4122ce29-0054-548b-9ed7-173e353952ee",
+        "5c2dc3e2-c7e6-5eed-9f12-25a1c20e17e9",
+        "6a661819-90c1-5b04-a1bc-f497ab60c90c",
+        "f5217c7c-e8d6-503d-b8d1-7772fa6900e6"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "In a small bowl, mix the mayonnaise and sriracha sauce thoroughly to make a spicy aioli.",
+      "ingredients_used": [
+        "589353e9-a585-532d-b022-8fcee4ef5f34",
+        "58359fde-e54b-5f2c-8986-3130b26b1b3a"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Heat the vegetable oil in a large skillet or wok over medium-high heat until it shimmers, about 2 minutes.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "08d23830-d2bb-57f0-a543-cccd5ee32db0"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Add the marinated chicken strips to the hot skillet in a single layer, cooking for 4-5 minutes per side until they reach an internal temperature of 165°F and develop a golden-brown crust.",
+      "timer_seconds": 300,
+      "temperature": {
+        "value": 165,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 7,
+      "instruction": "While the chicken cooks, lightly toast the split baguettes in a toaster oven or under a broiler for 2-3 minutes until just crisp on the edges.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "355cdb7c-fca8-5875-a379-b0638bcd996e"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Spread a generous layer of the spicy aioli on the inside of each toasted baguette.",
+      "ingredients_used": [
+        "355cdb7c-fca8-5875-a379-b0638bcd996e"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Drain the pickled carrots and daikon radish from their liquid, then layer them onto the bottom half of each baguette.",
+      "ingredients_used": [
+        "355cdb7c-fca8-5875-a379-b0638bcd996e",
+        "4122ce29-0054-548b-9ed7-173e353952ee",
+        "5c2dc3e2-c7e6-5eed-9f12-25a1c20e17e9"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "Place the cooked chicken strips evenly over the pickled vegetables in each sandwich."
+    },
+    {
+      "step_number": 11,
+      "instruction": "Top the chicken with fresh cilantro leaves and thinly sliced cucumber.",
+      "ingredients_used": [
+        "82cfd00e-0aad-5517-932d-080fed7aba0b",
+        "2a207880-f184-5786-a57d-ef5f06050124"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Close the sandwiches by pressing the top half of each baguette down gently.",
+      "ingredients_used": [
+        "355cdb7c-fca8-5875-a379-b0638bcd996e"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://recipes-for-life.com/cambodian-recipes/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

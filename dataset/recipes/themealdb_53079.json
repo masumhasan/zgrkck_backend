@@ -1,0 +1,229 @@
+{
+  "id": "ae1e07eb-fc96-589a-864a-bab0bc3c4a99",
+  "version": "1.0.0",
+  "title": "Fish Soup (Ukha)",
+  "slug": "fish-soup-ukha",
+  "summary": "A traditional Russian clear fish soup made with a combination of cod and salmon, flavored with aromatics and vegetables.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:02:42Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53079"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/7n8su21699013057.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/7n8su21699013057.jpg/small",
+      "alt_text": "Photo of Fish Soup (Ukha)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=cS3Yn-y5uVg"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "89b023d7-b2bb-5d32-90aa-fbee4bddee90",
+        "slug": "russian",
+        "name": "Russian"
+      }
+    ],
+    "tags": [
+      "soup"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "soup"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 35,
+    "total_time_minutes": 50
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of soup"
+  },
+  "allergens": {
+    "contains": [
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "5b294124-21b3-528c-8d91-9061c25d6688",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "ec8edd5f-f750-5b81-88b0-ec54bcee067f",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tbs Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "59dae4ba-1c45-5427-8d7e-4a23f7a70cb2",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 sliced Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0ac79484-05af-548f-92ad-17fe52a93f74",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "2 medium Carrots",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "873d20ff-0397-5c12-a994-d94d518203c2",
+          "ingredient_id": "c118d44d-de17-5a99-9978-c0acc2b19a6e",
+          "name": "fish stock",
+          "display_text": "3 cups Fish Stock",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "6206ac6d-3dcf-545c-ac37-686f1a4b02a9",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "3 cups Water",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "dda6db90-be3e-58d8-8af8-455d41176f30",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "4 large Potatoes",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "cb94e50f-66ce-5a71-964b-78bb4056e1e2",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "3 Bay Leaf",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "fbe9f083-73b9-5f02-b34e-cc61a46689b8",
+          "ingredient_id": "f9dad168-9e60-5ad4-ac38-eaf334e31e27",
+          "name": "cod",
+          "display_text": "1 Cod",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "fish"
+        },
+        {
+          "id": "ce2992bb-bc5a-5554-8371-c51bec136a6d",
+          "ingredient_id": "8e78b962-6a36-568e-a6f6-db81cdbb4985",
+          "name": "salmon",
+          "display_text": "1 Salmon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "fish"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "In a medium pot, heat the olive oil over medium-high heat. Add the onions and cook, stirring occasionally until the onions start to caramelize. Add the carrots and cook until the carrots start to soften, about 4 more minutes.",
+      "ingredients_used": [
+        "ec8edd5f-f750-5b81-88b0-ec54bcee067f",
+        "59dae4ba-1c45-5427-8d7e-4a23f7a70cb2",
+        "0ac79484-05af-548f-92ad-17fe52a93f74"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the stock, water, potatoes, bay leaves, and black peppercorns. Season with salt and bring to a boil. Reduce heat, cover and cook for 10 minutes. Add the millet and cook for 15 more minutes until millet and potatoes are cooked.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "6206ac6d-3dcf-545c-ac37-686f1a4b02a9",
+        "dda6db90-be3e-58d8-8af8-455d41176f30"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Gently add the fish cubes. Stir and bring the soup to a simmer. The fish will cook through very fast, so make sure to not overcook them. They are done when the flesh is opaque and flakes easily."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Garnish the soup with chopped fresh dill or parsley before serving."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.curiouscuisiniere.com/ukha-russian-fish-soup/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

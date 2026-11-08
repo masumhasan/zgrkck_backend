@@ -1,0 +1,304 @@
+{
+  "id": "2065a5ac-9858-59ad-b5ba-069127a664c3",
+  "version": "1.0.0",
+  "title": "Zapiekanki",
+  "slug": "zapiekanki",
+  "summary": "Zapiekanki are traditional Polish open-faced toasted baguettes topped with sautéed mushrooms, melted cheese, and various meats.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:21:32Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53294"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/72lmpt1764122511.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/72lmpt1764122511.jpg/small",
+      "alt_text": "Photo of Zapiekanki",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=uely-neGHLM"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d40b0607-0a3a-5f5d-8012-7eaf1b714fa5",
+        "slug": "polish",
+        "name": "Polish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 45
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 halved baguette with toppings"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "348f9f0b-cacc-5ade-92eb-b9c3d0435ff4",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "558c5b66-4fb2-5eca-9685-d512877f1cfb",
+          "ingredient_id": "43b5d3b2-0e2d-5ff1-9c0e-d047e896af5e",
+          "name": "baguette",
+          "display_text": "2 Baguette",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "82f530a1-01b9-5c31-bc60-c2447b16a163",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "1 tablespoon Butter",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "38903d5e-eac3-59cb-8d49-6a1d38f10a6a",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "2 tsp Vegetable Oil",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "e99b3c79-b14e-5eb1-8b82-41266d5bd7ab",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0b14c199-7f1b-5424-9139-5a416377f1b8",
+          "ingredient_id": "5031dcf8-ef4a-588f-ae8f-de7c2790dfac",
+          "name": "mushrooms",
+          "display_text": "300g Mushrooms",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "dcf2cfa5-e36d-5480-8390-942fa647d438",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4a89ce81-3a57-523a-9e58-0709c9218900",
+          "ingredient_id": "6a3a5ec7-7840-5eff-a3ce-0e3aafbaa822",
+          "name": "mayonnaise",
+          "display_text": "1 tablespoon Mayonnaise",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "5e725d17-9e4e-5c55-8ed3-7b41038737d7",
+          "ingredient_id": "fe9682db-38d4-56f5-81fb-f846056c2505",
+          "name": "cheddar cheese",
+          "display_text": "50g Cheddar Cheese",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "5ef62514-48b7-5d88-960e-0a047d9c50bc",
+          "ingredient_id": "c61b86c2-f691-51ef-9d76-0787f0d404f5",
+          "name": "ham",
+          "display_text": "75g Ham",
+          "quantity": 75.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "54799fca-924a-5ac2-b505-dd47478d7fd4",
+          "ingredient_id": "8824af09-23a3-575a-a615-d24069805660",
+          "name": "polish kabanos",
+          "display_text": "75g Polish Kabanos",
+          "quantity": 75.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "236c817c-0f2f-5665-8466-cdb2ff1e81fe",
+          "ingredient_id": "e33b865f-f35f-5c67-b930-10dc0e6899f1",
+          "name": "mozzarella",
+          "display_text": "50g Mozzarella",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "9c7e608f-0f7e-5334-a47a-3b01249fdc49",
+          "ingredient_id": "c20ef13e-7f52-5fce-847f-34f123e6392e",
+          "name": "dill",
+          "display_text": "2 Dill",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3fd35933-10d0-5dbd-98fa-d80a57262723",
+          "ingredient_id": "85291054-0b21-5fc5-ac52-86bee20f4bbc",
+          "name": "chives",
+          "display_text": "1 tablespoon Chives",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "13bda226-c90b-54f8-a6e8-47c5d5329a8f",
+          "ingredient_id": "a4357aa8-235c-57af-b089-15c2effbb92c",
+          "name": "tomato ketchup",
+          "display_text": "Drizzle Tomato Ketchup",
+          "quantity": 1,
+          "unit": "drizzle",
+          "is_optional": false,
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oven to 200C/180C fan/gas 6. Bake the baguettes on a baking tray for 8-10 mins, then leave to cool.",
+      "timer_seconds": 600,
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "558c5b66-4fb2-5eca-9685-d512877f1cfb"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat 2 tsp of the butter and 1 tsp of the oil in a pan over a low heat and cook the chopped onion for 5 mins until soft. Stir in the mushrooms, turn the heat to medium and cook for 5-10 mins more until the veg is soft and the mushroom liquid has evaporated. Stir in the garlic and cook for 1-2 mins until soft. Season, then stir in the mayonnaise and remove from the heat.",
+      "ingredients_used": [
+        "82f530a1-01b9-5c31-bc60-c2447b16a163",
+        "e99b3c79-b14e-5eb1-8b82-41266d5bd7ab",
+        "0b14c199-7f1b-5424-9139-5a416377f1b8",
+        "dcf2cfa5-e36d-5480-8390-942fa647d438",
+        "4a89ce81-3a57-523a-9e58-0709c9218900"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Halve the baguettes lengthways, then return to the baking tray, cut-side up and spread over the mushroom mixture, then sprinkle over the cheddar, ham, kabanos and mozzarella. Bake for 8-10 mins, or until the cheese has melted and turned golden.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "558c5b66-4fb2-5eca-9685-d512877f1cfb",
+        "5ef62514-48b7-5d88-960e-0a047d9c50bc",
+        "54799fca-924a-5ac2-b505-dd47478d7fd4",
+        "236c817c-0f2f-5665-8466-cdb2ff1e81fe"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Meanwhile, heat the remaining butter and oil in a pan over a medium heat and fry the sliced onions for 5 mins until golden and soft. Remove from the heat and set aside. Once the pizzas are cooked, top with the caramelized onions, dill pickles (if using), the chives and a zig-zag drizzle of ketchup.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "82f530a1-01b9-5c31-bc60-c2447b16a163",
+        "e99b3c79-b14e-5eb1-8b82-41266d5bd7ab",
+        "9c7e608f-0f7e-5334-a47a-3b01249fdc49",
+        "3fd35933-10d0-5dbd-98fa-d80a57262723",
+        "13bda226-c90b-54f8-a6e8-47c5d5329a8f"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/zapiekanki"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

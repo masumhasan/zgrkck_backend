@@ -1,0 +1,306 @@
+{
+  "id": "7d9fb7e5-11c1-53b7-a652-b85cc064926a",
+  "version": "1.0.0",
+  "title": "Zeeuwse bolussen",
+  "slug": "zeeuwse-bolussen",
+  "summary": "Zeeuwse bolussen are traditional Dutch sweet rolls from Zeeland, characterized by a spiral shape coated in cinnamon and sugar.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:30:11Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53394"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/qawvoy1777627952.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/qawvoy1777627952.jpg/small",
+      "alt_text": "Photo of Zeeuwse bolussen",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ypXGr9NdMZU"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "74c070cf-0c42-573b-9e5c-54db497f25a3",
+        "slug": "dutch",
+        "name": "Dutch"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 8,
+    "rest_time_minutes": 120,
+    "total_time_minutes": 148
+  },
+  "yield": {
+    "servings": 10,
+    "serving_unit": "pieces"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "adf72753-b7dc-5d43-b00b-3a8c161cf2fc",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "2e1d82fa-f83f-520c-a40d-d7cadcd6b9ae",
+          "ingredient_id": "28b21302-909b-59d3-a88f-a543e26ac34f",
+          "name": "yeast",
+          "display_text": "10g Yeast",
+          "quantity": 10.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "23daafda-70ba-56e9-98af-27176aa09b0a",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "200ml Milk",
+          "quantity": 200.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "e8b9ce77-5721-5cb3-8825-cdbc8c4b7c8a",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "25g Sugar",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "0a2a7452-30dc-51d2-beb1-d21aecb557e2",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "400g Flour",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "a8ae1108-3373-5f82-9c67-a7ca3c51b09a",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 medium Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "9262bafc-08a2-59ef-9aab-f27649729921",
+          "ingredient_id": "bc46b2a6-8a59-50ee-a044-ce38bddb125c",
+          "name": "unsalted butter",
+          "display_text": "75g Unsalted Butter",
+          "quantity": 75.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "b44226e9-5202-509f-8b0a-36b2ee20e16f",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "d6015bbb-2f08-5603-801d-b0450a747252",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "1 tablespoon Cinnamon",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "de0a68a9-b11e-565f-865f-055e68a1fbff",
+          "ingredient_id": "d72c12ae-5cbc-534c-bbd5-bc044d844d0a",
+          "name": "cardamom",
+          "display_text": "1 tablespoon Cardamom",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "8c9838a6-ead6-5e6e-b12e-9f35150b0eb0",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "75g Brown Sugar",
+          "quantity": 75.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "0bc200f6-7ba0-5fc4-9c77-8912042b4026",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "250g Brown Sugar",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Place the dried yeast, milk and sugar in the bowl of your food processor. Mix and let stand for a few minutes until it begins to foam.",
+      "ingredients_used": [
+        "2e1d82fa-f83f-520c-a40d-d7cadcd6b9ae",
+        "23daafda-70ba-56e9-98af-27176aa09b0a",
+        "e8b9ce77-5721-5cb3-8825-cdbc8c4b7c8a"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Then add the flour, egg, butter, salt, 1 tsp of cinnamon and cardamom and process until smooth.",
+      "ingredients_used": [
+        "0a2a7452-30dc-51d2-beb1-d21aecb557e2",
+        "a8ae1108-3373-5f82-9c67-a7ca3c51b09a",
+        "9262bafc-08a2-59ef-9aab-f27649729921",
+        "b44226e9-5202-509f-8b0a-36b2ee20e16f",
+        "d6015bbb-2f08-5603-801d-b0450a747252",
+        "de0a68a9-b11e-565f-865f-055e68a1fbff"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Form the dough into a ball, cover the bowl and let it rise for 1 hour or until it has doubled in size.",
+      "timer_seconds": 3600
+    },
+    {
+      "step_number": 4,
+      "instruction": "Mix the caster sugar with 1 tablespoon of cinnamon, pour over the dough and roll it in.",
+      "ingredients_used": [
+        "e8b9ce77-5721-5cb3-8825-cdbc8c4b7c8a",
+        "d6015bbb-2f08-5603-801d-b0450a747252"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Form 10 equal balls (about 75 grams each) and let them “sweat” for a while. The sugar will dissolve a little. When you roll them again later, the rest of the dough will absorb the sugar better.",
+      "ingredients_used": [
+        "e8b9ce77-5721-5cb3-8825-cdbc8c4b7c8a"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Then roll the ball into a strand about 35-40 centimeters long while rolling through the powdered sugar.",
+      "ingredients_used": [
+        "e8b9ce77-5721-5cb3-8825-cdbc8c4b7c8a"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Fold the strand around one end and tuck the other end under the bolus. Push something between the roll to secure the end."
+    },
+    {
+      "step_number": 8,
+      "instruction": "Place on a baking sheet lined with a baking sheet, cover with plastic wrap and let them rise for ½-1 hour.",
+      "timer_seconds": 3600
+    },
+    {
+      "step_number": 9,
+      "instruction": "Meanwhile, preheat the oven to 250 degrees Celsius/480 Fahrenheit top and bottom heat",
+      "temperature": {
+        "value": 250,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 10,
+      "instruction": "Bake the Zeeland Boluses for about 8 minutes until done. Be careful – if you bake them too long, they will get dry and you will want something sticky 😉 .",
+      "timer_seconds": 480
+    },
+    {
+      "step_number": 11,
+      "instruction": "Let them cool out of the oven for 1 minute, then turn them over and let them cool further (on a wire rack if necessary). Enjoy!",
+      "timer_seconds": 60
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://ineveskitchen.com/zeeuwse-bolussen/#wp-recipe-maker-single-recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

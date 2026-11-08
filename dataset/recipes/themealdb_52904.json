@@ -1,0 +1,325 @@
+{
+  "id": "c5320ace-52e7-59d4-aac7-24c4d1f29503",
+  "version": "1.0.0",
+  "title": "Beef Bourguignon",
+  "slug": "beef-bourguignon",
+  "summary": "A classic French beef stew braised in red wine with bacon, mushrooms, and shallots, served alongside a fragrant celeriac mash.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:47:47Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52904"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/vtqxtu1511784197.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/vtqxtu1511784197.jpg/small",
+      "alt_text": "Photo of Beef Bourguignon",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=SQnr4Z-7rok"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "fe8f07a1-591f-5711-ae5b-f3c9afcc3e60",
+        "slug": "french",
+        "name": "French"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 215,
+    "total_time_minutes": 235
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of beef stew with celeriac mash"
+  },
+  "allergens": {
+    "contains": [
+      "tree_nuts",
+      "celery",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "637212a2-c277-5edf-b909-d20e6a785d8b",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "8bab9185-8509-510e-9666-3669a581ffda",
+          "ingredient_id": "bd24bb8a-c18e-52a5-bc53-8249b7e7d8b8",
+          "name": "goose fat",
+          "display_text": "3 tsp Goose Fat",
+          "quantity": 3.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "poultry"
+        },
+        {
+          "id": "331ec6c8-6818-56eb-993f-a6d4675c4c80",
+          "ingredient_id": "d0127841-33ba-523b-a383-f717275f520b",
+          "name": "beef shin",
+          "display_text": "600g Beef Shin",
+          "quantity": 600.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 600.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "20472479-03ca-537d-92e4-7d3dba88d416",
+          "ingredient_id": "956cfefc-d0f9-5c1f-9f20-d38a1e4dbdad",
+          "name": "bacon",
+          "display_text": "100g Bacon",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "8a27ff25-512b-5828-998d-d45c201e997a",
+          "ingredient_id": "b5be86c1-9338-59cc-924e-96de6771869c",
+          "name": "challots",
+          "display_text": "350g Challots",
+          "quantity": 350.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 350.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "2ae9155f-cb75-50bd-bbd5-ce256e47ef65",
+          "ingredient_id": "1e7d71c6-14d3-56e2-a186-551ecf1a576c",
+          "name": "chestnut mushroom",
+          "display_text": "250g Chestnut Mushroom",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "7cd18916-8bd4-515b-83a0-564c4605115d",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "2 sliced Garlic Clove",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e8904d5c-cbec-5b68-aaf6-52f012388e8b",
+          "ingredient_id": "3919c1de-dbfa-531f-8855-8a54d50ea905",
+          "name": "bouquet garni",
+          "display_text": "1 Bouquet Garni",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3f9db81c-b236-5904-aa22-8db6877437ae",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "1 tbs Tomato Puree",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "294f92fc-811b-5076-935d-5642a433e6d0",
+          "ingredient_id": "0b364d55-0a30-54fb-b1d4-422f720404e3",
+          "name": "red wine",
+          "display_text": "750 ml Red Wine",
+          "quantity": 750.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 750.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "dd27c75a-fb5c-56e2-8327-453775e27332",
+          "ingredient_id": "f44959de-0d13-52b9-bc9e-3608459350a4",
+          "name": "celeriac",
+          "display_text": "600g Celeriac",
+          "quantity": 600.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 600.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "ebf3e905-b2bd-5e0f-b78e-8d08d71f03ba",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tbs Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "3d2012cd-2a09-584b-a49e-464fb508110e",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "sprigs of fresh Thyme",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "sprigs of fresh",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "9cc22c48-a55b-5986-a8f1-7e82bf25e8ce",
+          "ingredient_id": "b0bbff87-223e-5a9c-aa07-1ee472617b84",
+          "name": "rosemary",
+          "display_text": "sprigs of fresh Rosemary",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "sprigs of fresh",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1d3adecd-2f95-5d87-9ea6-d256e8954215",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "2 Bay Leaf",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d033eddf-b3e3-5086-b269-523b7dfc4731",
+          "ingredient_id": "d72c12ae-5cbc-534c-bbd5-bc044d844d0a",
+          "name": "cardamom",
+          "display_text": "4 Cardamom",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat a large casserole pan and add 1 tbsp goose fat. Season the beef and fry until golden brown, about 3-5 mins, then turn over and fry the other side until the meat is browned all over, adding more fat if necessary. Do this in 2-3 batches, transferring the meat to a colander set over a bowl when browned.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "8bab9185-8509-510e-9666-3669a581ffda"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "In the same pan, fry the bacon, shallots or pearl onions, mushrooms, garlic and bouquet garni until lightly browned. Mix in the tomato purée and cook for a few mins, stirring into the mixture. This enriches the bourguignon and makes a great base for the stew. Then return the beef and any drained juices to the pan and stir through.",
+      "ingredients_used": [
+        "20472479-03ca-537d-92e4-7d3dba88d416",
+        "2ae9155f-cb75-50bd-bbd5-ce256e47ef65",
+        "e8904d5c-cbec-5b68-aaf6-52f012388e8b"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Pour over the wine and about 100ml water so the meat bobs up from the liquid, but isn’t completely covered. Bring to the boil and use a spoon to scrape the caramelized cooking juices from the bottom of the pan – this will give the stew more flavor.",
+      "ingredients_used": [
+        "294f92fc-811b-5076-935d-5642a433e6d0"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Heat oven to 150C/fan 130C/gas 2. Make a cartouche: tear off a square of foil slightly larger than the casserole, arrange it in the pan so it covers the top of the stew and trim away any excess foil. Then cook for 3 hrs. If the sauce looks watery, remove the beef and veg with a slotted spoon, and set aside. Cook the sauce over a high heat for a few mins until the sauce has thickened a little, then return the beef and vegetables to the pan.",
+      "timer_seconds": 10800,
+      "temperature": {
+        "value": 150,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 5,
+      "instruction": "To make the celeriac mash, peel the celeriac and cut into cubes. Heat the olive oil in a large frying pan. Tip in the celeriac and fry for 5 mins until it turns golden. Season well with salt and pepper. Stir in the rosemary, thyme, bay and cardamom pods, then pour over 200ml water, enough to nearly cover the celeriac. Turn the heat to low, partially cover the pan and leave to simmer for 25-30 mins.",
+      "ingredients_used": [
+        "dd27c75a-fb5c-56e2-8327-453775e27332",
+        "ebf3e905-b2bd-5e0f-b78e-8d08d71f03ba",
+        "3d2012cd-2a09-584b-a49e-464fb508110e",
+        "9cc22c48-a55b-5986-a8f1-7e82bf25e8ce",
+        "d033eddf-b3e3-5086-b269-523b7dfc4731"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "After 25-30 mins, the celeriac should be soft and most of the water will have evaporated. Drain away any remaining water, then remove the herb sprigs, bay and cardamom pods. Lightly crush with a potato masher, then finish with a glug of olive oil and season to taste. Spoon the beef bourguignon into serving bowls and place a large spoonful of the celeriac mash on top. Garnish with one of the bay leaves, if you like.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "e8904d5c-cbec-5b68-aaf6-52f012388e8b",
+        "dd27c75a-fb5c-56e2-8327-453775e27332",
+        "ebf3e905-b2bd-5e0f-b78e-8d08d71f03ba",
+        "d033eddf-b3e3-5086-b269-523b7dfc4731"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/5032/beef-bourguignon"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

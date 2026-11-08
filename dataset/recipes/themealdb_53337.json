@@ -1,0 +1,324 @@
+{
+  "id": "e635f996-386c-5c65-8fdb-0838b0c445a0",
+  "version": "1.0.0",
+  "title": "Saskatoon Pie",
+  "slug": "saskatoon-pie",
+  "summary": "A traditional Canadian dessert featuring a lattice-crust pastry filled with sweet and slightly nutty saskatoon berries.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:25:18Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53337"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/5xdrkw1764444472.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/5xdrkw1764444472.jpg/small",
+      "alt_text": "Photo of Saskatoon Pie",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=wla0ijWVLCs"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "54838e2c-2c59-558b-8932-e019f7cc6d0c",
+        "slug": "canadian",
+        "name": "Canadian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 45,
+    "cook_time_minutes": 100,
+    "rest_time_minutes": 60,
+    "total_time_minutes": 205
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 slice of pie"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "b9c8e7fe-3bbc-5adf-8d55-4efdbee2f681",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "201b5bf0-4c82-5221-9a81-84714c6c94d8",
+          "ingredient_id": "d1e5ec78-b8c2-5649-962c-a9f67272ea92",
+          "name": "all purpose flour",
+          "display_text": "6 cups All purpose flour",
+          "quantity": 6.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 1440.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "3297a609-1946-5036-8eca-599348cd388b",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "2 tsp Salt",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "af3e778d-0386-5ba9-a7fb-78d898926783",
+          "ingredient_id": "bc46b2a6-8a59-50ee-a044-ce38bddb125c",
+          "name": "unsalted butter",
+          "display_text": "1 cup Unsalted Butter",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "a3eac650-9f75-521a-9988-b895ebfd5510",
+          "ingredient_id": "800e0ec9-02e8-55bc-b2b8-b4829c1d9f28",
+          "name": "vegetable shortening",
+          "display_text": "1 cup Vegetable Shortening",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "51cc4a44-eb58-56e4-986c-6d618088ed52",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 large Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "5f63e985-afc3-50ae-bd60-b604d256411a",
+          "ingredient_id": "ab5b1e5d-c74e-59bc-9caa-0009568a07cb",
+          "name": "vinegar",
+          "display_text": "1 tablespoon Vinegar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "694d3255-986e-5ccb-8fcb-bb34ce94b8d3",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "Splash Water",
+          "quantity": 1,
+          "unit": "splash",
+          "is_optional": false,
+          "category": "beverages"
+        },
+        {
+          "id": "c9054023-e78f-5a1f-88a7-785f0af69d22",
+          "ingredient_id": "90211080-fe3d-5456-b1e0-a7b9e839bfaf",
+          "name": "saskatoon berries",
+          "display_text": "5 Cups Saskatoon Berries",
+          "quantity": 5.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 1200.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "8ae14c6f-4e66-593d-937d-5cdfe92d9a4b",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1/2 cup Sugar",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "1734aec7-82cf-5322-8b2f-75ddd2e56101",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 tablespoon Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "3b9627e3-e3fd-58c5-868c-f787c9e74600",
+          "ingredient_id": "4bdb1684-cdb6-5a8f-b220-c622cf2655cc",
+          "name": "cornstarch",
+          "display_text": "3  tablespoons Cornstarch",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "5c6366f4-c8fb-5c5c-8f33-15db70ca90a0",
+          "ingredient_id": "bc46b2a6-8a59-50ee-a044-ce38bddb125c",
+          "name": "unsalted butter",
+          "display_text": "2 tablespoons Unsalted Butter",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "369e29b2-d728-5c7e-95be-2bc589218ae6",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 beaten Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "beaten",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "792dd1fb-cce1-56df-b265-10cd61f4a19f",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1 tablespoon Water",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "To make the pastry, place the flour and salt in a large bowl. Mix well. Add the cubes of butter and shortening and mix them in (I like to use my hands to mix the fat into the flour, but you can use a pastry blender) just until it looks like coarse oatmeal with some pea-sized bits remaining. Place the egg in a 2-cup measure and beat it with a fork. Beat in the vinegar and just enough ice-cold water to bring it to the 1-cup mark. Stir this into the flour mixture, just until the dough clings together. I like to use my hands for this part as well, but a wooden spoon would also work. Try not to overmix it.",
+      "ingredients_used": [
+        "3297a609-1946-5036-8eca-599348cd388b",
+        "af3e778d-0386-5ba9-a7fb-78d898926783",
+        "a3eac650-9f75-521a-9988-b895ebfd5510",
+        "51cc4a44-eb58-56e4-986c-6d618088ed52",
+        "5f63e985-afc3-50ae-bd60-b604d256411a",
+        "694d3255-986e-5ccb-8fcb-bb34ce94b8d3",
+        "5c6366f4-c8fb-5c5c-8f33-15db70ca90a0",
+        "369e29b2-d728-5c7e-95be-2bc589218ae6",
+        "792dd1fb-cce1-56df-b265-10cd61f4a19f"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "On a lightly floured surface, gather the dough into a ball and divide it into 5 evenly sized portions. Shape each portion into a disc and wrap tightly in plastic. Chill 2 of these discs for 1 hour. Freeze the other 3 in a resealable freezer bag for future use. The pastry keeps well in the freezer for up to 2 months.",
+      "timer_seconds": 3600
+    },
+    {
+      "step_number": 3,
+      "instruction": "Preheat the oven to 350°F. Place the rack in the lower third of the oven. Line a baking sheet with aluminum foil to catch drippings.",
+      "temperature": {
+        "value": 350,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 4,
+      "instruction": "On a lightly floured surface, roll out 1 disc of pastry into a 12-inch circle, or thereabouts. Place it in the bottom of a 9-inch pie plate, with the pastry overhanging the edges of the pie plate."
+    },
+    {
+      "step_number": 5,
+      "instruction": "To make the filling, place the saskatoon berries in a large bowl and stir in the 1/2 cup sugar and the cornstarch until well combined. Pour the berry mixture into the bottom of the pie. Dot with the butter. On a lightly floured surface, roll out the pastry in another 12-inch circle for the top crust. Use a ruler to guide you when cutting the pastry into 6 wide, long strips to keep the edges straight. Save the 2 end pieces in case you need to do any patching. I like wide strips, but if you like a thinner look, feel free to cut thin strips of pastry. Weave the pastry strips, going over and under, making sure they connect with the edges of the pie crust. Fold over the edges of the bottom crust, tucking in the lattice ends. This will help to trap the juices and give a rustic look.",
+      "ingredients_used": [
+        "af3e778d-0386-5ba9-a7fb-78d898926783",
+        "c9054023-e78f-5a1f-88a7-785f0af69d22",
+        "8ae14c6f-4e66-593d-937d-5cdfe92d9a4b",
+        "1734aec7-82cf-5322-8b2f-75ddd2e56101",
+        "3b9627e3-e3fd-58c5-868c-f787c9e74600",
+        "5c6366f4-c8fb-5c5c-8f33-15db70ca90a0"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "If you prefer a cleaner, tidier look, you can trim the overhanging pieces and crimp the edges with a fork. Brush the top of the pie with the egg wash. Sprinkle with the remaining Tbsp sugar. Place the pie on the prepared baking sheet and bake it for about 90 – 100 minutes, until it’s golden brown and bubbling. Remove the pie from the oven and place it on a wire rack to cool.",
+      "timer_seconds": 6000,
+      "ingredients_used": [
+        "51cc4a44-eb58-56e4-986c-6d618088ed52",
+        "8ae14c6f-4e66-593d-937d-5cdfe92d9a4b",
+        "1734aec7-82cf-5322-8b2f-75ddd2e56101",
+        "369e29b2-d728-5c7e-95be-2bc589218ae6"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Serve the pie warm or at room temperature with whipped cream or ice cream. Makes 6 servings. This keeps well if covered with plastic and refrigerated for up to 4 days."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://canadianfoodfocus.org/canadian-food-stories/classic-canadian-recipes-saskatoon-pie/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

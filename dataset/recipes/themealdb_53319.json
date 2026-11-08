@@ -1,0 +1,375 @@
+{
+  "id": "d531aee6-a7a9-5226-b776-6b46c6f9efb5",
+  "version": "1.0.0",
+  "title": "Chivito sandwich",
+  "slug": "chivito-sandwich",
+  "summary": "A traditional Uruguayan steak sandwich served on homemade brioche buns, layered with ham, mozzarella, bacon, egg, and various fresh toppings.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:23:42Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53319"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/j80gmw1764372176.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/j80gmw1764372176.jpg/small",
+      "alt_text": "Photo of Chivito sandwich",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=tX3fN9AG_ik"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "bc928459-1cc9-56b4-a03c-a0518db62f83",
+        "slug": "uruguayan",
+        "name": "Uruguayan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 45,
+    "rest_time_minutes": 1080,
+    "total_time_minutes": 1155
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "servings",
+    "serving_size_description": "1 sandwich"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs",
+      "sesame",
+      "mustard"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "39455965-3ec3-5b05-816a-41a12c421c46",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "1450a9a7-7ac4-5f0c-a489-27f6571de055",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "80g Milk",
+          "quantity": 80.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 80.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "23fd935b-27d4-5335-8852-9d224e3a52d4",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "60g Butter",
+          "quantity": 60.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "170fd263-59da-5857-9b90-b48f8ebdf938",
+          "ingredient_id": "4ae02ffd-0fb5-5622-a6e3-c92ad19d7675",
+          "name": "molasses",
+          "display_text": "1 tablespoon Molasses",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "7df60eab-f6a2-59a3-9d15-5a8cfdac6a1f",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "220g Water",
+          "quantity": 220.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 220.0,
+          "metric_unit": "gram",
+          "category": "beverages"
+        },
+        {
+          "id": "a52b1354-3b2e-5393-a033-b4833fa62f03",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "9 Egg",
+          "quantity": 9.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "df743097-b8c4-5319-b99b-37bb5a692983",
+          "ingredient_id": "a19f20cb-af95-543e-a9f8-a0b7899f7ca7",
+          "name": "bread flour",
+          "display_text": "500g Bread Flour",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "9ca1af6d-48be-5cce-acdd-a0b714309079",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "10g Salt",
+          "quantity": 10.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "gram",
+          "category": "seasoning"
+        },
+        {
+          "id": "47f80777-54c3-56bb-9372-1769f0348167",
+          "ingredient_id": "28b21302-909b-59d3-a88f-a543e26ac34f",
+          "name": "yeast",
+          "display_text": "10g Yeast",
+          "quantity": 10.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "7368b60d-636b-5ac4-a78c-3be707c2342a",
+          "ingredient_id": "322aca25-e465-590d-a5bb-32ece53abc4f",
+          "name": "egg wash",
+          "display_text": "Splash Egg Wash",
+          "quantity": 1,
+          "unit": "splash",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "f6f02556-0e90-536e-9e37-c6fcef597e57",
+          "ingredient_id": "d5403c00-b586-53a5-a77f-fac320f14278",
+          "name": "sesame seed",
+          "display_text": "Sprinkling Sesame Seed",
+          "quantity": 1,
+          "unit": "sprinkling",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "73a6899d-338f-5133-b8f3-8b9f2b830f87",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "4 Onion",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3ea13691-2d63-53da-a65b-819be3b44dae",
+          "ingredient_id": "febc81fb-5cd0-554c-b824-0241486907eb",
+          "name": "sirloin steak",
+          "display_text": "8 Sirloin steak",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "3e957efe-7a29-5163-bb96-e0c5d0926fde",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "To serve Garlic",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d145eee9-45ee-5325-bf98-fac137604251",
+          "ingredient_id": "956cfefc-d0f9-5c1f-9f20-d38a1e4dbdad",
+          "name": "bacon",
+          "display_text": "8 Bacon",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "71a1fd74-59fb-5341-aebe-281c6c4d0289",
+          "ingredient_id": "c61b86c2-f691-51ef-9d76-0787f0d404f5",
+          "name": "ham",
+          "display_text": "8 slices Ham",
+          "quantity": 8.0,
+          "unit": "slice",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "1cf15e46-0907-5e89-919f-200c416d8364",
+          "ingredient_id": "e33b865f-f35f-5c67-b930-10dc0e6899f1",
+          "name": "mozzarella",
+          "display_text": "8 slices Mozzarella",
+          "quantity": 8.0,
+          "unit": "slice",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "42ae5bac-50c0-5d88-9e14-0594c94b589b",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "4 Tomato",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "93993044-5cb0-5215-a15b-d26a559a0ba8",
+          "ingredient_id": "0777cda5-7472-55c6-bfb1-6a88f7678f6d",
+          "name": "lettuce",
+          "display_text": "1/4 Lettuce",
+          "quantity": 0.25,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2b7c1d98-eccc-596c-9149-edd6beab6760",
+          "ingredient_id": "b9e3afdc-e194-5f5e-bbae-5c3659d35a67",
+          "name": "mustard",
+          "display_text": "To serve Mustard",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "condiments"
+        },
+        {
+          "id": "3d25c6ba-9bb0-5712-9da5-0a9f602b4d8c",
+          "ingredient_id": "bde0ef8f-dd37-53f3-a30b-48c3aaa0dca2",
+          "name": "chimichurri sauce",
+          "display_text": "To serve Chimichurri sauce",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "For the brioche buns heat the milk with the butter and molasses until the butter has melted. Add the cold water and egg to this mix.",
+      "ingredients_used": [
+        "1450a9a7-7ac4-5f0c-a489-27f6571de055",
+        "23fd935b-27d4-5335-8852-9d224e3a52d4",
+        "170fd263-59da-5857-9b90-b48f8ebdf938",
+        "7df60eab-f6a2-59a3-9d15-5a8cfdac6a1f",
+        "a52b1354-3b2e-5393-a033-b4833fa62f03"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a large bowl place flour, salt and yeast and mix. Then add the milk and water mix and stir with a wooden spoon until combined. You don't have to knead the dough, it is perfectly fine to do this by hand with a wooden spoon, this doesn't need to be very thorough. Cover with a damp towel and stick in the fridge overnight.",
+      "ingredients_used": [
+        "1450a9a7-7ac4-5f0c-a489-27f6571de055",
+        "7df60eab-f6a2-59a3-9d15-5a8cfdac6a1f",
+        "9ca1af6d-48be-5cce-acdd-a0b714309079",
+        "47f80777-54c3-56bb-9372-1769f0348167"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "The next morning knead dough on a generously floured surface for a little and cut into eight equal pieces. Shape these into balls and place on a baking sheet lined with parchment paper. Cover again with damp towel and let rise for about an hour or until double in size."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Heat oven to 220 degrees Celsius. Brush the buns with either milk, heavy cream or egg wash and sprinkle with sesame seeds, if desired. Bake for about 15-20min or until golden. Let cool.",
+      "timer_seconds": 1200,
+      "temperature": {
+        "value": 220,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "1450a9a7-7ac4-5f0c-a489-27f6571de055",
+        "a52b1354-3b2e-5393-a033-b4833fa62f03",
+        "7368b60d-636b-5ac4-a78c-3be707c2342a",
+        "f6f02556-0e90-536e-9e37-c6fcef597e57"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "For the toppings chop the onions and sauté in a bit of butter, let caramelize, this may take ten to 15 minutes, stir occasionally. Rub the steaks with a bit of garlic and then grill or fry the steaks, the bacon, and eggs with salt and pepper, toast the buns after having cut in half. Spread mustard on one bun half, layer each chivito with steak, a slice of ham, a slice of cheese, one bacon stripe, a tomato slice, and some lettuce. Place fried egg on top and sprinkle generously with chimichurri and some onions right before serving.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "23fd935b-27d4-5335-8852-9d224e3a52d4",
+        "a52b1354-3b2e-5393-a033-b4833fa62f03",
+        "9ca1af6d-48be-5cce-acdd-a0b714309079",
+        "73a6899d-338f-5133-b8f3-8b9f2b830f87",
+        "3ea13691-2d63-53da-a65b-819be3b44dae",
+        "3e957efe-7a29-5163-bb96-e0c5d0926fde",
+        "d145eee9-45ee-5325-bf98-fac137604251",
+        "71a1fd74-59fb-5341-aebe-281c6c4d0289",
+        "42ae5bac-50c0-5d88-9e14-0594c94b589b",
+        "93993044-5cb0-5215-a15b-d26a559a0ba8",
+        "2b7c1d98-eccc-596c-9149-edd6beab6760"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://jennyisbaking.com/2019/06/14/lets-grill-chivito-uruguays-national-dish/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

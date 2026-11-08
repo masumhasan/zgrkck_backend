@@ -1,0 +1,270 @@
+{
+  "id": "c8182e6c-2f11-5a59-8998-84e277dd00ef",
+  "version": "1.0.0",
+  "title": "Chocolate empanadas",
+  "slug": "chocolate-empanadas",
+  "summary": "Uruguayan-style dessert empanadas featuring a chocolate-infused dough filled with dulce de leche and finished with a cinnamon-sugar coating.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:24:15Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53324"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/u9ezi21764375474.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/u9ezi21764375474.jpg/small",
+      "alt_text": "Photo of Chocolate empanadas",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Cdo14aXSHrA"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "bc928459-1cc9-56b4-a03c-a0518db62f83",
+        "slug": "uruguayan",
+        "name": "Uruguayan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "afternoon_snack",
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 150,
+    "marinating_time_minutes": 30,
+    "total_time_minutes": 210
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "pieces",
+    "serving_size_description": "2 empanadas"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "3c315f90-6ffa-584c-b077-2595ab860ddf",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "e96dd01a-cb75-5fc2-9498-552ba24ba537",
+          "ingredient_id": "3fe531f9-aa92-5d4e-9940-e8eddf18456b",
+          "name": "condensed milk",
+          "display_text": "400g Condensed Milk",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "4f953772-5742-5993-8b1d-ccc892878e94",
+          "ingredient_id": "d1e5ec78-b8c2-5649-962c-a9f67272ea92",
+          "name": "all purpose flour",
+          "display_text": "250g All purpose flour",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "e1e18638-640b-52ba-8391-b1e9443e1af2",
+          "ingredient_id": "1e6710fd-9e97-58e8-b0e6-fece2822bc61",
+          "name": "unsweetened cocoa",
+          "display_text": "25g Unsweetened Cocoa",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "ec7c9723-d6f1-5ccb-bdfe-c748b0e128c9",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "f135ee9e-83f9-5b64-9fd8-d415f25839b7",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "125g Butter",
+          "quantity": 125.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 125.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "44439f3f-6c22-5af4-982c-56c48b77df47",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "7faaaefb-7742-59d7-82b1-46678473b1e6",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "3  tablespoons Milk",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "b9f76972-e5a3-5d69-bf53-ebef73d249df",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "30g Butter",
+          "quantity": 30.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "603cc8ad-593a-5c93-b14b-d77da5467ecf",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "30g Sugar",
+          "quantity": 30.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "61ea0bf8-0429-582e-8601-91b2014ab6f2",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "1 tsp Cinnamon",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "For the filling place the can in a large pot and cover completely with water. Boil for two and a half hours, occassionally adding water. Let cool before opening. For further tips, please check here."
+    },
+    {
+      "step_number": 2,
+      "instruction": "For the dough combine the flour, cocoa powder, and salt in a large bowl. Add the cold butter in small pieces and rub into crumbs with your fingers Add the egg and work into a dough. You may have to add milk, a tablespoon at a time if it still is to dry. Wrap and chill for at least half an hour or overnight.",
+      "ingredients_used": [
+        "e96dd01a-cb75-5fc2-9498-552ba24ba537",
+        "e1e18638-640b-52ba-8391-b1e9443e1af2",
+        "ec7c9723-d6f1-5ccb-bdfe-c748b0e128c9",
+        "f135ee9e-83f9-5b64-9fd8-d415f25839b7",
+        "44439f3f-6c22-5af4-982c-56c48b77df47",
+        "7faaaefb-7742-59d7-82b1-46678473b1e6",
+        "b9f76972-e5a3-5d69-bf53-ebef73d249df"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Line a baking sheeet with parchment paper and preheat the oven to 180 degrees Celsius.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 4,
+      "instruction": "Roll out the dough on a lightly floured surface, it should be thin. Cut out circles of 12cm either with a cookie cutter or with a smaller plate/dish. Put two to three teaspoons of the dulce de leche in the middle of each circle. Brush the edges with milk, I do this with my pinkie. Fold each circle in half so that you have a half moon and press down the edges with a fork. You can also turn the edges about half a centimeter inwards every centimeter or so to create a pattern.",
+      "ingredients_used": [
+        "e96dd01a-cb75-5fc2-9498-552ba24ba537",
+        "7faaaefb-7742-59d7-82b1-46678473b1e6"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Place the prepared empanadas on the baking sheet and brush with egg wash. Bake for about 20-25min.",
+      "timer_seconds": 1500,
+      "ingredients_used": [
+        "44439f3f-6c22-5af4-982c-56c48b77df47"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Towards the end of the baking time, melt the remaining butter and mix the sugar and cinnamon in a small bowl. Once you take the empanadas out, immediately brush with the butter and sprinkle with the sugar mix. Empanadas can be enjoyed either still warm or cold. If eating warm, be careful not to burn yourself with hot filling!",
+      "ingredients_used": [
+        "f135ee9e-83f9-5b64-9fd8-d415f25839b7",
+        "b9f76972-e5a3-5d69-bf53-ebef73d249df",
+        "603cc8ad-593a-5c93-b14b-d77da5467ecf",
+        "61ea0bf8-0429-582e-8601-91b2014ab6f2"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://jennyisbaking.com/2020/05/01/chocolate-empanadas-with-dulce-de-leche/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "id": "9ac9a6c6-f044-53d7-9438-29c16d45c042",
+  "version": "1.0.0",
+  "title": "Æbleskiver",
+  "slug": "bleskiver",
+  "summary": "Æbleskiver are traditional spherical pancakes often served with jam and powdered sugar. This version uses cardamom and buttermilk for a spiced, tangy batter.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:06:03Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53120"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/wkhg581762773124.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/wkhg581762773124.jpg/small",
+      "alt_text": "Photo of Æbleskiver",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.bing.com/videos/riverview/relatedvideo?q=%c3%86bleskiver+youtube&mid=51AACE2C82038350B94751AACE2C82038350B947&mcid=A08CDF0451414C328A8BAB1912DD11D4&FORM=VIRE"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "56e78dbc-276d-5104-bca5-2bb213b93a49",
+        "slug": "norwegian",
+        "name": "Norwegian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 20,
+    "marinating_time_minutes": 30,
+    "total_time_minutes": 65
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of spherical pancakes with jam"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "846040ff-27b4-5301-9a67-95abf9a80077",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "7b626bcb-21ed-5f8a-8c49-c93fc48175de",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "2 cups Flour",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "ffe72c23-45f6-5f82-b8e2-6efeaf9154ba",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 teaspoon Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "3e725599-d08e-5662-8e7e-bd6a36e1a0cb",
+          "ingredient_id": "585e8c07-6f6b-5618-a220-3f1795eaa043",
+          "name": "granulated sugar",
+          "display_text": "2 tblsp Granulated Sugar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "0ebdc7ce-ba95-53a9-8017-e436933f7969",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 teaspoon Baking Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "fb239925-afbf-5ad1-a1fb-4ece077de6cf",
+          "ingredient_id": "d72c12ae-5cbc-534c-bbd5-bc044d844d0a",
+          "name": "cardamom",
+          "display_text": "1/2 teaspoon Cardamom",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "ad195188-721b-5851-82a7-3b5bc9217459",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "3 Egg",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "f3e83b2b-1b76-5dfb-9bbe-0da77337be15",
+          "ingredient_id": "56ebd29f-4b15-5770-915a-484caf5b1ddb",
+          "name": "buttermilk",
+          "display_text": "2 cups Buttermilk",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "a2a669ce-5810-5626-958c-f0089575ebcf",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "For Greasing Butter",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "for greasing",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "c4e9c020-0076-5602-a4b8-9af935632e85",
+          "ingredient_id": "c644e242-4958-5575-8256-69e88b283feb",
+          "name": "powdered sugar",
+          "display_text": "Sprinkling Powdered Sugar",
+          "quantity": 1,
+          "unit": "sprinkling",
+          "is_optional": false,
+          "category": "sweeteners"
+        },
+        {
+          "id": "980f0f83-df2f-504a-9fc3-6011388b5d14",
+          "ingredient_id": "4d0afb14-18ce-5822-8665-7e4ee7dd5ad0",
+          "name": "raspberry jam",
+          "display_text": "1 scoop Raspberry Jam",
+          "quantity": 1.0,
+          "unit": "scoop",
+          "is_optional": false,
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Whisk the flour, salt, sugar, baking soda, and cardamom together in a large bowl.",
+      "ingredients_used": [
+        "7b626bcb-21ed-5f8a-8c49-c93fc48175de",
+        "ffe72c23-45f6-5f82-b8e2-6efeaf9154ba",
+        "fb239925-afbf-5ad1-a1fb-4ece077de6cf"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Separate the eggs and add the egg yolks to the flour mixture. Pour in the buttermilk (or cultured milk) and whisk the batter together until smooth. Cover and refrigerate for about 30 minutes.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "7b626bcb-21ed-5f8a-8c49-c93fc48175de",
+        "ad195188-721b-5851-82a7-3b5bc9217459",
+        "f3e83b2b-1b76-5dfb-9bbe-0da77337be15",
+        "a2a669ce-5810-5626-958c-f0089575ebcf"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Use a hand (or stand) mixer to beat the egg whites until stiff. Carefully fold into the æbleskiver batter.",
+      "ingredients_used": [
+        "ad195188-721b-5851-82a7-3b5bc9217459"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Heat the pan on medium heat. Once hot, brush the pan with butter and fill each æbleskive hole almost full with the batter.",
+      "ingredients_used": [
+        "a2a669ce-5810-5626-958c-f0089575ebcf"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Once the edges become firm use a knitting needle or wooden skewer to turn the æbleskiver about 1/4. Continue turning until you get round pancake spheres. They should be golden brown."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Remove the æbleskiver from the pan and serve with powdered sugar and jam.",
+      "ingredients_used": [
+        "c4e9c020-0076-5602-a4b8-9af935632e85"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://scandinaviancookbook.com/aebleskiver-danish-pancake-balls/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "id": "b1b0a2da-807c-5914-938f-8c383891c420",
+  "version": "1.0.0",
+  "title": "Portuguese barbecued pork (Febras assadas)",
+  "slug": "portuguese-barbecued-pork-febras-assadas",
+  "summary": "Portuguese-style barbecued pork tenderloin served with crispy double-fried chips and mayonnaise.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:59:42Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53044"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/cybyue1614349443.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/cybyue1614349443.jpg/small",
+      "alt_text": "Photo of Portuguese barbecued pork (Febras assadas)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=tVpsZaejyYU"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d3317c07-1a34-51bf-a414-80251ba04fe2",
+        "slug": "portuguese",
+        "name": "Portuguese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 25,
+    "marinating_time_minutes": 30,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 90
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 pork escalope with a pile of chips"
+  },
+  "allergens": {
+    "contains": [
+      "eggs",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "75c86ecf-0eda-5cfe-80ae-315c69979445",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "90533922-c28c-5d75-8b1e-8b2ab26917f8",
+          "ingredient_id": "f16b4344-55cf-5ee7-a3a2-d8f68550bd18",
+          "name": "pork",
+          "display_text": "2 Pork",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "51fb3915-4007-5c19-b84a-4ac75aa76f03",
+          "ingredient_id": "7dfa4179-cc08-5fb6-b4fc-aa52abc5f515",
+          "name": "white wine",
+          "display_text": "200ml White Wine",
+          "quantity": 200.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "87b70980-ec9f-5cf8-8747-f72bfde43c49",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1/2 tsp Paprika",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "fa4527cc-ed0d-580d-82ab-7a4442428fda",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "2 Lemon",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4a0acc48-e93d-5d47-8987-e400a6133476",
+          "ingredient_id": "4020879e-a0a5-58e2-b093-33c7e85c8a08",
+          "name": "lemon juice",
+          "display_text": "1/2 Lemon Juice",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "cf15fb75-0e81-58f3-a65d-a5c7822e4512",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "Dash Olive Oil",
+          "quantity": 1,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "7460af96-a0c4-5eb7-94ef-f20ad793e8e6",
+          "ingredient_id": "6a3a5ec7-7840-5eff-a3ce-0e3aafbaa822",
+          "name": "mayonnaise",
+          "display_text": "To serve Mayonnaise",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "condiments"
+        },
+        {
+          "id": "bc7ab6df-8216-5777-ad48-3de523b1f055",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "1 kg Potatoes",
+          "quantity": 1.0,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "kilogram",
+          "category": "produce"
+        },
+        {
+          "id": "29a86c1a-45e0-576f-825f-7f5c96000e53",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "For frying Vegetable Oil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "for frying",
+          "is_optional": false,
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Cut the tenderloins into 5 equal-size pieces leaving the tail ends a little longer. Take a clear plastic bag and slip one of the pieces in. Bash it into an escalope the size of a side-plate with a rolling pin and repeat with the remaining pieces."
+    },
+    {
+      "step_number": 2,
+      "instruction": "Put the wine, paprika, some salt and pepper and the juice of ½ a lemon in a bowl and add the pork. Leave to marinate for 20-30 minutes, while you get your barbecue to the stage where the coals are glowing but there are no flames.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "90533922-c28c-5d75-8b1e-8b2ab26917f8",
+        "51fb3915-4007-5c19-b84a-4ac75aa76f03",
+        "87b70980-ec9f-5cf8-8747-f72bfde43c49",
+        "fa4527cc-ed0d-580d-82ab-7a4442428fda"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "To make the chips, fill a basin with cool water and cut the potatoes into 3cm-thick chips. Soak them in the water for 5 minutes and then change the water. Leave for 5 more minutes. Drain and then pat dry on a towel or with kitchen paper.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "bc7ab6df-8216-5777-ad48-3de523b1f055"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Heat the oil in a deep fryer or a deep heavy-based pan with a lid to 130C and lower the chips into the oil (in batches). Blanch for 8-10 minutes. Remove from the oil and drain well. Place on a tray to cool. Reheat the oil to 180C (make sure it’s hot or your chips will be soggy) and lower the basket of chips into the oil (again, do this in batches). Leave to cook for 2 minutes and then give them a little shake. Cook for another minute or so until they are well colored and crisp to the touch. Drain well for a few minutes, tip into a bowl and sprinkle with sea salt.",
+      "temperature": {
+        "value": 130,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 5,
+      "instruction": "The pork will cook quickly so do it in 2 batches. Take the pieces out of the marinade, rub them with oil, and drop them onto the barbecue (you could also use a chargrill). Cook for 1 minute on each side – they may flare up as you do so. This should really be enough time as they will keep on cooking. Take them off the barbecue and pile onto a plate. Repeat with the remaining batch.",
+      "timer_seconds": 60,
+      "ingredients_used": [
+        "90533922-c28c-5d75-8b1e-8b2ab26917f8"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Serve by piling a plate with chips, drop the pork on top of each pile and pouring the juices from the plate over so the chips take up the flavors. Top with a spoon of mayonnaise and a wedge of lemon.",
+      "ingredients_used": [
+        "90533922-c28c-5d75-8b1e-8b2ab26917f8",
+        "fa4527cc-ed0d-580d-82ab-7a4442428fda",
+        "7460af96-a0c4-5eb7-94ef-f20ad793e8e6"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.olivemagazine.com/recipes/meat-and-poultry/febras-assadas-portuguese-barbecued-pork-served-with-lemon-and-mayo-on-chips/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

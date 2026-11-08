@@ -1,0 +1,220 @@
+{
+  "id": "a341a928-94f0-5622-badc-2c4aba353277",
+  "version": "1.0.0",
+  "title": "Dutch Spiced Breakfast Cake (Ontbijtkoek)",
+  "slug": "dutch-spiced-breakfast-cake-ontbijtkoek",
+  "summary": "A traditional Dutch spiced cake often enjoyed for breakfast or as a snack. It features a dense, moist texture flavored with ginger and cardamom.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:29:39Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53387"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/uwq8001777540502.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/uwq8001777540502.jpg/small",
+      "alt_text": "Photo of Dutch Spiced Breakfast Cake (Ontbijtkoek)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/shorts/3NIRQ3KMorw"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "74c070cf-0c42-573b-9e5c-54db497f25a3",
+        "slug": "dutch",
+        "name": "Dutch"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "afternoon_snack"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 60,
+    "total_time_minutes": 75
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 slice of cake"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "c2876b77-dfe2-5155-8204-7a4c73c58bb5",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "ee948bc9-4bee-58cc-b67b-f4de9e755785",
+          "ingredient_id": "d923f6bd-1129-51bf-ba9e-32b3305fa65e",
+          "name": "self-raising flour",
+          "display_text": "250g Self-raising Flour",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "a7424ebd-905e-5930-930b-a61acbc52b0d",
+          "ingredient_id": "eeea6f2e-c44d-5cbc-84ad-c3d0dd87d6f3",
+          "name": "dark brown soft sugar",
+          "display_text": "250g Dark Brown Soft Sugar",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "42a26a74-3902-50d4-a305-90ea7dde6644",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "250g Milk",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "5691749d-4a2e-50c2-97bd-cc01af21a403",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "4 Sugar",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "sweeteners"
+        },
+        {
+          "id": "61d36d81-3e58-5239-98c1-732cf2aa4447",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "1 tablespoon Ginger",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "6a670016-9df6-51a8-b123-1f2d8d47286a",
+          "ingredient_id": "d72c12ae-5cbc-534c-bbd5-bc044d844d0a",
+          "name": "cardamom",
+          "display_text": "1/2 tsp Cardamom",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "9f0dc53a-3a07-52cf-aea8-c880608a7e31",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 tsp Baking Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "22ee1a14-d8b1-5273-b930-5b1c791982c4",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat the oven to 160˚C (320˚F) Line a cake pan with parchment paper and set aside."
+    },
+    {
+      "step_number": 2,
+      "instruction": "Mix all the dry ingredients together in a large bowl. Place the milk in a small saucepan and heat it until it is almost boiling but not quite.",
+      "ingredients_used": [
+        "42a26a74-3902-50d4-a305-90ea7dde6644"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Pour the milk slowly into the dry ingredients while whisking. Don't overmix! As soon as it is combined to a smooth batter you pour it into the cake pan. Sprinkle the pearl sugar over the top and bake it in the oven for about 1 hour.",
+      "timer_seconds": 3600,
+      "ingredients_used": [
+        "42a26a74-3902-50d4-a305-90ea7dde6644",
+        "5691749d-4a2e-50c2-97bd-cc01af21a403"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Check after about 50 minutes how the cake is progressing. If a cake tester comes out clean the cake it cooked. If not let it cook for a little longer.",
+      "timer_seconds": 3000
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://insimoneskitchen.com/dutch-breakfast-cake/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "id": "c6db39bf-e890-5175-b909-337fe1239140",
+  "version": "1.0.0",
+  "title": "Classic Christmas pudding",
+  "slug": "classic-christmas-pudding",
+  "summary": "A traditional British festive dessert made with dried fruits, spices, and brandy, typically steamed for several hours.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:55:01Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52988"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/1d85821576790598.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/1d85821576790598.jpg/small",
+      "alt_text": "Photo of Classic Christmas pudding",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Pb_lJxL1vtk"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "christmas"
+    ],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "advanced",
+    "occasions": [
+      "christmas"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 45,
+    "cook_time_minutes": 481,
+    "rest_time_minutes": 1440,
+    "total_time_minutes": 1966
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "servings",
+    "serving_size_description": "1 pudding slice"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "tree_nuts",
+      "eggs",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "d36886a9-a964-5a41-b573-b736263b38b5",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "fcc25ab7-70cd-59a3-aa3d-fa6cc64274b2",
+          "ingredient_id": "1f65be5f-ad9d-5713-aca2-600f7b2a1ee8",
+          "name": "almonds",
+          "display_text": "50g Almonds",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "e9d3332c-c812-5438-b712-8b97003d3145",
+          "ingredient_id": "a5429717-646c-519b-9cd6-e52407f5b361",
+          "name": "bramley apples",
+          "display_text": "2 large Bramley Apples",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2c5f2c14-5678-5c45-ac1f-c02331b25614",
+          "ingredient_id": "0f05a86e-f2dc-5616-a03b-936ca1452526",
+          "name": "candied peel",
+          "display_text": "200g Candied Peel",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "10cfb629-4315-58cf-9524-a02cf9806c23",
+          "ingredient_id": "9426e9cd-e7b2-540e-8ddb-187c01748931",
+          "name": "nutmeg",
+          "display_text": "1 whole Nutmeg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "whole",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "66897bd0-f16b-5151-b067-e78178fae6e6",
+          "ingredient_id": "8d52ad34-1aea-57a9-8e92-aabab5116059",
+          "name": "raisins",
+          "display_text": "1kg Raisins",
+          "quantity": 1.0,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "kilogram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "b2e3af21-9ed8-53ee-ae33-f4fd00c74ef5",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "140g Plain Flour",
+          "quantity": 140.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 140.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "e842e208-df62-51ed-8edf-2fc3588f0621",
+          "ingredient_id": "00efa231-6d81-5c88-91fa-b330117cc5f4",
+          "name": "breadcrumbs",
+          "display_text": "100g Breadcrumbs",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "ad851ead-bb73-5fa9-ae6a-17f9cd8d0669",
+          "ingredient_id": "74d4f663-2935-561e-b6ec-45f204542152",
+          "name": "muscovado sugar",
+          "display_text": "100g Muscovado Sugar",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "adeab363-1f56-5541-874e-838188f19b01",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "3 Large Eggs",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "7bdb3bee-7650-50cf-8621-1f898713f551",
+          "ingredient_id": "063ff6f2-ecba-5f08-abd6-0646882f3f1d",
+          "name": "brandy",
+          "display_text": "2 tbs Brandy",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "419f7b71-a778-52e1-a66a-a18ee24f606f",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "250g Butter",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Get everything for the pudding prepared. Chop the almonds coarsely. Peel, core and chop the cooking apples. Sharpen your knife and chop the candied peel. (You can chop the almonds and apples in a food processor, but the peel must be done by hand.) Grate three quarters of the nutmeg (sounds a lot but it's correct).",
+      "ingredients_used": [
+        "fcc25ab7-70cd-59a3-aa3d-fa6cc64274b2",
+        "e9d3332c-c812-5438-b712-8b97003d3145",
+        "2c5f2c14-5678-5c45-ac1f-c02331b25614",
+        "10cfb629-4315-58cf-9524-a02cf9806c23"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Mix the almonds, apples, candied peel, nutmeg, raisins, flour, breadcrumbs, light muscovado sugar, eggs and 2 tbsp brandy or cognac in a large bowl.",
+      "ingredients_used": [
+        "fcc25ab7-70cd-59a3-aa3d-fa6cc64274b2",
+        "e9d3332c-c812-5438-b712-8b97003d3145",
+        "2c5f2c14-5678-5c45-ac1f-c02331b25614",
+        "10cfb629-4315-58cf-9524-a02cf9806c23",
+        "66897bd0-f16b-5151-b067-e78178fae6e6",
+        "e842e208-df62-51ed-8edf-2fc3588f0621",
+        "ad851ead-bb73-5fa9-ae6a-17f9cd8d0669",
+        "adeab363-1f56-5541-874e-838188f19b01",
+        "7bdb3bee-7650-50cf-8621-1f898713f551"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Holding the butter in its wrapper, grate a quarter of it into the bowl, then stir everything together. Repeat until all the butter is grated, then stir for 3-4 mins – the mixture is ready when it subsides slightly after each stir. Ask the family to stir too, and get everyone to make a wish.",
+      "timer_seconds": 240,
+      "ingredients_used": [
+        "419f7b71-a778-52e1-a66a-a18ee24f606f"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Generously butter two 1.2 liter bowls and put a circle of baking parchment in the bottom of each. Pack in the pudding mixture. Cover with a double layer of baking parchment, pleating it to allow for expansion, then tie with string (keep the paper in place with a rubber band while tying). Trim off any excess paper.",
+      "ingredients_used": [
+        "419f7b71-a778-52e1-a66a-a18ee24f606f"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Now stand each bowl on a large sheet of foil and bring the edges up over the top, then put another sheet of foil over the top and bring it down underneath to make a double package (this makes the puddings watertight). Tie with more string, and make a handle for easy lifting in and out of the pan. Watch our video to see how to tie up a pudding correctly."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Boil or oven steam the puddings for 8 hrs, topping up with water as necessary. Remove from the pans and leave to cool overnight. When cold, discard the messy wrappings and re-wrap in new baking parchment, foil and string. Store in a cool, dry place until Christmas.",
+      "timer_seconds": 28800
+    },
+    {
+      "step_number": 7,
+      "instruction": "To make the brandy butter, cream the butter with the orange zest and icing sugar. Gradually beat in the brandy or cognac and chopped stem ginger. Put in a small bowl, fork the top attractively and put in the fridge to set. The butter will keep for a week in the fridge, or it can be frozen for up to six weeks.",
+      "ingredients_used": [
+        "7bdb3bee-7650-50cf-8621-1f898713f551",
+        "419f7b71-a778-52e1-a66a-a18ee24f606f"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "On Christmas Day, boil or oven steam for 1 hr. Unwrap and turn out. To flame, warm 3-4 tbsp brandy in a small pan, pour it over the pudding and set light to it.",
+      "timer_seconds": 3600,
+      "ingredients_used": [
+        "7bdb3bee-7650-50cf-8621-1f898713f551"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/classic-christmas-pudding"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

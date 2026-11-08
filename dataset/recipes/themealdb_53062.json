@@ -1,0 +1,278 @@
+{
+  "id": "100bed7f-15d6-5ad3-ba2f-0adb87e76fdc",
+  "version": "1.0.0",
+  "title": "Walnut Roll Gužvara",
+  "slug": "walnut-roll-guzvara",
+  "summary": "A traditional Croatian sweet bread filled with a rich mixture of walnuts, butter, brown sugar, and cinnamon.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:01:21Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53062"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/u9l7k81628771647.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/u9l7k81628771647.jpg/small",
+      "alt_text": "Photo of Walnut Roll Gužvara",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Q_akngSJVrQ"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b5d05ee7-9bce-5691-809b-0e253d6b7ed2",
+        "slug": "croatian",
+        "name": "Croatian"
+      }
+    ],
+    "tags": [
+      "nutty"
+    ],
+    "meal_types": [
+      "breakfast",
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 35,
+    "rest_time_minutes": 160,
+    "total_time_minutes": 215
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 large slice of walnut roll"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "tree_nuts",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "94541951-3e6e-5ca0-bcb8-8aeaf2c14bce",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "dc55b654-c5a8-5e55-9ae4-b68c7b780401",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "450g Flour",
+          "quantity": 450.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "6b9c718c-2900-57a9-9330-ebc13a0433cb",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "55g Caster Sugar",
+          "quantity": 55.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 55.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "88ff3b8d-6a63-52c4-94cc-052e4adafefb",
+          "ingredient_id": "28b21302-909b-59d3-a88f-a543e26ac34f",
+          "name": "yeast",
+          "display_text": "2 parts Yeast",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "parts",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "fe689cbc-9139-5b03-809d-ac55986dff58",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/2 tsp Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "c1f57faf-169f-5280-a659-f3fb1b9da9ba",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "6 oz Milk",
+          "quantity": 6.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 170.1,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "7315653a-8472-57c6-aa04-7c295a05178d",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "2 Beaten Eggs",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "beaten",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "64d88ae1-e5b3-5162-aab4-03c3f79f33cd",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "30g Butter",
+          "quantity": 30.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "46bc6b0d-4fb1-55b2-a6c9-356457dc908d",
+          "ingredient_id": "0ad40f09-76c2-5007-b9ca-38f3ecd4a51d",
+          "name": "walnuts",
+          "display_text": "140g Walnuts",
+          "quantity": 140.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 140.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "3b8a8750-d14e-5685-87a9-9ff2f9b2c111",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "85g Butter",
+          "quantity": 85.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 85.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "82d7dda4-b757-59bd-8aec-3ef1c88e4921",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "85g Brown Sugar",
+          "quantity": 85.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 85.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "a9096385-8464-5f5a-a7c0-cc1916994ce1",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "1 tsp Cinnamon",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "a6e8dcfc-c544-5ff4-ba33-ccced7fd55b8",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "To Glaze Milk",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to glaze",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "f875306d-4610-5e51-9208-a8c716951752",
+          "ingredient_id": "c3b952d9-9879-569e-a989-b29a9b7ec664",
+          "name": "icing sugar",
+          "display_text": "To Glaze Icing Sugar",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to glaze",
+          "is_optional": false,
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Mix all the ingredients for the dough together and knead well. Cover the dough and put to rise until doubled in size which should take about 2 hours. Knock back the dough and knead lightly.",
+      "timer_seconds": 7200
+    },
+    {
+      "step_number": 2,
+      "instruction": "Divide the dough into two equal pieces; roll each piece into an oblong about 12 inches by 8 inches. Mix the filling ingredients together and divide between the dough, spreading over each piece. Roll up the oblongs as tightly as possible to give two 12 inch sausages. Place these side by side, touching each other, on a greased baking sheet. Cover and leave to rise for about 40 minutes. Heat oven to 200ºC (425ºF). Bake for 30-35 minutes until well risen and golden brown. Bread should sound hollow when the base is tapped.",
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 3,
+      "instruction": "Remove from oven and brush the hot bread top with milk. Sift with a generous covering of icing sugar.",
+      "ingredients_used": [
+        "c1f57faf-169f-5280-a659-f3fb1b9da9ba",
+        "a6e8dcfc-c544-5ff4-ba33-ccced7fd55b8",
+        "f875306d-4610-5e51-9208-a8c716951752"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.visit-croatia.co.uk/croatian-cuisine/croatian-recipes/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

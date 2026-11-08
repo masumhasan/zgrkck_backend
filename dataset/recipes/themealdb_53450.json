@@ -1,0 +1,148 @@
+{
+  "id": "8626990a-8dfa-5cc0-bb29-ad93b18db4c6",
+  "version": "1.0.0",
+  "title": "Grits",
+  "slug": "grits",
+  "summary": "A simple Bahamian breakfast dish made by boiling corn grits in salted water until they reach a creamy consistency.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:35:16Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53450"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/bfok4w1780242078.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/bfok4w1780242078.jpg/small",
+      "alt_text": "Photo of Grits",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b25817d2-d2f6-57aa-8902-6f6aa0a44a7d",
+        "slug": "bahamian",
+        "name": "Bahamian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 2,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 17
+  },
+  "yield": {
+    "servings": 1,
+    "serving_unit": "servings",
+    "serving_size_description": "1/4 cup cooked grits"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "0c5787d4-910e-5abd-bde0-5ed4b26ace08",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "d6d7f227-0f2c-5c67-86fd-9f5ab65a943a",
+          "ingredient_id": "64a9eb4c-42b4-54b2-8ef1-8105b86d5a59",
+          "name": "grits",
+          "display_text": "1/4 cup Grits",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "5ee2a570-541c-5446-a2eb-670bf3e47de4",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "84b0276c-46c0-5b59-b698-c1dfba15fd7e",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1 cup Water",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Bring water with salt to a boil then add grits; reduce heat and cover. occasionally stirring. Cook approximately 15 minutes or until grits have desired consistency.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "d6d7f227-0f2c-5c67-86fd-9f5ab65a943a",
+        "5ee2a570-541c-5446-a2eb-670bf3e47de4",
+        "84b0276c-46c0-5b59-b698-c1dfba15fd7e"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Cool then serve"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bahamas.gov.bs/native-dishes"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

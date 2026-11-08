@@ -1,0 +1,374 @@
+{
+  "id": "a33364c6-2100-51c9-bfe4-479021fc2395",
+  "version": "1.0.0",
+  "title": "Tavë Kosi Baked Lamb and Yogurt",
+  "slug": "tave-kosi-baked-lamb-and-yogurt",
+  "summary": "Tavë Kosi is a traditional Albanian baked dish consisting of tender lamb and rice topped with a creamy, baked yogurt and egg mixture.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:31:13Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53404"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/a1mi7t1779643816.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/a1mi7t1779643816.jpg/small",
+      "alt_text": "Photo of Tavë Kosi Baked Lamb and Yogurt",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=sinI-D-vhKU"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "e7c6b7b1-e982-5d1b-96fc-1577c9153035",
+        "slug": "albanian",
+        "name": "Albanian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 122,
+    "rest_time_minutes": 10,
+    "total_time_minutes": 147
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 portion of lamb, rice, and yogurt"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "b8a68fb8-6c37-533c-984c-e06838f9300f",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "17eca8f7-7153-570f-96bc-bdc8186c7188",
+          "ingredient_id": "9d9a6681-e50b-5870-820c-5bf49172a394",
+          "name": "lamb",
+          "display_text": "600g Lamb",
+          "quantity": 600.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 600.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "c2fd01dd-4d48-5392-9ffe-25be68bc30e7",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "20g Butter",
+          "quantity": 20.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 20.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "118538b6-cf4b-54aa-95e4-09af6c926f34",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tablespoons Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "df98fddf-6b0a-51fe-810a-507cd58f7221",
+          "ingredient_id": "025b8433-c498-5b37-813a-ec00ac6c2ae5",
+          "name": "rice",
+          "display_text": "70g Rice",
+          "quantity": 70.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 70.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "96fef2a4-4987-5492-b5d1-da1cad010534",
+          "ingredient_id": "035f27db-b6ac-512c-a6e4-48e289cafefe",
+          "name": "oregano",
+          "display_text": "2 tsp Oregano",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "625906d8-947a-5c5e-966c-fe0290e476fd",
+          "ingredient_id": "40367a80-a6cc-5715-9d1d-b43689c0eec7",
+          "name": "boiling water",
+          "display_text": "450ml Boiling Water",
+          "quantity": 450.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "76ca8206-ff91-5362-867c-712d617600bc",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves chopped Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "a196e7b5-3850-5ebc-a38e-8bdae3694d20",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "f4b03a43-0cfb-5be5-a16d-3b7445833965",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "Pinch Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "0fe12ff2-e634-5f27-9add-9a49c18ed47d",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "50g Butter",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "b3f0bf6a-5587-5e5f-a1b0-079658767171",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "2 tablespoons Flour",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "09f645dd-44ea-51b3-b888-acba6ac985ea",
+          "ingredient_id": "ba22b73d-e619-5bc7-a859-f65b683613fe",
+          "name": "greek yogurt",
+          "display_text": "750g Greek Yogurt",
+          "quantity": 750.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 750.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "411370c6-5eb8-5ab6-b263-1001e9b2db7d",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "6 Eggs",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "87c6fd6d-2bff-52c0-ab5a-4741caf8466d",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "b2f9b44c-1933-52b6-8222-37f926b67fd9",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "Pinch Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Baking the Lamb",
+      "ingredients_used": [
+        "17eca8f7-7153-570f-96bc-bdc8186c7188"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a large pan (with a lid) melt the butter and olive oil together then add the diced lamb. Brown the lamb on a medium heat, this will take around 5 minutes.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "17eca8f7-7153-570f-96bc-bdc8186c7188",
+        "c2fd01dd-4d48-5392-9ffe-25be68bc30e7",
+        "118538b6-cf4b-54aa-95e4-09af6c926f34",
+        "0fe12ff2-e634-5f27-9add-9a49c18ed47d"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the garlic, oregano, 300ml of water and season with salt and pepper. Mix well before covering with the lid. Leave to simmer for 50 minutes mixing a couple of times ensuring the lamb doesn’t start to burn.",
+      "timer_seconds": 3000,
+      "ingredients_used": [
+        "17eca8f7-7153-570f-96bc-bdc8186c7188",
+        "96fef2a4-4987-5492-b5d1-da1cad010534",
+        "76ca8206-ff91-5362-867c-712d617600bc",
+        "a196e7b5-3850-5ebc-a38e-8bdae3694d20",
+        "f4b03a43-0cfb-5be5-a16d-3b7445833965",
+        "87c6fd6d-2bff-52c0-ab5a-4741caf8466d",
+        "b2f9b44c-1933-52b6-8222-37f926b67fd9"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "The juices should have nearly all boiled away so another 150ml of water should be added along with the rice. Mix altogether, bring to the boil, place the lid on and leave for just 10 minutes. It’s advised to check at around 8 minutes – you want the liquid to be evaporated with just moist coating of oily water left over the lamb and rice.",
+      "ingredients_used": [
+        "17eca8f7-7153-570f-96bc-bdc8186c7188",
+        "df98fddf-6b0a-51fe-810a-507cd58f7221"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Place the lamb and rice into a casserole dish, the mixture should fully cover the base and have at least 2 inches spare for the yogurt. Alternatively you can split into four ceramic bowls.",
+      "ingredients_used": [
+        "17eca8f7-7153-570f-96bc-bdc8186c7188",
+        "df98fddf-6b0a-51fe-810a-507cd58f7221",
+        "09f645dd-44ea-51b3-b888-acba6ac985ea"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Making a Roux"
+    },
+    {
+      "step_number": 7,
+      "instruction": "In a small saucepan melt the butter over a medium heat and then add two tablespoons of flour while continuously stirring for two minutes (add a little extra flour if needed). The roux should not be thick but not too runny, the color will darken slightly. Pour the roux into a bowl and keep to one side.",
+      "ingredients_used": [
+        "c2fd01dd-4d48-5392-9ffe-25be68bc30e7",
+        "0fe12ff2-e634-5f27-9add-9a49c18ed47d",
+        "b3f0bf6a-5587-5e5f-a1b0-079658767171"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Making the Yogurt Mixture",
+      "ingredients_used": [
+        "09f645dd-44ea-51b3-b888-acba6ac985ea"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "In a mixing bowl add the yogurt, eggs and season with salt and pepper. Mix together then add the roux continuing to mix fast for a minute to ensure the roux and yogurt are thoroughly combined.",
+      "ingredients_used": [
+        "a196e7b5-3850-5ebc-a38e-8bdae3694d20",
+        "f4b03a43-0cfb-5be5-a16d-3b7445833965",
+        "09f645dd-44ea-51b3-b888-acba6ac985ea",
+        "411370c6-5eb8-5ab6-b263-1001e9b2db7d",
+        "87c6fd6d-2bff-52c0-ab5a-4741caf8466d",
+        "b2f9b44c-1933-52b6-8222-37f926b67fd9"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "Pour the yogurt mixture over the baked lamb and rice and sprinkle on a little oregano.",
+      "ingredients_used": [
+        "17eca8f7-7153-570f-96bc-bdc8186c7188",
+        "df98fddf-6b0a-51fe-810a-507cd58f7221",
+        "96fef2a4-4987-5492-b5d1-da1cad010534",
+        "09f645dd-44ea-51b3-b888-acba6ac985ea"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Cooking"
+    },
+    {
+      "step_number": 12,
+      "instruction": "Place on the bottom shelf of the oven on 180 degrees for 35 minutes then move it up to the middle for a further 10 minutes. The Tavë kosi is ready when the yogurt has risen up high and a golden crust formed.",
+      "ingredients_used": [
+        "09f645dd-44ea-51b3-b888-acba6ac985ea"
+      ]
+    },
+    {
+      "step_number": 13,
+      "instruction": "Leave to cool for 5 – 10 minutes before serving.",
+      "timer_seconds": 600
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.myalbanianfood.com/recipe/albanian-tave-kosi/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

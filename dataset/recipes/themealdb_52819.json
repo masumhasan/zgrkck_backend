@@ -1,0 +1,278 @@
+{
+  "id": "680c8711-c5bb-5c27-aa0f-1764f5828c52",
+  "version": "1.0.0",
+  "title": "Cajun spiced fish tacos",
+  "slug": "cajun-spiced-fish-tacos",
+  "summary": "Spiced white fish fillets served in flour tortillas with avocado, lettuce, spring onions, salsa, and sour cream.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:40:10Z",
+  "updated_at": "2026-10-16T10:22:46Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52819"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg/small",
+      "alt_text": "Photo of Cajun spiced fish tacos",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=N4EdUt0Ou48"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d92b5023-5f76-56a5-b92d-341aaabd6a80",
+        "slug": "mexican",
+        "name": "Mexican"
+      }
+    ],
+    "tags": [
+      "fish",
+      "spicy"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "beginner",
+    "occasions": [
+      "summer_refreshment"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 25
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "2 tacos with fish"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "fish"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "125160d8-df96-5329-8f1b-e7adc1c55dbf",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "1d463876-70ea-50cc-b654-c944ab0c8239",
+          "ingredient_id": "f3e08f6f-ce6f-51e5-94e7-8a50ba12955c",
+          "name": "cajun",
+          "display_text": "2 tbsp cajun",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "add2762a-2179-543a-adc9-a5207a93d083",
+          "ingredient_id": "97dd86b9-4ad7-5a3a-bc6c-86485409c325",
+          "name": "cayenne pepper",
+          "display_text": "1 tsp cayenne pepper",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "0a00777d-57b1-5608-b76d-0f195b4bbda3",
+          "ingredient_id": "972eb44b-3c16-5b72-8b40-db05b898170c",
+          "name": "white fish",
+          "display_text": "4 fillets white fish",
+          "quantity": 4.0,
+          "unit": "fillet",
+          "is_optional": false,
+          "category": "fish"
+        },
+        {
+          "id": "2eea2864-a73b-53af-8bcb-13e91ccbec53",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "1 tsp vegetable oil",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "e879617b-9cc1-5489-b46a-ed31b00e37cb",
+          "ingredient_id": "7d0a9829-5c75-556c-b604-bceef6d08a5e",
+          "name": "flour tortilla",
+          "display_text": "8 flour tortilla",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "38b4504c-8987-573f-9a72-61eb7029ff50",
+          "ingredient_id": "eb7e0cb5-be44-5074-93b2-98cbac9baf42",
+          "name": "avocado",
+          "display_text": "1 sliced avocado",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "52c7bc41-537b-5de6-aeef-a9e072fc5151",
+          "ingredient_id": "58a6a1d0-cf29-51bd-adbd-cb996b7e75fd",
+          "name": "little gem lettuce",
+          "display_text": "2 shredded little gem lettuce",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "shredded",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "cc984461-0ab0-559a-985b-0ad23579de59",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "4 shredded Spring Onions",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "shredded",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c837054e-e5c7-56e7-806f-7fdddb2fe878",
+          "ingredient_id": "65ddb898-6fd1-5b44-9bd3-77e3241d4350",
+          "name": "salsa",
+          "display_text": "1 x 300ml salsa",
+          "quantity": 1.0,
+          "unit": "can",
+          "preparation": "300ml",
+          "is_optional": false,
+          "category": "condiments"
+        },
+        {
+          "id": "7a99f4b7-1918-5634-8076-77efc8100c36",
+          "ingredient_id": "6ca777b1-4e80-5a4b-8ffe-88c954e2cc8a",
+          "name": "sour cream",
+          "display_text": "1 pot sour cream",
+          "quantity": 1.0,
+          "unit": "pot",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "a230d34b-c1cd-5e72-a7ab-b5fe1912f372",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "1 lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b391c854-12a0-54ac-aab2-e51676818c89",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove finely chopped garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Cooking in a cajun spice and cayenne pepper marinade makes this fish super succulent and flavoursome. Top with a zesty dressing and serve in a tortilla for a quick, fuss-free main that's delightfully summery.",
+      "ingredients_used": [
+        "1d463876-70ea-50cc-b654-c944ab0c8239",
+        "add2762a-2179-543a-adc9-a5207a93d083",
+        "0a00777d-57b1-5608-b76d-0f195b4bbda3",
+        "e879617b-9cc1-5489-b46a-ed31b00e37cb"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "On a large plate, mix the cajun spice and cayenne pepper with a little seasoning and use to coat the fish all over.",
+      "ingredients_used": [
+        "1d463876-70ea-50cc-b654-c944ab0c8239",
+        "add2762a-2179-543a-adc9-a5207a93d083",
+        "0a00777d-57b1-5608-b76d-0f195b4bbda3"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Heat a little oil in a frying pan, add in the fish and cook over a medium heat until golden. Reduce the heat and continue frying until the fish is cooked through, about 10 minutes. Cook in batches if you don’t have enough room in the pan.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "0a00777d-57b1-5608-b76d-0f195b4bbda3"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Meanwhile, prepare the dressing by combining all the ingredients with a little seasoning."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Soften the tortillas by heating in the microwave for 5-10 seconds. Pile high with the avocado, lettuce and spring onion, add a spoonful of salsa, top with large flakes of fish and drizzle over the dressing.",
+      "timer_seconds": 10,
+      "ingredients_used": [
+        "0a00777d-57b1-5608-b76d-0f195b4bbda3",
+        "e879617b-9cc1-5489-b46a-ed31b00e37cb",
+        "38b4504c-8987-573f-9a72-61eb7029ff50",
+        "52c7bc41-537b-5de6-aeef-a9e072fc5151",
+        "c837054e-e5c7-56e7-806f-7fdddb2fe878"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://realfood.tesco.com/recipes/cajun-spiced-fish-tacos.html"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

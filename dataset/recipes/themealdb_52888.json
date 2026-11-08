@@ -1,0 +1,295 @@
+{
+  "id": "b6cf8f12-f254-5f75-85a2-8b39bd707e76",
+  "version": "1.0.0",
+  "title": "Eccles Cakes",
+  "slug": "eccles-cakes",
+  "summary": "Eccles cakes are a traditional British pastry filled with a spiced mixture of currants, mixed peel, and muscovado sugar.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:46:22Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52888"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/wtqrqw1511639627.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/wtqrqw1511639627.jpg/small",
+      "alt_text": "Photo of Eccles Cakes",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=xV0QCJ0GD5w"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "snack",
+      "treat"
+    ],
+    "meal_types": [
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "snack",
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 20,
+    "rest_time_minutes": 120,
+    "total_time_minutes": 170
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 Eccles cake"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery"
+    ],
+    "may_contain": [
+      "sulfites"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "337f5660-6a75-58a8-867c-c058eaf6300b",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "4afb814d-5b76-5f21-b5db-399ae5dcbfe6",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "250g Butter",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "34b14c3f-cf19-5260-b45e-186ea1f30d61",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "350g Plain Flour",
+          "quantity": 350.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 350.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "994eb9ae-b6b0-575a-a263-2ad479ed206a",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "Juice of 1/2 Lemon",
+          "quantity": 0.5,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "885e6797-b620-5343-b251-a5967a28bfd4",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "25g Butter",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "415ad745-e324-5be4-92ab-dbf3a6e8e04b",
+          "ingredient_id": "93362b54-1c13-5aa3-a85c-1ce0dc4f1e10",
+          "name": "currants",
+          "display_text": "200g Currants",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "3de80639-e4e9-5bf3-987d-d5164e86ebb0",
+          "ingredient_id": "fd374ea2-5987-5d14-8d28-f947902742a0",
+          "name": "mixed peel",
+          "display_text": "50g Mixed Peel",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "882029d9-7154-5ded-95de-8c2cef3ec2b2",
+          "ingredient_id": "74d4f663-2935-561e-b6ec-45f204542152",
+          "name": "muscovado sugar",
+          "display_text": "100g Muscovado Sugar",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "f16e83d8-fa1c-5110-a5dd-ac2a29d17189",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "1 tsp Cinnamon",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "ad94dbac-2368-5385-a1ca-ea67a39b2553",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "1 tsp Ginger",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "913b23f8-d2d7-50b6-9f5f-b34962594adb",
+          "ingredient_id": "38dedce7-9a7f-57ee-8e46-5162ab60eba8",
+          "name": "allspice",
+          "display_text": "1 tsp Allspice",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "f32e8d16-3fa9-566b-9e9f-23fc4b1bbc03",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "Zest of 1 Lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "zest",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d594104b-353a-5a61-83aa-cf714ded22a2",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "1 beaten Eggs",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "beaten",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "e5caf88c-ac6f-509c-8d2b-d41252333d1a",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "spinkling Sugar",
+          "quantity": 1,
+          "unit": "sprinkling",
+          "is_optional": false,
+          "category": "sweeteners"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "To make the pastry, dice the butter and put it in the freezer to go really hard. Tip flour into the bowl of a food processor with half the butter and pulse to the texture of breadcrumbs. Pour in the lemon juice and 100ml iced water, and pulse to a dough. Tip in the rest of the butter and pulse a few times until the dough is heavily flecked with butter. It is important that you don’t overdo this as the flecks of butter are what makes the pastry flaky.",
+      "ingredients_used": [
+        "4afb814d-5b76-5f21-b5db-399ae5dcbfe6",
+        "994eb9ae-b6b0-575a-a263-2ad479ed206a",
+        "885e6797-b620-5343-b251-a5967a28bfd4",
+        "f32e8d16-3fa9-566b-9e9f-23fc4b1bbc03"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "On a floured surface roll the pastry out to a neat rectangle about 20 x 30cm. Fold the two ends of the pastry into the middle (See picture 1), then fold in half (pic 2). Roll the pastry out again and refold the same way 3 more times resting the pastry for at least 15 mins each time between roll and fold, then leave to rest in the fridge for at least 30 mins before using."
+    },
+    {
+      "step_number": 3,
+      "instruction": "To make the filling, melt the butter in a large saucepan. Take it off the heat and stir in all the other ingredients until completely mixed, then set aside.",
+      "ingredients_used": [
+        "4afb814d-5b76-5f21-b5db-399ae5dcbfe6",
+        "885e6797-b620-5343-b251-a5967a28bfd4"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "To make the cakes, roll the pastry out until it’s just a little thicker than a £1 coin and cut out 8 rounds about 12cm across. Re-roll the trimming if needed. Place a good heaped tablespoon of mixture in the middle of each round, brush the edges of the rounds with water, then gather the pastry around the filling and squeeze it together (pic 3). Flip them over so the smooth top is upwards and pat them into a smooth round. Flatten each round with a rolling pin to an oval until the fruit just starts to poke through, then place on a baking tray. Cut 2 little slits in each Eccles cakes, brush generously with egg white and sprinkle with the sugar (pic 4).",
+      "ingredients_used": [
+        "e5caf88c-ac6f-509c-8d2b-d41252333d1a"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Heat the oven to 220C/200C fan/gas 8. Bake the Eccles cakes for 15-20 mins until just past golden brown and sticky. Leave to cool on a rack and enjoy while still warm or cold with a cup of tea. If you prefer, Eccles cakes also go really well served with a wedge of hard, tangy British cheese such as Lancashire or cheddar.",
+      "timer_seconds": 1200,
+      "temperature": {
+        "value": 220,
+        "unit": "celsius"
+      }
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/786659/eccles-cakes"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

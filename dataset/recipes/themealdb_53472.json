@@ -1,0 +1,218 @@
+{
+  "id": "665eafc1-cd9c-5d08-a346-5ef9512b0c73",
+  "version": "1.0.0",
+  "title": "Madombi: Dumplings from Botswana",
+  "slug": "madombi-dumplings-from-botswana",
+  "summary": "Madombi are traditional Botswanan dumplings made from a simple yeast dough. They are steamed directly on top of a stew during the final stages of cooking.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:37:11Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53472"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/bjeq6g1782505296.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/bjeq6g1782505296.jpg/small",
+      "alt_text": "Photo of Madombi: Dumplings from Botswana",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "7eccd33d-bce1-55b8-8196-232aa305f7a3",
+        "slug": "botswanan",
+        "name": "Botswanan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 30,
+    "rest_time_minutes": 60,
+    "total_time_minutes": 105
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 dumpling"
+  },
+  "allergens": {
+    "contains": [
+      "gluten"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "ca695529-bf1d-57ac-95f5-3ebd75461c64",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "eb2caa23-efdc-5268-8d8f-2e864772b0b1",
+          "ingredient_id": "390767a5-b5bd-56c6-93dd-03bf9dcc5356",
+          "name": "warm water",
+          "display_text": "1 1/4 cup Warm Water",
+          "quantity": 1.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "16fe8963-87ef-5c52-b972-b090d477945e",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "2 tsp Sugar",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "ff54361c-2fba-5ba3-930d-71a1e482520c",
+          "ingredient_id": "28b21302-909b-59d3-a88f-a543e26ac34f",
+          "name": "yeast",
+          "display_text": "2 1/2 Tsp Yeast",
+          "quantity": 2.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 12.5,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "bb1fa2ed-15a4-5a31-8fc7-172fd59ffb27",
+          "ingredient_id": "d1e5ec78-b8c2-5649-962c-a9f67272ea92",
+          "name": "all purpose flour",
+          "display_text": "3 Cups All purpose flour",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "e6cf0bce-d7b5-5571-a3ca-8c8c511da79a",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 1/2 tsp Salt",
+          "quantity": 1.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "This recipe requires a stew to steam the dumplings on top of, at abour 180℃ or 350℉, give or take (it doesn't have to be specific, but can't be very high or very love heat). You will add the dumplings in during the last thirty minutes of your stew's cooking time, They need to steam covered, so the stew should be in a lidded pot that is oven-proof."
+    },
+    {
+      "step_number": 2,
+      "instruction": "Mix the dumpling dough"
+    },
+    {
+      "step_number": 3,
+      "instruction": "In a measuring cup, combine the warm water, sugar, and yeast. Leave until foamy, about 5 minutes.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "eb2caa23-efdc-5268-8d8f-2e864772b0b1",
+        "16fe8963-87ef-5c52-b972-b090d477945e",
+        "ff54361c-2fba-5ba3-930d-71a1e482520c"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "To a stand mixer bowl, or a large bowl if mixing by hand, add the flour and salt. Stream in the water-yeast mixture while kneading.",
+      "ingredients_used": [
+        "ff54361c-2fba-5ba3-930d-71a1e482520c",
+        "e6cf0bce-d7b5-5571-a3ca-8c8c511da79a"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Knead for several minutes after the dough comes together, until a smooth ball of dough forms."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Leave the dumpling dough to rise"
+    },
+    {
+      "step_number": 7,
+      "instruction": "Place the ball of dough in an oiled dough, cover, and leave to rise until doubled, about 1 hour.",
+      "timer_seconds": 3600
+    },
+    {
+      "step_number": 8,
+      "instruction": "Shape the dumplings"
+    },
+    {
+      "step_number": 9,
+      "instruction": "Divide the risen ball of dough into 10 equal portions for large dumplings, or 12-14 portions for smaller dumplings."
+    },
+    {
+      "step_number": 10,
+      "instruction": "Shape each portion of dough into a smooth, round ball."
+    },
+    {
+      "step_number": 11,
+      "instruction": "Steam the dumplings"
+    },
+    {
+      "step_number": 12,
+      "instruction": "In the last thirty minutes of cooking a stew, place the shaped dumplings right atop the stew. Push them down gently into the stew. Cover tightly and return to the oven for 25-30 minutes. The dumplings are done when they're risen and light golden.",
+      "timer_seconds": 1800
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://kosherworldkitchen.com/madombi-dumplings-from-botswana/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

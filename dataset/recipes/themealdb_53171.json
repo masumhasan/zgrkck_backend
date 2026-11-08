@@ -1,0 +1,205 @@
+{
+  "id": "4721b795-18c3-5566-8b68-25c36bc7f815",
+  "version": "1.0.0",
+  "title": "Salt cod tortilla",
+  "slug": "salt-cod-tortilla",
+  "summary": "A traditional Spanish omelet made with salt cod, potatoes, and onions. The cod is simmered and flaked before being mixed with eggs and sautéed vegetables.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:10:31Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53171"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/njj1681763297231.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/njj1681763297231.jpg/small",
+      "alt_text": "Photo of Salt cod tortilla",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ga7YoAjGgnA"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 35,
+    "marinating_time_minutes": 30,
+    "total_time_minutes": 85
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1 slice of tortilla"
+  },
+  "allergens": {
+    "contains": [
+      "eggs",
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "0ef12d30-2f78-52c2-ad6c-46ce2372ddd0",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "c6885958-d6f7-531f-944c-5fc7df982189",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "4 tbsp Olive Oil",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "bfb0c58d-268d-551b-a8df-bf84d4d480b9",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Large Chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "44026661-fb24-541b-a452-8bdf0bd8eeb6",
+          "ingredient_id": "afcc7608-23de-5b7b-ae4a-fb579115468f",
+          "name": "jersey royal potatoes",
+          "display_text": "300g Jersey Royal Potatoes",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "18e9bf7a-1cc3-53ae-bdbb-4b248e4692dc",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves chopped Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "07ac2c49-2102-5c78-a61f-6271af5af2ba",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "8 Egg",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "304f7f2d-c6a5-5c83-bc29-e94e2af344ae",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "2 1/2 Tbs Parsley",
+          "quantity": 2.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 37.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "20846be6-7b46-5077-80ef-d6a1b577da3a",
+          "ingredient_id": "06385c78-0e19-5144-946a-22bd05df2c78",
+          "name": "salt cod",
+          "display_text": "300g Salt Cod",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat half the oil in a frying pan, and sauté the onion over a medium heat until soft and pale gold – this will take about 8 mins. Remove from the pan, set aside, and add the potatoes to the pan. Cook until they are tender but not falling apart, carefully turning every so often. Cover the pan some of the time to help the slices cook through. Add the onions back to the pan along with the garlic and cook for another 4 mins. Tip into a bowl with the eggs, parsley and some seasoning and mix together. Leave to sit for half an hour.",
+      "ingredients_used": [
+        "bfb0c58d-268d-551b-a8df-bf84d4d480b9",
+        "44026661-fb24-541b-a452-8bdf0bd8eeb6",
+        "18e9bf7a-1cc3-53ae-bdbb-4b248e4692dc",
+        "304f7f2d-c6a5-5c83-bc29-e94e2af344ae"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Meanwhile, put the cod in a saucepan and cover with water. Bring up to a simmer. Remove from the heat, cover and leave for 10 mins. Drain, leave to cool and remove the skin and any bones. Break into large flakes and add to the potato and egg mixture.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "07ac2c49-2102-5c78-a61f-6271af5af2ba"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Heat the rest of the oil in a non-stick frying pan. Pour in the tortilla mix and cook over a medium-low heat until it is just set and coming away from the sides of the pan. You might need to cover it to help the center set. Be careful not to overcook it. Put a spatula underneath the tortilla every so often to make sure it isn’t sticking. Slide the tortilla onto a plate, then put the pan on top and flip the tortilla into it, uncooked side-down. Cook over a low heat until golden, or grill until just set. Leave to cool a little before serving."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/salt-cod-tortilla"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

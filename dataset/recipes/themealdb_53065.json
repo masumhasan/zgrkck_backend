@@ -1,0 +1,248 @@
+{
+  "id": "3b2b78bd-6f3b-52d0-84ee-bed7a4de36fc",
+  "version": "1.0.0",
+  "title": "Sushi",
+  "slug": "sushi",
+  "summary": "A versatile Japanese dish featuring vinegared sushi rice that can be prepared as rolls, pressed blocks, or small balls with various fillings.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:01:37Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53065"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/g046bb1663960946.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/g046bb1663960946.jpg/small",
+      "alt_text": "Photo of Sushi",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ub68OxEypaY"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "56a9f85e-d404-5cf3-b90f-babb495ba40f",
+        "slug": "japanese",
+        "name": "Japanese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "portions",
+    "serving_size_description": "a portion of sushi rolls or balls"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "eggs",
+      "fish",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "b235d0dd-514f-58ae-9a26-7875496b333e",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "f20cf13c-248b-5b8d-aaf6-962e3ed9d69e",
+          "ingredient_id": "1713ec53-fbc1-529e-90c6-f0803ae6912e",
+          "name": "sushi rice",
+          "display_text": "300ml Sushi Rice",
+          "quantity": 300.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "425301f4-9e48-52e4-8a95-0b5b6d1c2118",
+          "ingredient_id": "864af93b-c732-5d69-8bbf-6e0a175fe3e8",
+          "name": "rice wine",
+          "display_text": "100ml Rice wine",
+          "quantity": 100.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "fc2b6e5c-5366-547b-ae6b-ce0c43820be5",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "2 tbs Caster Sugar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "c7638237-696f-5cf9-84cd-c81286a8051e",
+          "ingredient_id": "6a3a5ec7-7840-5eff-a3ce-0e3aafbaa822",
+          "name": "mayonnaise",
+          "display_text": "3 tbs Mayonnaise",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "3b8a94e0-2c48-5efe-a648-1aa51d632692",
+          "ingredient_id": "864af93b-c732-5d69-8bbf-6e0a175fe3e8",
+          "name": "rice wine",
+          "display_text": "1 tbs Rice wine",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "fa840ea8-b587-5e82-9b1a-46ace04f772a",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "1 tbs Soy Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "ac7987d6-516f-5120-a573-4c7016beee38",
+          "ingredient_id": "8f9e104a-822f-5bda-b376-eee34fc38609",
+          "name": "cucumber",
+          "display_text": "1 Cucumber",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "TO MAKE SUSHI ROLLS: Pat out some rice. Lay a nori sheet on the mat, shiny-side down. Dip your hands in the vinegared water, then pat handfuls of rice on top in a 1cm thick layer, leaving the furthest edge from you clear.",
+      "ingredients_used": [
+        "f20cf13c-248b-5b8d-aaf6-962e3ed9d69e"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Spread over some Japanese mayonnaise. Use a spoon to spread out a thin layer of mayonnaise down the middle of the rice.",
+      "ingredients_used": [
+        "f20cf13c-248b-5b8d-aaf6-962e3ed9d69e",
+        "c7638237-696f-5cf9-84cd-c81286a8051e"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the filling. Get your child to top the mayonnaise with a line of their favorite fillings – here we’ve used tuna and cucumber.",
+      "ingredients_used": [
+        "c7638237-696f-5cf9-84cd-c81286a8051e",
+        "ac7987d6-516f-5120-a573-4c7016beee38"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Roll it up. Lift the edge of the mat over the rice, applying a little pressure to keep everything in a tight roll.",
+      "ingredients_used": [
+        "f20cf13c-248b-5b8d-aaf6-962e3ed9d69e"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Stick down the sides like a stamp. When you get to the edge without any rice, brush with a little water and continue to roll into a tight roll.",
+      "ingredients_used": [
+        "f20cf13c-248b-5b8d-aaf6-962e3ed9d69e"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Wrap in cling film. Remove the mat and roll tightly in cling film before a grown-up cuts the sushi into thick slices, then unravel the cling film."
+    },
+    {
+      "step_number": 7,
+      "instruction": "TO MAKE PRESSED SUSHI: Layer over some smoked salmon. Line a loaf tin with cling film, then place a thin layer of smoked salmon inside on top of the cling film."
+    },
+    {
+      "step_number": 8,
+      "instruction": "Cover with rice and press down. Press about 3cm of rice over the fish, fold the cling film over and press down as much as you can, using another tin if you have one.",
+      "ingredients_used": [
+        "f20cf13c-248b-5b8d-aaf6-962e3ed9d69e"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Tip it out like a sandcastle. Turn block of sushi onto a chopping board. Get a grown-up to cut into fingers, then remove the cling film."
+    },
+    {
+      "step_number": 10,
+      "instruction": "TO MAKE SUSHI BALLS: Choose your topping. Get a small square of cling film and place a topping, like half a prawn or a small piece of smoked salmon, on it. Use damp hands to roll walnut-sized balls of rice and place on the topping.",
+      "ingredients_used": [
+        "f20cf13c-248b-5b8d-aaf6-962e3ed9d69e"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Make into tight balls. Bring the corners of the cling film together and tighten into balls by twisting it up, then unwrap and serve."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/simple-sushi"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

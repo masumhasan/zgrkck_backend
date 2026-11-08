@@ -1,0 +1,224 @@
+{
+  "id": "95900081-d126-548c-8b45-504a425c3bbd",
+  "version": "1.0.0",
+  "title": "Tom yum (hot & sour) soup with prawns",
+  "slug": "tom-yum-hot-sour-soup-with-prawns",
+  "summary": "A classic Thai hot and sour soup featuring prawns, lemongrass, galangal, and lime juice.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:12:41Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53196"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/9c5nlx1763424766.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/9c5nlx1763424766.jpg/small",
+      "alt_text": "Photo of Tom yum (hot & sour) soup with prawns",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=FJer_Cutb2I"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "724b7c6a-f254-57d4-9729-335a2b2d93b1",
+        "slug": "thai",
+        "name": "Thai"
+      }
+    ],
+    "tags": [
+      "soup"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "soup"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "weeknight_dinner"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 20
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of soup with 3 prawns"
+  },
+  "allergens": {
+    "contains": [
+      "fish",
+      "shellfish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "65c8c4d4-3faf-5b92-8ad2-dbce2558c2ea",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "f4d3e2ad-f79c-5247-a640-82e8de6193f3",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "700ml Chicken Stock",
+          "quantity": 700.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 700.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "46ca2bbc-5504-5ac1-b1f7-afdd6efa9eb2",
+          "ingredient_id": "784549c9-8cb9-52e6-bee9-208af4ebb3b1",
+          "name": "lemongrass",
+          "display_text": "1 Lemongrass",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "c5eaeca9-0d58-54ef-b59c-2b6cf1e2a827",
+          "ingredient_id": "1ef022c5-e346-547b-99d4-708840c155a2",
+          "name": "galangal",
+          "display_text": "5 Slices Galangal",
+          "quantity": 5.0,
+          "unit": "slice",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "b5f5c2ef-7b4e-53ce-9927-08a4f0d19921",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "6 Coriander",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "410a0796-fb5d-5049-b752-9a62272aff75",
+          "ingredient_id": "fccf951a-7d8d-5390-bdc9-cbc0f83dff8f",
+          "name": "makrut lime leaves",
+          "display_text": "3 makrut lime leaves",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "a214d8f8-d1ee-5d6f-a663-bd2412b1180c",
+          "ingredient_id": "ebfe6676-831a-5bcc-841b-779f40bbb238",
+          "name": "king prawns",
+          "display_text": "6 King Prawns",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "seafood"
+        },
+        {
+          "id": "efcd8f3f-bf47-5801-8ba8-3fbbc9910244",
+          "ingredient_id": "de927c20-fdfa-5b98-8ee9-7840fa951a2f",
+          "name": "fish sauce",
+          "display_text": "3  tablespoons Fish Sauce",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "4f8dd484-1530-53cd-99a8-03b2ae99c4d8",
+          "ingredient_id": "091f7fa6-975c-516e-a354-2a31e6503580",
+          "name": "green chilli",
+          "display_text": "6 small Green Chilli",
+          "quantity": 6.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "af01efdb-0f25-5c5c-bda7-32385d3a5346",
+          "ingredient_id": "36c0f276-68d5-5515-9abe-1ef57bc6eed7",
+          "name": "lime juice",
+          "display_text": "4 tablespoons Lime juice",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Bring the stock to a boil in a medium-sized saucepan. Add the lemongrass, galangal, coriander roots and lime leaves, then simmer for 2 mins.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "46ca2bbc-5504-5ac1-b1f7-afdd6efa9eb2",
+        "c5eaeca9-0d58-54ef-b59c-2b6cf1e2a827",
+        "b5f5c2ef-7b4e-53ce-9927-08a4f0d19921"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the prawns, fish sauce, chillies and lime juice, then return to the boil. Taste and adjust the seasoning with either more lime juice or fish sauce, then garnish with coriander leaves and serve.",
+      "ingredients_used": [
+        "b5f5c2ef-7b4e-53ce-9927-08a4f0d19921",
+        "a214d8f8-d1ee-5d6f-a663-bd2412b1180c",
+        "efcd8f3f-bf47-5801-8ba8-3fbbc9910244",
+        "4f8dd484-1530-53cd-99a8-03b2ae99c4d8",
+        "af01efdb-0f25-5c5c-bda7-32385d3a5346"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/tom-yum-hot-sour-soup-prawns"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

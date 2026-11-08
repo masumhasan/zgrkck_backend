@@ -1,0 +1,307 @@
+{
+  "id": "88405c84-2b1b-5c39-8204-fe73908f5985",
+  "version": "1.0.0",
+  "title": "Jamaican Curry Shrimp Recipe",
+  "slug": "jamaican-curry-shrimp-recipe",
+  "summary": "A Jamaican-style seafood dish featuring jumbo shrimp simmered in a coconut milk and curry sauce with bell peppers and scotch bonnet.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:27:43Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53362"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/n7h5zs1765318909.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/n7h5zs1765318909.jpg/small",
+      "alt_text": "Photo of Jamaican Curry Shrimp Recipe",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Lnaj4duQ7hs"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "2dfec5c8-490a-551c-9d2f-e8e21f706bda",
+        "slug": "jamaican",
+        "name": "Jamaican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 12,
+    "marinating_time_minutes": 10,
+    "total_time_minutes": 37
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of shrimp and sauce"
+  },
+  "allergens": {
+    "contains": [
+      "fish",
+      "shellfish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "35cc8e49-c7a2-5e7a-b2b6-a01704a94bf5",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "4174e986-dfc2-52f1-bc97-59c8af7b7cb0",
+          "ingredient_id": "83466fa5-1595-5b6a-8682-379fe5ed931f",
+          "name": "jumbo shrimp",
+          "display_text": "1 lb Jumbo Shrimp",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "e61d5df4-d9ec-5c68-9e85-7eaeeb44aa11",
+          "ingredient_id": "165b3dbf-4a20-55b8-b06e-6bd72da9abff",
+          "name": "jamaican curry powder",
+          "display_text": "2.5 tbsp Jamaican Curry Powder",
+          "quantity": 2.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 37.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "9f31d0fd-72bd-566c-b9ee-25ec6cf58b57",
+          "ingredient_id": "cc13d994-4056-5662-bfdc-da000c2a117b",
+          "name": "all-purpose seasoning",
+          "display_text": "1 tsp All-purpose Seasoning",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "64345002-7740-50ab-b782-f36dca760137",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tablespoons Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "c4c407d9-fab0-5556-b003-fdabb7146aa1",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 sliced Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "63b7e4d9-8afc-5b64-b497-7cd515191942",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1 sliced Red Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2b03889c-5234-59f3-bdcc-3256e6f520d8",
+          "ingredient_id": "f86b83d4-879d-54bb-a883-73bbfa9228ba",
+          "name": "green pepper",
+          "display_text": "1 sliced Green Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "cc31e5b3-9ea8-582d-b897-59d3e131875a",
+          "ingredient_id": "cfe71375-907d-57ad-936c-b27b60946f4e",
+          "name": "scotch bonnet",
+          "display_text": "1 sliced Scotch Bonnet",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "cbef6911-6b3f-5df7-b920-2623efd5c412",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 cloves Chopped Garlic",
+          "quantity": 3.0,
+          "unit": "clove",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d37762c8-cebc-591c-98ce-ed2a353da49a",
+          "ingredient_id": "48623dba-3bd6-5137-b442-4ff57e561e74",
+          "name": "unsweetened coconut milk",
+          "display_text": "380g Unsweetened Coconut Milk",
+          "quantity": 380.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 380.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "20d23805-312a-5561-93c6-ff6a2f696cb1",
+          "ingredient_id": "a4357aa8-235c-57af-b089-15c2effbb92c",
+          "name": "tomato ketchup",
+          "display_text": "1/2 tbs Tomato Ketchup",
+          "quantity": 0.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "7cae367a-cd46-5681-b571-9dc3800c211c",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "4 sprigs Thyme",
+          "quantity": 4.0,
+          "unit": "sprig",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "af273ab1-037a-5f49-a5cf-bd37bf77e195",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "89c93373-2145-592b-820d-f6a629900fb8",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "To taste Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Season shrimp with 1 Tablespoon of curry powder and all-purpose seasoning and set aside for about 10 minutes while you prepare the other ingredients like chopping your onions, peppers, and garlic.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "4174e986-dfc2-52f1-bc97-59c8af7b7cb0",
+        "9f31d0fd-72bd-566c-b9ee-25ec6cf58b57",
+        "c4c407d9-fab0-5556-b003-fdabb7146aa1",
+        "cbef6911-6b3f-5df7-b920-2623efd5c412"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat 2 Tablespoons of olive oil in a large skillet over medium heat. Add sliced yellow onion, red bell pepper, green bell pepper, scotch bonnet pepper, if using, and chopped garlic and stir for 5 minutes, until peppers are slightly softened.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "64345002-7740-50ab-b782-f36dca760137",
+        "c4c407d9-fab0-5556-b003-fdabb7146aa1",
+        "cc31e5b3-9ea8-582d-b897-59d3e131875a",
+        "cbef6911-6b3f-5df7-b920-2623efd5c412",
+        "89c93373-2145-592b-820d-f6a629900fb8"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add 1.5 Tablespoons of curry powder to the skillet and stir for an additional minute."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Then add coconut milk, seasoned shrimp, ketchup, and thyme, making sure the shrimp is covered in the sauce.",
+      "ingredients_used": [
+        "4174e986-dfc2-52f1-bc97-59c8af7b7cb0",
+        "d37762c8-cebc-591c-98ce-ed2a353da49a",
+        "20d23805-312a-5561-93c6-ff6a2f696cb1",
+        "7cae367a-cd46-5681-b571-9dc3800c211c"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Allow the sauce to come to a simmer and continue to cook over medium heat, stirring occasionally and flipping the shrimp halfway, until the shrimp is fully cooked on both sides. This should take about 5-6 minutes. Salt and pepper to taste.",
+      "timer_seconds": 360,
+      "ingredients_used": [
+        "4174e986-dfc2-52f1-bc97-59c8af7b7cb0",
+        "af273ab1-037a-5f49-a5cf-bd37bf77e195",
+        "89c93373-2145-592b-820d-f6a629900fb8"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.myforkinglife.com/jamaican-curry-shrimp/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

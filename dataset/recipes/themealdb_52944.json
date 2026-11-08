@@ -1,0 +1,335 @@
+{
+  "id": "30f31344-0e30-5b73-b673-6cfdec189c80",
+  "version": "1.0.0",
+  "title": "Escovitch Fish",
+  "slug": "escovitch-fish",
+  "summary": "A traditional Jamaican dish featuring fried red snapper topped with a spicy, pickled vegetable sauce made from peppers, onions, and vinegar.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:51:29Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52944"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/1520084413.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/1520084413.jpg/small",
+      "alt_text": "Photo of Escovitch Fish",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=nF6DOtGE6k8"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "2dfec5c8-490a-551c-9d2f-e8e21f706bda",
+        "slug": "jamaican",
+        "name": "Jamaican"
+      }
+    ],
+    "tags": [
+      "easter",
+      "seafood",
+      "speciality",
+      "spicy"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "easter"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 piece of fish with sauce"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "fish",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "3ccda0ee-b03e-50aa-9a0b-5789c6942e77",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "182be6a7-7e57-58bc-8d08-3dfac48c21be",
+          "ingredient_id": "d55a10b1-4568-5d4b-b5b9-96c95cd7e8a8",
+          "name": "red snapper",
+          "display_text": "2 Pounds Red Snapper",
+          "quantity": 2.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 907.2,
+          "metric_unit": "gram",
+          "category": "fish"
+        },
+        {
+          "id": "3688b813-003f-551c-a91f-e73b76cda6e4",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "1/2 cup Vegetable Oil",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "38b3b91f-b4b3-592f-b812-6abf41c8b49a",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove peeled crushed Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "preparation": "peeled crushed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0e54fb05-1e7f-5bbf-9cea-125b3ddc7880",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "1/2 tsp Ginger",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "735312cb-1718-5e59-8350-b15a77d28630",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "2 sprigs Thyme",
+          "quantity": 2.0,
+          "unit": "sprig",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "57e77d37-e4aa-5ddb-adaa-51443b8a07ea",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "1 Bay Leaf",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "9a8ff6fa-7654-59a4-8fa8-8d5e4f85f34e",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "0.5 Red Pepper",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0c5b191f-13ee-544a-9109-5cf837d7ca5b",
+          "ingredient_id": "ca16fa3e-7db9-5c18-acf7-0540f4e86a4d",
+          "name": "yellow pepper",
+          "display_text": "0.5 Yellow Pepper",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "10983348-e445-5802-b597-161ad4cb4379",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 sliced Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1f76b4e2-d330-5da1-84dc-8b7fcda04918",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "1 chopped Carrots",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "9cc5a33f-74cd-5e75-abef-ef53520a8e9d",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 tbs Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "ce8accf2-4920-5c19-bd9d-c445c0be98da",
+          "ingredient_id": "38dedce7-9a7f-57ee-8e46-5162ab60eba8",
+          "name": "allspice",
+          "display_text": "1/2 tsp Allspice",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "6580e86b-25d2-579c-9e03-94acc61641be",
+          "ingredient_id": "31e8f031-3e86-5406-8703-0e73554e2898",
+          "name": "worcestershire sauce",
+          "display_text": "1 tsp Worcestershire Sauce",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "9d005aba-6c16-554d-b114-6b03e6b7de8f",
+          "ingredient_id": "cfe71375-907d-57ad-936c-b27b60946f4e",
+          "name": "scotch bonnet",
+          "display_text": "1 Scotch Bonnet",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b8c64171-6b74-53c1-8db4-63ea75a5e2da",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "1 Lime",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "cf678e41-9157-5e49-b9c4-60413582d5b5",
+          "ingredient_id": "8f8640b9-4dd5-58ab-942a-92f5be21a270",
+          "name": "malt vinegar",
+          "display_text": "3/4 cup Malt Vinegar",
+          "quantity": 0.75,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 180.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "d2daa7ef-524c-5322-9828-37c3458970cd",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "pinch Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Rinse fish; rub with lemon or lime, seasoned with salt and pepper or use your favorite seasoning. I used creole seasoning. Set aside or place in the oven to keep it warm until sauce is ready.",
+      "ingredients_used": [
+        "b8c64171-6b74-53c1-8db4-63ea75a5e2da",
+        "d2daa7ef-524c-5322-9828-37c3458970cd"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "In large skillet heat oil over medium heat, until hot, add the fish, cook each side- for about 5-7 minutes until cooked through and crispy on both sides. Remove fish and set aside. Drain oil and leave about 2-3 tablespoons of oil",
+      "timer_seconds": 420
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add, bay leave, garlic and ginger, stir-fry for about a minute making sure the garlic does not burn",
+      "ingredients_used": [
+        "38b3b91f-b4b3-592f-b812-6abf41c8b49a",
+        "0e54fb05-1e7f-5bbf-9cea-125b3ddc7880"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Then add onion, bell peppers, thyme, scotch bonnet, sugar, all spice-continue stirring for about 2-3 minutes. Add vinegar, mix an adjust salt and pepper according to preference. Let it simmer for about 2 more minutes.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "735312cb-1718-5e59-8350-b15a77d28630",
+        "10983348-e445-5802-b597-161ad4cb4379",
+        "9cc5a33f-74cd-5e75-abef-ef53520a8e9d",
+        "9d005aba-6c16-554d-b114-6b03e6b7de8f",
+        "d2daa7ef-524c-5322-9828-37c3458970cd"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Discard bay leave, thyme spring and serve over fish with a side of this bammy. You may make the sauce about 2 days in advance.",
+      "ingredients_used": [
+        "735312cb-1718-5e59-8350-b15a77d28630"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.africanbites.com/jamaican-escovitched-fish/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

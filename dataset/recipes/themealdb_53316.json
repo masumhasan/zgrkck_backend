@@ -1,0 +1,257 @@
+{
+  "id": "090cca0a-6fb5-567b-a312-2c8b3b59db0c",
+  "version": "1.0.0",
+  "title": "Beetroot pancakes",
+  "slug": "beetroot-pancakes",
+  "summary": "Vibrant purple pancakes made with blended beetroot and served with a warm berry compote and Greek yogurt.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:23:25Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53316"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/xlqqhw1764369924.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/xlqqhw1764369924.jpg/small",
+      "alt_text": "Photo of Beetroot pancakes",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=HzQT0rHKCWM"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "e00f83fa-fc1f-5fa7-b77b-c52fa0a57fe1",
+        "slug": "ukrainian",
+        "name": "Ukrainian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "brunch",
+      "dessert"
+    ],
+    "courses": [
+      "main_course",
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 3,
+    "serving_unit": "servings",
+    "serving_size_description": "a stack of pancakes with compote and yogurt"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "609a482c-4c45-58c8-aaa6-e7ae189c8d4b",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "fb2920e5-da4a-5dc3-8beb-a4b7fcca90b1",
+          "ingredient_id": "5eb26a00-afde-5f0c-84ea-6db9840afa2c",
+          "name": "beetroot",
+          "display_text": "3 Beetroot",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "838d371e-45be-54fe-9453-8234bbda6469",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "50 ml Milk",
+          "quantity": 50.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "5f2775a8-0d89-5dbd-9295-49caaabecf7d",
+          "ingredient_id": "d923f6bd-1129-51bf-ba9e-32b3305fa65e",
+          "name": "self-raising flour",
+          "display_text": "200g Self-raising Flour",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "ba1f87ee-4f8b-525b-a18b-7e99d4031623",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 tsp Baking Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "e3f828bc-c90b-5b7e-a9b8-328f81fbe7dd",
+          "ingredient_id": "c37e28c9-8a86-5f21-b1cb-d186548f8e7c",
+          "name": "maple syrup",
+          "display_text": "2 tablespoons Maple Syrup",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "d8a7470f-955d-5046-a551-ad0181aae08f",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1/2 teaspoon Vanilla Extract",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "c65b0d59-40a3-5407-9277-49d2cf6d3a22",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "3 Egg",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "193f3cb0-632d-5154-9893-91c2a598a5b5",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "25g Butter",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "ee5f789f-03b5-5075-815a-23760a70f4e3",
+          "ingredient_id": "57565c51-a0f1-5594-80dc-afefd4b97177",
+          "name": "frozen mixed berries",
+          "display_text": "200g Frozen Mixed Berries",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "frozen_foods"
+        },
+        {
+          "id": "993b8fb7-07bd-5ba6-bfd1-0aef9b711962",
+          "ingredient_id": "60c14956-a0f6-5630-8c01-dd5d5587ed63",
+          "name": "blackcurrant jam",
+          "display_text": "2 tablespoons Blackcurrant Jam",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "4228e02e-c88b-54c8-8c9b-2ec612cfd58b",
+          "ingredient_id": "ba22b73d-e619-5bc7-a859-f65b683613fe",
+          "name": "greek yogurt",
+          "display_text": "100g Greek Yogurt",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Put the beetroot in a jug with the milk and blend with a stick blender until smooth. Pour into a bowl with the rest of the pancake ingredients and whisk until smooth and vibrant purple.",
+      "ingredients_used": [
+        "fb2920e5-da4a-5dc3-8beb-a4b7fcca90b1",
+        "838d371e-45be-54fe-9453-8234bbda6469"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Put a small knob of butter in a large non-stick frying pan and heat over a medium-low heat until melted and foamy. Now create 3 or 4 pancakes each made from 2 tbsp of the batter. Cook for 2-3 mins then flip over and cook for a further minute until cooked through. Repeat with any remaining batter. Heat oven to lowest setting and keep the pancakes warm in there until needed.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "193f3cb0-632d-5154-9893-91c2a598a5b5"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Serve with your favorite pancake toppings or make a simple compote by simmering frozen berries in with 1 tbsp blackcurrant jam until bubbling and syrupy (about 5-10 mins). In a small bowl stir together the remaining jam and the yogurt. Stack the cooked pancakes with the yogurt and pour the warm berry compote over the top.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "e3f828bc-c90b-5b7e-a9b8-328f81fbe7dd",
+        "ee5f789f-03b5-5075-815a-23760a70f4e3",
+        "993b8fb7-07bd-5ba6-bfd1-0aef9b711962",
+        "4228e02e-c88b-54c8-8c9b-2ec612cfd58b"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/beetroot-pancakes"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "id": "328ca279-2ec8-53cb-917c-fe270945c913",
+  "version": "1.0.0",
+  "title": "Flamiche",
+  "slug": "flamiche",
+  "summary": "A traditional French savory tart featuring a shortcrust pastry filled with sautéed leeks and a creamy egg and crème fraîche custard.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:47:59Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52906"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/wssvvs1511785879.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/wssvvs1511785879.jpg/small",
+      "alt_text": "Photo of Flamiche",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=vT0q5c880Rg"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "fe8f07a1-591f-5711-ae5b-f3c9afcc3e60",
+        "slug": "french",
+        "name": "French"
+      }
+    ],
+    "tags": [
+      "tart"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": [
+      "lunchbox",
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 72,
+    "rest_time_minutes": 30,
+    "total_time_minutes": 132
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 slice of tart"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "a211a4c2-a1bf-5421-ac63-6a334b0677a0",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "c98cc8d0-e79b-56ac-87f7-c4ed3bb99637",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "75g Butter",
+          "quantity": 75.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "19348baa-a8e6-5d04-8451-a5f698ee2fe9",
+          "ingredient_id": "ef5d99bc-384e-522a-8c0f-1c8501f6612c",
+          "name": "leek",
+          "display_text": "1kg Leek",
+          "quantity": 1.0,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "kilogram",
+          "category": "produce"
+        },
+        {
+          "id": "ed21a81d-e83d-54d0-ba2b-35015cba0921",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "½ tsp Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "73640b69-4666-5fc7-90a4-9d0d745ceeed",
+          "ingredient_id": "5a0201c7-6447-5098-baf7-57a2595f11ba",
+          "name": "creme fraiche",
+          "display_text": "300ml Creme Fraiche",
+          "quantity": 300.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "df918476-4cbe-5d45-a879-89c82de9c38c",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "f66ad26c-c6ae-56ba-a8ac-06649d83da85",
+          "ingredient_id": "051a3118-01a4-5366-a922-19ecf618e2f9",
+          "name": "egg yolks",
+          "display_text": "3 Egg Yolks",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "48f7c629-4a83-5bc2-9463-5acf339989bb",
+          "ingredient_id": "9426e9cd-e7b2-540e-8ddb-187c01748931",
+          "name": "nutmeg",
+          "display_text": "¼ teaspoon Nutmeg",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3174dca6-48f9-5dbc-8d36-23fa1263c54e",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "225g Plain Flour",
+          "quantity": 225.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 225.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "cd757744-8fac-5a72-ae8e-a297e7837dcb",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "½ tsp Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "93ef8327-2a3f-555b-b9ef-403d4bf6beba",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "60g Butter",
+          "quantity": 60.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "aa06ab79-57e6-52d3-850f-b9997ffe88be",
+          "ingredient_id": "52a9e69e-4aca-513e-aee5-b38b82db2847",
+          "name": "lard",
+          "display_text": "60g Lard",
+          "quantity": 60.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "gram",
+          "category": "oils_fats"
+        },
+        {
+          "id": "ffbb6460-92e7-5b07-9d0f-9dbba1fbb7f1",
+          "ingredient_id": "fe9682db-38d4-56f5-81fb-f846056c2505",
+          "name": "cheddar cheese",
+          "display_text": "50g Cheddar Cheese",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "f70d0429-71bb-5612-bd4a-228dde3e4972",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "2 tbs Water",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "For the pastry, sift the flour and salt into the bowl of a food processor, add the butter and lard, then whizz together briefly until the mixture looks like fine breadcrumbs. Tip the mixture into a bowl, then stir in the cheese and enough of the water for the mixture to come together. Tip out onto a lightly floured surface and knead briefly until smooth. Roll out thinly and line a 23cm x 4cm loose-?bottomed fluted flan tin. Prick the base with a fork. Chill for 20 minutes.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "c98cc8d0-e79b-56ac-87f7-c4ed3bb99637",
+        "ed21a81d-e83d-54d0-ba2b-35015cba0921",
+        "cd757744-8fac-5a72-ae8e-a297e7837dcb",
+        "93ef8327-2a3f-555b-b9ef-403d4bf6beba",
+        "aa06ab79-57e6-52d3-850f-b9997ffe88be",
+        "f70d0429-71bb-5612-bd4a-228dde3e4972"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "02.Melt the 75g butter in a saucepan over a low heat, then add the leeks and the salt. Cover and cook for ?10 minutes until soft. Uncover the pan, increase the heat and cook ?for 2 minutes, stirring occasionally, until the liquid has evaporated. Spoon onto a plate and leave to cool.",
+      "ingredients_used": [
+        "c98cc8d0-e79b-56ac-87f7-c4ed3bb99637",
+        "19348baa-a8e6-5d04-8451-a5f698ee2fe9",
+        "ed21a81d-e83d-54d0-ba2b-35015cba0921",
+        "cd757744-8fac-5a72-ae8e-a297e7837dcb",
+        "93ef8327-2a3f-555b-b9ef-403d4bf6beba"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "03.Preheat the oven to 200°C/fan180°C/gas 6. Line the pastry case with baking paper and baking beans or rice and blind bake for 15-20 minutes until the edges are biscuit-colored. Remove the paper and beans/rice and return the case to the oven for 7-10 minutes until the base is crisp and lightly golden. Remove and set aside. Reduce the oven temperature to 190°C/fan170°C/gas 5.",
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 4,
+      "instruction": "04.Put the crème fraîche into a bowl with the whole egg, egg yolks and nutmeg. Lightly beat together, then season. Stir in the leeks. Spoon ?the mixture into the tart case and bake for 35-40 minutes until set ?and lightly golden. Remove from ?the oven and leave for 10 minutes. Take out of the tin and serve.",
+      "ingredients_used": [
+        "19348baa-a8e6-5d04-8451-a5f698ee2fe9",
+        "df918476-4cbe-5d45-a879-89c82de9c38c",
+        "f66ad26c-c6ae-56ba-a8ac-06649d83da85",
+        "48f7c629-4a83-5bc2-9463-5acf339989bb"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://www.deliciousmagazine.co.uk/recipes/flamiche-flemish-leek-tart/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

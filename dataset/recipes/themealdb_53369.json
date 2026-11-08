@@ -1,0 +1,195 @@
+{
+  "id": "a9f9ed57-eafa-505c-a8d4-7099e3fc0857",
+  "version": "1.0.0",
+  "title": "Silken Tofu with Sesame Soy Sauce",
+  "slug": "silken-tofu-with-sesame-soy-sauce",
+  "summary": "A simple Chinese dish featuring soft silken tofu drizzled with a savory sauce made from soy sauce and Chinese sesame sauce, garnished with scallions and sesame seeds.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:28:17Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53369"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/j9nray1765657692.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/j9nray1765657692.jpg/small",
+      "alt_text": "Photo of Silken Tofu with Sesame Soy Sauce",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/shorts/bSLv5vFn5Z0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6813a95e-62cf-55e7-9d4b-6f19ee1d7391",
+        "slug": "chinese",
+        "name": "Chinese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner",
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "appetizer",
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 10
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1/2 block of tofu with sauce"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "sesame"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "fish",
+      "shellfish",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "e62dc862-e124-57ac-8124-d0945de8bf07",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "7fbbbcdb-21e6-5610-ab80-9556d56b1d85",
+          "ingredient_id": "bb013768-784a-5019-9f18-e2375ff9a832",
+          "name": "silken tofu",
+          "display_text": "16 ounces Silken Tofu",
+          "quantity": 16.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "51db2ba3-67c4-523c-a2ed-ccc262640328",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "3  tablespoons Soy Sauce",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "8040149b-f9c8-5d2d-8079-9fdbaeb9b70f",
+          "ingredient_id": "abfaec22-782a-5891-9702-da7cd877a759",
+          "name": "chinese sesame sauce",
+          "display_text": "2 tablespoons Chinese Sesame Sauce",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "0eb0acdc-0ae6-5a73-bcb3-d2afd64892cd",
+          "ingredient_id": "24cbab0a-29d3-5e28-b361-77f90e93af9c",
+          "name": "scallions",
+          "display_text": "1 sliced Scallions",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4775ae84-2306-5af3-ad03-834979a452e8",
+          "ingredient_id": "d5403c00-b586-53a5-a77f-fac320f14278",
+          "name": "sesame seed",
+          "display_text": "2 tsp Sesame Seed",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Prepare the tofu:",
+      "ingredients_used": [
+        "7fbbbcdb-21e6-5610-ab80-9556d56b1d85"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Drain the tofu and gently remove it from its packaging onto a large plate. Carefully slice the tofu into 1/2-inch slabs widthwise. With the palm of your hands, gently push the sliced tofu sidewise so that they fan out over the plate.",
+      "ingredients_used": [
+        "7fbbbcdb-21e6-5610-ab80-9556d56b1d85"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Garnish with toppings and serve:"
+    },
+    {
+      "step_number": 4,
+      "instruction": "Drizzle the soy sauce and sesame sauce on top. Then garnish it with scallions and sesame seeds, and serve.",
+      "ingredients_used": [
+        "51db2ba3-67c4-523c-a2ed-ccc262640328",
+        "0eb0acdc-0ae6-5a73-bcb3-d2afd64892cd",
+        "4775ae84-2306-5af3-ad03-834979a452e8"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Tightly cover leftovers and refrigerate for up to 2 days. You can enjoy it cold straight out of the fridge or you can reheat it by microwaving in 30-second increments until warmed through"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.simplyrecipes.com/silken-tofu-with-sesame-soy-sauce-recipe-6979877"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

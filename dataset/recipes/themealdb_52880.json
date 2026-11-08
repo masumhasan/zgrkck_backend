@@ -1,0 +1,362 @@
+{
+  "id": "da7d4007-686d-50a6-b3d9-74a523ea4137",
+  "version": "1.0.0",
+  "title": "McSinghs Scotch pie",
+  "slug": "mcsinghs-scotch-pie",
+  "summary": "A traditional British savory pie filled with spiced minced lamb and encased in a hot water crust pastry.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:45:44Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52880"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/vssrtx1511557680.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/vssrtx1511557680.jpg/small",
+      "alt_text": "Photo of McSinghs Scotch pie",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=1nArqhRyszw"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "pie"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 105,
+    "rest_time_minutes": 120,
+    "total_time_minutes": 255
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 slice of pie"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "1daaf982-7514-59d6-9ada-5bed0b8c072d",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "ff656463-961f-59b2-b4b1-e846d033b2c8",
+          "ingredient_id": "be79b3bd-bc90-5d15-aab2-4f95774b8de1",
+          "name": "cumin",
+          "display_text": "2 tsp Cumin",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3a8e5719-6cf5-5f6d-a373-7b0031986aeb",
+          "ingredient_id": "bf553a6e-4d85-50e4-a27c-bb7d90ec509c",
+          "name": "rapeseed oil",
+          "display_text": "1 tbs Rapeseed Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "3b62986d-9e1f-5868-b07f-39fb2190c6d3",
+          "ingredient_id": "716f7639-3b59-56a7-9146-1819649ebdad",
+          "name": "red onions",
+          "display_text": "2 finely chopped Red Onions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "92d0e87d-4480-5bc1-890f-436ab5b6f874",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "6 Garlic Clove",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d634bf3b-3fb5-5565-8ccf-49da9e02d156",
+          "ingredient_id": "091f7fa6-975c-516e-a354-2a31e6503580",
+          "name": "green chilli",
+          "display_text": "3 finely chopped Green Chilli",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0e244107-121a-510e-a36a-b9e4041a0e31",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1 finely chopped Red Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "54978651-3994-5fc1-b9af-cfc9ac804a85",
+          "ingredient_id": "9426e9cd-e7b2-540e-8ddb-187c01748931",
+          "name": "nutmeg",
+          "display_text": "1 tsp Nutmeg",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "ec903907-c36f-550f-b656-a59585992b8a",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "2 tsp Coriander",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "5ba108fe-17b4-5454-a610-9e560200aa8e",
+          "ingredient_id": "4d40d67a-57b5-5c91-91d3-62eba5bf1b7e",
+          "name": "lamb mince",
+          "display_text": "1kg Lamb Mince",
+          "quantity": 1.0,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "kilogram",
+          "category": "meat"
+        },
+        {
+          "id": "33fb613c-4d1a-5193-990f-41604eb5ffd2",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "1 tsp Pepper",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "b68892a4-ce8b-569d-8af7-b116882e8703",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "3 tbs Coriander",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "6d538da5-f7a8-5275-8fe5-1b30c5c33605",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "340g Plain Flour",
+          "quantity": 340.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 340.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "e6d40202-0a6c-5181-ad6a-642e3b12fbb4",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "½ tsp Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "7fef8ee7-b434-5c06-bdb0-3854d30bdd28",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "90 ml Milk",
+          "quantity": 90.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 90.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "86de380f-0187-52e1-acaf-d270a0084bb0",
+          "ingredient_id": "52a9e69e-4aca-513e-aee5-b38b82db2847",
+          "name": "lard",
+          "display_text": "150g Lard",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "oils_fats"
+        },
+        {
+          "id": "f84fa547-1ffc-54f3-8800-8bda4cd805a4",
+          "ingredient_id": "051a3118-01a4-5366-a922-19ecf618e2f9",
+          "name": "egg yolks",
+          "display_text": "Beaten Egg Yolks",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "beaten",
+          "is_optional": false,
+          "category": "eggs"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat a large frying pan and toast the cumin seeds for a few minutes, then set aside. Heat the oil in the same pan and fry the onion, garlic, chilli, pepper and a good pinch of salt for around eight minutes, until there is no moisture left. Remove from the heat, stir in the toasted cumin seeds, ground mace (or nutmeg) and ground coriander. Leave to cool.",
+      "ingredients_used": [
+        "ff656463-961f-59b2-b4b1-e846d033b2c8",
+        "d634bf3b-3fb5-5565-8ccf-49da9e02d156",
+        "54978651-3994-5fc1-b9af-cfc9ac804a85",
+        "ec903907-c36f-550f-b656-a59585992b8a",
+        "33fb613c-4d1a-5193-990f-41604eb5ffd2",
+        "b68892a4-ce8b-569d-8af7-b116882e8703",
+        "e6d40202-0a6c-5181-ad6a-642e3b12fbb4"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a large bowl mix together the minced lamb, white pepper, fresh coriander, and the cooled spiced onion mixture until combined. Set aside, covered, in the fridge.",
+      "ingredients_used": [
+        "ec903907-c36f-550f-b656-a59585992b8a",
+        "5ba108fe-17b4-5454-a610-9e560200aa8e",
+        "33fb613c-4d1a-5193-990f-41604eb5ffd2",
+        "b68892a4-ce8b-569d-8af7-b116882e8703"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Preheat the oven to 200C/400F/Gas 6 and generously grease a 20cm/8in diameter loose-bottomed or springform round cake tin with lard.",
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "86de380f-0187-52e1-acaf-d270a0084bb0"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "To make the pastry, sift the flour and salt in a large bowl and make a well in the center.",
+      "ingredients_used": [
+        "e6d40202-0a6c-5181-ad6a-642e3b12fbb4"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Put the milk, lard and 90ml/3fl oz of water in a saucepan and heat gently. When the lard has melted, increase the heat and bring to the boil.",
+      "ingredients_used": [
+        "7fef8ee7-b434-5c06-bdb0-3854d30bdd28",
+        "86de380f-0187-52e1-acaf-d270a0084bb0"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Pour the boiling liquid into the flour, and use a wooden spoon to combine until cool enough to handle. Bring together into a ball."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Dust a work surface with flour and, working quickly, knead the dough briefly – it will be soft and moist. Set aside a third of the pastry and roll the rest out on a well-floured surface. Line the pie dish with the pastry, pressing it right up the sides until it pokes just over the top of the tin."
+    },
+    {
+      "step_number": 8,
+      "instruction": "Add the filling into the pastry-lined tin bit by bit. As you reach the top, form a slight peak. Roll out the reserved pastry and top the pie with it. Pinch the edges to seal and trim the excess. Poke a hole in the top of the pie and insert a small tube made from aluminum foil to allow steam to escape."
+    },
+    {
+      "step_number": 9,
+      "instruction": "Brush the top of the pie with a little beaten egg yolk, and bake in the preheated oven for 30 minutes (put a tray on the shelf below to catch any drips). Then reduce the temperature to 160C/325F/Gas 3 and cook for a further 1¼ hours until golden-brown. Leave to cool completely before refrigerating for two hours, or overnight.",
+      "timer_seconds": 1800,
+      "temperature": {
+        "value": 160,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 10,
+      "instruction": "Run a knife around the edge of the pie, remove from the tin and serve with chutneys, salads or pickles."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbc.co.uk/food/recipes/mcsinghs_scotch_pie_98356"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

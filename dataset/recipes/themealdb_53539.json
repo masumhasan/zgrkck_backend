@@ -1,0 +1,232 @@
+{
+  "id": "a84b709e-e03d-58c2-a8ca-6790b4038be5",
+  "version": "1.0.0",
+  "title": "Picadillo de Vainicas (Green Beans Picadillo)",
+  "slug": "picadillo-de-vainicas-green-beans-picadillo",
+  "summary": "A Costa Rican beef and green bean dish sautéed with aromatics like onion, pepper, and garlic.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:43:09Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53539"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/2ncui81784396094.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/2ncui81784396094.jpg/small",
+      "alt_text": "Photo of Picadillo de Vainicas (Green Beans Picadillo)",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c34e726c-a17e-5cad-a035-3eaf9df4125f",
+        "slug": "costa-rican",
+        "name": "Costa Rican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 portion of beef and green beans"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "165d0aa5-1ec4-5ade-a023-883e794ec547",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "da22eb84-ea5f-5130-a719-d5d7f80c3697",
+          "ingredient_id": "76e924de-1ab6-5ae5-94fc-70f3fd268a7d",
+          "name": "green beans",
+          "display_text": "1 lb Green Beans",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "4197f857-292c-5a3b-8883-d741d9543459",
+          "ingredient_id": "c165dd25-df27-5c96-bf7a-cbf626393022",
+          "name": "flank steak",
+          "display_text": "2 cups Flank Steak",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "meat"
+        },
+        {
+          "id": "bd2a3668-d4b7-549c-a559-9eb552c90c52",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1/2 cup Onion",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "0ec2e553-09f3-5406-b225-06c85b2da4cf",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "1/2 cup Pepper",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "b247c432-e467-5c08-a488-6ff7ab82c67b",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 cloves Garlic",
+          "quantity": 3.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "55fca9db-e7c6-50a4-8591-0c8165c154f3",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "1 tsp Thyme",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "15174c38-ed53-51aa-a5b7-8e211b5823cd",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "aeca29e0-5770-56d4-9059-eb7f51c15477",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1/2 tsp Black Pepper",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "ae4328db-ecc0-5cd1-a705-7d8381f05e99",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1/2 cup Water",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "In a medium-size pot over medium heat add some olive oil, onions, pepper, and garlic and cook until onion is translucent.",
+      "ingredients_used": [
+        "bd2a3668-d4b7-549c-a559-9eb552c90c52",
+        "0ec2e553-09f3-5406-b225-06c85b2da4cf",
+        "b247c432-e467-5c08-a488-6ff7ab82c67b"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "In the meantime, finely chopped the green beans.",
+      "ingredients_used": [
+        "da22eb84-ea5f-5130-a719-d5d7f80c3697"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add to the pot, the shredded meat, green beans, thyme, salt and pepper, and mix well. Add the water, cover and cook for 15 minutes, uncover and cook for 5 more minutes or until the green beans are soft.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "da22eb84-ea5f-5130-a719-d5d7f80c3697",
+        "0ec2e553-09f3-5406-b225-06c85b2da4cf",
+        "55fca9db-e7c6-50a4-8591-0c8165c154f3",
+        "15174c38-ed53-51aa-a5b7-8e211b5823cd",
+        "ae4328db-ecc0-5cd1-a705-7d8381f05e99"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.recipesfromcostarica.com/recipes"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

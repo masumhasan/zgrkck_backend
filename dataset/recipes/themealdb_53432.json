@@ -1,0 +1,308 @@
+{
+  "id": "ebb381b7-3b54-5e10-a6cb-413a5c9a2caf",
+  "version": "1.0.0",
+  "title": "Slow-cooked, Wadadli-spiced Cubano pork belly",
+  "slug": "slow-cooked-wadadli-spiced-cubano-pork-belly",
+  "summary": "A slow-roasted pork belly marinated in a citrus and herb blend inspired by Wadadli spices. The dish features tender meat and crispy crackling shards.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:33:39Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53432"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/t1hg8s1780087329.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/t1hg8s1780087329.jpg/small",
+      "alt_text": "Photo of Slow-cooked, Wadadli-spiced Cubano pork belly",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "0bb9bace-6857-5a6c-b1de-8d3f3764a960",
+        "slug": "antiguan",
+        "name": "Antiguan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 335,
+    "marinating_time_minutes": 720,
+    "total_time_minutes": 1075
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of pork belly with crackling"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "1a741235-bdd0-599d-8cce-b13e456cdb17",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "5b980c84-5d46-5022-81e8-56ae614c92c8",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "175ml Olive Oil",
+          "quantity": 175.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 175.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "4c96d41b-30ff-50f9-b4e8-4e7ee579d394",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "4 tablespoons Coriander",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1385a9fd-3ca5-55cc-bbd0-e4d9cbb68cd8",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "4 tablespoons Parsley",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "c3a54184-9b73-53eb-a81c-15a2cba133b4",
+          "ingredient_id": "035f27db-b6ac-512c-a6e4-48e289cafefe",
+          "name": "oregano",
+          "display_text": "6 tablespoons Oregano",
+          "quantity": 6.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 90.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "2c4b477b-392d-58de-be07-ae84a9d4aef3",
+          "ingredient_id": "0e838047-684d-55cb-884e-e7872e0e96c4",
+          "name": "mint",
+          "display_text": "6 tablespoons Mint",
+          "quantity": 6.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 90.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "6fe262b8-99b4-5207-83e7-5a7bbe846920",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "2 Red Chilli",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4e60a82e-9e2d-5ec9-8f8c-96af867da64f",
+          "ingredient_id": "091f7fa6-975c-516e-a354-2a31e6503580",
+          "name": "green chilli",
+          "display_text": "1 Green Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "cc3a2070-f69b-5dd4-904f-651d674a6776",
+          "ingredient_id": "4f3b3c33-6392-5e5a-ac51-d269b68aa6e4",
+          "name": "orange",
+          "display_text": "Zest and juice of 2 Orange",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "zest and juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d7ce2f59-6b6a-5127-80fc-9713aea692e0",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "Zest and juice of 2 Lime",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "zest and juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4523d1de-4a38-5a3c-9f52-eaebc5f2c2ff",
+          "ingredient_id": "352a1518-1320-51a5-bf15-d023f184d5b2",
+          "name": "grapefruit",
+          "display_text": "Juice of 1 Grapefruit",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c732c1bc-aa85-5cc6-adb0-7f18ffead7dc",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "40g Garlic",
+          "quantity": 40.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 40.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "b2e09819-d861-55bd-9363-7d219e4b2fe3",
+          "ingredient_id": "efa5be6a-3bc3-55ca-812f-22dd145ba53d",
+          "name": "ground cumin",
+          "display_text": "3 tsp Ground Cumin",
+          "quantity": 3.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "69de6c8a-ff4c-5e9c-904b-be63d2e057ba",
+          "ingredient_id": "3c1f3ec3-71e9-5cc4-ad1e-cc142a823fa4",
+          "name": "ground allspice",
+          "display_text": "2 tablespoons Ground Allspice",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "dae8bb6c-9e25-5c9c-9db2-ec79c485b390",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "5a1f8ce4-30a4-57c5-85cf-0f112b4dbaeb",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "To taste Black Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Blitz all the marinade ingredients in a food processor or with a hand blender. Lay the pork in a large dish, pour over the marinade, then turn the meat in the mixture, rubbing in the marinade all over and making sure every bit of the belly is coated. Cover the dish and leave overnight in the fridge."
+    },
+    {
+      "step_number": 2,
+      "instruction": "The next day, heat the oven to 140C (120C fan)/275F/gas 1. Lift the meat out of its marinade (don’t wipe off any that sticks to the joint, though; just leave most of the marinade behind in the dish) and transfer to a large roasting dish. Cover with foil, slip into the oven and roast for four and a half hours – every now and then (say, three or four times over the whole cooking period), take the dish out of the oven, lift off the foil lid and spoon the juices from the bottom of the dish over the meat. Return the foil lid, then put back in the oven.",
+      "temperature": {
+        "value": 140,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 3,
+      "instruction": "After the time is up, remove the foil, turn up the heat to 180C (160C fan)/350F/gas 4 and give the pork a final blast – after 15-20 minutes, the top will take on a lovely color and the meat should be yielding and soft enough to cut with a spoon.",
+      "timer_seconds": 1200,
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 4,
+      "instruction": "To make crackling shards to serve with the meat, heat the oven to 200C (180C fan)/390F/gas 6 and line a roasting tray with baking paper. Lightly score the skin from the pork belly with a sharp knife, then rub it with a three or four fat pinches of salt – I also like to add a few caraway, cumin or fennel seeds at this point (use anything that takes your fancy). Cut the skin into long strips and lay these fat side down on the lined tray (you can, of course, leave it whole, but I think its pleasing to dress the plate with long, golden shards of crackling). Lay a second sheet of baking paper on top of the skin, then put a second baking tray of the same size on top, and roast for 45 minutes to an hour (if by this point the crackling has not gone crisp, just put it back in the oven and carry on roasting it until it has).",
+      "timer_seconds": 2700,
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "b2e09819-d861-55bd-9363-7d219e4b2fe3",
+        "dae8bb6c-9e25-5c9c-9db2-ec79c485b390"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Cut or pull the pork apart, top with finely chopped coriander and flat-leaf parsley and shards of crackling, if you have made them, and serve at once",
+      "ingredients_used": [
+        "4c96d41b-30ff-50f9-b4e8-4e7ee579d394",
+        "1385a9fd-3ca5-55cc-bbd0-e4d9cbb68cd8"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.theguardian.com/food/2020/jul/04/andi-oliver-antiguan-feast-recipes-slow-cooked-pork-belly-corn-chilli-lime-mango-chow-spiced-bread-butter-pudding"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

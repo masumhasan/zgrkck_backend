@@ -1,0 +1,260 @@
+{
+  "id": "210f1654-f5a4-542b-8fe4-5f8d4bfcb12e",
+  "version": "1.0.0",
+  "title": "Beetroot latkes",
+  "slug": "beetroot-latkes",
+  "summary": "Beetroot latkes are Ukrainian-style savory pancakes made with grated beetroot and spices, served alongside a fresh rocket and cherry tomato salad with mint yogurt.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:23:09Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53313"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/qwicc91764368097.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/qwicc91764368097.jpg/small",
+      "alt_text": "Photo of Beetroot latkes",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=pRLuLYQnPiM"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "e00f83fa-fc1f-5fa7-b77b-c52fa0a57fe1",
+        "slug": "ukrainian",
+        "name": "Ukrainian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 35
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "3 latkes with salad and yogurt"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "3bce832a-ef62-59e3-ba56-bc5ddf708671",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "88cb4664-b906-5ca1-86e0-67ae8f0cc21e",
+          "ingredient_id": "bf553a6e-4d85-50e4-a27c-bb7d90ec509c",
+          "name": "rapeseed oil",
+          "display_text": "1 tablespoon Rapeseed Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "dcb9b913-2d9c-5677-8c44-3524d91f494d",
+          "ingredient_id": "ba22b73d-e619-5bc7-a859-f65b683613fe",
+          "name": "greek yogurt",
+          "display_text": "4 tablespoons Greek Yogurt",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "fef23691-5c7f-520f-acfa-226676e44072",
+          "ingredient_id": "0e838047-684d-55cb-884e-e7872e0e96c4",
+          "name": "mint",
+          "display_text": "1/2 bag Mint",
+          "quantity": 0.5,
+          "unit": "bag",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "cbae0997-94eb-5a86-9af4-9272f9e8bfc7",
+          "ingredient_id": "af2f1a8f-e30f-53b3-838a-093f52d0cd04",
+          "name": "rocket",
+          "display_text": "150g Rocket",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "b394e88a-8590-59e4-8355-ce5c928982ce",
+          "ingredient_id": "041e90f7-87c0-5883-b651-a9f26dce39b7",
+          "name": "cherry tomatoes",
+          "display_text": "130g Cherry Tomatoes",
+          "quantity": 130.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 130.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "0ed7a5a3-4f68-5901-9c52-71584d040e9f",
+          "ingredient_id": "5eb26a00-afde-5f0c-84ea-6db9840afa2c",
+          "name": "beetroot",
+          "display_text": "400g Beetroot",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "bfb99f7f-1fda-50e9-85cc-d49e3e8b5b1b",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 beaten Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "beaten",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "bd0bdf9f-7df6-5621-a63f-2640cbce26cd",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "1 tablespoon Plain Flour",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "80e94152-209f-59d6-afad-3c46600386de",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove finely chopped Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e4b2c178-6c14-5976-9808-d82ada6db48b",
+          "ingredient_id": "110599c9-bd03-5bad-84c6-a2e20655dd5b",
+          "name": "caraway seed",
+          "display_text": "1 tsp Caraway Seed",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "f8eb4cec-1669-50aa-96d9-720cea15a1e6",
+          "ingredient_id": "efa5be6a-3bc3-55ca-812f-22dd145ba53d",
+          "name": "ground cumin",
+          "display_text": "1/2 teaspoon Ground Cumin",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "dccd99cb-a41f-5d02-bc89-a59b1647f974",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "Zest of 1 Lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "zest",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oven to 180C/160C fan/gas 4. Make the latkes by combining all of the ingredients.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat the oil in a large non-stick pan. Spoon in the mixture to make six round latkes. Fry for 4-5 mins on each side, then transfer to a baking sheet and bake for 10 mins."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Combine the yogurt and mint in a small bowl. Toss the salad leaves and tomatoes together, then serve the latkes with the mint yogurt and salad.",
+      "ingredients_used": [
+        "dcb9b913-2d9c-5677-8c44-3524d91f494d",
+        "fef23691-5c7f-520f-acfa-226676e44072",
+        "b394e88a-8590-59e4-8355-ce5c928982ce"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/beetroot-latkes"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

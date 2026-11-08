@@ -1,0 +1,248 @@
+{
+  "id": "29a098d9-647e-5bf0-b237-b8688a018375",
+  "version": "1.0.0",
+  "title": "Tahini Lentils",
+  "slug": "tahini-lentils",
+  "summary": "A Moroccan-inspired dish featuring lentils sautéed with vegetables and finished with a creamy lemon-tahini dressing.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:44:43Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52869"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/vpxyqt1511464175.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/vpxyqt1511464175.jpg/small",
+      "alt_text": "Photo of Tahini Lentils",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=8kRlmz8pW0I"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "118c0c07-e5c2-5a71-ac2b-49c1d77823aa",
+        "slug": "moroccan",
+        "name": "Moroccan"
+      }
+    ],
+    "tags": [
+      "pulse"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 20
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "a bowl of lentils and vegetables"
+  },
+  "allergens": {
+    "contains": [
+      "sesame"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "7bec9867-260f-5008-a9d3-6f4d6ee027ad",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "23ae616e-e7fb-5d19-b570-0e07b8010999",
+          "ingredient_id": "dcf3c30f-4681-5154-b137-649120940259",
+          "name": "tahini",
+          "display_text": "50g Tahini",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "condiments"
+        },
+        {
+          "id": "2c6a3c8d-64ce-53e4-9b7c-f31d8483f200",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "zest and juice of 1 Lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "zest and juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "48f1d8e9-e43d-5fc5-b44b-31e4e9f0b2f3",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tblsp Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "86395d12-a84f-5cd0-92d4-fdbe6bca4c84",
+          "ingredient_id": "716f7639-3b59-56a7-9146-1819649ebdad",
+          "name": "red onions",
+          "display_text": "1 chopped Red Onions",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "5dad4e10-6af8-5f5f-befc-3a486981a9a8",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove peeled crushed Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "preparation": "peeled crushed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2dd94567-7383-5dd3-a863-2577efb979c2",
+          "ingredient_id": "ca16fa3e-7db9-5c18-acf7-0540f4e86a4d",
+          "name": "yellow pepper",
+          "display_text": "1 thinly sliced Yellow Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "thinly sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "52056333-17c1-5722-839e-35a565231281",
+          "ingredient_id": "76e924de-1ab6-5ae5-94fc-70f3fd268a7d",
+          "name": "green beans",
+          "display_text": "200g Green Beans",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "2bfafcf3-8c30-5bb9-a61c-9a98f43fd5f7",
+          "ingredient_id": "868972c7-da7a-5cf2-864d-fe1f7aada74b",
+          "name": "courgettes",
+          "display_text": "1 sliced Courgettes",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ab2f9c24-face-5fb1-873a-f39a356fdd19",
+          "ingredient_id": "ea2b5188-1104-5240-b077-b8eaf2c3aed9",
+          "name": "kale",
+          "display_text": "100g shredded Kale",
+          "quantity": 100.0,
+          "unit": "gram",
+          "preparation": "shredded",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "372a7f7b-e93f-5457-b395-8070a1cfc559",
+          "ingredient_id": "2a5e22bd-f74d-56d3-8c07-5b7495ee1f1e",
+          "name": "lentils",
+          "display_text": "250g pack Lentils",
+          "quantity": 250.0,
+          "unit": "gram",
+          "preparation": "pack",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "In a jug, mix the tahini with the zest and juice of the lemon and 50ml of cold water to make a runny dressing. Season to taste, then set aside.",
+      "ingredients_used": [
+        "23ae616e-e7fb-5d19-b570-0e07b8010999",
+        "2c6a3c8d-64ce-53e4-9b7c-f31d8483f200"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat the oil in a wok or large frying pan over a medium-high heat. Add the red onion, along with a pinch of salt, and fry for 2 mins until starting to soften and color. Add the garlic, pepper, green beans and courgette and fry for 5 min, stirring frequently.",
+      "ingredients_used": [
+        "5dad4e10-6af8-5f5f-befc-3a486981a9a8",
+        "52056333-17c1-5722-839e-35a565231281"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Tip in the kale, lentils and the tahini dressing. Keep the pan on the heat for a couple of mins, stirring everything together until the kale is wilted and it’s all coated in the creamy dressing.",
+      "ingredients_used": [
+        "23ae616e-e7fb-5d19-b570-0e07b8010999",
+        "ab2f9c24-face-5fb1-873a-f39a356fdd19",
+        "372a7f7b-e93f-5457-b395-8070a1cfc559"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/veggie-tahini-lentils"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

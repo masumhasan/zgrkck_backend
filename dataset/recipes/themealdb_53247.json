@@ -1,0 +1,226 @@
+{
+  "id": "e16bebe6-0ae8-513b-b88d-55e5e748bdf2",
+  "version": "1.0.0",
+  "title": "Sea bass with sizzled ginger, chilli & spring onions",
+  "slug": "sea-bass-with-sizzled-ginger-chilli-spring-onions",
+  "summary": "Pan-fried sea bass fillets topped with a fragrant infusion of ginger, garlic, red chilli, and spring onions.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:17:15Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53247"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/tqd7s21763780609.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/tqd7s21763780609.jpg/small",
+      "alt_text": "Photo of Sea bass with sizzled ginger, chilli & spring onions",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=xzDYKZl50FQ"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "60481cf3-a7b7-5be4-a0dc-6b872c887e64",
+        "slug": "vietnamese",
+        "name": "Vietnamese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1 sea bass fillet with aromatics"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "0bb28cdb-465e-593b-8920-700f49316fb3",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "8005dd80-b9e9-5877-af6a-28e10c484d2c",
+          "ingredient_id": "2fa80451-5ae9-5f76-b7f6-ea2f259afaf0",
+          "name": "sea bass fillets",
+          "display_text": "6 Sea Bass Fillets",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "fish"
+        },
+        {
+          "id": "79eab4c5-9646-5bd6-a33d-37ce5e3c6b25",
+          "ingredient_id": "aa561384-0d26-5008-a25e-3ba9db4b2a3f",
+          "name": "sunflower oil",
+          "display_text": "3  tablespoons Sunflower Oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "75156aa6-00e2-5dbb-b687-a3b47444c0e3",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "Knob Ginger",
+          "quantity": 1,
+          "unit": "knob",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3048cbc0-e557-5223-8df1-5e3f1944de43",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "3 sliced thinly Garlic Clove",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "sliced thinly",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "01227ed8-8c02-596c-8498-c39721b5b387",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "3 Large Red Chilli",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d0a549d2-aee1-594d-8806-9b55924adc88",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "Bunch Spring Onions",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "bunch",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "65f1cad9-f869-5b6a-a608-dea8e616683a",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "1 tablespoon Soy Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Season 6 sea bass fillets with salt and pepper, then slash the skin 3 times.",
+      "ingredients_used": [
+        "8005dd80-b9e9-5877-af6a-28e10c484d2c"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat a heavy-based frying pan and add 1 tbsp sunflower oil.",
+      "ingredients_used": [
+        "79eab4c5-9646-5bd6-a33d-37ce5e3c6b25"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Once hot, fry the sea bass fillets, skin-side down, for 5 mins or until the skin is very crisp and golden. The fish will be almost cooked through.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "8005dd80-b9e9-5877-af6a-28e10c484d2c"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Turn over, cook for another 30 seconds - 1 minute, then transfer to a serving plate and keep warm. You’ll need to fry the sea bass fillets in 2 batches.",
+      "ingredients_used": [
+        "8005dd80-b9e9-5877-af6a-28e10c484d2c"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Heat 2 tbsp sunflower oil, then fry the large knob of peeled ginger, cut into matchsticks, 3 thinly sliced garlic cloves and 3 thinly shredded red chillies for about 2 mins until golden.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "79eab4c5-9646-5bd6-a33d-37ce5e3c6b25",
+        "75156aa6-00e2-5dbb-b687-a3b47444c0e3",
+        "3048cbc0-e557-5223-8df1-5e3f1944de43",
+        "01227ed8-8c02-596c-8498-c39721b5b387"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Take off the heat and toss in the bunch of shredded spring onions. Splash the fish with 1 tbsp soy sauce and spoon over the contents of the pan.",
+      "ingredients_used": [
+        "d0a549d2-aee1-594d-8806-9b55924adc88",
+        "65f1cad9-f869-5b6a-a608-dea8e616683a"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/sea-bass-sizzled-ginger-chilli-spring-onions"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

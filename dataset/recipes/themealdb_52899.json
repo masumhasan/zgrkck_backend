@@ -1,0 +1,344 @@
+{
+  "id": "d744d092-7e3c-5ab2-afd9-63fa258240bf",
+  "version": "1.0.0",
+  "title": "Dundee cake",
+  "slug": "dundee-cake",
+  "summary": "A traditional Scottish fruit cake made with almonds, dried fruit, and orange zest, often topped with whole almonds.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:47:23Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52899"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/wxyvqq1511723401.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/wxyvqq1511723401.jpg/small",
+      "alt_text": "Photo of Dundee cake",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=4hEXsfpeMQE"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "fruity",
+      "heavy",
+      "nutty"
+    ],
+    "meal_types": [
+      "dessert",
+      "snack"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 135,
+    "rest_time_minutes": 2880,
+    "total_time_minutes": 3035
+  },
+  "yield": {
+    "servings": 10,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 slice of cake"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "tree_nuts",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery"
+    ],
+    "may_contain": [
+      "sulfites"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "6952e87d-4d1c-5304-8df1-8dfd05c76109",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "e8ce8c0d-0510-55b3-b479-1a0527b3f84a",
+          "ingredient_id": "1f65be5f-ad9d-5713-aca2-600f7b2a1ee8",
+          "name": "almonds",
+          "display_text": "100g Almonds",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "eb0b7f86-7296-5404-b624-231e4f8ee729",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "180g Butter",
+          "quantity": 180.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 180.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "89f99f19-9e53-5c5b-988e-85cd71e256e5",
+          "ingredient_id": "74d4f663-2935-561e-b6ec-45f204542152",
+          "name": "muscovado sugar",
+          "display_text": "180g Muscovado Sugar",
+          "quantity": 180.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 180.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "1685dc22-5582-5321-819f-3b76f4d9dff0",
+          "ingredient_id": "4f3b3c33-6392-5e5a-ac51-d269b68aa6e4",
+          "name": "orange",
+          "display_text": "Zest of 1 Orange",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "zest",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "07f5e70d-2d98-5a02-92fa-a4b6d0fbfeca",
+          "ingredient_id": "2783de4c-4a94-5a73-95c3-347b2b1ad262",
+          "name": "apricot jam",
+          "display_text": "3 tbs Apricot Jam",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "56e4b143-8cca-56e2-b28a-646fcfead33f",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "225g Plain Flour",
+          "quantity": 225.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 225.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "1ba31dff-cdbb-56f6-8ddf-818da5c631e8",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 tsp Baking Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "bb14303b-59cc-55c0-beab-7ff6ad895993",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "3 Large Eggs",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "1d1c2a97-e3e6-58e0-b961-ef5e17ab30f4",
+          "ingredient_id": "41e42808-3e57-5cd0-b774-00a901be35d9",
+          "name": "ground almonds",
+          "display_text": "100g Ground Almonds",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "c5dd01af-17a9-58e1-881a-8989877d75a1",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "2 tbs Milk",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "9257ce01-2a4a-5e6a-8248-ff5f5d95a1c4",
+          "ingredient_id": "33970a63-f64a-5f70-88ea-3a468c975ae6",
+          "name": "dried fruit",
+          "display_text": "500g Dried Fruit",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "44a7f3fe-bc88-5f89-b1d7-e9593233f090",
+          "ingredient_id": "5835a707-c0e5-5bb2-9255-bcbb79dd3416",
+          "name": "glace cherry",
+          "display_text": "100g Glace Cherry",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "a9c479c4-0b45-5a2f-9fb5-efccaf192628",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "1 tbs Milk",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "b9a15e9c-34d1-5690-8175-a8dfa545450b",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "2 tsp Caster Sugar",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Put the almonds into a small bowl and pour over boiling water to just cover. Leave for 5 mins then drain in a sieve and leave to dry.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "e8ce8c0d-0510-55b3-b479-1a0527b3f84a",
+        "1d1c2a97-e3e6-58e0-b961-ef5e17ab30f4"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Preheat the oven to 180C/160 C fan/Gas Mark 4. Line a deep loose-based 20cm cake tin with baking parchment.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 3,
+      "instruction": "Put the butter in a large bowl and beat well until soft. Add the sugar and beat until light and fluffy. Stir in the orange zest and apricot jam.",
+      "ingredients_used": [
+        "eb0b7f86-7296-5404-b624-231e4f8ee729",
+        "1685dc22-5582-5321-819f-3b76f4d9dff0",
+        "07f5e70d-2d98-5a02-92fa-a4b6d0fbfeca"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Sieve together the flour and baking powder. Add the eggs to the creamed butter and sugar, a little at a time, beating well between each addition. If the mixture starts to curdle, stir in a little flour.",
+      "ingredients_used": [
+        "eb0b7f86-7296-5404-b624-231e4f8ee729",
+        "1ba31dff-cdbb-56f6-8ddf-818da5c631e8",
+        "bb14303b-59cc-55c0-beab-7ff6ad895993"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Add the remaining flour and ground almonds and mix well. Mix in the milk and then add the dried fruit and cherries and mix gently together.",
+      "ingredients_used": [
+        "e8ce8c0d-0510-55b3-b479-1a0527b3f84a",
+        "1d1c2a97-e3e6-58e0-b961-ef5e17ab30f4",
+        "c5dd01af-17a9-58e1-881a-8989877d75a1",
+        "9257ce01-2a4a-5e6a-8248-ff5f5d95a1c4",
+        "a9c479c4-0b45-5a2f-9fb5-efccaf192628"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Spoon the mixture into the prepared tin and spread level using the back of a spoon. Arrange the whole almonds close together in neat circles on the top of the cake. Bake in the oven for 45 mins.",
+      "timer_seconds": 2700,
+      "ingredients_used": [
+        "e8ce8c0d-0510-55b3-b479-1a0527b3f84a",
+        "1d1c2a97-e3e6-58e0-b961-ef5e17ab30f4"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Lower the oven temperature to 160C/140 C fan/Gas Mark 3 and cook for a further 60–80 minutes. Check the cake after 50 minutes by inserting a wooden or metal skewer into the cake. When it’s done it should have just a few crumbs attached. Check every 10 minutes - it’s important not to overcook this cake so the center will be a little soft.",
+      "temperature": {
+        "value": 160,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 8,
+      "instruction": "When cooked, remove the cake briefly from the oven, put the milk and sugar into a small pan and heat gently until the sugar has dissolved. Brush over the top of the cake and return the cake to the oven for 2-3 mins. Remove and allow the cake to cool in the tin. When quite cold remove from the tin and wrap in foil and keep for at least 2 days before cutting.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "c5dd01af-17a9-58e1-881a-8989877d75a1",
+        "a9c479c4-0b45-5a2f-9fb5-efccaf192628"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/2155640/dundee-cake"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

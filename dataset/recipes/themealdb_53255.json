@@ -1,0 +1,274 @@
+{
+  "id": "61d2f11c-6942-559c-9e4a-5f42054abadc",
+  "version": "1.0.0",
+  "title": "Grilled aubergines with spicy chickpeas & walnut sauce",
+  "slug": "grilled-aubergines-with-spicy-chickpeas-walnut-sauce",
+  "summary": "Grilled aubergine slices served with a spiced chickpea and tomato mixture, topped with a creamy walnut and yogurt sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:18:03Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53255"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ctw3ba1763788978.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ctw3ba1763788978.jpg/small",
+      "alt_text": "Photo of Grilled aubergines with spicy chickpeas & walnut sauce",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4c480df7-c067-5e9c-ac08-d8d49afa7f51",
+        "slug": "turkish",
+        "name": "Turkish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 aubergine with chickpea mix and sauce"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "tree_nuts"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "c9cb0483-5ea2-5bde-9866-77bcf994d670",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "331ad7b7-446d-5c73-9560-c376753ce6e2",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "4 tablespoons Olive Oil",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "6f072670-67a6-551e-b293-9b3e15796745",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "47e0683a-179a-51f9-84e3-237a2379d104",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "1 chopped Red Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "85b07967-c715-58b4-8189-7a314b23d92d",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "2cm piece Ginger",
+          "quantity": 2.0,
+          "unit": "centimeter",
+          "preparation": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3b89dd4a-d739-5122-9ae1-855c3dbd0dad",
+          "ingredient_id": "efa5be6a-3bc3-55ca-812f-22dd145ba53d",
+          "name": "ground cumin",
+          "display_text": "1/2 teaspoon Ground Cumin",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "46e00346-eef5-5f10-be73-c353ab57f752",
+          "ingredient_id": "ae979dd7-6a1e-5882-9ed5-e0b09554efd0",
+          "name": "chickpeas",
+          "display_text": "400g Chickpeas",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "504db10c-0ee3-5f2f-9b15-88d3db0e0f36",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "200g Tomato",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "0b4a1817-5067-5e47-aa77-f3dc9a9e4145",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "Juice of 1/2 Lemon",
+          "quantity": 0.5,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "fd1cd5a2-be64-54c0-aa1a-41bcb8265261",
+          "ingredient_id": "0c13526c-c9d0-5c10-bc72-13ae3bf32c7e",
+          "name": "aubergine",
+          "display_text": "2 Aubergine",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "da555bfa-50a1-5e41-9d6f-ce9bbdd8d7f6",
+          "ingredient_id": "ba22b73d-e619-5bc7-a859-f65b683613fe",
+          "name": "greek yogurt",
+          "display_text": "200g Greek Yogurt",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "05d2e16f-32ff-559f-9bf0-377741ceabf5",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "1 Garlic Clove",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e935134c-7de1-50df-bc61-538377479e00",
+          "ingredient_id": "0ad40f09-76c2-5007-b9ca-38f3ecd4a51d",
+          "name": "walnuts",
+          "display_text": "25g Walnuts",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "78db766b-33bd-5087-8ffd-7402acf87fb5",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "Handful Coriander",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat 2 tbsp oil in a pan, add the onion and fry until soft and lightly browned, about 10 mins. Add the chilli, ginger and spices and mix well. Stir in the chickpeas, tomatoes and 5 tbsp water, bring to the boil, then simmer for 10 mins. Add a little salt and pepper and the lemon juice.",
+      "ingredients_used": [
+        "6f072670-67a6-551e-b293-9b3e15796745",
+        "47e0683a-179a-51f9-84e3-237a2379d104",
+        "85b07967-c715-58b4-8189-7a314b23d92d",
+        "46e00346-eef5-5f10-be73-c353ab57f752",
+        "504db10c-0ee3-5f2f-9b15-88d3db0e0f36",
+        "0b4a1817-5067-5e47-aa77-f3dc9a9e4145"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Arrange the aubergines over a grill pan. Brush lightly with oil, sprinkle with salt and pepper, then grill until golden. Flip them over, brush again with oil, season and grill again until tender and golden.",
+      "ingredients_used": [
+        "fd1cd5a2-be64-54c0-aa1a-41bcb8265261"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Mix the yogurt with the garlic, most of the walnuts and coriander and a little salt and pepper. Arrange the aubergine slices over a warm platter and spoon over the chickpea mix. Drizzle with the walnut sauce and scatter with the remaining walnuts and coriander.",
+      "ingredients_used": [
+        "fd1cd5a2-be64-54c0-aa1a-41bcb8265261",
+        "da555bfa-50a1-5e41-9d6f-ce9bbdd8d7f6",
+        "e935134c-7de1-50df-bc61-538377479e00",
+        "78db766b-33bd-5087-8ffd-7402acf87fb5"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/grilled-aubergines-spicy-chickpeas-walnut-sauce"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

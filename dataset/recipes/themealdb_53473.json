@@ -1,0 +1,211 @@
+{
+  "id": "958b7a4f-3c12-5488-b815-9c760bde9121",
+  "version": "1.0.0",
+  "title": "Curried Spinach from Botswana",
+  "slug": "curried-spinach-from-botswana",
+  "summary": "A traditional Botswanan side dish consisting of spinach sautéed with onions, tomatoes, and curry powder.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:37:13Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53473"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/lyr07q1782505714.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/lyr07q1782505714.jpg/small",
+      "alt_text": "Photo of Curried Spinach from Botswana",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "7eccd33d-bce1-55b8-8196-232aa305f7a3",
+        "slug": "botswanan",
+        "name": "Botswanan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 17,
+    "total_time_minutes": 27
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of spinach"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "458fbc6b-de4f-56ac-ab00-1efae0abdb4e",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "dea153cc-3309-5d1c-851d-9ff8eabdcc59",
+          "ingredient_id": "d0dd13fa-8c7a-5af9-9e1d-3d7bfc0f68e8",
+          "name": "spinach",
+          "display_text": "1  bunch Spinach",
+          "quantity": 1.0,
+          "unit": "bunch",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d01c847c-0454-5542-af6b-06774295885d",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "2 medium Tomato",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "79a7ab66-d846-577d-ba58-b731dc978d7c",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 small Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0ca108b4-b343-57b2-b05b-c9c17f043d52",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "2 tablespoons Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "0d74f9cc-1a9a-5ff0-aa16-2ba2230b2230",
+          "ingredient_id": "bf1eedb9-f5db-509c-818c-63ceb74086c5",
+          "name": "curry powder",
+          "display_text": "2 tsp Curry Powder",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "29f5b468-77a7-5b75-8034-d0927713bc28",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "6e54b114-64eb-5c2e-a73e-8725552778e2",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1/4 cup Water",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oil in a skillet over medium heat. When hot, add the diced onion and cook until lightly browned.",
+      "ingredients_used": [
+        "79a7ab66-d846-577d-ba58-b731dc978d7c",
+        "0ca108b4-b343-57b2-b05b-c9c17f043d52"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the curry powder and salt to taste and toast for a few seconds.",
+      "ingredients_used": [
+        "0d74f9cc-1a9a-5ff0-aa16-2ba2230b2230",
+        "29f5b468-77a7-5b75-8034-d0927713bc28"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the chopped tomatoes and the water, stir well, and cook until the tomatoes begin to break down, 5-7 minutes.",
+      "timer_seconds": 420,
+      "ingredients_used": [
+        "d01c847c-0454-5542-af6b-06774295885d",
+        "6e54b114-64eb-5c2e-a73e-8725552778e2"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add in the chopped (or baby) spinach and cook for 7-10 minutes more, until soft and wilted.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "dea153cc-3309-5d1c-851d-9ff8eabdcc59"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://kosherworldkitchen.com/morogo-curried-spinach/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

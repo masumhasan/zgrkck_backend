@@ -1,0 +1,179 @@
+{
+  "id": "4fd9130c-fcd5-54c9-b49a-90c6f87c3a6f",
+  "version": "1.0.0",
+  "title": "Ajo blanco",
+  "slug": "ajo-blanco",
+  "summary": "A traditional Spanish cold soup made from soaked bread, almonds, garlic, and vinegar.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:30:41Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53169"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/5jdtie1763289302.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/5jdtie1763289302.jpg/small",
+      "alt_text": "Photo of Ajo blanco",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=AS2mSRtWyW0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "starter"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 0,
+    "marinating_time_minutes": 10,
+    "rest_time_minutes": 60,
+    "total_time_minutes": 80
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of soup"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "tree_nuts",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "3c7be665-735a-5901-b575-8704c201b160",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "353af0a0-178e-5cf1-8017-911943f4c8e4",
+          "ingredient_id": "dd52d544-ec72-518a-a775-8a5e2586420d",
+          "name": "white bread",
+          "display_text": "150g White bread",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "fa81fceb-47a7-58c1-8db9-703ebeba14b8",
+          "ingredient_id": "1f65be5f-ad9d-5713-aca2-600f7b2a1ee8",
+          "name": "almonds",
+          "display_text": "200g Almonds",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "3e7bb766-5cb4-50da-bb24-d775ee1863cc",
+          "ingredient_id": "96cc0c2b-795a-53be-a503-05d14e92b236",
+          "name": "extra virgin olive oil",
+          "display_text": "50 ml Extra Virgin Olive Oil",
+          "quantity": 50.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "9322f41a-9b54-5884-9be9-7654d8d5b874",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "1 Garlic Clove",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "5bd82b04-13dc-5c2c-a2dd-8b323227df47",
+          "ingredient_id": "38df984b-29a1-5431-8935-d850dfe8f8f7",
+          "name": "red wine vinegar",
+          "display_text": "1 ½ tbsp Red Wine Vinegar",
+          "quantity": 1.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 22.5,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Tip the bread into a bowl and pour over 350ml water. Leave to soak for 10 mins.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "353af0a0-178e-5cf1-8017-911943f4c8e4"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Blend the ingredients together with 350ml water and 1 tsp salt."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Let the soup cool in the fridge for 1 hr or so, then serve with a drizzle of oil and some black pepper.",
+      "timer_seconds": 3600
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/ajo-blanco"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

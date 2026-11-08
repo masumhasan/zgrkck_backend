@@ -1,0 +1,207 @@
+{
+  "id": "daaa64ee-014e-5558-bc4d-c375ea858a04",
+  "version": "1.0.0",
+  "title": "Chicken Lollipop",
+  "slug": "chicken-lollipop",
+  "summary": "Chicken lollipops are chicken wings prepared by cutting the meat to one end of the bone, seasoned with spices, and fried until golden or baked with sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:45:34Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53565"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/nz0lg71784671684.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/nz0lg71784671684.jpg/small",
+      "alt_text": "Photo of Chicken Lollipop",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4da88d96-f05f-5f73-a14b-c5e37ee2541e",
+        "slug": "dominican",
+        "name": "Dominican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "appetizer",
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 35
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "several chicken lollipops"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery",
+      "sulfites"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "a058ce5a-acad-5bca-88ca-68f327ee93a7",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "b6b29f4e-38d1-5d8c-9058-ccb003adc158",
+          "ingredient_id": "d75e5426-d3ce-5e38-8e5b-8d62128506e7",
+          "name": "chicken wings",
+          "display_text": "2 Lbs Chicken Wings",
+          "quantity": 2.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 907.2,
+          "metric_unit": "gram",
+          "category": "poultry"
+        },
+        {
+          "id": "15ebd6eb-bd47-59be-8d35-66356b266cd6",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1 tablespoon Black Pepper",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "496d2cc8-8bbc-56ff-b807-039013ceb9c2",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1 tablespoon Paprika",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "7e648067-1eb5-5426-be8b-e32f01f8400a",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 tablespoon Garlic",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "b5676dc6-2d25-5468-9a86-aad3561415d5",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tablespoon Salt",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "62bb6409-2951-59f2-866a-c6514f2729dc",
+          "ingredient_id": "4bdb1684-cdb6-5a8f-b220-c622cf2655cc",
+          "name": "cornstarch",
+          "display_text": "4 tablespoons Cornstarch",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Wash chicken with lemon"
+    },
+    {
+      "step_number": 2,
+      "instruction": "Drain and season chicken"
+    },
+    {
+      "step_number": 3,
+      "instruction": "Using shears, cut through the meat at the tip of the drumettes"
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add all seasoning ingredients to the drumettes"
+    },
+    {
+      "step_number": 5,
+      "instruction": "Pour oil into a deep fryer, or saucepan to the level of about 5 inches so that the chicken will be submerged"
+    },
+    {
+      "step_number": 6,
+      "instruction": "Fry until medium brown, add your favorite sauce (I used honey garlic barbecue sauce) to place in the oven",
+      "ingredients_used": [
+        "7e648067-1eb5-5426-be8b-e32f01f8400a"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Or fry until golden brown if you're not putting it in the oven"
+    },
+    {
+      "step_number": 8,
+      "instruction": "Using a silicon brush add sauce to chicken and place in the oven"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://dominicagourmet.com/chicken-lollipop-recipe/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

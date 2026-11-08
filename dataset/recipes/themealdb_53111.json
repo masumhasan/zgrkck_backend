@@ -1,0 +1,216 @@
+{
+  "id": "1ba9ae0a-85cb-51f3-8135-4b073bbc62bf",
+  "version": "1.0.0",
+  "title": "Anzac biscuits",
+  "slug": "anzac-biscuits",
+  "summary": "Anzac biscuits are a traditional Australian biscuit made with oats, coconut, and golden syrup, known for their chewy texture and golden color.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:05:13Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53111"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/q47rkb1762324620.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/q47rkb1762324620.jpg/small",
+      "alt_text": "Photo of Anzac biscuits",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=1nAVbfQVWRQ"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6442c74c-e246-57a7-870b-9366b38050a8",
+        "slug": "australian",
+        "name": "Australian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "rest_time_minutes": 10,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "bowls",
+    "serving_size_description": "2-3 biscuits"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "9c5839cf-db2d-5d1c-a232-c3b91d7d361d",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "b1eaf652-26ee-5dab-a4de-b3442ce40fbc",
+          "ingredient_id": "cbeec356-ab78-5b5e-a0dd-c86d135d743c",
+          "name": "porridge oats",
+          "display_text": "85g Porridge oats",
+          "quantity": 85.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 85.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "ef8e5b6b-b7fd-528a-bf82-a342f7cb2efe",
+          "ingredient_id": "4fa73e5a-853a-5513-bfa8-edb5e7f03cce",
+          "name": "desiccated coconut",
+          "display_text": "85g Desiccated Coconut",
+          "quantity": 85.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 85.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "189f3e87-300c-506b-b52b-ad9183804656",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "100g Plain Flour",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "8bbc4157-1944-51df-9591-e16af1787199",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "100g Caster Sugar",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "dbc68c70-2a42-5640-92ef-70cd6ad6fa82",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "100g Butter",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "0c2d61ef-a993-57d3-9a93-536462e84a1c",
+          "ingredient_id": "c41764f1-4930-56cd-9515-4a677dd7e880",
+          "name": "golden syrup",
+          "display_text": "1 tblsp Golden Syrup",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "1f034b0d-b19d-5abc-808f-27b72355b075",
+          "ingredient_id": "5b3aa746-938c-5e92-be83-6710a36a51db",
+          "name": "bicarbonate of soda",
+          "display_text": "1 teaspoon Bicarbonate Of Soda",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 180C/fan 160C/gas 4. Put the oats, coconut, flour and sugar in a bowl. Melt the butter in a small pan and stir in the golden syrup. Add the bicarbonate of soda to 2 tbsp boiling water, then stir into the golden syrup and butter mixture.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "b1eaf652-26ee-5dab-a4de-b3442ce40fbc",
+        "ef8e5b6b-b7fd-528a-bf82-a342f7cb2efe",
+        "dbc68c70-2a42-5640-92ef-70cd6ad6fa82",
+        "0c2d61ef-a993-57d3-9a93-536462e84a1c",
+        "1f034b0d-b19d-5abc-808f-27b72355b075"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Make a well in the middle of the dry ingredients and pour in the butter and golden syrup mixture. Stir gently to incorporate the dry ingredients.",
+      "ingredients_used": [
+        "dbc68c70-2a42-5640-92ef-70cd6ad6fa82",
+        "0c2d61ef-a993-57d3-9a93-536462e84a1c"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Put dessertspoonfuls of the mixture on to buttered baking sheets, about 2.5cm/1in apart to allow room for spreading. Bake in batches for 8-10 mins until golden. Transfer to a wire rack to cool.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "dbc68c70-2a42-5640-92ef-70cd6ad6fa82"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/anzac-biscuits"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

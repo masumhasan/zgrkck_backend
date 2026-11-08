@@ -1,0 +1,157 @@
+{
+  "id": "ad1588c7-bb13-56e9-86e8-c49e6becabb1",
+  "version": "1.0.0",
+  "title": "Biss Jaggery Modak",
+  "slug": "biss-jaggery-modak",
+  "summary": "A traditional Indian sweet made by combining grated coconut with jaggery and shaping them into modak dumplings.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:46:48Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53580"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/gl92ih1789802951.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/gl92ih1789802951.jpg/small",
+      "alt_text": "Photo of Biss Jaggery Modak",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b2b4e1bc-3c1e-50ce-abf4-9015553e6a16",
+        "slug": "indian",
+        "name": "Indian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 10
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "pieces",
+    "serving_size_description": "3 modaks"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery",
+      "sulfites"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "1a04dda0-a2c5-51c9-9757-aedebf830b53",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "8d8305a2-84cb-5db8-8556-2ef1650b3cfa",
+          "ingredient_id": "6a6ab8f8-b3d8-54dd-b93f-d2466538e2f8",
+          "name": "coconut flakes",
+          "display_text": "2 cups Coconut Flakes",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "1f475b2b-bffe-59ee-b0ab-54fba51f4a39",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "1 cups Brown Sugar",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "700fbbfa-caa7-5a72-b4ad-57c3ebe5a41b",
+          "ingredient_id": "33970a63-f64a-5f70-88ea-3a468c975ae6",
+          "name": "dried fruit",
+          "display_text": "Dried Fruit",
+          "quantity": 0,
+          "unit": "as_needed",
+          "is_optional": false,
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Jaggery Modak"
+    },
+    {
+      "step_number": 2,
+      "instruction": "Take the grated coconut in a bowl."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add jaggery to the grated coconut."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Mix the coconut and jaggery thoroughly until they are evenly combined."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Take small portions of the mixture and shape them into modaks using your hands or a modak mold."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Repeat until all the mixture has been used."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Serve the freshly prepared jaggery coconut modaks."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

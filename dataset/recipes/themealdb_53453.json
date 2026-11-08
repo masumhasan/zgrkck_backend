@@ -1,0 +1,259 @@
+{
+  "id": "05912f22-44d5-5232-a955-70d79f76f951",
+  "version": "1.0.0",
+  "title": "Bengali Chicken Curry with Potatoes",
+  "slug": "bengali-chicken-curry-with-potatoes",
+  "summary": "A traditional Bangladeshi chicken curry featuring chicken breast and red potatoes simmered in a spiced tomato and onion base.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:35:33Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53453"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/9ya6o71780262651.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/9ya6o71780262651.jpg/small",
+      "alt_text": "Photo of Bengali Chicken Curry with Potatoes",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "3fa2a93a-81b0-51e9-8da2-f5fc1192c36e",
+        "slug": "bangladeshi",
+        "name": "Bangladeshi"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 50,
+    "total_time_minutes": 65
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 chicken breast with potatoes"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "a3570a7e-1fc9-5557-8b03-3db409bc5cc4",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "694dbeaf-3120-5376-82ac-03a94d939239",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tablespoons Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "e49cbfe2-a9de-5875-b5c3-537e1bf96217",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "2 diced Onion",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "77c30b85-79b7-5fb7-9590-297cd5d3bec8",
+          "ingredient_id": "0c0ed4ee-e866-54fc-a5ac-ed0d2cf94046",
+          "name": "ginger garlic paste",
+          "display_text": "1 tablespoon Ginger Garlic Paste",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "2c079fbf-60df-56f4-8f65-d9d93a80f6d6",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "2 diced Tomato",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "88210917-c0c5-5053-80b6-780e5b2a983b",
+          "ingredient_id": "97dd86b9-4ad7-5a3a-bc6c-86485409c325",
+          "name": "cayenne pepper",
+          "display_text": "1 tsp Cayenne Pepper",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "98f9b407-65b9-5e8d-87e4-0c33d7bdb908",
+          "ingredient_id": "bf1eedb9-f5db-509c-818c-63ceb74086c5",
+          "name": "curry powder",
+          "display_text": "1 tsp Curry Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "9a212ddd-204b-565d-8391-b5be22b69096",
+          "ingredient_id": "b3528dc3-f7f7-5d65-9903-d906fc4c30f0",
+          "name": "garam masala",
+          "display_text": "1 tsp Garam Masala",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "6b580f8e-2ab4-5e57-aea5-d60b8f7e3154",
+          "ingredient_id": "c2860364-0695-56cf-a2d1-331855605613",
+          "name": "ground turmeric",
+          "display_text": "1 tsp Ground Turmeric",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3d5f7e32-f502-5faf-8667-21f68d6e9388",
+          "ingredient_id": "efa5be6a-3bc3-55ca-812f-22dd145ba53d",
+          "name": "ground cumin",
+          "display_text": "1 tsp Ground Cumin",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1b16499f-d228-5aec-ac97-259f6819a8f6",
+          "ingredient_id": "e23191a1-4966-5b21-a6f1-8df6f50b79db",
+          "name": "chicken breast",
+          "display_text": "4 Chicken Breast",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "18b7974c-f9f0-5741-a694-199b5f8e698a",
+          "ingredient_id": "53c324cb-8a7f-5123-9cea-2f1d60144900",
+          "name": "red potatoes",
+          "display_text": "2 large Red Potatoes",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b720c965-6ba1-5ff9-a452-40a1239989b4",
+          "ingredient_id": "1655ccbe-97a7-59b3-9245-ebc95a0ed6d0",
+          "name": "cilantro",
+          "display_text": "1/2 cup Cilantro",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the olive oil in a large skillet over medium-high heat. Cook and stir the onions in the hot oil until translucent, about 5 minutes. Add the ginger-garlic paste and continue cooking another 5 minutes. Reduce heat to medium; stir the tomatoes into the mixture and cook until the tomatoes are pulpy, 5 to 10 minutes. Season with the cayenne pepper, curry powder, garam masala, turmeric, and cumin; cook and stir another 5 minutes.",
+      "ingredients_used": [
+        "694dbeaf-3120-5376-82ac-03a94d939239",
+        "e49cbfe2-a9de-5875-b5c3-537e1bf96217",
+        "2c079fbf-60df-56f4-8f65-d9d93a80f6d6",
+        "88210917-c0c5-5053-80b6-780e5b2a983b",
+        "98f9b407-65b9-5e8d-87e4-0c33d7bdb908",
+        "9a212ddd-204b-565d-8391-b5be22b69096",
+        "6b580f8e-2ab4-5e57-aea5-d60b8f7e3154",
+        "3d5f7e32-f502-5faf-8667-21f68d6e9388"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the chicken and potatoes to the mixture in the skillet; simmer, stirring occasionally, until the potatoes are tender and the chicken is no longer pink in the center, about 20 minutes. Sprinkle the cilantro over the mixture and continue simmering another 10 minutes. Serve hot.",
+      "ingredients_used": [
+        "18b7974c-f9f0-5741-a694-199b5f8e698a",
+        "b720c965-6ba1-5ff9-a452-40a1239989b4"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.allrecipes.com/recipe/215055/bengali-chicken-curry-with-potatoes/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

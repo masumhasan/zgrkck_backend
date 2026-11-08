@@ -1,0 +1,237 @@
+{
+  "id": "6ab73e76-97ca-5341-a48d-1d0f328accf1",
+  "version": "1.0.0",
+  "title": "Stir-fried chicken with chillies & basil",
+  "slug": "stir-fried-chicken-with-chillies-basil",
+  "summary": "A Thai-style stir-fry featuring chicken pieces cooked with garlic, shallots, chillies, and fresh basil leaves.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:13:13Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53201"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/el64dy1763483009.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/el64dy1763483009.jpg/small",
+      "alt_text": "Photo of Stir-fried chicken with chillies & basil",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=fF4GpyiZL8Q"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "724b7c6a-f254-57d4-9729-335a2b2d93b1",
+        "slug": "thai",
+        "name": "Thai"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 23,
+    "total_time_minutes": 33
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of chicken with basil"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "7a6b7ee7-69ee-5189-ba80-a34c2f057bb0",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "7ac63d56-786f-5e16-a438-6d8c62f35964",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "2 tablespoons Vegetable Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "0141fc1a-87ea-5a17-b9cb-99b1ad5e82cf",
+          "ingredient_id": "96643234-56e3-5df9-9877-487e63d7cb8b",
+          "name": "chicken",
+          "display_text": "450g Chicken",
+          "quantity": 450.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "gram",
+          "category": "poultry"
+        },
+        {
+          "id": "43dddffb-5675-558a-bbe3-1893f7c687f9",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 tblsp chopped Garlic",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "05f1f462-c198-5bc7-b2ff-e49ff7b654a9",
+          "ingredient_id": "d22accc4-e562-59bf-9cbb-1ad38d461e99",
+          "name": "shallots",
+          "display_text": "3 tblsp chopped Shallots",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "e99b1673-a400-5cf2-ae48-c9e56afbc4f3",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "3 Red Chilli",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "be4fca7e-6037-51ec-9a6a-ace5c81be225",
+          "ingredient_id": "de927c20-fdfa-5b98-8ee9-7840fa951a2f",
+          "name": "fish sauce",
+          "display_text": "2 tablespoons Fish Sauce",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "944daa2b-4d2d-565c-8926-27d97b44e272",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "2 tsp Soy Sauce",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "0525ad8e-3123-5073-9ecf-48d5c37db742",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "2 tsp Sugar",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "b634404c-d90f-5f67-99f8-fd12103d8b8e",
+          "ingredient_id": "a1783c57-4793-5f4c-b52e-1ed99ab34832",
+          "name": "basil leaves",
+          "display_text": "Handful Basil Leaves",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat a wok or large frying pan until it is very hot, then add 1 tbsp of the oil. When it is very hot, add the chicken and stir-fry over a high heat for 8-10 minutes, until browned all over. Using a slotted spoon, take the chicken from the pan and set aside.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "0141fc1a-87ea-5a17-b9cb-99b1ad5e82cf"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Reheat the wok and add the remaining oil. Toss in the garlic and shallots and stir fry for 3 minutes, until golden brown.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "43dddffb-5675-558a-bbe3-1893f7c687f9",
+        "05f1f462-c198-5bc7-b2ff-e49ff7b654a9"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Return the chicken to the wok and add the chillies, fish sauce, dark soy sauce and sugar. Stir fry over a high heat for a further 8-10 minutes or until the chicken is cooked through. Stir in the basil leaves and serve at once.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "0141fc1a-87ea-5a17-b9cb-99b1ad5e82cf",
+        "e99b1673-a400-5cf2-ae48-c9e56afbc4f3",
+        "be4fca7e-6037-51ec-9a6a-ace5c81be225",
+        "944daa2b-4d2d-565c-8926-27d97b44e272",
+        "0525ad8e-3123-5073-9ecf-48d5c37db742",
+        "b634404c-d90f-5f67-99f8-fd12103d8b8e"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/ken-homs-stir-fried-chicken-chillies-basil"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

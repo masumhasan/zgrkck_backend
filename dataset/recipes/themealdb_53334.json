@@ -1,0 +1,212 @@
+{
+  "id": "2acdaaf0-be0e-5296-9c9b-ba5a92e0a340",
+  "version": "1.0.0",
+  "title": "Arepa Pabellón",
+  "slug": "arepa-pabellon",
+  "summary": "A traditional Venezuelan dish consisting of corn arepas filled with shredded beef, black beans, fried ripe plantains, and tomato.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:25:03Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53334"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/13fg4j1764441982.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/13fg4j1764441982.jpg/small",
+      "alt_text": "Photo of Arepa Pabellón",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/shorts/Tb1PPOyqthA"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "7511fbbd-fbff-5fb1-ad48-c4a89d390e43",
+        "slug": "venezuelan",
+        "name": "Venezuelan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 50
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 stuffed arepa"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "2cb407a2-2038-583f-8c38-08453b71033f",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "730a5d73-a51d-59b6-b159-549f748823e4",
+          "ingredient_id": "ce02bb35-d446-5e97-92db-181178aea983",
+          "name": "corn arepa filled with mozarella cheese",
+          "display_text": "2 Corn Arepa Filled With Mozarella Cheese",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "f61c1911-c41e-5ab6-b96f-4aa021a01cf0",
+          "ingredient_id": "1b745e9e-706a-54f9-a631-527e644590d2",
+          "name": "fried ripe bananas",
+          "display_text": "1 Fried Ripe Bananas",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4429ea7b-383a-5166-a5c2-9e6ca1ac39ca",
+          "ingredient_id": "4958b57f-af77-572c-8240-fdfa5d5543c8",
+          "name": "black beans",
+          "display_text": "1 Can Black Beans",
+          "quantity": 1.0,
+          "unit": "can",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "20e30ced-8227-551a-bdac-4d6392a18394",
+          "ingredient_id": "9cb7e3c8-1584-596e-85a5-dcda03cca96c",
+          "name": "pico de gallo sauce",
+          "display_text": "1 Pico De Gallo Sauce",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "condiments"
+        },
+        {
+          "id": "a4e2a614-2d12-5256-b8b5-047d2de12e2d",
+          "ingredient_id": "05a96502-4dcf-514a-9bd1-7b7d17e42ee5",
+          "name": "shredded meat",
+          "display_text": "2kg Shredded Meat",
+          "quantity": 2.0,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 2.0,
+          "metric_unit": "kilogram",
+          "category": "meat"
+        },
+        {
+          "id": "0ecbe843-1ae7-5ef6-91a8-aefb41a123af",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "1 chopped Tomato",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2fe63842-dcf4-53af-8f0b-9bec3dd61719",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "71a18e9d-93f4-51eb-862c-3375a2956063",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "Pinch Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Prepare the meat in a skillet and add salt and pepper to taste, heat the beans over medium heat in a pan, fry or grill the ripe plantains as indicated on its package and cut the tomato into small cubes. Reserve these ingredients until filling.",
+      "ingredients_used": [
+        "4429ea7b-383a-5166-a5c2-9e6ca1ac39ca",
+        "a4e2a614-2d12-5256-b8b5-047d2de12e2d",
+        "0ecbe843-1ae7-5ef6-91a8-aefb41a123af",
+        "2fe63842-dcf4-53af-8f0b-9bec3dd61719",
+        "71a18e9d-93f4-51eb-862c-3375a2956063"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Preheat the grill or pan and grill the arepa, putting it once on each side until they are golden brown."
+    },
+    {
+      "step_number": 3,
+      "instruction": "With the help of a knife, open it by the edge through the middle, creating a space to fill it with the ripe plantain, the beans, meat and chopped tomato.",
+      "ingredients_used": [
+        "4429ea7b-383a-5166-a5c2-9e6ca1ac39ca",
+        "a4e2a614-2d12-5256-b8b5-047d2de12e2d",
+        "0ecbe843-1ae7-5ef6-91a8-aefb41a123af"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Serve with a little pico de gallo or guacamole dip sauce."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://goya.es/en/recipes/arepa-rellena-con-carne-frijol-y-madurito"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

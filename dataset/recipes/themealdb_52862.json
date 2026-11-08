@@ -1,0 +1,268 @@
+{
+  "id": "a26945f9-d258-55de-bfb6-6be896c7a6d6",
+  "version": "1.0.0",
+  "title": "Peach & Blueberry Grunt",
+  "slug": "peach-blueberry-grunt",
+  "summary": "A warm fruit dessert consisting of a thickened peach and blueberry sauce topped with spiced, rolled dough slices.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:44:06Z",
+  "updated_at": "2026-10-16T10:22:49Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52862"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ssxvup1511387476.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ssxvup1511387476.jpg/small",
+      "alt_text": "Photo of Peach & Blueberry Grunt",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=SNeO28BCpsc"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b95bb9d4-1e18-5623-a50f-942c7d140e82",
+        "slug": "american",
+        "name": "American"
+      }
+    ],
+    "tags": [
+      "desert",
+      "fruity",
+      "pudding"
+    ],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 50
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 slice of dough with fruit sauce"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "71024194-ae4a-57fb-b561-6bc6c87d1c4d",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "0e56c270-8541-5559-9619-606734c41db7",
+          "ingredient_id": "94f73465-e9e4-5ae0-8787-ee86687dbeb4",
+          "name": "corn flour",
+          "display_text": "1 tsp Corn Flour",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "cb3f1634-20ea-5371-965f-7367cc170fb2",
+          "ingredient_id": "4f3b3c33-6392-5e5a-ac51-d269b68aa6e4",
+          "name": "orange",
+          "display_text": "Juice of 2 Orange",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1d7b0064-2823-59b5-bf94-44c38bfa5592",
+          "ingredient_id": "4f3b3c33-6392-5e5a-ac51-d269b68aa6e4",
+          "name": "orange",
+          "display_text": "Zest of 1 Orange",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "zest",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c434cd71-a8fc-5e7d-a6a9-e7d6dfaeaead",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "2 tbs Caster Sugar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "480666ee-9465-533d-b65e-6fa88bb09f99",
+          "ingredient_id": "b7557faf-e7c0-5630-860c-49b1bbdbfbb1",
+          "name": "peaches",
+          "display_text": "6 Peaches",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "266e0332-6acd-531d-8edc-832b25e65a52",
+          "ingredient_id": "d0a77ae1-6fff-5626-bbd9-7f5cbe49bfa4",
+          "name": "blueberries",
+          "display_text": "250g Blueberries",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "43cbfbbc-b891-5535-96b0-23133181741a",
+          "ingredient_id": "d923f6bd-1129-51bf-ba9e-32b3305fa65e",
+          "name": "self-raising flour",
+          "display_text": "200g Self-raising Flour",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "48f498f0-576a-5192-bcf8-470a16443fa1",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "50g Butter",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "57e6be0c-068e-59b3-83fc-8a4d83f094b0",
+          "ingredient_id": "74d4f663-2935-561e-b6ec-45f204542152",
+          "name": "muscovado sugar",
+          "display_text": "100g Muscovado Sugar",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "51a3b134-8a02-52ca-82d9-7093d833d1c8",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "1 tsp Cinnamon",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "58e3586d-d2be-5935-a720-54faee550c12",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "6 tblsp Milk",
+          "quantity": 6.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 90.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 190C/170C fan/gas 5. Butter a wide shallow ovenproof dish. Blend the cornflour with the orange zest and juice, and put in a large pan with the sugar. Halve, stone and slice the peaches and add to the pan. Bring slowly to the boil, stirring gently until the sauce is shiny and thickened, about 3-4 mins. Remove from the heat, stir in the blueberries and tip into the prepared dish.",
+      "timer_seconds": 240,
+      "temperature": {
+        "value": 190,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "cb3f1634-20ea-5371-965f-7367cc170fb2",
+        "1d7b0064-2823-59b5-bf94-44c38bfa5592",
+        "480666ee-9465-533d-b65e-6fa88bb09f99",
+        "266e0332-6acd-531d-8edc-832b25e65a52",
+        "48f498f0-576a-5192-bcf8-470a16443fa1"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Tip the flour into a mixing bowl and add the 50g butter. Rub the butter into the flour until it resembles fine breadcrumbs, then stir in half the sugar. Mix the remaining sugar with the cinnamon and set aside.",
+      "ingredients_used": [
+        "48f498f0-576a-5192-bcf8-470a16443fa1",
+        "51a3b134-8a02-52ca-82d9-7093d833d1c8"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the milk to the dry ingredients and mix to a soft dough. Turn out onto a lightly floured surface and knead briefly. Roll out to an oblong roughly 16 x 24cm. Brush with melted butter and sprinkle evenly with the spicy sugar. Roll up from one long side and cut into 12 slices. Arrange around the top of the dish, leaving the center uncovered.",
+      "ingredients_used": [
+        "48f498f0-576a-5192-bcf8-470a16443fa1",
+        "58e3586d-d2be-5935-a720-54faee550c12"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Bake for 20-25 mins, until the topping is crisp and golden. Serve warm.",
+      "timer_seconds": 1500
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/1553651/peach-and-blueberry-grunt"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

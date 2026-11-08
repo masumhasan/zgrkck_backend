@@ -1,0 +1,338 @@
+{
+  "id": "9f04e764-ba31-54a8-b95d-d41e540602eb",
+  "version": "1.0.0",
+  "title": "Sticky Toffee Pudding Ultimate",
+  "slug": "sticky-toffee-pudding-ultimate",
+  "summary": "A classic British dessert consisting of a moist sponge cake made with chopped dates, served with a rich, dark toffee sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:38:15Z",
+  "updated_at": "2026-10-16T10:22:44Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52793"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/xrptpq1483909204.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/xrptpq1483909204.jpg/small",
+      "alt_text": "Photo of Sticky Toffee Pudding Ultimate",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=hKq6RbxJHBo"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "cake",
+      "dairy",
+      "desert",
+      "pudding"
+    ],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "marinating_time_minutes": 30,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 95
+  },
+  "yield": {
+    "servings": 7,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 mini pudding"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "0d18e699-9969-5c44-adc8-41fcedf9903a",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "498d420b-d885-56b0-b1de-5042dbad88ee",
+          "ingredient_id": "336f57c5-8af0-5405-954e-f309fe66434e",
+          "name": "medjool dates",
+          "display_text": "225g Medjool dates",
+          "quantity": 225.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 225.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "5ba34c78-28f8-56be-b07f-888eb0e68c97",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "175ml Boiling water",
+          "quantity": 175.0,
+          "unit": "milliliter",
+          "preparation": "boiling",
+          "is_optional": false,
+          "metric_quantity": 175.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "28057737-7448-5bc2-aa6b-d1fffdc28a97",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1 tsp vanilla extract",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "fac82d4a-19fa-53f0-8798-17fa38b7276c",
+          "ingredient_id": "d923f6bd-1129-51bf-ba9e-32b3305fa65e",
+          "name": "self-raising flour",
+          "display_text": "175g self-raising flour",
+          "quantity": 175.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 175.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "563135a7-1b73-5dd4-8a5b-2429fe66ab94",
+          "ingredient_id": "5b3aa746-938c-5e92-be83-6710a36a51db",
+          "name": "bicarbonate of soda",
+          "display_text": "1 tsp bicarbonate of soda",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "bafd0143-3ce2-5d95-8fc2-8b492a072380",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "2 eggs",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "e8933bf2-4ac7-5771-961d-6a72a2dcb7a8",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "85g butter",
+          "quantity": 85.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 85.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "362cd710-d0f1-54a8-84dc-efa80ffd2cc5",
+          "ingredient_id": "83fd3f9f-e97c-579b-81d6-4d64808be32f",
+          "name": "demerara sugar",
+          "display_text": "140g demerara sugar",
+          "quantity": 140.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 140.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "ddec2106-1516-5907-8fd2-6ee6c7cfed5b",
+          "ingredient_id": "27f76ed8-4a3b-5f26-906f-191a409613dc",
+          "name": "black treacle",
+          "display_text": "2 tbsp black treacle",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "74033523-f4f9-5a47-84f0-88fe212ee5ec",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "100ml milk",
+          "quantity": 100.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "02516467-870e-5ff5-ae41-97b2e647d64f",
+          "ingredient_id": "66def360-0119-50c9-80d5-048ee2af3184",
+          "name": "ice cream",
+          "display_text": "1 scoop ice cream",
+          "quantity": 1.0,
+          "unit": "scoop",
+          "is_optional": false,
+          "category": "frozen_foods"
+        },
+        {
+          "id": "0746a977-acad-5cea-a3a4-28722a1ef222",
+          "ingredient_id": "74d4f663-2935-561e-b6ec-45f204542152",
+          "name": "muscovado sugar",
+          "display_text": "175g muscovado sugar",
+          "quantity": 175.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 175.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "67eeb5d6-a83f-5bd0-afc6-aac73e0c4fce",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "50g butter",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "5af26e7f-e54a-5f7f-b695-ae1a81a4030f",
+          "ingredient_id": "81b5723b-47de-5017-987f-cdcc95dd362b",
+          "name": "double cream",
+          "display_text": "225ml double cream",
+          "quantity": 225.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 225.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "c5fc647f-8f7e-5a36-af08-ce4d1070573d",
+          "ingredient_id": "27f76ed8-4a3b-5f26-906f-191a409613dc",
+          "name": "black treacle",
+          "display_text": "1 tbsp black treacle",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Stone and chop the dates quite small, put them in a bowl, then pour the boiling water over. Leave for about 30 mins until cool and well-soaked, then mash a bit with a fork. Stir in the vanilla extract. Butter and flour seven mini pudding tins (each about 200ml/7fl oz) and sit them on a baking sheet. Heat oven to 180C/fan 160C/gas 4.",
+      "timer_seconds": 1800,
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "498d420b-d885-56b0-b1de-5042dbad88ee",
+        "5ba34c78-28f8-56be-b07f-888eb0e68c97",
+        "28057737-7448-5bc2-aa6b-d1fffdc28a97",
+        "e8933bf2-4ac7-5771-961d-6a72a2dcb7a8",
+        "67eeb5d6-a83f-5bd0-afc6-aac73e0c4fce"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "While the dates are soaking, make the puddings. Mix the flour and bicarbonate of soda together and beat the eggs in a separate bowl. Beat the butter and sugar together in a large bowl for a few mins until slightly creamy (the mixture will be grainy from the sugar). Add the eggs a little at a time, beating well between additions. Beat in the black treacle then, using a large metal spoon, gently fold in one-third of the flour, then half the milk, being careful not to overbeat. Repeat until all the flour and milk is used. Stir the soaked dates into the pudding batter. The mix may look a little curdled at this point and will be like a soft, thick batter. Spoon it evenly between the tins and bake for 20-25 mins, until risen and firm.",
+      "timer_seconds": 1500,
+      "ingredients_used": [
+        "498d420b-d885-56b0-b1de-5042dbad88ee",
+        "563135a7-1b73-5dd4-8a5b-2429fe66ab94",
+        "bafd0143-3ce2-5d95-8fc2-8b492a072380",
+        "e8933bf2-4ac7-5771-961d-6a72a2dcb7a8",
+        "ddec2106-1516-5907-8fd2-6ee6c7cfed5b",
+        "74033523-f4f9-5a47-84f0-88fe212ee5ec",
+        "67eeb5d6-a83f-5bd0-afc6-aac73e0c4fce",
+        "c5fc647f-8f7e-5a36-af08-ce4d1070573d"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Meanwhile, put the sugar and butter for the sauce in a medium saucepan with half the cream. Bring to the boil over a medium heat, stirring all the time, until the sugar has completely dissolved. Stir in the black treacle, turn up the heat slightly and let the mixture bubble away for 2-3 mins until it is a rich toffee color, stirring occasionally to make sure it doesn’t burn. Take the pan off the heat and beat in the rest of the cream.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "e8933bf2-4ac7-5771-961d-6a72a2dcb7a8",
+        "ddec2106-1516-5907-8fd2-6ee6c7cfed5b",
+        "67eeb5d6-a83f-5bd0-afc6-aac73e0c4fce",
+        "c5fc647f-8f7e-5a36-af08-ce4d1070573d"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Remove the puddings from the oven. Leave in the tins for a few mins, then loosen them well from the sides of the tins with a small palette knife before turning them out. You can serve them now with the sauce drizzled over, but they’ll be even stickier if left for a day or two coated in the sauce. To do this, pour about half the sauce into one or two ovenproof serving dishes. Sit the upturned puddings on the sauce, then pour the rest of the sauce over them. Cover with a loose tent of foil so that the sauce doesn’t smudge (no need to chill)."
+    },
+    {
+      "step_number": 5,
+      "instruction": "When ready to serve, heat oven to 180C/fan 160C/gas 4. Warm the puddings through, still covered, for 15-20 mins or until the sauce is bubbling. Serve them on their own, or with cream or custard.",
+      "timer_seconds": 1200,
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      }
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.youtube.com/watch?v=Wytv3bjqJII"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "id": "3cfa0169-95a3-5b31-b64e-ca0570e4dd6a",
+  "version": "1.0.0",
+  "title": "Eton Mess",
+  "slug": "eton-mess",
+  "summary": "A classic British dessert consisting of crushed meringue, whipped cream, and fresh strawberries.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:38:11Z",
+  "updated_at": "2026-10-16T10:22:44Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52791"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/uuxwvq1483907861.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/uuxwvq1483907861.jpg/small",
+      "alt_text": "Photo of Eton Mess",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=43WgiNq54L8"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "dairy",
+      "desert",
+      "fruity",
+      "speciality",
+      "treat"
+    ],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "summer_refreshment"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 15
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "portions",
+    "serving_size_description": "1 wine glass of mixture"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "eggs"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "ef588672-68e6-5f75-9bbf-fe2a37679bab",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "5e84969b-3c3c-5e9b-bcd2-0b40f4a1e701",
+          "ingredient_id": "8633a33a-dc11-5c17-a43b-c84d3669eb95",
+          "name": "strawberries",
+          "display_text": "500g strawberries",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "556e1299-a028-5ade-aaec-45e2d80ced33",
+          "ingredient_id": "81b5723b-47de-5017-987f-cdcc95dd362b",
+          "name": "double cream",
+          "display_text": "400ml double cream",
+          "quantity": 400.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "439c9c79-c5e7-5c93-a952-f47c420e8816",
+          "ingredient_id": "7bb77bde-ec47-56c7-9e96-487edf8b188e",
+          "name": "meringue nests",
+          "display_text": "3 x 7.5cm meringue nests",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "7.5cm meringue nests",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "2e5f9210-7fdb-57a4-922b-9d18ae57de81",
+          "ingredient_id": "35d0e4c8-85db-5ad6-a0ec-c248442e1e72",
+          "name": "ginger cordial",
+          "display_text": "1 tbsp ginger cordial",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "509487f5-d624-5d87-95d0-5767dc306bf5",
+          "ingredient_id": "0e838047-684d-55cb-884e-e7872e0e96c4",
+          "name": "mint",
+          "display_text": "sprigs of fresh Mint",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "sprigs of fresh",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Purée half the strawberries in a blender. Chop the remaining strawberries, reserving four for decoration.",
+      "ingredients_used": [
+        "5e84969b-3c3c-5e9b-bcd2-0b40f4a1e701"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Whip the double cream until stiff peaks form, then fold in the strawberry purée and crushed meringue. Fold in the chopped strawberries and ginger cordial, if using.",
+      "ingredients_used": [
+        "5e84969b-3c3c-5e9b-bcd2-0b40f4a1e701",
+        "556e1299-a028-5ade-aaec-45e2d80ced33",
+        "2e5f9210-7fdb-57a4-922b-9d18ae57de81"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Spoon equal amounts of the mixture into four cold wine glasses. Serve garnished with the remaining strawberries and a sprig of mint.",
+      "ingredients_used": [
+        "5e84969b-3c3c-5e9b-bcd2-0b40f4a1e701",
+        "509487f5-d624-5d87-95d0-5767dc306bf5"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

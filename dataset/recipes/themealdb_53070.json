@@ -1,0 +1,308 @@
+{
+  "id": "af0f02c6-3720-589c-99a9-2e444ab8cf0a",
+  "version": "1.0.0",
+  "title": "Beef Caldereta",
+  "slug": "beef-caldereta",
+  "summary": "A rich and savory Filipino beef stew simmered in a tomato-based sauce with peanut butter, vegetables, and spices.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:01:55Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53070"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/41cxjh1683207682.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/41cxjh1683207682.jpg/small",
+      "alt_text": "Photo of Beef Caldereta",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=yI7hTz0ft5k"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "3e1a78f5-e83e-5b97-a090-8a1e2d2271a8",
+        "slug": "filipino",
+        "name": "Filipino"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 47,
+    "total_time_minutes": 67
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "servings",
+    "serving_size_description": "a large bowl of stew"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "peanuts",
+      "soy"
+    ],
+    "free_from": [
+      "dairy",
+      "tree_nuts",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "5f992cab-fc92-51db-a537-aefbeab14e86",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "f6bb38bd-1e0d-5a75-a623-c90f82c0a71c",
+          "ingredient_id": "c2102b4e-a5b4-5bab-b7d5-bdfa5244ae7b",
+          "name": "beef",
+          "display_text": "2kg cut cubes Beef",
+          "quantity": 2.0,
+          "unit": "kilogram",
+          "preparation": "cut cubes",
+          "is_optional": false,
+          "metric_quantity": 2.0,
+          "metric_unit": "kilogram",
+          "category": "meat"
+        },
+        {
+          "id": "f7d4bf85-0523-5caf-8555-28e8ee48ed29",
+          "ingredient_id": "39a746ef-3300-5229-b0b2-3e03970ea60c",
+          "name": "beef stock",
+          "display_text": "1 Beef Stock",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "8aa3bc3f-16e9-5d52-a64a-2ee1382e0a40",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "1 tbs Soy Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "8283a543-e71e-5dfb-8061-3d26700eea1b",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "2 cups Water",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "f5ed1039-09cb-5897-a576-02d04d7f6628",
+          "ingredient_id": "f86b83d4-879d-54bb-a883-73bbfa9228ba",
+          "name": "green pepper",
+          "display_text": "1 sliced Green Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "398358ea-7c83-556b-a04d-7fc4ed2c3311",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1 sliced Red Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4595ed58-5c53-5240-b329-bbaf25ffe2d8",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "1 sliced Potatoes",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "75714c43-af93-538a-8505-21e2b409d392",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "1 sliced Carrots",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e7ed4552-81ad-5343-8349-6cecde9ed3b4",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "8 ounces Tomato Puree",
+          "quantity": 8.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 226.8,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "18072af5-7c7d-5d21-87b6-c4ef44f415c2",
+          "ingredient_id": "7d1aec85-0aaa-5080-9fc7-4d5396f799f9",
+          "name": "peanut butter",
+          "display_text": "3  tablespoons Peanut Butter",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "52bbd49c-ad24-570c-9993-8414f72be992",
+          "ingredient_id": "6fab3ead-b910-5c38-a787-4d74e606a7e1",
+          "name": "chilli powder",
+          "display_text": "5 Chilli Powder",
+          "quantity": 5.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3559c7e9-1f96-5009-aa72-96aabce897a4",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1f78af2c-1b79-59b1-8b1b-f4ad45905bd1",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "5 cloves Garlic",
+          "quantity": 5.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "def91d6d-6b10-5b9e-b9b5-2c8f2c1d7e5b",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "3 tbs Olive Oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oil in a cooking pot. Saute onion and garlic until onion softens",
+      "ingredients_used": [
+        "3559c7e9-1f96-5009-aa72-96aabce897a4",
+        "1f78af2c-1b79-59b1-8b1b-f4ad45905bd1"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add beef. Saute until the outer part turns light brown.",
+      "ingredients_used": [
+        "f6bb38bd-1e0d-5a75-a623-c90f82c0a71c"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add soy sauce. Pour tomato sauce and water. Let boil.",
+      "ingredients_used": [
+        "8aa3bc3f-16e9-5d52-a64a-2ee1382e0a40",
+        "8283a543-e71e-5dfb-8061-3d26700eea1b"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add Knorr Beef Cube. Cover the pressure cooker. Cook for 30 minutes.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "f6bb38bd-1e0d-5a75-a623-c90f82c0a71c"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Pan-fry carrot and potato until it browns. Set aside."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Add chili pepper, liver spread and peanut butter. Stir.",
+      "ingredients_used": [
+        "18072af5-7c7d-5d21-87b6-c4ef44f415c2"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Add bell peppers, fried potato and carrot. Cover the pot. Continue cooking for 5 to 7 minutes.",
+      "timer_seconds": 420
+    },
+    {
+      "step_number": 8,
+      "instruction": "Season with salt and ground black pepper. Serve."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.kawalingpinoy.com/beef-caldereta/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

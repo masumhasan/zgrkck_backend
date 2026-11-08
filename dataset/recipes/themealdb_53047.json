@@ -1,0 +1,250 @@
+{
+  "id": "b8fe47f8-0171-5643-9c58-e954188e1744",
+  "version": "1.0.0",
+  "title": "Moroccan Carrot Soup",
+  "slug": "moroccan-carrot-soup",
+  "summary": "A roasted carrot soup seasoned with Moroccan-inspired spices like cumin and coriander, finished with a touch of lemon juice.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:59:59Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53047"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/jcr46d1614763831.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/jcr46d1614763831.jpg/small",
+      "alt_text": "Photo of Moroccan Carrot Soup",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=7tDWOpnIhok"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "118c0c07-e5c2-5a71-ac2b-49c1d77823aa",
+        "slug": "moroccan",
+        "name": "Moroccan"
+      }
+    ],
+    "tags": [
+      "soup"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "starter",
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "lunchbox",
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 12,
+    "total_time_minutes": 22
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of soup"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "d570a53a-c615-5864-b1a6-c93480b67e85",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "2e15ed43-6d14-5c9b-91c3-283973b7a79d",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "6 chopped Carrots",
+          "quantity": 6.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "53e1687f-6bf4-550a-9b42-a85b40933d3a",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 sliced Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "39ba115f-4f92-516b-a24d-78f7e879a1dd",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "4 Garlic Clove",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "527e7fed-e32d-5385-bbd4-249d30016f9e",
+          "ingredient_id": "be79b3bd-bc90-5d15-aab2-4f95774b8de1",
+          "name": "cumin",
+          "display_text": "1 tsp Cumin",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "42b3fe60-1721-5755-8369-45d4e1b57b5d",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "1/2 tsp Coriander",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "fe34061f-c5ef-50f8-b31d-5628bd2a1108",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 tbs Olive Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "5d80a9ce-a7e0-5296-ac66-694086f98f4e",
+          "ingredient_id": "b3528dc3-f7f7-5d65-9903-d906fc4c30f0",
+          "name": "garam masala",
+          "display_text": "1/4 tsp Garam Masala",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1e86b337-cc8c-5ea1-98e0-fe3712423468",
+          "ingredient_id": "4020879e-a0a5-58e2-b093-33c7e85c8a08",
+          "name": "lemon juice",
+          "display_text": "1 tsp Lemon Juice",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat oven to 180° C.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "Combine carrots, onion, garlic, cumin seeds, coriander seeds, salt and olive oil in a bowl and mix well. Transfer on a baking tray.",
+      "ingredients_used": [
+        "2e15ed43-6d14-5c9b-91c3-283973b7a79d",
+        "53e1687f-6bf4-550a-9b42-a85b40933d3a",
+        "527e7fed-e32d-5385-bbd4-249d30016f9e",
+        "42b3fe60-1721-5755-8369-45d4e1b57b5d",
+        "fe34061f-c5ef-50f8-b31d-5628bd2a1108"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Put the baking tray in preheated oven and roast for 10-12 minutes or till carrots soften. Remove from heat and cool.",
+      "timer_seconds": 720,
+      "ingredients_used": [
+        "2e15ed43-6d14-5c9b-91c3-283973b7a79d"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Grind the baked carrot mixture along with some water to make a smooth paste and strain in a bowl."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Heat the carrot mixture in a non-stick pan. Add two cups of water and bring to a boil. Add garam masala powder and mix. Add salt and mix well.",
+      "ingredients_used": [
+        "5d80a9ce-a7e0-5296-ac66-694086f98f4e"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Remove from heat, add lemon juice and mix well.",
+      "ingredients_used": [
+        "1e86b337-cc8c-5ea1-98e0-fe3712423468"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Serve hot."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.sanjeevkapoor.com/Recipe/Moroccan-Carrot-Soup.html"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "id": "23995f5e-c107-58da-8297-6e86718023dd",
+  "version": "1.0.0",
+  "title": "Roast aubergine with goat's cheese & toasted flatbread",
+  "slug": "roast-aubergine-with-goat-s-cheese-toasted-flatbread",
+  "summary": "Roasted aubergine slices served with burst cherry tomatoes, toasted pita bread, and creamy goat's cheese, topped with a mint and balsamic dressing.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:19:40Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53273"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/iydbwy1763816111.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/iydbwy1763816111.jpg/small",
+      "alt_text": "Photo of Roast aubergine with goat's cheese & toasted flatbread",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4c480df7-c067-5e9c-ac08-d8d49afa7f51",
+        "slug": "turkish",
+        "name": "Turkish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "weeknight_dinner"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 28,
+    "total_time_minutes": 43
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 portion of aubergine with bread and salad"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "bc3c123c-553e-5ff3-8aa6-a53a7136434f",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "8ab7b609-5a99-53aa-8e12-69333a5760a6",
+          "ingredient_id": "0c13526c-c9d0-5c10-bc72-13ae3bf32c7e",
+          "name": "aubergine",
+          "display_text": "2 sliced Aubergine",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "bb2a9705-2306-548e-9f05-1ea175cc7e0c",
+          "ingredient_id": "96cc0c2b-795a-53be-a503-05d14e92b236",
+          "name": "extra virgin olive oil",
+          "display_text": "3  tablespoons Extra Virgin Olive Oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "f858f2fd-6f79-52b6-9330-0ff035cd18d5",
+          "ingredient_id": "041e90f7-87c0-5883-b651-a9f26dce39b7",
+          "name": "cherry tomatoes",
+          "display_text": "12 Cherry Tomatoes",
+          "quantity": 12.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "64640267-f270-5820-b01b-d2184e65184d",
+          "ingredient_id": "3998084f-e7c2-5364-b223-62058fa4c0c9",
+          "name": "pita bread",
+          "display_text": "1 Pita Bread",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "b43d60e9-4d6f-510e-8e5e-15f75ff2c028",
+          "ingredient_id": "63107704-a6f7-54e1-89ce-d8232f5288e9",
+          "name": "balsamic vinegar",
+          "display_text": "3  tablespoons Balsamic Vinegar",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "9941ccc9-ccf9-58e0-ab8b-4fef60f2c87c",
+          "ingredient_id": "0e838047-684d-55cb-884e-e7872e0e96c4",
+          "name": "mint",
+          "display_text": "Handful Mint",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "9d032c93-526d-5ee8-b54f-3bc9cbfffdfc",
+          "ingredient_id": "d22accc4-e562-59bf-9cbb-1ad38d461e99",
+          "name": "shallots",
+          "display_text": "1 chopped Shallots",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b1bec796-5a5e-50c0-b0d4-f1bb951f1395",
+          "ingredient_id": "d22accc4-e562-59bf-9cbb-1ad38d461e99",
+          "name": "shallots",
+          "display_text": "1 sliced Shallots",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "64e915e7-4c0e-5b8c-9cf3-0f6bfaa858f7",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "1 chopped Red Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3cb9f428-8f01-596a-bd79-0de9def23465",
+          "ingredient_id": "dfc0b05a-d6aa-5c97-90f3-2d4b682bcd78",
+          "name": "goats cheese",
+          "display_text": "50g Goats Cheese",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "c56cc748-aa1f-5615-b9c9-4c2d4fdea53c",
+          "ingredient_id": "af2f1a8f-e30f-53b3-838a-093f52d0cd04",
+          "name": "rocket",
+          "display_text": "Handful Rocket",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 200C/180C fan/gas 6. Brush the aubergine slices with 1 tbsp of the oil, then season. Arrange on a baking tray or sheet and roast for 20 mins until browned, popping the tomatoes on the tray for the final 5 mins. Tear the flatbread into pieces and place on a separate baking sheet. Brown in the oven for 8 mins, or until crisp, then remove.",
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "8ab7b609-5a99-53aa-8e12-69333a5760a6",
+        "f858f2fd-6f79-52b6-9330-0ff035cd18d5"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "For the dressing, in a small bowl, mix the vinegar, mint, chopped shallots, chilli, remaining oil and some salt and pepper.",
+      "ingredients_used": [
+        "9941ccc9-ccf9-58e0-ab8b-4fef60f2c87c",
+        "9d032c93-526d-5ee8-b54f-3bc9cbfffdfc",
+        "b1bec796-5a5e-50c0-b0d4-f1bb951f1395",
+        "64e915e7-4c0e-5b8c-9cf3-0f6bfaa858f7"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Scatter the aubergine slices, tomatoes, sliced shallot and crisp flatbread into a serving bowl. Pour over the dressing, sprinkle with the goat’s cheese and scatter over a little rocket.",
+      "ingredients_used": [
+        "8ab7b609-5a99-53aa-8e12-69333a5760a6",
+        "f858f2fd-6f79-52b6-9330-0ff035cd18d5",
+        "c56cc748-aa1f-5615-b9c9-4c2d4fdea53c"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/roast-aubergine-goats-cheese-toasted-flatbread"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "id": "dec00dba-ecbb-5037-94f5-fb3707b310f4",
+  "version": "1.0.0",
+  "title": "Kung Pao Chicken",
+  "slug": "kung-pao-chicken",
+  "summary": "A classic Chinese stir-fry dish featuring chicken pieces cooked in a savory, spicy, and slightly sweet sauce with peanuts and water chestnuts.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:51:33Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52945"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/1525872624.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/1525872624.jpg/small",
+      "alt_text": "Photo of Kung Pao Chicken",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=QqdcCHQlOe0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6813a95e-62cf-55e7-9d4b-6f19ee1d7391",
+        "slug": "chinese",
+        "name": "Chinese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 15,
+    "marinating_time_minutes": 30,
+    "total_time_minutes": 60
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 portion of chicken with sauce, peanuts, and water chestnuts"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "sesame",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "0cd1f0d0-eb72-57c8-b0be-8b863df756bb",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "0f9503e0-5965-5d69-a827-5a6940194380",
+          "ingredient_id": "e5beece9-b264-5da9-8a23-86aef5249963",
+          "name": "sake",
+          "display_text": "2 tbs Sake",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "e4ae18b4-7700-5a83-bb66-062ba63a1a79",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "2 tbs Soy Sauce",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "1dc7ce62-7b26-50db-aa63-f12d29f253dc",
+          "ingredient_id": "653731ca-07ee-57df-aa38-0f8f2b71ccc6",
+          "name": "sesame seed oil",
+          "display_text": "2 tbs Sesame Seed Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "ca995b04-a547-5c95-9e9d-15af5c322954",
+          "ingredient_id": "94f73465-e9e4-5ae0-8787-ee86687dbeb4",
+          "name": "corn flour",
+          "display_text": "2 tbs Corn Flour",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "320e6a52-84da-5a07-885e-c2fad2af0daf",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "2 tbs Water",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "9372aa55-83f4-5fb3-b7e3-d84ef65802a9",
+          "ingredient_id": "96643234-56e3-5df9-9877-487e63d7cb8b",
+          "name": "chicken",
+          "display_text": "500g Chicken",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "poultry"
+        },
+        {
+          "id": "dd7cac04-150c-544c-9459-342f0cc5a4c5",
+          "ingredient_id": "6fab3ead-b910-5c38-a787-4d74e606a7e1",
+          "name": "chilli powder",
+          "display_text": "1 tbs Chilli Powder",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "0368ce2b-4d4e-516c-aa91-2f2b9640cfba",
+          "ingredient_id": "cad15bc5-2770-5a5f-8572-c5ac5ad79569",
+          "name": "rice vinegar",
+          "display_text": "1 tsp Rice Vinegar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "dfc48516-3286-5d22-9c45-b592d763ed3b",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "1 tbs Brown Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "ff3313f2-b06d-58b5-badf-504cad0cd2ae",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "4 Chopped Spring Onions",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "9548961b-8cda-5b67-a563-0936e4da8bbb",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "6 cloves Garlic Clove",
+          "quantity": 6.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "02af8b6d-205c-58f7-87c5-ba2fd8e485b7",
+          "ingredient_id": "8b4cb4df-7262-54b9-b650-855aeb595f72",
+          "name": "water chestnut",
+          "display_text": "220g Water Chestnut",
+          "quantity": 220.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 220.0,
+          "metric_unit": "gram",
+          "category": "beverages"
+        },
+        {
+          "id": "8347696b-2247-5235-87bb-dbd08c9a160a",
+          "ingredient_id": "200b7141-d967-52ee-b154-4f8ed303ac02",
+          "name": "peanuts",
+          "display_text": "100g Peanuts",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Combine the sake or rice wine, soy sauce, sesame oil and cornflour dissolved in water. Divide mixture in half.",
+      "ingredients_used": [
+        "0f9503e0-5965-5d69-a827-5a6940194380",
+        "e4ae18b4-7700-5a83-bb66-062ba63a1a79",
+        "320e6a52-84da-5a07-885e-c2fad2af0daf"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a glass dish or bowl, combine half of the sake mixture with the chicken pieces and toss to coat. Cover dish and place in refrigerator for about 30 minutes.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "0f9503e0-5965-5d69-a827-5a6940194380",
+        "9372aa55-83f4-5fb3-b7e3-d84ef65802a9"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "In a medium frying pan, combine remaining sake mixture, chillies, vinegar and sugar. Mix together and add spring onion, garlic, water chestnuts and peanuts. Heat sauce slowly over medium heat until aromatic.",
+      "ingredients_used": [
+        "0f9503e0-5965-5d69-a827-5a6940194380",
+        "320e6a52-84da-5a07-885e-c2fad2af0daf",
+        "02af8b6d-205c-58f7-87c5-ba2fd8e485b7",
+        "8347696b-2247-5235-87bb-dbd08c9a160a"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Meanwhile, remove chicken from marinade and sauté in a large frying pan until juices run clear. When sauce is aromatic, add sautéed chicken and let simmer together until sauce thickens.",
+      "ingredients_used": [
+        "9372aa55-83f4-5fb3-b7e3-d84ef65802a9"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://allrecipes.co.uk/recipe/1773/kung-pao-chicken.aspx"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

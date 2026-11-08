@@ -1,0 +1,396 @@
+{
+  "id": "ccdbc608-04a7-54e4-8d13-0665f81d7d88",
+  "version": "1.0.0",
+  "title": "Battenberg Cake",
+  "slug": "battenberg-cake",
+  "summary": "A classic British sponge cake featuring a checkerboard pattern of pink and almond-flavored sponge layers wrapped in a layer of marzipan.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:46:52Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52894"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ywwrsp1511720277.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ywwrsp1511720277.jpg/small",
+      "alt_text": "Photo of Battenberg Cake",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=aB41Q7kDZQ0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "cake",
+      "sweet"
+    ],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "advanced",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 45,
+    "cook_time_minutes": 60,
+    "rest_time_minutes": 10,
+    "total_time_minutes": 115
+  },
+  "yield": {
+    "servings": 10,
+    "serving_unit": "pieces"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "tree_nuts",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "c61b3717-9fee-5ec4-a1a2-8018300d2244",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "21abc16a-cae8-5117-b5e6-9f17fa218528",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "175g Butter",
+          "quantity": 175.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 175.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "a03702f8-6595-520e-9906-c34b81ac5bac",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "175g Caster Sugar",
+          "quantity": 175.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 175.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "189299ce-decd-5a01-b38f-1252d1c08531",
+          "ingredient_id": "d923f6bd-1129-51bf-ba9e-32b3305fa65e",
+          "name": "self-raising flour",
+          "display_text": "140g Self-raising Flour",
+          "quantity": 140.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 140.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "56b2661b-f968-5f44-bbd1-d6ea592b1b4b",
+          "ingredient_id": "1f65be5f-ad9d-5713-aca2-600f7b2a1ee8",
+          "name": "almonds",
+          "display_text": "50g Almonds",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "c26d1bef-b261-5d58-a46c-2aead658003e",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "½ tsp Baking Powder",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "8734d404-4556-50f3-8707-6b30883e6dc2",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "3 Medium Eggs",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "5ed8940f-6478-52a1-90dc-368294103197",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "½ tsp Vanilla Extract",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "fe1a96aa-2569-5be4-9c8d-a02ce6444ea9",
+          "ingredient_id": "278d6272-cef1-5153-8ee2-6a0fb031c264",
+          "name": "almond extract",
+          "display_text": "¼ teaspoon Almond Extract",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "da3efcf7-00db-5dd7-997b-f6924c765cb7",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "175g Butter",
+          "quantity": 175.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 175.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "dd174daa-9c47-5821-831e-d515d1047b44",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "175g Caster Sugar",
+          "quantity": 175.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 175.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "8d632fb1-453e-5d2c-a196-259e0e763646",
+          "ingredient_id": "d923f6bd-1129-51bf-ba9e-32b3305fa65e",
+          "name": "self-raising flour",
+          "display_text": "140g Self-raising Flour",
+          "quantity": 140.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 140.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "25a55560-7811-53e8-8df7-5508698b26eb",
+          "ingredient_id": "1f65be5f-ad9d-5713-aca2-600f7b2a1ee8",
+          "name": "almonds",
+          "display_text": "50g Almonds",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "7b9dbe8a-3eff-5e39-9116-f2596bc34152",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "½ tsp Baking Powder",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "a882b21a-6490-5066-9643-f89305541df8",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "3 Medium Eggs",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "dd0b214b-7271-53b2-9f5d-26ba26ccc4bb",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "½ tsp Vanilla Extract",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "9d3a1d06-87ae-5b57-a2d6-63f361442efd",
+          "ingredient_id": "278d6272-cef1-5153-8ee2-6a0fb031c264",
+          "name": "almond extract",
+          "display_text": "¼ teaspoon Almond Extract",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "c95913ef-f8cb-57cd-9589-03c4eb1fde63",
+          "ingredient_id": "a36a6a1f-4739-5f45-897a-d5ecbe05dc58",
+          "name": "pink food coloring",
+          "display_text": "½ tsp Pink Food Coloring",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "d055671f-bfa8-5521-ba0f-7d9d844f2f67",
+          "ingredient_id": "ee2c8bb9-cd00-583a-b03d-c403a249783d",
+          "name": "apricot",
+          "display_text": "200g Apricot",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "acc039b1-25ba-5e9b-9a7e-edab2c2638bc",
+          "ingredient_id": "ee878c3e-0da8-5cac-8989-042d384e812c",
+          "name": "marzipan",
+          "display_text": "1kg Marzipan",
+          "quantity": 1.0,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "kilogram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "b2e4ea15-78de-526a-8756-6508d80d186d",
+          "ingredient_id": "c3b952d9-9879-569e-a989-b29a9b7ec664",
+          "name": "icing sugar",
+          "display_text": "Dusting Icing Sugar",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "dusting",
+          "is_optional": false,
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 180C/160C fan/gas 4 and line the base and sides of a 20cm square tin with baking parchment (the easiest way is to cross 2 x 20cm-long strips over the base). To make the almond sponge, put the butter, sugar, flour, ground almonds, baking powder, eggs, vanilla and almond extract in a large bowl. Beat with an electric whisk until the mix comes together smoothly. Scrape into the tin, spreading to the corners, and bake for 25-30 mins – when you poke in a skewer, it should come out clean. Cool in the tin for 10 mins, then transfer to a wire rack to finish cooling while you make the second sponge.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "21abc16a-cae8-5117-b5e6-9f17fa218528",
+        "56b2661b-f968-5f44-bbd1-d6ea592b1b4b",
+        "c26d1bef-b261-5d58-a46c-2aead658003e",
+        "8734d404-4556-50f3-8707-6b30883e6dc2",
+        "5ed8940f-6478-52a1-90dc-368294103197",
+        "fe1a96aa-2569-5be4-9c8d-a02ce6444ea9",
+        "da3efcf7-00db-5dd7-997b-f6924c765cb7",
+        "25a55560-7811-53e8-8df7-5508698b26eb",
+        "7b9dbe8a-3eff-5e39-9116-f2596bc34152",
+        "a882b21a-6490-5066-9643-f89305541df8",
+        "dd0b214b-7271-53b2-9f5d-26ba26ccc4bb",
+        "9d3a1d06-87ae-5b57-a2d6-63f361442efd"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "For the pink sponge, line the tin as above. Mix all the ingredients together as above, but don’t add the almond extract. Fold in some pink food coloring. Then scrape it all into the tin and bake as before. Cool.",
+      "ingredients_used": [
+        "5ed8940f-6478-52a1-90dc-368294103197",
+        "fe1a96aa-2569-5be4-9c8d-a02ce6444ea9",
+        "dd0b214b-7271-53b2-9f5d-26ba26ccc4bb",
+        "9d3a1d06-87ae-5b57-a2d6-63f361442efd",
+        "c95913ef-f8cb-57cd-9589-03c4eb1fde63"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "To assemble, heat the jam in a small pan until runny, then sieve. Barely trim two opposite edges from the almond sponge, then well trim a third edge. Roughly measure the height of the sponge, then cutting from the well-trimmed edge, use a ruler to help you cut 4 slices each the same width as the sponge height. Discard or nibble leftover sponge. Repeat with pink cake."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Take 2 x almond slices and 2 x pink slices and trim so they are all the same length. Roll out one marzipan block on a surface lightly dusted with icing sugar to just over 20cm wide, then keep rolling lengthways until the marzipan is roughly 0.5cm thick. Brush with apricot jam, then lay a pink and an almond slice side by side at one end of the marzipan, brushing jam in between to stick sponges, and leaving 4cm clear marzipan at the end. Brush more jam on top of the sponges, then sandwich remaining 2 slices on top, alternating colors to give a checkerboard effect. Trim the marzipan to the length of the cakes.",
+      "ingredients_used": [
+        "d055671f-bfa8-5521-ba0f-7d9d844f2f67",
+        "acc039b1-25ba-5e9b-9a7e-edab2c2638bc",
+        "b2e4ea15-78de-526a-8756-6508d80d186d"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Carefully lift up the marzipan and smooth over the cake with your hands, but leave a small marzipan fold along the bottom edge before you stick it to the first side. Trim opposite side to match size of fold, then crimp edges using fingers and thumb (or, more simply, press with prongs of fork). If you like, mark the 10 slices using the prongs of a fork.",
+      "ingredients_used": [
+        "acc039b1-25ba-5e9b-9a7e-edab2c2638bc"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Assemble second Battenberg and keep in an airtight box or well wrapped in cling film for up to 3 days. Can be frozen for up to a month."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/1120657/battenberg-cake"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

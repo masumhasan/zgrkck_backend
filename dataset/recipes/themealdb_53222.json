@@ -1,0 +1,263 @@
+{
+  "id": "5d6d6743-9461-5bfb-874c-20f2f533a3e1",
+  "version": "1.0.0",
+  "title": "Vegetarian Shakshuka",
+  "slug": "vegetarian-shakshuka",
+  "summary": "A vegetarian version of the classic Shakshuka featuring eggs poached in a spiced tomato and red pepper sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:15:05Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53222"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/eo0yfb1763600916.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/eo0yfb1763600916.jpg/small",
+      "alt_text": "Photo of Vegetarian Shakshuka",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ZNEos6ybryg"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "dadedf2a-1088-576c-834c-66ae61df3c2a",
+        "slug": "saudi-arabian",
+        "name": "Saudi Arabian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "brunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 35
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "2 eggs with sauce and toast"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "f5a6e117-ea7c-5029-aaea-9e2c78e68114",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "c50cd657-0a29-5184-91df-4a1080bf7776",
+          "ingredient_id": "716f7639-3b59-56a7-9146-1819649ebdad",
+          "name": "red onions",
+          "display_text": "1/2 Red Onions",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "297df2bf-7174-5ec5-9574-d30507ed95b0",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1/2 Red Pepper",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "abd04bac-d49f-5593-9d8c-bc392afa74a4",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "400g Tomato",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "86dce208-7258-5380-a908-f5afe6205056",
+          "ingredient_id": "be79b3bd-bc90-5d15-aab2-4f95774b8de1",
+          "name": "cumin",
+          "display_text": "1/2 teaspoon Cumin",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e75f507e-e316-5ff0-a2ad-7099fad23e35",
+          "ingredient_id": "5186a299-beb5-5634-aa07-5a5dd673e459",
+          "name": "garlic granules",
+          "display_text": "1/2 tsp Garlic Granules",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "69f28ed0-d54c-5f9e-ae0d-127c824dd6d1",
+          "ingredient_id": "97dd86b9-4ad7-5a3a-bc6c-86485409c325",
+          "name": "cayenne pepper",
+          "display_text": "1/2 teaspoon Cayenne Pepper",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "34fc9c36-7406-532f-a8ef-3ab1e0f960e1",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1 tsp Paprika",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "a05671b5-2d29-5f3e-81fc-e4c6d9adb4be",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "2 Egg",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "b3cabd17-2a76-5e9a-b6a3-8d19fd85f645",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Garnish Parsley",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "garnish",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "8533ca22-0213-5694-8681-83fd2e620262",
+          "ingredient_id": "25e62537-6a4e-5945-adda-37c29baeffdd",
+          "name": "chilli flakes",
+          "display_text": "Garnish Chilli Flakes",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "garnish",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "9668f484-0400-5d60-936f-2799735a0dbc",
+          "ingredient_id": "03591389-bfea-5d57-861f-e065edc17804",
+          "name": "toast",
+          "display_text": "2 sliced Toast",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "grains_pasta"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Fry onion and pepper together on medium heat until onion is soft"
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add garlic granules, cook for a minute",
+      "ingredients_used": [
+        "e75f507e-e316-5ff0-a2ad-7099fad23e35"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add chopped tomatoes and remaining spices, stir well",
+      "ingredients_used": [
+        "abd04bac-d49f-5593-9d8c-bc392afa74a4"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Simmer for about 20 minutes",
+      "timer_seconds": 1200
+    },
+    {
+      "step_number": 5,
+      "instruction": "Make indents for in the sauce and crack an egg into each one",
+      "ingredients_used": [
+        "a05671b5-2d29-5f3e-81fc-e4c6d9adb4be"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Once egg whites are cooked through, garnish and serve with toast",
+      "ingredients_used": [
+        "a05671b5-2d29-5f3e-81fc-e4c6d9adb4be",
+        "9668f484-0400-5d60-936f-2799735a0dbc"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://cookpad.com/eng/recipes/16275721?ref=search&search_term=saudi+arabia"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "id": "6d15ad2c-f289-5097-bd41-457e0d82c1a5",
+  "version": "1.0.0",
+  "title": "Bryndzové Halušky",
+  "slug": "bryndzove-halusky",
+  "summary": "A traditional Slovak dish consisting of small potato dumplings tossed with tangy bryndza sheep cheese and topped with crispy bacon bits.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:12:09Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53190"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/g33c901763365484.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/g33c901763365484.jpg/small",
+      "alt_text": "Photo of Bryndzové Halušky",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/shorts/IPF_VpH7FzI"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "044b7bf3-e48a-565d-bf41-9893debca860",
+        "slug": "slovak",
+        "name": "Slovak"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 35
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a bowl of dumplings with cheese and bacon"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "0e46cd7e-9c8c-51f0-96c4-f937ded79d4a",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "03ccfa12-ad1d-58ae-9c7c-82dca2383d81",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "500g Potatoes",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "a13316d3-9bb5-5609-a1f4-77962cd1c492",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "200g Plain Flour",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "54abbff1-1719-5356-ab7d-f88b80eab08e",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "f59b0e85-811c-5c6f-bdfa-848f8ff0dd45",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 teaspoon Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "71c8a237-2f0f-5c5f-ae10-f3ac846fc9ee",
+          "ingredient_id": "ef7b6758-3d78-59db-b5c2-b6052ad77a04",
+          "name": "bryndza cheese",
+          "display_text": "250g Bryndza cheese",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "8c72f9aa-5558-5c6a-b96d-2739d18fb53b",
+          "ingredient_id": "956cfefc-d0f9-5c1f-9f20-d38a1e4dbdad",
+          "name": "bacon",
+          "display_text": "200g Bacon",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "9fd0fa8e-8f9c-5945-b6f5-e901c053193e",
+          "ingredient_id": "85291054-0b21-5fc5-ac52-86bee20f4bbc",
+          "name": "chives",
+          "display_text": "Garnish Chives",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "garnish",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Prepare the Dough"
+    },
+    {
+      "step_number": 2,
+      "instruction": "Grate the potatoes finely using a hand grater or food processor. Place the grated potatoes in a bowl and mix them with flour, egg, and salt until a sticky dough forms. The consistency should be thick but pliable.",
+      "ingredients_used": [
+        "03ccfa12-ad1d-58ae-9c7c-82dca2383d81",
+        "54abbff1-1719-5356-ab7d-f88b80eab08e",
+        "f59b0e85-811c-5c6f-bdfa-848f8ff0dd45"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Cook the Dumplings"
+    },
+    {
+      "step_number": 4,
+      "instruction": "Bring a large pot of salted water to a boil. Using a halušky maker (similar to a spaetzle maker), press the dough directly into the boiling water. If you don’t have one, use a tilted cutting board and a knife to scrape small pieces of dough into the water.",
+      "ingredients_used": [
+        "f59b0e85-811c-5c6f-bdfa-848f8ff0dd45"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Let the dumplings cook until they float to the surface, usually within 2-3 minutes. Scoop them out with a slotted spoon and set aside in a large bowl.",
+      "timer_seconds": 180
+    },
+    {
+      "step_number": 6,
+      "instruction": "Prepare the Toppings"
+    },
+    {
+      "step_number": 7,
+      "instruction": "Chop the bacon into small pieces and fry in a skillet over medium heat until crispy. If using a bryndza substitute, mix crumbled feta with a dollop of sour cream to mimic the tangy flavor of traditional Slovak sheep cheese.",
+      "ingredients_used": [
+        "8c72f9aa-5558-5c6a-b96d-2739d18fb53b"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Assemble the Dish"
+    },
+    {
+      "step_number": 9,
+      "instruction": "Toss the cooked dumplings with the bryndza cheese (or substitute) until they’re well-coated and creamy. Top with the crispy bacon and its drippings. Garnish with chopped chives or parsley for an extra touch of color and flavor.",
+      "ingredients_used": [
+        "71c8a237-2f0f-5c5f-ae10-f3ac846fc9ee",
+        "8c72f9aa-5558-5c6a-b96d-2739d18fb53b",
+        "9fd0fa8e-8f9c-5945-b6f5-e901c053193e"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.slovakia-foods.co.uk/blog/post/bryndzove-halusky-recipe-a-taste-of-slovakia-national-dish.html"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "id": "58cf0e0f-7eed-5bb2-87d8-81b002edf9e5",
+  "version": "1.0.0",
+  "title": "Corned Beef and Cabbage – Jamaican Style",
+  "slug": "corned-beef-and-cabbage-jamaican-style",
+  "summary": "A Jamaican-style savory dish featuring corned beef sautéed with cabbage, peppers, onions, and tomatoes.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:26:38Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53350"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/kdz63q1764793442.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/kdz63q1764793442.jpg/small",
+      "alt_text": "Photo of Corned Beef and Cabbage – Jamaican Style",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Bxjz-q2hioA"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "2dfec5c8-490a-551c-9d2f-e8e21f706bda",
+        "slug": "jamaican",
+        "name": "Jamaican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 25
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of corned beef and cabbage"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "44fa7c0d-d7b8-5282-96c5-cc7432a75994",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "19b15982-d9f8-5372-915c-b6d68b3d7237",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 tablespoon Olive Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "af3bdf59-1075-50ab-83f9-f4fa1978b808",
+          "ingredient_id": "8604c41c-a935-5634-b405-fed806fe806b",
+          "name": "cabbage",
+          "display_text": "1/2 Cabbage",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "500628c7-2350-5adc-ba00-568a7a95ec89",
+          "ingredient_id": "f86b83d4-879d-54bb-a883-73bbfa9228ba",
+          "name": "green pepper",
+          "display_text": "1 chopped Green Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "49300ffa-64ec-5962-87d0-9d06e893bd64",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0e896a00-c4b9-5a11-a84e-b092d91afb59",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves minced Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "minced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b73521f3-dc3b-50f3-b9e0-db124fc324ab",
+          "ingredient_id": "b9d442b1-bc95-5708-804e-29b7a814b4cd",
+          "name": "corned beef",
+          "display_text": "12 ounces Corned Beef",
+          "quantity": 12.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 340.2,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "f6f89d67-1d80-5258-89eb-1e74333fe930",
+          "ingredient_id": "eef09ba5-f0a8-5d2e-a676-6a71ab7f1fab",
+          "name": "plum tomatoes",
+          "display_text": "2 chopped Plum Tomatoes",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "bc41169f-7d26-59cb-a2aa-3b7c0e832590",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "2 sprigs Thyme",
+          "quantity": 2.0,
+          "unit": "sprig",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "a86cbe6a-6cbd-58b3-afbf-f0f33b81c3ad",
+          "ingredient_id": "a4357aa8-235c-57af-b089-15c2effbb92c",
+          "name": "tomato ketchup",
+          "display_text": "1 tablespoon Tomato Ketchup",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "dd016c16-8b6a-57b4-ad10-3ace105cfe53",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "fe14fb7f-0dad-502f-9424-0834003ab660",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "To taste Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat olive oil in a skillet or Dutch pot over medium-high heat. Add onion and green pepper and sauté for about 3-5 minutes.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "19b15982-d9f8-5372-915c-b6d68b3d7237",
+        "500628c7-2350-5adc-ba00-568a7a95ec89",
+        "49300ffa-64ec-5962-87d0-9d06e893bd64",
+        "fe14fb7f-0dad-502f-9424-0834003ab660"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add garlic and stir for about 1 minute.",
+      "timer_seconds": 60,
+      "ingredients_used": [
+        "0e896a00-c4b9-5a11-a84e-b092d91afb59"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add shredded cabbage and stir. Cook for about about 3-5 minutes, stirring often until softened.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "af3bdf59-1075-50ab-83f9-f4fa1978b808"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add corned beef, Roma tomatoes, and thyme and stir. Add ketchup and scotch bonnet pepper sauce and stir. Reduce heat and cook on medium for about 3-5 minutes, until the corned beef is heated through. Remove from heat.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "b73521f3-dc3b-50f3-b9e0-db124fc324ab",
+        "f6f89d67-1d80-5258-89eb-1e74333fe930",
+        "bc41169f-7d26-59cb-a2aa-3b7c0e832590",
+        "a86cbe6a-6cbd-58b3-afbf-f0f33b81c3ad",
+        "fe14fb7f-0dad-502f-9424-0834003ab660"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Serve with white rice, bread, or on its own."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.myforkinglife.com/corned-beef-and-cabbage-jamaican-style/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

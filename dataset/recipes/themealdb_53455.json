@@ -1,0 +1,243 @@
+{
+  "id": "7d8c4c55-75a4-5beb-8879-58820d50ff67",
+  "version": "1.0.0",
+  "title": "Chicken Liver Pate Recipe",
+  "slug": "chicken-liver-pate-recipe",
+  "summary": "A Barbadian-style chicken liver pâté cooked slowly in a casserole and blended until smooth, finished with sherry.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:35:36Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53455"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/hob03q1780264260.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/hob03q1780264260.jpg/small",
+      "alt_text": "Photo of Chicken Liver Pate Recipe",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "71413a66-c12a-5aba-a038-e60b4b3fcacc",
+        "slug": "barbadian",
+        "name": "Barbadian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "breakfast"
+    ],
+    "courses": [
+      "appetizer"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 120,
+    "total_time_minutes": 135
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of pâté"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "mustard",
+      "sulfites"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "290510a7-9d32-567e-9ab5-744d5daf8657",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "c8a23dfe-cbc2-5dff-b64c-e21d93b28334",
+          "ingredient_id": "c95f13d3-bd87-5203-9f11-0767f1dcd326",
+          "name": "chicken liver",
+          "display_text": "1lb Chicken Liver",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "poultry"
+        },
+        {
+          "id": "9e312738-b054-5f87-b5d4-355b291afa95",
+          "ingredient_id": "956cfefc-d0f9-5c1f-9f20-d38a1e4dbdad",
+          "name": "bacon",
+          "display_text": "1/2 lb Bacon",
+          "quantity": 0.5,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 226.8,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "1cbd54eb-1d24-5c29-bf06-0dee3f21f348",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "bc3989be-1154-5240-9559-8252c1af0066",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 large Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0acf7719-b061-5497-9358-3bdf7ed656f5",
+          "ingredient_id": "f467d9fd-56d1-5fc0-9983-079764094169",
+          "name": "ground mustard",
+          "display_text": "2 tsp Ground Mustard",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "3f644c2b-c411-57fe-a6ce-c81dfa7dd720",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "a63a8a35-6692-520c-af03-36c37c492160",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "To taste Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "7b18bb85-c34e-5e45-bfec-198fd0f61efd",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "Splash Milk",
+          "quantity": 1,
+          "unit": "splash",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "e5efdc0d-b67b-5338-b097-492b67f8bd15",
+          "ingredient_id": "687f1448-031a-5497-be0c-5babc97de35e",
+          "name": "sherry",
+          "display_text": "1 tablespoon Sherry",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Clean livers of sinews and gall.",
+      "ingredients_used": [
+        "c8a23dfe-cbc2-5dff-b64c-e21d93b28334"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Put into a fireproof casserole with all other ingredients roughly chopped."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Season and cover with milk.",
+      "ingredients_used": [
+        "7b18bb85-c34e-5e45-bfec-198fd0f61efd"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Put the lid on the casserole and cook in a slow oven (300ºF) for 2 hours.",
+      "timer_seconds": 7200,
+      "temperature": {
+        "value": 300,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 5,
+      "instruction": "Liquidize in a blender."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Adjust seasoning."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Add sherry or brandy.",
+      "ingredients_used": [
+        "e5efdc0d-b67b-5338-b097-492b67f8bd15"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Put in a dish and cover with melted butte"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.totallybarbados.com/articles/barbados-recipes/chicken-liver-pate/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

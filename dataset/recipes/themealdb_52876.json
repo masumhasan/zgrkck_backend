@@ -1,0 +1,270 @@
+{
+  "id": "5cc95e70-ee19-58c6-af33-f26150c2806c",
+  "version": "1.0.0",
+  "title": "Minced Beef Pie",
+  "slug": "minced-beef-pie",
+  "summary": "A classic British savory pie filled with seasoned minced beef, onions, mushrooms, and a rich gravy topped with shortcrust pastry.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:45:18Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52876"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/xwutvy1511555540.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/xwutvy1511555540.jpg/small",
+      "alt_text": "Photo of Minced Beef Pie",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=QY47h-uqq5g"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "meat",
+      "pie"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 35,
+    "rest_time_minutes": 10,
+    "total_time_minutes": 60
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 wedge of pie"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "eggs",
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "a26b030b-b6fe-52df-a80d-73ca04578b39",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "6b52e98f-d97d-5f6c-95b9-3e9574ef5b6f",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "2 tbs Vegetable Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "ae220dd9-56bd-5b60-980c-5710e6b99136",
+          "ingredient_id": "32de35ba-e219-523e-a9c8-e8bef0b536c9",
+          "name": "minced beef",
+          "display_text": "500g Minced Beef",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "9ae42131-c136-5fab-bba6-347031f0163e",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "60b2035d-1fba-5f24-b96c-247c6855af31",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "1 tbls Tomato Puree",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "63f4d421-a667-5e13-836c-96b1591dd360",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "1 ½ tbsp Plain Flour",
+          "quantity": 1.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 22.5,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "d39217d5-260e-503f-950a-351174565584",
+          "ingredient_id": "5031dcf8-ef4a-588f-ae8f-de7c2790dfac",
+          "name": "mushrooms",
+          "display_text": "75g Mushrooms",
+          "quantity": 75.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "87628406-4916-50f0-993e-2a2b85ada05c",
+          "ingredient_id": "39a746ef-3300-5229-b0b2-3e03970ea60c",
+          "name": "beef stock",
+          "display_text": "250ml Beef Stock",
+          "quantity": 250.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "f44fb293-51d2-5b4e-9071-0cce2cf8975a",
+          "ingredient_id": "31e8f031-3e86-5406-8703-0e73554e2898",
+          "name": "worcestershire sauce",
+          "display_text": "Dash Worcestershire Sauce",
+          "quantity": 1,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "condiments"
+        },
+        {
+          "id": "bd048560-0083-5026-82a1-0b30f214c242",
+          "ingredient_id": "046360a3-7aab-5675-9fe2-646f97878a5d",
+          "name": "shortcrust pastry",
+          "display_text": "400g Shortcrust Pastry",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "d043b818-573b-5a26-9a8d-d291a988abdf",
+          "ingredient_id": "051a3118-01a4-5366-a922-19ecf618e2f9",
+          "name": "egg yolks",
+          "display_text": "1 Egg Yolks",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat the oven to 200C/400F/Gas 6.",
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat the oil in a deep frying pan and fry the beef mince for 4-5 minutes, breaking it up with a wooden spoon as it browns.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "ae220dd9-56bd-5b60-980c-5710e6b99136"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the onion and cook for 2-3 minutes, then stir in the tomato purée and cook for 2-3 more minutes. Stir in the flour and cook for a further minute, then add the chopped mushrooms, the stout or beef stock and a couple of dashes of Worcestershire sauce. Bring to the boil, then reduce the heat, cover the pan with a lid and leave to simmer for 20 minutes. Set aside and leave to cool, then turn the meat mixture into a one liter pie dish.",
+      "ingredients_used": [
+        "ae220dd9-56bd-5b60-980c-5710e6b99136",
+        "9ae42131-c136-5fab-bba6-347031f0163e",
+        "d39217d5-260e-503f-950a-351174565584",
+        "87628406-4916-50f0-993e-2a2b85ada05c",
+        "f44fb293-51d2-5b4e-9071-0cce2cf8975a"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Roll out the pastry on a floured work surface until it is slightly larger than the pie dish. Gently drape the pastry over the dish, pressing firmly onto the edges. Trim, then shape the edges into a fluted shape.",
+      "ingredients_used": [
+        "bd048560-0083-5026-82a1-0b30f214c242"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Cut some leaf shapes out of the pastry trimmings and decorate the top of the pie, sticking them to the pastry with the beaten egg yolk.",
+      "ingredients_used": [
+        "bd048560-0083-5026-82a1-0b30f214c242"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Make three or four slits in the pastry to allow the steam to escape, then brush the pie with the rest of the beaten egg yolk and bake in the oven for 20-25 minutes, or until golden-brown.",
+      "timer_seconds": 1500,
+      "ingredients_used": [
+        "bd048560-0083-5026-82a1-0b30f214c242"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "To serve, slice into wedges."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbc.co.uk/food/recipes/mincedbeefpie_89198"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

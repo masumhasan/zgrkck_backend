@@ -1,0 +1,295 @@
+{
+  "id": "f8668084-4ca5-57d0-9aeb-a6f40eaf5ab5",
+  "version": "1.0.0",
+  "title": "Portuguese prego with green piri-piri",
+  "slug": "portuguese-prego-with-green-piri-piri",
+  "summary": "A Portuguese-style steak sandwich featuring beef fillet marinated in olive oil and vinegar, served in ciabatta rolls with a spicy green piri-piri sauce and rocket.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:59:28Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53042"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ewcikl1614348364.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ewcikl1614348364.jpg/small",
+      "alt_text": "Photo of Portuguese prego with green piri-piri",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=FbIKfcDEPLA"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d3317c07-1a34-51bf-a414-80251ba04fe2",
+        "slug": "portuguese",
+        "name": "Portuguese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": [
+      "lunchbox",
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "marinating_time_minutes": 120,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 150
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 steak sandwich with rocket"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "dc29626b-c382-5220-b784-b216f8acfe85",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "2c66a6bf-9a7d-5eaf-9ee6-0604f2312584",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "8833e648-741d-5609-93e1-f511eb6fdd07",
+          "ingredient_id": "d520ed56-24b8-5d5e-ba56-f31d734071eb",
+          "name": "beef fillet",
+          "display_text": "2 small Beef Fillet",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "d686bb50-8fb3-52d6-96ba-f6a052d9d3b8",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tbs Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "43998294-bf49-5985-8492-63ae303f9e6f",
+          "ingredient_id": "ab5b1e5d-c74e-59bc-9caa-0009568a07cb",
+          "name": "vinegar",
+          "display_text": "1 tbs Vinegar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "4f59b912-1383-54ee-8985-c05bf908bcd9",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Leaves Parsley",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "leaves",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "abbf0859-b4aa-5cf5-9ad2-ba2e5f154b02",
+          "ingredient_id": "9cd0fdc7-f572-5539-a90f-266ccc85a005",
+          "name": "ciabatta",
+          "display_text": "2 Ciabatta",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "71e599d0-1336-5151-bbf9-555b27ddc6c3",
+          "ingredient_id": "af2f1a8f-e30f-53b3-838a-093f52d0cd04",
+          "name": "rocket",
+          "display_text": "2 handfulls Rocket",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "handfulls",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "604a5a11-f612-52ec-9397-7f52f2aaaa57",
+          "ingredient_id": "a1783c57-4793-5f4c-b52e-1ed99ab34832",
+          "name": "basil leaves",
+          "display_text": "Small bunch Basil Leaves",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "small bunch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "65cd3314-8d87-53d7-b022-e8b612ed560c",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Small bunch Parsley",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "small bunch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "58910684-4de2-5305-901e-02fb2ba4dc85",
+          "ingredient_id": "eef793c9-14cb-5fa6-bd09-7094600a8921",
+          "name": "jalapeno",
+          "display_text": "1 Jalapeno",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "619de42f-7d08-5e52-b8af-db34d8d1f52a",
+          "ingredient_id": "ab5b1e5d-c74e-59bc-9caa-0009568a07cb",
+          "name": "vinegar",
+          "display_text": "1 tbs Vinegar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "6eae6b2d-4fd0-59a9-9a93-d18e63a5fb9e",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "2 chopped Spring Onions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d765e86d-bf70-599c-8c33-a3b9f91df337",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1/2 Garlic",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c343526b-a9eb-5216-84c6-73f08f358b92",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "1/2 tsp Caster Sugar",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Rub the garlic over the steaks then put in a sandwich bag and tip in the olive oil, sherry vinegar and parsley stalks. Smoosh everything together, then use a rolling pin to bash the steaks a few times. Leave for 1-2 hours.",
+      "timer_seconds": 7200,
+      "ingredients_used": [
+        "2c66a6bf-9a7d-5eaf-9ee6-0604f2312584",
+        "d686bb50-8fb3-52d6-96ba-f6a052d9d3b8",
+        "43998294-bf49-5985-8492-63ae303f9e6f",
+        "4f59b912-1383-54ee-8985-c05bf908bcd9",
+        "65cd3314-8d87-53d7-b022-e8b612ed560c",
+        "619de42f-7d08-5e52-b8af-db34d8d1f52a",
+        "d765e86d-bf70-599c-8c33-a3b9f91df337"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "To make the sauce, put all the ingredients into a blender with 1 tbsp water and whizz until as smooth as possible. This will make more than you’ll need for the recipe but will keep for a week in an airtight jar."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Heat a griddle or frying pan to high. Brush away the garlic and parsley stalks from the steaks and season well. Sear the steaks for 2 minutes on each side then rest on a plate. Put the ciabatta halves onto the plate, toasted-side down, to soak up any juices.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "2c66a6bf-9a7d-5eaf-9ee6-0604f2312584",
+        "4f59b912-1383-54ee-8985-c05bf908bcd9",
+        "abbf0859-b4aa-5cf5-9ad2-ba2e5f154b02",
+        "65cd3314-8d87-53d7-b022-e8b612ed560c",
+        "d765e86d-bf70-599c-8c33-a3b9f91df337"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Slice the steaks then stuff into the rolls with the green sauce and rocket.",
+      "ingredients_used": [
+        "71e599d0-1336-5151-bbf9-555b27ddc6c3"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.olivemagazine.com/recipes/meat-and-poultry/portuguese-prego-with-green-piri-piri/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

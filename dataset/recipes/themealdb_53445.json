@@ -1,0 +1,249 @@
+{
+  "id": "336258b7-9a79-5eeb-9b66-7c57b88943cc",
+  "version": "1.0.0",
+  "title": "Kaspressknödel - Cheese Dumplings",
+  "slug": "kaspressknodel-cheese-dumplings",
+  "summary": "Kaspressknödel are traditional Austrian cheese dumplings made from bread, potatoes, and cheese, pan-fried until golden and served in broth.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:34:44Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53445"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/x26z3y1780155760.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/x26z3y1780155760.jpg/small",
+      "alt_text": "Photo of Kaspressknödel - Cheese Dumplings",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "5ced9979-56b0-5063-8e7f-d2ba3c272045",
+        "slug": "austrian",
+        "name": "Austrian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course",
+      "soup"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 15,
+    "marinating_time_minutes": 15,
+    "total_time_minutes": 50
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "2-3 dumplings in broth"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "cec002b8-2de2-568f-9dab-a6bac863b1fe",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "b1a589a8-5cbd-5679-96fc-112a3f6f175d",
+          "ingredient_id": "95128a6e-6409-5797-b33b-a94a27c5951f",
+          "name": "bread",
+          "display_text": "250g Bread",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "bd33306e-089e-5533-9c74-84956c46729c",
+          "ingredient_id": "9492d127-f816-5ce2-956c-6fe8fdc731f2",
+          "name": "cheese",
+          "display_text": "250g Cheese",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "9a144bdc-0fd3-5338-94fb-dc168f1338b3",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "2 Eggs",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "f62ff4a5-e639-50eb-8677-e07c67dae617",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "abdefc36-20ce-5652-aa35-df2a7c52d898",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Pinch Parsley",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "16bbed5c-e552-519a-b03a-39c032eae722",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "3 Potatoes",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "a5809116-2679-511a-a61e-e2f24e6e7476",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "100g Flour",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "f4f6883e-d772-5677-bddc-220b275cdedc",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "250ml Milk",
+          "quantity": 250.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "f58fcec1-a761-5507-a48a-c5cc3da16a55",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 small Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3f0e1399-ef1f-52d1-b0bc-d99f09918372",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "For frying Butter",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "for frying",
+          "is_optional": false,
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Mix the cubed white bread with the milk, season with salt, and let the mixture rest for a while.",
+      "ingredients_used": [
+        "b1a589a8-5cbd-5679-96fc-112a3f6f175d",
+        "f62ff4a5-e639-50eb-8677-e07c67dae617",
+        "f4f6883e-d772-5677-bddc-220b275cdedc"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Now add the shredded potatoes, the grated cheese, eggs, and parsley.",
+      "ingredients_used": [
+        "bd33306e-089e-5533-9c74-84956c46729c",
+        "9a144bdc-0fd3-5338-94fb-dc168f1338b3",
+        "abdefc36-20ce-5652-aa35-df2a7c52d898",
+        "16bbed5c-e552-519a-b03a-39c032eae722"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Melt the butter and fry the cubed onions until golden brown in color and put into the mixture.",
+      "ingredients_used": [
+        "f58fcec1-a761-5507-a48a-c5cc3da16a55",
+        "3f0e1399-ef1f-52d1-b0bc-d99f09918372"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add the flour and gently knead the dough. Shape it into round dumplings, gently press them flat and fry them on both sides in butter until golden brown.",
+      "ingredients_used": [
+        "a5809116-2679-511a-a61e-e2f24e6e7476",
+        "3f0e1399-ef1f-52d1-b0bc-d99f09918372"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Serve in clear broth."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.austria.info/en-gb/recipes/cheese-dumplings/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "id": "faadbbc2-3314-5413-996e-73dd63debb9a",
+  "version": "1.0.0",
+  "title": "Thai fried rice with prawns & peas",
+  "slug": "thai-fried-rice-with-prawns-peas",
+  "summary": "A Thai-style fried rice dish featuring king prawns, peas, and eggs, seasoned with soy and fish sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:12:57Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53198"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/hblwvg1763478203.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/hblwvg1763478203.jpg/small",
+      "alt_text": "Photo of Thai fried rice with prawns & peas",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=9wZAYbPcF-I"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "724b7c6a-f254-57d4-9729-335a2b2d93b1",
+        "slug": "thai",
+        "name": "Thai"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 20
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of fried rice topped with 1 fried egg"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "7cf252d7-9f37-5931-9e47-a593c54b9442",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "ddf0be19-43b6-5f02-89af-9bb9e2409728",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "2 tbsp Vegetable Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "07d27c6f-0175-516b-b7d4-e1bd681aff28",
+          "ingredient_id": "716f7639-3b59-56a7-9146-1819649ebdad",
+          "name": "red onions",
+          "display_text": "1 sliced Red Onions",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "a138a8ee-fa3e-5097-a7f5-ea808e55b533",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "2 sliced Garlic Clove",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "fe1fe7cb-2789-5360-90f7-bafb70ef7e07",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "1 sliced Red Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f854fb02-4cff-520d-bb76-580b5ae4e976",
+          "ingredient_id": "c25c2a5c-b6b1-56c4-b863-457dc879b0df",
+          "name": "raw king prawns",
+          "display_text": "250g Raw King Prawns",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "af95126c-536a-5791-a886-d3453a9e6119",
+          "ingredient_id": "e4d322eb-fa90-5796-b25b-59d2f50cb9ae",
+          "name": "brown rice",
+          "display_text": "140g Brown Rice",
+          "quantity": 140.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 140.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "597e6e1e-63b8-5ee9-8deb-2fa4c7ef09d1",
+          "ingredient_id": "a3bbc4af-d0ec-5323-ac86-907a6f17bdb2",
+          "name": "frozen peas",
+          "display_text": "75g Frozen Peas",
+          "quantity": 75.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "gram",
+          "category": "frozen_foods"
+        },
+        {
+          "id": "d6587857-8d0a-5cd7-bc87-9904e1c4874a",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "1 tablespoon Soy Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "e2b3d117-b151-531d-a1ab-831febc55555",
+          "ingredient_id": "de927c20-fdfa-5b98-8ee9-7840fa951a2f",
+          "name": "fish sauce",
+          "display_text": "1 tablespoon Fish Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "a68793f5-b4c5-5db3-b7e8-bfabfb4956d0",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "Bunch Coriander",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "bunch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d015d773-4b98-52ad-857b-1405115ec888",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "4 large Egg",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "d92b64ed-38b2-5209-ac46-5dbe91f186e9",
+          "ingredient_id": "42d67342-d05a-512d-958a-1c2fdbf7a682",
+          "name": "hotsauce",
+          "display_text": "To serve Hotsauce",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat 1 tbsp of the oil in a wok, add the onion, garlic and chilli, and cook for 2-3 mins until golden. Add the prawns and cook for 1 min. Tip in the rice and peas, and keep tossing until very hot. Add the soy and fish sauce, then stir through the chopped coriander. Keep warm while you fry the eggs.",
+      "ingredients_used": [
+        "fe1fe7cb-2789-5360-90f7-bafb70ef7e07",
+        "f854fb02-4cff-520d-bb76-580b5ae4e976",
+        "af95126c-536a-5791-a886-d3453a9e6119",
+        "597e6e1e-63b8-5ee9-8deb-2fa4c7ef09d1",
+        "e2b3d117-b151-531d-a1ab-831febc55555",
+        "a68793f5-b4c5-5db3-b7e8-bfabfb4956d0"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat the remaining oil in a frying pan and fry the eggs with some seasoning. Divide the fried rice mix between 4 bowls and top each with a fried egg. Serve scattered with coriander, with chilli sauce, if you like.",
+      "ingredients_used": [
+        "fe1fe7cb-2789-5360-90f7-bafb70ef7e07",
+        "af95126c-536a-5791-a886-d3453a9e6119",
+        "a68793f5-b4c5-5db3-b7e8-bfabfb4956d0",
+        "d015d773-4b98-52ad-857b-1405115ec888"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/thai-fried-rice-prawns-peas"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

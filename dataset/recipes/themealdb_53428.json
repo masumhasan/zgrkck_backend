@@ -1,0 +1,202 @@
+{
+  "id": "a72e52d4-5c82-5879-ad96-6fa8209333f6",
+  "version": "1.0.0",
+  "title": "Camaro Grelhado Com Molho Cru (Grilled Prawns with Green Onion Sauce)",
+  "slug": "camaro-grelhado-com-molho-cru-grilled-prawns-with-green-onion-sauce",
+  "summary": "Grilled prawns served with a fresh, pungent green onion and garlic sauce. This Angolan-style seafood dish is prepared by grinding sauce ingredients into a paste and using it to flavor the prawns on the grill.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:33:22Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53428"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/jg4r991779916649.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/jg4r991779916649.jpg/small",
+      "alt_text": "Photo of Camaro Grelhado Com Molho Cru (Grilled Prawns with Green Onion Sauce)",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4a23f8f9-1616-58d0-bfd6-25ded0cb5675",
+        "slug": "angolan",
+        "name": "Angolan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 8,
+    "total_time_minutes": 18
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of prawns with sauce"
+  },
+  "allergens": {
+    "contains": [
+      "fish",
+      "shellfish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "ed2996da-9892-5fde-9e33-edbb6f8a2d3d",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "3a43b238-d12e-5a42-bbc7-4cb44b9aa477",
+          "ingredient_id": "d2faf7d8-97cd-57b2-9aee-58261714f9d5",
+          "name": "prawns",
+          "display_text": "1 lb Prawns",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "f8c049d7-59ba-5d51-b637-2efe50146500",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves minced Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "minced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3713e2ea-9c7d-52b4-ad94-19dc266c904f",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "1/2 cup Spring Onions",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "b49882a6-039e-5a2b-b3c7-b32346d2fd06",
+          "ingredient_id": "efa5be6a-3bc3-55ca-812f-22dd145ba53d",
+          "name": "ground cumin",
+          "display_text": "1 tsp Ground Cumin",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "36c9668e-ebbc-5a32-a3e4-af25c87acb64",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/4 tsp Salt",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "0ee6536f-4bec-528a-b764-11d14e8f1ea8",
+          "ingredient_id": "b7b7e394-7e0b-5e0b-8f4c-19d0888f8705",
+          "name": "white vinegar",
+          "display_text": "4 tablespoons White Vinegar",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "f3663aa1-1fd8-5309-b383-93864e057906",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "4 tablespoons Water",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Make the sauce by combining all the ingredients and grinding them into a paste."
+    },
+    {
+      "step_number": 2,
+      "instruction": "Put the prawns on the skewers and brush with sauce.",
+      "ingredients_used": [
+        "3a43b238-d12e-5a42-bbc7-4cb44b9aa477"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Grill until done (they should lose their translucent color), about 3-4 minutes on each side.",
+      "timer_seconds": 240
+    },
+    {
+      "step_number": 4,
+      "instruction": "Serve with extra sauce on the side."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.196flavors.com/wprm_print/camarao-grelhado-com-molho-cru"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "id": "4ab220dd-c167-5e5a-8026-9042208b6d65",
+  "version": "1.0.0",
+  "title": "Pan-fried hake, white bean & chorizo broth",
+  "slug": "pan-fried-hake-white-bean-chorizo-broth",
+  "summary": "A Spanish-style dish featuring pan-fried hake fillets served over a savory broth of white beans, chorizo, and aromatic spices.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:08:55Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53152"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/4yjart1763248459.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/4yjart1763248459.jpg/small",
+      "alt_text": "Photo of Pan-fried hake, white bean & chorizo broth",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=6hcNBBob_xI"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 55,
+    "total_time_minutes": 70
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1 hake fillet with bean and chorizo broth"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "186055b7-4cc1-5a8e-9742-89fe18a3cf52",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "3be5b4de-0f5e-5f1e-9e80-6ec0be0c454b",
+          "ingredient_id": "03f8d34f-451d-5335-a7ee-645fe0c59427",
+          "name": "dried white beans",
+          "display_text": "450g Dried white beans",
+          "quantity": 450.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "857fbf16-3c56-5855-83eb-44de51e6eab2",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "4 cloves Garlic",
+          "quantity": 4.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "84540e19-1413-511c-9848-458bb20c94d4",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaves",
+          "display_text": "2 Bay Leaves",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "567cf34f-e667-5ce3-aa32-e1dca9797f3b",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "1 teaspoon Thyme",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "7e4aad07-90c2-5bfb-8910-8b941cd28974",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "6 tablespoons Olive Oil",
+          "quantity": 6.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 90.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "e64a7bc0-a250-5217-95df-8bfaac24c3c6",
+          "ingredient_id": "95128a6e-6409-5797-b33b-a94a27c5951f",
+          "name": "bread",
+          "display_text": "100g Bread",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "88e55aa0-4a4b-5a61-914e-9b70b9fc7fb5",
+          "ingredient_id": "d4235a95-0bb4-579b-8855-bbb8f4efeb46",
+          "name": "chorizo",
+          "display_text": "100g Chorizo",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "79c86409-cad7-5e00-aac8-1fe18cf2b4fd",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "39189635-5d33-5a96-926c-bbd99f5d65b8",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "3 tsp Paprika",
+          "quantity": 3.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3a9292a9-3430-5a0d-bf25-b80996aa310c",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "1 L Chicken Stock",
+          "quantity": 1.0,
+          "unit": "liter",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "liter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "fcea36d2-0a6c-5342-906f-d24ca2925c11",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Handful Parsley",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1c300f5a-5e5b-5f45-94b6-05ced98fc6a7",
+          "ingredient_id": "da05f15f-b50e-5b31-8ceb-d004469f42db",
+          "name": "hake",
+          "display_text": "6 Hake",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "fish"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Drain the beans, then tip into a large pan with 2 liters of water. Simmer with the whole garlic cloves, bay leaves and thyme for 30 mins or until cooked and tender. Remove from the heat and set aside.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "3be5b4de-0f5e-5f1e-9e80-6ec0be0c454b",
+        "857fbf16-3c56-5855-83eb-44de51e6eab2",
+        "84540e19-1413-511c-9848-458bb20c94d4",
+        "567cf34f-e667-5ce3-aa32-e1dca9797f3b"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Meanwhile, heat 2 tbsp oil in a frying pan. Fry the bread with the remaining garlic clove. When golden and crisp, scoop out and drain on kitchen paper. Add the chorizo to the pan, fry until crisp, tip out and keep warm with the bread.",
+      "ingredients_used": [
+        "857fbf16-3c56-5855-83eb-44de51e6eab2",
+        "e64a7bc0-a250-5217-95df-8bfaac24c3c6",
+        "88e55aa0-4a4b-5a61-914e-9b70b9fc7fb5"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add another 2 tbsp oil and the onion to the pan, and cook for 5 mins until softened. Stir in the paprika. Drain the beans and add to the onions with the chicken stock and 2 tsp salt. Cook for 5-10 mins. Stir through the parsley and keep warm.",
+      "ingredients_used": [
+        "3be5b4de-0f5e-5f1e-9e80-6ec0be0c454b",
+        "79c86409-cad7-5e00-aac8-1fe18cf2b4fd",
+        "39189635-5d33-5a96-926c-bbd99f5d65b8",
+        "3a9292a9-3430-5a0d-bf25-b80996aa310c",
+        "fcea36d2-0a6c-5342-906f-d24ca2925c11"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Season the hake and heat the remaining 2 tbsp oil in the frying pan. Put the hake, skin-side down, in the pan and cook for 3-5 mins over a mediumhigh heat to crisp up the skin. Flip the fish over and cook for a further 3-5 mins until cooked through. Spoon the white bean mix into bowls, place the hake on top and finish with the fried bread, chorizo and a little more thyme.",
+      "ingredients_used": [
+        "567cf34f-e667-5ce3-aa32-e1dca9797f3b",
+        "e64a7bc0-a250-5217-95df-8bfaac24c3c6",
+        "88e55aa0-4a4b-5a61-914e-9b70b9fc7fb5",
+        "1c300f5a-5e5b-5f45-94b6-05ced98fc6a7"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/pan-fried-hake-white-bean-chorizo-broth"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

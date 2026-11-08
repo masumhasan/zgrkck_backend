@@ -1,0 +1,218 @@
+{
+  "id": "de17d304-4da6-5da4-8fe0-286e73b12e0c",
+  "version": "1.0.0",
+  "title": "Firni",
+  "slug": "firni",
+  "summary": "Firni is a traditional Afghan milk pudding thickened with cornstarch and flavored with cardamom and rose water.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:30:42Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53399"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/dm8kee1779553541.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/dm8kee1779553541.jpg/small",
+      "alt_text": "Photo of Firni",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.bing.com/videos/riverview/relatedvideo?q=youtube+firni&&mid=5A8ED1B70031EFA59BF85A8ED1B70031EFA59BF8&churl=https%3a%2f%2fwww.youtube.com%2fchannel%2fUCoucq1SZiQoAL2KY5CT9ESg&FORM=VAMGZC"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "e686c554-2e81-511f-b656-15ef0dcb3943",
+        "slug": "afghan",
+        "name": "Afghan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "rest_time_minutes": 120,
+    "total_time_minutes": 145
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of pudding"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "tree_nuts"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "1c9a8305-a548-58af-8bab-9cf20081cd66",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "3b2c64fa-9977-55f6-b621-31db92d9656c",
+          "ingredient_id": "cdd10399-e080-5794-bffb-7cf578edb5a5",
+          "name": "whole milk",
+          "display_text": "6 cups Whole Milk",
+          "quantity": 6.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 1440.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "2c182b9e-dd22-5e57-a108-3cbb2df6ba1c",
+          "ingredient_id": "4bdb1684-cdb6-5a8f-b220-c622cf2655cc",
+          "name": "cornstarch",
+          "display_text": "5 tblsp Cornstarch",
+          "quantity": 5.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "251ee6ed-0ef5-5e24-a6de-5da6d8d33526",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 1/2 cups Sugar",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "7fdbd38f-2e85-5270-ab65-b6e86cece741",
+          "ingredient_id": "3bca0ce2-1312-525a-a4c2-bee7bbeaa967",
+          "name": "ground cardomom",
+          "display_text": "1/2 tsp Ground Cardomom",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "6a9f85b1-8116-540d-ae5f-c61a56067fb2",
+          "ingredient_id": "d356faa1-a066-5da6-86f3-1f5a0f184ca1",
+          "name": "rose water",
+          "display_text": "1 tsp Rose water",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "017ff1a4-7229-5bb4-943d-01f90f2f5b7e",
+          "ingredient_id": "1f65be5f-ad9d-5713-aca2-600f7b2a1ee8",
+          "name": "almonds",
+          "display_text": "Handful Almonds",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "29244e9f-f10c-5694-86c6-012b1f67fed2",
+          "ingredient_id": "7a638ace-4c4a-53cc-a6d0-64e2c042f7ec",
+          "name": "pistachio",
+          "display_text": "Handful Pistachio",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "nuts_seeds"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Pour 1 cup of milk into a small bowl, add the cornstarch and whisk them well until smooth.",
+      "ingredients_used": [
+        "3b2c64fa-9977-55f6-b621-31db92d9656c",
+        "2c182b9e-dd22-5e57-a108-3cbb2df6ba1c"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Pour the rest of the milk into a non-stick saucepan, adding the sugar and cardamom (and rosewater, if desired) whilst cooking over medium heat.",
+      "ingredients_used": [
+        "3b2c64fa-9977-55f6-b621-31db92d9656c",
+        "251ee6ed-0ef5-5e24-a6de-5da6d8d33526"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Before it starts to boil, slowly add the milk and cornstarch mixture to the pan, whisking constantly to avoid lumps. Keep stirring until the mixture increases in thickness.",
+      "ingredients_used": [
+        "3b2c64fa-9977-55f6-b621-31db92d9656c",
+        "2c182b9e-dd22-5e57-a108-3cbb2df6ba1c"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Take the pan off the heat and pour into a large shallow serving bowl. Let it cool at room temperature, and then put in the refrigerator for about 1 – 2 hours.",
+      "timer_seconds": 7200
+    },
+    {
+      "step_number": 5,
+      "instruction": "Finally, sprinkle your Firni with sliced almonds and pistachios and serve!",
+      "ingredients_used": [
+        "017ff1a4-7229-5bb4-943d-01f90f2f5b7e",
+        "29244e9f-f10c-5694-86c6-012b1f67fed2"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.afghanaid.org.uk/firni-recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

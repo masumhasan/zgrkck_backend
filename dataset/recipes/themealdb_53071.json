@@ -1,0 +1,320 @@
+{
+  "id": "dff4770b-7f63-5390-b0db-b41309b807e3",
+  "version": "1.0.0",
+  "title": "Beef Asado",
+  "slug": "beef-asado",
+  "summary": "A Filipino-style beef stew marinated in soy sauce and vinegar, then simmered until tender and finished with a rich tomato-based sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:02:04Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53071"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/pkopc31683207947.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/pkopc31683207947.jpg/small",
+      "alt_text": "Photo of Beef Asado",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=lNlK8DVhXXA"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "3e1a78f5-e83e-5b97-a090-8a1e2d2271a8",
+        "slug": "filipino",
+        "name": "Filipino"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 60,
+    "marinating_time_minutes": 30,
+    "total_time_minutes": 110
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of beef with sauce"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "soy",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "16e47a51-3894-50fd-99c7-440dea8e2069",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "bb22f7c2-8b53-503b-862b-2ec9f384c498",
+          "ingredient_id": "c2102b4e-a5b4-5bab-b7d5-bdfa5244ae7b",
+          "name": "beef",
+          "display_text": "1.5kg Beef",
+          "quantity": 1.5,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.5,
+          "metric_unit": "kilogram",
+          "category": "meat"
+        },
+        {
+          "id": "cf054136-7800-5048-8b63-12b1ab773170",
+          "ingredient_id": "17f1e1ef-8d77-5954-8209-87e932717825",
+          "name": "beef stock concentrate",
+          "display_text": "1 Beef Stock Concentrate",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "49d83634-56f5-5e12-8ddc-81e30751604b",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "8 ounces Tomato Puree",
+          "quantity": 8.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 226.8,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "f74939f7-f5fd-5721-a8a4-189602f92a95",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "3 cups Water",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "bb5639d6-16d3-5409-9ce4-e293ed46db1f",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "6 tablespoons Soy Sauce",
+          "quantity": 6.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 90.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "221185b3-0f98-57c1-b505-882083c087ea",
+          "ingredient_id": "fa7445fe-6dac-523d-9bc7-0bdbcf354913",
+          "name": "white wine vinegar",
+          "display_text": "1 tbs White Wine Vinegar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "657d182e-a909-567d-8d14-58dbb737bf86",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "2 tbs Pepper",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "dd11e8c6-2da5-5e7e-8c0b-753ad4f29298",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "4 Bay Leaf",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "868287b1-a048-5022-a871-61f1bfd63a19",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "1/2 Lemon",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "9ccfda9e-0186-5764-8b78-03f5629a68e2",
+          "ingredient_id": "90e5122f-4f82-5545-8a35-7a3d959514b3",
+          "name": "tomato sauce",
+          "display_text": "2 tbs Tomato Sauce",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "ac777b9f-f1b1-5eaa-a4b4-0c7ea75b29d3",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "3 tbs Butter",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "eb48aae6-d9e2-5a13-980d-691e23508cb9",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1/2 cup Olive Oil",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "af9a573c-aefa-5ef9-883c-938d22fd2369",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e681bdac-054e-54d5-9772-3cfb20e864cf",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "4 cloves Garlic",
+          "quantity": 4.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Combine beef, crushed peppercorn, soy sauce, vinegar, dried bay leaves, lemon, and tomato sauce. Mix well. Marinate beef for at least 30 minutes.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "bb22f7c2-8b53-503b-862b-2ec9f384c498",
+        "bb5639d6-16d3-5409-9ce4-e293ed46db1f",
+        "868287b1-a048-5022-a871-61f1bfd63a19",
+        "9ccfda9e-0186-5764-8b78-03f5629a68e2"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Put the marinated beef in a cooking pot along with remaining marinade. Add water. Let boil.",
+      "ingredients_used": [
+        "bb22f7c2-8b53-503b-862b-2ec9f384c498",
+        "f74939f7-f5fd-5721-a8a4-189602f92a95"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add Knorr Beef Cube. Stir. Cover the pot and cook for 40 minutes in low heat.",
+      "timer_seconds": 2400,
+      "ingredients_used": [
+        "bb22f7c2-8b53-503b-862b-2ec9f384c498"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Turn the beef over. Add tomato paste. Continue cooking until beef tenderizes. Set aside.",
+      "ingredients_used": [
+        "bb22f7c2-8b53-503b-862b-2ec9f384c498"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Heat oil in a pan. Fry the potato until it browns. Turn over and continue frying the opposite side. Remove from the pan and place on a clean plate. Do the same with the carrots."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Save 3 tablespoons of cooking oil from the pan where the potato was fried. Saute onion and garlic until onion softens.",
+      "ingredients_used": [
+        "af9a573c-aefa-5ef9-883c-938d22fd2369",
+        "e681bdac-054e-54d5-9772-3cfb20e864cf"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Pour-in the sauce from the beef stew. Let boil. Add the beef. Cook for 2 minutes.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "bb22f7c2-8b53-503b-862b-2ec9f384c498"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Add butter and let it melt. Continue cooking until the sauce reduces to half.",
+      "ingredients_used": [
+        "ac777b9f-f1b1-5eaa-a4b4-0c7ea75b29d3"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://panlasangpinoy.com/beef-asado/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

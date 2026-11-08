@@ -1,0 +1,282 @@
+{
+  "id": "bc8c9d8b-3d21-5df6-827c-b50f9f9f37e6",
+  "version": "1.0.0",
+  "title": "BBQ Pork Sloppy Joes",
+  "slug": "bbq-pork-sloppy-joes",
+  "summary": "A hearty American-style sandwich featuring ground pork cooked in a savory BBQ sauce, served on toasted buns with quick-pickled red onions and a side of roasted sweet potato wedges.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:55:36Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52995"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/atd5sh1583188467.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/atd5sh1583188467.jpg/small",
+      "alt_text": "Photo of BBQ Pork Sloppy Joes",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b95bb9d4-1e18-5623-a50f-942c7d140e82",
+        "slug": "american",
+        "name": "American"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 35,
+    "total_time_minutes": 50
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 sandwich with sweet potato wedges"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery",
+      "sulfites"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "1fa657cb-8386-5bb2-a3e3-078bdaa8f951",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "349a27f7-5999-5642-b16b-1103a0b83f5b",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "2 Potatoes",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "06de9275-46fe-5a9f-8783-c1a196d19f21",
+          "ingredient_id": "716f7639-3b59-56a7-9146-1819649ebdad",
+          "name": "red onions",
+          "display_text": "1 Red Onions",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "154863e7-7356-5e82-abc2-dd235c8acaa6",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "da2cc868-8a36-5ebb-a556-824cdb272e84",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "1 Lime",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0f8c399d-484a-5837-8e92-b8e2cc651bdf",
+          "ingredient_id": "95128a6e-6409-5797-b33b-a94a27c5951f",
+          "name": "bread",
+          "display_text": "2 Bread",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "7d150939-7b77-5c82-b3f6-78d31d313596",
+          "ingredient_id": "f16b4344-55cf-5ee7-a3a2-d8f68550bd18",
+          "name": "pork",
+          "display_text": "1 lb Pork",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "4588a6d2-65d6-544b-9cc3-b9aef9a2808c",
+          "ingredient_id": "725e30b4-e363-56f2-9249-6cddd645a221",
+          "name": "barbeque sauce",
+          "display_text": "Barbeque Sauce",
+          "quantity": 0,
+          "unit": "as_needed",
+          "is_optional": false,
+          "category": "condiments"
+        },
+        {
+          "id": "f2f7e51a-bdc1-5ab4-8291-2247c3bf2f5d",
+          "ingredient_id": "42d67342-d05a-512d-958a-1c2fdbf7a682",
+          "name": "hotsauce",
+          "display_text": "Hotsauce",
+          "quantity": 0,
+          "unit": "as_needed",
+          "is_optional": false,
+          "category": "condiments"
+        },
+        {
+          "id": "a8ada07b-95c3-541f-810e-162f1d2f0f9f",
+          "ingredient_id": "a4357aa8-235c-57af-b089-15c2effbb92c",
+          "name": "tomato ketchup",
+          "display_text": "Tomato Ketchup",
+          "quantity": 0,
+          "unit": "as_needed",
+          "is_optional": false,
+          "category": "condiments"
+        },
+        {
+          "id": "4a18a9e7-b742-5677-badd-787871fea6d7",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "Sugar",
+          "quantity": 0,
+          "unit": "as_needed",
+          "is_optional": false,
+          "category": "sweeteners"
+        },
+        {
+          "id": "31b27be3-785a-5d04-8ca3-5c3b01fa14f8",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "Vegetable Oil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "8c0ae5d4-8807-528d-9b21-eb9daaaee4fc",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Salt",
+          "quantity": 0,
+          "unit": "as_needed",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "47d4dcc3-0374-5542-bfaf-1a10a5f1b594",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "Pepper",
+          "quantity": 0,
+          "unit": "as_needed",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat oven to 450 degrees. Wash and dry all produce. Cut sweet potatoes into ½-inch-thick wedges. Toss on a baking sheet with a drizzle of oil, salt, and pepper. Roast until browned and tender, 20-25 minutes.",
+      "timer_seconds": 1500,
+      "ingredients_used": [
+        "349a27f7-5999-5642-b16b-1103a0b83f5b",
+        "8c0ae5d4-8807-528d-9b21-eb9daaaee4fc",
+        "47d4dcc3-0374-5542-bfaf-1a10a5f1b594"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Meanwhile, halve and peel onion. Slice as thinly as possible until you have ¼ cup (½ cup for 4 servings); finely chop remaining onion. Peel and finely chop garlic. Halve lime; squeeze juice into a small bowl. Halve buns. Add 1 TBSP butter (2 TBSP for 4) to a separate small microwave-safe bowl; microwave until melted, 30 seconds. Brush onto cut sides of buns.",
+      "timer_seconds": 30,
+      "ingredients_used": [
+        "154863e7-7356-5e82-abc2-dd235c8acaa6",
+        "da2cc868-8a36-5ebb-a556-824cdb272e84"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "To bowl with lime juice, add sliced onion, ¼ tsp sugar (½ tsp for 4 servings), and a pinch of salt. Stir to combine; set aside to quick-pickle.",
+      "ingredients_used": [
+        "da2cc868-8a36-5ebb-a556-824cdb272e84",
+        "4a18a9e7-b742-5677-badd-787871fea6d7",
+        "8c0ae5d4-8807-528d-9b21-eb9daaaee4fc"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Heat a drizzle of oil in a large pan over medium-high heat. Add chopped onion and season with salt and pepper. Cook, stirring, until softened, 4-5 minutes. Add garlic and cook until fragrant, 30 seconds more. Add pork and season with salt and pepper. Cook, breaking up meat into pieces, until browned and cooked through, 4-6 minutes.",
+      "ingredients_used": [
+        "154863e7-7356-5e82-abc2-dd235c8acaa6",
+        "7d150939-7b77-5c82-b3f6-78d31d313596",
+        "8c0ae5d4-8807-528d-9b21-eb9daaaee4fc",
+        "47d4dcc3-0374-5542-bfaf-1a10a5f1b594"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "While pork cooks, in a third small bowl, combine BBQ sauce, pickling liquid from onion, 3 TBSP ketchup (6 TBSP for 4 servings), ½ tsp sugar (1 tsp for 4), and ¼ cup water (⅓ cup for 4). Once pork is cooked through, add BBQ sauce mixture to pan. Cook, stirring, until sauce is thickened, 2-3 minutes. Taste and season with salt and pepper.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "7d150939-7b77-5c82-b3f6-78d31d313596",
+        "a8ada07b-95c3-541f-810e-162f1d2f0f9f",
+        "4a18a9e7-b742-5677-badd-787871fea6d7",
+        "8c0ae5d4-8807-528d-9b21-eb9daaaee4fc",
+        "47d4dcc3-0374-5542-bfaf-1a10a5f1b594"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Meanwhile, toast buns in oven or toaster oven until golden, 3-5 minutes. Divide toasted buns between plates and fill with as much BBQ pork as you’d like. Top with pickled onion and hot sauce. Serve with sweet potato wedges on the side.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "7d150939-7b77-5c82-b3f6-78d31d313596"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

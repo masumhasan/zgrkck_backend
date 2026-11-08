@@ -1,0 +1,221 @@
+{
+  "id": "34313b99-4f76-5fa6-93a5-9c7d5404d76e",
+  "version": "1.0.0",
+  "title": "Slow-roast lamb with cinnamon, fennel & citrus",
+  "slug": "slow-roast-lamb-with-cinnamon-fennel-citrus",
+  "summary": "A Turkish-style slow-roasted lamb leg seasoned with a fragrant blend of cinnamon, fennel, cumin, and citrus.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:18:32Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53260"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/gr4lo51763791826.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/gr4lo51763791826.jpg/small",
+      "alt_text": "Photo of Slow-roast lamb with cinnamon, fennel & citrus",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=4_mbvxabtJc"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4c480df7-c067-5e9c-ac08-d8d49afa7f51",
+        "slug": "turkish",
+        "name": "Turkish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 260,
+    "marinating_time_minutes": 1440,
+    "rest_time_minutes": 30,
+    "total_time_minutes": 1750
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1 large slice of lamb leg"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "f2ae3a32-2672-5bc0-a64f-ae2d0aa798a1",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "e06886e4-6426-566a-91b4-449f3e111199",
+          "ingredient_id": "3e654cff-550d-5ae5-ae81-f532c48f2674",
+          "name": "lamb leg",
+          "display_text": "1 Lamb Leg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "171cf9c8-e3b0-5e0e-97de-20b6cd7665e7",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "Zest and juice of 1 Lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "zest and juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "85be08c8-e132-55ac-b910-638917e2da0f",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "4 tablespoons Olive Oil",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "e46b94f7-949f-582b-b1d9-561ad581dd9c",
+          "ingredient_id": "590d0a0c-0a81-5fad-964b-7ade1eb4020d",
+          "name": "clear honey",
+          "display_text": "2 tablespoons Clear Honey",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "e7bf42c6-2bc3-563a-989c-844da6c08014",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "1 tablespoon Cinnamon",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "9472148e-68e2-5f81-b131-177d636b514b",
+          "ingredient_id": "020529fb-59b6-53c9-af68-aa8298301e38",
+          "name": "fennel seeds",
+          "display_text": "1 tablespoon Fennel Seeds",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "8385c787-91b1-5bf3-a826-aafe45766917",
+          "ingredient_id": "efa5be6a-3bc3-55ca-812f-22dd145ba53d",
+          "name": "ground cumin",
+          "display_text": "1 tablespoon Ground Cumin",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "b0b1d915-e9a2-50e4-b591-d7c67bb2eb95",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 Cloves Crushed Garlic",
+          "quantity": 3.0,
+          "unit": "clove",
+          "preparation": "crushed",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Put the lamb into a large food bag with all the juice and marinate overnight."
+    },
+    {
+      "step_number": 2,
+      "instruction": "The next day, take the lamb out of the fridge 1 hr before you want to cook it. Heat oven to 220C/200C fan/gas 7. Take the lamb out of the marinade (reserve remaining marinade) and pat dry. Rub with half the oil and roast for 15-20 mins until browned. Remove lamb and reduce oven to 160C/140C fan/gas 3.",
+      "temperature": {
+        "value": 220,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 3,
+      "instruction": "Mix the zests, remaining oil, honey, spices and garlic with plenty of seasoning. Lay a large sheet of baking parchment on a large sheet of foil. Sit the lamb leg on top, rub all over with the paste and pull up the sides of the foil. Drizzle marinade into base, and scrunch foil to seal.",
+      "ingredients_used": [
+        "e06886e4-6426-566a-91b4-449f3e111199",
+        "e46b94f7-949f-582b-b1d9-561ad581dd9c",
+        "b0b1d915-e9a2-50e4-b591-d7c67bb2eb95"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Roast for 4 hrs, until very tender. Rest, still wrapped, for 30 mins. Unwrap and serve with juices."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/slow-roast-lamb-cinnamon-fennel-citrus"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

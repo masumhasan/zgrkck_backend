@@ -1,0 +1,204 @@
+{
+  "id": "39c543b8-09c5-55cd-a170-b7770aac8fd6",
+  "version": "1.0.0",
+  "title": "Arra të Mbushura me Fik Walnut Stuffed Figs (with Fig Syrup)",
+  "slug": "arra-te-mbushura-me-fik-walnut-stuffed-figs-with-fig-syrup",
+  "summary": "Albanian dessert consisting of figs cooked in water and sugar, stuffed with walnuts and drizzled with a reduced fig syrup.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:31:16Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53406"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/dokbyt1779645030.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/dokbyt1779645030.jpg/small",
+      "alt_text": "Photo of Arra të Mbushura me Fik Walnut Stuffed Figs (with Fig Syrup)",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "e7c6b7b1-e982-5d1b-96fc-1577c9153035",
+        "slug": "albanian",
+        "name": "Albanian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 20
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "2 fig halves with syrup and walnut"
+  },
+  "allergens": {
+    "contains": [
+      "tree_nuts"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "c94d8fb0-b9a3-54d8-87e4-7232b3bb60d8",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "f81b1065-b047-55ee-ba05-41f8a8d040ee",
+          "ingredient_id": "151b62b1-ab01-5e03-8c4f-e8a6ef95c83d",
+          "name": "figs",
+          "display_text": "4 Figs",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "6968b905-9359-584f-ac16-f83cb1d2db95",
+          "ingredient_id": "0ad40f09-76c2-5007-b9ca-38f3ecd4a51d",
+          "name": "walnuts",
+          "display_text": "4 Walnuts",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "0f9617c4-f135-5aa4-aab6-490bb59d49fd",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "150ml Water",
+          "quantity": 150.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "132f4f32-cf90-5c83-a8d8-4a89cf9c0b14",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "60g Sugar",
+          "quantity": 60.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Prepare the Figs",
+      "ingredients_used": [
+        "f81b1065-b047-55ee-ba05-41f8a8d040ee"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Cut off the hard bits of stalk and then cut the figs in half length ways.",
+      "ingredients_used": [
+        "f81b1065-b047-55ee-ba05-41f8a8d040ee"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Place the figs in a small frying pan / saute pan with the cut side face up and add the water around them.",
+      "ingredients_used": [
+        "f81b1065-b047-55ee-ba05-41f8a8d040ee",
+        "0f9617c4-f135-5aa4-aab6-490bb59d49fd"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Cooking"
+    },
+    {
+      "step_number": 5,
+      "instruction": "Leave the figs on a medium heat to cook through, once they become soft remove them from the pan and place onto a serving dish. This will take around 10 - 15 minutes.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "f81b1065-b047-55ee-ba05-41f8a8d040ee"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Prepare the Syrup"
+    },
+    {
+      "step_number": 7,
+      "instruction": "In the pan there will be a red water juice left from the figs. Add the sugar while remaining on a medium heat. Stir continuously for a couple of minutes until the juice has turned to a thick syrup. Remove from the heat.",
+      "ingredients_used": [
+        "f81b1065-b047-55ee-ba05-41f8a8d040ee",
+        "0f9617c4-f135-5aa4-aab6-490bb59d49fd",
+        "132f4f32-cf90-5c83-a8d8-4a89cf9c0b14"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Serving"
+    },
+    {
+      "step_number": 9,
+      "instruction": "Push one half of walnut into every fig and then drizzle the syrup over the top."
+    },
+    {
+      "step_number": 10,
+      "instruction": "Serve warm or cooled."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.myalbanianfood.com/recipe/arra-te-mbushura-me-fik-walnut-stuffed-figs/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

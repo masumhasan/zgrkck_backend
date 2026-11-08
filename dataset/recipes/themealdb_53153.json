@@ -1,0 +1,295 @@
+{
+  "id": "c6bb8b7c-2885-53cc-acf2-6d2b254536a8",
+  "version": "1.0.0",
+  "title": "Churros",
+  "slug": "churros",
+  "summary": "Churros are fried dough pastries typically coated in cinnamon sugar and served with a rich chocolate dipping sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:09:02Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53153"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/nxnny61763250596.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/nxnny61763250596.jpg/small",
+      "alt_text": "Photo of Churros",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=453mpKHVaBs"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 20,
+    "rest_time_minutes": 15,
+    "total_time_minutes": 50
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of churros with chocolate sauce"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "8d62ff6c-ce43-5708-9a10-ddf1e11d33db",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "2c6e558b-b0dc-5b09-ad3f-5450ac1e229f",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "50g Butter",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "50b6a4f9-3ddc-5c34-a7ff-37f8ba201e72",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1/2 teaspoon Vanilla Extract",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "57854860-e6e0-5b58-9a8f-ba8476660b6a",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "250g Plain Flour",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "35b986d8-4cf7-5004-9901-667e94f005dd",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 teaspoon Baking Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "5a58c0b5-df2c-519b-b1ed-986030ae0202",
+          "ingredient_id": "aa561384-0d26-5008-a25e-3ba9db4b2a3f",
+          "name": "sunflower oil",
+          "display_text": "1 L Sunflower Oil",
+          "quantity": 1.0,
+          "unit": "liter",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "liter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "2d78e764-362e-5fc9-9570-36a0d8c4212a",
+          "ingredient_id": "95128a6e-6409-5797-b33b-a94a27c5951f",
+          "name": "bread",
+          "display_text": "2 chopped Bread",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "3adad0a7-85b5-5423-9add-88e4be911daa",
+          "ingredient_id": "f553aca9-844a-5f4f-ba77-363733c03112",
+          "name": "dark chocolate",
+          "display_text": "200g Dark Chocolate",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "5a1aac51-22bc-50bd-a1ef-57212b2cb07e",
+          "ingredient_id": "81b5723b-47de-5017-987f-cdcc95dd362b",
+          "name": "double cream",
+          "display_text": "100 ml Double Cream",
+          "quantity": 100.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "ea9f330c-b657-516c-a8df-80038b284881",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "100 ml Milk",
+          "quantity": 100.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "6652a5c4-6452-555b-8281-23d4ce89922c",
+          "ingredient_id": "c41764f1-4930-56cd-9515-4a677dd7e880",
+          "name": "golden syrup",
+          "display_text": "3  tablespoons Golden Syrup",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "8a95c3bb-42c4-584c-b780-c6f8419e8b46",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1/2 teaspoon Vanilla Extract",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "a4942346-9134-5ae0-97f8-94e33a0e11b1",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "100g Caster Sugar",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "014e1861-f934-5a45-b0fe-bada88d8d53a",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "2 teaspoon Cinnamon",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Boil the kettle, then measure 300ml boiling water into a jug and add the melted butter and vanilla extract. Sift the flour and baking powder into a big mixing bowl with a big pinch of salt. Make a well in the center, then pour in the contents of the jug and very quickly beat into the flour with a wooden spoon until lump-free. Rest for 10-15 mins while you make the sauce.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "2c6e558b-b0dc-5b09-ad3f-5450ac1e229f",
+        "50b6a4f9-3ddc-5c34-a7ff-37f8ba201e72",
+        "35b986d8-4cf7-5004-9901-667e94f005dd",
+        "8a95c3bb-42c4-584c-b780-c6f8419e8b46"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Put all the sauce ingredients into a pan and gently melt together, stirring occasionally until you have a smooth shiny sauce. Keep warm on a low heat."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Fill a large deep saucepan one-third full of oil. Cooking with hot oil can be dangerous – before you start, read up on how to deep-fry safely to avoid accidents in the kitchen. Heat until a cube of bread browns in 45 seconds to 1 min. Cover a tray with kitchen paper and mix the caster sugar and cinnamon together.",
+      "ingredients_used": [
+        "2d78e764-362e-5fc9-9570-36a0d8c4212a",
+        "a4942346-9134-5ae0-97f8-94e33a0e11b1",
+        "014e1861-f934-5a45-b0fe-bada88d8d53a"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Fit a star nozzle to a piping bag – 1.5-2cm wide is a good size. Fill with the rested dough, then pipe 2-3 strips directly into the pan, snipping off each dough strip with a pair of kitchen scissors. Fry until golden brown and crisp. Be very careful here – if air bubbles form in the churros they can explode, especially if the oil overheats or you use old flour. Cooking with hot oil can be dangerous – before you start, read up on how to deep-fry safely to avoid accidents in the kitchen. Keep children out of the kitchen and protect yourself by wearing long sleeves and eye protection, and keeping your face away from the pan."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Once the churros are crisp and golden brown, remove them from the oil with a slotted spoon and drain on the kitchen paper-lined tray. Carry on cooking the rest of the dough in batches, sprinkling the cooked churros with some cinnamon sugar as you go. When you’ve cooked all the churros, toss with any remaining cinnamon sugar and serve with the chocolate sauce, for dipping.",
+      "ingredients_used": [
+        "3adad0a7-85b5-5423-9add-88e4be911daa",
+        "014e1861-f934-5a45-b0fe-bada88d8d53a"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "To see a video of how to prepare churros, take a look at our churros ice cream sandwich recipe."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/churros-chocolate-dipping-sauce"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

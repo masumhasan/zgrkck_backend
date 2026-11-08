@@ -1,0 +1,238 @@
+{
+  "id": "91244d03-1b10-5f45-8986-c147ca5d18f9",
+  "version": "1.0.0",
+  "title": "Frog Legs Recipe in Garlic Butter",
+  "slug": "frog-legs-recipe-in-garlic-butter",
+  "summary": "Frog legs pan-fried in a garlic butter sauce with parsley. This Belgian-style dish is typically served as a main course.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:36:38Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53465"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/qcprt21782497529.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/qcprt21782497529.jpg/small",
+      "alt_text": "Photo of Frog Legs Recipe in Garlic Butter",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "be40c58d-b0e2-5e0f-99bc-6d79e9a5a5f5",
+        "slug": "belgian",
+        "name": "Belgian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 10,
+    "marinating_time_minutes": 60,
+    "total_time_minutes": 75
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of frog legs with bread and salad"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": [
+      "gluten"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "ae0e37ec-4ba2-53f0-bc7b-1375e97753fd",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "877ba0da-4013-5f34-bb64-1653249f06d9",
+          "ingredient_id": "f1650abe-09f4-5d5b-a7c6-57bb79a2db97",
+          "name": "frogs legs",
+          "display_text": "300g Frogs Legs",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "828662f5-d8df-5145-bf55-b43bdf3addd7",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "3 Cups Milk",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "629794a2-f2d4-5183-b937-080f8737f027",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 tablespoon Olive Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "4f31303b-2660-5f15-9dbf-65739c8e4b13",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1/2 tbs Garlic",
+          "quantity": 0.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "0f3b4b98-2c90-5ec1-a2ba-3d77c59f7ac2",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "2 tablespoons Butter",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "4e6f74d9-50bf-5e97-9536-f1ef8217e8a7",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "1 tablespoon Parsley",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3902a9a6-eca1-53d2-836c-32a2ac8f457f",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "2d9e3c6a-1544-53dc-9635-3e5af21eb615",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "Pinch Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Let the frog legs soak in the milk in the fridge for an hour (optional).",
+      "ingredients_used": [
+        "877ba0da-4013-5f34-bb64-1653249f06d9",
+        "828662f5-d8df-5145-bf55-b43bdf3addd7"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Rinse the legs and pat them dry with kitchen paper.",
+      "ingredients_used": [
+        "877ba0da-4013-5f34-bb64-1653249f06d9"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the olive oil and half of the garlic butter to a large wok or frying pan. Place it over high heat until the butter starts to foam. Don't let it burn.",
+      "ingredients_used": [
+        "629794a2-f2d4-5183-b937-080f8737f027",
+        "4f31303b-2660-5f15-9dbf-65739c8e4b13",
+        "0f3b4b98-2c90-5ec1-a2ba-3d77c59f7ac2"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add the frog legs to the pan. Pan fry them for about 10 minutes until they are golden brown on both sides. Turn the over regularly.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "877ba0da-4013-5f34-bb64-1653249f06d9"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Add the rest of the garlic butter right in the end together with the freshly chopped parsley. Season with a pinch of pepper and salt to taste.",
+      "ingredients_used": [
+        "4f31303b-2660-5f15-9dbf-65739c8e4b13",
+        "0f3b4b98-2c90-5ec1-a2ba-3d77c59f7ac2",
+        "4e6f74d9-50bf-5e97-9536-f1ef8217e8a7",
+        "3902a9a6-eca1-53d2-836c-32a2ac8f457f",
+        "2d9e3c6a-1544-53dc-9635-3e5af21eb615"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Divide the frog legs over plates. Serve with grilled bread and a green salad.",
+      "ingredients_used": [
+        "877ba0da-4013-5f34-bb64-1653249f06d9"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://junedarville.com/frog-legs-recipe.html"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

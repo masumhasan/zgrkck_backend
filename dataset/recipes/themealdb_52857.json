@@ -1,0 +1,281 @@
+{
+  "id": "7ca53ccd-4505-5482-a78f-676761dfd42c",
+  "version": "1.0.0",
+  "title": "Pumpkin Pie",
+  "slug": "pumpkin-pie",
+  "summary": "A classic American dessert featuring a spiced pumpkin custard filling baked in a shortcrust pastry shell.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:43:38Z",
+  "updated_at": "2026-10-16T10:22:49Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52857"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/usuqtp1511385394.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/usuqtp1511385394.jpg/small",
+      "alt_text": "Photo of Pumpkin Pie",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=hpapqEeb36k"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b95bb9d4-1e18-5623-a50f-942c7d140e82",
+        "slug": "american",
+        "name": "American"
+      }
+    ],
+    "tags": [
+      "desert",
+      "halloween",
+      "pie"
+    ],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "thanksgiving",
+      "holiday"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 115,
+    "rest_time_minutes": 15,
+    "total_time_minutes": 150
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 slice of pie"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "50eb2c42-f3b3-51c6-a984-e196a30e9365",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "2f2304e8-2ae0-5100-958f-eda6d264cf06",
+          "ingredient_id": "e046e936-ea1f-5501-bc83-8d8341cc097c",
+          "name": "pumpkin",
+          "display_text": "750g Pumpkin",
+          "quantity": 750.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 750.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "539df537-ae83-5e89-8b75-a36fcc86028f",
+          "ingredient_id": "046360a3-7aab-5675-9fe2-646f97878a5d",
+          "name": "shortcrust pastry",
+          "display_text": "350g Shortcrust Pastry",
+          "quantity": 350.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 350.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "aae11ab8-2d8e-52c8-a1a9-b7998893169f",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "Dusting Plain Flour",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "dusting",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "7e46489f-7841-5984-b966-5d6ce6446b96",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "140g Caster Sugar",
+          "quantity": 140.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 140.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "9300b20e-7667-5734-be0c-8ff2ad025f49",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "½ tsp Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "45a11a93-79fb-5449-aab9-99b191eacae4",
+          "ingredient_id": "9426e9cd-e7b2-540e-8ddb-187c01748931",
+          "name": "nutmeg",
+          "display_text": "½ tsp Nutmeg",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "fd059297-899a-5619-b7e0-575a7cf207c2",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "1 tsp Cinnamon",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "897e0619-e569-58a8-9ed3-24e137a82887",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "2 Beaten Eggs",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "beaten",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "80935c76-9303-5968-b1c7-23c296010573",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "25g Butter",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "3809fc3d-18b8-57dd-910f-c61a17083fe2",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "175g Milk",
+          "quantity": 175.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 175.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "00dcea3a-a319-59e8-b60f-1308121223c7",
+          "ingredient_id": "c3b952d9-9879-569e-a989-b29a9b7ec664",
+          "name": "icing sugar",
+          "display_text": "1 tblsp Icing Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Place the pumpkin in a large saucepan, cover with water and bring to the boil. Cover with a lid and simmer for 15 mins or until tender. Drain pumpkin; let cool.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "2f2304e8-2ae0-5100-958f-eda6d264cf06"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat oven to 180C/160C fan/gas 4. Roll out the pastry on a lightly floured surface and use it to line a 22cm loose-bottomed tart tin. Chill for 15 mins. Line the pastry with baking parchment and baking beans, then bake for 15 mins. Remove the beans and paper, and cook for a further 10 mins until the base is pale golden and biscuity. Remove from the oven and allow to cool slightly.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "539df537-ae83-5e89-8b75-a36fcc86028f"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Increase oven to 220C/200C fan/gas 7. Push the cooled pumpkin through a sieve into a large bowl. In a separate bowl, combine the sugar, salt, nutmeg and half the cinnamon. Mix in the beaten eggs, melted butter and milk, then add to the pumpkin purée and stir to combine. Pour into the tart shell and cook for 10 mins, then reduce the temperature to 180C/160C fan/gas 4. Continue to bake for 35-40 mins until the filling has just set.",
+      "temperature": {
+        "value": 220,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "2f2304e8-2ae0-5100-958f-eda6d264cf06",
+        "9300b20e-7667-5734-be0c-8ff2ad025f49",
+        "45a11a93-79fb-5449-aab9-99b191eacae4",
+        "fd059297-899a-5619-b7e0-575a7cf207c2",
+        "897e0619-e569-58a8-9ed3-24e137a82887",
+        "80935c76-9303-5968-b1c7-23c296010573",
+        "3809fc3d-18b8-57dd-910f-c61a17083fe2"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Leave to cool, then remove the pie from the tin. Mix the remaining cinnamon with the icing sugar and dust over the pie. Serve chilled.",
+      "ingredients_used": [
+        "fd059297-899a-5619-b7e0-575a7cf207c2",
+        "00dcea3a-a319-59e8-b60f-1308121223c7"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/1742633/pumpkin-pie"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

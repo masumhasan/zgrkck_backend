@@ -1,0 +1,219 @@
+{
+  "id": "3bd95695-b1a1-5c84-9f60-c8f078352a38",
+  "version": "1.0.0",
+  "title": "Polish patties (kotlety)",
+  "slug": "polish-patties-kotlety",
+  "summary": "Polish-style beef patties made with soaked bread rolls and fried onions, coated in breadcrumbs and pan-fried.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:22:03Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53299"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/vvn5f71764360273.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/vvn5f71764360273.jpg/small",
+      "alt_text": "Photo of Polish patties (kotlety)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/shorts/0XrToCi-U1c"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d40b0607-0a3a-5f5d-8012-7eaf1b714fa5",
+        "slug": "polish",
+        "name": "Polish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course",
+      "side_dish"
+    ],
+    "dietary_flags": [],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 22,
+    "total_time_minutes": 37
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "pieces",
+    "serving_size_description": "2 patties"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "5f843a2d-20d0-587b-bba2-ab07bfbde6c5",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "6d6916c5-b082-526a-aa5a-de6b93cf145b",
+          "ingredient_id": "4b293f71-ebf5-57b9-880f-fd656ba7e6e1",
+          "name": "bread rolls",
+          "display_text": "1 Bread Rolls",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "ef50cc6d-e424-5d87-90f8-b6cd4d86a6de",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "120ml Milk",
+          "quantity": 120.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "4346799c-2a54-5aa4-984a-521b812591a6",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "a23384d5-ac7b-5f9c-8382-4d8ecfdefb0d",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "100 ml Vegetable Oil",
+          "quantity": 100.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "0488877c-1c62-50c0-81ec-4a878973a6a0",
+          "ingredient_id": "daceaafa-62e0-5268-ab7d-62934c564c72",
+          "name": "ground beef",
+          "display_text": "500g Ground Beef",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "1ab24364-2e85-5efa-9dc9-2cfd946aed9f",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "fd1dd9d4-b6d0-516f-99e7-0493a0497771",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "1 Garlic Clove",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d2442df9-bc47-55b7-96fb-eb48dfeb7a54",
+          "ingredient_id": "6ce49d7a-5bca-5a22-a57c-2838ecf815f4",
+          "name": "marjoram",
+          "display_text": "Pinch Marjoram",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "550222a1-b9fe-5827-b52a-1b74e9a82fcf",
+          "ingredient_id": "00efa231-6d81-5c88-91fa-b330117cc5f4",
+          "name": "breadcrumbs",
+          "display_text": "75g Breadcrumbs",
+          "quantity": 75.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Soak the bread roll in the milk so it softens completely. Meanwhile, fry the onion in the oil for around 8 mins or until soft and golden. Add the fried onion to the beef mince along with the egg, garlic, marjoram and some seasoning. Squeeze the excess milk from the bread roll and add it to the mince mixture. Mix everything together and season well.",
+      "timer_seconds": 480,
+      "ingredients_used": [
+        "ef50cc6d-e424-5d87-90f8-b6cd4d86a6de",
+        "4346799c-2a54-5aa4-984a-521b812591a6",
+        "0488877c-1c62-50c0-81ec-4a878973a6a0",
+        "1ab24364-2e85-5efa-9dc9-2cfd946aed9f",
+        "d2442df9-bc47-55b7-96fb-eb48dfeb7a54"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Divide the meat into 8 patties. Tip the dried breadcrumbs into a shallow bowl and coat the patties in it, all over. Heat some oil in a deep frying pan and fry the patties in batches on both sides until browned and cooked through, about 6-7 mins on each side.",
+      "timer_seconds": 420,
+      "ingredients_used": [
+        "550222a1-b9fe-5827-b52a-1b74e9a82fcf"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/polish-patties"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

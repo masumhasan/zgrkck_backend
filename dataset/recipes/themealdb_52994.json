@@ -1,0 +1,258 @@
+{
+  "id": "a12fcf50-c68b-54c6-8982-58d209c4a82d",
+  "version": "1.0.0",
+  "title": "Skillet Apple Pork Chops with Roasted Sweet Potatoes & Zucchini",
+  "slug": "skillet-apple-pork-chops-with-roasted-sweet-potatoes-zucchini",
+  "summary": "Pan-seared pork chops served with roasted sweet potatoes, zucchini, and a sweet and savory apple-garlic glaze.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:55:33Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52994"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/h3ijwo1581013377.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/h3ijwo1581013377.jpg/small",
+      "alt_text": "Photo of Skillet Apple Pork Chops with Roasted Sweet Potatoes & Zucchini",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b95bb9d4-1e18-5623-a50f-942c7d140e82",
+        "slug": "american",
+        "name": "American"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 35,
+    "total_time_minutes": 50
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 pork chop with roasted vegetables and apple sauce"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "28990e9e-80a3-5c71-9cfb-157811165d7b",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "2958a7c6-86a5-5012-b82e-3b464d159237",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "2 Potatoes",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "37a33c20-2c85-53f8-840d-c4ae77a3764c",
+          "ingredient_id": "6a1dceb6-71ee-57ce-baf5-40c7434f83c8",
+          "name": "apples",
+          "display_text": "1 Apples",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "74907946-9f6d-53c5-9231-0b3546f52e0d",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "a219153b-34e5-5739-a2d0-d7767539c030",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "1 Lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b56806e7-f95b-54b0-8971-517b3a8c7787",
+          "ingredient_id": "f16b4344-55cf-5ee7-a3a2-d8f68550bd18",
+          "name": "pork",
+          "display_text": "2 Pork",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "fb5e797a-16e8-5374-a4ca-350adf10223b",
+          "ingredient_id": "008f50c5-b911-5eaa-ae64-9b4e3b127614",
+          "name": "zucchini",
+          "display_text": "1 Zucchini",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "04cec059-7bbb-5dec-8e5b-23c56dd8d641",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "1 Chicken Stock",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "90cf7d2e-d1b2-54e5-8056-6700dffef42f",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "1 tbsp Vegetable Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "65635e76-4982-52af-af4b-2542ba38b1a1",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 1/2 tsp Sugar",
+          "quantity": 1.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "20827a86-ff55-5d2b-a79a-dc36c265db66",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "2 tbsp Butter",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Serves 2"
+    },
+    {
+      "step_number": 2,
+      "instruction": "Adjust racks to top and middle positions and preheat oven to 450 degrees. Wash and dry all produce. Dice sweet potatoes into 1/2-inch pieces. Toss on a baking sheet with a drizzle of oil, salt, and pepper. Roast on top rack for 12 minutes (we'll roast the zucchini then).",
+      "timer_seconds": 720,
+      "ingredients_used": [
+        "2958a7c6-86a5-5012-b82e-3b464d159237",
+        "fb5e797a-16e8-5374-a4ca-350adf10223b"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Meanwhile, halve and core apple; thinly slice into half-moons. Peel and finely chop garlic. Quarter lemon. Trim and halve zucchini lengthwise; cut crosswise into 1/2-inch-thick half-moons. Toss on a second baking sheet with a drizzle of oil and a pinch of salt and pepper. Set aside.",
+      "ingredients_used": [
+        "74907946-9f6d-53c5-9231-0b3546f52e0d",
+        "a219153b-34e5-5739-a2d0-d7767539c030",
+        "fb5e797a-16e8-5374-a4ca-350adf10223b"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Pat pork dry with paper towels and season all over with salt and pepper. Heat a drizzle of oil in a large pan over medium-high heat. Add pork and cook until browned and cooked through, 4-5 minutes per side. Turn off heat; transfer to a plate.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "b56806e7-f95b-54b0-8971-517b3a8c7787"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Once sweet potatoes have roasted 12 minutes, transfer baking sheet with zucchini to middle rack and continue roasting until both veggies are browned and softened, 12-15 minutes more.",
+      "ingredients_used": [
+        "2958a7c6-86a5-5012-b82e-3b464d159237",
+        "fb5e797a-16e8-5374-a4ca-350adf10223b"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Meanwhile, melt 1 TBSP butter (2 TBSP for 4 servings) in pan used for pork over medium-high heat. Add apple and season with salt and pepper. Cook, scraping up any browned bits from bottom of pan, until apple is slightly softened, 2-3 minutes. Add garlic; cook until fragrant, 30 seconds. Add 1/z cup water (3/4 cup for 4), stock concentrate, and 11/2 tsp sugar (3 tsp for 4). Cook, stirring, until sauce has thickened and apple is very tender, 3-5 minutes. Season with salt and pepper.",
+      "ingredients_used": [
+        "74907946-9f6d-53c5-9231-0b3546f52e0d",
+        "b56806e7-f95b-54b0-8971-517b3a8c7787",
+        "65635e76-4982-52af-af4b-2542ba38b1a1",
+        "20827a86-ff55-5d2b-a79a-dc36c265db66"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Remove pan with apple from heat; stir in 1 TBSP butter (2 TBSP for 4 servings) and a squeeze of lemon juice. Divide pork, zucchini, and sweet potatoes between plates. Top pork with glazed apple sauce. Top zucchini with a squeeze of lemon juice.",
+      "ingredients_used": [
+        "2958a7c6-86a5-5012-b82e-3b464d159237",
+        "a219153b-34e5-5739-a2d0-d7767539c030",
+        "b56806e7-f95b-54b0-8971-517b3a8c7787",
+        "fb5e797a-16e8-5374-a4ca-350adf10223b",
+        "20827a86-ff55-5d2b-a79a-dc36c265db66"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

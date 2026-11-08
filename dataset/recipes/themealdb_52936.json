@@ -1,0 +1,363 @@
+{
+  "id": "3e63ca5b-cb3f-5a99-8da7-65b808f9b0a1",
+  "version": "1.0.0",
+  "title": "Saltfish and Ackee",
+  "slug": "saltfish-and-ackee",
+  "summary": "A traditional Jamaican breakfast dish consisting of flaked salt cod sautéed with ackee, peppers, onions, and spices, typically served with fried dumplings.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:50:43Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52936"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/vytypy1511883765.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/vytypy1511883765.jpg/small",
+      "alt_text": "Photo of Saltfish and Ackee",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=nbfNyZbdn2I"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "2dfec5c8-490a-551c-9d2f-e8e21f706bda",
+        "slug": "jamaican",
+        "name": "Jamaican"
+      }
+    ],
+    "tags": [
+      "speciality"
+    ],
+    "meal_types": [
+      "breakfast"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 30,
+    "rest_time_minutes": 30,
+    "total_time_minutes": 80
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of saltfish and ackee with dumplings"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "950f9c89-8032-55af-85b6-65438866f013",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "59b7c752-94a7-5a6a-bf56-3378c435f24e",
+          "ingredient_id": "06385c78-0e19-5144-946a-22bd05df2c78",
+          "name": "salt cod",
+          "display_text": "450g Salt Cod",
+          "quantity": 450.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "gram",
+          "category": "seasoning"
+        },
+        {
+          "id": "597812bf-2f5d-5c2b-9d93-5b9be2c379b2",
+          "ingredient_id": "f1bdc499-2234-51fa-be21-37a9ebd911b1",
+          "name": "ackee",
+          "display_text": "400g Ackee",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "33e19d67-f418-540b-bc44-b6efee2dab75",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4a4c6472-3da5-5c23-b30b-ac0ddc1476f6",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1 tsp Paprika",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "f109d829-f788-5a7f-b7bd-0944b62f4e48",
+          "ingredient_id": "bf1eedb9-f5db-509c-818c-63ceb74086c5",
+          "name": "curry powder",
+          "display_text": "2 tsp Curry Powder",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "2ff0a168-ac2b-5edb-b642-0be16b2f4a98",
+          "ingredient_id": "c7218e54-21c7-55fc-9deb-4016cc356675",
+          "name": "jerusalem artichokes",
+          "display_text": "2 tsp Jerusalem Artichokes",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "0d8906a1-a3aa-536c-9ac9-10d38b85e87f",
+          "ingredient_id": "42d67342-d05a-512d-958a-1c2fdbf7a682",
+          "name": "hotsauce",
+          "display_text": "1 tsp Hotsauce",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "c4a8ebd9-1cd8-5bb5-a898-35a94ee09335",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1 sliced Red Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e2314155-4ea1-5570-90dd-905445250c05",
+          "ingredient_id": "ca16fa3e-7db9-5c18-acf7-0540f4e86a4d",
+          "name": "yellow pepper",
+          "display_text": "1 sliced Yellow Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "6608596d-9c9b-5b65-bcb8-6fb63f68bd1e",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomatoes",
+          "display_text": "200g Tomatoes",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "5bee3924-d1b1-5d70-8a41-7d53b07606c6",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "to taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "096a8b6a-6210-5fa8-8564-8db0697eb87c",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "to taste Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e6f6fad9-2308-58bc-bb07-bb960b43d3ca",
+          "ingredient_id": "d923f6bd-1129-51bf-ba9e-32b3305fa65e",
+          "name": "self-raising flour",
+          "display_text": "250g Self-raising Flour",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "ff24a671-4671-5ec1-b9c2-a827eb6558f5",
+          "ingredient_id": "1edeb27c-52bb-5931-8068-92f5bb6715ee",
+          "name": "suet",
+          "display_text": "30g Suet",
+          "quantity": 30.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "gram",
+          "category": "oils_fats"
+        },
+        {
+          "id": "85f18c15-5aa1-5164-9fb2-02153dd29ceb",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "1304c5c5-1862-5b3d-bd70-92b2f67d9d17",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "for frying Olive Oil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "for frying",
+          "is_optional": false,
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "For the saltfish, soak the salt cod overnight, changing the water a couple of times.",
+      "ingredients_used": [
+        "59b7c752-94a7-5a6a-bf56-3378c435f24e",
+        "5bee3924-d1b1-5d70-8a41-7d53b07606c6",
+        "85f18c15-5aa1-5164-9fb2-02153dd29ceb"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Drain, then put the cod in a large pan of fresh water and bring to the boil. Drain again, add fresh water and bring to the boil again."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Simmer for about five minutes, or until cooked through, then drain and flake the fish into large pieces. Discard any skin or bones."
+    },
+    {
+      "step_number": 4,
+      "instruction": "For the dumplings, mix the flour and suet with a pinch of salt and 250ml/9fl oz water to make a dough.",
+      "ingredients_used": [
+        "5bee3924-d1b1-5d70-8a41-7d53b07606c6",
+        "ff24a671-4671-5ec1-b9c2-a827eb6558f5",
+        "85f18c15-5aa1-5164-9fb2-02153dd29ceb"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Wrap the mixture in clingfilm and leave in the fridge to rest."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Open the can of ackee, drain and rinse, then set aside.",
+      "ingredients_used": [
+        "597812bf-2f5d-5c2b-9d93-5b9be2c379b2"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Heat a tablespoon of olive oil in a pan and fry the onion until softened but not brown.",
+      "ingredients_used": [
+        "33e19d67-f418-540b-bc44-b6efee2dab75",
+        "1304c5c5-1862-5b3d-bd70-92b2f67d9d17"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Add the spices, seasoning, pepper sauce and sliced peppers and continue to fry until the peppers are tender.",
+      "ingredients_used": [
+        "096a8b6a-6210-5fa8-8564-8db0697eb87c"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Add the chopped tomatoes, then the salt cod and mix together. Lastly stir in the ackee very gently and leave to simmer until ready to serve.",
+      "ingredients_used": [
+        "59b7c752-94a7-5a6a-bf56-3378c435f24e",
+        "597812bf-2f5d-5c2b-9d93-5b9be2c379b2",
+        "6608596d-9c9b-5b65-bcb8-6fb63f68bd1e",
+        "5bee3924-d1b1-5d70-8a41-7d53b07606c6",
+        "85f18c15-5aa1-5164-9fb2-02153dd29ceb"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "When you’re almost ready to eat, heat about 1cm/½in vegetable oil in a frying pan and heat until just smoking."
+    },
+    {
+      "step_number": 11,
+      "instruction": "Shape the dumpling mix into plum-size balls and shallow-fry until golden-brown. (CAUTION: hot oil can be dangerous. Do not leave the pan unattended.)"
+    },
+    {
+      "step_number": 12,
+      "instruction": "Drain the dumplings on kitchen paper and serve with the saltfish and ackee.",
+      "ingredients_used": [
+        "597812bf-2f5d-5c2b-9d93-5b9be2c379b2",
+        "5bee3924-d1b1-5d70-8a41-7d53b07606c6",
+        "85f18c15-5aa1-5164-9fb2-02153dd29ceb"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbc.co.uk/food/recipes/saltfish__ackee_with_64803"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

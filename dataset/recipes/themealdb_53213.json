@@ -1,0 +1,240 @@
+{
+  "id": "ca738775-2396-5f61-9338-966cba918440",
+  "version": "1.0.0",
+  "title": "Thai-style fish broth with greens",
+  "slug": "thai-style-fish-broth-with-greens",
+  "summary": "A fragrant Thai-inspired seafood soup featuring white fish and king prawns in a red curry-infused broth with pak choi and brown rice noodles.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:14:17Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53213"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/a2ec961763587756.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/a2ec961763587756.jpg/small",
+      "alt_text": "Photo of Thai-style fish broth with greens",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=rRwnwCd5om8"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "724b7c6a-f254-57d4-9729-335a2b2d93b1",
+        "slug": "thai",
+        "name": "Thai"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 20
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of noodle soup with seafood"
+  },
+  "allergens": {
+    "contains": [
+      "fish",
+      "shellfish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "38b716ef-756f-5261-88a2-fb2507028fc3",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "2f98c9a8-fadc-5a5a-a44e-f6931b355131",
+          "ingredient_id": "5887340d-6b66-5c87-98e5-0a61bf1eda32",
+          "name": "brown rice noodle",
+          "display_text": "100g Brown Rice Noodle",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "c34b7873-ceea-58f0-a78b-0a612b6d1d3b",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "500ml Chicken Stock",
+          "quantity": 500.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "99f4041a-5d31-57c3-8813-383dbdc65bf0",
+          "ingredient_id": "beb6cb16-691a-5cca-80dd-69a4020c3fa6",
+          "name": "thai red curry paste",
+          "display_text": "1 tblsp Thai Red Curry Paste",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "5e11f084-ea04-5751-b564-8e22586895e4",
+          "ingredient_id": "02b53f79-483f-520f-b00e-f9ef9e9b6f9d",
+          "name": "lime leaves",
+          "display_text": "4 Lime Leaves",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "c0a2a8a9-4c13-55e1-833f-3ec3111bb642",
+          "ingredient_id": "de927c20-fdfa-5b98-8ee9-7840fa951a2f",
+          "name": "fish sauce",
+          "display_text": "1 tblsp Fish Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "7f752813-6b8c-5a85-b0ee-f4e9e7625a45",
+          "ingredient_id": "972eb44b-3c16-5b72-8b40-db05b898170c",
+          "name": "white fish",
+          "display_text": "200g White Fish",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "fish"
+        },
+        {
+          "id": "b08e9fbe-29e6-5302-b8a6-ea783dd9ea3c",
+          "ingredient_id": "c25c2a5c-b6b1-56c4-b863-457dc879b0df",
+          "name": "raw king prawns",
+          "display_text": "100g Raw King Prawns",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "5e339934-9712-53e0-b01d-76a35250f8b6",
+          "ingredient_id": "9d696147-e1f6-508e-ac82-2808fd1506bc",
+          "name": "pak choi",
+          "display_text": "2 Pak Choi",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "caad787c-417b-5907-bdfa-8fd37c3b9dad",
+          "ingredient_id": "01f7246f-a615-5952-a55f-5bf9985723ad",
+          "name": "coriander leaves",
+          "display_text": "Handful Coriander Leaves",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Cook the noodles following pack instructions. Refresh in cold water and drain well.",
+      "ingredients_used": [
+        "2f98c9a8-fadc-5a5a-a44e-f6931b355131"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Put the stock in a large saucepan and stir in the curry paste, lime leaves, fish sauce and 250ml cold water. Bring to a simmer and cook for 5 mins.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "5e11f084-ea04-5751-b564-8e22586895e4",
+        "c0a2a8a9-4c13-55e1-833f-3ec3111bb642",
+        "7f752813-6b8c-5a85-b0ee-f4e9e7625a45"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Cut the fish into roughly 3cm cubes and add to the pan. Return to a simmer, then cook for 2 mins uncovered.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "7f752813-6b8c-5a85-b0ee-f4e9e7625a45"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Stir in the noodles, prawns and pak choi, and simmer for 2-3 mins or until the fish and prawns are just cooked. Serve in bowls scattered with coriander.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "2f98c9a8-fadc-5a5a-a44e-f6931b355131",
+        "7f752813-6b8c-5a85-b0ee-f4e9e7625a45",
+        "b08e9fbe-29e6-5302-b8a6-ea783dd9ea3c",
+        "5e339934-9712-53e0-b01d-76a35250f8b6"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/thai-style-fish-broth-greens"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

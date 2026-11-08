@@ -1,0 +1,219 @@
+{
+  "id": "9af420ca-f44a-5520-b4c8-92f48948f1a3",
+  "version": "1.0.0",
+  "title": "Shakshouka",
+  "slug": "shakshouka",
+  "summary": "A Middle Eastern dish consisting of eggs poached in a simmering sauce of tomatoes, garlic, and olive oil.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:14:27Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53215"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/crd1jz1763592990.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/crd1jz1763592990.jpg/small",
+      "alt_text": "Photo of Shakshouka",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=618QsMaVXp8"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "dadedf2a-1088-576c-834c-66ae61df3c2a",
+        "slug": "saudi-arabian",
+        "name": "Saudi Arabian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "brunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 15,
+    "rest_time_minutes": 2,
+    "total_time_minutes": 22
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "2 eggs with tomato sauce"
+  },
+  "allergens": {
+    "contains": [
+      "eggs"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": [
+      "gluten"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "12b133de-f315-5c99-b24a-2b4e18f2f3c8",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "ea221b67-7764-56ff-9149-3a2ddd706d90",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "250g Tomato",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "f9192705-9dc4-5975-8515-5009a4c62d8f",
+          "ingredient_id": "96cc0c2b-795a-53be-a503-05d14e92b236",
+          "name": "extra virgin olive oil",
+          "display_text": "40 ml Extra Virgin Olive Oil",
+          "quantity": 40.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 40.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "5c4fdd7c-c391-5b96-842b-87b719bbeeef",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "4 Egg",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "9b566eb5-0af7-574a-839f-1eae95da3c58",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "4 sliced Garlic Clove",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "fadb1f78-991e-5e2a-9fce-4abd1219e004",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "To taste Black Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "57f8a5d4-b242-5c11-abbc-d42bf7214ec1",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "First, pan fry the black pepper and garlic over a dry medium heat until fragrant.",
+      "ingredients_used": [
+        "fadb1f78-991e-5e2a-9fce-4abd1219e004"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add a good amount of extra virgin olive oil and infuse for a minute.",
+      "ingredients_used": [
+        "f9192705-9dc4-5975-8515-5009a4c62d8f"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Once the oil heats up, add the tomatoes and salt, and cover with a lid. Simmer for 5 minutes.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "ea221b67-7764-56ff-9149-3a2ddd706d90",
+        "57f8a5d4-b242-5c11-abbc-d42bf7214ec1"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Remove the lid and mash the tomatoes. Reduce until you reach the desired consistency of choice.",
+      "ingredients_used": [
+        "ea221b67-7764-56ff-9149-3a2ddd706d90"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Make craters for the eggs and lower the heat. Carefully crack the eggs into the craters, making sure it touches the pan and not the tomato sauce.",
+      "ingredients_used": [
+        "ea221b67-7764-56ff-9149-3a2ddd706d90"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Cover the eggs and leave it for 5 minutes without lifting the lid.",
+      "timer_seconds": 300
+    },
+    {
+      "step_number": 7,
+      "instruction": "Remove from the heat and let the residual heat steam the eggs for 1-2 minutes.",
+      "timer_seconds": 120
+    },
+    {
+      "step_number": 8,
+      "instruction": "Serve with flatbread. Enjoy!"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://cookpad.com/eng/recipes/24999905?ref=search&search_term=saudi+arabia"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

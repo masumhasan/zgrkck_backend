@@ -1,0 +1,302 @@
+{
+  "id": "ab03fc98-a4fc-5dbb-9596-fe3e5dfaedf9",
+  "version": "1.0.0",
+  "title": "Chicken Congee",
+  "slug": "chicken-congee",
+  "summary": "A comforting Chinese rice porridge made by simmering rice in water until creamy, then adding marinated chicken and aromatics.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:52:35Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52956"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/1529446352.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/1529446352.jpg/small",
+      "alt_text": "Photo of Chicken Congee",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=kqEfk801E94"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6813a95e-62cf-55e7-9d4b-6f19ee1d7391",
+        "slug": "chinese",
+        "name": "Chinese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 55
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of congee with chicken"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "636fbba3-6b84-5fc7-90d3-238e4282ea54",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "3a2d110b-42c1-53f3-be1e-63eae585f395",
+          "ingredient_id": "96643234-56e3-5df9-9877-487e63d7cb8b",
+          "name": "chicken",
+          "display_text": "8 oz Chicken",
+          "quantity": 8.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 226.8,
+          "metric_unit": "gram",
+          "category": "poultry"
+        },
+        {
+          "id": "e8b2b7c4-6c5b-538c-8d13-aed0201a7fe9",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "da19479f-57cb-566e-8649-5e9788b6e7c7",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "pinch Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "52ad0f51-78e9-50ed-b59a-8f11f482acf9",
+          "ingredient_id": "35d0e4c8-85db-5ad6-a0ec-c248442e1e72",
+          "name": "ginger cordial",
+          "display_text": "1 tsp Ginger Cordial",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "7780de7f-2528-54bc-a8aa-ec763a377fe4",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "1 tsp Ginger",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "756727d8-c1c0-5338-ad20-bbcfa705a8a1",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "1 tbs Spring Onions",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "62162f7f-d4aa-503a-88d0-c61a9066932d",
+          "ingredient_id": "025b8433-c498-5b37-813a-ec00ac6c2ae5",
+          "name": "rice",
+          "display_text": "1/2 cup Rice",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "514d9498-2bcd-5099-954b-a60c31b7100d",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "8 cups Water",
+          "quantity": 8.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 1920.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "bd679a20-d675-57f6-9e47-16737bc5a408",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "2 oz Coriander",
+          "quantity": 2.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 56.7,
+          "metric_unit": "gram",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "MARINATING THE CHICKEN",
+      "ingredients_used": [
+        "3a2d110b-42c1-53f3-be1e-63eae585f395"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a bowl, add chicken, salt, white pepper, ginger juice and then mix it together well.",
+      "ingredients_used": [
+        "3a2d110b-42c1-53f3-be1e-63eae585f395",
+        "e8b2b7c4-6c5b-538c-8d13-aed0201a7fe9",
+        "da19479f-57cb-566e-8649-5e9788b6e7c7",
+        "7780de7f-2528-54bc-a8aa-ec763a377fe4"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Set the chicken aside.",
+      "ingredients_used": [
+        "3a2d110b-42c1-53f3-be1e-63eae585f395"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "RINSE THE WHITE RICE",
+      "ingredients_used": [
+        "62162f7f-d4aa-503a-88d0-c61a9066932d"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Rinse the rice in a metal bowl or pot a couple times and then drain the water.",
+      "ingredients_used": [
+        "62162f7f-d4aa-503a-88d0-c61a9066932d",
+        "514d9498-2bcd-5099-954b-a60c31b7100d"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "BOILING THE WHITE RICE",
+      "ingredients_used": [
+        "62162f7f-d4aa-503a-88d0-c61a9066932d"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Next add 8 cups of water and then set the stove on high heat until it is boiling. Once rice porridge starts to boil, set the stove on low heat and then stir it once every 8-10 minutes for around 20-25 minutes.",
+      "ingredients_used": [
+        "62162f7f-d4aa-503a-88d0-c61a9066932d",
+        "514d9498-2bcd-5099-954b-a60c31b7100d"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "After 25 minutes, this is optional but you can add a little bit more water to make rice porridge to make it less thick or to your preference.",
+      "timer_seconds": 1500,
+      "ingredients_used": [
+        "62162f7f-d4aa-503a-88d0-c61a9066932d",
+        "514d9498-2bcd-5099-954b-a60c31b7100d"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Next add the marinated chicken to the rice porridge and leave the stove on low heat for another 10 minutes.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "3a2d110b-42c1-53f3-be1e-63eae585f395",
+        "62162f7f-d4aa-503a-88d0-c61a9066932d"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "After an additional 10 minutes add the green onions, sliced ginger, 1 pinch of salt, 1 pinch of white pepper and stir for 10 seconds.",
+      "ingredients_used": [
+        "e8b2b7c4-6c5b-538c-8d13-aed0201a7fe9",
+        "da19479f-57cb-566e-8649-5e9788b6e7c7",
+        "7780de7f-2528-54bc-a8aa-ec763a377fe4",
+        "756727d8-c1c0-5338-ad20-bbcfa705a8a1"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Serve the rice porridge in a bowl",
+      "ingredients_used": [
+        "62162f7f-d4aa-503a-88d0-c61a9066932d"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Optional: add Coriander on top of the rice porridge.",
+      "ingredients_used": [
+        "62162f7f-d4aa-503a-88d0-c61a9066932d",
+        "bd679a20-d675-57f6-9e47-16737bc5a408"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://sueandgambo.com/pages/chicken-congee"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

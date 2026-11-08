@@ -1,0 +1,238 @@
+{
+  "id": "7d856337-1d80-583c-ab44-ef1ffc24490f",
+  "version": "1.0.0",
+  "title": "Antiguan Breakfast (Chop Up and ‘Saltfish’)",
+  "slug": "antiguan-breakfast-chop-up-and-saltfish",
+  "summary": "A traditional Antiguan breakfast dish consisting of mashed vegetables including eggplant, pumpkin, and callaloo.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:30:56Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53430"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/jvjnoh1780086318.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/jvjnoh1780086318.jpg/small",
+      "alt_text": "Photo of Antiguan Breakfast (Chop Up and ‘Saltfish’)",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "0bb9bace-6857-5a6c-b1de-8d3f3764a960",
+        "slug": "antiguan",
+        "name": "Antiguan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of mashed vegetables"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "a623723d-4620-50cc-9891-087866670fb5",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "d7bb1ed3-267e-5dd7-b51b-483b251d8ca9",
+          "ingredient_id": "08b505fe-2af9-5025-98f3-845df35333e6",
+          "name": "egg plants",
+          "display_text": "4 Egg Plants",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b52bafba-a48a-54dc-9dbc-cdba0ed6cfcd",
+          "ingredient_id": "54e0239e-bea4-584e-96d9-421a2a76387d",
+          "name": "callaloo",
+          "display_text": "8 oz Callaloo",
+          "quantity": 8.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 226.8,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "f5e6f1f9-a1d3-5820-8c59-d9953064c82e",
+          "ingredient_id": "e046e936-ea1f-5501-bc83-8d8341cc097c",
+          "name": "pumpkin",
+          "display_text": "1 lb Pumpkin",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "ca586762-afb5-54bb-be5c-b55dcb878256",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 cloves Chopped Garlic",
+          "quantity": 3.0,
+          "unit": "clove",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "86d48f48-d716-51a8-9090-1b2b41da9aa6",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Diced Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b583a6fb-1875-5070-b3b9-4e04053f7c44",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "2 oz Butter",
+          "quantity": 2.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 56.7,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "ea947c91-3cc8-50a0-8581-e88ce892fb08",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/2 tsp Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "5a97492b-1592-5668-a0ad-d88cfe442734",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1/4 tsp Black Pepper",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Peel and chop eggplant and pumpkin into medium-sized pieces.",
+      "ingredients_used": [
+        "f5e6f1f9-a1d3-5820-8c59-d9953064c82e"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat butter and add onions and garlic in a medium sized pot set to medium to high heat. Sauté for 2 minutes until softened but not browned.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "ca586762-afb5-54bb-be5c-b55dcb878256",
+        "86d48f48-d716-51a8-9090-1b2b41da9aa6",
+        "b583a6fb-1875-5070-b3b9-4e04053f7c44"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add pumpkin and eggplant. Sauté for an additional two to three minutes.",
+      "ingredients_used": [
+        "f5e6f1f9-a1d3-5820-8c59-d9953064c82e"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add water just to cover the vegetables. Bring to a boil, reduce heat to a simmer and cook until the vegetables are soft."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Add the chopped spinach, stir and cook for an additional 3 minutes.",
+      "timer_seconds": 180
+    },
+    {
+      "step_number": 6,
+      "instruction": "Pour the vegetable mixture into a colander and let drain."
+    },
+    {
+      "step_number": 7,
+      "instruction": "After vegetable mixture has been drained return it to the pot and mash vigorously with a potato masher or a thick whisk."
+    },
+    {
+      "step_number": 8,
+      "instruction": "Add salt and pepper. Adjust seasoning to taste.",
+      "ingredients_used": [
+        "ea947c91-3cc8-50a0-8581-e88ce892fb08"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.atastefortravel.ca/24626-antigua-chop-up/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

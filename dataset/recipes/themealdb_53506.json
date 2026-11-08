@@ -1,0 +1,181 @@
+{
+  "id": "863b911f-c0fd-52a1-b0ce-a6b79ae4c483",
+  "version": "1.0.0",
+  "title": "Rice and Beans",
+  "slug": "rice-and-beans",
+  "summary": "A traditional Caymanian side dish consisting of kidney beans and rice simmered in coconut milk with onion and scotch bonnet peppers.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:40:10Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53506"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/j8c1d51782772399.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/j8c1d51782772399.jpg/small",
+      "alt_text": "Photo of Rice and Beans",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c09eb408-33f5-5580-b0b4-cd787ea520ba",
+        "slug": "caymanian",
+        "name": "Caymanian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 40,
+    "total_time_minutes": 50
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of rice and beans"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "cf604a16-a001-50d9-a539-70a6587467ef",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "14b0ca9d-dcf9-5de0-80f0-a99d09724476",
+          "ingredient_id": "ba890946-fbb1-5386-9394-aa912a5bb5a0",
+          "name": "kidney beans",
+          "display_text": "1/2 bag Kidney Beans",
+          "quantity": 0.5,
+          "unit": "bag",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "e8a3e378-4dcc-5467-ad69-8c2aa0755915",
+          "ingredient_id": "0435e55e-84f6-566c-ac81-37617bbab91c",
+          "name": "coconut milk",
+          "display_text": "1 Can Coconut Milk",
+          "quantity": 1.0,
+          "unit": "can",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "755af424-65b4-5c5b-84fc-1efc3dcbdf06",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Diced Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "33ac6975-10d9-5d54-ba45-4968642e2908",
+          "ingredient_id": "cfe71375-907d-57ad-936c-b27b60946f4e",
+          "name": "scotch bonnet",
+          "display_text": "3 Scotch Bonnet",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7d65ba77-b85b-5ef0-a01a-3b3928eefe8c",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1 tablespoon Black Pepper",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "08b64710-0b10-5b68-a2b3-6e5137d76f64",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/2 tbs Salt",
+          "quantity": 0.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Cook beans until tender, add rice, coconut milk, onion, black pepper and salt, and add enough water to just cover the ingredients. Place Scotch Bonnet peppers on top, careful not to burst them.",
+      "ingredients_used": [
+        "14b0ca9d-dcf9-5de0-80f0-a99d09724476",
+        "e8a3e378-4dcc-5467-ad69-8c2aa0755915",
+        "755af424-65b4-5c5b-84fc-1efc3dcbdf06",
+        "33ac6975-10d9-5d54-ba45-4968642e2908",
+        "7d65ba77-b85b-5ef0-a01a-3b3928eefe8c",
+        "08b64710-0b10-5b68-a2b3-6e5137d76f64"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Simmer until rice is tender. Remove pepper before serving."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.ourcayman.ky/en-us/about/more-about-cayman/recipes"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "id": "e1f3de2f-38a6-5ad8-884b-8f49434f5c72",
+  "version": "1.0.0",
+  "title": "Braised Beef Chilli",
+  "slug": "braised-beef-chilli",
+  "summary": "A slow-cooked beef chili featuring chorizo, ancho chillies, and warm spices like cinnamon and allspice. The meat is braised until tender and then shredded before serving.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:40:47Z",
+  "updated_at": "2026-10-16T10:22:46Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52826"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/uuqvwu1504629254.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/uuqvwu1504629254.jpg/small",
+      "alt_text": "Photo of Braised Beef Chilli",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=z4kSoJgsu6Y"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d92b5023-5f76-56a5-b92d-341aaabd6a80",
+        "slug": "mexican",
+        "name": "Mexican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 180,
+    "total_time_minutes": 200
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "a large bowl of chili"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery",
+      "sulfites"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "870970cc-fa8f-578f-8c4a-a0d1f28f7168",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "27822211-4698-55af-8a77-55524a422f50",
+          "ingredient_id": "c2102b4e-a5b4-5bab-b7d5-bdfa5244ae7b",
+          "name": "beef",
+          "display_text": "1kg Beef",
+          "quantity": 1.0,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "kilogram",
+          "category": "meat"
+        },
+        {
+          "id": "15b4e690-1af6-5b39-91a4-21b7c1d2c0b9",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onions",
+          "display_text": "3 Onions",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1ad56b0f-046c-5953-95a1-cbeb10691b6f",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "4 cloves Garlic",
+          "quantity": 4.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "698d0891-93eb-5d24-ba72-7f5c7d22ea27",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "Dash Olive oil",
+          "quantity": 1,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "209662fb-e6ed-55f9-9bf8-6840bd6dd3d5",
+          "ingredient_id": "d4235a95-0bb4-579b-8855-bbb8f4efeb46",
+          "name": "chorizo",
+          "display_text": "300g Chorizo",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "885ad2a9-bbe8-52d2-abdb-7faa97429075",
+          "ingredient_id": "be79b3bd-bc90-5d15-aab2-4f95774b8de1",
+          "name": "cumin",
+          "display_text": "2 tsp Cumin",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "c4ecd1cb-cc99-5a17-8e8f-a009d42c91c6",
+          "ingredient_id": "38dedce7-9a7f-57ee-8e46-5162ab60eba8",
+          "name": "allspice",
+          "display_text": "2 tsp Allspice",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d7ff53eb-9ffe-5848-8c4d-9cd0651366b3",
+          "ingredient_id": "73063cfc-1094-5f58-87bf-49227197f2a2",
+          "name": "cloves",
+          "display_text": "1 tsp Cloves",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "34af68d6-0a9a-57af-837d-a414ce19ba24",
+          "ingredient_id": "815267d7-ad8f-543a-b885-c3fdabdc63fb",
+          "name": "cinnamon stick",
+          "display_text": "1 large Cinnamon stick",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "f37eba0a-3294-511f-9034-6f6ff5765054",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaves",
+          "display_text": "3 Bay Leaves",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "b8cc7cf1-fb1b-56d3-aadf-c2447ee0880c",
+          "ingredient_id": "035f27db-b6ac-512c-a6e4-48e289cafefe",
+          "name": "oregano",
+          "display_text": "2 tsp dried Oregano",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "preparation": "dried",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "4b42b82f-e312-5c34-a225-1dc5c43237b1",
+          "ingredient_id": "ad0f94f6-bdf2-5fd9-8a04-249ae2859ecd",
+          "name": "ancho chillies",
+          "display_text": "2 ancho Ancho Chillies",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "ancho",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "ca3b8f2b-cc6c-5f24-83ce-02ee9836227b",
+          "ingredient_id": "63107704-a6f7-54e1-89ce-d8232f5288e9",
+          "name": "balsamic vinegar",
+          "display_text": "3 tbsp Balsamic Vinegar",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "ab4e72e9-c955-5176-a65f-1f1665d457ce",
+          "ingredient_id": "eef09ba5-f0a8-5d2e-a676-6a71ab7f1fab",
+          "name": "plum tomatoes",
+          "display_text": "2 x 400g Plum Tomatoes",
+          "quantity": 2.0,
+          "unit": "can",
+          "preparation": "400g plum tomatoes",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "3ba8f04c-2a9c-5ae9-9b0d-61811529e76c",
+          "ingredient_id": "a4357aa8-235c-57af-b089-15c2effbb92c",
+          "name": "tomato ketchup",
+          "display_text": "2 tbsp Tomato Ketchup",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "79ccc65a-5be8-5c3c-92b5-074bea456d17",
+          "ingredient_id": "782e6df8-0b54-5d88-9824-7f196b1a2aa6",
+          "name": "dark brown sugar",
+          "display_text": "2 tbsp Dark Brown Sugar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "6a454c3e-6d02-5473-80da-6695a148755d",
+          "ingredient_id": "b0197a19-1234-5f2c-a177-b07987bf323c",
+          "name": "borlotti beans",
+          "display_text": "2 x 400g tins Borlotti Beans",
+          "quantity": 2.0,
+          "unit": "can",
+          "preparation": "400g tins borlotti beans",
+          "is_optional": false,
+          "category": "canned_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat the oven to 120C/225F/gas mark 1.",
+      "temperature": {
+        "value": 120,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "Take the meat out of the fridge to de-chill. Pulse the onions and garlic in a food processor until finely chopped. Heat 2 tbsp olive oil in a large casserole and sear the meat on all sides until golden.",
+      "ingredients_used": [
+        "15b4e690-1af6-5b39-91a4-21b7c1d2c0b9",
+        "1ad56b0f-046c-5953-95a1-cbeb10691b6f",
+        "698d0891-93eb-5d24-ba72-7f5c7d22ea27"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Set to one side and add another small slug of oil to brown the chorizo. Remove and add the onion and garlic, spices, herbs and chillies then cook until soft in the chorizo oil. Season with salt and pepper and add the vinegar, tomatoes, ketchup and sugar.",
+      "ingredients_used": [
+        "1ad56b0f-046c-5953-95a1-cbeb10691b6f",
+        "209662fb-e6ed-55f9-9bf8-6840bd6dd3d5",
+        "4b42b82f-e312-5c34-a225-1dc5c43237b1",
+        "ab4e72e9-c955-5176-a65f-1f1665d457ce",
+        "3ba8f04c-2a9c-5ae9-9b0d-61811529e76c"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Put all the meat back into the pot with 400ml water (or red wine if you prefer), bring up to a simmer and cook, covered, in the low oven."
+    },
+    {
+      "step_number": 5,
+      "instruction": "After 2 hours, check the meat and add the beans. Cook for a further hour and just before serving, pull the meat apart with a pair of forks.",
+      "timer_seconds": 7200,
+      "ingredients_used": [
+        "6a454c3e-6d02-5473-80da-6695a148755d"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://www.telegraph.co.uk/food-and-drink/recipes/braised-beef-chilli-con-carne/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

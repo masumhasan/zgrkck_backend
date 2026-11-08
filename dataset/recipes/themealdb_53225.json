@@ -1,0 +1,203 @@
+{
+  "id": "137d1f78-3027-56a1-8126-a44798fa29b6",
+  "version": "1.0.0",
+  "title": "Yemeni Lahsa (Elite Shakshuka)",
+  "slug": "yemeni-lahsa-elite-shakshuka",
+  "summary": "A Yemeni-style egg dish similar to shakshuka, featuring eggs cooked in a spiced tomato and onion base topped with liquid cheese.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:15:21Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53225"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/30s7vf1763741844.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/30s7vf1763741844.jpg/small",
+      "alt_text": "Photo of Yemeni Lahsa (Elite Shakshuka)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/shorts/1QX-KBX6tmM"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "dadedf2a-1088-576c-834c-66ae61df3c2a",
+        "slug": "saudi-arabian",
+        "name": "Saudi Arabian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 13,
+    "rest_time_minutes": 1,
+    "total_time_minutes": 19
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of eggs with sauce and cheese"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "eggs"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "479f1cad-cc49-5e15-a6f4-336477a3b6d8",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "e17bd440-c3ed-50cf-9608-5a7639fb9106",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "5 Egg",
+          "quantity": 5.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "bfc1202b-24ca-548c-8aa6-c75198aa238c",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Diced Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1d9617d2-c1b9-5950-a30b-e3afcd6717f8",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "1 Diced Tomato",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "61d49805-f441-5b47-94af-f8e2106790c8",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tablespoons Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "41bb5431-f565-53e4-9888-1b9de40e53c2",
+          "ingredient_id": "38dedce7-9a7f-57ee-8e46-5162ab60eba8",
+          "name": "allspice",
+          "display_text": "1/4 tsp Allspice",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d0bc1c5a-744d-59a2-bdee-9cecc5d5feda",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1/4 tsp Black Pepper",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "1a29e242-7e96-5359-b227-c06043856f0f",
+          "ingredient_id": "d1a65763-04cd-5cd4-bb25-bef9ce7cca97",
+          "name": "liquid cheese",
+          "display_text": "3  tablespoons Liquid Cheese",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "First, On medium heat, heat the olive oil and add the diced onion until it wethers. Next, add the tomatoes and cook for another 4-5 min. Lastly, add the all spice, salt, and cracked pepper.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "bfc1202b-24ca-548c-8aa6-c75198aa238c",
+        "1d9617d2-c1b9-5950-a30b-e3afcd6717f8",
+        "61d49805-f441-5b47-94af-f8e2106790c8"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the eggs and mix throughly for 2 minutes and cover to cook 5-6 minutes until top is solidified. Lastly, spread the liquid cheese and have it covered for a minute.",
+      "ingredients_used": [
+        "1a29e242-7e96-5359-b227-c06043856f0f"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "I served mine Mediterranean style with hash-browns, Egyptian fava beans, Turkish salami and olives, cheese wedges, and greek feta."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://cookpad.com/eng/recipes/24629321?ref=search&search_term=saudi+arabia"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

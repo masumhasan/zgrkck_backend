@@ -1,0 +1,195 @@
+{
+  "id": "e5c92d83-2899-5662-9f71-7383d2f0d060",
+  "version": "1.0.0",
+  "title": "Chicken Marengo",
+  "slug": "chicken-marengo",
+  "summary": "A classic French chicken dish simmered in a tomato-based sauce with mushrooms and olives.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:49:17Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52920"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/qpxvuq1511798906.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/qpxvuq1511798906.jpg/small",
+      "alt_text": "Photo of Chicken Marengo",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=U33HYUr-0Fw"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "fe8f07a1-591f-5711-ae5b-f3c9afcc3e60",
+        "slug": "french",
+        "name": "French"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 55
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 chicken leg with sauce"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "gluten",
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "bd2eb1f9-82a9-503f-a281-42a25755a794",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "9334c4ef-779d-5c79-a7a3-b8f0ad056f35",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 tbs Olive Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "3e46ba28-516d-5063-a19e-f01e04da9b7c",
+          "ingredient_id": "5031dcf8-ef4a-588f-ae8f-de7c2790dfac",
+          "name": "mushrooms",
+          "display_text": "300g Mushrooms",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "426472ff-c556-5067-83b9-418b6c17a3eb",
+          "ingredient_id": "e023ae45-1d37-5ed8-bd41-426cd1a6688c",
+          "name": "chicken legs",
+          "display_text": "4 Chicken Legs",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "f016f9d0-0707-596b-8fb0-35f74fa8e8ef",
+          "ingredient_id": "aef5069a-5b08-5a3b-b076-1f7a6755415c",
+          "name": "passata",
+          "display_text": "500g Passata",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "577b1973-d273-54d4-94bd-cd06763d4e33",
+          "ingredient_id": "c51e6b59-c18d-5488-827d-6e870113c2e5",
+          "name": "chicken stock cube",
+          "display_text": "1 Chicken Stock Cube",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "1234582d-2dc8-51e2-9ebf-ea1a9c3e2e04",
+          "ingredient_id": "e0970f8f-509c-5d2f-a8b2-85ecb22b5660",
+          "name": "black olives",
+          "display_text": "100g Black Olives",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "a3c17623-6d0b-5d76-9359-2ab361275065",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Chopped Parsley",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oil in a large flameproof casserole dish and stir-fry the mushrooms until they start to soften. Add the chicken legs and cook briefly on each side to color them a little.",
+      "ingredients_used": [
+        "3e46ba28-516d-5063-a19e-f01e04da9b7c",
+        "426472ff-c556-5067-83b9-418b6c17a3eb"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Pour in the passata, crumble in the stock cube and stir in the olives. Season with black pepper – you shouldn’t need salt. Cover and simmer for 40 mins until the chicken is tender. Sprinkle with parsley and serve with pasta and a salad, or mash and green veg, if you like.",
+      "timer_seconds": 2400,
+      "ingredients_used": [
+        "f016f9d0-0707-596b-8fb0-35f74fa8e8ef",
+        "577b1973-d273-54d4-94bd-cd06763d4e33",
+        "1234582d-2dc8-51e2-9ebf-ea1a9c3e2e04",
+        "a3c17623-6d0b-5d76-9359-2ab361275065"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/3146682/chicken-marengo"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

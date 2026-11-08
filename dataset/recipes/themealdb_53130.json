@@ -1,0 +1,282 @@
+{
+  "id": "85945024-5c5d-527e-88fa-692c9396745b",
+  "version": "1.0.0",
+  "title": "Suksessterte (Norwegian almond “success cake”)",
+  "slug": "suksessterte-norwegian-almond-success-cake",
+  "summary": "A traditional Norwegian almond cake consisting of a dense almond-based sponge topped with a rich, creamy yellow egg custard.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:06:59Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53130"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/de83k51763075604.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/de83k51763075604.jpg/small",
+      "alt_text": "Photo of Suksessterte (Norwegian almond “success cake”)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=LgIQXxkOrMM"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "56e78dbc-276d-5104-bca5-2bb213b93a49",
+        "slug": "norwegian",
+        "name": "Norwegian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 65,
+    "rest_time_minutes": 30,
+    "total_time_minutes": 115
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "servings",
+    "serving_size_description": "1 slice of cake"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "tree_nuts",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "8c7a4b9c-fb51-5cc8-953d-b4f5417d6ae8",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "caff2f58-f1d3-50b1-a68b-202c62d41f8c",
+          "ingredient_id": "1f65be5f-ad9d-5713-aca2-600f7b2a1ee8",
+          "name": "almonds",
+          "display_text": "2 cups Almonds",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "4644f20d-c829-5306-ab25-ca06bef94e5d",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "3 Egg",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "b412b7e7-9b0d-5808-bd91-9dafb14d0613",
+          "ingredient_id": "585e8c07-6f6b-5618-a220-3f1795eaa043",
+          "name": "granulated sugar",
+          "display_text": "1 1/4 cup Granulated Sugar",
+          "quantity": 1.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "eb19c4ad-dc99-5490-8dac-303a085f8cdb",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "2 tblsp Flour",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "d4ba633e-d35c-51bc-8a67-740c760557de",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 teaspoon Baking Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "0a2aa2db-1353-52fb-84ea-1ccddf0c70d6",
+          "ingredient_id": "051a3118-01a4-5366-a922-19ecf618e2f9",
+          "name": "egg yolks",
+          "display_text": "5 Egg Yolks",
+          "quantity": 5.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "e673a394-d5ca-56d3-b880-71d8d93ee761",
+          "ingredient_id": "cb8d5d02-f2f1-547b-b7e6-054d6629adc1",
+          "name": "heavy cream",
+          "display_text": "1/2 cup Heavy Cream",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "e8273d2b-6730-5d6d-8a50-f1c9be28a24e",
+          "ingredient_id": "585e8c07-6f6b-5618-a220-3f1795eaa043",
+          "name": "granulated sugar",
+          "display_text": "1/3 cup Granulated Sugar",
+          "quantity": 0.3333,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 80.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "4179fb44-c26b-5c50-9601-034dd6576ba1",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1 teaspoon Vanilla Extract",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "8970161a-9069-5f7e-9851-0a8916037950",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "100g Butter",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Almond base"
+    },
+    {
+      "step_number": 2,
+      "instruction": "Preheat oven to 345°F (175°C) and grease cake form (I use a 27 cm spring form) – you can line the bottom with baking paper if you like.",
+      "temperature": {
+        "value": 345,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 3,
+      "instruction": "Grind almonds in an almond grinder or food processor. I like to keep them a bit coarse.",
+      "ingredients_used": [
+        "caff2f58-f1d3-50b1-a68b-202c62d41f8c"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Gently whisk the eggs and sugar together until combined (no longer). Stir in the ground almonds, flour, and baking powder.",
+      "ingredients_used": [
+        "caff2f58-f1d3-50b1-a68b-202c62d41f8c",
+        "eb19c4ad-dc99-5490-8dac-303a085f8cdb",
+        "d4ba633e-d35c-51bc-8a67-740c760557de"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Pour batter into cake form and bake for about 45 – 50 minutes, monitoring to make sure the top doesn't burn.",
+      "timer_seconds": 3000
+    },
+    {
+      "step_number": 6,
+      "instruction": "Yellow egg cream",
+      "ingredients_used": [
+        "4644f20d-c829-5306-ab25-ca06bef94e5d"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Add egg yolks, heavy cream, sugar, and vanilla to a saucepan. Heat over low/medium heat while stirring constantly until the mixture thickens – about 15 minutes. Turn up the heat if the mixture doesn't thicken, but be careful not to boil.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "4644f20d-c829-5306-ab25-ca06bef94e5d",
+        "0a2aa2db-1353-52fb-84ea-1ccddf0c70d6",
+        "e673a394-d5ca-56d3-b880-71d8d93ee761"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Let the mixture cool to room temperature and then add the butter. You can use an electric mixer for a fluffy egg cream.",
+      "ingredients_used": [
+        "4644f20d-c829-5306-ab25-ca06bef94e5d",
+        "8970161a-9069-5f7e-9851-0a8916037950"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Assembly"
+    },
+    {
+      "step_number": 10,
+      "instruction": "Wait for the cake to cool completely before removing from form and frosting."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://scandinaviancookbook.com/suksessterte-success-cake/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "id": "6e937648-743b-58b4-80b3-b9becf874664",
+  "version": "1.0.0",
+  "title": "Fried cocoy banana",
+  "slug": "fried-cocoy-banana",
+  "summary": "A Dominican dessert consisting of cocoys (plantains) coated in an egg and cinnamon mixture, then breaded and deep-fried until golden brown.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:46:06Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53572"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/u6wbby1784832845.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/u6wbby1784832845.jpg/small",
+      "alt_text": "Photo of Fried cocoy banana",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4da88d96-f05f-5f73-a14b-c5e37ee2541e",
+        "slug": "dominican",
+        "name": "Dominican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 7,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 cocoy banana"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "655db0fe-0ff7-5eb8-99fb-2feb04080bdc",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "bcbab086-acb8-5041-bf86-adb2f75b338b",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "1 tablespoon Cinnamon",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d3a13fba-bba0-5d9f-8866-71da35c40cfe",
+          "ingredient_id": "f69abbff-7156-5ebd-a02f-8e4877929bf6",
+          "name": "cocoy banana",
+          "display_text": "7 Cocoy Banana",
+          "quantity": 7.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "68c9a76c-ce11-5573-9eed-e2677a9b5691",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "2 Eggs",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "a25bd116-9761-52c9-a892-4d9fea1b53d0",
+          "ingredient_id": "00efa231-6d81-5c88-91fa-b330117cc5f4",
+          "name": "breadcrumbs",
+          "display_text": "1 1/2 cup Breadcrumbs",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "43903c6b-0032-5078-84eb-8ba5a7fcf99b",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "5 Cups Vegetable Oil",
+          "quantity": 5.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 1200.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Peel cocoys"
+    },
+    {
+      "step_number": 2,
+      "instruction": "Mix eggs and cinnamon in a bowl",
+      "ingredients_used": [
+        "bcbab086-acb8-5041-bf86-adb2f75b338b",
+        "68c9a76c-ce11-5573-9eed-e2677a9b5691"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Dip cocoy in mixture, then coat in the panko breadcrumbs",
+      "ingredients_used": [
+        "a25bd116-9761-52c9-a892-4d9fea1b53d0"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Heat oil at medium heat"
+    },
+    {
+      "step_number": 5,
+      "instruction": "Place cocoy in hot oil"
+    },
+    {
+      "step_number": 6,
+      "instruction": "Turn with a tong"
+    },
+    {
+      "step_number": 7,
+      "instruction": "Remove from pan when golden brown"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://dominicagourmet.com/fried-cocoy-banana-with-coconut-ice-cream/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

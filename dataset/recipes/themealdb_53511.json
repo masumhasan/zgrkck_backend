@@ -1,0 +1,259 @@
+{
+  "id": "17d24032-60d1-539f-be56-3ac5576527e8",
+  "version": "1.0.0",
+  "title": "Salt Beef and Beans",
+  "slug": "salt-beef-and-beans",
+  "summary": "A traditional Caymanian dish consisting of salt beef simmered with kidney beans in a creamy coconut milk base flavored with scotch bonnet and allspice.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:40:43Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53511"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/dnd87q1782775269.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/dnd87q1782775269.jpg/small",
+      "alt_text": "Photo of Salt Beef and Beans",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c09eb408-33f5-5580-b0b4-cd787ea520ba",
+        "slug": "caymanian",
+        "name": "Caymanian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 140,
+    "total_time_minutes": 155
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a bowl of beef and beans with rice"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "de996ab5-58a6-59b9-b2cc-e3de901fd1a2",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "6bc14320-799c-5aae-a97c-1c1f6f5c418d",
+          "ingredient_id": "b9d442b1-bc95-5708-804e-29b7a814b4cd",
+          "name": "corned beef",
+          "display_text": "1 lb Corned Beef",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "628b510e-9e55-5d8e-b4c8-679c466e6466",
+          "ingredient_id": "ba890946-fbb1-5386-9394-aa912a5bb5a0",
+          "name": "kidney beans",
+          "display_text": "1 1/2 cup Kidney Beans",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "f40b40bd-4c7e-5e5f-a6d5-0f1d6410a16e",
+          "ingredient_id": "cfe71375-907d-57ad-936c-b27b60946f4e",
+          "name": "scotch bonnet",
+          "display_text": "1 Scotch Bonnet",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ac2ee34d-d471-50d8-bb4e-da650e19fcbd",
+          "ingredient_id": "24cbab0a-29d3-5e28-b361-77f90e93af9c",
+          "name": "scallions",
+          "display_text": "2 Scallions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "91edff20-160a-5fc4-ba29-424ffb717a44",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "1/4 tsp Thyme",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "4e641141-4725-51c9-991b-e7b1ce9fa3eb",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove finely chopped Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "21604d71-c15b-5b36-b874-f5ac495ddaf0",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "2 cups Water",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "43ac0bce-acba-5fbd-80a0-c1b1ff4e0179",
+          "ingredient_id": "0435e55e-84f6-566c-ac81-37617bbab91c",
+          "name": "coconut milk",
+          "display_text": "3 Cups Coconut Milk",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "76e065d5-0b9b-5a13-83f9-754b0962b676",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "2 Bay Leaf",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3b2c0e28-1c65-5330-8564-5a27bdd1f043",
+          "ingredient_id": "38dedce7-9a7f-57ee-8e46-5162ab60eba8",
+          "name": "allspice",
+          "display_text": "6 Allspice",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "ca50aacf-26e8-501e-ace6-c0b6e802640d",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Cover the diced salt beef with water and bring to a boil. Repeat as necessary, draining and replacing water to eliminate some of the brine.",
+      "ingredients_used": [
+        "6bc14320-799c-5aae-a97c-1c1f6f5c418d",
+        "21604d71-c15b-5b36-b874-f5ac495ddaf0"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a separate pan, place beans in water, add coconut milk, bay leaves, pimento seeds, whole garlic, whole scotch bonnet pepper and scallions. Slowly bring to a boil and simmer for about 2 hours, or until beans are tender.",
+      "timer_seconds": 7200,
+      "ingredients_used": [
+        "628b510e-9e55-5d8e-b4c8-679c466e6466",
+        "f40b40bd-4c7e-5e5f-a6d5-0f1d6410a16e",
+        "ac2ee34d-d471-50d8-bb4e-da650e19fcbd",
+        "4e641141-4725-51c9-991b-e7b1ce9fa3eb",
+        "21604d71-c15b-5b36-b874-f5ac495ddaf0",
+        "43ac0bce-acba-5fbd-80a0-c1b1ff4e0179",
+        "ca50aacf-26e8-501e-ace6-c0b6e802640d"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add salt beef, onions, thyme and crushed garlic and simmer for another 20 minutes. Adjust seasonings if necessary.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "6bc14320-799c-5aae-a97c-1c1f6f5c418d",
+        "91edff20-160a-5fc4-ba29-424ffb717a44",
+        "4e641141-4725-51c9-991b-e7b1ce9fa3eb",
+        "ca50aacf-26e8-501e-ace6-c0b6e802640d"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Remove the bay leaves and scotch bonnet pepper, being careful not to burst the pepper. Serve with white rice and your choice of salad or vegetables.",
+      "ingredients_used": [
+        "f40b40bd-4c7e-5e5f-a6d5-0f1d6410a16e"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.ourcayman.ky/en-us/about/more-about-cayman/recipes"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

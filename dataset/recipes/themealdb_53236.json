@@ -1,0 +1,256 @@
+{
+  "id": "cac945c8-4d66-5bee-846f-e5108ca9b0f5",
+  "version": "1.0.0",
+  "title": "Vietnamese-style veggie hotpot",
+  "slug": "vietnamese-style-veggie-hotpot",
+  "summary": "A vegetarian hotpot featuring simmered butternut squash and green beans seasoned with ginger, garlic, and soy sauce, served over jasmine rice.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:16:23Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53236"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/4uje7l1763762276.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/4uje7l1763762276.jpg/small",
+      "alt_text": "Photo of Vietnamese-style veggie hotpot",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=OR6jC9gw_Hw"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "60481cf3-a7b7-5be4-a0dc-6b872c887e64",
+        "slug": "vietnamese",
+        "name": "Vietnamese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 18,
+    "total_time_minutes": 28
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of squash and beans with rice"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "a9a36920-03ac-536e-8122-e579e1fde978",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "326dcb2d-65a3-5202-bdff-24e94c058329",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "2 tsp Vegetable Oil",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "ba7ddc3b-3777-5dc6-975a-3ad986d300a5",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "4cm finely chopped Ginger",
+          "quantity": 4.0,
+          "unit": "centimeter",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "92614de6-564e-5147-9835-e5b2b905616f",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "2 chopped Garlic Clove",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "482fb8b6-b113-5f5e-9fb3-f96c0123204e",
+          "ingredient_id": "f2a5d81b-c148-52d1-96a6-c8d33709dafc",
+          "name": "butternut squash",
+          "display_text": "1/2 Butternut Squash",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2cddd71a-5480-5edd-9582-4dc8a8a20341",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "2 tsp Soy Sauce",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "abd29c0e-b7c7-5d2b-b9ad-9e2d766e9b11",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "2 tsp Brown Sugar",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "9492a594-8284-5620-8c77-99623ba48e50",
+          "ingredient_id": "2d490c0b-0744-5be5-a104-641c87b13636",
+          "name": "vegetable stock",
+          "display_text": "200ml Vegetable Stock",
+          "quantity": 200.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "5b882f73-7a08-58e4-bb5c-243daed3ccb7",
+          "ingredient_id": "76e924de-1ab6-5ae5-94fc-70f3fd268a7d",
+          "name": "green beans",
+          "display_text": "100g shredded Green Beans",
+          "quantity": 100.0,
+          "unit": "gram",
+          "preparation": "shredded",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "57fb0991-ae02-554e-bc03-b4b1a7442067",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "4 sliced Spring Onions",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c3d4c931-3732-5f8e-bac7-f29ff76ce6ed",
+          "ingredient_id": "01f7246f-a615-5952-a55f-5bf9985723ad",
+          "name": "coriander leaves",
+          "display_text": "To serve Coriander Leaves",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e20e954e-92ca-5685-94f9-35725cbbcfeb",
+          "ingredient_id": "5e15f536-69f0-5645-a107-7aef5fc85d55",
+          "name": "jasmine rice",
+          "display_text": "To serve Jasmine Rice",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "grains_pasta"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oil in a medium-size, lidded saucepan. Add the ginger and garlic, then stir-fry for about 5 mins.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "ba7ddc3b-3777-5dc6-975a-3ad986d300a5"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the squash, soy sauce, sugar and stock. Cover, then simmer for 10 mins.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "482fb8b6-b113-5f5e-9fb3-f96c0123204e",
+        "2cddd71a-5480-5edd-9582-4dc8a8a20341"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Remove the lid, add the green beans, then cook for 3 mins more until the squash and beans are tender. Stir the spring onions through at the last minute, then sprinkle with coriander and serve with rice.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "482fb8b6-b113-5f5e-9fb3-f96c0123204e",
+        "5b882f73-7a08-58e4-bb5c-243daed3ccb7",
+        "57fb0991-ae02-554e-bc03-b4b1a7442067",
+        "e20e954e-92ca-5685-94f9-35725cbbcfeb"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/vietnamese-veggie-hotpot"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

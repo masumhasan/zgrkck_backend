@@ -1,0 +1,184 @@
+{
+  "id": "5e0cfa1f-7525-5dac-aa15-53079fcc4c0c",
+  "version": "1.0.0",
+  "title": "Chicken Enchilada Casserole",
+  "slug": "chicken-enchilada-casserole",
+  "summary": "A layered Mexican-style casserole featuring shredded chicken cooked in enchilada sauce, layered with corn tortillas and Monterey Jack cheese.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:36:18Z",
+  "updated_at": "2026-10-16T10:22:42Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52765"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/qtuwxu1468233098.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/qtuwxu1468233098.jpg/small",
+      "alt_text": "Photo of Chicken Enchilada Casserole",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=EtVkwVKLc_M"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d92b5023-5f76-56a5-b92d-341aaabd6a80",
+        "slug": "mexican",
+        "name": "Mexican"
+      }
+    ],
+    "tags": [
+      "casserole",
+      "cheasy",
+      "meat"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "weeknight_dinner"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 50,
+    "total_time_minutes": 65
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of casserole"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery",
+      "sulfites"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "cbc703f3-b5b1-5bb0-a55f-0cf3515f1297",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "eb788b72-777e-5ab3-bae6-d0a7928898bb",
+          "ingredient_id": "420fd91e-c806-51b2-8a50-099090411075",
+          "name": "enchilada sauce",
+          "display_text": "14 oz jar Enchilada sauce",
+          "quantity": 14.0,
+          "unit": "ounce",
+          "preparation": "jar",
+          "is_optional": false,
+          "metric_quantity": 396.9,
+          "metric_unit": "gram",
+          "category": "condiments"
+        },
+        {
+          "id": "8424d56e-6d5b-5d74-bef7-07e7e670913e",
+          "ingredient_id": "dd0bf4c5-0f78-5c4d-ba03-dcebb6cf336c",
+          "name": "shredded monterey jack cheese",
+          "display_text": "3 Cups shredded Monterey Jack cheese",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "0be606f1-8c9e-5ac0-8a42-90ea7870590a",
+          "ingredient_id": "c5fb2c9d-7328-5d17-ae93-1746d0bc3a32",
+          "name": "corn tortillas",
+          "display_text": "6 corn tortillas",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "90085480-d71f-5f1c-a1b0-79dae05f750b",
+          "ingredient_id": "e23191a1-4966-5b21-a6f1-8df6f50b79db",
+          "name": "chicken breasts",
+          "display_text": "2 chicken breasts",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "poultry"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Cut each chicken breast in about 3 pieces, so that it cooks faster and put it in a small pot. Pour Enchilada sauce over it and cook covered on low to medium heat until chicken is cooked through, about 20 minutes. No water is needed, the chicken will cook in the Enchilada sauce. Make sure you stir occasionally so that it doesn't stick to the bottom.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "eb788b72-777e-5ab3-bae6-d0a7928898bb"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Remove chicken from the pot and shred with two forks."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Preheat oven to 375 F degrees.",
+      "temperature": {
+        "value": 375,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 4,
+      "instruction": "Start layering the casserole. Start with about ¼ cup of the leftover Enchilada sauce over the bottom of a baking dish. I used a longer baking dish, so that I can put 2 corn tortillas across. Place 2 tortillas on the bottom, top with ⅓ of the chicken and ⅓ of the remaining sauce. Sprinkle with ⅓ of the cheese and repeat starting with 2 more tortillas, then chicken, sauce, cheese. Repeat with last layer with the remaining ingredients, tortillas, chicken, sauce and cheese.",
+      "ingredients_used": [
+        "eb788b72-777e-5ab3-bae6-d0a7928898bb",
+        "0be606f1-8c9e-5ac0-8a42-90ea7870590a"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Bake for 20 to 30 minutes uncovered, until bubbly and cheese has melted and started to brown on top.",
+      "timer_seconds": 1800
+    },
+    {
+      "step_number": 6,
+      "instruction": "Serve warm."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

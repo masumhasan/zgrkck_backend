@@ -1,0 +1,412 @@
+{
+  "id": "0ddd2c9e-61a2-5b56-80ab-f50f98b32f9f",
+  "version": "1.0.0",
+  "title": "Vegetable Shepherds Pie",
+  "slug": "vegetable-shepherds-pie",
+  "summary": "A vegetarian version of the classic Irish shepherd's pie, featuring a layer of tender lentils topped with roasted vegetables and a rich savory sauce, finished with a creamy mashed potato crust.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:56:07Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53000"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/w8umt11583268117.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/w8umt11583268117.jpg/small",
+      "alt_text": "Photo of Vegetable Shepherds Pie",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9afcb22c-d4b3-58a6-981b-5d7f3acffbaf",
+        "slug": "irish",
+        "name": "Irish"
+      }
+    ],
+    "tags": [
+      "baking"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 45,
+    "cook_time_minutes": 175,
+    "rest_time_minutes": 15,
+    "total_time_minutes": 235
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "portions",
+    "serving_size_description": "1 large portion"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "soy",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "bedd2b2c-1041-56f6-968e-7ef47aefec82",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "0087c980-de54-5608-be79-0efab798aeb4",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "3 Lbs Potatoes",
+          "quantity": 3.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 1360.8,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "a0ad447a-8a49-57e9-88a9-304a916ac8a6",
+          "ingredient_id": "0eb2f1c4-4fbc-595d-852b-7f1741436e12",
+          "name": "small potatoes",
+          "display_text": "3 Lbs Small Potatoes",
+          "quantity": 3.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 1360.8,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "4d47091d-56d1-5d1d-9075-ac7d9b09e3b6",
+          "ingredient_id": "61d59118-43ac-5ce0-8424-181c34200c44",
+          "name": "salted butter",
+          "display_text": "1/2 cup Salted Butter",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "fad650be-a895-5001-ba89-802dba959af0",
+          "ingredient_id": "5031dcf8-ef4a-588f-ae8f-de7c2790dfac",
+          "name": "mushrooms",
+          "display_text": "1 oz Mushrooms",
+          "quantity": 1.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 28.4,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "654f7e22-7585-53ed-8f5c-163f522dd5a7",
+          "ingredient_id": "2afea6b9-5e0a-5f9e-b2f3-b4746a144116",
+          "name": "brown lentils",
+          "display_text": "3/4 cup Brown Lentils",
+          "quantity": 0.75,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 180.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "14da66ad-4ddd-51fc-92a3-f1a74903fbe2",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "6 cloves Garlic",
+          "quantity": 6.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2faa6506-29c6-5d2b-8fe3-01e378a47300",
+          "ingredient_id": "f60d2962-95b1-5ff5-80ec-2e8902992bc9",
+          "name": "kosher salt",
+          "display_text": "1 tsp Kosher Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "62dd14dc-054a-5e4c-b348-4b5dd0bb928d",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "3 cups Onion",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "2055592d-7bca-5027-9f0e-ae096e1aceef",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "2 tbsp Tomato Puree",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "a91a7f12-1ba3-5f22-87f9-45af72748003",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaves",
+          "display_text": "Bay Leaves",
+          "quantity": 0,
+          "unit": "as_needed",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "98b2f075-56d7-58a9-88d0-938e45df6925",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "Olive Oil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "8f02f06d-ed4a-5731-a731-93004573b726",
+          "ingredient_id": "fda31c84-156d-52ae-9761-68b43f6d20f4",
+          "name": "dry white wine",
+          "display_text": "2 cups Dry White Wine",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "b7fd31bc-9ecc-5b41-acd1-e9178efc4871",
+          "ingredient_id": "2d490c0b-0744-5be5-a104-641c87b13636",
+          "name": "vegetable stock",
+          "display_text": "8 cups Vegetable Stock",
+          "quantity": 8.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 1920.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "2187fe61-abd1-5954-a3df-cb22a61cd73f",
+          "ingredient_id": "4bdb1684-cdb6-5a8f-b220-c622cf2655cc",
+          "name": "cornstarch",
+          "display_text": "2 tbsp Cornstarch",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "44247a04-7a5c-527c-8476-e021b8e961d4",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "2 tsp Soy Sauce",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "dacdb7ef-4079-5792-9947-5cce44393753",
+          "ingredient_id": "b0bbff87-223e-5a9c-aa07-1ee472617b84",
+          "name": "rosemary",
+          "display_text": "2 sprigs Rosemary",
+          "quantity": 2.0,
+          "unit": "sprig",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "7d51c8a3-eaf2-5b03-bd3d-9f8b2578bcc4",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Parsley",
+          "quantity": 0,
+          "unit": "as_needed",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "c0efa361-7c78-5f0f-906c-9d387ad5f3b3",
+          "ingredient_id": "d01f0def-bca6-5c7e-990e-4032fdf6f4c4",
+          "name": "sage",
+          "display_text": "Sage",
+          "quantity": 0,
+          "unit": "as_needed",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "91468021-101f-5398-86c3-6b52aebe0635",
+          "ingredient_id": "85291054-0b21-5fc5-ac52-86bee20f4bbc",
+          "name": "chives",
+          "display_text": "Chives",
+          "quantity": 0,
+          "unit": "as_needed",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Add Ingredients:"
+    },
+    {
+      "step_number": 2,
+      "instruction": "12 cups chopped mixed vegetables"
+    },
+    {
+      "step_number": 3,
+      "instruction": "1   cup chopped fresh mushrooms",
+      "ingredients_used": [
+        "fad650be-a895-5001-ba89-802dba959af0"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "1   cup pearl onions",
+      "ingredients_used": [
+        "62dd14dc-054a-5e4c-b348-4b5dd0bb928d"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "TOPPING:"
+    },
+    {
+      "step_number": 6,
+      "instruction": "Preheat oven to 450°. Bake potatoes on a foil-lined baking sheet until tender, about 45 minutes. Let cool slightly, then peel. Press potatoes through a ricer, food mill, or colander into a large bowl. Add butter; stir until well blended. Stir in milk. Season to taste with salt.",
+      "timer_seconds": 2700,
+      "ingredients_used": [
+        "0087c980-de54-5608-be79-0efab798aeb4",
+        "a0ad447a-8a49-57e9-88a9-304a916ac8a6",
+        "4d47091d-56d1-5d1d-9075-ac7d9b09e3b6",
+        "2faa6506-29c6-5d2b-8fe3-01e378a47300"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "FILLING:"
+    },
+    {
+      "step_number": 8,
+      "instruction": "Soak dried porcini in 3 cups hot water; set aside. Combine lentils, 1 garlic clove, 1 tsp. salt, and 4 cups water in a medium saucepan. Bring to a boil; reduce heat and simmer, stirring occasionally, until lentils are tender but not mushy, 15–20 minutes. Drain lentils and discard garlic.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "654f7e22-7585-53ed-8f5c-163f522dd5a7",
+        "14da66ad-4ddd-51fc-92a3-f1a74903fbe2",
+        "2faa6506-29c6-5d2b-8fe3-01e378a47300"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Heat 3 Tbsp. oil in a large heavy pot over medium heat. Add onions and cook, stirring occasionally, until soft, about 12 minutes. Add chopped garlic and cook for 1 minute. Stir in tomato paste. Cook, stirring constantly, until tomato paste is caramelized, 2–3 minutes.",
+      "ingredients_used": [
+        "14da66ad-4ddd-51fc-92a3-f1a74903fbe2",
+        "62dd14dc-054a-5e4c-b348-4b5dd0bb928d"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "Add bay leaves and wine; stir, scraping up any browned bits. Stir in porcini, slowly pouring porcini soaking liquid into pan but leaving any sediment behind. Bring to a simmer and cook until liquid is reduced by half, about 10 minutes. Stir in broth and cook, stirring occasionally, until reduced by half, about 45 minutes.",
+      "ingredients_used": [
+        "a91a7f12-1ba3-5f22-87f9-45af72748003",
+        "8f02f06d-ed4a-5731-a731-93004573b726"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Strain mixture into a large saucepan and bring to a boil; discard solids in strainer. Stir cornstarch and 2 Tbsp. water in a small bowl to dissolve. Add cornstarch mixture; simmer until thickened, about 5 minutes. Whisk in miso. Season sauce with salt and pepper. Set aside.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "2faa6506-29c6-5d2b-8fe3-01e378a47300",
+        "2187fe61-abd1-5954-a3df-cb22a61cd73f"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Preheat oven to 450°. Toss vegetables and pearl onions with remaining 2 Tbsp. oil, 5 garlic cloves, and rosemary sprigs in a large bowl; season with salt and pepper. Divide between 2 rimmed baking sheets. Roast, stirring once, until tender, 20–25 minutes. Transfer garlic cloves to a small bowl; mash well with a fork and stir into sauce. Discard rosemary. DO AHEAD: Lentils, sauce, and vegetables can be made 1 day ahead. Cover separately; chill.",
+      "timer_seconds": 1500,
+      "ingredients_used": [
+        "654f7e22-7585-53ed-8f5c-163f522dd5a7",
+        "14da66ad-4ddd-51fc-92a3-f1a74903fbe2",
+        "2faa6506-29c6-5d2b-8fe3-01e378a47300",
+        "62dd14dc-054a-5e4c-b348-4b5dd0bb928d",
+        "dacdb7ef-4079-5792-9947-5cce44393753"
+      ]
+    },
+    {
+      "step_number": 13,
+      "instruction": "Arrange lentils in an even layer in a 3-qt. baking dish; set dish on a foil-lined rimmed baking sheet. Toss roasted vegetables with fresh mushrooms and chopped herbs; layer on top of lentils. Pour sauce over vegetables. Spoon potato mixture evenly over.",
+      "ingredients_used": [
+        "fad650be-a895-5001-ba89-802dba959af0",
+        "654f7e22-7585-53ed-8f5c-163f522dd5a7"
+      ]
+    },
+    {
+      "step_number": 14,
+      "instruction": "Bake until browned and bubbly, about 30 minutes. Let stand for 15 minutes before serving."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

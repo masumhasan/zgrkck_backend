@@ -1,0 +1,237 @@
+{
+  "id": "5fc44389-57bb-5261-ad49-b18c5c1c13e8",
+  "version": "1.0.0",
+  "title": "Dominican Bakes",
+  "slug": "dominican-bakes",
+  "summary": "A traditional Dominican dough-based starter consisting of fried dough balls made from flour, milk, and butter.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:45:47Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53567"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/cbfy1c1784672521.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/cbfy1c1784672521.jpg/small",
+      "alt_text": "Photo of Dominican Bakes",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4da88d96-f05f-5f73-a14b-c5e37ee2541e",
+        "slug": "dominican",
+        "name": "Dominican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "breakfast"
+    ],
+    "courses": [
+      "starter"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 15,
+    "rest_time_minutes": 20,
+    "total_time_minutes": 50
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "portions",
+    "serving_size_description": "a portion of fried dough balls"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "694e41cc-5f7e-5a0d-abd6-6ce9036e0250",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "69037aaf-306d-5d83-a005-4478506fbcdd",
+          "ingredient_id": "d1e5ec78-b8c2-5649-962c-a9f67272ea92",
+          "name": "all purpose flour",
+          "display_text": "4 cups All purpose flour",
+          "quantity": 4.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 960.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "08cccf20-d010-5c66-90af-bd16dc8c63cc",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 tablespoon Baking Powder",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "98224041-22c2-5347-a009-5a890a136602",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tablespoon Salt",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "262819c8-1bdb-5436-92e4-11a118a0ce0f",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1/2 tbs Sugar",
+          "quantity": 0.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "307ea92f-12bd-5562-941a-4be8d52445b5",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "2 cups Milk",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "b2f8f9b8-89bc-5db8-bd5e-faf86b5e7133",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "1 ½ tbsp Butter",
+          "quantity": 1.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 22.5,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "b9dc8fb1-e1fd-5dca-a263-a6126053d6cc",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "2 cups Vegetable Oil",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Combine dry ingredients and mix (flour, salt, and baking powder)",
+      "ingredients_used": [
+        "08cccf20-d010-5c66-90af-bd16dc8c63cc",
+        "98224041-22c2-5347-a009-5a890a136602"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add lightly melted butter mix.",
+      "ingredients_used": [
+        "b2f8f9b8-89bc-5db8-bd5e-faf86b5e7133"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Gradually add lukewarm milk.",
+      "ingredients_used": [
+        "307ea92f-12bd-5562-941a-4be8d52445b5"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Gently knead the dough with hands."
+    },
+    {
+      "step_number": 5,
+      "instruction": "The dough should not be firm but with a sticky consistency."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Separate into small portions in the shapes of balls based on the desired size."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Let the balls rest for 15 – 20 minutes covered with a towel or saran wrap.",
+      "timer_seconds": 1200
+    },
+    {
+      "step_number": 8,
+      "instruction": "Flatten dough using hands, using your thumb to press dough in"
+    },
+    {
+      "step_number": 9,
+      "instruction": "Deep fry in a saucepan (I use a saucepan because the frying pan is too wide, and I'll need to use too much oil to deep fry). Use medium heat."
+    },
+    {
+      "step_number": 10,
+      "instruction": "Turn over on the other side when dough strarts getting brown, then turn over to brown the other side"
+    },
+    {
+      "step_number": 11,
+      "instruction": "Enjoy with your favorite side"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://dominicagourmet.com/how-to-make-simple-dominican-bakes/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

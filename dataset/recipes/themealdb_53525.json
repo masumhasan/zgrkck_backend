@@ -1,0 +1,209 @@
+{
+  "id": "936845df-ae53-5c5a-96c5-b4eed6e3fc30",
+  "version": "1.0.0",
+  "title": "Ají de Aguacate Recipe (Colombian Spicy Avocado Sauce)",
+  "slug": "aji-de-aguacate-recipe-colombian-spicy-avocado-sauce",
+  "summary": "A spicy Colombian sauce made from blended avocado, habanero pepper, and lime juice. It is often used as a condiment or dip.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:42:02Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53525"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/jyvy8u1783800448.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/jyvy8u1783800448.jpg/small",
+      "alt_text": "Photo of Ají de Aguacate Recipe (Colombian Spicy Avocado Sauce)",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "50fefb0a-1f33-59b0-afdb-383ba2373950",
+        "slug": "colombian",
+        "name": "Colombian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish",
+      "condiment"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 10
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1/4 cup of sauce"
+  },
+  "allergens": {
+    "contains": [
+      "eggs",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "20fcbb96-08f0-5cf6-8d1b-dff663a34cb3",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "b8cdd654-e94e-5e31-bb82-19886f335eb1",
+          "ingredient_id": "eb7e0cb5-be44-5074-93b2-98cbac9baf42",
+          "name": "avocado",
+          "display_text": "2 Avocado",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "535f87b6-825a-5f26-b1e2-a16812024981",
+          "ingredient_id": "e220ba78-3866-58b7-bd3f-dc0ed1fd8307",
+          "name": "habanero pepper",
+          "display_text": "1 Habanero Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "62dddd8c-ba40-528f-af76-f27b32453e48",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "fadde563-471b-5a05-b5b4-7c325ff202cf",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "Juice of 2 Lime",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0feecf87-a973-5b9d-87cf-55da9f350ee2",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "da0cd356-1747-55f0-865a-f844d3e65eac",
+          "ingredient_id": "ab5b1e5d-c74e-59bc-9caa-0009568a07cb",
+          "name": "vinegar",
+          "display_text": "2 tablespoons Vinegar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "c84b546b-dd41-58f4-91fa-7aba79b5c4c1",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d34af5c4-cdad-509d-8e29-f3e7218e72d1",
+          "ingredient_id": "24cbab0a-29d3-5e28-b361-77f90e93af9c",
+          "name": "scallions",
+          "display_text": "2 chopped Scallions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f6000735-c7b9-5c36-a8bf-4aceaf3e0d30",
+          "ingredient_id": "1655ccbe-97a7-59b3-9245-ebc95a0ed6d0",
+          "name": "cilantro",
+          "display_text": "4 tablespoons Cilantro",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Place all the ingredients in a food processor. Process until the mixture is well combined."
+    },
+    {
+      "step_number": 2,
+      "instruction": "If the mixture is too thick, add more lime juice until you reach the desired consistency.",
+      "ingredients_used": [
+        "fadde563-471b-5a05-b5b4-7c325ff202cf"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.mycolombianrecipes.com/aji-de-aguacate-colombian-hot-avocado-sauce/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

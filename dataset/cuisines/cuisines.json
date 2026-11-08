@@ -1,0 +1,572 @@
+{
+ "count": 63,
+ "cuisines": [
+  {
+   "id": "e686c554-2e81-511f-b656-15ef0dcb3943",
+   "slug": "afghan",
+   "name": "Afghan",
+   "countries": [
+    "Afghanistan"
+   ],
+   "recipe_count": 8
+  },
+  {
+   "id": "e7c6b7b1-e982-5d1b-96fc-1577c9153035",
+   "slug": "albanian",
+   "name": "Albanian",
+   "countries": [
+    "Albania"
+   ],
+   "recipe_count": 11
+  },
+  {
+   "id": "44067efa-6d33-5eeb-9836-eb49ba7b3e31",
+   "slug": "algerian",
+   "name": "Algerian",
+   "countries": [
+    "Algeria"
+   ],
+   "recipe_count": 12
+  },
+  {
+   "id": "b95bb9d4-1e18-5623-a50f-942c7d140e82",
+   "slug": "american",
+   "name": "American",
+   "countries": [
+    "United States"
+   ],
+   "recipe_count": 34
+  },
+  {
+   "id": "4ae69bee-e4d8-5b74-8959-5af11c0b3454",
+   "slug": "andorran",
+   "name": "Andorran",
+   "countries": [
+    "Andorra"
+   ],
+   "recipe_count": 3
+  },
+  {
+   "id": "4a23f8f9-1616-58d0-bfd6-25ded0cb5675",
+   "slug": "angolan",
+   "name": "Angolan",
+   "countries": [
+    "Angola"
+   ],
+   "recipe_count": 2
+  },
+  {
+   "id": "0bb9bace-6857-5a6c-b1de-8d3f3764a960",
+   "slug": "antiguan",
+   "name": "Antiguan",
+   "countries": [
+    "Antigua and Barbuda"
+   ],
+   "recipe_count": 4
+  },
+  {
+   "id": "52cab25e-aedf-58a6-a869-20df96a19448",
+   "slug": "argentine",
+   "name": "Argentine",
+   "countries": [
+    "Argentina"
+   ],
+   "recipe_count": 10
+  },
+  {
+   "id": "2e3a53d2-b262-5dd0-b1a9-2ef277b88347",
+   "slug": "armenian",
+   "name": "Armenian",
+   "countries": [
+    "Armenia"
+   ],
+   "recipe_count": 4
+  },
+  {
+   "id": "0582bdef-9340-5f24-b48f-1bf7f5f392ac",
+   "slug": "aruban",
+   "name": "Aruban",
+   "countries": [
+    "Aruba"
+   ],
+   "recipe_count": 6
+  },
+  {
+   "id": "6442c74c-e246-57a7-870b-9366b38050a8",
+   "slug": "australian",
+   "name": "Australian",
+   "countries": [
+    "Australia"
+   ],
+   "recipe_count": 13
+  },
+  {
+   "id": "5ced9979-56b0-5063-8e7f-d2ba3c272045",
+   "slug": "austrian",
+   "name": "Austrian",
+   "countries": [
+    "Austria"
+   ],
+   "recipe_count": 4
+  },
+  {
+   "id": "4009f6eb-c732-5ba2-99bc-1e7c9f7e30cb",
+   "slug": "azerbaijani",
+   "name": "Azerbaijani",
+   "countries": [
+    "Azerbaijan"
+   ],
+   "recipe_count": 2
+  },
+  {
+   "id": "b25817d2-d2f6-57aa-8902-6f6aa0a44a7d",
+   "slug": "bahamian",
+   "name": "Bahamian",
+   "countries": [
+    "Bahamas"
+   ],
+   "recipe_count": 1
+  },
+  {
+   "id": "3fa2a93a-81b0-51e9-8da2-f5fc1192c36e",
+   "slug": "bangladeshi",
+   "name": "Bangladeshi",
+   "countries": [
+    "Bangladesh"
+   ],
+   "recipe_count": 3
+  },
+  {
+   "id": "71413a66-c12a-5aba-a038-e60b4b3fcacc",
+   "slug": "barbadian",
+   "name": "Barbadian",
+   "countries": [
+    "Barbados"
+   ],
+   "recipe_count": 8
+  },
+  {
+   "id": "be40c58d-b0e2-5e0f-99bc-6d79e9a5a5f5",
+   "slug": "belgian",
+   "name": "Belgian",
+   "countries": [
+    "Belgium"
+   ],
+   "recipe_count": 7
+  },
+  {
+   "id": "7eccd33d-bce1-55b8-8196-232aa305f7a3",
+   "slug": "botswanan",
+   "name": "Botswanan",
+   "countries": [
+    "Botswana"
+   ],
+   "recipe_count": 6
+  },
+  {
+   "id": "6675856e-6919-5ea9-9f7a-8bf7f195e27f",
+   "slug": "brazilian",
+   "name": "Brazilian",
+   "countries": [
+    "Brazil"
+   ],
+   "recipe_count": 11
+  },
+  {
+   "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+   "slug": "british",
+   "name": "British",
+   "countries": [
+    "United Kingdom"
+   ],
+   "recipe_count": 60
+  },
+  {
+   "id": "66ab8d60-8573-56c2-94b7-8a8e8cc659da",
+   "slug": "bulgarian",
+   "name": "Bulgarian",
+   "countries": [
+    "Bulgaria"
+   ],
+   "recipe_count": 9
+  },
+  {
+   "id": "9366172c-dff3-589e-9436-4be7c7f595b3",
+   "slug": "cambodian",
+   "name": "Cambodian",
+   "countries": [
+    "Cambodia"
+   ],
+   "recipe_count": 15
+  },
+  {
+   "id": "54838e2c-2c59-558b-8932-e019f7cc6d0c",
+   "slug": "canadian",
+   "name": "Canadian",
+   "countries": [
+    "Canada"
+   ],
+   "recipe_count": 22
+  },
+  {
+   "id": "c09eb408-33f5-5580-b0b4-cd787ea520ba",
+   "slug": "caymanian",
+   "name": "Caymanian",
+   "countries": [
+    "Cayman Islands"
+   ],
+   "recipe_count": 9
+  },
+  {
+   "id": "2681863c-dfb1-5347-8330-bcdf36e53ac6",
+   "slug": "chilean",
+   "name": "Chilean",
+   "countries": [
+    "Chile"
+   ],
+   "recipe_count": 9
+  },
+  {
+   "id": "6813a95e-62cf-55e7-9d4b-6f19ee1d7391",
+   "slug": "chinese",
+   "name": "Chinese",
+   "countries": [
+    "China"
+   ],
+   "recipe_count": 27
+  },
+  {
+   "id": "50fefb0a-1f33-59b0-afdb-383ba2373950",
+   "slug": "colombian",
+   "name": "Colombian",
+   "countries": [
+    "Colombia"
+   ],
+   "recipe_count": 13
+  },
+  {
+   "id": "c34e726c-a17e-5cad-a035-3eaf9df4125f",
+   "slug": "costa-rican",
+   "name": "Costa Rican",
+   "countries": [
+    "Costa Rica"
+   ],
+   "recipe_count": 8
+  },
+  {
+   "id": "b5d05ee7-9bce-5691-809b-0e253d6b7ed2",
+   "slug": "croatian",
+   "name": "Croatian",
+   "countries": [
+    "Croatia"
+   ],
+   "recipe_count": 8
+  },
+  {
+   "id": "bd3047f5-b3e1-53bc-b58b-9c7b54443734",
+   "slug": "cuban",
+   "name": "Cuban",
+   "countries": [
+    "Cuba"
+   ],
+   "recipe_count": 6
+  },
+  {
+   "id": "11f008d8-4600-56c5-aaa2-cde07db70a5a",
+   "slug": "danish",
+   "name": "Danish",
+   "countries": [
+    "Denmark"
+   ],
+   "recipe_count": 9
+  },
+  {
+   "id": "4da88d96-f05f-5f73-a14b-c5e37ee2541e",
+   "slug": "dominican",
+   "name": "Dominican",
+   "countries": [
+    "Dominica"
+   ],
+   "recipe_count": 16
+  },
+  {
+   "id": "74c070cf-0c42-573b-9e5c-54db497f25a3",
+   "slug": "dutch",
+   "name": "Dutch",
+   "countries": [
+    "Netherlands"
+   ],
+   "recipe_count": 18
+  },
+  {
+   "id": "3586d868-9b83-5a6f-adb2-43d378fffcd2",
+   "slug": "egyptian",
+   "name": "Egyptian",
+   "countries": [
+    "Egypt"
+   ],
+   "recipe_count": 8
+  },
+  {
+   "id": "da9196a9-a77a-56ba-93b0-a3364fc63c4e",
+   "slug": "estonian",
+   "name": "Estonian",
+   "countries": [
+    "Estonia"
+   ],
+   "recipe_count": 6
+  },
+  {
+   "id": "3e1a78f5-e83e-5b97-a090-8a1e2d2271a8",
+   "slug": "filipino",
+   "name": "Filipino",
+   "countries": [
+    "Philippines"
+   ],
+   "recipe_count": 8
+  },
+  {
+   "id": "fe8f07a1-591f-5711-ae5b-f3c9afcc3e60",
+   "slug": "french",
+   "name": "French",
+   "countries": [
+    "France"
+   ],
+   "recipe_count": 28
+  },
+  {
+   "id": "de767d0c-ee8d-59a9-8d05-02b9ae12a1ac",
+   "slug": "greek",
+   "name": "Greek",
+   "countries": [
+    "Greece"
+   ],
+   "recipe_count": 8
+  },
+  {
+   "id": "b2b4e1bc-3c1e-50ce-abf4-9015553e6a16",
+   "slug": "indian",
+   "name": "Indian",
+   "countries": [
+    "India"
+   ],
+   "recipe_count": 14
+  },
+  {
+   "id": "9afcb22c-d4b3-58a6-981b-5d7f3acffbaf",
+   "slug": "irish",
+   "name": "Irish",
+   "countries": [
+    "Ireland"
+   ],
+   "recipe_count": 8
+  },
+  {
+   "id": "5777da00-e671-5ded-9c46-d7577d65960f",
+   "slug": "italian",
+   "name": "Italian",
+   "countries": [
+    "Italy"
+   ],
+   "recipe_count": 21
+  },
+  {
+   "id": "2dfec5c8-490a-551c-9d2f-e8e21f706bda",
+   "slug": "jamaican",
+   "name": "Jamaican",
+   "countries": [
+    "Jamaica"
+   ],
+   "recipe_count": 27
+  },
+  {
+   "id": "56a9f85e-d404-5cf3-b90f-babb495ba40f",
+   "slug": "japanese",
+   "name": "Japanese",
+   "countries": [
+    "Japan"
+   ],
+   "recipe_count": 9
+  },
+  {
+   "id": "f2e3f346-83dd-52eb-ba4c-b2e29c50a479",
+   "slug": "kenyan",
+   "name": "Kenyan",
+   "countries": [
+    "Kenya"
+   ],
+   "recipe_count": 5
+  },
+  {
+   "id": "576ac435-ec21-5e8d-85c2-e8d8a2c9dd6d",
+   "slug": "laotian",
+   "name": "Laotian",
+   "countries": [
+    "Laos"
+   ],
+   "recipe_count": 4
+  },
+  {
+   "id": "336a5cbb-5bdd-53e1-aca6-9d291720d97b",
+   "slug": "malaysian",
+   "name": "Malaysian",
+   "countries": [
+    "Malaysia"
+   ],
+   "recipe_count": 8
+  },
+  {
+   "id": "d92b5023-5f76-56a5-b92d-341aaabd6a80",
+   "slug": "mexican",
+   "name": "Mexican",
+   "countries": [
+    "Mexico"
+   ],
+   "recipe_count": 6
+  },
+  {
+   "id": "118c0c07-e5c2-5a71-ac2b-49c1d77823aa",
+   "slug": "moroccan",
+   "name": "Moroccan",
+   "countries": [
+    "Morocco"
+   ],
+   "recipe_count": 6
+  },
+  {
+   "id": "56e78dbc-276d-5104-bca5-2bb213b93a49",
+   "slug": "norwegian",
+   "name": "Norwegian",
+   "countries": [
+    "Norway"
+   ],
+   "recipe_count": 18
+  },
+  {
+   "id": "d40b0607-0a3a-5f5d-8012-7eaf1b714fa5",
+   "slug": "polish",
+   "name": "Polish",
+   "countries": [
+    "Poland"
+   ],
+   "recipe_count": 27
+  },
+  {
+   "id": "d3317c07-1a34-51bf-a414-80251ba04fe2",
+   "slug": "portuguese",
+   "name": "Portuguese",
+   "countries": [
+    "Portugal"
+   ],
+   "recipe_count": 8
+  },
+  {
+   "id": "89b023d7-b2bb-5d32-90aa-fbee4bddee90",
+   "slug": "russian",
+   "name": "Russian",
+   "countries": [
+    "Russia"
+   ],
+   "recipe_count": 7
+  },
+  {
+   "id": "dadedf2a-1088-576c-834c-66ae61df3c2a",
+   "slug": "saudi-arabian",
+   "name": "Saudi Arabian",
+   "countries": [
+    "Saudi Arabia"
+   ],
+   "recipe_count": 12
+  },
+  {
+   "id": "044b7bf3-e48a-565d-bf41-9893debca860",
+   "slug": "slovak",
+   "name": "Slovak",
+   "countries": [
+    "Slovakia"
+   ],
+   "recipe_count": 4
+  },
+  {
+   "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+   "slug": "spanish",
+   "name": "Spanish",
+   "countries": [
+    "Spain"
+   ],
+   "recipe_count": 48
+  },
+  {
+   "id": "a8c10f43-1ba0-5839-9ba9-834872824efe",
+   "slug": "syrian",
+   "name": "Syrian",
+   "countries": [
+    "Syria"
+   ],
+   "recipe_count": 6
+  },
+  {
+   "id": "724b7c6a-f254-57d4-9729-335a2b2d93b1",
+   "slug": "thai",
+   "name": "Thai",
+   "countries": [
+    "Thailand"
+   ],
+   "recipe_count": 27
+  },
+  {
+   "id": "23146f21-0265-5561-bbec-944b008fa0d1",
+   "slug": "tunisian",
+   "name": "Tunisian",
+   "countries": [
+    "Tunisia"
+   ],
+   "recipe_count": 8
+  },
+  {
+   "id": "4c480df7-c067-5e9c-ac08-d8d49afa7f51",
+   "slug": "turkish",
+   "name": "Turkish",
+   "countries": [
+    "Turkey"
+   ],
+   "recipe_count": 30
+  },
+  {
+   "id": "e00f83fa-fc1f-5fa7-b77b-c52fa0a57fe1",
+   "slug": "ukrainian",
+   "name": "Ukrainian",
+   "countries": [
+    "Ukraine"
+   ],
+   "recipe_count": 7
+  },
+  {
+   "id": "bc928459-1cc9-56b4-a03c-a0518db62f83",
+   "slug": "uruguayan",
+   "name": "Uruguayan",
+   "countries": [
+    "Uruguay"
+   ],
+   "recipe_count": 9
+  },
+  {
+   "id": "7511fbbd-fbff-5fb1-ad48-c4a89d390e43",
+   "slug": "venezuelan",
+   "name": "Venezuelan",
+   "countries": [
+    "Venezuela"
+   ],
+   "recipe_count": 10
+  },
+  {
+   "id": "60481cf3-a7b7-5be4-a0dc-6b872c887e64",
+   "slug": "vietnamese",
+   "name": "Vietnamese",
+   "countries": [
+    "Vietnam"
+   ],
+   "recipe_count": 27
+  }
+ ]
+}

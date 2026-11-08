@@ -1,0 +1,234 @@
+{
+  "id": "e315d70b-0458-576c-bbbe-a8ac8a4abccd",
+  "version": "1.0.0",
+  "title": "Kurabie Butter Cookies",
+  "slug": "kurabie-butter-cookies",
+  "summary": "Albanian butter cookies made with Greek yogurt and eggs, resulting in a soft, slightly squishy texture.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:32:03Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53414"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/qidask1779650423.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/qidask1779650423.jpg/small",
+      "alt_text": "Photo of Kurabie Butter Cookies",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "e7c6b7b1-e982-5d1b-96fc-1577c9153035",
+        "slug": "albanian",
+        "name": "Albanian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 40,
+    "rest_time_minutes": 10,
+    "total_time_minutes": 65
+  },
+  "yield": {
+    "servings": 20,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 cookie"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "d8dd6c7a-13fc-50f5-93ea-dbb83801beac",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "2bb60278-7eac-5e01-b16d-2bf1fa12e085",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "650g Flour",
+          "quantity": 650.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 650.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "447dd537-2da8-5249-982a-2df0e50e3d8a",
+          "ingredient_id": "ba22b73d-e619-5bc7-a859-f65b683613fe",
+          "name": "greek yogurt",
+          "display_text": "275ml Greek Yogurt",
+          "quantity": 275.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 275.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "808ad7a8-27d5-5149-9d42-1d25682c2544",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "3 Eggs",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "d829818f-1b80-5b8c-928c-978c4c48015b",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "200g Sugar",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "3f705465-4c87-59f9-8a0e-175dc6c4483a",
+          "ingredient_id": "824a7073-84ed-52c2-97ef-4d532cabeb6d",
+          "name": "melted butter",
+          "display_text": "120g Melted Butter",
+          "quantity": 120.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "348131d0-6eab-5e60-b67d-7e9c0f0fcd9f",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 tsp Baking Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "071ec946-54d6-5613-80a8-de020801a8a8",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1 drop Vanilla Extract",
+          "quantity": 1.0,
+          "unit": "drop",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "e3fe94b6-6fd3-5446-b80f-cf0a32d0f26c",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "0e4d0af4-6d22-5214-ba61-bd5ae3811864",
+          "ingredient_id": "824a7073-84ed-52c2-97ef-4d532cabeb6d",
+          "name": "melted butter",
+          "display_text": "10g Melted Butter",
+          "quantity": 10.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Prepare the Dough"
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a large mixing bowl add all the ingredients and mix together until a dough is formed. The dough should be stick - add extra flour if you find the mixture too sticky to work with.",
+      "ingredients_used": [
+        "2bb60278-7eac-5e01-b16d-2bf1fa12e085"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Using the extra melted butter, rub some over your hands before breaking the dough into 20 equal sized pieces and roll each piece into a ball. Before rolling each ball rub melted butter over your hands each time.",
+      "ingredients_used": [
+        "3f705465-4c87-59f9-8a0e-175dc6c4483a",
+        "0e4d0af4-6d22-5214-ba61-bd5ae3811864"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Place the balls of dough onto a greased / lined baking tray 5cm apart - you will need to split the balls into two batches cooking one batch at a time."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Cooking"
+    },
+    {
+      "step_number": 6,
+      "instruction": "Brush eat ball with beaten egg and place in the oven at 180 degree for 20 minutes. The Kurabie will be a light golden color and slightly squishy in the middle. Place on a cooling rack to cool.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "e3fe94b6-6fd3-5446-b80f-cf0a32d0f26c"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.myalbanianfood.com/recipe/albanian-kurabie/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

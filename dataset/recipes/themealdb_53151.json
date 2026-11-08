@@ -1,0 +1,307 @@
+{
+  "id": "52296097-3357-5e1a-8fd7-4df76236a341",
+  "version": "1.0.0",
+  "title": "Paella",
+  "slug": "paella",
+  "summary": "A traditional Spanish seafood rice dish cooked with saffron, chorizo, mussels, prawns, and squid.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:08:54Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53151"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/9bl20p1763248192.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/9bl20p1763248192.jpg/small",
+      "alt_text": "Photo of Paella",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=vNBuXsTY15E"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 45,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 70
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 large portion of rice with seafood"
+  },
+  "allergens": {
+    "contains": [
+      "fish",
+      "shellfish",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "c65505fa-547b-53b9-b696-5951a7fff709",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "70b4a6ea-7a28-5c44-8b03-967be3d207b8",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "3 tablespoons Olive Oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "6700034b-ee4b-5dbe-b4e3-19d4120b1371",
+          "ingredient_id": "0093f11b-b123-575d-9a40-af8831db7065",
+          "name": "raw tiger prawns",
+          "display_text": "10 Raw tiger prawns",
+          "quantity": 10.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "seafood"
+        },
+        {
+          "id": "70ec1a02-81d5-5926-9e7a-4ac3582279c8",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Bunch Parsley",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "bunch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "c39853d5-f578-51d5-a6a5-81529d6a9af4",
+          "ingredient_id": "0878c803-3a75-5498-b12f-29ba3adbfea5",
+          "name": "dry sherry",
+          "display_text": "100 ml Dry sherry",
+          "quantity": 100.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "d84d6124-7e8c-5303-a2b0-e2caa43ad1c2",
+          "ingredient_id": "6fa524d6-82be-5309-be7c-5e9137a8c8ec",
+          "name": "mussels",
+          "display_text": "500g Mussels",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "e617a50f-d0f4-5057-94a8-02df4f4c3613",
+          "ingredient_id": "6e4973c3-ed8a-5158-9a24-ca212d5e7092",
+          "name": "saffron",
+          "display_text": "Pinch Saffron",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "a349b68a-ac23-5f39-9bdf-9d1dd7800790",
+          "ingredient_id": "d4235a95-0bb4-579b-8855-bbb8f4efeb46",
+          "name": "chorizo",
+          "display_text": "150g Chorizo",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "8c994229-659e-5cd2-8db7-13d5fcfb68d7",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "13bb4935-c414-5d51-ad29-63c6ce97faa6",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 cloves Garlic",
+          "quantity": 3.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d85173c5-515f-5f82-86a2-f997edccf4ad",
+          "ingredient_id": "99692f34-e6c0-5343-b562-9ea531589faa",
+          "name": "squid",
+          "display_text": "1 medium Squid",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "seafood"
+        },
+        {
+          "id": "2c2d252a-8cb0-550a-b1bc-5225c78c053d",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "2 Tomato",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "72dca66d-304a-5650-93d4-a90e5e604652",
+          "ingredient_id": "3d0a4168-db1b-589f-8473-5398078e1e51",
+          "name": "paella rice",
+          "display_text": "250g Paella Rice",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "14b3fdf1-92f4-5fda-8711-f1666339f587",
+          "ingredient_id": "62f1d397-f8eb-5c14-b2c3-48b7ced52406",
+          "name": "broad beans",
+          "display_text": "100g Broad Beans",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "3be982dd-42f1-5f15-a0eb-67aa64f55d98",
+          "ingredient_id": "9721c74d-1877-5622-a4ce-ba9fc1eaa562",
+          "name": "lemon zest",
+          "display_text": "1 Lemon Zest",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat 1 tbsp of the oil in a wide, shallow pan. Add the prawn heads and parsley stalks and sizzle until the heads turn pink, then mash with a potato masher. Pour over the sherry or wine and 300ml water, season with salt and simmer for 10 mins to make a stock, mashing the prawn heads as they cook.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "70ec1a02-81d5-5926-9e7a-4ac3582279c8",
+        "c39853d5-f578-51d5-a6a5-81529d6a9af4"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Scatter the mussels into the pan, cover the pan loosely with a lid or tea towel, then put over a high heat for 3-4 mins until the mussels just open. Stir to release the mussel juices, then pour the contents of the pan into a colander set over a large bowl containing the saffron. Let the saffron steep in the stock – you will need 700ml in total, so top up with water if needed and give everything a good stir. Pick the mussels out from the colander, then set aside.",
+      "timer_seconds": 240,
+      "ingredients_used": [
+        "d84d6124-7e8c-5303-a2b0-e2caa43ad1c2",
+        "e617a50f-d0f4-5057-94a8-02df4f4c3613"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Wipe out the pan and add the rest of the olive oil. Sizzle the chorizo until it releases its oil, then add the onion and garlic and cook until softened. Add the squid and turn over until it turns white. Add the tomatoes and cook down for a minute, then pour over most of the stock, give everything a good stir and bring to the boil. Scatter the rice over the stock, stir well once, then boil vigorously for 5 mins. Reduce the heat to the lowest setting and slowly simmer for 10 mins without stirring until the rice has absorbed most of the liquid.",
+      "ingredients_used": [
+        "70b4a6ea-7a28-5c44-8b03-967be3d207b8",
+        "a349b68a-ac23-5f39-9bdf-9d1dd7800790",
+        "8c994229-659e-5cd2-8db7-13d5fcfb68d7",
+        "13bb4935-c414-5d51-ad29-63c6ce97faa6",
+        "d85173c5-515f-5f82-86a2-f997edccf4ad",
+        "2c2d252a-8cb0-550a-b1bc-5225c78c053d",
+        "72dca66d-304a-5650-93d4-a90e5e604652"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Tuck the prawn tails into the rice and simmer for 5 mins, turning them over until cooked through. Stir through the mussels and broad beans or peas. Taste the rice – if it is still a little raw but the pan is dry, add a splash more stock and continue to cook; if it’s too soupy, then increase the heat to cook off the last of the stock.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "d84d6124-7e8c-5303-a2b0-e2caa43ad1c2",
+        "72dca66d-304a-5650-93d4-a90e5e604652",
+        "14b3fdf1-92f4-5fda-8711-f1666339f587"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Once the rice is just cooked, turn off the heat and cover with a tea towel for a few minutes. Scatter over the parsley leaves and lemon zest, then season with smoked salt if you like. Stir everything once, then serve straight from the pan, with lemon wedges on the side.",
+      "ingredients_used": [
+        "70ec1a02-81d5-5926-9e7a-4ac3582279c8",
+        "72dca66d-304a-5650-93d4-a90e5e604652",
+        "3be982dd-42f1-5f15-a0eb-67aa64f55d98"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/next-level-paella"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "id": "8a5504e3-5c6d-5ab2-86b1-30964acd7a76",
+  "version": "1.0.0",
+  "title": "Jamaican Cornmeal Porridge",
+  "slug": "jamaican-cornmeal-porridge",
+  "summary": "A creamy Jamaican breakfast porridge made with cornmeal, coconut milk, and warm spices like cinnamon and nutmeg.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:27:43Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53363"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/sng9bm1765320170.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/sng9bm1765320170.jpg/small",
+      "alt_text": "Photo of Jamaican Cornmeal Porridge",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=NACm9tDACRc"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "2dfec5c8-490a-551c-9d2f-e8e21f706bda",
+        "slug": "jamaican",
+        "name": "Jamaican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of porridge"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "191e6ad0-b297-5c88-8453-b60e1a296c02",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "69e3df89-1c8a-54fa-bda0-c21130d55f8c",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "4 cups Water",
+          "quantity": 4.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 960.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "e42c6a49-dbed-512a-bcdf-a1568850c8f2",
+          "ingredient_id": "0435e55e-84f6-566c-ac81-37617bbab91c",
+          "name": "coconut milk",
+          "display_text": "380g Coconut Milk",
+          "quantity": 380.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 380.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "b48c0c7a-d14a-50ad-ba2d-4ecc982b47c5",
+          "ingredient_id": "56ecb3db-4619-5b7a-937b-a332a9ad05ca",
+          "name": "fine yellow cornmeal",
+          "display_text": "1 cup Fine Yellow Cornmeal",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "3fc39bf4-183b-5ebd-8541-8e8cc64a95cd",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1 1/2 tsp Vanilla Extract",
+          "quantity": 1.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "ff981fe1-1db7-5e87-91fe-9a72dcf2fec9",
+          "ingredient_id": "7af3c207-3c37-5965-a096-bf34ac1db1f4",
+          "name": "ground cinnamon",
+          "display_text": "1/2 tsp Ground Cinnamon",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1341d01b-f477-5bdb-9c41-25f2dab69115",
+          "ingredient_id": "43fdd2fd-26e3-5e32-af4b-0c63a027d37c",
+          "name": "ground nutmeg",
+          "display_text": "1/2 tsp Ground Nutmeg",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e7227799-d845-58ec-a5d2-04cbe77781da",
+          "ingredient_id": "3c1f3ec3-71e9-5cc4-ad1e-cc142a823fa4",
+          "name": "ground allspice",
+          "display_text": "1/4 tsp Ground Allspice",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "ad27576e-fc9e-5b67-9ec9-73aa97e7ed9b",
+          "ingredient_id": "cbc624d4-82e3-5a30-bde7-a0d3464ff910",
+          "name": "sweetened condensed milk",
+          "display_text": "1/2 cup Sweetened Condensed Milk",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Add 2 ½ cups water, 1 can coconut milk to a 4 QT heavy bottomed pot. Bring to a boil over medium-high heat.",
+      "ingredients_used": [
+        "69e3df89-1c8a-54fa-bda0-c21130d55f8c",
+        "e42c6a49-dbed-512a-bcdf-a1568850c8f2",
+        "ad27576e-fc9e-5b67-9ec9-73aa97e7ed9b"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Meanwhile, add 1 cup cornmeal and 1 ½ cup water to a large mixing cup and whisk until smooth.",
+      "ingredients_used": [
+        "69e3df89-1c8a-54fa-bda0-c21130d55f8c",
+        "b48c0c7a-d14a-50ad-ba2d-4ecc982b47c5"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Once the pot begins to boil, whisk in cornmeal mixture and continue to whisk for about 1 minute, ensuring there are no lumps. Reduce heat to low and cover with a tight fitting lid.",
+      "timer_seconds": 60,
+      "ingredients_used": [
+        "b48c0c7a-d14a-50ad-ba2d-4ecc982b47c5"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Cook over low heat for 15-20 minutes, stirring occasionally. When there is about 5 minutes left, stir in vanilla extract, cinnamon, nutmeg, and all-spice. Remove from heat and sweeten with condensed milk.",
+      "ingredients_used": [
+        "e42c6a49-dbed-512a-bcdf-a1568850c8f2",
+        "3fc39bf4-183b-5ebd-8541-8e8cc64a95cd",
+        "ff981fe1-1db7-5e87-91fe-9a72dcf2fec9",
+        "1341d01b-f477-5bdb-9c41-25f2dab69115",
+        "ad27576e-fc9e-5b67-9ec9-73aa97e7ed9b"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Serve and enjoy."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.myforkinglife.com/jamaican-cornmeal-porridge/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

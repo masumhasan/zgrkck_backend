@@ -1,0 +1,238 @@
+{
+  "id": "231f332e-c7fe-5a7c-aadf-0b0256268ece",
+  "version": "1.0.0",
+  "title": "Parkin Cake",
+  "slug": "parkin-cake",
+  "summary": "A traditional British ginger cake made with oatmeal, golden syrup, and black treacle. It is known for its sticky texture that improves after resting for several days.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:47:39Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52902"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/qxuqtt1511724269.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/qxuqtt1511724269.jpg/small",
+      "alt_text": "Photo of Parkin Cake",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=k1lG4vk2MQA"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "caramel"
+    ],
+    "meal_types": [
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 60,
+    "total_time_minutes": 75
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 square slice"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "ca65b841-0fb7-588c-acde-49e3f8d1ec5e",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "cbc32289-401f-510e-8d87-80ceef78f45d",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "200g Butter",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "9fabb5ff-9b90-5210-9007-f4956ee25619",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 large Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "eba5f33c-61d0-551f-9942-211292c9b70a",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "4 tbs Milk",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "a1ed2765-a468-5590-aa70-b46d975d1ee7",
+          "ingredient_id": "c41764f1-4930-56cd-9515-4a677dd7e880",
+          "name": "golden syrup",
+          "display_text": "200g Golden Syrup",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "5a1ad542-5aaf-5ccb-81ea-eca709fd593f",
+          "ingredient_id": "27f76ed8-4a3b-5f26-906f-191a409613dc",
+          "name": "black treacle",
+          "display_text": "85g Black Treacle",
+          "quantity": 85.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 85.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "7ad386a5-4bf8-55db-9d2b-8d8221faec18",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "85g Brown Sugar",
+          "quantity": 85.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 85.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "30dee66b-f8d2-5e41-a064-d1fd546ae618",
+          "ingredient_id": "e282d44a-0056-5419-8d3e-6653ceceafbd",
+          "name": "oatmeal",
+          "display_text": "100g Oatmeal",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "7b2f25e2-834c-57be-8dc3-3c4637cdd6be",
+          "ingredient_id": "d923f6bd-1129-51bf-ba9e-32b3305fa65e",
+          "name": "self-raising flour",
+          "display_text": "250g Self-raising Flour",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "d7405bd5-4d2b-563f-9792-150ac4126e40",
+          "ingredient_id": "9c72d0cf-8d9c-53f6-b4c6-5631779ba66b",
+          "name": "ground ginger",
+          "display_text": "1 tbs Ground Ginger",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 160C/140C fan/gas 3. Grease a deep 22cm/9in square cake tin and line with baking parchment. Beat the egg and milk together with a fork.",
+      "temperature": {
+        "value": 160,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "9fabb5ff-9b90-5210-9007-f4956ee25619",
+        "eba5f33c-61d0-551f-9942-211292c9b70a"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Gently melt the syrup, treacle, sugar and butter together in a large pan until the sugar has dissolved. Remove from the heat. Mix together the oatmeal, flour and ginger and stir into the syrup mixture, followed by the egg and milk.",
+      "ingredients_used": [
+        "cbc32289-401f-510e-8d87-80ceef78f45d",
+        "9fabb5ff-9b90-5210-9007-f4956ee25619",
+        "eba5f33c-61d0-551f-9942-211292c9b70a",
+        "a1ed2765-a468-5590-aa70-b46d975d1ee7",
+        "5a1ad542-5aaf-5ccb-81ea-eca709fd593f",
+        "30dee66b-f8d2-5e41-a064-d1fd546ae618",
+        "d7405bd5-4d2b-563f-9792-150ac4126e40"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Pour the mixture into the tin and bake for 50 mins - 1 hr until the cake feels firm and a little crusty on top. Cool in the tin then wrap in more parchment and foil and keep for 3-5 days before eating if you can – it’ll become softer and stickier the longer you leave it, up to 2 weeks."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/1940684/parkin"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

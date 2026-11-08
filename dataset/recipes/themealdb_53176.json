@@ -1,0 +1,194 @@
+{
+  "id": "1618f7d1-dc3d-58a9-9633-15cdf7c8a373",
+  "version": "1.0.0",
+  "title": "Spanish tomato bread with jamón Serrano",
+  "slug": "spanish-tomato-bread-with-jamon-serrano",
+  "summary": "A traditional Spanish appetizer consisting of toasted baguette slices topped with a mixture of chopped tomatoes, garlic, and olive oil, finished with slices of Serrano ham.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:10:56Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53176"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/hsp1fo1763327867.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/hsp1fo1763327867.jpg/small",
+      "alt_text": "Photo of Spanish tomato bread with jamón Serrano",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=OG9zuXJht7I"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "breakfast",
+      "lunch"
+    ],
+    "courses": [
+      "appetizer"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 5,
+    "total_time_minutes": 15
+  },
+  "yield": {
+    "servings": 20,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 slice of tomato bread with ham"
+  },
+  "allergens": {
+    "contains": [
+      "gluten"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "52227789-98cb-5194-ad83-0c09bd400507",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "3f6f73ca-2955-5d68-b587-69158c1c8ff6",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "4 Chopped Tomato",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "187e2742-ceb8-55ae-8d93-6e649f40b71b",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove finely chopped Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c6a70cab-279c-5acf-a3b3-1e2d1d9b9575",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "3  tablespoons Olive Oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "5eacdfc9-7959-5fd1-9cc1-74a191558b95",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "7ec6b7fe-baaa-5b5e-9b7b-bd9242d41304",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "Pinch Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "b797d369-6970-5d53-9a07-f8a3f09c5cbe",
+          "ingredient_id": "43b5d3b2-0e2d-5ff1-9c0e-d047e896af5e",
+          "name": "baguette",
+          "display_text": "20 slices Baguette",
+          "quantity": 20.0,
+          "unit": "slice",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "b81e8213-2560-5258-91cd-1640053eb4e6",
+          "ingredient_id": "156ed7bf-f8e9-56bc-8a06-656146a4adb4",
+          "name": "serrano ham",
+          "display_text": "5 Slices Serrano Ham",
+          "quantity": 5.0,
+          "unit": "slice",
+          "is_optional": false,
+          "category": "meat"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Mix together the chopped tomatoes, garlic clove, olive oil, salt and pepper. Keep in the fridge until needed.",
+      "ingredients_used": [
+        "3f6f73ca-2955-5d68-b587-69158c1c8ff6",
+        "187e2742-ceb8-55ae-8d93-6e649f40b71b",
+        "c6a70cab-279c-5acf-a3b3-1e2d1d9b9575",
+        "5eacdfc9-7959-5fd1-9cc1-74a191558b95",
+        "7ec6b7fe-baaa-5b5e-9b7b-bd9242d41304"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "To serve, toast 20 slices of baguette. Spoon a little tomato topping on to each piece of toast. Tear 5-6 slices of jamón Serrano into pieces and put one piece on each slice of bread.",
+      "ingredients_used": [
+        "3f6f73ca-2955-5d68-b587-69158c1c8ff6",
+        "b797d369-6970-5d53-9a07-f8a3f09c5cbe"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/spanish-tomato-bread-jamon-serrano"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

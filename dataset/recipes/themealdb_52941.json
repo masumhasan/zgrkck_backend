@@ -1,0 +1,334 @@
+{
+  "id": "b68f720c-b990-5f2f-8691-10fababf93ee",
+  "version": "1.0.0",
+  "title": "Red Peas Soup",
+  "slug": "red-peas-soup",
+  "summary": "A hearty Caribbean-style soup made with kidney beans, beef, and coconut milk, traditionally served with handmade flour dumplings.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:51:13Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52941"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/sqpqtp1515365614.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/sqpqtp1515365614.jpg/small",
+      "alt_text": "Photo of Red Peas Soup",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=1ogCfDXotMw"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "2dfec5c8-490a-551c-9d2f-e8e21f706bda",
+        "slug": "jamaican",
+        "name": "Jamaican"
+      }
+    ],
+    "tags": [
+      "sidedish",
+      "soup"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 120,
+    "cook_time_minutes": 105,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 230
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of soup with dumplings"
+  },
+  "allergens": {
+    "contains": [
+      "gluten"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "fed07fd7-a8fd-56fd-a436-db09b63a24f1",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "f832f1f4-f865-59de-9f84-9fca74c92344",
+          "ingredient_id": "ba890946-fbb1-5386-9394-aa912a5bb5a0",
+          "name": "kidney beans",
+          "display_text": "2 cups Kidney Beans",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "faf77ecc-2a2c-517b-af91-e27dc89a60f2",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "1 large Carrots",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7c9d5add-43c1-5616-a691-f80c59d5423d",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "2 chopped Spring Onions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "41a35e97-9b54-56ee-a237-7cb6087b4fbf",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "4 sprigs Thyme",
+          "quantity": 4.0,
+          "unit": "sprig",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "83ce748c-d48d-545b-8316-410e918b966e",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Diced Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b5edf794-8b25-5263-9ae5-0eff049e938c",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1/2 tsp Black Pepper",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "2128808a-aaff-50c6-bfe1-579ae629a2d3",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "2 chopped Red Pepper",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b7b270bf-5777-5690-867a-7094cab2f073",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "4 Mashed Garlic Clove",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "mashed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "19a30f9f-4b60-5eba-83d5-290e91f6c2c8",
+          "ingredient_id": "38dedce7-9a7f-57ee-8e46-5162ab60eba8",
+          "name": "allspice",
+          "display_text": "1 tbs Allspice",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "19032709-703a-5d61-b9cd-d09d083b9293",
+          "ingredient_id": "c2102b4e-a5b4-5bab-b7d5-bdfa5244ae7b",
+          "name": "beef",
+          "display_text": "2 Lbs Beef",
+          "quantity": 2.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 907.2,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "99e73b7b-98f1-5fd2-b948-9a5ea1d58d93",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "2L Water",
+          "quantity": 2.0,
+          "unit": "liter",
+          "is_optional": false,
+          "metric_quantity": 2.0,
+          "metric_unit": "liter",
+          "category": "beverages"
+        },
+        {
+          "id": "7ab00d47-fde3-572e-a419-29260e671235",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "4 Potatoes",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "acb296ea-618e-5be1-a29f-bc354ff66aba",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "1 cup Plain Flour",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "462c89a0-87cf-5509-ab07-8d8e7ece06a4",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1/4 cup Water",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "34d5c18f-05d7-52c9-b89b-f1bc1b9ddcb7",
+          "ingredient_id": "0435e55e-84f6-566c-ac81-37617bbab91c",
+          "name": "coconut milk",
+          "display_text": "1 cup Coconut Milk",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Wash and rinse the dried kidney beans.. then cover with water in a deep bowl. Remember as they soak they will expand to at least triple the size they were originally so add a lot of water to the bowl. Soak them overnight or for at least 2 hrs to make the cooking step go quicker. I tossed out the water they were soaked in after it did the job.",
+      "timer_seconds": 7200,
+      "ingredients_used": [
+        "f832f1f4-f865-59de-9f84-9fca74c92344",
+        "99e73b7b-98f1-5fd2-b948-9a5ea1d58d93",
+        "462c89a0-87cf-5509-ab07-8d8e7ece06a4"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Have your butcher cut the salted pigtail into 2 inch pieces as it will be very difficult to cut with an ordinary kitchen knife. Wash, then place a deep pot with water and bring to a boil. Cook for 20 minutes, then drain + rinse and repeat (boil again in water). The goal is to make the pieces of pig tails tender and to remove most of the salt it was cured in.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "99e73b7b-98f1-5fd2-b948-9a5ea1d58d93",
+        "462c89a0-87cf-5509-ab07-8d8e7ece06a4"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Time to start the soup. Place everything in the pot (except the flour and potato), then cover with water and place on a high flame to bring to a boil. As it comes to a boil, skim off any scum/froth at the top and discard. Reduce the heat to a gentle boil and allow it to cook for 1 hr and 15 mins.. basically until the beans are tender and start falling apart.",
+      "ingredients_used": [
+        "f832f1f4-f865-59de-9f84-9fca74c92344",
+        "99e73b7b-98f1-5fd2-b948-9a5ea1d58d93",
+        "462c89a0-87cf-5509-ab07-8d8e7ece06a4"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "It’s now time to add the potato (and Yams etc if you’re adding it) as well as the coconut milk and continue cooking for 15 minutes.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "34d5c18f-05d7-52c9-b89b-f1bc1b9ddcb7"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Now is a good time to start making the basic dough for the spinner dumplings. Mix the flour and water (add a pinch of salt if you want) until you have a soft/smooth dough. allow it to rest for 5 minutes, then pinch of a tablespoon at a time and roll between your hands to form a cigarette shape.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "99e73b7b-98f1-5fd2-b948-9a5ea1d58d93",
+        "462c89a0-87cf-5509-ab07-8d8e7ece06a4"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Add them to the pot, stir well and continue cooking for another 15 minutes on a rolling boil.",
+      "timer_seconds": 900
+    },
+    {
+      "step_number": 7,
+      "instruction": "You’ll notice that I didn’t add any salt to the pot as the remaining salt from the salted pigtails will be enough to properly season this dish. However you can taste and adjust accordingly. Lets recap the timing part of things so you’re not confused. Cook the base of the soup for 1 hr and 15 minute or until tender, then add the potatoes and cook for 15 minutes, then add the dumplings and cook for a further 15 minutes. Keep in mind that this soup will thicken quite a bit as it cools.",
+      "ingredients_used": [
+        "7ab00d47-fde3-572e-a419-29260e671235"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "While this is not a traditional recipe to any one specific island, versions of this soup (sometimes called stewed peas) can be found throughout the Caribbean, Latin America and Africa. A hearty bowl of this soup will surely give you the sleepies (some may call it ethnic fatigue). You can certainly freeze the leftovers and heat it up another day."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://caribbeanpot.com/caribbean-red-peas-soup/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

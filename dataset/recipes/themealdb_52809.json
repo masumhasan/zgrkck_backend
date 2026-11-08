@@ -1,0 +1,351 @@
+{
+  "id": "22ba66c4-cec1-5b6c-9eb7-40cda35064ae",
+  "version": "1.0.0",
+  "title": "Recheado Masala Fish",
+  "slug": "recheado-masala-fish",
+  "summary": "A spicy Goan-style mackerel dish where fish is stuffed with a tangy, red chili and vinegar-based masala paste and shallow fried.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:39:19Z",
+  "updated_at": "2026-10-16T10:22:45Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52809"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/uwxusv1487344500.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/uwxusv1487344500.jpg/small",
+      "alt_text": "Photo of Recheado Masala Fish",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=FXtCris37nE"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b2b4e1bc-3c1e-50ce-abf4-9015553e6a16",
+        "slug": "indian",
+        "name": "Indian"
+      }
+    ],
+    "tags": [
+      "fish",
+      "spicy"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 15,
+    "marinating_time_minutes": 70,
+    "total_time_minutes": 105
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 mackerel with rice and salad"
+  },
+  "allergens": {
+    "contains": [
+      "fish",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "2a7dad16-11c0-554a-ba46-a09c57f47037",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "d7eceab0-8f1b-5a30-a2a3-5b413a539f04",
+          "ingredient_id": "2e3875ba-5ec6-5e41-adba-031a6aaa0a3a",
+          "name": "mackerel",
+          "display_text": "4 Mackerel",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "fish"
+        },
+        {
+          "id": "bf519a80-2a6e-5fb5-8ceb-d4f6073c720b",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "18 dried Red Chilli",
+          "quantity": 18.0,
+          "unit": "piece",
+          "preparation": "dried",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d6927003-aec7-5fe6-9a1c-e89167846ae1",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "1 inch Ginger",
+          "quantity": 1.0,
+          "unit": "inch",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "5cb6ba62-f501-5679-942c-da790d5923bc",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "8 cloves Garlic",
+          "quantity": 8.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3f441233-39d4-5180-8238-89897f049d13",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "1.5 tsp Pepper",
+          "quantity": 1.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "4719376e-f2f6-50a8-a7db-d32d12eb617a",
+          "ingredient_id": "be79b3bd-bc90-5d15-aab2-4f95774b8de1",
+          "name": "cumin",
+          "display_text": "1 tsp Cumin",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "6270729d-e09a-5aab-95c5-4bc9d9d59cac",
+          "ingredient_id": "ab4d5e50-1105-53e2-be29-49b042b3d7fb",
+          "name": "turmeric",
+          "display_text": "½ tsp Turmeric",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "6a3abd7f-b0e5-503c-8ffe-5ab364493ee1",
+          "ingredient_id": "815267d7-ad8f-543a-b885-c3fdabdc63fb",
+          "name": "cinnamon stick",
+          "display_text": "Cinnamon stick",
+          "quantity": 0,
+          "unit": "as_needed",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "5f396f8c-b425-56cb-be98-1535eb018ac4",
+          "ingredient_id": "73063cfc-1094-5f58-87bf-49227197f2a2",
+          "name": "cloves",
+          "display_text": "4 Cloves",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "7ebfdadb-78f2-584f-a332-e4dfdce2d244",
+          "ingredient_id": "d72c12ae-5cbc-534c-bbd5-bc044d844d0a",
+          "name": "cardamom",
+          "display_text": "2 Cardamom",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "5ae74f75-794a-56d7-b4a3-3a4fe50dd5ac",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 tbsp Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "d11c6dce-0483-5dad-a352-69492245edc6",
+          "ingredient_id": "d0157dcb-a1b1-5e9b-8297-fded9c00d915",
+          "name": "tamarind ball",
+          "display_text": "2 marble sized Tamarind ball",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "marble sized",
+          "is_optional": false,
+          "category": "condiments"
+        },
+        {
+          "id": "889f9e29-a3c1-5bb0-97c3-27dd7a0a8c6b",
+          "ingredient_id": "ab5b1e5d-c74e-59bc-9caa-0009568a07cb",
+          "name": "vinegar",
+          "display_text": "2.5 tbsp Vinegar",
+          "quantity": 2.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 37.5,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "eb3c3db6-dd46-57a4-821b-2323067bb266",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "for frying Oil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "for frying",
+          "is_optional": false,
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Soak all the spices, ginger, garlic, tamarind pulp and kashmiri chilies except oil in vinegar.",
+      "ingredients_used": [
+        "d6927003-aec7-5fe6-9a1c-e89167846ae1",
+        "5cb6ba62-f501-5679-942c-da790d5923bc",
+        "889f9e29-a3c1-5bb0-97c3-27dd7a0a8c6b",
+        "eb3c3db6-dd46-57a4-821b-2323067bb266"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add sugar and salt.",
+      "ingredients_used": [
+        "5ae74f75-794a-56d7-b4a3-3a4fe50dd5ac"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Also add turmeric powder.",
+      "ingredients_used": [
+        "6270729d-e09a-5aab-95c5-4bc9d9d59cac"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Combine all nicely and marinate for 35-40 mins.",
+      "timer_seconds": 2400
+    },
+    {
+      "step_number": 5,
+      "instruction": "Grind the mixture until soft and smooth. Add more vinegar if required but ensure the paste has to be thick so add vinegar accordingly. If the masala paste is thin then it would not stick to the fish.",
+      "ingredients_used": [
+        "6a3abd7f-b0e5-503c-8ffe-5ab364493ee1",
+        "889f9e29-a3c1-5bb0-97c3-27dd7a0a8c6b"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Rinse the fish slit from the center and give some incision from the top. You could see the fish below for clarity."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Now stuff the paste into the center and into the incision. Coat the entire fish with this paste. Marinate the fish for 30 mins.",
+      "timer_seconds": 1800
+    },
+    {
+      "step_number": 8,
+      "instruction": "Place oil in a shallow pan, once oil is quite hot shallow fry the stuffed mackerels.",
+      "ingredients_used": [
+        "d7eceab0-8f1b-5a30-a2a3-5b413a539f04",
+        "eb3c3db6-dd46-57a4-821b-2323067bb266"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Fry until golden brown from both sides"
+    },
+    {
+      "step_number": 10,
+      "instruction": "Serve the recheado mackerels hot with salad, lime wedges, rice and curry.",
+      "ingredients_used": [
+        "d7eceab0-8f1b-5a30-a2a3-5b413a539f04"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Notes"
+    },
+    {
+      "step_number": 12,
+      "instruction": "Ensure the masala paste is thick else the result won't be good."
+    },
+    {
+      "step_number": 13,
+      "instruction": "If you aren't able to find kashmiri chilies then use bedgi chilies or kashmiri red chili powder."
+    },
+    {
+      "step_number": 14,
+      "instruction": "You could use white vinegar or coconut vinegar.",
+      "ingredients_used": [
+        "889f9e29-a3c1-5bb0-97c3-27dd7a0a8c6b"
+      ]
+    },
+    {
+      "step_number": 15,
+      "instruction": "Any left over paste could be stored in the fridge for future use."
+    },
+    {
+      "step_number": 16,
+      "instruction": "Cinnamon could be avoided as it's a strong spice used generally for meat or chicken."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://www.flavorsofmumbai.com/fish-recheado-masala-recipe/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

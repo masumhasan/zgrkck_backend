@@ -1,0 +1,198 @@
+{
+  "id": "c997ee0f-4171-5b98-90b8-4c82dd6f5d14",
+  "version": "1.0.0",
+  "title": "Chilean-Style Sopaipillas",
+  "slug": "chilean-style-sopaipillas",
+  "summary": "Chilean-style sopaipillas are fried dough discs made with cooked zapallo squash, resulting in a soft, slightly sweet, and savory bread.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:40:58Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53513"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/45noa31782850540.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/45noa31782850540.jpg/small",
+      "alt_text": "Photo of Chilean-Style Sopaipillas",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "2681863c-dfb1-5347-8330-bcdf36e53ac6",
+        "slug": "chilean",
+        "name": "Chilean"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "breakfast"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 25,
+    "cook_time_minutes": 24,
+    "rest_time_minutes": 15,
+    "total_time_minutes": 64
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "pieces",
+    "serving_size_description": "approximately 6-8 sopaipillas"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "eaa77261-c516-5d09-bea7-9074ad6200d0",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "eac947af-2c1d-5ad0-9d45-84625dacfeb7",
+          "ingredient_id": "0dcd098e-6701-53ec-9e4e-c285af879b46",
+          "name": "zapallo squash",
+          "display_text": "9 oz Zapallo Squash",
+          "quantity": 9.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 255.2,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "cafeee18-d19a-5753-8be4-46b9e9e6d433",
+          "ingredient_id": "d1e5ec78-b8c2-5649-962c-a9f67272ea92",
+          "name": "all purpose flour",
+          "display_text": "5 Cups All purpose flour",
+          "quantity": 5.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 1200.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "33774aea-f505-56a8-949c-c0eef7d6f2d8",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 tsp Baking Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "bcf3e158-416f-56f4-ba64-5c71eca1fa70",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "c1b3d11d-f562-5f2a-895a-904bd95ea7c7",
+          "ingredient_id": "824a7073-84ed-52c2-97ef-4d532cabeb6d",
+          "name": "melted butter",
+          "display_text": "10 tblsp Melted Butter",
+          "quantity": 10.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "8fab0e9c-0eeb-5e56-9119-78dee3c60ade",
+          "ingredient_id": "a2b10768-5e5c-5fab-80bc-cf7fbc51f362",
+          "name": "canola oil",
+          "display_text": "2 cups Canola Oil",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Peel, seed, and cut zapallo into chunks. Place in a saucepan, cover with water, and bring to a boil over medium-high heat. Cook until zapallo is soft and easily pierced with a fork, 15 to 20 minutes. Drain and allow to cool slightly.",
+      "timer_seconds": 1200
+    },
+    {
+      "step_number": 2,
+      "instruction": "Mix flour, baking soda, and salt together in a mixing bowl, and set aside. Stir together squash and melted butter. Stir the flour mixture into the butter mixture until blended. Turn the dough out onto a lightly floured surface and knead until soft and satiny, adding a little more flour if necessary. Cover dough with a towel and allow to rest 15 minutes.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "eac947af-2c1d-5ad0-9d45-84625dacfeb7",
+        "bcf3e158-416f-56f4-ba64-5c71eca1fa70",
+        "c1b3d11d-f562-5f2a-895a-904bd95ea7c7"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Roll out the dough to 1/8-inch thick, and cut into 3-inch diameter circles. Poke each circle a few times with a fork to make holes and prevent rising."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Pour oil into a large, deep skillet and heat over medium-high heat until hot, 385 degrees F (195 degrees C). Place several of the dough circles into hot oil; cook until lightly browned, 3 to 4 minutes. Drain on paper towels. Cook remainder of dough circles in batches.",
+      "timer_seconds": 240,
+      "temperature": {
+        "value": 385,
+        "unit": "fahrenheit"
+      }
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.allrecipes.com/recipe/145272/chilean-style-sopaipillas/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

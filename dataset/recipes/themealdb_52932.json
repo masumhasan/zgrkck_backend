@@ -1,0 +1,302 @@
+{
+  "id": "a5a370a5-9cfb-597f-be99-c055195f5f0d",
+  "version": "1.0.0",
+  "title": "Pouding chomeur",
+  "slug": "pouding-chomeur",
+  "summary": "A traditional Canadian dessert consisting of a soft sponge cake topped with a rich, warm maple syrup sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:50:21Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52932"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/yqqqwu1511816912.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/yqqqwu1511816912.jpg/small",
+      "alt_text": "Photo of Pouding chomeur",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=WFvj71RZYPc"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "54838e2c-2c59-558b-8932-e019f7cc6d0c",
+        "slug": "canadian",
+        "name": "Canadian"
+      }
+    ],
+    "tags": [
+      "pudding"
+    ],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 37,
+    "total_time_minutes": 52
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "servings",
+    "serving_size_description": "1 slice of cake with sauce"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "96aafe75-c7ac-5c6a-9454-949d50730a6d",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "fc32e140-964c-5a87-9806-f495bb917cd2",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "½ cup Butter",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "328330cb-d503-59ba-ae76-d08a603df0a2",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 cup Sugar",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "8b942cd5-dfd7-56a6-99aa-bd2a2b93ba26",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "2 Eggs",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "d24f8735-8730-5c75-ba67-b3220ca91c8d",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1 tsp Vanilla Extract",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "f1a56c89-adb4-5617-a92f-6e784e8fba70",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "2 cups Flour",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "1e4e38ac-803f-5c97-bf18-07d7529362a2",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 tsp Baking Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "667da5ba-4836-516c-8b04-f7594b069f97",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "1 1/4 cup Milk",
+          "quantity": 1.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "15c99f1c-059d-5f2f-8a7e-2987e3a1e4ad",
+          "ingredient_id": "c37e28c9-8a86-5f21-b1cb-d186548f8e7c",
+          "name": "maple syrup",
+          "display_text": "1 1/2 cup Maple Syrup",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "77b34226-97fb-5c91-b6f0-d141dcc63a61",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "1 1/2 cup Brown Sugar",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "504d4a74-478a-5f04-9d74-7f2358de9e4e",
+          "ingredient_id": "e4d9d1f3-3605-503d-a864-c9eb8d0c7996",
+          "name": "single cream",
+          "display_text": "1 1/2 cup Single Cream",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "701dc1cd-8ffd-5205-99f5-12cb1f0e1943",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "1/3 cup Butter",
+          "quantity": 0.3333,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 80.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "In a large bowl, with an electric mixer, mix the butter and sugar till the mix is light.",
+      "ingredients_used": [
+        "fc32e140-964c-5a87-9806-f495bb917cd2",
+        "328330cb-d503-59ba-ae76-d08a603df0a2",
+        "701dc1cd-8ffd-5205-99f5-12cb1f0e1943"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add eggs and vanilla and mix.",
+      "ingredients_used": [
+        "8b942cd5-dfd7-56a6-99aa-bd2a2b93ba26"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "In another bowl, mix flour and baking powder.",
+      "ingredients_used": [
+        "f1a56c89-adb4-5617-a92f-6e784e8fba70",
+        "1e4e38ac-803f-5c97-bf18-07d7529362a2"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Alternate flour mix and milk to the butter mix.",
+      "ingredients_used": [
+        "fc32e140-964c-5a87-9806-f495bb917cd2",
+        "f1a56c89-adb4-5617-a92f-6e784e8fba70",
+        "667da5ba-4836-516c-8b04-f7594b069f97",
+        "701dc1cd-8ffd-5205-99f5-12cb1f0e1943"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Pour into a 13 inch by 9 inch greased pan."
+    },
+    {
+      "step_number": 6,
+      "instruction": "MAPLE SAUCE."
+    },
+    {
+      "step_number": 7,
+      "instruction": "In a large casserole, bring to boil the syrup, brown sugar, cream and butter and constantly stir.",
+      "ingredients_used": [
+        "fc32e140-964c-5a87-9806-f495bb917cd2",
+        "328330cb-d503-59ba-ae76-d08a603df0a2",
+        "15c99f1c-059d-5f2f-8a7e-2987e3a1e4ad",
+        "77b34226-97fb-5c91-b6f0-d141dcc63a61",
+        "701dc1cd-8ffd-5205-99f5-12cb1f0e1943"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Reduce heat and and gently cook 2 minutes or till sauce has reduced a little bit.",
+      "timer_seconds": 120
+    },
+    {
+      "step_number": 9,
+      "instruction": "Pour sauce gently over cake."
+    },
+    {
+      "step_number": 10,
+      "instruction": "Bake at 325°f (160°c) about 35 minutes or till cake is light brown and when toothpick inserted comes out clean.",
+      "timer_seconds": 2100,
+      "temperature": {
+        "value": 325,
+        "unit": "fahrenheit"
+      }
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://www.geniuskitchen.com/recipe/pouding-chomeur-poor-mans-pudding-with-maple-syrup-sauce-218797"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

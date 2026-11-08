@@ -1,0 +1,215 @@
+{
+  "id": "ad83c66e-26a0-505a-b62c-aabb7cc9889e",
+  "version": "1.0.0",
+  "title": "Baked salmon with fennel & tomatoes",
+  "slug": "baked-salmon-with-fennel-tomatoes",
+  "summary": "Salmon fillets baked in an oven with fennel wedges and cherry tomatoes, seasoned with lemon and parsley.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:30:39Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52959"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/1548772327.jpg/small",
+      "alt_text": "Photo of Baked salmon with fennel & tomatoes",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=xvPR2Tfw5k0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "baking",
+      "highfat",
+      "keto",
+      "lowcarbs",
+      "paleo"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 35
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 salmon fillet with fennel and tomatoes"
+  },
+  "allergens": {
+    "contains": [
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "6273aea2-9e56-55a9-a15f-e52d69f54fac",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "0b370840-6da6-5938-a560-a55a54adb881",
+          "ingredient_id": "90f6a581-b68c-51b8-bbe5-4d91c3f1b0ce",
+          "name": "fennel",
+          "display_text": "2 medium Fennel",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3ce0b9e2-4a5a-5850-866a-298c61fbcc2e",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "2 tbs chopped Parsley",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "147e9b53-155c-5a77-b0fd-a4664a8e472e",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "Juice of 1 Lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "11c2f6c6-d339-53fb-bc29-89aa7fa83656",
+          "ingredient_id": "041e90f7-87c0-5883-b651-a9f26dce39b7",
+          "name": "cherry tomatoes",
+          "display_text": "175g Cherry Tomatoes",
+          "quantity": 175.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 175.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "a650c02a-1e6a-50da-b9cb-540c61eb5dbb",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 tbs Olive Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "1b8a8508-8d04-57cf-a2ed-8594bd6cc314",
+          "ingredient_id": "8e78b962-6a36-568e-a6f6-db81cdbb4985",
+          "name": "salmon",
+          "display_text": "350g Salmon",
+          "quantity": 350.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 350.0,
+          "metric_unit": "gram",
+          "category": "fish"
+        },
+        {
+          "id": "8c820b37-6312-5b01-9640-3788234a3377",
+          "ingredient_id": "e0970f8f-509c-5d2f-a8b2-85ecb22b5660",
+          "name": "black olives",
+          "display_text": "to serve Black Olives",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "canned_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 180C/fan 160C/gas 4. Trim the fronds from the fennel and set aside. Cut the fennel bulbs in half, then cut each half into 3 wedges. Cook in boiling salted water for 10 mins, then drain well. Chop the fennel fronds roughly, then mix with the parsley and lemon zest.",
+      "timer_seconds": 600,
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "0b370840-6da6-5938-a560-a55a54adb881",
+        "3ce0b9e2-4a5a-5850-866a-298c61fbcc2e",
+        "147e9b53-155c-5a77-b0fd-a4664a8e472e"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Spread the drained fennel over a shallow ovenproof dish, then add the tomatoes. Drizzle with olive oil, then bake for 10 mins. Nestle the salmon among the veg, sprinkle with lemon juice, then bake 15 mins more until the fish is just cooked. Scatter over the parsley and serve.",
+      "ingredients_used": [
+        "0b370840-6da6-5938-a560-a55a54adb881",
+        "3ce0b9e2-4a5a-5850-866a-298c61fbcc2e",
+        "147e9b53-155c-5a77-b0fd-a4664a8e472e",
+        "11c2f6c6-d339-53fb-bc29-89aa7fa83656",
+        "a650c02a-1e6a-50da-b9cb-540c61eb5dbb",
+        "1b8a8508-8d04-57cf-a2ed-8594bd6cc314"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/7745/baked-salmon-with-fennel-and-tomatoes"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

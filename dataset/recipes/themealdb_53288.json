@@ -1,0 +1,206 @@
+{
+  "id": "d6b575ac-cf94-5fe1-bb93-1be0921fcf2e",
+  "version": "1.0.0",
+  "title": "Algerian Flafla (Bell Pepper Salad)",
+  "slug": "algerian-flafla-bell-pepper-salad",
+  "summary": "A traditional Algerian salad made from roasted green peppers, sautéed onions, garlic, and diced tomatoes.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:21:01Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53288"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/tbj1bs1764118062.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/tbj1bs1764118062.jpg/small",
+      "alt_text": "Photo of Algerian Flafla (Bell Pepper Salad)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=JXrS1doDnNg"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "44067efa-6d33-5eeb-9836-eb49ba7b3e31",
+        "slug": "algerian",
+        "name": "Algerian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish",
+      "salad"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 55,
+    "rest_time_minutes": 10,
+    "total_time_minutes": 70
+  },
+  "yield": {
+    "servings": 3,
+    "serving_unit": "servings",
+    "serving_size_description": "1 portion of pepper salad"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "174ab0bc-81dd-5644-9b53-c7a53ac2d207",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "1d107677-b922-591f-a646-e0222c07c5fa",
+          "ingredient_id": "f86b83d4-879d-54bb-a883-73bbfa9228ba",
+          "name": "green pepper",
+          "display_text": "3 Green Pepper",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "47c2c3d8-ece6-540c-9438-69383e4e5e80",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 tablespoon Olive Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "10b75c5d-eeda-5088-852b-48eb88edb4e0",
+          "ingredient_id": "716f7639-3b59-56a7-9146-1819649ebdad",
+          "name": "red onions",
+          "display_text": "1 tablespoon chopped Red Onions",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "e1d8f1b6-56fd-5663-a882-bcccb4f16068",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove peeled crushed Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "preparation": "peeled crushed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "82835e92-0699-5037-a60c-69b8c5789b84",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "24e650bb-f28a-5ca8-9d92-cd0de3caf46d",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "To taste Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d12c47cd-ddda-51b4-a751-8c541cdb9272",
+          "ingredient_id": "eef09ba5-f0a8-5d2e-a676-6a71ab7f1fab",
+          "name": "plum tomatoes",
+          "display_text": "1 Diced Plum Tomatoes",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "diced",
+          "is_optional": false,
+          "category": "canned_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat an oven to 450 degrees F (230 degrees C). Place the whole peppers on aluminum foil. Bake until the skin is spotted black and the peppers are soft, 30 to 45 minutes, turning the peppers once if necessary.",
+      "timer_seconds": 2700,
+      "temperature": {
+        "value": 450,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "Remove peppers from the oven and set aside to cool for 10 minutes. Peel off the skin and remove the stem and seeds. Chop the roasted peppers into half-inch pieces.",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 3,
+      "instruction": "Heat the olive oil in a skillet over medium heat. Stir in the onion and cook, stirring frequently, until the onion has softened and turned translucent, about 5 minutes. Add the garlic, salt, and pepper; stir in the chopped peppers and tomato. Cook over medium heat, stirring occasionally, until the tomato is soft and the mixture is well incorporated, about 5 minutes.",
+      "ingredients_used": [
+        "47c2c3d8-ece6-540c-9438-69383e4e5e80",
+        "e1d8f1b6-56fd-5663-a882-bcccb4f16068",
+        "82835e92-0699-5037-a60c-69b8c5789b84",
+        "24e650bb-f28a-5ca8-9d92-cd0de3caf46d"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.allrecipes.com/recipe/153802/algerian-flafla-bell-pepper-salad/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

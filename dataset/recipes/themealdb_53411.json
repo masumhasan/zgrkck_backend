@@ -1,0 +1,309 @@
+{
+  "id": "b379d7c0-e889-523e-998a-ec8089d15101",
+  "version": "1.0.0",
+  "title": "Dolma Japrak Stuffed Vine Leaves",
+  "slug": "dolma-japrak-stuffed-vine-leaves",
+  "summary": "Albanian-style stuffed vine leaves filled with a mixture of lamb mince, rice, and aromatic herbs. The parcels are simmered in water until tender and served as a traditional side dish.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:31:48Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53411"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/lqshrh1779648160.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/lqshrh1779648160.jpg/small",
+      "alt_text": "Photo of Dolma Japrak Stuffed Vine Leaves",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=G7OLFDL63J4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "e7c6b7b1-e982-5d1b-96fc-1577c9153035",
+        "slug": "albanian",
+        "name": "Albanian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 95,
+    "rest_time_minutes": 10,
+    "total_time_minutes": 135
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "portions",
+    "serving_size_description": "a portion of stuffed vine leaves"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "2355be4e-8caa-5f1b-b4a6-329615009faf",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "78117ba0-b5ce-5ecc-bf7b-53c3b947aa01",
+          "ingredient_id": "1fca6904-0788-5f90-9007-48f8a7a3d945",
+          "name": "pickled grape leaves",
+          "display_text": "600g Pickled Grape Leaves",
+          "quantity": 600.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 600.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "63c0ab01-6c9f-5f05-94ed-328777061c31",
+          "ingredient_id": "4d40d67a-57b5-5c91-91d3-62eba5bf1b7e",
+          "name": "lamb mince",
+          "display_text": "400g Lamb Mince",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "e655d998-b855-5ecc-9d08-a05e44700afd",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "5 chopped Onion",
+          "quantity": 5.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "44df8965-c48d-5f98-b3ea-a241f14b131f",
+          "ingredient_id": "025b8433-c498-5b37-813a-ec00ac6c2ae5",
+          "name": "rice",
+          "display_text": "75g Rice",
+          "quantity": 75.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "7e6b03d9-8c4c-58f3-9731-c07974319089",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "1 tsp Pepper",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "189b905b-0932-5002-80e2-8e3fd93c3735",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1 tsp Paprika",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "28784975-880a-5f92-b494-342dacddf067",
+          "ingredient_id": "2d490c0b-0744-5be5-a104-641c87b13636",
+          "name": "vegetable stock",
+          "display_text": "1 tsp Vegetable Stock",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "fcfac6b3-7a3b-5c12-bb2d-5da41c9d2dbb",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "25g Parsley",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "59e18824-8b4f-5c66-8640-de91223df90a",
+          "ingredient_id": "fc6a825e-e02a-589c-91d6-b4e76ccc6354",
+          "name": "basil",
+          "display_text": "1 tsp Basil",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "08735168-5516-5dc7-8184-fac9e22bae1f",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "Splash Olive Oil",
+          "quantity": 1,
+          "unit": "splash",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "e395fcc6-a6b1-580f-8ef3-461e417fbd97",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "950d4089-7b44-5a50-8e67-d63fe23cb687",
+          "ingredient_id": "40367a80-a6cc-5715-9d1d-b43689c0eec7",
+          "name": "boiling water",
+          "display_text": "2 Liters Boiling Water",
+          "quantity": 2.0,
+          "unit": "liter",
+          "is_optional": false,
+          "metric_quantity": 2.0,
+          "metric_unit": "liter",
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preperation"
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the onions to a saute pan and fry for 5 minutes in olive oil until the onions start to brown.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "e655d998-b855-5ecc-9d08-a05e44700afd",
+        "08735168-5516-5dc7-8184-fac9e22bae1f"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Turn off the heat and add the meat, rice, pepper, paprika, dried vegetable stock, parsley and basil. Mix all the ingredients together.",
+      "ingredients_used": [
+        "44df8965-c48d-5f98-b3ea-a241f14b131f",
+        "7e6b03d9-8c4c-58f3-9731-c07974319089",
+        "189b905b-0932-5002-80e2-8e3fd93c3735",
+        "28784975-880a-5f92-b494-342dacddf067",
+        "fcfac6b3-7a3b-5c12-bb2d-5da41c9d2dbb",
+        "59e18824-8b4f-5c66-8640-de91223df90a"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Carefully unwrap the vine leaves. Place one vine leaf on your hand with the base on the bottom of your palm and the point pointing towards the top. Add a second vine leaf with the point pointing downwards and base of the leaf at the top of your fingers. there should be a good overlap. You can do this on a flat surface if preferred."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Place a spoonful of the meat and rice mixture in the middle of the leaves. Fold the bottom of the leaf over the mixture, fold in both sides and the roll the leaf upwards sealing in the mixture into a parcel shape.",
+      "ingredients_used": [
+        "44df8965-c48d-5f98-b3ea-a241f14b131f"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Layer a layer of vine leaves covering the bottom of a deep saucepan and then add the vine leaf parcel on top."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Make as many vine leaf parcels as the meat and rice mixture will make adding each one to the saucepan. Pack the parcels side by side util the saucepan is covered, then start another layer on top.",
+      "ingredients_used": [
+        "44df8965-c48d-5f98-b3ea-a241f14b131f"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Cooking"
+    },
+    {
+      "step_number": 9,
+      "instruction": "Pour into the saucepan enough boiling water to just cover the top of the vine leaves and bring to a boil. Leave to simmer with a lid on for 1.5 hours. All water should be absorbed however top up with a little extra boiling water if this happens before the time is up.",
+      "timer_seconds": 5400,
+      "ingredients_used": [
+        "950d4089-7b44-5a50-8e67-d63fe23cb687"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "Serving"
+    },
+    {
+      "step_number": 11,
+      "instruction": "Remove from the saucepan and leave to cool for 10 minutes before serving.",
+      "timer_seconds": 600
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.myalbanianfood.com/recipe/albanian-dolma-japrak/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

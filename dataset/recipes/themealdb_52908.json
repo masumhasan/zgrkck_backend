@@ -1,0 +1,253 @@
+{
+  "id": "4979a6f1-9c1e-5e00-bd46-faac62071edb",
+  "version": "1.0.0",
+  "title": "Ratatouille",
+  "slug": "ratatouille",
+  "summary": "A classic French vegetable stew made with sautéed aubergine, courgette, peppers, and tomatoes seasoned with garlic and basil.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:48:12Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52908"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/wrpwuu1511786491.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/wrpwuu1511786491.jpg/small",
+      "alt_text": "Photo of Ratatouille",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=BFdQUgAFtGU"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "fe8f07a1-591f-5711-ae5b-f3c9afcc3e60",
+        "slug": "french",
+        "name": "French"
+      }
+    ],
+    "tags": [
+      "sidedish",
+      "vegetables"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 25,
+    "cook_time_minutes": 26,
+    "total_time_minutes": 51
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of stewed vegetables"
+  },
+  "allergens": {
+    "contains": [
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "660450ea-25b8-5a5c-8a54-ed17bfd78dc2",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "38c97dc5-e789-55a7-b8f9-749b52118997",
+          "ingredient_id": "0c13526c-c9d0-5c10-bc72-13ae3bf32c7e",
+          "name": "aubergine",
+          "display_text": "2 large Aubergine",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "cb3a50af-63a1-5808-8976-53d82335a7e4",
+          "ingredient_id": "868972c7-da7a-5cf2-864d-fe1f7aada74b",
+          "name": "courgettes",
+          "display_text": "4 Courgettes",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "cd5d7f05-769d-5925-aef6-e12e509f8717",
+          "ingredient_id": "ca16fa3e-7db9-5c18-acf7-0540f4e86a4d",
+          "name": "yellow pepper",
+          "display_text": "2 Yellow Pepper",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "76d5a15c-8891-5974-95bf-c37067dcc7d5",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "4 large Tomato",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "5c4e30ff-1bfa-5c59-9b5f-0eddce2e380e",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "5 tbs Olive Oil",
+          "quantity": 5.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "9aa0aed3-da72-5ae8-87b3-1e70547ebf47",
+          "ingredient_id": "fc6a825e-e02a-589c-91d6-b4e76ccc6354",
+          "name": "basil",
+          "display_text": "Bunch Basil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "bunch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "fd637f6d-7943-5bc4-ae9d-86bec3c35f33",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 medium Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e0fbb807-ad1d-5113-a5e4-e80f5ad3c706",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "3 finely chopped Garlic Clove",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "338f3f55-5dbb-53dd-bcef-1e4dd87f10de",
+          "ingredient_id": "38df984b-29a1-5431-8935-d850dfe8f8f7",
+          "name": "red wine vinegar",
+          "display_text": "1 tsp Red Wine Vinegar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "47a72b67-f399-5b1c-9312-eabed98c4ea2",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 tsp Sugar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Cut the aubergines in half lengthways. Place them on the board, cut side down, slice in half lengthways again and then across into 1.5cm chunks. Cut off the courgettes ends, then across into 1.5cm slices. Peel the peppers from stalk to bottom. Hold upright, cut around the stalk, then cut into 3 pieces. Cut away any membrane, then chop into bite-size chunks.",
+      "ingredients_used": [
+        "38c97dc5-e789-55a7-b8f9-749b52118997",
+        "cb3a50af-63a1-5808-8976-53d82335a7e4"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Score a small cross on the base of each tomato, then put them into a heatproof bowl. Pour boiling water over the tomatoes, leave for 20 secs, then remove. Pour the water away, replace the tomatoes and cover with cold water. Leave to cool, then peel the skin away. Quarter the tomatoes, scrape away the seeds with a spoon, then roughly chop the flesh.",
+      "timer_seconds": 20,
+      "ingredients_used": [
+        "76d5a15c-8891-5974-95bf-c37067dcc7d5"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Set a sauté pan over medium heat and when hot, pour in 2 tbsp olive oil. Brown the aubergines for 5 mins on each side until the pieces are soft. Set them aside and fry the courgettes in another tbsp oil for 5 mins, until golden on both sides. Repeat with the peppers. Don’t overcook the vegetables at this stage, as they have some more cooking left in the next step.",
+      "ingredients_used": [
+        "38c97dc5-e789-55a7-b8f9-749b52118997",
+        "cb3a50af-63a1-5808-8976-53d82335a7e4",
+        "5c4e30ff-1bfa-5c59-9b5f-0eddce2e380e"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Tear up the basil leaves and set aside. Cook the onion in the pan for 5 mins. Add the garlic and fry for a further min. Stir in the vinegar and sugar, then tip in the tomatoes and half the basil. Return the vegetables to the pan with some salt and pepper and cook for 5 mins. Serve with basil.",
+      "ingredients_used": [
+        "76d5a15c-8891-5974-95bf-c37067dcc7d5",
+        "9aa0aed3-da72-5ae8-87b3-1e70547ebf47",
+        "fd637f6d-7943-5bc4-ae9d-86bec3c35f33",
+        "47a72b67-f399-5b1c-9312-eabed98c4ea2"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/2903/ratatouille"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

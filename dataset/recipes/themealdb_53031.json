@@ -1,0 +1,344 @@
+{
+  "id": "0945eabd-ad37-5e49-92fa-fd22ee30c382",
+  "version": "1.0.0",
+  "title": "Egyptian Fatteh",
+  "slug": "egyptian-fatteh",
+  "summary": "Egyptian Fatteh is a traditional layered dish consisting of crispy fried pita bread, savory rice with toasted noodles, tender beef, and a tangy garlic-vinegar tomato sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:58:34Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53031"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/rlwcc51598734603.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/rlwcc51598734603.jpg/small",
+      "alt_text": "Photo of Egyptian Fatteh",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=WLuOHkDE4A4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "3586d868-9b83-5a6f-adb2-43d378fffcd2",
+        "slug": "egyptian",
+        "name": "Egyptian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 155,
+    "total_time_minutes": 175
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a large bowl of layered rice, meat, and sauce"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "fish",
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "5ada7ff8-aba5-5711-b926-d0ed7896ad19",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "68c15613-3e5e-5991-9967-9c0e1d6f9a88",
+          "ingredient_id": "c2102b4e-a5b4-5bab-b7d5-bdfa5244ae7b",
+          "name": "beef",
+          "display_text": "1lb Beef",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "c4f4619c-3570-5c28-b2db-cfe1bb62b6b7",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d68c2cb2-b273-5538-9913-754660b906c0",
+          "ingredient_id": "c51e6b59-c18d-5488-827d-6e870113c2e5",
+          "name": "chicken stock cube",
+          "display_text": "1 Chicken Stock Cube",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "e5f4bffa-0ecd-5396-8d6a-10e55aae53a1",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomatoes",
+          "display_text": "2 Tomatoes",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1db3effa-b836-5946-9670-5a6813195850",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "4 Garlic Clove",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c5b176ca-478f-5939-8f0f-2482a3775260",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "1 tbs Tomato Puree",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "65e46051-e09f-5ffb-866d-400d266bc0d8",
+          "ingredient_id": "025b8433-c498-5b37-813a-ec00ac6c2ae5",
+          "name": "rice",
+          "display_text": "2 cups Rice",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "3e4f8fe6-a08a-5803-8aa1-c5b5987c4df8",
+          "ingredient_id": "146fea77-b9e6-5dfa-9b3e-8978c2ade654",
+          "name": "noodles",
+          "display_text": "1/4 cup Noodles",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "03fb5656-4128-51f1-962d-ec381f123602",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "1/4 cup Butter",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "c4821e6a-cbf3-514d-83f3-6c72e5b25018",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 cups Olive Oil",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "d17f0cd6-2350-5fcf-8107-171ca1a87dbe",
+          "ingredient_id": "3998084f-e7c2-5364-b223-62058fa4c0c9",
+          "name": "pita bread",
+          "display_text": "1 Pita Bread",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "51aba387-e7a9-5231-af69-e4cd409f48b8",
+          "ingredient_id": "be79b3bd-bc90-5d15-aab2-4f95774b8de1",
+          "name": "cumin",
+          "display_text": "1 tbs Cumin",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "f6c6a5b7-1e6d-5d1c-acd9-8eb2358e4653",
+          "ingredient_id": "fa7445fe-6dac-523d-9bc7-0bdbcf354913",
+          "name": "white wine vinegar",
+          "display_text": "3 tbs White Wine Vinegar",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "c5b5f4bf-d9f9-58a2-908f-2e644374f8d7",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "dbb4eb77-caff-5dd1-a60f-6b5a32dcd49e",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "To taste Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "To prepare bread for bottom of dish: Take pita bread and rip into bite size pieces. In a frying pan, add about a 1/4 stick of butter, add bread pieces and fry until golden brown and crisp. Put these pieces in a glass baking dish, preferably a square sized dish. Set aside.",
+      "ingredients_used": [
+        "03fb5656-4128-51f1-962d-ec381f123602",
+        "d17f0cd6-2350-5fcf-8107-171ca1a87dbe"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Then add to same pan, a little more butter, salt, approximately 2 cloves of crushed fresh garlic, and a teaspoon or so of cumin stir around a bit until you can smell aroma, then add fried bread pieces to this mixture, stir to coat bread and put back into glass baking dish. Set aside.",
+      "ingredients_used": [
+        "1db3effa-b836-5946-9670-5a6813195850",
+        "03fb5656-4128-51f1-962d-ec381f123602",
+        "d17f0cd6-2350-5fcf-8107-171ca1a87dbe",
+        "51aba387-e7a9-5231-af69-e4cd409f48b8",
+        "c5b5f4bf-d9f9-58a2-908f-2e644374f8d7"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "To prepare meat: put some butter in a pot, stir fry meat until brown, add 1 onion quartered, salt & pepper, 1 cube of chicken bouillon and water to cover meat. Bring to a boil, turn down to simmer, cover and cook until tender, approximately 2 hours. After meat has cooled, take out chunks of meat and put in a bowl, set aside. Reserve soup from the meat separately.",
+      "timer_seconds": 7200,
+      "ingredients_used": [
+        "c4f4619c-3570-5c28-b2db-cfe1bb62b6b7",
+        "d68c2cb2-b273-5538-9913-754660b906c0",
+        "03fb5656-4128-51f1-962d-ec381f123602",
+        "c5b5f4bf-d9f9-58a2-908f-2e644374f8d7",
+        "dbb4eb77-caff-5dd1-a60f-6b5a32dcd49e"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "To prepare the rice: Put some butter into a pot, add shareya (fideo noodles) like a handful or so, keep stirring until golden brown, not too dark, but very golden. Then add two cups of rice, stir a little bit until some of the rice turns an opaque white. Add 2-1/4 cups of water and salt to taste. Bring to a boil, cover and turn down to simmer, cook until tender. Test the rice tenderness after about 35 minutes.",
+      "timer_seconds": 2100,
+      "ingredients_used": [
+        "65e46051-e09f-5ffb-866d-400d266bc0d8",
+        "3e4f8fe6-a08a-5803-8aa1-c5b5987c4df8",
+        "03fb5656-4128-51f1-962d-ec381f123602",
+        "c5b5f4bf-d9f9-58a2-908f-2e644374f8d7"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Now take some of the soup from meat and add to the top of the bread pieces in baking dish to saturate.Add cooked rice on top of bread pieces. Slowly spoon remainder of soup onto rice, looking at glass dish sides to see level of soup, should reach just to top of rice, don’t worry, this doesn’t have to be exact. Now you’re ready to make the sauce and fry the meat to put on top.",
+      "ingredients_used": [
+        "65e46051-e09f-5ffb-866d-400d266bc0d8",
+        "d17f0cd6-2350-5fcf-8107-171ca1a87dbe"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "To prepare red sauce: In a pan, add a little oil or butter, crushed tomato, a half teaspoon of tomato paste, salt & pepper, 2 cloves of fresh crushed garlic and cumin. Add also approximately 3 tablespoons of vinegar, stir this until you smell aroma and it is a bit smooth. It should be a bit thick, not watery, but if too thick you can add a bit of water. Spread with a wooden spoon atop the rice to cover.",
+      "ingredients_used": [
+        "1db3effa-b836-5946-9670-5a6813195850",
+        "65e46051-e09f-5ffb-866d-400d266bc0d8",
+        "03fb5656-4128-51f1-962d-ec381f123602",
+        "51aba387-e7a9-5231-af69-e4cd409f48b8",
+        "c5b5f4bf-d9f9-58a2-908f-2e644374f8d7",
+        "dbb4eb77-caff-5dd1-a60f-6b5a32dcd49e"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "To fry meat: In a pan add a bit of butter or oil, the meat, just a touch of tomato paste, about a tablespoon of fresh crushed garlic, salt & pepper, a teaspoon of cumin. Cook until meat is golden fried.",
+      "ingredients_used": [
+        "03fb5656-4128-51f1-962d-ec381f123602",
+        "51aba387-e7a9-5231-af69-e4cd409f48b8",
+        "c5b5f4bf-d9f9-58a2-908f-2e644374f8d7",
+        "dbb4eb77-caff-5dd1-a60f-6b5a32dcd49e"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Spoon this atop the rice and serve. Enjoy!",
+      "ingredients_used": [
+        "65e46051-e09f-5ffb-866d-400d266bc0d8"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.food.com/recipe/egyptian-faatah-rice-meat-with-crispy-bread-on-bottom-194764"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "id": "76eaebdd-74b9-5d83-8b64-deb2bc84b07c",
+  "version": "1.0.0",
+  "title": "French Onion Soup",
+  "slug": "french-onion-soup",
+  "summary": "A classic French soup made with caramelized onions, beef stock, and white wine, topped with toasted bread and melted Gruyère cheese.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:47:42Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52903"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/xvrrux1511783685.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/xvrrux1511783685.jpg/small",
+      "alt_text": "Photo of French Onion Soup",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=-DLDMQucqDI"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "fe8f07a1-591f-5711-ae5b-f3c9afcc3e60",
+        "slug": "french",
+        "name": "French"
+      }
+    ],
+    "tags": [
+      "soup"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "starter",
+      "side_dish"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 60,
+    "total_time_minutes": 75
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of soup with toast and cheese"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "bd2d64b4-dc9d-5a04-94f4-22dba7d968b7",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "6d9fff7f-731a-5e57-a50d-58d4941d1fed",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "50g Butter",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "d4e56bf0-9504-5fb9-ad6f-96ef43d87658",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 tbs Olive Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "9acbc833-4887-5cd8-98c5-a594c3beeddd",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 kg Onion",
+          "quantity": 1.0,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "kilogram",
+          "category": "produce"
+        },
+        {
+          "id": "28ff3f72-92ab-55d0-a59a-ccd61fce2b43",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 tsp Sugar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "02be96ad-e725-5fb1-a908-31cecc76854b",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "4 sliced Garlic Clove",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b2524969-1664-571d-935b-87f926a88885",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "2 tbs Plain Flour",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "e8e1f028-02de-5b4c-bb8e-51ef40974d2d",
+          "ingredient_id": "fda31c84-156d-52ae-9761-68b43f6d20f4",
+          "name": "dry white wine",
+          "display_text": "250ml Dry White Wine",
+          "quantity": 250.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "ccf0afa0-73a9-5eb0-95e8-c396cf00abc6",
+          "ingredient_id": "39a746ef-3300-5229-b0b2-3e03970ea60c",
+          "name": "beef stock",
+          "display_text": "1L Beef Stock",
+          "quantity": 1.0,
+          "unit": "liter",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "liter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "00203f55-36e6-59dc-9da2-8f4885d74d45",
+          "ingredient_id": "95128a6e-6409-5797-b33b-a94a27c5951f",
+          "name": "bread",
+          "display_text": "4 sliced Bread",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "e5dd209c-4701-5d42-b904-a690b2482bf5",
+          "ingredient_id": "7e2a902e-7ab4-5cdc-8b27-6bf2e8fa0437",
+          "name": "gruyère",
+          "display_text": "140g Gruyère",
+          "quantity": 140.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 140.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Melt the butter with the oil in a large heavy-based pan. Add the onions and fry with the lid on for 10 mins until soft. Sprinkle in the sugar and cook for 20 mins more, stirring frequently, until caramelized. The onions should be really golden, full of flavor and soft when pinched between your fingers. Take care towards the end to ensure that they don’t burn.",
+      "ingredients_used": [
+        "6d9fff7f-731a-5e57-a50d-58d4941d1fed",
+        "9acbc833-4887-5cd8-98c5-a594c3beeddd",
+        "28ff3f72-92ab-55d0-a59a-ccd61fce2b43"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the garlic for the final few mins of the onions’ cooking time, then sprinkle in the flour and stir well. Increase the heat and keep stirring as you gradually add the wine, followed by the hot stock. Cover and simmer for 15-20 mins.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "9acbc833-4887-5cd8-98c5-a594c3beeddd",
+        "e8e1f028-02de-5b4c-bb8e-51ef40974d2d"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "To serve, turn on the grill, and toast the bread. Ladle the soup into heatproof bowls. Put a slice or two of toast on top of the bowls of soup, and pile on the cheese. Grill until melted. Alternatively, you can complete the toasts under the grill, then serve them on top.",
+      "ingredients_used": [
+        "00203f55-36e6-59dc-9da2-8f4885d74d45"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/3020694/french-onion-soup"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

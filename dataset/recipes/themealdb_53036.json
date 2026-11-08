@@ -1,0 +1,256 @@
+{
+  "id": "cbb50d52-5bc9-541e-aaad-5f66aa2225d4",
+  "version": "1.0.0",
+  "title": "Boxty Breakfast",
+  "slug": "boxty-breakfast",
+  "summary": "Boxty is a traditional Irish potato pancake served here as a breakfast dish alongside bacon, eggs, and grilled tomatoes.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:58:54Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53036"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/naqyel1608588563.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/naqyel1608588563.jpg/small",
+      "alt_text": "Photo of Boxty Breakfast",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=80W0mCFDIP0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9afcb22c-d4b3-58a6-981b-5d7f3acffbaf",
+        "slug": "irish",
+        "name": "Irish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 50
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "2-3 boxty pancakes with bacon, egg, and tomatoes"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "fe81ee81-d746-518b-8114-c5b2211c6fc2",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "28ee1a22-cebe-54f9-b7f9-78036fb746d0",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "4 large Potatoes",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "96687164-79e3-536b-99a1-a1b19bb843eb",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "1  bunch Spring Onions",
+          "quantity": 1.0,
+          "unit": "bunch",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "8222f418-a3a2-5abe-96da-853ad5a252f1",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "100g Plain Flour",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "58e21ace-713d-5f03-9d7b-8a0b4b7434e5",
+          "ingredient_id": "87c4a7ca-7b0e-5143-aea3-d01ad00e4108",
+          "name": "egg white",
+          "display_text": "1 Egg White",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "712301d1-41eb-5d1b-b528-2d691f2bacd9",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "150ml Milk",
+          "quantity": 150.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "a4992601-668d-5540-b870-7b04359cb05c",
+          "ingredient_id": "5b3aa746-938c-5e92-be83-6710a36a51db",
+          "name": "bicarbonate of soda",
+          "display_text": "1 tsp Bicarbonate Of Soda",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "c5a6e0df-c3c6-5695-8677-85e73a3bef0e",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "3 tbs Butter",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "99fea29c-932f-5626-a70d-878142224004",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "2 tbs Vegetable Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "7eb900f8-39dc-5202-abd7-e5ce4a2b54d6",
+          "ingredient_id": "041e90f7-87c0-5883-b651-a9f26dce39b7",
+          "name": "cherry tomatoes",
+          "display_text": "6 Cherry Tomatoes",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "caa8f2ec-854d-5f10-907d-5282d7ccef1c",
+          "ingredient_id": "956cfefc-d0f9-5c1f-9f20-d38a1e4dbdad",
+          "name": "bacon",
+          "display_text": "12 Bacon",
+          "quantity": 12.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "7391af88-a175-5773-aca7-a9625781b966",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "6 Egg",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Before you start, put your oven on its lowest setting, ready to keep things warm. Peel the potatoes, grate 2 of them, then set aside. Cut the other 2 into large chunks, then boil for 10-15 mins or until tender. Meanwhile, squeeze as much of the liquid from the grated potatoes as you can using a clean tea towel. Mash the boiled potatoes, then mix with the grated potato, spring onions and flour.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "28ee1a22-cebe-54f9-b7f9-78036fb746d0",
+        "96687164-79e3-536b-99a1-a1b19bb843eb"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Whisk the egg white in a large bowl until it holds soft peaks. Fold in the buttermilk, then add the bicarbonate of soda. Fold into the potato mix.",
+      "ingredients_used": [
+        "58e21ace-713d-5f03-9d7b-8a0b4b7434e5",
+        "a4992601-668d-5540-b870-7b04359cb05c",
+        "c5a6e0df-c3c6-5695-8677-85e73a3bef0e",
+        "7391af88-a175-5773-aca7-a9625781b966"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Heat a large non-stick frying pan over a medium heat, then add 1 tbsp butter and some of the oil. Drop 3-4 spoonfuls of the potato mixture into the pan, then gently cook for 3-5 mins on each side until golden and crusty. Keep warm on a plate in the oven while you cook the next batch, adding more butter and oil to the pan before you do so. You will get 16 crumpet-size boxty from the mix. Can be made the day ahead, drained on kitchen paper, then reheated in a low oven for 20 mins.",
+      "ingredients_used": [
+        "c5a6e0df-c3c6-5695-8677-85e73a3bef0e"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Heat the grill to medium and put the tomatoes in a heavy-based pan. Add a good knob of butter and a little oil, then fry for about 5 mins until softened. Grill the bacon, then pile onto a plate and keep warm. Stack up the boxty, bacon and egg, and serve the tomatoes on the side.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "c5a6e0df-c3c6-5695-8677-85e73a3bef0e",
+        "7eb900f8-39dc-5202-abd7-e5ce4a2b54d6",
+        "caa8f2ec-854d-5f10-907d-5282d7ccef1c",
+        "7391af88-a175-5773-aca7-a9625781b966"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/boxty-bacon-eggs-tomatoes"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

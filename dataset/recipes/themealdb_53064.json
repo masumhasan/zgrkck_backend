@@ -1,0 +1,192 @@
+{
+  "id": "97c7183c-866e-557d-a288-46bc5ef8e9a0",
+  "version": "1.0.0",
+  "title": "Fettuccine Alfredo",
+  "slug": "fettuccine-alfredo",
+  "summary": "A classic Italian pasta dish featuring fettuccine tossed in a rich, creamy sauce made from butter, heavy cream, and parmesan cheese.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:01:31Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53064"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/0jv5gx1661040802.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/0jv5gx1661040802.jpg/small",
+      "alt_text": "Photo of Fettuccine Alfredo",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=LPPcNPdq_j4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "5777da00-e671-5ded-9c46-d7577d65960f",
+        "slug": "italian",
+        "name": "Italian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 20
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a bowl of fettuccine"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "771b4558-92b7-5819-aac3-b9ade4170013",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "eb81810e-4c64-5ce6-bfda-e7a235b2f0f4",
+          "ingredient_id": "6708b06c-9efa-5713-a821-9103765a23f7",
+          "name": "fettuccine",
+          "display_text": "1 lb Fettuccine",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "4923e680-3738-5f7c-8847-f72830e0b802",
+          "ingredient_id": "cb8d5d02-f2f1-547b-b7e6-054d6629adc1",
+          "name": "heavy cream",
+          "display_text": "1/2 cup Heavy Cream",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "6833964f-3dd7-52b3-8dc7-27bc83c93407",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "1/2 cup Butter",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "3e6c3a4f-cdba-504a-9473-c6ab86aaf173",
+          "ingredient_id": "416df703-8cf7-5b6e-bc37-86ce7e3fd6da",
+          "name": "parmesan",
+          "display_text": "1/2 cup Parmesan",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "a5e8bcbc-2ec2-5719-800a-f6d34cecfb0e",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "2 tbsp Parsley",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "b6e8cffa-437d-53dd-ace8-83f04c332ed5",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "Black Pepper",
+          "quantity": 0,
+          "unit": "as_needed",
+          "is_optional": false,
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Cook pasta according to package instructions in a large pot of boiling water and salt. Add heavy cream and butter to a large skillet over medium heat until the cream bubbles and the butter melts.",
+      "ingredients_used": [
+        "4923e680-3738-5f7c-8847-f72830e0b802",
+        "6833964f-3dd7-52b3-8dc7-27bc83c93407"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Whisk in parmesan and add seasoning (salt and black pepper). Let the sauce thicken slightly and then add the pasta and toss until coated in sauce.",
+      "ingredients_used": [
+        "3e6c3a4f-cdba-504a-9473-c6ab86aaf173",
+        "b6e8cffa-437d-53dd-ace8-83f04c332ed5"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Garnish with parsley, and it's ready.",
+      "ingredients_used": [
+        "a5e8bcbc-2ec2-5719-800a-f6d34cecfb0e"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.delish.com/cooking/recipe-ideas/a55312/best-homemade-fettuccine-alfredo-recipe/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

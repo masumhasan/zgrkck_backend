@@ -1,0 +1,280 @@
+{
+  "id": "1c2b0b6c-ffd6-580c-a4eb-8f93c5d47646",
+  "version": "1.0.0",
+  "title": "Beef Mechado",
+  "slug": "beef-mechado",
+  "summary": "A Filipino beef stew traditionally prepared with tomato sauce and vegetables, though this specific version describes a kebab preparation.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:01:47Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53068"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/cgl60b1683206581.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/cgl60b1683206581.jpg/small",
+      "alt_text": "Photo of Beef Mechado",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=jxW3Lj8VjyE"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "3e1a78f5-e83e-5b97-a090-8a1e2d2271a8",
+        "slug": "filipino",
+        "name": "Filipino"
+      }
+    ],
+    "tags": [
+      "stew",
+      "warming"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 6,
+    "marinating_time_minutes": 60,
+    "total_time_minutes": 81
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "beef kebobs with rice"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "sesame"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "fish",
+      "shellfish",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "384f59c2-f886-5776-83b9-35ee3dec2129",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "b834bc35-9332-50fc-bd19-040a818da189",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 cloves Garlic",
+          "quantity": 3.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "9fcab63a-2b8b-500e-bfe9-42ce746085b4",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 sliced Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ba40c590-2313-55fa-850c-f4b24bdc31b4",
+          "ingredient_id": "c2102b4e-a5b4-5bab-b7d5-bdfa5244ae7b",
+          "name": "beef",
+          "display_text": "2 Lbs Beef",
+          "quantity": 2.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 907.2,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "73f9d587-5ec5-5c05-ad16-d317b9a85328",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "8 ounces Tomato Puree",
+          "quantity": 8.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 226.8,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "ab349dc0-9610-57d0-b6b8-2b48ebc7bd08",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1 cup Water",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "6b7db950-e781-58c0-bf6c-4316f41d772e",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "3 tbs Olive Oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "f8358f5b-ee7e-510d-99b8-a90cf0961ab3",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "1 Slice Lemon",
+          "quantity": 1.0,
+          "unit": "slice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c93ed26d-1354-5080-81de-ed46d012c8fb",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "1 large Potatoes",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4e93cb05-3be5-59a1-9335-d7fc93fa1e8f",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "1/4 cup Soy Sauce",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "d8bff926-632e-5dac-8e9b-38fd181c05fa",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1/2 tsp Black Pepper",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "e3dbe017-4c82-5216-b2d0-7754fe1eb651",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaves",
+          "display_text": "2 Bay Leaves",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "f582fa60-25d2-5677-8cf7-0a323dd634b4",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Make the beef tenderloin marinade by combining soy sauce, vinegar, ginger, garlic, sesame oil, olive oil, sugar, salt, and ground black pepper in a large bowl. Mix well.",
+      "ingredients_used": [
+        "b834bc35-9332-50fc-bd19-040a818da189",
+        "ba40c590-2313-55fa-850c-f4b24bdc31b4",
+        "6b7db950-e781-58c0-bf6c-4316f41d772e",
+        "4e93cb05-3be5-59a1-9335-d7fc93fa1e8f",
+        "d8bff926-632e-5dac-8e9b-38fd181c05fa",
+        "f582fa60-25d2-5677-8cf7-0a323dd634b4"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the cubed beef tenderloin to the bowl with the beef tenderloin marinade. Gently toss to coat the beef. Let it stay for 1 hour.",
+      "timer_seconds": 3600,
+      "ingredients_used": [
+        "ba40c590-2313-55fa-850c-f4b24bdc31b4"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Using a metal or bamboo skewer, assemble the beef kebob by skewering the vegetables and marinated beef tenderloin.",
+      "ingredients_used": [
+        "ba40c590-2313-55fa-850c-f4b24bdc31b4"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Heat-up the grill and start grilling the beef kebobs for 3 minutes per side. This will give you a medium beef that is juicy and tender on the inside. Add more time if you want your beef well done, but it will be less tender.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "ba40c590-2313-55fa-850c-f4b24bdc31b4"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Transfer to a serving plate. Serve with Saffron rice."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Share and enjoy!"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://panlasangpinoy.com/filipino-pinoy-food-tomato-sauce-beef-mechado-recipe/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

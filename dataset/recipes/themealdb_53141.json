@@ -1,0 +1,247 @@
+{
+  "id": "d0097da4-ef05-5acd-924d-3e11cee16c2b",
+  "version": "1.0.0",
+  "title": "Carbonada Criolla",
+  "slug": "carbonada-criolla",
+  "summary": "A traditional Argentine beef stew featuring a sweet and savory combination of beef, vegetables, and dried apricots.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:07:57Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53141"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/8b2msz1763074897.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/8b2msz1763074897.jpg/small",
+      "alt_text": "Photo of Carbonada Criolla",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=MSyvKDBXuKQ"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "52cab25e-aedf-58a6-a869-20df96a19448",
+        "slug": "argentine",
+        "name": "Argentine"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 120,
+    "total_time_minutes": 140
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of stew"
+  },
+  "allergens": {
+    "contains": [
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "gluten",
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "36eae0c6-6ef8-56ba-87e4-0ad638b536df",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "be96151b-3770-5f97-aaf4-833c4c538855",
+          "ingredient_id": "c2102b4e-a5b4-5bab-b7d5-bdfa5244ae7b",
+          "name": "beef",
+          "display_text": "500g Beef",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "483f7b5f-07b1-5601-92b5-b02a1962b587",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ba0b30f6-2145-5ced-9506-6952cb66991b",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "2 chopped Carrots",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "cf8a86a6-4581-54ae-b7a5-1848b0ab3f36",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "2 chopped Potatoes",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "82ea0b4f-7ca1-567d-b293-ed5827234a28",
+          "ingredient_id": "e046e936-ea1f-5501-bc83-8d8341cc097c",
+          "name": "pumpkin",
+          "display_text": "1 small Pumpkin",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "81a4136e-5e62-5550-adde-e7935463f983",
+          "ingredient_id": "4e2337c2-e42a-5ed6-9e7b-4b439f982bd2",
+          "name": "dried apricots",
+          "display_text": "100g Dried Apricots",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "1d37f3f7-a41b-5e4b-9a83-52ec542963a5",
+          "ingredient_id": "39a746ef-3300-5229-b0b2-3e03970ea60c",
+          "name": "beef stock",
+          "display_text": "2 Liters Beef Stock",
+          "quantity": 2.0,
+          "unit": "liter",
+          "is_optional": false,
+          "metric_quantity": 2.0,
+          "metric_unit": "liter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "2e1a375b-94d9-582f-b14e-b5690aba50a9",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "4d796a08-a0b7-5fff-bc12-6eb6c79b1936",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "To taste Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Brown the Beef: In a large pot, brown the beef cubes. Remove and set aside.",
+      "ingredients_used": [
+        "be96151b-3770-5f97-aaf4-833c4c538855"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Sauté Vegetables: In the same pot, cook the onion until translucent. Add carrots, potatoes, and pumpkin, cooking for a few minutes.",
+      "ingredients_used": [
+        "483f7b5f-07b1-5601-92b5-b02a1962b587",
+        "ba0b30f6-2145-5ced-9506-6952cb66991b",
+        "cf8a86a6-4581-54ae-b7a5-1848b0ab3f36",
+        "82ea0b4f-7ca1-567d-b293-ed5827234a28"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Simmer: Return the beef to the pot. Add broth and dried apricots. Season with salt and pepper. Simmer for 1-2 hours, until the beef is tender.",
+      "timer_seconds": 7200,
+      "ingredients_used": [
+        "be96151b-3770-5f97-aaf4-833c4c538855",
+        "81a4136e-5e62-5550-adde-e7935463f983",
+        "2e1a375b-94d9-582f-b14e-b5690aba50a9",
+        "4d796a08-a0b7-5fff-bc12-6eb6c79b1936"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Serve: Enjoy hot, with a crusty piece of bread."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Pro Tips:"
+    },
+    {
+      "step_number": 6,
+      "instruction": "Brown the beef in batches to ensure it gets a good sear, which adds depth to the stew's flavor.",
+      "ingredients_used": [
+        "be96151b-3770-5f97-aaf4-833c4c538855"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Adding the fruits towards the end of cooking preserves their texture and adds a subtle sweetness to the dish."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.munchery.com/blog/the-ten-iconic-dishes-of-argentina-and-how-to-cook-them-at-home/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

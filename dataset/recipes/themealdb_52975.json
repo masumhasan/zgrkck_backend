@@ -1,0 +1,276 @@
+{
+  "id": "f697afd9-349f-5485-bd07-4b8c7161b6ee",
+  "version": "1.0.0",
+  "title": "Tuna and Egg Briks",
+  "slug": "tuna-and-egg-briks",
+  "summary": "Tuna and Egg Briks are Tunisian-style savory pastries made with filo dough, filled with a mixture of tuna, eggs, and wilted spinach. They are typically served hot alongside a fresh tomato and cucumber salad.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:54:13Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52975"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/2dsltq1560461468.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/2dsltq1560461468.jpg/small",
+      "alt_text": "Photo of Tuna and Egg Briks",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=C5n1fN8TGHs"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "23146f21-0265-5561-bbec-944b008fa0d1",
+        "slug": "tunisian",
+        "name": "Tunisian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": [
+      "easter"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 25,
+    "cook_time_minutes": 21,
+    "total_time_minutes": 46
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "pieces",
+    "serving_size_description": "2 briks with salad"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "eggs",
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "8295c720-08e1-5c1e-9915-8b5df35411f2",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "972a46a5-2d71-5893-9b90-94ff15159870",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tbs Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "101cd732-4d5d-59f4-bd98-8ce6fb7217a7",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "8 Spring Onions",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d84784fa-6026-52dc-ad9b-9754dc3a421f",
+          "ingredient_id": "d0dd13fa-8c7a-5af9-9e1d-3d7bfc0f68e8",
+          "name": "spinach",
+          "display_text": "200g Spinach",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "01f4f294-1457-550f-9eda-990cc59bcdc4",
+          "ingredient_id": "62dcf130-9a4f-5feb-a1df-0a2b3719d3a8",
+          "name": "filo pastry",
+          "display_text": "4 Filo Pastry",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "cc17610a-48ea-59cb-9088-b5974ead29a6",
+          "ingredient_id": "fe75f1cb-e7bd-5163-83c7-78d6aa269e26",
+          "name": "tuna",
+          "display_text": "1 can Tuna",
+          "quantity": 1.0,
+          "unit": "can",
+          "is_optional": false,
+          "category": "fish"
+        },
+        {
+          "id": "e113819a-dc45-5cc5-8e4f-fb75df1b087b",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "2 Eggs",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "70421670-0707-5065-bd9f-bc2246ebd177",
+          "ingredient_id": "42d67342-d05a-512d-958a-1c2fdbf7a682",
+          "name": "hotsauce",
+          "display_text": "Dash Hotsauce",
+          "quantity": 1,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "condiments"
+        },
+        {
+          "id": "81c5ef78-7a40-5fa7-83a7-c348b88a29f1",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomatoes",
+          "display_text": "4 Chopped Tomatoes",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "182aeb0d-63c3-5273-85cd-c212ba530074",
+          "ingredient_id": "8f9e104a-822f-5bda-b376-eee34fc38609",
+          "name": "cucumber",
+          "display_text": "1/4 Cucumber",
+          "quantity": 0.25,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "67937bfe-e9ff-589d-8e2c-7f34577a3070",
+          "ingredient_id": "4020879e-a0a5-58e2-b093-33c7e85c8a08",
+          "name": "lemon juice",
+          "display_text": "1 tbs Lemon Juice",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "7eb2596a-623c-5711-a47a-1a0c37818ac4",
+          "ingredient_id": "2783de4c-4a94-5a73-95c3-347b2b1ad262",
+          "name": "apricot jam",
+          "display_text": "4 tbs Apricot Jam",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat 2 tsp of the oil in a large saucepan and cook the spring onions over a low heat for 3 minutes or until beginning to soften. Add the spinach, cover with a tight-fitting lid and cook for a further 2–3 minutes or until tender and wilted, stirring once or twice. Tip the mixture into a sieve or colander and leave to drain and cool.",
+      "ingredients_used": [
+        "101cd732-4d5d-59f4-bd98-8ce6fb7217a7",
+        "d84784fa-6026-52dc-ad9b-9754dc3a421f"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Using a saucer as a guide, cut out 24 rounds about 12.5 cm (5 in) in diameter from the filo pastry, cutting 6 rounds from each sheet. Stack the filo rounds in a pile, then cover with cling film to prevent them from drying out.",
+      "ingredients_used": [
+        "01f4f294-1457-550f-9eda-990cc59bcdc4"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "When the spinach mixture is cool, squeeze out as much excess liquid as possible, then transfer to a bowl. Add the tuna, eggs, hot pepper sauce, and salt and pepper to taste. Mix well.",
+      "ingredients_used": [
+        "d84784fa-6026-52dc-ad9b-9754dc3a421f",
+        "cc17610a-48ea-59cb-9088-b5974ead29a6",
+        "e113819a-dc45-5cc5-8e4f-fb75df1b087b"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Preheat the oven to 200°C (400°F, gas mark 6). Take one filo round and very lightly brush with some of the remaining oil. Top with a second round and brush with a little oil, then place a third round on top and brush with oil.",
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 5,
+      "instruction": "Place a heaped tbsp of the filling in the middle of the round, then fold the pastry over to make a half-moon shape. Fold in the edges, twisting them to seal, and place on a non-stick baking sheet. Repeat with the remaining pastry and filling to make 8 briks in all.",
+      "ingredients_used": [
+        "01f4f294-1457-550f-9eda-990cc59bcdc4"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Lightly brush the briks with the remaining oil. Bake for 12–15 minutes or until the pastry is crisp and golden brown.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "01f4f294-1457-550f-9eda-990cc59bcdc4"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Meanwhile, combine the tomatoes and cucumber in a bowl and sprinkle with the lemon juice and seasoning to taste. Serve the briks hot with this salad and the chutney.",
+      "ingredients_used": [
+        "81c5ef78-7a40-5fa7-83a7-c348b88a29f1",
+        "182aeb0d-63c3-5273-85cd-c212ba530074",
+        "67937bfe-e9ff-589d-8e2c-7f34577a3070"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://allrecipes.co.uk/recipe/3096/tunisian-tuna-and-egg-briks.aspx"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

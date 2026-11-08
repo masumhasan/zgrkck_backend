@@ -1,0 +1,248 @@
+{
+  "id": "81e789a2-81da-5afc-8e67-16a1297386a2",
+  "version": "1.0.0",
+  "title": "Drunken noodles (pad kee mao)",
+  "slug": "drunken-noodles-pad-kee-mao",
+  "summary": "A spicy Thai stir-fry dish featuring wide rice noodles, tender beef, and aromatic basil.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:12:25Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53193"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/2wx8cm1763373419.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/2wx8cm1763373419.jpg/small",
+      "alt_text": "Photo of Drunken noodles (pad kee mao)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=eJ3w2iJB4x8"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "724b7c6a-f254-57d4-9729-335a2b2d93b1",
+        "slug": "thai",
+        "name": "Thai"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 5,
+    "total_time_minutes": 20
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 plate of noodles"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "fish",
+      "shellfish"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "0670cb63-f0e1-51d0-bce6-9c78b7617e32",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "9467f8ee-c445-5407-ad0d-dc21b9129146",
+          "ingredient_id": "7b7405be-445e-56ea-8c1a-f2577dd3ffdd",
+          "name": "flat rice noodles",
+          "display_text": "200g Flat Rice Noodles",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "59c365f3-1943-5eb5-8a98-8b8fd776013f",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "2 tblsp Vegetable Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "ce28deb6-0088-5cbd-b2ff-37ad653b78d7",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 cloves Chopped Garlic",
+          "quantity": 3.0,
+          "unit": "clove",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "5072280c-995a-5fa7-9947-bb36141b7be5",
+          "ingredient_id": "c34401c7-b5ba-5c77-b08c-3f81a2f87c95",
+          "name": "birds-eye chillies",
+          "display_text": "3 chopped Birds-eye Chillies",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "6acfe578-cd81-5b05-b945-1a9d91aa888f",
+          "ingredient_id": "febc81fb-5cd0-554c-b824-0241486907eb",
+          "name": "sirloin steak",
+          "display_text": "225g Sirloin steak",
+          "quantity": 225.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 225.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "71f7b10a-e128-55d2-8f3e-e2edb4e4e747",
+          "ingredient_id": "31e88f63-2128-56b2-a28a-224d203ee96c",
+          "name": "broccoli",
+          "display_text": "100g Broccoli",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "8362591c-9308-5706-83f5-bdd0f49d6f76",
+          "ingredient_id": "a1783c57-4793-5f4c-b52e-1ed99ab34832",
+          "name": "basil leaves",
+          "display_text": "Handful Basil Leaves",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "271ba487-86f8-5dc6-a611-24a7b8441eaa",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "4 tbsp Soy Sauce",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "0fb80eaa-27a6-56df-9c7c-5264fe1a7f41",
+          "ingredient_id": "42972e00-9d00-55f1-8658-5357075be010",
+          "name": "oyster sauce",
+          "display_text": "4 tbsp Oyster Sauce",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "a2a92f7c-df86-52e9-9ada-72e3c9124bc4",
+          "ingredient_id": "de927c20-fdfa-5b98-8ee9-7840fa951a2f",
+          "name": "fish sauce",
+          "display_text": "1 teaspoon Fish Sauce",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "bfc44ef0-0a0a-5157-828b-ba0437536f81",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 tblsp Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Prepare the noodles following pack instructions, then drain and set aside. Combine all the ingredients for the sauce in a small bowl or jug, and set aside.",
+      "ingredients_used": [
+        "9467f8ee-c445-5407-ad0d-dc21b9129146"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat the oil in a large wok or frying pan over a high heat and stir-fry the garlic and chilli for 20 seconds until just starting to turn golden. Add the steak and stir-fry for 1 minute until seared and starting to brown. Add the broccoli and stir-fry for another minute, then tip in the noodles and add the sauce. Stir-fry for another 1-2 mins until well combined and piping hot.",
+      "ingredients_used": [
+        "9467f8ee-c445-5407-ad0d-dc21b9129146",
+        "ce28deb6-0088-5cbd-b2ff-37ad653b78d7",
+        "6acfe578-cd81-5b05-b945-1a9d91aa888f",
+        "71f7b10a-e128-55d2-8f3e-e2edb4e4e747"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Stir through the basil and turn off the heat. Serve immediately to avoid overcooking."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/drunken-noodles-pad-kee-mao"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

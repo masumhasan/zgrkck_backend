@@ -1,0 +1,210 @@
+{
+  "id": "c012e8d2-6fce-598d-acd2-568707a961a5",
+  "version": "1.0.0",
+  "title": "Fennel Dauphinoise",
+  "slug": "fennel-dauphinoise",
+  "summary": "A French-style side dish featuring sliced potatoes and fennel simmered in milk and cream, then baked with parmesan cheese.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:49:09Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52919"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ytttsv1511798734.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ytttsv1511798734.jpg/small",
+      "alt_text": "Photo of Fennel Dauphinoise",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=tXBzZm2kkh8"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "fe8f07a1-591f-5711-ae5b-f3c9afcc3e60",
+        "slug": "french",
+        "name": "French"
+      }
+    ],
+    "tags": [
+      "pie",
+      "sidedish"
+    ],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 50,
+    "total_time_minutes": 60
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 ramekin"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "d9fba2fe-5167-5de8-9538-28fbea98bb6e",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "2b10f3c5-d324-5b20-abe9-73f4fec743cf",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "225g Potatoes",
+          "quantity": 225.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 225.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "14bbb257-4c35-58cf-a0b3-c532e0e137f1",
+          "ingredient_id": "90f6a581-b68c-51b8-bbe5-4d91c3f1b0ce",
+          "name": "fennel",
+          "display_text": "1 small Fennel",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ac183d01-c5d9-5b3e-9b77-27f0a2f3a03b",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove finely chopped Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1b56ba34-4bb9-540f-a80f-423dfeea58e5",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "75 ml Milk",
+          "quantity": 75.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "e5881f46-7aad-53a4-b14c-de1156652dc0",
+          "ingredient_id": "81b5723b-47de-5017-987f-cdcc95dd362b",
+          "name": "double cream",
+          "display_text": "100ml Double Cream",
+          "quantity": 100.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "7da634ec-483d-5d67-b210-d8e5d0dc46e5",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "For Greasing Butter",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "for greasing",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "3e4957f7-9ad6-5cc0-a62a-678c4a10c242",
+          "ingredient_id": "7db471f0-9bfa-5aae-91f1-5642980cae0d",
+          "name": "parmesan cheese",
+          "display_text": "to serve Parmesan Cheese",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 180C/160C fan/gas 4. Put potatoes, fennel, and garlic in a medium non-stick pan. Pour in milk and double cream, season well and simmer gently, covered, for 10 mins, stirring halfway through, until potatoes are just tender.",
+      "timer_seconds": 600,
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "2b10f3c5-d324-5b20-abe9-73f4fec743cf",
+        "14bbb257-4c35-58cf-a0b3-c532e0e137f1",
+        "ac183d01-c5d9-5b3e-9b77-27f0a2f3a03b",
+        "1b56ba34-4bb9-540f-a80f-423dfeea58e5",
+        "e5881f46-7aad-53a4-b14c-de1156652dc0"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Divide the mixture between 2 small (about 150ml) buttered ramekins and scatter with Parmesan. Bake for 40 mins until the potatoes are golden and tender when pierced with a knife. Snip the reserved fennel fronds over before serving.",
+      "timer_seconds": 2400,
+      "ingredients_used": [
+        "2b10f3c5-d324-5b20-abe9-73f4fec743cf",
+        "14bbb257-4c35-58cf-a0b3-c532e0e137f1",
+        "7da634ec-483d-5d67-b210-d8e5d0dc46e5"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/fennel-dauphinoise"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

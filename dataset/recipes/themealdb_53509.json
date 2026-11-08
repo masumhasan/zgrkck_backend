@@ -1,0 +1,192 @@
+{
+  "id": "79007137-08ef-55d0-9b7d-74ef3e3198b7",
+  "version": "1.0.0",
+  "title": "Fried Crab",
+  "slug": "fried-crab",
+  "summary": "A Caymanian seafood dish featuring crab meat sautéed with onions and scotch bonnet peppers. It is traditionally served alongside starchy vegetables like breadfruit or plantain.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:40:27Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53509"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/rprcc51782774240.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/rprcc51782774240.jpg/small",
+      "alt_text": "Photo of Fried Crab",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c09eb408-33f5-5580-b0b4-cd787ea520ba",
+        "slug": "caymanian",
+        "name": "Caymanian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of crab meat with vegetables"
+  },
+  "allergens": {
+    "contains": [
+      "fish",
+      "shellfish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "fadc4ca8-8672-5dc5-9e77-8bdf200704a3",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "6fc7e24f-9317-5148-9d00-dfde7c84f41a",
+          "ingredient_id": "c7dd2343-a24f-540e-be18-88e29fb089bd",
+          "name": "crab meay",
+          "display_text": "1 lb Crab Meay",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "691df83b-ef25-5695-a894-1fbb5464fdd8",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onions",
+          "display_text": "2 medium Onions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "701bbd0c-4d11-5419-9f60-63d8bab404ca",
+          "ingredient_id": "cfe71375-907d-57ad-936c-b27b60946f4e",
+          "name": "scotch bonnet",
+          "display_text": "1 Scotch Bonnet",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "bc63e817-d3a9-5df8-a8ba-e496b3c4bc11",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1/2 tsp Black Pepper",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "ec2d3b02-4362-5d28-aa78-a70bd07f6baa",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "2a7d0801-fb10-574a-82e5-8ba535aa9565",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "1/4 cup Oil",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Wash crabs and boil in large pot of water for 15 minutes, remove from boiling water and cool. Crack legs and open backs to remove all meat, set aside.",
+      "timer_seconds": 900
+    },
+    {
+      "step_number": 2,
+      "instruction": "Remove seeds from scotch bonnet pepper and dice pepper and onions. Sauté onions and scotch bonnet peppers in oil over medium heat until onions begin to get transparent. Add crab meat, black pepper and salt, stirring occasionally. Cook over medium heat for an additional 5 to 10 minutes.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "691df83b-ef25-5695-a894-1fbb5464fdd8",
+        "701bbd0c-4d11-5419-9f60-63d8bab404ca",
+        "bc63e817-d3a9-5df8-a8ba-e496b3c4bc11",
+        "ec2d3b02-4362-5d28-aa78-a70bd07f6baa",
+        "2a7d0801-fb10-574a-82e5-8ba535aa9565"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Serve with “bread kind”, a local dish that consists of a variety of starchy vegetables including pumpkin, squash, plantain, potato, cassava and breadfruit."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Optional: Seasoned crab meat may also be stuffed in cleaned crab backs and baked. Cover stuffed backs with foil paper and bake at 350 degrees for 30 minutes.",
+      "timer_seconds": 1800
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.ourcayman.ky/en-us/about/more-about-cayman/recipes"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

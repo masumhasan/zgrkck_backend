@@ -1,0 +1,248 @@
+{
+  "id": "8ade9276-bf7e-5ac8-bc61-e55ac70aa892",
+  "version": "1.0.0",
+  "title": "Mini butter buns",
+  "slug": "mini-butter-buns",
+  "summary": "Soft, enriched Dominican-style bread rolls made with milk, butter, and eggs. These mini buns are ideal for breakfast or as a side for savory dishes.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:45:02Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53560"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/l6hj9a1784668199.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/l6hj9a1784668199.jpg/small",
+      "alt_text": "Photo of Mini butter buns",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4da88d96-f05f-5f73-a14b-c5e37ee2541e",
+        "slug": "dominican",
+        "name": "Dominican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "snack"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 32,
+    "rest_time_minutes": 90,
+    "total_time_minutes": 142
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "bowls",
+    "serving_size_description": "2 mini buns"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "9a1cbd35-b212-5b7e-a347-9731ad265c4e",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "32917de0-7c24-5916-8f32-f08ec6e45d21",
+          "ingredient_id": "a19f20cb-af95-543e-a9f8-a0b7899f7ca7",
+          "name": "bread flour",
+          "display_text": "4-5 pound Bread Flour",
+          "quantity": 4.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 1814.4,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "09b43ea1-9a90-57fa-9fd5-0c5387f28472",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "6 cups Milk",
+          "quantity": 6.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 1440.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "da14613c-d17b-55c0-8909-3f679cd9197f",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "3  tablespoons Sugar",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "8854c487-01e9-5dea-b073-890d851f509e",
+          "ingredient_id": "bcf92c24-98f5-5008-9313-143efe51268b",
+          "name": "instant yeast",
+          "display_text": "1 ½ tbsp Instant Yeast",
+          "quantity": 1.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 22.5,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "9e27ab8f-181c-598b-8c68-7bb6cff7507b",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "2 1/2 Tsp Salt",
+          "quantity": 2.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 12.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "920ce9bc-c658-5174-82be-051943bbc4d2",
+          "ingredient_id": "bc46b2a6-8a59-50ee-a044-ce38bddb125c",
+          "name": "unsalted butter",
+          "display_text": "10 tblsp Unsalted Butter",
+          "quantity": 10.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "058aff69-b238-504c-b3b2-c695ba03431d",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "2 Egg",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Combine the flour, the sugar, yeast, and salt in a mixing bowl or large bowl",
+      "ingredients_used": [
+        "da14613c-d17b-55c0-8909-3f679cd9197f",
+        "8854c487-01e9-5dea-b073-890d851f509e",
+        "9e27ab8f-181c-598b-8c68-7bb6cff7507b"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add warm milk and start kneading dough",
+      "ingredients_used": [
+        "09b43ea1-9a90-57fa-9fd5-0c5387f28472"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Once the dough is smooth and elastic, add the butter and continue kneading",
+      "ingredients_used": [
+        "920ce9bc-c658-5174-82be-051943bbc4d2"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Allow the dough to rise in a covered bowl until it’s doubled in bulk, about 90 minutes.",
+      "timer_seconds": 5400
+    },
+    {
+      "step_number": 5,
+      "instruction": "Turn the dough out onto a lightly floured surface, divide dough and round all of the pieces into smooth balls."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Lightly grease pans"
+    },
+    {
+      "step_number": 7,
+      "instruction": "Place dough on pan"
+    },
+    {
+      "step_number": 8,
+      "instruction": "Cover the pans, and let the loaves rise until they're puffy and soft"
+    },
+    {
+      "step_number": 9,
+      "instruction": "Using a brush, add egg whites to loaves",
+      "ingredients_used": [
+        "058aff69-b238-504c-b3b2-c695ba03431d"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "Towards the end of the rising time, preheat the oven to 375°F",
+      "temperature": {
+        "value": 375,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 11,
+      "instruction": "Uncover the loaves, and bake them for 28 to 32 minutes, until their crust is golden brown",
+      "timer_seconds": 1920
+    },
+    {
+      "step_number": 12,
+      "instruction": "Remove from oven and enjoy"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://dominicagourmet.com/mini-lobster-bread-bowls/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

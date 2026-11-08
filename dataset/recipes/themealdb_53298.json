@@ -1,0 +1,370 @@
+{
+  "id": "72f1f13e-6c0b-5761-9b55-8f91fac68c61",
+  "version": "1.0.0",
+  "title": "Polish doughnuts (Pączki)",
+  "slug": "polish-doughnuts-paczki",
+  "summary": "Traditional Polish doughnuts made from a rich, yeast-leavened dough, typically filled with jam and finished with a glaze.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:21:49Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53298"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/x6jqog1764359857.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/x6jqog1764359857.jpg/small",
+      "alt_text": "Photo of Polish doughnuts (Pączki)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=17jL5nZrgPw"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d40b0607-0a3a-5f5d-8012-7eaf1b714fa5",
+        "slug": "polish",
+        "name": "Polish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert",
+      "snack"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "advanced",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 15,
+    "rest_time_minutes": 150,
+    "total_time_minutes": 195
+  },
+  "yield": {
+    "servings": 16,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 doughnut"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "tree_nuts",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "1566f31d-1b4d-51d3-be48-b3415b762d7b",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "32a31fed-b5a4-537a-ad3d-2855935a8b6e",
+          "ingredient_id": "28b21302-909b-59d3-a88f-a543e26ac34f",
+          "name": "yeast",
+          "display_text": "10g Yeast",
+          "quantity": 10.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "ce503577-a128-597d-bdfd-e7fe5783d8e6",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "1 tsp Caster Sugar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "32cc53ef-84f7-5aa7-ad14-ab9d4ef429da",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "1 tablespoon Flour",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "8aac4272-0240-5325-9590-2838a61c6443",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "125ml Milk",
+          "quantity": 125.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 125.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "dff7898c-b25c-5bd6-9106-9906f10314db",
+          "ingredient_id": "051a3118-01a4-5366-a922-19ecf618e2f9",
+          "name": "egg yolks",
+          "display_text": "7 Egg Yolks",
+          "quantity": 7.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "fffb57d9-8838-5756-a193-626d593f8060",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "15g Sugar",
+          "quantity": 15.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "2d6b31d6-63f1-5840-a610-185220c10c0d",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "10g Caster Sugar",
+          "quantity": 10.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "fc2bacea-7012-5762-80db-5935b2fc13ae",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1 tsp Vanilla Extract",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "af0fadce-68fe-59da-a195-4a046f2b0479",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "500g Flour",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "69f63764-987e-5a0e-b0ef-4d469772cb63",
+          "ingredient_id": "81b5723b-47de-5017-987f-cdcc95dd362b",
+          "name": "double cream",
+          "display_text": "200ml Double Cream",
+          "quantity": 200.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "31027271-be41-5f22-9073-70a18e33c12f",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "15g Butter",
+          "quantity": 15.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "a7d4822f-fdf2-5d07-87e0-3a20050bd10b",
+          "ingredient_id": "0db24971-f1c6-5bf8-994e-61a8358d553c",
+          "name": "jam",
+          "display_text": "125ml Jam",
+          "quantity": 125.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 125.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "86e61ce1-7b4d-5e14-be70-a7c204daa951",
+          "ingredient_id": "41e42808-3e57-5cd0-b774-00a901be35d9",
+          "name": "ground almonds",
+          "display_text": "10g Ground Almonds",
+          "quantity": 10.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "2ae75fc1-0090-58d4-a608-aa8027b1e669",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "For frying Oil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "for frying",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "2018cf5a-771f-5646-bbc0-f5becb82654e",
+          "ingredient_id": "c3b952d9-9879-569e-a989-b29a9b7ec664",
+          "name": "icing sugar",
+          "display_text": "75g Icing Sugar",
+          "quantity": 75.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "f6a6b793-1392-5ffa-8147-14bdf9813676",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "Juice of 1/2 Lemon",
+          "quantity": 0.5,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d98fab97-f083-551e-a84f-c55e366dd727",
+          "ingredient_id": "7580944b-0166-5315-a671-4d609bec5e2b",
+          "name": "almond essence",
+          "display_text": "Dash Almond Essence",
+          "quantity": 1,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "a68448b8-fab9-5781-8979-b124e1d6ea1f",
+          "ingredient_id": "1f65be5f-ad9d-5713-aca2-600f7b2a1ee8",
+          "name": "almonds",
+          "display_text": "50g Almonds",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "To make the leaven, mix the yeast with the sugar and flour, and stir in the warm milk. Set aside in a warm place for 30 minutes.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "32a31fed-b5a4-537a-ad3d-2855935a8b6e",
+        "32cc53ef-84f7-5aa7-ad14-ab9d4ef429da",
+        "8aac4272-0240-5325-9590-2838a61c6443",
+        "fffb57d9-8838-5756-a193-626d593f8060",
+        "af0fadce-68fe-59da-a195-4a046f2b0479"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "For the dough, put egg yolks into a heatproof bowl and add the sugar and vanilla sugar. Set the bowl over a pan of simmering water and whisk until smooth and thick.",
+      "ingredients_used": [
+        "dff7898c-b25c-5bd6-9106-9906f10314db",
+        "fffb57d9-8838-5756-a193-626d593f8060"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Sift the flour into the bowl of a stand mixer, add the beaten yolks and the warm cream, mix thoroughly, then add a pinch of salt and the leaven. Bring together to make a dough and knead for 10 minutes (or 15-20 if doing this by hand).",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "32cc53ef-84f7-5aa7-ad14-ab9d4ef429da",
+        "dff7898c-b25c-5bd6-9106-9906f10314db",
+        "af0fadce-68fe-59da-a195-4a046f2b0479"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "When the dough stops sticking to your hands, pour in the cooled melted butter and knead for a few more minutes. Cover with a cloth and leave in a warm place to rise for at least 1 hr-1 hr 30 mins.",
+      "ingredients_used": [
+        "31027271-be41-5f22-9073-70a18e33c12f"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Mix the jam with the ground almonds and spoon into a piping bag or jam syringe. Divide the dough into 16 pieces and shape them into doughnuts. Cover and leave to rise for 30 mins.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "a7d4822f-fdf2-5d07-87e0-3a20050bd10b",
+        "86e61ce1-7b4d-5e14-be70-a7c204daa951",
+        "a68448b8-fab9-5781-8979-b124e1d6ea1f"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Fill a deep pan or a deep fat fryer one third full of oil or melted lard and heat it until it is 180C – if you don’t have a thermometer, drop in a small chunk of bread. The oil is ready when it browns in about 30 secs. Add the doughnuts and fry, turning them once for about 1-2 mins on each side (a thin lighter ring should form in the middle). After removing, drain the doughnuts of excess fat on some kitchen paper.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "2ae75fc1-0090-58d4-a608-aa8027b1e669"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/polish-doughnuts"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

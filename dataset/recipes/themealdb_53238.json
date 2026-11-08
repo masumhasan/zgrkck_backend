@@ -1,0 +1,322 @@
+{
+  "id": "09451712-1a9c-58b3-9244-6e786890632f",
+  "version": "1.0.0",
+  "title": "Beef pho",
+  "slug": "beef-pho",
+  "summary": "A Vietnamese beef noodle soup featuring a fragrant, spiced broth made with charred onion, ginger, and aromatic spices, served with thinly sliced steak and rice noodles.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:16:26Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53238"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/pbzcrx1763765096.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/pbzcrx1763765096.jpg/small",
+      "alt_text": "Photo of Beef pho",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=WlosNFMCnE4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "60481cf3-a7b7-5be4-a0dc-6b872c887e64",
+        "slug": "vietnamese",
+        "name": "Vietnamese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 40,
+    "rest_time_minutes": 15,
+    "total_time_minutes": 75
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of noodle soup with beef"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "6d337a9e-f83b-5aaa-8e11-e61ed796c18b",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "f8c24511-ac71-5cef-a3d7-9846122fd4b5",
+          "ingredient_id": "39a746ef-3300-5229-b0b2-3e03970ea60c",
+          "name": "beef stock",
+          "display_text": "1 L Beef Stock",
+          "quantity": 1.0,
+          "unit": "liter",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "liter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "cdf3092e-6ce8-5eff-9dd6-11674471bdd0",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 large Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "cde85fae-3919-5b67-84ca-c026eb951cc3",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "1 Large Chopped Ginger",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "48e579fb-e6dd-5af0-8409-09f42c4bba01",
+          "ingredient_id": "815267d7-ad8f-543a-b885-c3fdabdc63fb",
+          "name": "cinnamon stick",
+          "display_text": "1 Cinnamon Stick",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "564067b1-3ae5-5b22-ad8a-1206cabb3bd4",
+          "ingredient_id": "64157e8a-c6c6-55a2-a87b-181db452c2d2",
+          "name": "star anise",
+          "display_text": "2 Star Anise",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e599917b-d188-567d-ad01-036c83674949",
+          "ingredient_id": "d7fa7566-db8c-5153-805f-cd48c44a5b58",
+          "name": "coriander seeds",
+          "display_text": "1 tsp Coriander Seeds",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "959d4fbf-c4b6-5928-9f2d-b9531445900d",
+          "ingredient_id": "73063cfc-1094-5f58-87bf-49227197f2a2",
+          "name": "cloves",
+          "display_text": "1/2 teaspoon Cloves",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "449d0706-8407-5e5a-8f99-d8f5590238b5",
+          "ingredient_id": "febc81fb-5cd0-554c-b824-0241486907eb",
+          "name": "sirloin steak",
+          "display_text": "225g Sirloin steak",
+          "quantity": 225.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 225.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "17ed9f39-c98f-5ed7-9211-f701158846ce",
+          "ingredient_id": "a6dcdf7a-4604-5baa-8ac6-c4575ee672dc",
+          "name": "palm sugar",
+          "display_text": "1 tsp Palm Sugar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "66290fb0-68c7-5048-9a15-8971a821b348",
+          "ingredient_id": "de927c20-fdfa-5b98-8ee9-7840fa951a2f",
+          "name": "fish sauce",
+          "display_text": "1 tablespoon Fish Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "b496b3d2-efb7-5c4d-b092-a393e261b2ed",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "1 ½ tbsp Soy Sauce",
+          "quantity": 1.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 22.5,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "12bdd226-728d-555e-ae6e-2049e338a41c",
+          "ingredient_id": "26534aa9-d664-5446-96c6-a499ce56a3fe",
+          "name": "rice noodles",
+          "display_text": "200g Rice Noodles",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "da05fabd-69dc-514a-bd90-3b5a7069289b",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "2 sliced Spring Onions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "253aea28-bdef-56ec-988d-15006b2345e5",
+          "ingredient_id": "c34401c7-b5ba-5c77-b08c-3f81a2f87c95",
+          "name": "birds-eye chillies",
+          "display_text": "1 small Birds-eye Chillies",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ab1c4293-a42f-5fe7-ab2d-e6c3d74bd2c1",
+          "ingredient_id": "fc6a825e-e02a-589c-91d6-b4e76ccc6354",
+          "name": "basil",
+          "display_text": "Handful Basil",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "02a48d7f-d1ce-58a6-8fd8-b465c92768f0",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "Handful Coriander",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1fce4f0f-96dc-5a95-acdd-0b8859b10725",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "1 Lime",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Tip the beef stock along with 500ml of water into a large saucepan. Sit the onion and ginger in a frying pan over a high heat and char on all sides, around 3-5 mins (you can also do this under your grill). Once charred, add to the beef stock. In the same pan, toast the spices for 2-3 mins and once they begin to smell fragrant, add them to the beef stock as well. Bring the stock to the boil, then turn to a simmer and cook for 30mins before straining.",
+      "ingredients_used": [
+        "f8c24511-ac71-5cef-a3d7-9846122fd4b5",
+        "cdf3092e-6ce8-5eff-9dd6-11674471bdd0",
+        "cde85fae-3919-5b67-84ca-c026eb951cc3"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Meanwhile, cut the fat from the steak and wrap in cling film, then put into the freezer for 15 mins – this will make your steak really easy to slice! Slice it thinly, then cover with cling film again and pop into the fridge.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "449d0706-8407-5e5a-8f99-d8f5590238b5"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Taste the beef stock and use the palm sugar, fish sauce and soy to season. Cook the noodles according to package instructions and split between two bowls, topping each with the sliced beef. Bring the stock to the boil and then pour into the bowls (the heat will cook the beef). Top each with the spring onions, chilli slices and herbs. Serve with the lime wedges to squeeze over.",
+      "ingredients_used": [
+        "f8c24511-ac71-5cef-a3d7-9846122fd4b5",
+        "cdf3092e-6ce8-5eff-9dd6-11674471bdd0",
+        "17ed9f39-c98f-5ed7-9211-f701158846ce",
+        "66290fb0-68c7-5048-9a15-8971a821b348",
+        "12bdd226-728d-555e-ae6e-2049e338a41c",
+        "da05fabd-69dc-514a-bd90-3b5a7069289b",
+        "1fce4f0f-96dc-5a95-acdd-0b8859b10725"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/beef-pho"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

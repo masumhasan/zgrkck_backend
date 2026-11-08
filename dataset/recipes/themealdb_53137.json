@@ -1,0 +1,190 @@
+{
+  "id": "e834ef1d-03dd-5c13-bba2-40812bbbc303",
+  "version": "1.0.0",
+  "title": "Dulce de Leche",
+  "slug": "dulce-de-leche",
+  "summary": "A traditional Argentine caramel sauce made by slowly simmering milk and sugar until thickened and deep brown.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:07:34Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53137"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/jyjlhj1763075323.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/jyjlhj1763075323.jpg/small",
+      "alt_text": "Photo of Dulce de Leche",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=2J0ICGYsBL4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "52cab25e-aedf-58a6-a869-20df96a19448",
+        "slug": "argentine",
+        "name": "Argentine"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 120,
+    "total_time_minutes": 125
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "portions",
+    "serving_size_description": "a few tablespoons"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "bb8661c5-2405-5f84-a88c-701ddb28808e",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "49f235d4-bd63-5ce8-8c48-789ba759b179",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "1 Liter Milk",
+          "quantity": 1.0,
+          "unit": "liter",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "liter",
+          "category": "dairy"
+        },
+        {
+          "id": "675521af-a582-507b-8340-82ad985e6f98",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "300g Sugar",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "a4c2ec0c-66c0-5700-8db9-b7867d7eb585",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1/4 tsp Baking Powder",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "ede42518-aa13-5cf8-9cd0-87fa7bf2df1c",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1 teaspoon Vanilla Extract",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Combine Ingredients: In a large, heavy-bottomed pot, mix the milk, sugar, and baking soda. Cook over low heat, stirring constantly to prevent burning.",
+      "ingredients_used": [
+        "49f235d4-bd63-5ce8-8c48-789ba759b179",
+        "675521af-a582-507b-8340-82ad985e6f98"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Thicken: Continue to cook, stirring frequently, until the mixture becomes thick and caramel-colored, about 1-2 hours.",
+      "timer_seconds": 7200
+    },
+    {
+      "step_number": 3,
+      "instruction": "Flavor: Stir in the vanilla extract.",
+      "ingredients_used": [
+        "ede42518-aa13-5cf8-9cd0-87fa7bf2df1c"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Cool: Let the dulce de leche cool, then transfer to a jar. It will thicken further as it cools."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Pro Tips:"
+    },
+    {
+      "step_number": 6,
+      "instruction": "Stir continuously and keep the heat low to prevent the milk from burning and sticking to the bottom of the pan.",
+      "ingredients_used": [
+        "49f235d4-bd63-5ce8-8c48-789ba759b179"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "A drop of vanilla extract added at the end of cooking enhances the flavor.",
+      "ingredients_used": [
+        "ede42518-aa13-5cf8-9cd0-87fa7bf2df1c"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.munchery.com/blog/the-ten-iconic-dishes-of-argentina-and-how-to-cook-them-at-home/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

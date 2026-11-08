@@ -1,0 +1,280 @@
+{
+  "id": "5d183095-eb6a-5e76-8c8b-e764ac93787f",
+  "version": "1.0.0",
+  "title": "Ezme",
+  "slug": "ezme",
+  "summary": "A traditional Turkish spicy vegetable salad made from finely chopped tomatoes, peppers, and onions seasoned with pomegranate molasses and various spices.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:18:00Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53254"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/pb6mj11763788331.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/pb6mj11763788331.jpg/small",
+      "alt_text": "Photo of Ezme",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Z1mX-C2fAuc"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4c480df7-c067-5e9c-ac08-d8d49afa7f51",
+        "slug": "turkish",
+        "name": "Turkish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "courses": [
+      "appetizer",
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 15
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of ezme"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "4a8ac017-b5e5-5da0-a739-e17e569c2ecd",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "37c476c8-f479-5183-a97b-1ad1c267758d",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "3 Large Tomato",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "165f76cb-14b2-524c-83ae-3c160f63362c",
+          "ingredient_id": "028c605d-96da-5913-855a-dba460639123",
+          "name": "romano pepper",
+          "display_text": "1 medium Romano Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "a9eaba5a-7e36-5648-bad2-671fad6493db",
+          "ingredient_id": "091f7fa6-975c-516e-a354-2a31e6503580",
+          "name": "green chilli",
+          "display_text": "1 medium Green Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "50685221-3baa-5170-9dad-30aa6af0da5e",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 small Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f00d3a20-55d8-5899-bee7-77a12a261352",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves minced Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "minced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "9b8edbb3-3aa0-5b72-8c58-1929eb29d960",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "25g Parsley",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e522ee55-be51-5614-958c-d13327537315",
+          "ingredient_id": "f589ad84-9ded-5cd2-8088-82650f46e8f7",
+          "name": "red pepper paste",
+          "display_text": "2 tablespoons Red Pepper Paste",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "90c41c92-120e-5285-a47a-3efe3066fa19",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "1 tablespoon Tomato Puree",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "a34cee74-4d7b-5357-b584-bb184091df54",
+          "ingredient_id": "ae9fff77-3c93-5c9c-8dbc-0a2e0efbf929",
+          "name": "pomegranate molasses",
+          "display_text": "2 tablespoons Pomegranate Molasses",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "a820f86f-0b94-5265-bd7d-872aca8b753c",
+          "ingredient_id": "0c7e3e27-e5dd-572b-8687-b9df60633f5c",
+          "name": "pul biber",
+          "display_text": "1 tablespoon Pul Biber",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "2186f5f7-5e59-52ee-a185-acc45fe50c76",
+          "ingredient_id": "e65d5dfe-6e95-5d03-b15b-458c3f606409",
+          "name": "sumac",
+          "display_text": "2 tsp Sumac",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "480d491f-f94e-50f0-a586-a8cee4543cca",
+          "ingredient_id": "fdc4c2c2-c7f6-52bb-a4dd-06d8021062d2",
+          "name": "dried mint",
+          "display_text": "1 tablespoon Dried Mint",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "4b49d7a5-9c19-558d-afb9-46e7f8efe508",
+          "ingredient_id": "96cc0c2b-795a-53be-a503-05d14e92b236",
+          "name": "extra virgin olive oil",
+          "display_text": "60 ml Extra Virgin Olive Oil",
+          "quantity": 60.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Put the tomatoes and all of the peppers in a food processor and blitz until finely chopped. Tip out into a sieve, set over a bowl and leave to strain. Add the onions, garlic and parsley to the food processor and blitz until finely chopped, then set aside.",
+      "ingredients_used": [
+        "37c476c8-f479-5183-a97b-1ad1c267758d",
+        "50685221-3baa-5170-9dad-30aa6af0da5e",
+        "f00d3a20-55d8-5899-bee7-77a12a261352",
+        "9b8edbb3-3aa0-5b72-8c58-1929eb29d960"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add red pepper paste, tomato purée, pomegranate molasses, pul biber, sumac, dried mint and most of the extra virgin olive oil to a serving bowl and whisk well so everything comes together as a sauce. Tip in the blitzed onion mixture and the strained pepper mixture along with 1 tsp flaky sea salt . Stir well, then drizzle with the remaining extra virgin olive oil to serve.",
+      "ingredients_used": [
+        "37c476c8-f479-5183-a97b-1ad1c267758d",
+        "50685221-3baa-5170-9dad-30aa6af0da5e",
+        "e522ee55-be51-5614-958c-d13327537315",
+        "a34cee74-4d7b-5357-b584-bb184091df54",
+        "a820f86f-0b94-5265-bd7d-872aca8b753c",
+        "2186f5f7-5e59-52ee-a185-acc45fe50c76",
+        "480d491f-f94e-50f0-a586-a8cee4543cca",
+        "4b49d7a5-9c19-558d-afb9-46e7f8efe508"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/ezme"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "id": "b6cad9bc-d382-51d1-a68f-397640f4a9de",
+  "version": "1.0.0",
+  "title": "Chicken and Potato Roti",
+  "slug": "chicken-and-potato-roti",
+  "summary": "A Barbadian dish featuring spiced chicken and potatoes served inside soft, handmade roti skins.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:36:06Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53459"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/mp9z0i1782238092.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/mp9z0i1782238092.jpg/small",
+      "alt_text": "Photo of Chicken and Potato Roti",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=2ehdHb1rcAQ"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "71413a66-c12a-5aba-a038-e60b4b3fcacc",
+        "slug": "barbadian",
+        "name": "Barbadian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": [
+      "easter"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 56,
+    "total_time_minutes": 76
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1 roti skin with chicken and potato filling"
+  },
+  "allergens": {
+    "contains": [
+      "gluten"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "fish",
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "c8fd095a-f5d1-50a3-8f7c-7a6b59daddc3",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "9872075e-32d0-520e-a48a-cca5be802ba7",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "1 lb Flour",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "fa7f4f6a-2aff-5809-ae77-641729e4bf33",
+          "ingredient_id": "cf50c57a-f58a-5262-9fc9-cdfb406e4c9d",
+          "name": "shortening",
+          "display_text": "3  tablespoons Shortening",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "68e9531d-70c8-5d4a-8a51-17f3a19edd06",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "cd7fd805-cb1e-5ec1-be9a-b25a41487685",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "Splash Water",
+          "quantity": 1,
+          "unit": "splash",
+          "is_optional": false,
+          "category": "beverages"
+        },
+        {
+          "id": "79b8e19c-2819-55c5-8fa4-7f7403f3d59b",
+          "ingredient_id": "e23191a1-4966-5b21-a6f1-8df6f50b79db",
+          "name": "chicken breast",
+          "display_text": "6 Chicken Breast",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "8d1aef7e-e716-570f-8554-441e2e7f887a",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Pinch Parsley",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "fa996ea2-b4cb-534e-afaa-932b54a9e165",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "Pinch Thyme",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1d80da5e-967e-5fa5-bf86-9356640e6eea",
+          "ingredient_id": "0ba7d824-cd4b-524b-ad45-e6f8cd757601",
+          "name": "jerk",
+          "display_text": "Pinch Jerk",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "4a8eb43f-6513-5030-bd9f-3ad23f5e6d2b",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "fd533c93-081a-52e3-af6b-d7e876d00780",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "Pinch Sugar",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "sweeteners"
+        },
+        {
+          "id": "a62138d3-a49c-5e8d-b973-12d4c0969b4b",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "Pinch Black Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "53756e92-e642-59e3-ac8f-0f51c92cde48",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "2 large Onion",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "844f99ac-75c0-53eb-a638-43c71d116609",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "4 cloves Garlic",
+          "quantity": 4.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0c4411bc-6369-5495-96c3-9181d2dcf06a",
+          "ingredient_id": "cfe71375-907d-57ad-936c-b27b60946f4e",
+          "name": "scotch bonnet",
+          "display_text": "1 Scotch Bonnet",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "89987de7-8fdd-53d8-b300-c87cfb174e7a",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "1/2 lb Potatoes",
+          "quantity": 0.5,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 226.8,
+          "metric_unit": "gram",
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Add a pint of chicken stock to the simmer and put three tablespoons of sugar into a large saucepan on high; cook until the sugar caramelizes, then add the cubed chicken breasts and stir until the chicken browns.",
+      "ingredients_used": [
+        "79b8e19c-2819-55c5-8fa4-7f7403f3d59b",
+        "fd533c93-081a-52e3-af6b-d7e876d00780"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add chopped onions, garlic, parsley, thyme, jerk seasoning, salt, and the whole scotch bonnet pepper – do not cut up the pepper! Reduce the heat to low and let this simmer for 25 minutes.",
+      "timer_seconds": 1500,
+      "ingredients_used": [
+        "68e9531d-70c8-5d4a-8a51-17f3a19edd06",
+        "8d1aef7e-e716-570f-8554-441e2e7f887a",
+        "fa996ea2-b4cb-534e-afaa-932b54a9e165",
+        "1d80da5e-967e-5fa5-bf86-9356640e6eea",
+        "4a8eb43f-6513-5030-bd9f-3ad23f5e6d2b",
+        "53756e92-e642-59e3-ac8f-0f51c92cde48",
+        "844f99ac-75c0-53eb-a638-43c71d116609",
+        "0c4411bc-6369-5495-96c3-9181d2dcf06a"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "In a large mixing bowl, sift the flour, and add a pinch of salt to taste.",
+      "ingredients_used": [
+        "9872075e-32d0-520e-a48a-cca5be802ba7",
+        "68e9531d-70c8-5d4a-8a51-17f3a19edd06",
+        "4a8eb43f-6513-5030-bd9f-3ad23f5e6d2b"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Now add the first tablespoon of shortening, and with your fingers, rub the flour into the shortening until it forms a breadcrumb-like consistency.",
+      "ingredients_used": [
+        "9872075e-32d0-520e-a48a-cca5be802ba7",
+        "fa7f4f6a-2aff-5809-ae77-641729e4bf33"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Then add the second tablespoon of shortening and rub against the flour until it looks like breadcrumbs.",
+      "ingredients_used": [
+        "9872075e-32d0-520e-a48a-cca5be802ba7",
+        "fa7f4f6a-2aff-5809-ae77-641729e4bf33"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Now add the third tablespoon of shortening and repeat the process.",
+      "ingredients_used": [
+        "fa7f4f6a-2aff-5809-ae77-641729e4bf33"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "You should by now have used all the flour. Your bowl should be all breadcrumb-like; if you still have fresh flour, use another tablespoon of shortening until your fresh flour is all used up.",
+      "ingredients_used": [
+        "9872075e-32d0-520e-a48a-cca5be802ba7",
+        "fa7f4f6a-2aff-5809-ae77-641729e4bf33"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Add a small amount of water and mix with a butter knife; keep adding small amounts until your mixture forms a soft dough.",
+      "ingredients_used": [
+        "cd7fd805-cb1e-5ec1-be9a-b25a41487685"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Now dust your surface with flour and roll out your pastry; you want to roll wafer-thin rounds – this mixture should make at least 12 roti skins.",
+      "ingredients_used": [
+        "9872075e-32d0-520e-a48a-cca5be802ba7"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "Cover with a tea towel while returning to the pot."
+    },
+    {
+      "step_number": 11,
+      "instruction": "Now peel the potatoes and cube them into small bite-size pieces.",
+      "ingredients_used": [
+        "89987de7-8fdd-53d8-b300-c87cfb174e7a"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "After 25 minutes of simmering, add 1/2 pint of water and the potatoes to the pool.",
+      "timer_seconds": 1500,
+      "ingredients_used": [
+        "cd7fd805-cb1e-5ec1-be9a-b25a41487685",
+        "89987de7-8fdd-53d8-b300-c87cfb174e7a"
+      ]
+    },
+    {
+      "step_number": 13,
+      "instruction": "Now cover and cook for 30 minutes on low heat.",
+      "timer_seconds": 1800
+    },
+    {
+      "step_number": 14,
+      "instruction": "Turn a flat baking tray upside down, lightly cover with foil, and place on the stovetop on high; cook each roti skin for 1 minute on each side until brown but not crisp.",
+      "timer_seconds": 60
+    },
+    {
+      "step_number": 15,
+      "instruction": "Now pile up your cooked roti skins, remove the pot after 30 minutes, and remove the whole scotch bonnet.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "0c4411bc-6369-5495-96c3-9181d2dcf06a"
+      ]
+    },
+    {
+      "step_number": 16,
+      "instruction": "Take the entire pot to the table with a pile of plates; each person assumes the roti skin, lays it flat on the scale, spoons some filling into the middle of the roti skin, and folds around the filling eats enjoy."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.totallybarbados.com/articles/barbados-recipes/chicken-potato-roti-recipe/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

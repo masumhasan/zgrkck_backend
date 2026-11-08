@@ -1,0 +1,264 @@
+{
+  "id": "7099b447-5ba7-5abc-9aa9-5473b3883675",
+  "version": "1.0.0",
+  "title": "Lamb & apricot meatballs",
+  "slug": "lamb-apricot-meatballs",
+  "summary": "Turkish-style meatballs made with lamb mince, dried apricots, and warm spices, served in a tomato-based sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:19:57Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53277"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/72fgzj1764109947.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/72fgzj1764109947.jpg/small",
+      "alt_text": "Photo of Lamb & apricot meatballs",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=o0UbzRZw-GQ"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4c480df7-c067-5e9c-ac08-d8d49afa7f51",
+        "slug": "turkish",
+        "name": "Turkish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of meatballs with sauce and pita"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "1932deac-e069-57ed-8657-24e127bf4c82",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "edad7fb0-6e61-51a5-9b21-6a68b77b6827",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tablespoons Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "7a1e4768-6859-53ed-b2ea-6f33fb8e4dd6",
+          "ingredient_id": "716f7639-3b59-56a7-9146-1819649ebdad",
+          "name": "red onions",
+          "display_text": "2 chopped Red Onions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1b88b0ab-5a93-54e9-b625-b0f18dfdb7d5",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "4 Cloves Crushed Garlic",
+          "quantity": 4.0,
+          "unit": "clove",
+          "preparation": "crushed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3c0e9b97-2460-5c36-b12d-1539671710a0",
+          "ingredient_id": "efa5be6a-3bc3-55ca-812f-22dd145ba53d",
+          "name": "ground cumin",
+          "display_text": "2 tsp Ground Cumin",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d0605ddc-fcf9-560c-aced-ea32f360cf29",
+          "ingredient_id": "81534384-b0e9-52fb-8b88-01288b93f32a",
+          "name": "ground coriander",
+          "display_text": "2 tsp Ground Coriander",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "6d5a6b27-741c-5313-8b23-dc1e79c4b024",
+          "ingredient_id": "5cf11297-0a5b-55fb-85b2-ff239b80e4f4",
+          "name": "tinned tomatos",
+          "display_text": "400g Tinned Tomatos",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "4d571b89-5496-5d1d-9659-2afb6ee04d79",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1/2 teaspoon Sugar",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "3d95d700-968e-570d-a7bf-28b57fdd40de",
+          "ingredient_id": "0e838047-684d-55cb-884e-e7872e0e96c4",
+          "name": "mint",
+          "display_text": "10g Mint",
+          "quantity": 10.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "gram",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "40f6cba9-651f-5aa3-8031-6a62c6cc4068",
+          "ingredient_id": "4d40d67a-57b5-5c91-91d3-62eba5bf1b7e",
+          "name": "lamb mince",
+          "display_text": "500g Lamb Mince",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "ca7ffd1f-de85-533f-86cc-bf8a115090c0",
+          "ingredient_id": "4e2337c2-e42a-5ed6-9e7b-4b439f982bd2",
+          "name": "dried apricots",
+          "display_text": "8 Dried Apricots",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "d765701b-e0ac-5d19-bb54-3c5c4a326971",
+          "ingredient_id": "00efa231-6d81-5c88-91fa-b330117cc5f4",
+          "name": "breadcrumbs",
+          "display_text": "50g Breadcrumbs",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "cdfbf86d-7678-5d04-99aa-c2a56feabd56",
+          "ingredient_id": "3998084f-e7c2-5364-b223-62058fa4c0c9",
+          "name": "pita bread",
+          "display_text": "To serve Pita Bread",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "grains_pasta"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat 2 tsp oil in a pan and soften the onions for 5 mins. Add the garlic and spices and cook for a few mins more. Spoon half the onion mixture into a bowl and set aside to cool. Add the tomatoes, sugar and seasoning to the remaining onions in the pan and simmer for about 10 mins until reduced.",
+      "ingredients_used": [
+        "7a1e4768-6859-53ed-b2ea-6f33fb8e4dd6",
+        "1b88b0ab-5a93-54e9-b625-b0f18dfdb7d5",
+        "4d571b89-5496-5d1d-9659-2afb6ee04d79"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Meanwhile, add the mint, lamb, apricots and breadcrumbs to the cooled onions, season and mix well with your hands. Shape into little meatballs.",
+      "ingredients_used": [
+        "7a1e4768-6859-53ed-b2ea-6f33fb8e4dd6",
+        "3d95d700-968e-570d-a7bf-28b57fdd40de",
+        "ca7ffd1f-de85-533f-86cc-bf8a115090c0",
+        "d765701b-e0ac-5d19-bb54-3c5c4a326971",
+        "cdfbf86d-7678-5d04-99aa-c2a56feabd56"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Heat the rest of the oil in a non-stick pan and fry the meatballs until golden (in batches if you need to). Stir in the sauce with a splash of water and gently cook everything for a few mins until the meatballs are cooked through. Serve with pitta bread and salad.",
+      "ingredients_used": [
+        "cdfbf86d-7678-5d04-99aa-c2a56feabd56"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/lamb-apricot-meatballs"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

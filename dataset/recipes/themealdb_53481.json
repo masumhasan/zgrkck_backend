@@ -1,0 +1,285 @@
+{
+  "id": "d2fb8cd6-ba0e-5301-9d3f-e7d1f5685a03",
+  "version": "1.0.0",
+  "title": "Bahia-style Moqueca prawn stew",
+  "slug": "bahia-style-moqueca-prawn-stew",
+  "summary": "A Brazilian seafood stew made with prawns, coconut milk, and aromatic vegetables like peppers and onions.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:37:59Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53481"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/e2kcut1782591669.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/e2kcut1782591669.jpg/small",
+      "alt_text": "Photo of Bahia-style Moqueca prawn stew",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6675856e-6919-5ea9-9f7a-8bf7f195e27f",
+        "slug": "brazilian",
+        "name": "Brazilian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 18,
+    "marinating_time_minutes": 60,
+    "total_time_minutes": 93
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a bowl of stew with rice"
+  },
+  "allergens": {
+    "contains": [
+      "fish",
+      "shellfish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "c1f7081a-9a70-507e-8db3-ac7a2f749fd2",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "5b9f3755-dead-5615-bb26-f3296d51613c",
+          "ingredient_id": "c25c2a5c-b6b1-56c4-b863-457dc879b0df",
+          "name": "raw king prawns",
+          "display_text": "450g Raw King Prawns",
+          "quantity": 450.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "a205c1ce-d295-5c3d-a8b8-a537b6bb26fc",
+          "ingredient_id": "36c0f276-68d5-5515-9abe-1ef57bc6eed7",
+          "name": "lime juice",
+          "display_text": "75 ml Lime juice",
+          "quantity": 75.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "ba65f504-2039-51c5-bf4d-1f71414dee7d",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 cloves Chopped Garlic",
+          "quantity": 3.0,
+          "unit": "clove",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "60dc41da-535e-5629-b646-eca598e4e85a",
+          "ingredient_id": "9f7c9445-8f3c-5fe9-8bf3-94ab942533e8",
+          "name": "coconut oil",
+          "display_text": "3  tablespoons Coconut Oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "0aa3254c-dafd-5fc1-bc3a-9b0f793b3b17",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "4 Chopped Spring Onions",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "072940cf-7dcf-5d33-b700-fd82bbad75aa",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b08b362c-3a58-5c9e-8394-f5ed85100645",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1 chopped Red Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "648823e3-a9e6-5449-b598-a9a2424d94c8",
+          "ingredient_id": "25e62537-6a4e-5945-adda-37c29baeffdd",
+          "name": "chilli flakes",
+          "display_text": "1 tsp Chilli Flakes",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1a4ed24c-b549-55ea-8ca0-b9497e345065",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "2 tsp Paprika",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "5757b50b-43c7-5fca-8785-d2b902dc5853",
+          "ingredient_id": "eef09ba5-f0a8-5d2e-a676-6a71ab7f1fab",
+          "name": "plum tomatoes",
+          "display_text": "3 chopped Plum Tomatoes",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "d283e36f-2f0c-5824-97f1-4d5f15f1c85d",
+          "ingredient_id": "0435e55e-84f6-566c-ac81-37617bbab91c",
+          "name": "coconut milk",
+          "display_text": "400ml Coconut Milk",
+          "quantity": 400.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "676d1960-f508-5489-9545-d33ad69fa2d4",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "2 tbs chopped Coriander",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e2701a57-c20d-52c4-a7b9-fd2457d97404",
+          "ingredient_id": "025b8433-c498-5b37-813a-ec00ac6c2ae5",
+          "name": "rice",
+          "display_text": "To serve Rice",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "grains_pasta"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Place the prawns in a bowl with 2 tbsp of the lime juice, 1 tsp of salt and 1 tbsp of the chopped garlic. Chill for 1 hr.",
+      "timer_seconds": 3600,
+      "ingredients_used": [
+        "5b9f3755-dead-5615-bb26-f3296d51613c",
+        "a205c1ce-d295-5c3d-a8b8-a537b6bb26fc",
+        "ba65f504-2039-51c5-bf4d-1f71414dee7d"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat the coconut oil in a large saucepan. Add the spring onion and onion and fry for 5 mins, then add the red pepper, chilli flakes, paprika and remaining garlic.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "ba65f504-2039-51c5-bf4d-1f71414dee7d",
+        "60dc41da-535e-5629-b646-eca598e4e85a",
+        "072940cf-7dcf-5d33-b700-fd82bbad75aa",
+        "b08b362c-3a58-5c9e-8394-f5ed85100645",
+        "648823e3-a9e6-5449-b598-a9a2424d94c8",
+        "1a4ed24c-b549-55ea-8ca0-b9497e345065"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Pour in the tomatoes, coconut milk and a little salt. Bring to a simmer and let reduce for 10 mins. Add the prawns, all the marinade and remaining lime juice. Gently simmer until the prawns turn white, about 3 mins. Serve with the fresh coriander and rice.",
+      "ingredients_used": [
+        "5b9f3755-dead-5615-bb26-f3296d51613c",
+        "a205c1ce-d295-5c3d-a8b8-a537b6bb26fc",
+        "5757b50b-43c7-5fca-8785-d2b902dc5853",
+        "d283e36f-2f0c-5824-97f1-4d5f15f1c85d",
+        "676d1960-f508-5489-9545-d33ad69fa2d4",
+        "e2701a57-c20d-52c4-a7b9-fd2457d97404"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/bahia-style-moqueca-prawn-stew"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

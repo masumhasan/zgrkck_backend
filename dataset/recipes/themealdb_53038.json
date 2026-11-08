@@ -1,0 +1,198 @@
+{
+  "id": "b1432a7d-78a6-5f5b-a2de-981b593e762c",
+  "version": "1.0.0",
+  "title": "Mustard champ",
+  "slug": "mustard-champ",
+  "summary": "A traditional Irish side dish consisting of mashed potatoes enriched with milk, butter, mustard, and sautéed spring onions.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:59:10Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53038"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/o7p9581608589317.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/o7p9581608589317.jpg/small",
+      "alt_text": "Photo of Mustard champ",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=_iKllHSC978"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9afcb22c-d4b3-58a6-981b-5d7f3acffbaf",
+        "slug": "irish",
+        "name": "Irish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 17,
+    "total_time_minutes": 27
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a large scoop of mashed potatoes"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "mustard"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "bd3c1259-b8ed-5f86-b53b-e8c99416e7a8",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "712a9d48-128d-56e8-bef2-bdd1e497ce4e",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "1kg Potatoes",
+          "quantity": 1.0,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "kilogram",
+          "category": "produce"
+        },
+        {
+          "id": "2ca3a92f-6eeb-5226-bd50-28e3c243257e",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "200ml Milk",
+          "quantity": 200.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "f548732c-0347-57f3-a7ef-f3f08ed6c770",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "50g Butter",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "29436716-53a6-5383-a866-e31ab2f3302e",
+          "ingredient_id": "b9e3afdc-e194-5f5e-bbae-5c3659d35a67",
+          "name": "mustard",
+          "display_text": "2 tbs Mustard",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "765c6609-7ee7-584b-8ce2-e5b901e24c01",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "Bunch Spring Onions",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "bunch",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1a2e8537-4153-5287-a65c-a34a4c065dfb",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "Bunch Spring Onions",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "bunch",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Boil the potatoes for 15 mins or until tender. Drain, then mash.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "712a9d48-128d-56e8-bef2-bdd1e497ce4e"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat the milk and half the butter in the corner of the pan, then beat into the mash, along with the wholegrain mustard.",
+      "ingredients_used": [
+        "2ca3a92f-6eeb-5226-bd50-28e3c243257e",
+        "f548732c-0347-57f3-a7ef-f3f08ed6c770",
+        "29436716-53a6-5383-a866-e31ab2f3302e"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Gently fry the spring onions in the remaining butter for 2 mins until just soft but still a perky green. Fold into the mash and serve. Great with gammon or to top a fish pie.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "f548732c-0347-57f3-a7ef-f3f08ed6c770",
+        "765c6609-7ee7-584b-8ce2-e5b901e24c01",
+        "1a2e8537-4153-5287-a65c-a34a4c065dfb"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/mustard-champ"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

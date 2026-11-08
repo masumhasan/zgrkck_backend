@@ -1,0 +1,239 @@
+{
+  "id": "ebb7b8b4-f0f4-5293-a32f-6308c02c9b71",
+  "version": "1.0.0",
+  "title": "Crema Catalana",
+  "slug": "crema-catalana",
+  "summary": "A traditional Spanish custard dessert infused with citrus and cinnamon, topped with a layer of burnt caramelized sugar.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:08:38Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53148"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/x73ll91763247842.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/x73ll91763247842.jpg/small",
+      "alt_text": "Photo of Crema Catalana",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=5aw5Ba0PCa0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 20,
+    "marinating_time_minutes": 30,
+    "rest_time_minutes": 60,
+    "total_time_minutes": 125
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "150ml ramekin of custard"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "eggs"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "b52a9329-9965-5091-93c3-ae78eacbeec8",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "51754c4a-4a98-53b9-9040-9b12f6684920",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "400ml Milk",
+          "quantity": 400.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "bd6f77ab-4f01-5a0d-94ba-81446aa7b5bf",
+          "ingredient_id": "81b5723b-47de-5017-987f-cdcc95dd362b",
+          "name": "double cream",
+          "display_text": "150ml Double Cream",
+          "quantity": 150.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "77602fa1-78fc-57c7-a129-8bb061d864cd",
+          "ingredient_id": "815267d7-ad8f-543a-b885-c3fdabdc63fb",
+          "name": "cinnamon stick",
+          "display_text": "1 Cinnamon Stick",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "4278825e-8698-58c8-91a2-89280c29dcc0",
+          "ingredient_id": "25974102-33c7-534c-ac2b-40c689d1cd32",
+          "name": "orange zest",
+          "display_text": "1 Orange Zest",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1ca5e554-509b-54fe-9586-0392f29032d5",
+          "ingredient_id": "9721c74d-1877-5622-a4ce-ba9fc1eaa562",
+          "name": "lemon zest",
+          "display_text": "1 Lemon Zest",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b5f0a21a-7861-5539-822e-c3788b1ebb4d",
+          "ingredient_id": "051a3118-01a4-5366-a922-19ecf618e2f9",
+          "name": "egg yolks",
+          "display_text": "7 Egg Yolks",
+          "quantity": 7.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "740f7087-fbf4-5f2d-bae0-594f36c2998f",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "100g Caster Sugar",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "7add9acb-34ce-5ce2-b162-f34a566c49dc",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "6 tablespoons Caster Sugar",
+          "quantity": 6.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 90.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "a62801f1-b1ad-5d29-8308-260a4375b813",
+          "ingredient_id": "94f73465-e9e4-5ae0-8787-ee86687dbeb4",
+          "name": "corn flour",
+          "display_text": "45g Corn Flour",
+          "quantity": 45.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Put the milk, cream, cinnamon stick and all the citrus zest in a saucepan set over a medium heat. Cook, stirring often, until the milk is just steaming but not boiling, about 3-5 mins. Remove from the heat, cover with a plate and leave to infuse for at least 30 mins.",
+      "ingredients_used": [
+        "51754c4a-4a98-53b9-9040-9b12f6684920",
+        "77602fa1-78fc-57c7-a129-8bb061d864cd",
+        "4278825e-8698-58c8-91a2-89280c29dcc0",
+        "1ca5e554-509b-54fe-9586-0392f29032d5"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "When the cream mixture has infused, whisk the egg yolks, sugar and cornflour together in a separate bowl for 3-5 mins, or until light and pale in color. Pour the infused milk through a sieve into the egg mixture, whisking continuously. Return the mixture to the saucepan.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "51754c4a-4a98-53b9-9040-9b12f6684920",
+        "b5f0a21a-7861-5539-822e-c3788b1ebb4d"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Put the saucepan over a medium-high heat and whisk for around 10-12 mins. The mixture should start thickening to a custard-like consistency – you can tell it’s ready by dipping a wooden spoon in the mixture, then running a finger through the mixture on the back of the spoon. If the line holds, it's ready. Sieve the mixture into a jug to remove any froth.",
+      "timer_seconds": 720
+    },
+    {
+      "step_number": 4,
+      "instruction": "Divide the custard between six 150ml ramekins or small terracotta dishes, then leave to cool for 1 hr at room temperature until set with a slight wobble. Chill overnight.",
+      "timer_seconds": 3600
+    },
+    {
+      "step_number": 5,
+      "instruction": "Just before serving, sprinkle 1 tbsp caster sugar over the top of each ramekin and caramelize using a kitchen blowtorch. Alternatively, slide the ramekins under a hot grill until the sugar turns golden and starts to bubble. Serve straightaway.",
+      "ingredients_used": [
+        "740f7087-fbf4-5f2d-bae0-594f36c2998f",
+        "7add9acb-34ce-5ce2-b162-f34a566c49dc"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/crema-catalana"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "id": "f5717f86-87ba-5188-aa0e-5b34666068a7",
+  "version": "1.0.0",
+  "title": "Chicken Salad With Mushrooms and Bacon",
+  "slug": "chicken-salad-with-mushrooms-and-bacon",
+  "summary": "A Danish-style chicken salad featuring shredded chicken breast mixed with a creamy mustard dressing, topped with crispy bacon and sautéed mushrooms.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:44:11Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53549"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/t5rgav1784659936.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/t5rgav1784659936.jpg/small",
+      "alt_text": "Photo of Chicken Salad With Mushrooms and Bacon",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "11f008d8-4600-56c5-aaa2-cde07db70a5a",
+        "slug": "danish",
+        "name": "Danish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 25,
+    "rest_time_minutes": 10,
+    "total_time_minutes": 50
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of chicken salad on bread"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs",
+      "mustard"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "cbfa9eea-810c-562d-8e4f-c04989626c82",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "3e40b87f-b81d-5d22-b09c-22440a69ef44",
+          "ingredient_id": "e23191a1-4966-5b21-a6f1-8df6f50b79db",
+          "name": "chicken breast",
+          "display_text": "300g Chicken Breast",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "poultry"
+        },
+        {
+          "id": "1bf2ed61-4397-5a09-b5c1-86dfd89fa620",
+          "ingredient_id": "d22accc4-e562-59bf-9cbb-1ad38d461e99",
+          "name": "shallots",
+          "display_text": "1 Shallots",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1bb0c8c0-34fc-5923-bff8-49a063a93537",
+          "ingredient_id": "6a3a5ec7-7840-5eff-a3ce-0e3aafbaa822",
+          "name": "mayonnaise",
+          "display_text": "3  tablespoons Mayonnaise",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "0ae3d4b4-3051-5fc3-9010-ee33e2dc7501",
+          "ingredient_id": "5a0201c7-6447-5098-baf7-57a2595f11ba",
+          "name": "creme fraiche",
+          "display_text": "4 tablespoons Creme Fraiche",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "65f4183a-004a-5b3c-b5ad-53b5da60e223",
+          "ingredient_id": "ca633897-45c5-5885-985b-5fbe25d58c8d",
+          "name": "dijon mustard",
+          "display_text": "3 tsp Dijon Mustard",
+          "quantity": 3.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "ad232984-9c28-5962-a3cc-7786634fd299",
+          "ingredient_id": "211a37f0-70a1-58ab-8de9-d0d3b232bc64",
+          "name": "apple cider vinegar",
+          "display_text": "1 tablespoon Apple Cider Vinegar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "046cf73e-c5da-5c97-9e02-f16a8fe222b7",
+          "ingredient_id": "956cfefc-d0f9-5c1f-9f20-d38a1e4dbdad",
+          "name": "bacon",
+          "display_text": "100g Bacon",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "148ae86b-7a2a-50be-9225-dc914631f9ea",
+          "ingredient_id": "5031dcf8-ef4a-588f-ae8f-de7c2790dfac",
+          "name": "mushrooms",
+          "display_text": "250g Mushrooms",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "e1741247-23ce-5804-b5e5-06f5f67ec79a",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Sprigs of fresh Parsley",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "sprigs of fresh",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "a0dfed51-ad0a-5adb-a421-03ca64ebb200",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "433c7912-8e5a-5bcf-8678-5f95f43e5409",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "To taste Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Place chicken breast in a saucepan and cover with water. Bring to a boil, add 1 tsp salt and simmer for approximately 15 minutes. Allow chicken to cool and then shred meat with two forks.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "3e40b87f-b81d-5d22-b09c-22440a69ef44",
+        "a0dfed51-ad0a-5adb-a421-03ca64ebb200"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Finely chop shallot/red onion."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Stir mayonnaise, crème fraîche, Dijon mustard and apple cider vinegar to combine. Season with salt, pepper and extra Dijon mustard to taste. Combine with onion and chicken.",
+      "ingredients_used": [
+        "1bb0c8c0-34fc-5923-bff8-49a063a93537",
+        "65f4183a-004a-5b3c-b5ad-53b5da60e223",
+        "ad232984-9c28-5962-a3cc-7786634fd299",
+        "a0dfed51-ad0a-5adb-a421-03ca64ebb200",
+        "433c7912-8e5a-5bcf-8678-5f95f43e5409"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Fry bacon until crisp and transfer to plate lined with paper towels.",
+      "ingredients_used": [
+        "046cf73e-c5da-5c97-9e02-f16a8fe222b7"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Rinse mushrooms, slice and fry in the same pan as bacon until golden (approximately 5 minutes). Season with a bit of salt and pepper.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "046cf73e-c5da-5c97-9e02-f16a8fe222b7",
+        "148ae86b-7a2a-50be-9225-dc914631f9ea",
+        "a0dfed51-ad0a-5adb-a421-03ca64ebb200",
+        "433c7912-8e5a-5bcf-8678-5f95f43e5409"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Arrange your chicken salad in a serving dish, topped with crisp bacon, mushrooms and chopped parsley. Serve on a slice of light or dark bread.",
+      "ingredients_used": [
+        "046cf73e-c5da-5c97-9e02-f16a8fe222b7",
+        "148ae86b-7a2a-50be-9225-dc914631f9ea",
+        "e1741247-23ce-5804-b5e5-06f5f67ec79a"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://denmark.dk/people-and-culture/recipes/chicken-salad/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

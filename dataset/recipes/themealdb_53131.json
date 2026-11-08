@@ -1,0 +1,335 @@
+{
+  "id": "2d8ffb83-8054-56bf-8fe2-ec27b31e87e2",
+  "version": "1.0.0",
+  "title": "Fyrstekake – Norwegian Prince Cake",
+  "slug": "fyrstekake-norwegian-prince-cake",
+  "summary": "A traditional Norwegian dessert consisting of a buttery crust and a rich, ground almond filling topped with a lattice of dough.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:07:02Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53131"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/9zqrod1763075574.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/9zqrod1763075574.jpg/small",
+      "alt_text": "Photo of Fyrstekake – Norwegian Prince Cake",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=MBh7sQcdzwo"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "56e78dbc-276d-5104-bca5-2bb213b93a49",
+        "slug": "norwegian",
+        "name": "Norwegian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 25,
+    "cook_time_minutes": 45,
+    "rest_time_minutes": 30,
+    "total_time_minutes": 100
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 slice of cake"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "tree_nuts",
+      "eggs",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "fdf7c8e6-386b-5fc2-ab3d-c3ad86b424c1",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "371f25ab-9569-53af-8e00-fbb83527ecbc",
+          "ingredient_id": "585e8c07-6f6b-5618-a220-3f1795eaa043",
+          "name": "granulated sugar",
+          "display_text": "3/4 cup Granulated Sugar",
+          "quantity": 0.75,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 180.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "276f0899-5f45-52ac-bab1-f9e26a9fcff4",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1 teaspoon Vanilla Extract",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "17eeeaab-8699-5767-990c-862ce16b249a",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "2/3 Cup Butter",
+          "quantity": 0.6667,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 160.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "babca7ce-b7ec-5669-805c-5e964386a08a",
+          "ingredient_id": "051a3118-01a4-5366-a922-19ecf618e2f9",
+          "name": "egg yolks",
+          "display_text": "4 Egg Yolks",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "a1e693e6-d5db-5d9d-9b92-681265e154eb",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "2 cups Flour",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "94d5acb4-7b32-5137-9c0a-fceb2029d15f",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 teaspoon Baking Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "6164827f-ed22-55e5-9d97-950f8cae16fd",
+          "ingredient_id": "1f65be5f-ad9d-5713-aca2-600f7b2a1ee8",
+          "name": "almonds",
+          "display_text": "1 1/2 cups Almonds",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "2a0c2497-32e7-5754-be7c-39f44618ef20",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "3/4 cup Brown Sugar",
+          "quantity": 0.75,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 180.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "a7e6f9c9-f227-5ef8-b9d3-1a5540f4f173",
+          "ingredient_id": "824a7073-84ed-52c2-97ef-4d532cabeb6d",
+          "name": "melted butter",
+          "display_text": "2 tbsp Melted Butter",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "b924f9bb-b862-5f9c-8702-47a123241ec3",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "2 medium Egg",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "0c5a3ff3-1a53-55f0-88e9-2983c6f97c14",
+          "ingredient_id": "063ff6f2-ecba-5f08-abd6-0646882f3f1d",
+          "name": "brandy",
+          "display_text": "2 tablespoons Brandy",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "338e0525-66fd-5591-a8d4-0d7d2083e535",
+          "ingredient_id": "278d6272-cef1-5153-8ee2-6a0fb031c264",
+          "name": "almond extract",
+          "display_text": "5 drops Almond Extract",
+          "quantity": 5.0,
+          "unit": "drop",
+          "is_optional": false,
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "b1321b59-b947-5346-8990-fbb3b54730ca",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Crust"
+    },
+    {
+      "step_number": 2,
+      "instruction": "Mix together sugar, vanilla and butter until light and fluffy. Mix in the egg yolks. Add in the flour and baking powder and knead with hands until the dough is smooth.",
+      "ingredients_used": [
+        "17eeeaab-8699-5767-990c-862ce16b249a",
+        "babca7ce-b7ec-5669-805c-5e964386a08a",
+        "a1e693e6-d5db-5d9d-9b92-681265e154eb",
+        "94d5acb4-7b32-5137-9c0a-fceb2029d15f",
+        "a7e6f9c9-f227-5ef8-b9d3-1a5540f4f173",
+        "b924f9bb-b862-5f9c-8702-47a123241ec3",
+        "b1321b59-b947-5346-8990-fbb3b54730ca"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Pack the dough in plastic wrap and chill in refrigerator for at least 30 minutes.",
+      "timer_seconds": 1800
+    },
+    {
+      "step_number": 4,
+      "instruction": "Almond filling"
+    },
+    {
+      "step_number": 5,
+      "instruction": "Run the almonds and sugar together in a food processor until the almonds are finely ground (you can decide for yourself how coarse or fine you want them).",
+      "ingredients_used": [
+        "6164827f-ed22-55e5-9d97-950f8cae16fd"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Stir in the butter, egg, cognac and/or almond extract (if using).",
+      "ingredients_used": [
+        "276f0899-5f45-52ac-bab1-f9e26a9fcff4",
+        "17eeeaab-8699-5767-990c-862ce16b249a",
+        "a7e6f9c9-f227-5ef8-b9d3-1a5540f4f173",
+        "b924f9bb-b862-5f9c-8702-47a123241ec3",
+        "338e0525-66fd-5591-a8d4-0d7d2083e535",
+        "b1321b59-b947-5346-8990-fbb3b54730ca"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Assembly"
+    },
+    {
+      "step_number": 8,
+      "instruction": "Line the bottom of your cake form with baking paper and grease the sides of the form."
+    },
+    {
+      "step_number": 9,
+      "instruction": "Preheat oven to 350°F (175°C).",
+      "temperature": {
+        "value": 350,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 10,
+      "instruction": "Cut 2/3 of the crust dough into slices and press down into the cake form. Cover the bottom of the cake form with the dough and bring the dough 2-3 cm (1 inch) up the sides of the form, pressing until even."
+    },
+    {
+      "step_number": 11,
+      "instruction": "Scoop the almond filling on top of the crust, spreading it evenly across the cake form."
+    },
+    {
+      "step_number": 12,
+      "instruction": "Roll out of the rest of the dough and slice into long strips. Lay the strips of dough across the cake in a grid. Don't worry of the strips break – simply press them back together on the cake."
+    },
+    {
+      "step_number": 13,
+      "instruction": "Gently brush the dough with egg wash.",
+      "ingredients_used": [
+        "b924f9bb-b862-5f9c-8702-47a123241ec3",
+        "b1321b59-b947-5346-8990-fbb3b54730ca"
+      ]
+    },
+    {
+      "step_number": 14,
+      "instruction": "Bake for about 45 minutes. The top of the cake should be golden brown while the almond filling will remain soft.",
+      "timer_seconds": 2700
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://scandinaviancookbook.com/fyrstekake-norwegian-prince-cake/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

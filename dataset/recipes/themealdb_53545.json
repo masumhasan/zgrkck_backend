@@ -1,0 +1,354 @@
+{
+  "id": "bffe5de9-9002-5e00-a6c3-2cd1cdf2af0b",
+  "version": "1.0.0",
+  "title": "Ropa Veija",
+  "slug": "ropa-veija",
+  "summary": "A traditional Cuban shredded beef stew simmered with bell peppers, onions, tomatoes, and olives.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:43:41Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53545"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/thvft91784576451.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/thvft91784576451.jpg/small",
+      "alt_text": "Photo of Ropa Veija",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "bd3047f5-b3e1-53bc-b58b-9c7b54443734",
+        "slug": "cuban",
+        "name": "Cuban"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 195,
+    "total_time_minutes": 215
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of shredded beef over rice and beans"
+  },
+  "allergens": {
+    "contains": [
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "f9b53863-df12-5fbf-af49-21504a242f79",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "01c9d3b9-a2b5-5496-9325-f98652eeb084",
+          "ingredient_id": "c165dd25-df27-5c96-bf7a-cbf626393022",
+          "name": "flank steak",
+          "display_text": "2 Lbs Flank Steak",
+          "quantity": 2.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 907.2,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "0d391fd5-c6bf-51ff-9781-14a74b69c835",
+          "ingredient_id": "f60d2962-95b1-5ff5-80ec-2e8902992bc9",
+          "name": "kosher salt",
+          "display_text": "3 tsp Kosher Salt",
+          "quantity": 3.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "635570b8-ca8b-5cac-a007-d6a5ada43e9e",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "4 tablespoons Vegetable Oil",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "1db61f8d-742e-56b3-a01d-02ce101c52b0",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1 Red Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "bb615378-22ce-52c8-9346-1e4ac77bd9a2",
+          "ingredient_id": "ca16fa3e-7db9-5c18-acf7-0540f4e86a4d",
+          "name": "yellow pepper",
+          "display_text": "1 Yellow Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "58412532-294b-5957-ae7a-b6b2853dd4c8",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "477d3093-e525-5f22-a376-ebe257b66828",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "6 cloves Garlic",
+          "quantity": 6.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "fa60943e-6f38-5f0c-a3fa-cf13d8601251",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "2 tablespoons Tomato Puree",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "49a7b519-a29a-5192-8e8c-29a89c9ff78a",
+          "ingredient_id": "d8dee4f9-ce24-510b-a43d-b7968606921e",
+          "name": "smoked paprika",
+          "display_text": "1 tablespoon Smoked Paprika",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "50e9fce7-1c1f-5a32-ae93-9cbb1940a600",
+          "ingredient_id": "be79b3bd-bc90-5d15-aab2-4f95774b8de1",
+          "name": "cumin",
+          "display_text": "2 tsp Cumin",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "ef2df876-2d6b-5bb1-ba45-f5a8c3e7cad5",
+          "ingredient_id": "23e1101c-9b20-575b-81cd-037dfd7bf307",
+          "name": "dried oregano",
+          "display_text": "2 tsp Dried Oregano",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3b6185da-b8c1-57db-b4b1-2064abbf8ddf",
+          "ingredient_id": "fda31c84-156d-52ae-9761-68b43f6d20f4",
+          "name": "dry white wine",
+          "display_text": "1/2 cup Dry White Wine",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "8389a014-495f-5b66-b5f9-f297ff3bebdd",
+          "ingredient_id": "5cf11297-0a5b-55fb-85b2-ff239b80e4f4",
+          "name": "tinned tomatos",
+          "display_text": "1 Can Tinned Tomatos",
+          "quantity": 1.0,
+          "unit": "can",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "11b51926-b951-546b-9bad-079b52aada3a",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "2 Bay Leaf",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "0ea965c3-4ef9-510d-b8ee-dc455f4a6a20",
+          "ingredient_id": "fe69bebd-ac95-559b-a1c0-2e9d6b963a32",
+          "name": "pimento stuffed olives",
+          "display_text": "1 cup Pimento Stuffed Olives",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "d8e1d2ff-5fe5-5cc3-8376-3e356e0cf8cf",
+          "ingredient_id": "025b8433-c498-5b37-813a-ec00ac6c2ae5",
+          "name": "rice",
+          "display_text": "To serve Rice",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "2f4a3b08-324d-54ac-a5e3-6d9e2c3edd42",
+          "ingredient_id": "4958b57f-af77-572c-8240-fdfa5d5543c8",
+          "name": "black beans",
+          "display_text": "To serve Black Beans",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "32832a1e-d865-59b9-adae-794214b26bf5",
+          "ingredient_id": "1655ccbe-97a7-59b3-9245-ebc95a0ed6d0",
+          "name": "cilantro",
+          "display_text": "1/4 cup Cilantro",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Cut steak into 4 rectangular pieces. Pat dry with paper towels; season all over with 1 1/2 teaspoons salt.",
+      "ingredients_used": [
+        "01c9d3b9-a2b5-5496-9325-f98652eeb084",
+        "0d391fd5-c6bf-51ff-9781-14a74b69c835"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a large pot over medium-high heat, heat 2 tablespoons oil. Working in batches, cook steak until browned on both sides, 5 to 6 minutes. Transfer to a plate.",
+      "timer_seconds": 360,
+      "ingredients_used": [
+        "01c9d3b9-a2b5-5496-9325-f98652eeb084"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "In same pot over medium heat, heat remaining 2 tablespoons oil. Cook bell peppers, onion, and 1 1/2 teaspoons salt, stirring occasionally, until slightly softened, 4 to 5 minutes. Add garlic, tomato paste, paprika, cumin, and oregano and cook, stirring occasionally, until vegetables are softened and spices are aromatic, 1 to 2 minutes more.",
+      "ingredients_used": [
+        "0d391fd5-c6bf-51ff-9781-14a74b69c835",
+        "58412532-294b-5957-ae7a-b6b2853dd4c8",
+        "477d3093-e525-5f22-a376-ebe257b66828",
+        "49a7b519-a29a-5192-8e8c-29a89c9ff78a",
+        "50e9fce7-1c1f-5a32-ae93-9cbb1940a600",
+        "ef2df876-2d6b-5bb1-ba45-f5a8c3e7cad5"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add wine, scraping any browned bits from bottom of pan, and cook, stirring occasionally, until reduced by half, about 2 minutes. Add tomatoes with their juices and bay leaves. Mash down on tomatoes to break up, then nestle beef into stew. Add water to cover beef, if needed, and bring to a simmer. Reduce heat to medium-low; cover and simmer until steaks are tender enough to shred, 2 1/2 to 3 hours. Transfer steaks to a plate and finely shred with 2 forks.",
+      "ingredients_used": [
+        "01c9d3b9-a2b5-5496-9325-f98652eeb084",
+        "3b6185da-b8c1-57db-b4b1-2064abbf8ddf"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Stir shredded steak back into stew. Bring to a simmer and cook, stirring, until liquid has reduced to a sauce that coats steak, 5 to 10 minutes. Stir in olives; season with salt.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "01c9d3b9-a2b5-5496-9325-f98652eeb084",
+        "0d391fd5-c6bf-51ff-9781-14a74b69c835",
+        "0ea965c3-4ef9-510d-b8ee-dc455f4a6a20"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Spoon ropa vieja over rice and beans. Top with cilantro.",
+      "ingredients_used": [
+        "d8e1d2ff-5fe5-5cc3-8376-3e356e0cf8cf",
+        "2f4a3b08-324d-54ac-a5e3-6d9e2c3edd42",
+        "32832a1e-d865-59b9-adae-794214b26bf5"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.delish.com/cooking/recipe-ideas/a40741177/ropa-vieja-recipe/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

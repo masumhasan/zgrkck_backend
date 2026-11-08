@@ -1,0 +1,235 @@
+{
+  "id": "151788ae-1b1c-5738-85d1-85513c680cd5",
+  "version": "1.0.0",
+  "title": "Brie wrapped in prosciutto & brioche",
+  "slug": "brie-wrapped-in-prosciutto-brioche",
+  "summary": "A French-inspired side dish featuring creamy brie cheese wrapped in salty prosciutto and encased in a soft, buttery brioche dough.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:48:37Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52913"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/qqpwsy1511796276.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/qqpwsy1511796276.jpg/small",
+      "alt_text": "Photo of Brie wrapped in prosciutto & brioche",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=FzNPPD8lbWg"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "fe8f07a1-591f-5711-ae5b-f3c9afcc3e60",
+        "slug": "french",
+        "name": "French"
+      }
+    ],
+    "tags": [
+      "baking",
+      "sidedish",
+      "treat"
+    ],
+    "meal_types": [
+      "snack",
+      "brunch"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": [
+      "party",
+      "holiday"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 22,
+    "rest_time_minutes": 450,
+    "total_time_minutes": 492
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 brioche parcel"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "055bcc4e-d740-5db9-a270-dc1e429586b6",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "6a1aab0f-1743-5868-9f0a-8b95f7dfc94f",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "375g Plain Flour",
+          "quantity": 375.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 375.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "f4e7fc66-3b7e-54ac-9554-3c57cabd6dd5",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "50g Caster Sugar",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "21fc11df-e66a-53c5-8f07-6b54d5d74b8a",
+          "ingredient_id": "28b21302-909b-59d3-a88f-a543e26ac34f",
+          "name": "yeast",
+          "display_text": "7g Yeast",
+          "quantity": 7.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 7.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "acf238b2-e5b5-50f2-bad2-849e0b2ca556",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "75g Milk",
+          "quantity": 75.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "c0466526-b2f0-5f25-8cb5-46dcecc071db",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "3 Large Eggs",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "f90024e8-ecc9-568f-91d9-1cc007b84cdc",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "To Glaze Eggs",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to glaze",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "53583ed2-2d62-5703-808c-253035c933ad",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "180g Butter",
+          "quantity": 180.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 180.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "75c6ff2a-2cd2-56fe-8498-59aabdb1e876",
+          "ingredient_id": "b9955d8e-4b6c-5f48-86b7-bfb8d8d38f80",
+          "name": "brie",
+          "display_text": "250g Brie",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "f95c96d1-1b6a-5ff9-92d0-aab20d41ed79",
+          "ingredient_id": "848759de-92db-5f11-909a-10a75c842b02",
+          "name": "prosciutto",
+          "display_text": "8 slices Prosciutto",
+          "quantity": 8.0,
+          "unit": "slice",
+          "is_optional": false,
+          "category": "meat"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Mix the flour, 1 tsp salt, caster sugar, yeast, milk and eggs together in a mixer using the dough attachment for 5 mins until the dough is smooth. Add the butter and mix for a further 4 mins on medium speed. Scrape the dough bowl and mix again for 1 min. Place the dough in a container, cover with cling film and leave in the fridge for at least 6 hrs before using.",
+      "ingredients_used": [
+        "f4e7fc66-3b7e-54ac-9554-3c57cabd6dd5",
+        "21fc11df-e66a-53c5-8f07-6b54d5d74b8a",
+        "acf238b2-e5b5-50f2-bad2-849e0b2ca556",
+        "c0466526-b2f0-5f25-8cb5-46dcecc071db",
+        "f90024e8-ecc9-568f-91d9-1cc007b84cdc",
+        "53583ed2-2d62-5703-808c-253035c933ad"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Wrap the Brie in the prosciutto and set aside. Turn out the dough onto a lightly floured surface. Roll into a 25cm circle. Place the wrapped Brie in the middle of the circle and fold the edges in neatly. Put the parcel onto a baking tray lined with baking parchment and brush with beaten egg. Chill in the fridge for 30 mins, then brush again with beaten egg and chill for a further 30 mins. Leave to rise for 1 hr at room temperature. Heat oven to 200C/180C fan/gas 6, then bake for 22 mins. Serve warm.",
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "75c6ff2a-2cd2-56fe-8498-59aabdb1e876",
+        "f95c96d1-1b6a-5ff9-92d0-aab20d41ed79"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/1803634/brie-wrapped-in-prosciutto-and-brioche"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

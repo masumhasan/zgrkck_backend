@@ -1,0 +1,220 @@
+{
+  "id": "82cf9f22-9b25-5998-a22d-5ea622ae0d39",
+  "version": "1.0.0",
+  "title": "Barramundi with Moroccan spices",
+  "slug": "barramundi-with-moroccan-spices",
+  "summary": "Barramundi fillets seasoned with a Moroccan-inspired spice blend of cumin, coriander, and paprika, then roasted until firm.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:04:30Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53103"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/4o4wh11761848573.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/4o4wh11761848573.jpg/small",
+      "alt_text": "Photo of Barramundi with Moroccan spices",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6442c74c-e246-57a7-870b-9366b38050a8",
+        "slug": "australian",
+        "name": "Australian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "marinating_time_minutes": 30,
+    "total_time_minutes": 60
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 barramundi fillet with dressing"
+  },
+  "allergens": {
+    "contains": [
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "456b3159-09a2-5d80-8077-08bc54170296",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "52db087a-fc20-5422-b054-70ca3ad21c74",
+          "ingredient_id": "772af174-f314-5494-8c7a-925fd8a553a0",
+          "name": "barramundi",
+          "display_text": "2 x 400g barramundi",
+          "quantity": 2.0,
+          "unit": "can",
+          "preparation": "400g each",
+          "is_optional": false,
+          "category": "fish"
+        },
+        {
+          "id": "0ecc209a-c799-5b57-be32-1ed2f510fdde",
+          "ingredient_id": "efa5be6a-3bc3-55ca-812f-22dd145ba53d",
+          "name": "ground cumin",
+          "display_text": "1/2 teaspoon Ground Cumin",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e058bd05-cfaa-508d-87bf-d0890cf71948",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "1/2 tsp Coriander",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "619e1524-d1f9-549c-9f6c-906b482ec5b1",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "Pinch Paprika",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1f5ea296-0bf9-52ef-b52b-80fa01ab0b7d",
+          "ingredient_id": "82355d68-cedc-5a32-8a70-51eb80680771",
+          "name": "chili powder",
+          "display_text": "Pinch Chili Powder",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "6cb9b25c-6578-5a4a-b1d1-c359789f77b1",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "2 Garlic Clove",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "33717350-97f3-5ebd-bc73-cf10d2d7f69d",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "Juice of 1 Lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e289d347-3ded-5f7f-8f58-3fb6359e8575",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "5 tablespoons Olive Oil",
+          "quantity": 5.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "fc2a4fca-a885-564b-9c1c-907552a93d14",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "Bunch Coriander",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "bunch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Tip all the dressing ingredients into a food processor with a pinch of salt and blitz to a dressing. Slash the fish three times on each side, coat with half of the dressing, then set aside to marinate for about 30 mins.",
+      "timer_seconds": 1800
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat oven to 220C/fan 200C/gas 7. Place the fish on a roasting tray, then cook in the oven for 20 mins until the flesh is firm and the eyes have turned white. Serve the fish with the rest of the dressing and steamed couscous or rice.",
+      "timer_seconds": 1200,
+      "temperature": {
+        "value": 220,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 3,
+      "instruction": "KNOW HOW: HOW TO COOK IT: Cooking barramundi on the bone, as we have done here, has its advantages – it will stay more moist during cooking, and some would say that the flavor is enhanced, too. If you want to take out the bones they are easy to locate and less likely to be lodged in the fillet if the fish is cooked whole. Fillets can be simply pan-fried or grilled. If you like trout, you will really enjoy the flavor of barramundi, which lends itself to similar ingredients and cooking methods – citrus flavors are particularly good, as are garlic and wild mushrooms. Simply roasting the fish with some fresh herbs, olive oil and seasoning is delicious, and in the summer months you could barbecue it, too. One thing that you mustn’t miss are the cheeks or ‘pearls’ of the fish, these are simply lovely, moist and really sweet – well worth leaving the head on for!",
+      "ingredients_used": [
+        "52db087a-fc20-5422-b054-70ca3ad21c74",
+        "e289d347-3ded-5f7f-8f58-3fb6359e8575"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/barramundi-moroccan-spices"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

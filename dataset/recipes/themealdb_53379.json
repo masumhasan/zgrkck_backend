@@ -1,0 +1,244 @@
+{
+  "id": "e053c71a-5831-5c57-951e-9c73d9a04920",
+  "version": "1.0.0",
+  "title": "Dutch poffertjes (mini pancakes)",
+  "slug": "dutch-poffertjes-mini-pancakes",
+  "summary": "Traditional Dutch mini pancakes made with a combination of wheat and buckwheat flour, served with butter and icing sugar.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:29:06Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53379"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/oaqz9f1766593912.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/oaqz9f1766593912.jpg/small",
+      "alt_text": "Photo of Dutch poffertjes (mini pancakes)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=gK1b5gymAUY"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "74c070cf-0c42-573b-9e5c-54db497f25a3",
+        "slug": "dutch",
+        "name": "Dutch"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "marinating_time_minutes": 45,
+    "total_time_minutes": 70
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of mini pancakes"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "4e3eadd3-061d-5d61-a8f2-d2f7c6bc4f54",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "510e6008-9dcd-5854-9617-0938ddf09ff0",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "125g Flour",
+          "quantity": 125.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 125.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "45adfd56-2e22-503b-b02b-f0d92b9ba249",
+          "ingredient_id": "0aa04196-28a7-51bf-a97e-06a5fec29cee",
+          "name": "buckwheat flour",
+          "display_text": "125g Buckwheat Flour",
+          "quantity": 125.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 125.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "24016e3b-d0e9-532b-9666-f3bcfa075117",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "2 Eggs",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "c93a83f8-740e-5993-8fab-89d3ec1f871f",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "1 knob Butter",
+          "quantity": 1.0,
+          "unit": "knob",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "fd19c3bb-f15c-5017-a112-0ce5c1be0b9e",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "300ml Milk",
+          "quantity": 300.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "0eaeb192-ea0e-596b-b556-4e65babd4f4e",
+          "ingredient_id": "28b21302-909b-59d3-a88f-a543e26ac34f",
+          "name": "yeast",
+          "display_text": "10g Yeast",
+          "quantity": 10.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "b9b1474b-c9ec-567e-ad5a-bf15cda7e9fd",
+          "ingredient_id": "4b4ddd1a-6b6d-5fc2-9fe6-71db9e48acd0",
+          "name": "vanilla sugar",
+          "display_text": "1tsp vanilla sugar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "13b219eb-26f1-5f98-b766-82ea0a38049f",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "To serve Butter",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "bb5a3f75-c997-516b-8598-1e180a9e1e06",
+          "ingredient_id": "c3b952d9-9879-569e-a989-b29a9b7ec664",
+          "name": "icing sugar",
+          "display_text": "To serve Icing Sugar",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Mix the dry yeast with some of the luke warm milk en stir until dissolved.",
+      "ingredients_used": [
+        "fd19c3bb-f15c-5017-a112-0ce5c1be0b9e",
+        "0eaeb192-ea0e-596b-b556-4e65babd4f4e"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Place buckwheat and the flour together in a bowl and make a small circle in the middle. Add the yeast mixture into it. Add the milk and stir until you have a smooth batter.",
+      "ingredients_used": [
+        "510e6008-9dcd-5854-9617-0938ddf09ff0",
+        "fd19c3bb-f15c-5017-a112-0ce5c1be0b9e",
+        "0eaeb192-ea0e-596b-b556-4e65babd4f4e"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the eggs, salt and vanille sugar and stir through. Leave to stand and rise for about 45 minutes.",
+      "timer_seconds": 2700,
+      "ingredients_used": [
+        "24016e3b-d0e9-532b-9666-f3bcfa075117"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Heat the poffertjespan and add a bit of butter into each hole. Fill halfway with batter and first bake one side until you can see the top dry out a little. Turn the poffertjes around with a small fork and bake the other side until cooked and golden brown.",
+      "ingredients_used": [
+        "c93a83f8-740e-5993-8fab-89d3ec1f871f",
+        "13b219eb-26f1-5f98-b766-82ea0a38049f"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Serve the poffertjes with butter and icing sugar",
+      "ingredients_used": [
+        "c93a83f8-740e-5993-8fab-89d3ec1f871f",
+        "13b219eb-26f1-5f98-b766-82ea0a38049f",
+        "bb5a3f75-c997-516b-8598-1e180a9e1e06"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://insimoneskitchen.com/old-dutch-poffertjes/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

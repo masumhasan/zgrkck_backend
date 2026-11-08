@@ -1,0 +1,394 @@
+{
+  "id": "4382c606-11dc-5b0a-95d7-ba43eec0cf6a",
+  "version": "1.0.0",
+  "title": "Kvæfjord Cake “Verdens Beste” (World’s Best Cake)",
+  "slug": "kvfjord-cake-verdens-beste-worlds-best-cake",
+  "summary": "Kvæfjord cake, known in Norway as 'Verdens Beste', is a layered dessert consisting of a sponge cake base, a vanilla custard, and whipped cream, topped with a meringue and sliced almonds.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:06:46Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53128"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/gdn1ot1763075684.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/gdn1ot1763075684.jpg/small",
+      "alt_text": "Photo of Kvæfjord Cake “Verdens Beste” (World’s Best Cake)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=FjQRhFS3aZU"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "56e78dbc-276d-5104-bca5-2bb213b93a49",
+        "slug": "norwegian",
+        "name": "Norwegian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "advanced",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 45,
+    "cook_time_minutes": 30,
+    "rest_time_minutes": 60,
+    "total_time_minutes": 135
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 slice of cake"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "tree_nuts",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "6261416b-d35b-57bf-ae0d-1a5bbd874841",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "2b519a65-5fcd-5d75-b7e8-579ac64fa569",
+          "ingredient_id": "051a3118-01a4-5366-a922-19ecf618e2f9",
+          "name": "egg yolks",
+          "display_text": "2 large Egg Yolks",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "50661413-c2cb-51fa-bd8e-9322b24b824c",
+          "ingredient_id": "4bdb1684-cdb6-5a8f-b220-c622cf2655cc",
+          "name": "cornstarch",
+          "display_text": "2 tblsp Cornstarch",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "de6d7c2b-6053-522a-a25c-a168a65b2a71",
+          "ingredient_id": "585e8c07-6f6b-5618-a220-3f1795eaa043",
+          "name": "granulated sugar",
+          "display_text": "1/4 cup Granulated Sugar",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "cd8d4603-7398-5612-83ff-9e8f8e6d29e7",
+          "ingredient_id": "cb8d5d02-f2f1-547b-b7e6-054d6629adc1",
+          "name": "heavy cream",
+          "display_text": "2/3 Cup Heavy Cream",
+          "quantity": 0.6667,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 160.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "da1464f3-63d3-5eda-9134-59a35f84b34e",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "3/4 cup Milk",
+          "quantity": 0.75,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 180.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "8d50c1aa-57f1-5bd8-8933-dae5967a1ffe",
+          "ingredient_id": "e649c677-18b1-5099-b2de-36904e7ffe2b",
+          "name": "vanilla pod",
+          "display_text": "1 vanilla pod",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "bf5b60bf-2769-5541-9478-a2dbf0924ba4",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "2/3 Cup Butter",
+          "quantity": 0.6667,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 160.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "eaa87fde-1f56-509c-988b-06bc6b2288f2",
+          "ingredient_id": "585e8c07-6f6b-5618-a220-3f1795eaa043",
+          "name": "granulated sugar",
+          "display_text": "3/4 cup Granulated Sugar",
+          "quantity": 0.75,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 180.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "884d6d8d-4c38-5b10-b8b7-59d454440d85",
+          "ingredient_id": "051a3118-01a4-5366-a922-19ecf618e2f9",
+          "name": "egg yolks",
+          "display_text": "5 Large Egg Yolks",
+          "quantity": 5.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "d45f0948-8e06-5d1a-a8d1-a76f2b9785b2",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "1 1/4 cup Flour",
+          "quantity": 1.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "d0b5989f-502d-5cdc-bc8c-f5288cf4f66a",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1.5 tsp Baking Powder",
+          "quantity": 1.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "74ab4679-feca-5234-8fe7-aa5459722a0a",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "1/2 cup Milk",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "3a9fef6c-6efa-5e66-9730-211c1cdd011e",
+          "ingredient_id": "87c4a7ca-7b0e-5143-aea3-d01ad00e4108",
+          "name": "egg white",
+          "display_text": "7 Egg White",
+          "quantity": 7.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "d0b97caf-c6fc-59f6-ab98-dacc75c3aa68",
+          "ingredient_id": "585e8c07-6f6b-5618-a220-3f1795eaa043",
+          "name": "granulated sugar",
+          "display_text": "1 1/2 cups Granulated Sugar",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "cab778b1-b996-59a4-a203-835abfb3f95b",
+          "ingredient_id": "1f65be5f-ad9d-5713-aca2-600f7b2a1ee8",
+          "name": "almonds",
+          "display_text": "Sliced Almonds",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "b8131f40-ecff-5ced-a71c-93bfcd2a5775",
+          "ingredient_id": "ff546e66-3df1-5c50-bf15-42f51d91ab80",
+          "name": "whipping cream",
+          "display_text": "1 1/4 cup Whipping Cream",
+          "quantity": 1.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Vanilla custard"
+    },
+    {
+      "step_number": 2,
+      "instruction": "Separate the egg yolks and set aside the whites to use in the meringue.",
+      "ingredients_used": [
+        "2b519a65-5fcd-5d75-b7e8-579ac64fa569",
+        "884d6d8d-4c38-5b10-b8b7-59d454440d85",
+        "3a9fef6c-6efa-5e66-9730-211c1cdd011e"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Whisk together the egg yolks, cornstarch and sugar in a bowl.",
+      "ingredients_used": [
+        "2b519a65-5fcd-5d75-b7e8-579ac64fa569",
+        "50661413-c2cb-51fa-bd8e-9322b24b824c",
+        "884d6d8d-4c38-5b10-b8b7-59d454440d85"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Heat the cream and milk in a saucepan. Split open the vanilla pod and add the beans to the saucepan. Once the milk begins to bubble pour about half of it into the bowl with the egg mixture, whisking constantly. Then return the saucepan to the heat and pour the egg mixture back into the saucepan with remaining milk, whisking constantly. Once the mixture thickens lower the heat and continue whisking for about 30 seconds.",
+      "timer_seconds": 30,
+      "ingredients_used": [
+        "da1464f3-63d3-5eda-9134-59a35f84b34e",
+        "8d50c1aa-57f1-5bd8-8933-dae5967a1ffe",
+        "74ab4679-feca-5234-8fe7-aa5459722a0a"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Pour the custard into a clean bowl and cover with plastic wrap, placing the plastic directly on the top layer of the custard. Chill in the fridge."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Cake"
+    },
+    {
+      "step_number": 7,
+      "instruction": "Mix together butter and sugar until light and fluffy. Add egg yolks one at a time, setting aside the egg whites for the meringue. Add the flour mixed with baking powder. Stir in the milk, beating until smooth (you can use an electric mixer if you prefer).",
+      "ingredients_used": [
+        "2b519a65-5fcd-5d75-b7e8-579ac64fa569",
+        "da1464f3-63d3-5eda-9134-59a35f84b34e",
+        "bf5b60bf-2769-5541-9478-a2dbf0924ba4",
+        "884d6d8d-4c38-5b10-b8b7-59d454440d85",
+        "d45f0948-8e06-5d1a-a8d1-a76f2b9785b2",
+        "d0b5989f-502d-5cdc-bc8c-f5288cf4f66a",
+        "74ab4679-feca-5234-8fe7-aa5459722a0a",
+        "3a9fef6c-6efa-5e66-9730-211c1cdd011e"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Preheat oven to 320°F (160°C). Cover a baking sheet with baking paper and spread out the batter into a large, even rectangle.",
+      "temperature": {
+        "value": 320,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 9,
+      "instruction": "Meringue topping"
+    },
+    {
+      "step_number": 10,
+      "instruction": "Whisk together the egg whites and sugar until you get glossy, stiff peaks. The meringue should hold its form – if it still melts continue whisking.",
+      "ingredients_used": [
+        "3a9fef6c-6efa-5e66-9730-211c1cdd011e"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Spread out the meringue on top of the cake batter. Use a spatula to form light waves with the meringue. Sprinkle almonds on top of the meringue. Bake for about 30 minutes, until the meringue and almonds are golden.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "cab778b1-b996-59a4-a203-835abfb3f95b"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Cream filling"
+    },
+    {
+      "step_number": 13,
+      "instruction": "Whisk the cream into stiff peaks. Carefully fold in the vanilla custard."
+    },
+    {
+      "step_number": 14,
+      "instruction": "Assembly"
+    },
+    {
+      "step_number": 15,
+      "instruction": "Once the cake has cooled, cut it in half. You can use scissors for this, or a knife on a cutting board, slicing through the baking paper as well."
+    },
+    {
+      "step_number": 16,
+      "instruction": "Place half of the cake on a serving platter with the meringue side down and peel off the baking paper."
+    },
+    {
+      "step_number": 17,
+      "instruction": "Spread the cream filling across the cake. Then carefully remove the other half of the cake from the baking paper and place it over the cream filling, meringue side up."
+    },
+    {
+      "step_number": 18,
+      "instruction": "Serve with fresh berries."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://scandinaviancookbook.com/kvaefjord-cake-verdens-beste-worlds-best-cake/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

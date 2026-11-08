@@ -1,0 +1,190 @@
+{
+  "id": "2e710aa5-aea7-5429-b740-455fd9fee915",
+  "version": "1.0.0",
+  "title": "Chocolate Caramel Crispy",
+  "slug": "chocolate-caramel-crispy",
+  "summary": "A sweet British dessert made by combining melted Mars bars and butter with rice krispies, topped with a layer of melted milk chocolate.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:53:24Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52966"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/1550442508.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/1550442508.jpg/small",
+      "alt_text": "Photo of Chocolate Caramel Crispy",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=qsk_At_gjv0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "alcoholic",
+      "bbq",
+      "snack",
+      "sweet",
+      "tart",
+      "treat"
+    ],
+    "meal_types": [
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "bbq"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "rest_time_minutes": 30,
+    "total_time_minutes": 50
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 square"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "free_from": [
+      "tree_nuts",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": [
+      "peanuts"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "f0a2e09a-4f9f-5ce0-8ff8-32016f53e5d3",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "a10a9e4c-b655-5619-975e-87cc84314c80",
+          "ingredient_id": "a8c87da1-3b99-514c-96be-ff620a86d3bf",
+          "name": "mars bar",
+          "display_text": "6 chopped Mars Bar",
+          "quantity": 6.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "4b453d17-7793-54b6-8b4c-baac24443f6c",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "150g Butter",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "6eca7ffa-4729-56fa-b09f-3a863f6d5784",
+          "ingredient_id": "8ccdb229-0552-5a63-a491-6f4a26864887",
+          "name": "rice krispies",
+          "display_text": "120g Rice Krispies",
+          "quantity": 120.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "bf5a7dd0-0302-596b-be03-94644e144770",
+          "ingredient_id": "60a3a7b2-b96d-5051-a537-0cc9e11770ca",
+          "name": "milk chocolate",
+          "display_text": "150g Milk Chocolate",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Grease and line a 20 x 20cm/8\" x 8\" baking tin with parchment paper."
+    },
+    {
+      "step_number": 2,
+      "instruction": "Put the mars bars and butter in a heat proof bowl and place over a pan of barely simmering water. Mixing with a whisk, melt until the mixture is smooth.",
+      "ingredients_used": [
+        "4b453d17-7793-54b6-8b4c-baac24443f6c"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Pour over the rice krispies in a mixing bowl and mix until all the ingredients are evenly combined. Press evenly into the prepare baking tin and set aside.",
+      "ingredients_used": [
+        "6eca7ffa-4729-56fa-b09f-3a863f6d5784"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Melt the milk chocolate in the microwave or over a pan of barely simmering water.",
+      "ingredients_used": [
+        "bf5a7dd0-0302-596b-be03-94644e144770"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Spread the melted chocolate over the rice krispie mixture and leave to set in a cool place. Once set slice into squares and serve!",
+      "ingredients_used": [
+        "bf5a7dd0-0302-596b-be03-94644e144770"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://www.donalskehan.com/recipes/chocolate-caramel-rice-crispy-treats/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

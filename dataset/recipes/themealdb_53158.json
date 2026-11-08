@@ -1,0 +1,230 @@
+{
+  "id": "9e65aac8-e785-5c62-add3-61006fea7c7b",
+  "version": "1.0.0",
+  "title": "Air fryer patatas bravas",
+  "slug": "air-fryer-patatas-bravas",
+  "summary": "Crispy air-fried potatoes topped with a savory Spanish-style tomato and onion sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:09:27Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53158"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/3m8yae1763257951.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/3m8yae1763257951.jpg/small",
+      "alt_text": "Photo of Air fryer patatas bravas",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=kzLaw6PG2UY"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "appetizer",
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "thanksgiving",
+      "party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 35,
+    "cook_time_minutes": 40,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 80
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "portions",
+    "serving_size_description": "a bowl of potatoes with sauce"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "011b30ad-3081-52bd-85fd-d38ca834f156",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "303c4fb7-5c00-50ec-9b42-6be2befab974",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "900g Potatoes",
+          "quantity": 900.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 900.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "caf39dfa-3590-5c2a-a92d-efbda467f7c0",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "3  tablespoons Olive Oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "cb0d1f8e-fcb7-5d60-839a-801ee61f100f",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b31c0af8-9f4c-5bb5-b0a7-52ed51632f50",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove peeled crushed Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "preparation": "peeled crushed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2db5eea5-893e-5cc7-8763-45452c769a78",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1 tblsp Paprika",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "c7021f1e-1ba0-5a33-ab4b-6e089d88e1a7",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "1 tblsp Tomato Puree",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "f8a3cf70-e86c-53dd-b9e8-7910675150a9",
+          "ingredient_id": "5cf11297-0a5b-55fb-85b2-ff239b80e4f4",
+          "name": "tinned tomatos",
+          "display_text": "225g Tinned Tomatos",
+          "quantity": 225.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 225.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "5636fd5d-f774-5f72-a9e8-03be15633454",
+          "ingredient_id": "a1783c57-4793-5f4c-b52e-1ed99ab34832",
+          "name": "basil leaves",
+          "display_text": "To serve Basil Leaves",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Soak the potatoes in just-boiled water for 30 mins, then drain and leave to air-dry for 5 mins. Heat the air fryer to 200C. Tip the potatoes into a bowl and drizzle over 1 tbsp of the oil and add 1/2 tsp each of salt and freshly ground black pepper. Mix to coat the potatoes all over, then tip into the air fryer basket and cook for 20-30 mins until crisp and golden.",
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "303c4fb7-5c00-50ec-9b42-6be2befab974"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Meanwhile, heat the remaining oil in a small pan over a medium-low heat and fry the onion for 8-10 mins until softened but not golden. Stir in the garlic and cook for a minute before adding the paprika and cooking for 30 seconds more. Stir in the tomato purée, cook for 1 min, then tip in the chopped tomatoes. Cook for 5-10 mins over a medium heat until thickened slightly.",
+      "ingredients_used": [
+        "cb0d1f8e-fcb7-5d60-839a-801ee61f100f",
+        "b31c0af8-9f4c-5bb5-b0a7-52ed51632f50",
+        "2db5eea5-893e-5cc7-8763-45452c769a78"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Once the potatoes are cooked, tip out onto a platter and pour over the tomato sauce. Sprinkle with the basil leaves, then serve.",
+      "ingredients_used": [
+        "303c4fb7-5c00-50ec-9b42-6be2befab974",
+        "5636fd5d-f774-5f72-a9e8-03be15633454"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/air-fryer-patatas-bravas"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

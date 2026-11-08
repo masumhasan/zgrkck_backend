@@ -1,0 +1,398 @@
+{
+  "id": "0cbc6288-fb91-5cfa-81b0-373a6ecc6c40",
+  "version": "1.0.0",
+  "title": "Dziriat (Algerian Almond Tarts)",
+  "slug": "dziriat-algerian-almond-tarts",
+  "summary": "Dziriat are traditional Algerian almond tarts consisting of a delicate pastry shell filled with a sweet almond paste and finished with a light sugar syrup.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:20:44Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53285"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ne5wzp1764115568.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ne5wzp1764115568.jpg/small",
+      "alt_text": "Photo of Dziriat (Algerian Almond Tarts)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=koPyA-HO8Q4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "44067efa-6d33-5eeb-9836-eb49ba7b3e31",
+        "slug": "algerian",
+        "name": "Algerian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegetarian"
+    ],
+    "difficulty": "advanced",
+    "occasions": [
+      "holiday"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 60,
+    "cook_time_minutes": 105,
+    "total_time_minutes": 165
+  },
+  "yield": {
+    "servings": 24,
+    "serving_unit": "pieces"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "tree_nuts",
+      "eggs"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "8cdb6da0-216f-57a2-9185-79f738e5bd10",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "a2f4bfc2-21c6-56a1-8d95-f434bead3b06",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 cup Sugar",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "ff11415a-547b-5864-88a7-13586cf3f61f",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1 cup Water",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "543301f8-682b-520a-aee0-b96b24c582c6",
+          "ingredient_id": "4020879e-a0a5-58e2-b093-33c7e85c8a08",
+          "name": "lemon juice",
+          "display_text": "1 tsp Lemon Juice",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "b79fc8b0-4551-54f4-9b98-9ad609033036",
+          "ingredient_id": "b41ab788-7bf8-564d-bca1-fb09fd008992",
+          "name": "orange blossom water",
+          "display_text": "2 tablespoons Orange Blossom Water",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "9fcaf484-5300-593c-afa2-c2da93c67a05",
+          "ingredient_id": "d1e5ec78-b8c2-5649-962c-a9f67272ea92",
+          "name": "all purpose flour",
+          "display_text": "2 cups All purpose flour",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "503d334d-f10a-5212-bbb6-87acb99efe48",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "2 tablespoons Vegetable Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "31b5af6b-3ccd-5b21-b12a-6fb3a4394499",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "85ee3846-f4a6-5f0a-a577-52e55fbc1fdf",
+          "ingredient_id": "4020879e-a0a5-58e2-b093-33c7e85c8a08",
+          "name": "lemon juice",
+          "display_text": "1/2 teaspoon Lemon Juice",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "58755b56-f1f1-55c5-bc21-e38086602357",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 pinch Salt",
+          "quantity": 1.0,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "9dab22bb-f575-5c65-a93a-2e4cca1e65a2",
+          "ingredient_id": "b41ab788-7bf8-564d-bca1-fb09fd008992",
+          "name": "orange blossom water",
+          "display_text": "1 tablespoon Orange Blossom Water",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "c13b584d-2fc2-55db-8dee-81728ce19052",
+          "ingredient_id": "1f65be5f-ad9d-5713-aca2-600f7b2a1ee8",
+          "name": "almonds",
+          "display_text": "4 cups Almonds",
+          "quantity": 4.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 960.0,
+          "metric_unit": "milliliter",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "5abd3b25-bf7d-58b0-8a37-7f4a6c5a2c7d",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 cup Sugar",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "b6b582f7-486f-581a-b84f-37f5684604d7",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "3 Egg",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "2bd72155-c456-5bcf-a099-904eb0b05df0",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1/2 teaspoon Baking Powder",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "10d1478d-567e-5711-a839-6feb8a32e679",
+          "ingredient_id": "1ad32b47-90dc-570b-9ae6-d231b0342095",
+          "name": "vanilla",
+          "display_text": "1 tsp Vanilla",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "6a96292e-51d3-50da-84cf-8696e81a7049",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "Zest of 1 Lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "zest",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "98b60aee-816d-50fa-a045-3f1466c28ebf",
+          "ingredient_id": "b41ab788-7bf8-564d-bca1-fb09fd008992",
+          "name": "orange blossom water",
+          "display_text": "2 tablespoons Orange Blossom Water",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "89d3c7ff-e265-56ad-9d54-300581fc029c",
+          "ingredient_id": "4bdb1684-cdb6-5a8f-b220-c622cf2655cc",
+          "name": "cornstarch",
+          "display_text": "Sprinkling Cornstarch",
+          "quantity": 1,
+          "unit": "sprinkling",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "ab569c67-d86b-512b-b719-ce9ec8c6df53",
+          "ingredient_id": "d33b80af-1e5d-5fa5-a5a8-1cc1a925e2ee",
+          "name": "pine nuts",
+          "display_text": "To serve Pine Nuts",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "nuts_seeds"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Prepare the almonds the day before. Bring 6 cups of water to a boil. Remove from heat, and add the almonds. Let the almonds soak in water for about 5 minutes, then drain and peel. Spread the almonds on baking sheets, and bake at 200 degrees F(95 degrees C) until completely dry and toasted. This takes several hours, and needs to be prepared ahead. Be careful not to burn the nuts, as this will give a bitter taste to the filling.",
+      "timer_seconds": 300,
+      "temperature": {
+        "value": 200,
+        "unit": "fahrenheit"
+      },
+      "ingredients_used": [
+        "ff11415a-547b-5864-88a7-13586cf3f61f",
+        "c13b584d-2fc2-55db-8dee-81728ce19052",
+        "ab569c67-d86b-512b-b719-ce9ec8c6df53"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Combine 1 cup sugar and 1 cup water in a saucepan, and bring to a boil. Add 1 teaspoon lemon juice, reduce heat to low, and let it simmer until syrupy, about 30 to 40 minutes. Stir in orange blossom water, and remove from heat. Set sugar syrup aside.",
+      "timer_seconds": 2400,
+      "ingredients_used": [
+        "a2f4bfc2-21c6-56a1-8d95-f434bead3b06",
+        "ff11415a-547b-5864-88a7-13586cf3f61f",
+        "543301f8-682b-520a-aee0-b96b24c582c6",
+        "b79fc8b0-4551-54f4-9b98-9ad609033036",
+        "85ee3846-f4a6-5f0a-a577-52e55fbc1fdf",
+        "9dab22bb-f575-5c65-a93a-2e4cca1e65a2",
+        "5abd3b25-bf7d-58b0-8a37-7f4a6c5a2c7d",
+        "6a96292e-51d3-50da-84cf-8696e81a7049",
+        "98b60aee-816d-50fa-a045-3f1466c28ebf"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Combine flour and salt in a large mixing bowl. Make a hole in the center, and pour oil, egg, 1/2 teaspoon lemon juice, and 1 tablespoon orange blossom water into the center. Mix with fingers until the dough resembles coarse crumbs. Gradually sprinkle with warm water while mixing until the dough becomes soft and pliable. Divide into 4 equal portions. Cover dough with a wet cloth, and set aside.",
+      "ingredients_used": [
+        "ff11415a-547b-5864-88a7-13586cf3f61f",
+        "543301f8-682b-520a-aee0-b96b24c582c6",
+        "b79fc8b0-4551-54f4-9b98-9ad609033036",
+        "31b5af6b-3ccd-5b21-b12a-6fb3a4394499",
+        "85ee3846-f4a6-5f0a-a577-52e55fbc1fdf",
+        "58755b56-f1f1-55c5-bc21-e38086602357",
+        "9dab22bb-f575-5c65-a93a-2e4cca1e65a2",
+        "b6b582f7-486f-581a-b84f-37f5684604d7",
+        "6a96292e-51d3-50da-84cf-8696e81a7049",
+        "98b60aee-816d-50fa-a045-3f1466c28ebf"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "In a food processor, finely grind the almonds. Measure 3 cups of the finely ground almonds into a mixing bowl, and stir together with 1 cup sugar, baking powder, vanilla powder, lemon zest, and 2 tablespoons orange flower water. Mix in three eggs one at a time, stirring constantly; mix until you get a sticky, paste-like mixture.",
+      "ingredients_used": [
+        "a2f4bfc2-21c6-56a1-8d95-f434bead3b06",
+        "ff11415a-547b-5864-88a7-13586cf3f61f",
+        "c13b584d-2fc2-55db-8dee-81728ce19052",
+        "5abd3b25-bf7d-58b0-8a37-7f4a6c5a2c7d",
+        "2bd72155-c456-5bcf-a099-904eb0b05df0",
+        "10d1478d-567e-5711-a839-6feb8a32e679",
+        "6a96292e-51d3-50da-84cf-8696e81a7049"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Sprinkle cornstarch on the rolling surface to prevent sticking. Roll each portion of dough very thinly, 1 to 2 millimeters (1/16 inch). Cut the rolled dough into circles of about 10 centimeters (4 inches) in diameter each. Lightly wipe the surface of each circle with cornstarch, and fit into a tart mold, cornstarch side down to prevent sticking. Gently press the dough onto the sides and bottom of the mold, and trim extra dough from around the rim. Fill three quarters of each mold with the almond filling.",
+      "ingredients_used": [
+        "89d3c7ff-e265-56ad-9d54-300581fc029c"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Bake on the top shelf at 350 degrees F (175 degrees C) for 20 to 25 minutes, or until the surface of the tart is golden and the dough is firm. Remove the tarts from the molds as soon as they come out of the oven. Dip each tart in the sugar syrup while still hot. Stick a pine nut into the middle of each tart for decoration. Place on a wire rack to drain.",
+      "timer_seconds": 1500,
+      "temperature": {
+        "value": 350,
+        "unit": "fahrenheit"
+      },
+      "ingredients_used": [
+        "a2f4bfc2-21c6-56a1-8d95-f434bead3b06",
+        "5abd3b25-bf7d-58b0-8a37-7f4a6c5a2c7d"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.allrecipes.com/recipe/69501/dziriat-algerian-almond-tarts/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

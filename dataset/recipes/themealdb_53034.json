@@ -1,0 +1,234 @@
+{
+  "id": "b43fc91f-13c4-5067-81d4-1c91792d025f",
+  "version": "1.0.0",
+  "title": "Japanese Katsudon",
+  "slug": "japanese-katsudon",
+  "summary": "Japanese Katsudon is a comforting rice bowl topped with a breaded pork cutlet, simmered with onions, eggs, and a savory dashi-based sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:58:51Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53034"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/d8f6qx1604182128.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/d8f6qx1604182128.jpg/small",
+      "alt_text": "Photo of Japanese Katsudon",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=voE-MBJqBVk"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "56a9f85e-d404-5cf3-b90f-babb495ba40f",
+        "slug": "japanese",
+        "name": "Japanese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 25
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 pork cutlet with rice and egg"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "eggs"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "fish",
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "2e1e8cd3-1b3a-555e-bc74-7d7138373795",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "908642bf-f9fe-5f2f-9369-98d2f300f8fa",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "1 tbs Vegetable Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "3758c2d2-fcc8-519d-9f2d-1ecb241c4ed1",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 large Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "a98cd0cc-6e94-534e-aecc-a0dd944b6960",
+          "ingredient_id": "f16b4344-55cf-5ee7-a3a2-d8f68550bd18",
+          "name": "pork",
+          "display_text": "1 chopped Pork",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "95e7bac5-f036-5b31-bba6-8ecffcb40817",
+          "ingredient_id": "2d490c0b-0744-5be5-a104-641c87b13636",
+          "name": "vegetable stock",
+          "display_text": "150ml Vegetable Stock",
+          "quantity": 150.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "4b60d5a6-4b88-5b9f-8063-7df77394881e",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "1 tbs Soy Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "c1f41a28-3943-5896-b5ac-478440fc442a",
+          "ingredient_id": "df1f505e-69c3-53b3-b692-0e447812c941",
+          "name": "mirin",
+          "display_text": "1 tsp Mirin",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "3b9942d1-3d61-5c07-bbd4-e8abce5f784b",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 tsp Sugar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "8e13c0f5-1f39-5e52-9f92-7f7de5c095ac",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "2 Beaten Eggs",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "beaten",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "1939d254-83b2-5b85-a104-73cb0d611b31",
+          "ingredient_id": "1713ec53-fbc1-529e-90c6-f0803ae6912e",
+          "name": "sushi rice",
+          "display_text": "200g Sushi Rice",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "bbd1c470-35e3-5132-9618-3767116f083f",
+          "ingredient_id": "85291054-0b21-5fc5-ac52-86bee20f4bbc",
+          "name": "chives",
+          "display_text": "Chopped Chives",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oil in a pan, fry the sliced onion until golden brown, then add the tonkatsu (see recipe here), placing it in the middle of the pan. Mix the dashi, soy, mirin and sugar together and tip three-quarters of the mixture around the tonkatsu. Sizzle for a couple of mins so the sauce thickens a little and the tonkatsu reheats.",
+      "ingredients_used": [
+        "3758c2d2-fcc8-519d-9f2d-1ecb241c4ed1",
+        "c1f41a28-3943-5896-b5ac-478440fc442a",
+        "3b9942d1-3d61-5c07-bbd4-e8abce5f784b"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Tip the beaten eggs around the tonkatsu and cook for 2-3 mins until the egg is cooked through but still a little runny. Divide the rice between two bowls, then top each with half the egg and tonkatsu mix, sprinkle over the chives and serve immediately, drizzling with a little more soy if you want an extra umami kick.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "8e13c0f5-1f39-5e52-9f92-7f7de5c095ac",
+        "1939d254-83b2-5b85-a104-73cb0d611b31",
+        "bbd1c470-35e3-5132-9618-3767116f083f"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/japanese-katsudon"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

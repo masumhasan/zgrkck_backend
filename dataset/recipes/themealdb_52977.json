@@ -1,0 +1,318 @@
+{
+  "id": "a7714015-7b77-5d5b-ab68-2daefa293ebf",
+  "version": "1.0.0",
+  "title": "Corba",
+  "slug": "corba",
+  "summary": "A Turkish-style lentil soup seasoned with warm spices like cumin, paprika, and mint.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:54:19Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52977"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/58oia61564916529.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/58oia61564916529.jpg/small",
+      "alt_text": "Photo of Corba",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=VVnZd8A84z4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4c480df7-c067-5e9c-ac08-d8d49afa7f51",
+        "slug": "turkish",
+        "name": "Turkish"
+      }
+    ],
+    "tags": [
+      "soup"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "soup",
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of soup"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "9d714177-19f4-5bb2-b8c0-2b3d39469f1e",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "dd765293-07a3-5e23-99d3-e8c16a14b61e",
+          "ingredient_id": "2a5e22bd-f74d-56d3-8c07-5b7495ee1f1e",
+          "name": "lentils",
+          "display_text": "1 cup Lentils",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "43544e02-bd50-5011-b0e4-5ced1013671e",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 large Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "95f1cb20-603f-542d-b9ae-018efd195c7b",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "1 large Carrots",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "91b24440-4873-55ad-9f6a-f981d656fdc8",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "1 tbs Tomato Puree",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "d581adae-95af-58e6-a1de-aebdb46ea78f",
+          "ingredient_id": "be79b3bd-bc90-5d15-aab2-4f95774b8de1",
+          "name": "cumin",
+          "display_text": "2 tsp Cumin",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "c1a15bb7-e15c-5878-9d3d-b12443c03b05",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1 tsp Paprika",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "ad59fcb0-1cd9-5c3c-a76d-c68a7d8fe71a",
+          "ingredient_id": "0e838047-684d-55cb-884e-e7872e0e96c4",
+          "name": "mint",
+          "display_text": "1/2 tsp Mint",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "6e6e39f6-4ffb-5e76-b570-9605c2da0458",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "1/2 tsp Thyme",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "088c308a-df01-5f75-9cb0-782ce21f5358",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1/4 tsp Black Pepper",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "54b1b4a4-211a-5ccf-9894-2db97e61f73f",
+          "ingredient_id": "288d1261-262e-5a23-aa76-135a3c62df23",
+          "name": "red pepper flakes",
+          "display_text": "1/4 tsp Red Pepper Flakes",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "8b543af8-a76f-59d5-b970-2b763d875417",
+          "ingredient_id": "2d490c0b-0744-5be5-a104-641c87b13636",
+          "name": "vegetable stock",
+          "display_text": "4 cups Vegetable Stock",
+          "quantity": 4.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 960.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "9e666bac-017e-5efd-872c-780b244a80e7",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1 cup Water",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "77d49fbc-654c-5571-ad6c-16a74b5e10b8",
+          "ingredient_id": "9ffd51ab-918f-5fa2-838e-51c491b97dd2",
+          "name": "sea salt",
+          "display_text": "Pinch Sea Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Pick through your lentils for any foreign debris, rinse them 2 or 3 times, drain, and set aside.  Fair warning, this will probably turn your lentils into a solid block that you’ll have to break up later",
+      "ingredients_used": [
+        "dd765293-07a3-5e23-99d3-e8c16a14b61e"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a large pot over medium-high heat, sauté the olive oil and the onion with a pinch of salt for about 3 minutes, then add the carrots and cook for another 3 minutes.",
+      "ingredients_used": [
+        "43544e02-bd50-5011-b0e4-5ced1013671e",
+        "95f1cb20-603f-542d-b9ae-018efd195c7b",
+        "77d49fbc-654c-5571-ad6c-16a74b5e10b8"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the tomato paste and stir it around for around 1 minute. Now add the cumin, paprika, mint, thyme, black pepper, and red pepper as quickly as you can and stir for 10 seconds to bloom the spices. Congratulate yourself on how amazing your house now smells.",
+      "ingredients_used": [
+        "d581adae-95af-58e6-a1de-aebdb46ea78f",
+        "c1a15bb7-e15c-5878-9d3d-b12443c03b05",
+        "ad59fcb0-1cd9-5c3c-a76d-c68a7d8fe71a",
+        "6e6e39f6-4ffb-5e76-b570-9605c2da0458",
+        "088c308a-df01-5f75-9cb0-782ce21f5358"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Immediately add the lentils, water, broth, and salt. Bring the soup to a (gentle) boil.",
+      "ingredients_used": [
+        "dd765293-07a3-5e23-99d3-e8c16a14b61e",
+        "9e666bac-017e-5efd-872c-780b244a80e7",
+        "77d49fbc-654c-5571-ad6c-16a74b5e10b8"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "After it has come to a boil, reduce heat to medium-low, cover the pot halfway, and cook for 15-20 minutes or until the lentils have fallen apart and the carrots are completely cooked.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "dd765293-07a3-5e23-99d3-e8c16a14b61e",
+        "95f1cb20-603f-542d-b9ae-018efd195c7b"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "After the soup has cooked and the lentils are tender, blend the soup either in a blender or simply use a hand blender to reach the consistency you desire. Taste for seasoning and add more salt if necessary.",
+      "ingredients_used": [
+        "dd765293-07a3-5e23-99d3-e8c16a14b61e",
+        "77d49fbc-654c-5571-ad6c-16a74b5e10b8"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Serve with crushed-up crackers, torn up bread, or something else to add some extra thickness.  You could also use a traditional thickener (like cornstarch or flour), but I prefer to add crackers for some texture and saltiness.  Makes great leftovers, stays good in the fridge for about a week.",
+      "ingredients_used": [
+        "77d49fbc-654c-5571-ad6c-16a74b5e10b8"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://findingtimeforcooking.com/main-dishes/red-lentil-soup-corba/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

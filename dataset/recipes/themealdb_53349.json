@@ -1,0 +1,270 @@
+{
+  "id": "46c16f97-ca08-59d9-bad6-ae9583f3ea47",
+  "version": "1.0.0",
+  "title": "Jamaican Pepper Shrimp",
+  "slug": "jamaican-pepper-shrimp",
+  "summary": "A spicy Jamaican seafood dish featuring shrimp marinated in annatto, allspice, and scotch bonnet peppers, simmered in a savory shrimp stock.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:26:24Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53349"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/bx07m71764792853.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/bx07m71764792853.jpg/small",
+      "alt_text": "Photo of Jamaican Pepper Shrimp",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ILCmxtCp8jc"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "2dfec5c8-490a-551c-9d2f-e8e21f706bda",
+        "slug": "jamaican",
+        "name": "Jamaican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "marinating_time_minutes": 10,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of shrimp with sauce"
+  },
+  "allergens": {
+    "contains": [
+      "fish",
+      "shellfish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "da9fc26b-dac9-59c2-9588-31424944f215",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "3be58c3a-8632-516d-882e-e32153722d31",
+          "ingredient_id": "495feb0d-c0ab-535f-8cf6-cd706b58f4d5",
+          "name": "shrimp",
+          "display_text": "1 lb Shrimp",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "8efe444e-3d8c-5bae-9bf2-7701dc71348e",
+          "ingredient_id": "cfe71375-907d-57ad-936c-b27b60946f4e",
+          "name": "scotch bonnet",
+          "display_text": "2 chopped Scotch Bonnet",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c8e13b48-c3f3-55c8-9742-4b3e9015b467",
+          "ingredient_id": "cc13d994-4056-5662-bfdc-da000c2a117b",
+          "name": "all-purpose seasoning",
+          "display_text": "1 tablespoon All-purpose Seasoning",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "fa7b1a78-a985-5dde-b5af-ea045062f47d",
+          "ingredient_id": "3ac9acd0-038c-54f3-8984-ffa7fe269740",
+          "name": "ground annatto",
+          "display_text": "2 tsp Ground Annatto",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "22e866d3-8a99-5e59-a374-11ea162b62ab",
+          "ingredient_id": "38dedce7-9a7f-57ee-8e46-5162ab60eba8",
+          "name": "allspice",
+          "display_text": "2 tsp Allspice",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d69fd373-29c6-5c6f-a993-3a8471760c2b",
+          "ingredient_id": "8001d703-c589-5c9a-8d6c-88815f00e4fd",
+          "name": "shrimp stock",
+          "display_text": "3/4 cup Shrimp Stock",
+          "quantity": 0.75,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 180.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "c156a710-1836-54dc-9402-1d8d22179208",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1/4 cup Onion",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "1e1bd261-e681-56a1-9a2e-f7eb1af9758a",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves minced Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "minced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3d977c18-276c-59f8-8651-896a1fe9ae39",
+          "ingredient_id": "b7b7e394-7e0b-5e0b-8f4c-19d0888f8705",
+          "name": "white vinegar",
+          "display_text": "2 tablespoons White Vinegar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "e0c402b1-e125-500c-990a-606ac5ccfe80",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "3 sprigs Thyme",
+          "quantity": 3.0,
+          "unit": "sprig",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "623f82ad-8832-5380-86b7-025557b8dfa3",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "In a medium bowl, combine shrimp with minced Scotch Bonnet peppers, all-purpose seasoning, ground annatto, and grounf allspice. Toss well to coat evenly and let marinate for 10 minutes.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "3be58c3a-8632-516d-882e-e32153722d31",
+        "8efe444e-3d8c-5bae-9bf2-7701dc71348e",
+        "c8e13b48-c3f3-55c8-9742-4b3e9015b467",
+        "fa7b1a78-a985-5dde-b5af-ea045062f47d",
+        "22e866d3-8a99-5e59-a374-11ea162b62ab"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat a large pan over medium heat. Add the shrimp stock and bring to a gentle simmer. Stir in the diced onion and garlic, cooking until softened and fragrant, about 2 minutes.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "3be58c3a-8632-516d-882e-e32153722d31",
+        "d69fd373-29c6-5c6f-a993-3a8471760c2b",
+        "c156a710-1836-54dc-9402-1d8d22179208",
+        "1e1bd261-e681-56a1-9a2e-f7eb1af9758a"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the seasoned shrimp and thyme sprigs, spreading the shrimp in the pan. Cover and cook for about 5–7 minutes, stirring occasionally, until the shrimp turn bright orange and are cooked through.",
+      "timer_seconds": 420,
+      "ingredients_used": [
+        "3be58c3a-8632-516d-882e-e32153722d31",
+        "e0c402b1-e125-500c-990a-606ac5ccfe80"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add the white vinegar, stir, and cook for another minute. Taste; add salt to taste. Using a slotted spoon, transfer the shrimp to a plate. Serve hot with some cooking liquid drizzled on top.",
+      "ingredients_used": [
+        "3be58c3a-8632-516d-882e-e32153722d31",
+        "3d977c18-276c-59f8-8651-896a1fe9ae39",
+        "623f82ad-8832-5380-86b7-025557b8dfa3"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.myforkinglife.com/jamaican-pepper-shrimp-recipe/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

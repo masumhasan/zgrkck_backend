@@ -1,0 +1,247 @@
+{
+  "id": "de33b08d-8978-5254-ba07-e2b4c0bf0942",
+  "version": "1.0.0",
+  "title": "Purple sprouting broccoli tempura with nuoc cham",
+  "slug": "purple-sprouting-broccoli-tempura-with-nuoc-cham",
+  "summary": "Crispy purple sprouting broccoli coated in a light tempura batter and served with a traditional Vietnamese nuoc cham dipping sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:15:51Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53230"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/xnv4wf1763756529.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/xnv4wf1763756529.jpg/small",
+      "alt_text": "Photo of Purple sprouting broccoli tempura with nuoc cham",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "60481cf3-a7b7-5be4-a0dc-6b872c887e64",
+        "slug": "vietnamese",
+        "name": "Vietnamese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "lunch",
+      "dinner",
+      "dessert"
+    ],
+    "courses": [
+      "appetizer",
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 5,
+    "total_time_minutes": 20
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of broccoli with dipping sauce"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "fish",
+      "sesame"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "c85cc5b2-4e1e-55fe-b07d-3b3659f8e344",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "96f3a9b1-3f06-586a-b5c4-133b28174649",
+          "ingredient_id": "94f73465-e9e4-5ae0-8787-ee86687dbeb4",
+          "name": "corn flour",
+          "display_text": "50g Corn Flour",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "ccf7cce7-561f-5d0c-9da7-5f6898d8e49a",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "100g Plain Flour",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "39968c53-367e-5bdd-9e0f-9e665d656a5a",
+          "ingredient_id": "d5403c00-b586-53a5-a77f-fac320f14278",
+          "name": "sesame seed",
+          "display_text": "1 tablespoon Sesame Seed",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "751713ae-6a31-550a-81ae-b0f3b6c6d2f5",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "For frying Vegetable Oil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "for frying",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "0d3784e8-d8d5-50c9-8024-feefb6441c8e",
+          "ingredient_id": "abdb7af3-30af-591a-9fd6-cd9bf6f7982e",
+          "name": "soda water",
+          "display_text": "250ml Soda Water",
+          "quantity": 250.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "8d06ebc3-2801-5d11-8f72-fb2a40e52684",
+          "ingredient_id": "2c12aa95-7f7e-51a8-900e-4415532bb516",
+          "name": "purple sprouting broccoli",
+          "display_text": "200g Purple Sprouting Broccoli",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "bc4025a7-622d-512d-a259-071276e637cf",
+          "ingredient_id": "de927c20-fdfa-5b98-8ee9-7840fa951a2f",
+          "name": "fish sauce",
+          "display_text": "2 tablespoons Fish Sauce",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "f610c2e8-6d73-58cc-9397-5f3d52d45f02",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "Juice of 2 Lime",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b064b7da-68bf-5efd-89b9-cf0a40625c02",
+          "ingredient_id": "c34401c7-b5ba-5c77-b08c-3f81a2f87c95",
+          "name": "birds-eye chillies",
+          "display_text": "1 chopped Birds-eye Chillies",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "44ce6d9a-6060-59e1-bff3-2010da7c9db7",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "2 tablespoons Sugar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "For the nuoc cham, whisk together all of the ingredients with 5 tbsp hot water in a small bowl. Set aside while you make the tempura."
+    },
+    {
+      "step_number": 2,
+      "instruction": "Whisk the cornflour, plain flour, sesame seeds (if using) and a large pinch of salt together. Fill a large, deep pan no more than a third full with the vegetable oil and heat until it reaches 180C or a cube of bread dropped in browns in 20 seconds.",
+      "timer_seconds": 20,
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "ccf7cce7-561f-5d0c-9da7-5f6898d8e49a",
+        "39968c53-367e-5bdd-9e0f-9e665d656a5a",
+        "751713ae-6a31-550a-81ae-b0f3b6c6d2f5"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Quickly whisk the soda water into the flour mixture, being careful not to overmix, then dunk in the broccoli using tongs. Carefully lower into the hot oil and cook for 2-3 mins until crisp. Drain on kitchen paper, then serve with the nuoc cham on the side for dipping.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "0d3784e8-d8d5-50c9-8024-feefb6441c8e",
+        "8d06ebc3-2801-5d11-8f72-fb2a40e52684"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/purple-sprouting-broccoli-tempura-with-nuoc-cham"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "id": "ddc973d4-5fd0-5620-b8ab-c2b65c5b6d0a",
+  "version": "1.0.0",
+  "title": "Smoky chicken skewers",
+  "slug": "smoky-chicken-skewers",
+  "summary": "Chicken thighs marinated in a blend of fennel, cumin, and smoked paprika, then grilled on skewers. Served with a smoky aïoli.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:18:51Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53264"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/3um6il1763794322.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/3um6il1763794322.jpg/small",
+      "alt_text": "Photo of Smoky chicken skewers",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=vNDTGF4ppu8"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4c480df7-c067-5e9c-ac08-d8d49afa7f51",
+        "slug": "turkish",
+        "name": "Turkish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 5,
+    "serving_unit": "servings",
+    "serving_size_description": "3 skewers"
+  },
+  "allergens": {
+    "contains": [
+      "eggs",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "a62d2ba3-e294-5af5-ad93-d8f0a96e82be",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "a6810028-4de1-578f-8cac-3a6f1274e821",
+          "ingredient_id": "e0e4d032-0f9f-5908-ab90-db9a8ec5b68c",
+          "name": "chicken thighs",
+          "display_text": "6 Chicken Thighs",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "20d7d7ee-e825-5f0d-a752-5f6f1716bfec",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tablespoons Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "6d5785a5-7400-5e1b-813f-2ca5d5d1ba5a",
+          "ingredient_id": "020529fb-59b6-53c9-af68-aa8298301e38",
+          "name": "fennel seeds",
+          "display_text": "1 tsp Fennel Seeds",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "5e80e803-7d75-56c6-acb3-fdbd524097e5",
+          "ingredient_id": "efa5be6a-3bc3-55ca-812f-22dd145ba53d",
+          "name": "ground cumin",
+          "display_text": "1 tsp Ground Cumin",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "145eae50-373c-53ad-bd42-e032f20ac6fc",
+          "ingredient_id": "9f84e62c-2837-5620-bc34-6ce2bf1703a3",
+          "name": "sweet smoked paprika",
+          "display_text": "1 tsp sweet smoked paprika",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "073ceff9-c040-5903-b767-626d7dcab5c0",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove peeled crushed Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "preparation": "peeled crushed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3added32-53bd-5def-ae30-3604c4c4938f",
+          "ingredient_id": "38df984b-29a1-5431-8935-d850dfe8f8f7",
+          "name": "red wine vinegar",
+          "display_text": "1 tsp Red Wine Vinegar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "440e19ba-272c-51cc-88a3-0deae7ecd30d",
+          "ingredient_id": "69dca6a5-f19e-522a-8a8b-b3d71a3ea681",
+          "name": "smoky aïoli",
+          "display_text": "To serve Smoky Aïoli",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "You need 15 skewers: if wooden, soak in water for 10 mins. Cut chicken into 3cm pieces and place in a bowl. Add 1 tbsp olive oil, the spices, garlic and vinegar, toss well and season. You can do this up to a day before and refrigerate.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "20d7d7ee-e825-5f0d-a752-5f6f1716bfec",
+        "073ceff9-c040-5903-b767-626d7dcab5c0"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Thread 2-3 pieces on each skewer. Pour remaining oil in a frying pan or rub onto a griddle pan. Get the pan hot and sear the chicken for 3-4 mins on each side – you may have to do this in batches, keeping the cooked skewers warm in a low oven. Serve with smoky aïoli if you like.",
+      "timer_seconds": 240,
+      "ingredients_used": [
+        "440e19ba-272c-51cc-88a3-0deae7ecd30d"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/smoky-chicken-skewers"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

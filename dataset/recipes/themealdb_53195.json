@@ -1,0 +1,251 @@
+{
+  "id": "b0bf2d8a-1c17-5ddb-b83e-d8555495becb",
+  "version": "1.0.0",
+  "title": "Thai curry noodle soup",
+  "slug": "thai-curry-noodle-soup",
+  "summary": "A fragrant Thai-style soup featuring king prawns and vegetables in a coconut milk and green curry broth, served with udon noodles.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:12:41Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53195"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/118oj61763423896.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/118oj61763423896.jpg/small",
+      "alt_text": "Photo of Thai curry noodle soup",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=FN8tcugjCFs"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "724b7c6a-f254-57d4-9729-335a2b2d93b1",
+        "slug": "thai",
+        "name": "Thai"
+      }
+    ],
+    "tags": [
+      "soup"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 9,
+    "total_time_minutes": 19
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of noodle soup"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "shellfish"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "fish",
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "bb1727de-8f58-5f0a-838a-2d41c0379ecd",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "3888a332-8573-5680-8e45-cfdb61e943fa",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "1 teaspoon Vegetable Oil",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "c03b24a9-d217-5fb4-ba5c-171ece084962",
+          "ingredient_id": "86397612-3e3c-5a11-a1ad-0607ff70527b",
+          "name": "thai green curry paste",
+          "display_text": "1 tbsp Thai Green Curry Paste",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "9686ca9a-1947-558e-94d1-440b77a1e584",
+          "ingredient_id": "23986e5a-025d-5ef8-bc61-1526037c2826",
+          "name": "stir-fry vegetables",
+          "display_text": "220g Stir-fry Vegetables",
+          "quantity": 220.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 220.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "f16cebcd-d968-599e-aaf8-9d6f3c54906d",
+          "ingredient_id": "c25c2a5c-b6b1-56c4-b863-457dc879b0df",
+          "name": "raw king prawns",
+          "display_text": "150g Raw King Prawns",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "372b1439-426c-55da-88be-62daf85bf87a",
+          "ingredient_id": "0435e55e-84f6-566c-ac81-37617bbab91c",
+          "name": "coconut milk",
+          "display_text": "150ml Coconut Milk",
+          "quantity": 150.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "f4563767-2861-56eb-ac6a-33d4c5a23b15",
+          "ingredient_id": "2d490c0b-0744-5be5-a104-641c87b13636",
+          "name": "vegetable stock",
+          "display_text": "225ml Vegetable Stock",
+          "quantity": 225.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 225.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "4d1db0a4-6c1d-5476-97bb-cda00cefba85",
+          "ingredient_id": "b931b5ea-f2d0-52e8-905f-fcfddeab6b25",
+          "name": "udon noodles",
+          "display_text": "250g Udon Noodles",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "5814171b-c324-5336-a180-94b940b87705",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "10g Coriander",
+          "quantity": 10.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "gram",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d9528d68-54a6-5be2-b9e3-ddd9490f5da7",
+          "ingredient_id": "fc6a825e-e02a-589c-91d6-b4e76ccc6354",
+          "name": "basil",
+          "display_text": "10g Basil",
+          "quantity": 10.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "gram",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "2e168a5d-e449-5db6-9ba5-be818d29e9cc",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "1 sliced Red Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "8564ed3a-768b-5ad9-bfae-afd4574455b4",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "1 sliced Spring Onions",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oil in a saucepan over a medium heat and cook the curry paste for 1 min before adding the stir-fry veg and prawns. Cook for 3 mins until the prawns are mostly pink, then add the coconut milk, veg stock and noodles.",
+      "ingredients_used": [
+        "f16cebcd-d968-599e-aaf8-9d6f3c54906d",
+        "372b1439-426c-55da-88be-62daf85bf87a",
+        "4d1db0a4-6c1d-5476-97bb-cda00cefba85"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Bring to the boil, then reduce the heat to a simmer and cook for 5 mins until the noodles are cooked through and the veg is tender but still has a bite. Divide between two bowls and sprinkle over the herbs, chilli and spring onion.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "4d1db0a4-6c1d-5476-97bb-cda00cefba85",
+        "2e168a5d-e449-5db6-9ba5-be818d29e9cc"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/thai-curry-noodle-soup"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

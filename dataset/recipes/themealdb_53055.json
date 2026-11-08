@@ -1,0 +1,278 @@
+{
+  "id": "686ca71b-3470-5a0f-beea-49ac325d1fbb",
+  "version": "1.0.0",
+  "title": "Cevapi Sausages",
+  "slug": "cevapi-sausages",
+  "summary": "Cevapi are traditional Balkan grilled sausages made from a mixture of minced beef and pork seasoned with garlic, onion, and paprika.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:00:43Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53055"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/vc08jn1628769553.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/vc08jn1628769553.jpg/small",
+      "alt_text": "Photo of Cevapi Sausages",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=_MpSxSgS7f8"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b5d05ee7-9bce-5691-809b-0e253d6b7ed2",
+        "slug": "croatian",
+        "name": "Croatian"
+      }
+    ],
+    "tags": [
+      "sausages"
+    ],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 14,
+    "marinating_time_minutes": 120,
+    "total_time_minutes": 154
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "4-5 sausages"
+  },
+  "allergens": {
+    "contains": [
+      "gluten"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "f8cb4215-4fee-55f6-9a00-930d74f850ec",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "2c44e473-f9ff-5668-83a7-869c3d99c9d9",
+          "ingredient_id": "32de35ba-e219-523e-a9c8-e8bef0b536c9",
+          "name": "minced beef",
+          "display_text": "500g Minced Beef",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "7bc37bcf-aaea-5a13-b34f-56d16072d665",
+          "ingredient_id": "129e9d71-a5d6-5673-b00e-1cc058330b03",
+          "name": "minced pork",
+          "display_text": "250g Minced Pork",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "39ed3286-eab2-5d28-877e-71cb393f0cb2",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "560d14d6-c5f2-53d5-97c6-ad2e86995290",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "4 cloves Garlic",
+          "quantity": 4.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "cca088e5-d652-546e-8250-a7e22e20b846",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "3 tblsp chopped Parsley",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "c29ab8e1-4fee-5bcc-b6d8-05d6636b1b47",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1 tbs Paprika",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3bb3d77a-adde-5800-90c4-f68556607bc0",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "3/4 teaspoon Baking Powder",
+          "quantity": 0.75,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 3.8,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "bf274bd1-a064-5a0a-9d47-c5e3324954c1",
+          "ingredient_id": "00efa231-6d81-5c88-91fa-b330117cc5f4",
+          "name": "breadcrumbs",
+          "display_text": "2 tbs Breadcrumbs",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "7dd54d30-cb65-556f-8521-f6615eb2e319",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "3 tbs Water",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "98847f74-5f72-535e-bd9a-41636508091c",
+          "ingredient_id": "7987b479-6a71-5b57-9ff9-daff64e561ca",
+          "name": "vegetable stock cube",
+          "display_text": "1 Vegetable Stock Cube",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "b9193a5e-2ca4-54e1-9bbb-8d57178210b1",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "19d10ee7-eb84-50d5-9b8e-2eda786ab4c3",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "1 tsp Pepper",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Place the ground meat in a bowl. Chop the onion very finely and grate the garlic cloves. Add to the bowl. Add the chopped parsley, all sorts of paprika, baking soda, dried breadcrumbs, water, Vegeta, salt, and pepper.",
+      "ingredients_used": [
+        "39ed3286-eab2-5d28-877e-71cb393f0cb2",
+        "560d14d6-c5f2-53d5-97c6-ad2e86995290",
+        "cca088e5-d652-546e-8250-a7e22e20b846",
+        "c29ab8e1-4fee-5bcc-b6d8-05d6636b1b47",
+        "bf274bd1-a064-5a0a-9d47-c5e3324954c1",
+        "7dd54d30-cb65-556f-8521-f6615eb2e319",
+        "b9193a5e-2ca4-54e1-9bbb-8d57178210b1",
+        "19d10ee7-eb84-50d5-9b8e-2eda786ab4c3"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Mix well with the hand mixer fitted with the dough hooks. Cover the bowl with cling film/ plastic foil and leave to rest for 1 or 2 hours in the refrigerator.",
+      "timer_seconds": 7200
+    },
+    {
+      "step_number": 3,
+      "instruction": "Take portions of the meat mixture, about 50-55 g/ 1.7-1.9 oz/ ¼ cup portions, and form the cevapi. The rolls should be about as thick as your thumb and about 7-10 cm/ 3-4 inches long. I had 18 sausages. The recipe can be easily doubled."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Grill the cevapcici on the hot grill pan or on the barbecue for about 12-14 minutes, turning them several times in between, or until brown and cooked through. I checked by cutting one in the middle and then grilling the following batches for the same period of time.",
+      "timer_seconds": 840
+    },
+    {
+      "step_number": 5,
+      "instruction": "Serve hot as suggested above. The cevapcici can be reheated in the oven at 180 degrees Celsius/ 350 degrees Fahrenheit for about 10 minutes or until heated through. Check one, if it is not hot enough, give the sausages a few more minutes.",
+      "timer_seconds": 600,
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      }
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://whereismyspoon.co/cevapi-or-cevapcici-recipe-grilled-sausages-croatian-food/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "id": "1fe26560-ce38-57d4-be22-040183401998",
+  "version": "1.0.0",
+  "title": "Massaman Beef curry",
+  "slug": "massaman-beef-curry",
+  "summary": "A rich and fragrant Thai curry featuring tender beef, potatoes, and peanuts in a coconut milk base flavored with tamarind and cinnamon.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:40:56Z",
+  "updated_at": "2026-10-16T10:22:46Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52827"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/tvttqv1504640475.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/tvttqv1504640475.jpg/small",
+      "alt_text": "Photo of Massaman Beef curry",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=mVxgZSCU9_g"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "724b7c6a-f254-57d4-9729-335a2b2d93b1",
+        "slug": "thai",
+        "name": "Thai"
+      }
+    ],
+    "tags": [
+      "curry"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 125,
+    "total_time_minutes": 145
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a bowl of curry with jasmine rice"
+  },
+  "allergens": {
+    "contains": [
+      "peanuts",
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "ebbc046d-b0ae-5c29-8323-b90063e3854a",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "e9624505-155f-52c7-b03c-4df934ce6599",
+          "ingredient_id": "200b7141-d967-52ee-b154-4f8ed303ac02",
+          "name": "peanuts",
+          "display_text": "85g Peanuts",
+          "quantity": 85.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 85.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "b1761584-638b-5b95-af70-92e120c535bb",
+          "ingredient_id": "0f3e4fb6-2462-5ac9-9904-fadac99ad6a7",
+          "name": "coconut cream",
+          "display_text": "400ml can Coconut cream",
+          "quantity": 400.0,
+          "unit": "milliliter",
+          "preparation": "can",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "224626b6-1d17-5a07-8b16-cdb199a2a296",
+          "ingredient_id": "63d7f6fc-e7bb-5354-b642-09bca549c5b2",
+          "name": "massaman curry paste",
+          "display_text": "4 tbsp Massaman curry paste",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "12c58ad6-775b-5e52-94ee-962670d9bb12",
+          "ingredient_id": "c2102b4e-a5b4-5bab-b7d5-bdfa5244ae7b",
+          "name": "beef",
+          "display_text": "600g stewing cut into strips Beef",
+          "quantity": 600.0,
+          "unit": "gram",
+          "preparation": "stewing cut into strips",
+          "is_optional": false,
+          "metric_quantity": 600.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "37814808-7f5b-5ca3-a517-6e41c9497ad4",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "450g waxy Potatoes",
+          "quantity": 450.0,
+          "unit": "gram",
+          "preparation": "waxy",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "2fec4160-8ee3-539d-b3fe-e172f9f6ca6f",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 cut thin wedges Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "cut thin wedges",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c5c6bc77-2154-500e-9a5b-9487bdf50fa3",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "4 leaves Lime",
+          "quantity": 4.0,
+          "unit": "leaf",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "9efab0fe-1df7-5cef-a7a2-9fdef0839c61",
+          "ingredient_id": "815267d7-ad8f-543a-b885-c3fdabdc63fb",
+          "name": "cinnamon stick",
+          "display_text": "1 Cinnamon stick",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "2f070c7a-1a2f-573a-af54-a5ae123cd3ba",
+          "ingredient_id": "459ccfd6-d28f-544c-80d1-1b5a80bf5bed",
+          "name": "tamarind paste",
+          "display_text": "1 tbsp Tamarind paste",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "6b71e295-08a2-546b-bc1f-566598e2d5d8",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "1 tbsp palm or soft light Brown sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "preparation": "palm or soft light",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "f709e4b2-f16a-5f05-971e-eb742f2fbba3",
+          "ingredient_id": "de927c20-fdfa-5b98-8ee9-7840fa951a2f",
+          "name": "fish sauce",
+          "display_text": "1 tbsp Fish Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "e7177e56-3409-5726-9191-3ec15d735b6d",
+          "ingredient_id": "3deb6c1f-bd27-560b-a63b-f2b3eaf9e82e",
+          "name": "chilli",
+          "display_text": "1 red deseeded and finely sliced, to serve chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "red deseeded and finely sliced, to serve",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "657ac61f-f1db-5b81-8e26-f069daab9063",
+          "ingredient_id": "5e15f536-69f0-5645-a107-7aef5fc85d55",
+          "name": "jasmine rice",
+          "display_text": "to serve Jasmine Rice",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "grains_pasta"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 200C/180C fan/gas 6, then roast the peanuts on a baking tray for 5 mins until golden brown. When cool enough to handle, roughly chop. Reduce oven to 180C/160C fan/gas 4.",
+      "timer_seconds": 300,
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "e9624505-155f-52c7-b03c-4df934ce6599"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat 2 tbsp coconut cream in a large casserole dish with a lid. Add the curry paste and fry for 1 min, then stir in the beef and fry until well coated and sealed. Stir in the rest of the coconut with half a can of water, the potatoes, onion, lime leaves, cinnamon, tamarind, sugar, fish sauce and most of the peanuts. Bring to a simmer, then cover and cook for 2 hrs in the oven until the beef is tender.",
+      "ingredients_used": [
+        "e9624505-155f-52c7-b03c-4df934ce6599",
+        "b1761584-638b-5b95-af70-92e120c535bb",
+        "12c58ad6-775b-5e52-94ee-962670d9bb12",
+        "37814808-7f5b-5ca3-a517-6e41c9497ad4",
+        "2fec4160-8ee3-539d-b3fe-e172f9f6ca6f",
+        "c5c6bc77-2154-500e-9a5b-9487bdf50fa3",
+        "f709e4b2-f16a-5f05-971e-eb742f2fbba3"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Sprinkle with sliced chilli and the remaining peanuts, then serve straight from the dish with jasmine rice.",
+      "ingredients_used": [
+        "e9624505-155f-52c7-b03c-4df934ce6599",
+        "e7177e56-3409-5726-9191-3ec15d735b6d",
+        "657ac61f-f1db-5b81-8e26-f069daab9063"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/420631/beef-massaman-curry"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

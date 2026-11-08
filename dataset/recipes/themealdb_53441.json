@@ -1,0 +1,177 @@
+{
+  "id": "fc139983-bc85-5eb6-b53c-9a9731be8ce7",
+  "version": "1.0.0",
+  "title": "Banana den Forno",
+  "slug": "banana-den-forno",
+  "summary": "A traditional Aruban dessert consisting of bananas boiled in a spiced sugar syrup and then baked in the oven.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:34:27Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53441"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/6v583k1780093743.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/6v583k1780093743.jpg/small",
+      "alt_text": "Photo of Banana den Forno",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "0582bdef-9340-5f24-b48f-1bf7f5f392ac",
+        "slug": "aruban",
+        "name": "Aruban"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 35
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 banana with syrup"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "f8274f1a-8092-5a9f-a425-fd8bd52c3531",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "ab3485c9-e657-5e54-98c4-76d8e4ee7f90",
+          "ingredient_id": "1c08a43f-9a80-5096-bd85-45ff68c9069c",
+          "name": "banana",
+          "display_text": "4 Banana",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "91ba9e51-e42f-56f3-98f3-fd782fe70dc7",
+          "ingredient_id": "7af3c207-3c37-5965-a096-bf34ac1db1f4",
+          "name": "ground cinnamon",
+          "display_text": "2 tablespoons Ground Cinnamon",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "b024eb68-401e-5681-842d-50397956f130",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "3  tablespoons Vanilla Extract",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "355399fe-c786-50b6-a0de-facd65f19024",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 cup Sugar",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "1be6a718-b916-561e-a2b3-bca2811ba16d",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "4 cups Water",
+          "quantity": 4.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 960.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Peal the bananas and boil them together with the cinnamon, vanilla extract, sugar and water for about 20 minutes. Bake the bananas in the oven at 275°F for 10 minutes.",
+      "temperature": {
+        "value": 275,
+        "unit": "fahrenheit"
+      },
+      "ingredients_used": [
+        "ab3485c9-e657-5e54-98c4-76d8e4ee7f90",
+        "91ba9e51-e42f-56f3-98f3-fd782fe70dc7",
+        "b024eb68-401e-5681-842d-50397956f130",
+        "355399fe-c786-50b6-a0de-facd65f19024",
+        "1be6a718-b916-561e-a2b3-bca2811ba16d"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Serve with favorite ice cream."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.visitaruba.com/aruba-recipes/banana-den-forno/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

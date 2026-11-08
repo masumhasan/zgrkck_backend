@@ -1,0 +1,327 @@
+{
+  "id": "8bc550e4-5546-5b2c-b11c-96f26abb3468",
+  "version": "1.0.0",
+  "title": "Belgian Waterzooi Chicken",
+  "slug": "belgian-waterzooi-chicken",
+  "summary": "A traditional Belgian creamy chicken stew made with chicken, leeks, carrots, celery, and potatoes in a rich cream-based sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:36:39Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53466"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/nmxec11782498644.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/nmxec11782498644.jpg/small",
+      "alt_text": "Photo of Belgian Waterzooi Chicken",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "be40c58d-b0e2-5e0f-99bc-6d79e9a5a5f5",
+        "slug": "belgian",
+        "name": "Belgian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 43,
+    "total_time_minutes": 58
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of stew"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "eggs",
+      "celery"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "f24919ac-e073-5bc4-9f0f-389e61a1f96e",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "d51cb49a-cae2-5b69-9394-1c4d97066d57",
+          "ingredient_id": "e023ae45-1d37-5ed8-bd41-426cd1a6688c",
+          "name": "chicken legs",
+          "display_text": "1 Chicken Legs",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "323e84ee-c977-58c8-9566-acb07f58bb3f",
+          "ingredient_id": "e23191a1-4966-5b21-a6f1-8df6f50b79db",
+          "name": "chicken breast",
+          "display_text": "1 Chicken Breast",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "65dc1129-c64d-5385-b9fa-d584f1457b6f",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "3 Cups Water",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "93956c8f-e9a2-592b-be29-dc0128681125",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "1 small Carrots",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "70582b05-db03-57ca-b3b7-7cd453c18d61",
+          "ingredient_id": "ef5d99bc-384e-522a-8c0f-1c8501f6612c",
+          "name": "leek",
+          "display_text": "2 Leek",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "97bd1c22-2d45-54c6-b702-0345be34d06a",
+          "ingredient_id": "ed4951b3-26e6-5bb4-a5af-9c61a46687a0",
+          "name": "celery",
+          "display_text": "1 Celery",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "12e9476b-f27b-58c6-9081-6f3b894e2583",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "100g Potatoes",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "d0b9f4c7-3bff-560e-bb0a-41139f7496f1",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "562f4244-e7db-5537-bc2a-f63b5d38a349",
+          "ingredient_id": "b0bbff87-223e-5a9c-aa07-1ee472617b84",
+          "name": "rosemary",
+          "display_text": "1 Sprig Rosemary",
+          "quantity": 1.0,
+          "unit": "sprig",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "aab2767e-8a92-5cb9-9488-47d02657ca39",
+          "ingredient_id": "43dddb7a-8e44-5264-87bc-a38406ffbb26",
+          "name": "cream",
+          "display_text": "1 1/2 cups Cream",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "d90e5c80-38c3-515b-ad82-c81159cd581b",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "2 Bay Leaf",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "6614a249-c660-56fc-92a0-8d7db9abdf41",
+          "ingredient_id": "bc46b2a6-8a59-50ee-a044-ce38bddb125c",
+          "name": "unsalted butter",
+          "display_text": "1 tablespoon Unsalted Butter",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "bca177ea-2090-5119-a30a-8e078600e5f0",
+          "ingredient_id": "051a3118-01a4-5366-a922-19ecf618e2f9",
+          "name": "egg yolks",
+          "display_text": "1 Egg Yolks",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "912b1c61-267f-58b3-b1f3-376d991db322",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "Pinch Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "557163bd-d6fc-56c1-a206-4480779fa4f0",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Put the chicken, water and one garlic clove in a large saucepan. Place it over medium-high heat until boiling. Then turn the heat low, cover the pan and simmer the chicken for 10 minutes. Remove the chicken leg and breast. Keep the fresh chicken stock for later.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "323e84ee-c977-58c8-9566-acb07f58bb3f",
+        "65dc1129-c64d-5385-b9fa-d584f1457b6f",
+        "d0b9f4c7-3bff-560e-bb0a-41139f7496f1"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Let the chicken cool. Then dice the chicken breast up. Pick the meat off the leg. Discard any bones and skin. Slice the leek, celery and carrot finely (julienne). Add the butter, rosemary and bay leaves to a large pan and place it over medium heat until melted.",
+      "ingredients_used": [
+        "323e84ee-c977-58c8-9566-acb07f58bb3f",
+        "70582b05-db03-57ca-b3b7-7cd453c18d61",
+        "97bd1c22-2d45-54c6-b702-0345be34d06a",
+        "562f4244-e7db-5537-bc2a-f63b5d38a349",
+        "6614a249-c660-56fc-92a0-8d7db9abdf41"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Then add the sliced vegetables. Season with pepper and salt.",
+      "ingredients_used": [
+        "912b1c61-267f-58b3-b1f3-376d991db322",
+        "557163bd-d6fc-56c1-a206-4480779fa4f0"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Stir and cook the vegetables for 3 minutes. Then add the shredded and diced chicken.",
+      "timer_seconds": 180
+    },
+    {
+      "step_number": 5,
+      "instruction": "Cover the pan and cook the chicken and vegetables for 5 minutes. Then add the cream and ½ cup (120 ml) of the fresh chicken stock.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "aab2767e-8a92-5cb9-9488-47d02657ca39"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Look at this delicious waterzooi recipe! Do try out my chunky chicken stew with fresh leeks, celery, carrots and lots of cream... This is Belgian comfort food!",
+      "ingredients_used": [
+        "93956c8f-e9a2-592b-be29-dc0128681125",
+        "70582b05-db03-57ca-b3b7-7cd453c18d61",
+        "97bd1c22-2d45-54c6-b702-0345be34d06a",
+        "aab2767e-8a92-5cb9-9488-47d02657ca39"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Cover the pan and cook the stew for 20 minutes until the potatoes are tender. Add the egg yolk and 2 tablespoons of the warm cream from the pan to a cup. Whisk and add it back to the pan to thicken the sauce.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "12e9476b-f27b-58c6-9081-6f3b894e2583",
+        "aab2767e-8a92-5cb9-9488-47d02657ca39"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Stir all the ingredients and then turn the heat very low. Check the seasoning and add extra pepper or salt to taste. Remove the rosemary and bay leaves. Divide the stew over deep plates and drizzle with the remaining cream sauce. Serve hot.",
+      "ingredients_used": [
+        "562f4244-e7db-5537-bc2a-f63b5d38a349",
+        "aab2767e-8a92-5cb9-9488-47d02657ca39",
+        "912b1c61-267f-58b3-b1f3-376d991db322",
+        "557163bd-d6fc-56c1-a206-4480779fa4f0"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://junedarville.com/waterzooi.html"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

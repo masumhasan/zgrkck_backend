@@ -1,0 +1,374 @@
+{
+  "id": "100a0425-bd6a-57d2-a123-bb2208f517b5",
+  "version": "1.0.0",
+  "title": "Chicken Fried Rice",
+  "slug": "chicken-fried-rice",
+  "summary": "A classic Chinese-style fried rice dish featuring diced chicken thighs, scrambled eggs, and a variety of vegetables tossed with jasmine rice and aromatic spices.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:28:01Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53367"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/wuyd2h1765655837.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/wuyd2h1765655837.jpg/small",
+      "alt_text": "Photo of Chicken Fried Rice",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=mUr-7wjhHuU"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6813a95e-62cf-55e7-9d4b-6f19ee1d7391",
+        "slug": "chinese",
+        "name": "Chinese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 15,
+    "marinating_time_minutes": 10,
+    "total_time_minutes": 45
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of fried rice"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "eggs",
+      "sesame"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "fish",
+      "shellfish",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "3208ee1f-b462-50da-b700-d09a136f07d0",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "a5dbf8ec-c36e-504d-bc45-3c71b23122a6",
+          "ingredient_id": "e0e4d032-0f9f-5908-ab90-db9a8ec5b68c",
+          "name": "chicken thighs",
+          "display_text": "1 lb Chicken Thighs",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "poultry"
+        },
+        {
+          "id": "6c20c718-e33f-5321-82a5-c7d6923d69c1",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "95518a8d-03f4-576e-b34e-f2e09d29bdd5",
+          "ingredient_id": "a2b10768-5e5c-5fab-80bc-cf7fbc51f362",
+          "name": "canola oil",
+          "display_text": "3  tablespoons Canola Oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "1c87ad1c-9c60-5c5b-86f7-4285b0b9aa44",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "3 Large Egg",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "52f6f4fe-3b5d-5f40-81d1-fe3cfa13b179",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "2/3 Cup Onion",
+          "quantity": 0.6667,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 160.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "5ba66619-95bb-5956-9b9e-cc6e5a99f57f",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves minced Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "minced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "23df52d2-02eb-52a6-8d82-2f352cc608e5",
+          "ingredient_id": "9c72d0cf-8d9c-53f6-b4c6-5631779ba66b",
+          "name": "ground ginger",
+          "display_text": "2 tsp Ground Ginger",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "67ed5925-67dd-5c8b-af48-e65ef81c0e44",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "1 large Carrots",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b3fc77cd-9c41-5e22-8ee3-095ab05ad566",
+          "ingredient_id": "7073667e-84c6-57dc-a1f3-4bd704824318",
+          "name": "peas",
+          "display_text": "2/3 Cup Peas",
+          "quantity": 0.6667,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 160.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "2e278dc2-8ee6-5b8c-9850-0127659b153f",
+          "ingredient_id": "5e15f536-69f0-5645-a107-7aef5fc85d55",
+          "name": "jasmine rice",
+          "display_text": "4 cups Jasmine Rice",
+          "quantity": 4.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 960.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "faf90bd6-9db6-556b-b5ef-62832d63095c",
+          "ingredient_id": "24cbab0a-29d3-5e28-b361-77f90e93af9c",
+          "name": "scallions",
+          "display_text": "2 sliced Scallions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "00542fe9-d105-58eb-824e-c75c0ab0d8e4",
+          "ingredient_id": "35d089ee-90eb-5605-8f27-752f4a446869",
+          "name": "chinese five spice powder",
+          "display_text": "1/2 tsp Chinese five spice powder",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "cd151b99-b822-55e1-b748-b49343948b73",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "2.5 tbsp Soy Sauce",
+          "quantity": 2.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 37.5,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "f5396b43-6670-55e1-b6ed-ef4a12e47120",
+          "ingredient_id": "653731ca-07ee-57df-aa38-0f8f2b71ccc6",
+          "name": "sesame seed oil",
+          "display_text": "1 tsp Sesame Seed Oil",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Fried rice is best made with leftover rice that's at least a day old. Otherwise it becomes gummy in the skillet.",
+      "ingredients_used": [
+        "2e278dc2-8ee6-5b8c-9850-0127659b153f"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "If you don’t have any leftover rice from the night before, cook a batch of rice and spread it on a large baking sheet or several large plates. Let the rice dry out for about 1 to 2 hours before using it for fried rice.",
+      "timer_seconds": 7200,
+      "ingredients_used": [
+        "2e278dc2-8ee6-5b8c-9850-0127659b153f"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Rice sticks to the pan very easily, so make sure to use a wok or pan that doesn’t have a sticky surface. I usually cook stir-fries in my seasoned carbon steel wok, but cast iron or nonstick pans work well, too. You might need to add a little more oil if things aren’t releasing easily.",
+      "ingredients_used": [
+        "2e278dc2-8ee6-5b8c-9850-0127659b153f"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Prepare the chicken:"
+    },
+    {
+      "step_number": 5,
+      "instruction": "Chop the chicken into small 1/4-inch to 1/2-inch cubes. Sprinkle 1/2 teaspoon of salt over the chicken and mix to combine. Set the chicken aside for about 10 minutes (I usually use this time to chop all the vegetables).",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "6c20c718-e33f-5321-82a5-c7d6923d69c1"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Scramble the egg:",
+      "ingredients_used": [
+        "1c87ad1c-9c60-5c5b-86f7-4285b0b9aa44"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Heat a wok or large sauté pan over medium-high heat. Swirl in a tablespoon of oil and add the whisked eggs. Use a spatula to quickly scramble the eggs, breaking the curds into smaller pieces as they come together. Transfer the eggs to a plate."
+    },
+    {
+      "step_number": 8,
+      "instruction": "Cook the chicken:"
+    },
+    {
+      "step_number": 9,
+      "instruction": "Add another tablespoon of oil in the wok or pan. Add the chicken and cook for 4 to 5 minutes, stirring occasionally. Turn off the heat and transfer the cooked chicken to a plate.",
+      "timer_seconds": 300
+    },
+    {
+      "step_number": 10,
+      "instruction": "Using your spatula, scrape off any chicken bits that are still stuck to the wok so they don't burn during the next step. You can also use paper towels to wipe down your wok or pan."
+    },
+    {
+      "step_number": 11,
+      "instruction": "Cook the vegetables:"
+    },
+    {
+      "step_number": 12,
+      "instruction": "Swirl 1 tablespoon of oil into the wok over medium-high heat. Add the diced onions and cook them for 1 minute, until they start to soften. Mix in the minced garlic and ginger and cook until fragrant, about 30 seconds. Add the diced carrots and cook for 2 minutes, stirring frequently. Add 1/2 teaspoon salt and the peas, and stir to incorporate.",
+      "ingredients_used": [
+        "6c20c718-e33f-5321-82a5-c7d6923d69c1",
+        "52f6f4fe-3b5d-5f40-81d1-fe3cfa13b179",
+        "5ba66619-95bb-5956-9b9e-cc6e5a99f57f",
+        "23df52d2-02eb-52a6-8d82-2f352cc608e5",
+        "67ed5925-67dd-5c8b-af48-e65ef81c0e44",
+        "b3fc77cd-9c41-5e22-8ee3-095ab05ad566"
+      ]
+    },
+    {
+      "step_number": 13,
+      "instruction": "Cook the rice:",
+      "ingredients_used": [
+        "2e278dc2-8ee6-5b8c-9850-0127659b153f"
+      ]
+    },
+    {
+      "step_number": 14,
+      "instruction": "Add the rice to the wok or pan on top of the vegetables and stir to combine. Using the back of your spatula, smash any large chunks of rice to break them apart. Add the white and green parts of the sliced scallions (save the dark green parts) and five-spice powder. Stir to incorporate. If the rice starts to stick to the pan, stir in a little more oil.",
+      "ingredients_used": [
+        "2e278dc2-8ee6-5b8c-9850-0127659b153f",
+        "faf90bd6-9db6-556b-b5ef-62832d63095c"
+      ]
+    },
+    {
+      "step_number": 15,
+      "instruction": "Drizzle the soy sauce and sesame oil over the rice and stir to incorporate. Stir in the cooked chicken, scrambled eggs, and the dark parts of the scallions. Stir briefly to bring it together, and cook for another 1 to 2 minutes.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "2e278dc2-8ee6-5b8c-9850-0127659b153f",
+        "faf90bd6-9db6-556b-b5ef-62832d63095c",
+        "cd151b99-b822-55e1-b748-b49343948b73"
+      ]
+    },
+    {
+      "step_number": 16,
+      "instruction": "Serve:"
+    },
+    {
+      "step_number": 17,
+      "instruction": "Taste, and add more soy sauce if necessary. Serve immediately.",
+      "ingredients_used": [
+        "cd151b99-b822-55e1-b748-b49343948b73"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.simplyrecipes.com/recipes/chicken_fried_rice/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

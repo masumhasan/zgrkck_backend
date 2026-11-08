@@ -1,0 +1,224 @@
+{
+  "id": "eebba38e-523a-5c12-b618-7867dd9312ef",
+  "version": "1.0.0",
+  "title": "Mbuzi Choma (Roasted Goat)",
+  "slug": "mbuzi-choma-roasted-goat",
+  "summary": "Mbuzi Choma is a Kenyan dish consisting of roasted goat meat typically served alongside ugali, a cornmeal porridge, and kachumbari, a fresh tomato and onion salad.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:53:31Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52968"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/cuio7s1555492979.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/cuio7s1555492979.jpg/small",
+      "alt_text": "Photo of Mbuzi Choma (Roasted Goat)",
+      "width": 698,
+      "height": 698
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "f2e3f346-83dd-52eb-ba4c-b2e29c50a479",
+        "slug": "kenyan",
+        "name": "Kenyan"
+      }
+    ],
+    "tags": [
+      "bbq",
+      "meat"
+    ],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 60,
+    "total_time_minutes": 75
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of goat meat with ugali and kachumbari"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "51b998bb-92c0-5ea9-addc-e5315fc62547",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "349bec13-9dbd-5743-9c35-89eddad75724",
+          "ingredient_id": "14dd58bc-bef2-5046-9a0b-b99fbbeb2089",
+          "name": "goat meat",
+          "display_text": "1 kg Goat Meat",
+          "quantity": 1.0,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "kilogram",
+          "category": "meat"
+        },
+        {
+          "id": "7e00dc14-a101-5927-837a-b1c5233eeaeb",
+          "ingredient_id": "94f73465-e9e4-5ae0-8787-ee86687dbeb4",
+          "name": "corn flour",
+          "display_text": "1 kg Corn Flour",
+          "quantity": 1.0,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "kilogram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "cf30837c-c7ce-5674-906c-22a86bae95d1",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomatoes",
+          "display_text": "2 Tomatoes",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "03df5652-5cfe-5272-b5ff-19fd6ab0719a",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "77bea25f-a9f0-5fce-9cf2-f51479f34ddc",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "9948a76e-1153-56f9-a788-560649cdac04",
+          "ingredient_id": "091f7fa6-975c-516e-a354-2a31e6503580",
+          "name": "green chilli",
+          "display_text": "1 Green Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c1389666-6ea7-5874-ae72-d28d860ad199",
+          "ingredient_id": "01f7246f-a615-5952-a55f-5bf9985723ad",
+          "name": "coriander leaves",
+          "display_text": "1  bunch Coriander Leaves",
+          "quantity": 1.0,
+          "unit": "bunch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Steps for the Meat:",
+      "ingredients_used": [
+        "349bec13-9dbd-5743-9c35-89eddad75724"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Roast meat over medium heat for 50 minutes and salt it as you turn it.",
+      "timer_seconds": 3000,
+      "ingredients_used": [
+        "349bec13-9dbd-5743-9c35-89eddad75724",
+        "03df5652-5cfe-5272-b5ff-19fd6ab0719a"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Steps for Ugali:"
+    },
+    {
+      "step_number": 4,
+      "instruction": "Bring the water and salt to a boil in a heavy-bottomed saucepan. Stir in the cornmeal slowly, letting it fall through the fingers of your hand.",
+      "ingredients_used": [
+        "03df5652-5cfe-5272-b5ff-19fd6ab0719a"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Reduce heat to medium-low and continue stirring regularly, smashing any lumps with a spoon, until the mush pulls away from the sides of the pot and becomes very thick, about 10 minutes.",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 6,
+      "instruction": "4.Remove from heat and allow to cool."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Place the ugali into a large serving bowl. Wet your hands with water, form a ball and serve."
+    },
+    {
+      "step_number": 8,
+      "instruction": "Steps for Kachumbari: Mix the tomatoes, onions, chili and coriander leaves in a bowl.",
+      "ingredients_used": [
+        "cf30837c-c7ce-5674-906c-22a86bae95d1",
+        "77bea25f-a9f0-5fce-9cf2-f51479f34ddc",
+        "c1389666-6ea7-5874-ae72-d28d860ad199"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Serve and enjoy!"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

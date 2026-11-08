@@ -1,0 +1,289 @@
+{
+  "id": "0b5b041a-f99e-5eb5-a976-937fcd8eb4de",
+  "version": "1.0.0",
+  "title": "Dutch stroopwafel",
+  "slug": "dutch-stroopwafel",
+  "summary": "Dutch stroopwafels are thin, waffle-like cookies filled with a warm, spiced caramel syrup. They are a traditional Dutch treat often enjoyed with tea or coffee.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:29:22Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53382"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/8cvkcz1766596315.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/8cvkcz1766596315.jpg/small",
+      "alt_text": "Photo of Dutch stroopwafel",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=3zCrERE0kbc"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "74c070cf-0c42-573b-9e5c-54db497f25a3",
+        "slug": "dutch",
+        "name": "Dutch"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 15,
+    "rest_time_minutes": 60,
+    "total_time_minutes": 95
+  },
+  "yield": {
+    "servings": 14,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 stroopwafel"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "7a1630d4-aac9-5815-b950-4eb69ce57dbf",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "6842e1ef-ced9-57b2-a3c5-d70d199d8bab",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "15 ml Milk",
+          "quantity": 15.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "3db42c12-8060-5dd6-8484-843e309878ab",
+          "ingredient_id": "bcf92c24-98f5-5008-9313-143efe51268b",
+          "name": "instant yeast",
+          "display_text": "10g Instant Yeast",
+          "quantity": 10.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "1895b8d4-cf7f-551c-a0a4-a687c8d4d202",
+          "ingredient_id": "d1e5ec78-b8c2-5649-962c-a9f67272ea92",
+          "name": "all purpose flour",
+          "display_text": "250g All purpose flour",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "c66d2058-6b0e-5a59-a79a-04503bee195c",
+          "ingredient_id": "bc46b2a6-8a59-50ee-a044-ce38bddb125c",
+          "name": "unsalted butter",
+          "display_text": "120g Unsalted Butter",
+          "quantity": 120.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "610eac1b-94a8-5c0e-9663-2b5c0185e2bf",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "80g Sugar",
+          "quantity": 80.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 80.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "062e57c8-69c6-59a8-90d4-83bf3a1bf864",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "a09359f5-d22d-5d96-8d7e-363edca9708a",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "ca5c86d6-67a2-5db5-a2b4-aac79ad5b98e",
+          "ingredient_id": "6d608f82-f7ed-54f3-a656-fb4eb5366949",
+          "name": "dutch stroop",
+          "display_text": "200g Dutch Stroop",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "condiments"
+        },
+        {
+          "id": "dc4f2050-28a1-52fe-895c-cd292a2c0760",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "120g Brown Sugar",
+          "quantity": 120.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "556c3700-3d59-512c-82e9-41592c1eb392",
+          "ingredient_id": "bc46b2a6-8a59-50ee-a044-ce38bddb125c",
+          "name": "unsalted butter",
+          "display_text": "80g Unsalted Butter",
+          "quantity": 80.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 80.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "e74e548d-56d1-5fb2-97cb-d651506678e6",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "1 tsp Cinnamon",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Combine milk and yeast in a bowl. Let stand for a moment to allow the yeast to dissolve.",
+      "ingredients_used": [
+        "6842e1ef-ced9-57b2-a3c5-d70d199d8bab",
+        "3db42c12-8060-5dd6-8484-843e309878ab"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "In another bowl, combine flour, butter, sugar, egg, and salt. Pour in the yeast mixture and knead until smooth. Cover the bowl and let the dough rise for one hour.",
+      "ingredients_used": [
+        "3db42c12-8060-5dd6-8484-843e309878ab",
+        "c66d2058-6b0e-5a59-a79a-04503bee195c",
+        "610eac1b-94a8-5c0e-9663-2b5c0185e2bf",
+        "062e57c8-69c6-59a8-90d4-83bf3a1bf864",
+        "a09359f5-d22d-5d96-8d7e-363edca9708a",
+        "556c3700-3d59-512c-82e9-41592c1eb392"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "When the dough is almost ready, make the stroop filling. Combine all the ingredients in a saucepan and stir until the butter is melted and the sugar is dissolved. Let it simmer for a while. The stroop will continue to thicken as it cools.",
+      "ingredients_used": [
+        "c66d2058-6b0e-5a59-a79a-04503bee195c",
+        "610eac1b-94a8-5c0e-9663-2b5c0185e2bf",
+        "ca5c86d6-67a2-5db5-a2b4-aac79ad5b98e",
+        "556c3700-3d59-512c-82e9-41592c1eb392"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Shape the dough into balls weighing about 35 grams each. Make a total of 14. Turn your stroopwafel iron on the highest setting.",
+      "ingredients_used": [
+        "ca5c86d6-67a2-5db5-a2b4-aac79ad5b98e"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Place a ball of dough in the iron and close the iron. Don’t flatten the waffle too much; you should still be able to cut through it. Bake for 1-2 minutes until the waffle is nicely golden brown.",
+      "timer_seconds": 120
+    },
+    {
+      "step_number": 6,
+      "instruction": "When the waffle is done, work quickly. Remove the waffle from the iron and immediately use a round cutter to cut out a nice circle of about 8 to 9 cm (3 to 3.5 inches)."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Place the hot waffle on a cutting board and cut horizontally with a sharp knife. The stroopwafel is very hot, so use an oven mitt to hold it in place.",
+      "ingredients_used": [
+        "ca5c86d6-67a2-5db5-a2b4-aac79ad5b98e"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Take half a waffle and spread the (hot!) stroop on it. Place the other half on top, pressing gently if necessary, and place the waffle on a wire rack to cool. Repeat for all the balls.",
+      "ingredients_used": [
+        "ca5c86d6-67a2-5db5-a2b4-aac79ad5b98e"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.inlaurasbakery.com/dutch-stroopwafels-recipe/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

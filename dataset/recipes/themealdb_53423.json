@@ -1,0 +1,320 @@
+{
+  "id": "f41e9a13-6cc4-5040-b127-d9aea4cfacc1",
+  "version": "1.0.0",
+  "title": "Meang Nem",
+  "slug": "meang-nem",
+  "summary": "A Cambodian seafood salad featuring dried shrimp, toasted coconut, and roasted rice powder, balanced with a sweet and sour dressing.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:32:52Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53423"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/5rk8vc1779740302.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/5rk8vc1779740302.jpg/small",
+      "alt_text": "Photo of Meang Nem",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9366172c-dff3-589e-9436-4be7c7f595b3",
+        "slug": "cambodian",
+        "name": "Cambodian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "salad"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "meal_prep"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 25,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 35
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion wrapped in leafy greens"
+  },
+  "allergens": {
+    "contains": [
+      "peanuts",
+      "fish",
+      "shellfish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery",
+      "sulfites"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "4c66e50e-6b39-546e-9598-c5b2d19045e0",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "7d0bae3a-0249-52e9-a3c2-10b157a15783",
+          "ingredient_id": "58232491-198f-5605-ab49-380d567be55f",
+          "name": "dried shrimp",
+          "display_text": "50g Dried Shrimp",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "8590e59e-c0c6-5948-ab54-aded0d671e04",
+          "ingredient_id": "025b8433-c498-5b37-813a-ec00ac6c2ae5",
+          "name": "rice",
+          "display_text": "40g Rice",
+          "quantity": 40.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 40.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "c32deca1-2828-56a8-8fc3-4e0b1ae86abb",
+          "ingredient_id": "739769d2-a7f0-5fac-98c1-26e2aa7ce44e",
+          "name": "coconut",
+          "display_text": "100g Coconut",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "55832d8b-89c6-54b8-b882-8d8f9279655f",
+          "ingredient_id": "25974102-33c7-534c-ac2b-40c689d1cd32",
+          "name": "orange zest",
+          "display_text": "20g Orange Zest",
+          "quantity": 20.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 20.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "a59f893b-2116-5ed6-94e8-65f8e5147959",
+          "ingredient_id": "3deb6c1f-bd27-560b-a63b-f2b3eaf9e82e",
+          "name": "chilli",
+          "display_text": "3 Chilli",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0b663895-0f16-5f3c-bfb2-7f512ab7c11e",
+          "ingredient_id": "200b7141-d967-52ee-b154-4f8ed303ac02",
+          "name": "peanuts",
+          "display_text": "50g Peanuts",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "6412a2f0-0b16-538c-86f8-3233bba890bc",
+          "ingredient_id": "db7759b2-acc3-5927-b930-0b9c83fc2130",
+          "name": "pickled scallion heads",
+          "display_text": "100g Pickled Scallion Heads",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "fafb6e5a-26a3-5f85-ade6-86265af793bd",
+          "ingredient_id": "ba15a2ea-ce46-5c6c-a065-b8f9ab18ab3b",
+          "name": "pickled scallion head brine",
+          "display_text": "30 ml Pickled Scallion Head Brine",
+          "quantity": 30.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "13ea36e6-1eea-5238-bc33-27209daa74a9",
+          "ingredient_id": "1ef022c5-e346-547b-99d4-708840c155a2",
+          "name": "galangal",
+          "display_text": "25g Galangal",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "seasoning"
+        },
+        {
+          "id": "007fcedd-f048-5199-994a-076585591ed5",
+          "ingredient_id": "d22accc4-e562-59bf-9cbb-1ad38d461e99",
+          "name": "shallots",
+          "display_text": "30g Shallots",
+          "quantity": 30.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "dd4d1573-41e1-581e-a2b3-0b0fd5110c30",
+          "ingredient_id": "77e2c9f0-3777-523e-895f-e1cc9fa37997",
+          "name": "orange juice",
+          "display_text": "20 ml Orange Juice",
+          "quantity": 20.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 20.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "cc6da305-4e6e-5e82-add5-1a3cd1c2b1ba",
+          "ingredient_id": "36c0f276-68d5-5515-9abe-1ef57bc6eed7",
+          "name": "lime juice",
+          "display_text": "50 ml Lime juice",
+          "quantity": 50.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "8abec455-4091-5155-9a17-d9283d1d9d48",
+          "ingredient_id": "de927c20-fdfa-5b98-8ee9-7840fa951a2f",
+          "name": "fish sauce",
+          "display_text": "50 ml Fish Sauce",
+          "quantity": 50.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "7a60e4df-8192-553a-b893-749cfdc0645a",
+          "ingredient_id": "a6dcdf7a-4604-5baa-8ac6-c4575ee672dc",
+          "name": "palm sugar",
+          "display_text": "50g Palm Sugar",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Rinse the rice, soak in water for about 10 minutes, then drain well. Heat a wok or large skillet over medium heat. Add the rice and stir constantly until evenly dark golden brown and very fragrant, about 5 minutes. Transfer to a bowl to cool. Grind finely using a spice grinder or mortar and pestle, then sift through a fine mesh strainer to remove any large pieces. Set aside.",
+      "ingredients_used": [
+        "8590e59e-c0c6-5948-ab54-aded0d671e04"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Thinly slice the shallots lengthwise. Finely chop the galangal, pickled scallion heads, chili peppers, and bitter orange zest. Coarsely grind the roasted peanuts. Heat a frying pan over low heat, add shredded coconut, and toast, stirring, for 2–3 minutes. Set aside.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "c32deca1-2828-56a8-8fc3-4e0b1ae86abb",
+        "55832d8b-89c6-54b8-b882-8d8f9279655f",
+        "0b663895-0f16-5f3c-bfb2-7f512ab7c11e",
+        "6412a2f0-0b16-538c-86f8-3233bba890bc",
+        "13ea36e6-1eea-5238-bc33-27209daa74a9",
+        "007fcedd-f048-5199-994a-076585591ed5"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "In a large bowl, combine lime juice, bitter orange juice, palm sugar, pickled scallion brine, and fish sauce. Stir until fully dissolved and well mixed.",
+      "ingredients_used": [
+        "fafb6e5a-26a3-5f85-ade6-86265af793bd",
+        "dd4d1573-41e1-581e-a2b3-0b0fd5110c30",
+        "cc6da305-4e6e-5e82-add5-1a3cd1c2b1ba",
+        "8abec455-4091-5155-9a17-d9283d1d9d48",
+        "7a60e4df-8192-553a-b893-749cfdc0645a"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "In a mixing bowl, combine dried shrimp, toasted coconut, chopped aromatics, and dressing. Mix well. Add roasted rice powder and stir again. Top with coarsely ground roasted peanuts.",
+      "ingredients_used": [
+        "7d0bae3a-0249-52e9-a3c2-10b157a15783",
+        "8590e59e-c0c6-5948-ab54-aded0d671e04",
+        "c32deca1-2828-56a8-8fc3-4e0b1ae86abb",
+        "0b663895-0f16-5f3c-bfb2-7f512ab7c11e"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Place the salad on a large plate. Let each guest spoon a little onto their own small plate, wrap in leafy greens with vegetables, and enjoy in bite-size portions."
+    },
+    {
+      "step_number": 6,
+      "instruction": "For a vegetarian version, omit the dried shrimp and fish sauce. Season to taste with soy sauce and a pinch of sea salt, keeping the sweet-sour balance.",
+      "ingredients_used": [
+        "7d0bae3a-0249-52e9-a3c2-10b157a15783",
+        "8abec455-4091-5155-9a17-d9283d1d9d48"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.chefnak.com/meang-nem"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "id": "2d0dbc2e-777f-5c05-a4c4-c1cec97efd68",
+  "version": "1.0.0",
+  "title": "Jerk chicken with rice & peas",
+  "slug": "jerk-chicken-with-rice-peas",
+  "summary": "A classic Jamaican dish featuring chicken thighs marinated in a spicy allspice and chili paste, served alongside coconut milk-infused rice and kidney beans.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:50:47Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52937"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/tytyxu1515363282.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/tytyxu1515363282.jpg/small",
+      "alt_text": "Photo of Jerk chicken with rice & peas",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=qfchrS2D_v4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "2dfec5c8-490a-551c-9d2f-e8e21f706bda",
+        "slug": "jamaican",
+        "name": "Jamaican"
+      }
+    ],
+    "tags": [
+      "chilli",
+      "curry"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": [
+      "christmas"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 55,
+    "marinating_time_minutes": 1440,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 1520
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 chicken thigh with rice and beans"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "b1028254-0e4c-5588-a7fd-c4e62fe81c78",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "e43d57cc-37bc-5998-9507-2836ac8e80b3",
+          "ingredient_id": "e0e4d032-0f9f-5908-ab90-db9a8ec5b68c",
+          "name": "chicken thighs",
+          "display_text": "12 Chicken Thighs",
+          "quantity": 12.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "989654dd-8309-5472-8bb5-4414a2e7f458",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "1/2 Lime",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "5e45d428-6854-5fc1-a57c-5171454b97ae",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "1  bunch Spring Onions",
+          "quantity": 1.0,
+          "unit": "bunch",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "a5d4d471-e39b-5311-8f4d-3325cc4526b9",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "1 tbs chopped Ginger",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "125ac98d-fd6c-5dbc-a1d4-dca63cc28382",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 cloves Garlic",
+          "quantity": 3.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b39e0dbf-381b-5280-a2cd-2b7b727fe2e3",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1/2 Onion",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "bd2e0e08-be02-5ed5-9bbc-06661135b0c0",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "3 chopped Red Chilli",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4d714c94-e716-5963-98ad-508077827c29",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "1/2 teaspoon Thyme",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "a632e108-d1e4-5e85-892c-fe3e6451d5b2",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "Juice of 1 Lime",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "26048afb-473a-574d-b949-f8b169e00f19",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "2 tbs Soy Sauce",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "cb27b3bc-90f4-5640-a354-6f7d2c6246d4",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "2 tbs Vegetable Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "ba0f6c95-9325-5c98-9ff8-957543e8bbd7",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "3 tbs Brown Sugar",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "4acbc74c-f6a2-527c-b918-3febe35094f8",
+          "ingredient_id": "38dedce7-9a7f-57ee-8e46-5162ab60eba8",
+          "name": "allspice",
+          "display_text": "1 tbs Allspice",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "dada2b5d-735b-5734-b1f4-5151ec8aab27",
+          "ingredient_id": "83ffb65f-48c4-5295-bd29-b97975a1fcb1",
+          "name": "basmati rice",
+          "display_text": "200g Basmati Rice",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "fcb91d78-0c5a-521d-9581-5497e8ff06ff",
+          "ingredient_id": "0435e55e-84f6-566c-ac81-37617bbab91c",
+          "name": "coconut milk",
+          "display_text": "400g Coconut Milk",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "2fb7bea1-636e-5c7b-b1de-76cac252cb5c",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "1  bunch Spring Onions",
+          "quantity": 1.0,
+          "unit": "bunch",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f6afb449-a8e8-5b51-a9b5-daeca1b0086e",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "2 sprigs Thyme",
+          "quantity": 2.0,
+          "unit": "sprig",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "fdc76b88-aed2-5d68-ada1-14bfa1bfb02d",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves chopped Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "412c704c-1282-57af-b2d7-11d38b8f7dc9",
+          "ingredient_id": "38dedce7-9a7f-57ee-8e46-5162ab60eba8",
+          "name": "allspice",
+          "display_text": "1 tbs Allspice",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "8424bd4a-8ac5-5eee-bafe-4636b56981f7",
+          "ingredient_id": "ba890946-fbb1-5386-9394-aa912a5bb5a0",
+          "name": "kidney beans",
+          "display_text": "800g Kidney Beans",
+          "quantity": 800.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 800.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "To make the jerk marinade, combine all the ingredients in a food processor along with 1 tsp salt, and blend to a purée. If you’re having trouble getting it to blend, just keep turning off the blender, stirring the mixture, and trying again. Eventually it will start to blend up – don’t be tempted to add water, as you want a thick paste."
+    },
+    {
+      "step_number": 2,
+      "instruction": "Taste the jerk mixture for seasoning – it should taste pretty salty, but not unpleasantly, puckering salty. You can now throw in more chillies if it’s not spicy enough for you. If it tastes too salty and sour, try adding in a bit more brown sugar until the mixture tastes well balanced.",
+      "ingredients_used": [
+        "bd2e0e08-be02-5ed5-9bbc-06661135b0c0",
+        "ba0f6c95-9325-5c98-9ff8-957543e8bbd7"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Make a few slashes in the chicken thighs and pour the marinade over the meat, rubbing it into all the crevices. Cover and leave to marinate overnight in the fridge.",
+      "ingredients_used": [
+        "e43d57cc-37bc-5998-9507-2836ac8e80b3"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "If you want to barbecue your chicken, get the coals burning 1 hr or so before you’re ready to cook. Authentic jerked meats are not exactly grilled as we think of grilling, but sort of smoke-grilled. To get a more authentic jerk experience, add some wood chips to your barbecue, and cook your chicken over slow, indirect heat for 30 mins. To cook in the oven, heat to 180C/160C fan/gas 4. Put the chicken pieces in a roasting tin with the lime halves and cook for 45 mins until tender and cooked through.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "989654dd-8309-5472-8bb5-4414a2e7f458",
+        "a632e108-d1e4-5e85-892c-fe3e6451d5b2"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "While the chicken is cooking, prepare the rice & peas. Rinse the rice in plenty of cold water, then tip it into a large saucepan with all the remaining ingredients except the kidney beans. Season with salt, add 300ml cold water and set over a high heat. Once the rice begins to boil, turn it down to a medium heat, cover and cook for 10 mins.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "dada2b5d-735b-5734-b1f4-5151ec8aab27",
+        "8424bd4a-8ac5-5eee-bafe-4636b56981f7"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Add the beans to the rice, then cover with a lid. Leave off the heat for 5 mins until all the liquid is absorbed. Squeeze the roasted lime over the chicken and serve with the rice & peas, and some hot sauce if you like it really spicy.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "989654dd-8309-5472-8bb5-4414a2e7f458",
+        "a632e108-d1e4-5e85-892c-fe3e6451d5b2",
+        "dada2b5d-735b-5734-b1f4-5151ec8aab27",
+        "8424bd4a-8ac5-5eee-bafe-4636b56981f7"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/2369635/jerk-chicken-with-rice-and-peas"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

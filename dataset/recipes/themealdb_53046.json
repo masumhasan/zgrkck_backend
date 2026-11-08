@@ -1,0 +1,356 @@
+{
+  "id": "e4357418-bfbe-56db-84e3-0e44c3cdbca8",
+  "version": "1.0.0",
+  "title": "Portuguese custard tarts",
+  "slug": "portuguese-custard-tarts",
+  "summary": "Portuguese custard tarts, also known as Pastéis de Nata, are crispy pastry shells filled with a creamy, caramelized egg custard.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:59:55Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53046"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/vmz7gl1614350221.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/vmz7gl1614350221.jpg/small",
+      "alt_text": "Photo of Portuguese custard tarts",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=lWLCxui1Mw8"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d3317c07-1a34-51bf-a414-80251ba04fe2",
+        "slug": "portuguese",
+        "name": "Portuguese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 25,
+    "rest_time_minutes": 20,
+    "total_time_minutes": 75
+  },
+  "yield": {
+    "servings": 24,
+    "serving_unit": "pieces"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "31b7fe6a-41e7-57c6-a214-cd2170ebafea",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "722db030-b58b-5504-939d-b48e2155a155",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "2 tbs Plain Flour",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "17fbf747-65e5-593b-88af-7ad1ba37fd0f",
+          "ingredient_id": "c3b952d9-9879-569e-a989-b29a9b7ec664",
+          "name": "icing sugar",
+          "display_text": "2 tbs Icing Sugar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "15229daf-93cd-5649-8cd2-eec7e461cc5a",
+          "ingredient_id": "a552ed18-91bb-59fa-a3c1-dad1308c6c3e",
+          "name": "puff pastry",
+          "display_text": "375g Puff Pastry",
+          "quantity": 375.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 375.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "8fe2b022-e441-5289-9e3a-1b161ad4b496",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "250g Caster Sugar",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "f0f37ffa-2dd6-5826-a679-a7d11f46c3e8",
+          "ingredient_id": "9721c74d-1877-5622-a4ce-ba9fc1eaa562",
+          "name": "lemon zest",
+          "display_text": "2 strips Lemon Zest",
+          "quantity": 2.0,
+          "unit": "strip",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "99428c24-a18f-5d6c-bb71-113d3297a8a8",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "1 Stick Cinnamon",
+          "quantity": 1.0,
+          "unit": "stick",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "2e41b2f7-d638-5e35-bc7e-90aa8206c554",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "2 Eggs",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "7b349212-cbe3-5fef-aad3-6ba4df664558",
+          "ingredient_id": "051a3118-01a4-5366-a922-19ecf618e2f9",
+          "name": "egg yolks",
+          "display_text": "4 Egg Yolks",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "ac7d438e-0c9b-5449-8cd4-6915121e1b01",
+          "ingredient_id": "94f73465-e9e4-5ae0-8787-ee86687dbeb4",
+          "name": "corn flour",
+          "display_text": "50g Corn Flour",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "d2aa62cc-3c12-5bc4-8f69-904b854e961a",
+          "ingredient_id": "cdd10399-e080-5794-bffb-7cf578edb5a5",
+          "name": "whole milk",
+          "display_text": "500ml Whole Milk",
+          "quantity": 500.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "eb9a0b79-71e3-59c1-aab2-2fb955ac0838",
+          "ingredient_id": "1ad32b47-90dc-570b-9ae6-d231b0342095",
+          "name": "vanilla",
+          "display_text": "Pod of Vanilla",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "pod of",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "5d1a3662-78d7-5cc5-850f-5cc06f6ece83",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "To serve Cinnamon",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Roll the pastry",
+      "ingredients_used": [
+        "15229daf-93cd-5649-8cd2-eec7e461cc5a"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Mix the flour and icing sugar, and use this to dust the work surface. Roll the pastry out to make a 45 x 30cm rectangle. Roll up lengthways to create a long sausage shape.",
+      "ingredients_used": [
+        "17fbf747-65e5-593b-88af-7ad1ba37fd0f",
+        "15229daf-93cd-5649-8cd2-eec7e461cc5a"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Cutting pastry into rounds",
+      "ingredients_used": [
+        "15229daf-93cd-5649-8cd2-eec7e461cc5a"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Cut the pastry into 24 wheels, about 1-2cm thick.",
+      "ingredients_used": [
+        "15229daf-93cd-5649-8cd2-eec7e461cc5a"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Roll out each pastry portion",
+      "ingredients_used": [
+        "15229daf-93cd-5649-8cd2-eec7e461cc5a"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Roll each wheel lightly with the rolling pin to fit 2 x 12-hole non-stick fairy cake tins."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Press pastry into the tin",
+      "ingredients_used": [
+        "15229daf-93cd-5649-8cd2-eec7e461cc5a"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Press the pastry circles into the tins and mold into the tins to make thin cases. Chill until needed.",
+      "ingredients_used": [
+        "15229daf-93cd-5649-8cd2-eec7e461cc5a"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Make the infused syrup"
+    },
+    {
+      "step_number": 10,
+      "instruction": "Heat the oven to 220C/fan 200C/gas 7. Make a sugar syrup by bringing the sugar, 200ml water, lemon zest and cinnamon stick to the boil. Reduce until syrupy, allow to cool, then remove the cinnamon and lemon. Whisk the eggs, egg yolks and cornflour until smooth in another large pan.",
+      "temperature": {
+        "value": 220,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "f0f37ffa-2dd6-5826-a679-a7d11f46c3e8",
+        "99428c24-a18f-5d6c-bb71-113d3297a8a8",
+        "2e41b2f7-d638-5e35-bc7e-90aa8206c554",
+        "7b349212-cbe3-5fef-aad3-6ba4df664558",
+        "5d1a3662-78d7-5cc5-850f-5cc06f6ece83"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Making custard"
+    },
+    {
+      "step_number": 12,
+      "instruction": "Heat the milk and vanilla pod seeds in a separate pan until just below the boil. Gradually pour the hot milk over the eggs and cornflour, then cook on a low heat, continually whisking.",
+      "ingredients_used": [
+        "2e41b2f7-d638-5e35-bc7e-90aa8206c554",
+        "d2aa62cc-3c12-5bc4-8f69-904b854e961a",
+        "eb9a0b79-71e3-59c1-aab2-2fb955ac0838"
+      ]
+    },
+    {
+      "step_number": 13,
+      "instruction": "Add syrup to custard"
+    },
+    {
+      "step_number": 14,
+      "instruction": "Add the cooled sugar syrup to the custard and whisk until thickened slightly."
+    },
+    {
+      "step_number": 15,
+      "instruction": "Pour custard into the tins"
+    },
+    {
+      "step_number": 16,
+      "instruction": "Pour the custard through a sieve. Pour into the pastry cases and bake for 15 minutes until the pastry is golden and the custard has darkened.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "15229daf-93cd-5649-8cd2-eec7e461cc5a"
+      ]
+    },
+    {
+      "step_number": 17,
+      "instruction": "cool and dust with icing sugar",
+      "ingredients_used": [
+        "17fbf747-65e5-593b-88af-7ad1ba37fd0f"
+      ]
+    },
+    {
+      "step_number": 18,
+      "instruction": "Cool completely in the tins then sift over icing sugar and ground cinnamon to serve.",
+      "ingredients_used": [
+        "17fbf747-65e5-593b-88af-7ad1ba37fd0f",
+        "99428c24-a18f-5d6c-bb71-113d3297a8a8",
+        "5d1a3662-78d7-5cc5-850f-5cc06f6ece83"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.olivemagazine.com/recipes/baking-and-desserts/portuguese-custard-tarts/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "id": "b95ae1f0-ce6c-53fb-b74f-86e83e0d7142",
+  "version": "1.0.0",
+  "title": "Cayman Style Potato Salad",
+  "slug": "cayman-style-potato-salad",
+  "summary": "A traditional Caymanian side dish consisting of boiled potatoes mixed with peppers, onions, beets, peas, and hard-boiled eggs in a creamy mustard-mayonnaise dressing.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:40:26Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53507"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/q21suk1782772956.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/q21suk1782772956.jpg/small",
+      "alt_text": "Photo of Cayman Style Potato Salad",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c09eb408-33f5-5580-b0b4-cd787ea520ba",
+        "slug": "caymanian",
+        "name": "Caymanian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "picnic",
+      "holiday"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 20,
+    "marinating_time_minutes": 120,
+    "total_time_minutes": 160
+  },
+  "yield": {
+    "servings": 10,
+    "serving_unit": "servings",
+    "serving_size_description": "1 scoop of potato salad"
+  },
+  "allergens": {
+    "contains": [
+      "eggs",
+      "mustard"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "7d903332-a7cb-511a-a167-c37a56bdb82c",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "64b41d82-7657-53b6-a52e-6dde9ed8fa71",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "10 Potatoes",
+          "quantity": 10.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "23ea50a6-821c-5224-988c-25295b3393eb",
+          "ingredient_id": "f86b83d4-879d-54bb-a883-73bbfa9228ba",
+          "name": "green pepper",
+          "display_text": "1/2 Green Pepper",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d2fdfc84-a879-5a36-bea1-786d7635a9fe",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1/4 Red Pepper",
+          "quantity": 0.25,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e9984d97-fe21-59a7-9d26-79450afd2ecc",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1/2 Onion",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d962b412-824f-5213-9b3b-c2f4913be29a",
+          "ingredient_id": "6a3a5ec7-7840-5eff-a3ce-0e3aafbaa822",
+          "name": "mayonnaise",
+          "display_text": "1 cup Mayonnaise",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "5a297b7d-ae1a-53dd-ace8-036a09b881f2",
+          "ingredient_id": "b9e3afdc-e194-5f5e-bbae-5c3659d35a67",
+          "name": "mustard",
+          "display_text": "1/4 cup Mustard",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "53ec581e-dd67-5cdd-be8e-ab5518cdda1c",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 tablespoon Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "6ee6a51b-6bd4-5079-8ccf-d1de845824c7",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1/4 tsp Black Pepper",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "a1d697a1-1b36-5ba3-87e3-9f65f848f8ab",
+          "ingredient_id": "e5cf8bc2-d55a-5a1c-b23b-ca5f0b26ad91",
+          "name": "beets",
+          "display_text": "1 Can Beets",
+          "quantity": 1.0,
+          "unit": "can",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "fca3317c-2382-5ce1-981c-92c1214a7320",
+          "ingredient_id": "7073667e-84c6-57dc-a1f3-4bd704824318",
+          "name": "peas",
+          "display_text": "1 Can Peas",
+          "quantity": 1.0,
+          "unit": "can",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "069079a3-419d-599f-89c4-ce0fc408d486",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "3 Eggs",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Peel and cut potatoes in cubes, boil in salted water until tender. Chop peppers and onion and set aside.",
+      "ingredients_used": [
+        "64b41d82-7657-53b6-a52e-6dde9ed8fa71",
+        "e9984d97-fe21-59a7-9d26-79450afd2ecc"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Mix together mayonnaise, mustard, sugar and black pepper and set aside. Drain potatoes once tender and place in large mixing bowl.",
+      "ingredients_used": [
+        "64b41d82-7657-53b6-a52e-6dde9ed8fa71",
+        "d962b412-824f-5213-9b3b-c2f4913be29a",
+        "5a297b7d-ae1a-53dd-ace8-036a09b881f2",
+        "53ec581e-dd67-5cdd-be8e-ab5518cdda1c",
+        "6ee6a51b-6bd4-5079-8ccf-d1de845824c7"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add remaining ingredients and mix well. The salad may be served warm, but is normally served after it has been refrigerated for 2 to 3 hours.",
+      "timer_seconds": 10800
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.ourcayman.ky/en-us/about/more-about-cayman/recipes"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

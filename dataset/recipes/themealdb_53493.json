@@ -1,0 +1,281 @@
+{
+  "id": "d3e751b4-6219-595b-af6b-e0f654f5535b",
+  "version": "1.0.0",
+  "title": "Bulgarian Honey Cookies",
+  "slug": "bulgarian-honey-cookies",
+  "summary": "Bulgarian honey cookies are soft, sweet biscuits flavored with honey, cinnamon, and vanilla, often finished with a chocolate dip.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:39:04Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53493"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/y75q5j1782685779.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/y75q5j1782685779.jpg/small",
+      "alt_text": "Photo of Bulgarian Honey Cookies",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "66ab8d60-8573-56c2-94b7-8a8e8cc659da",
+        "slug": "bulgarian",
+        "name": "Bulgarian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "holiday"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 15,
+    "rest_time_minutes": 10,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 24,
+    "serving_unit": "pieces",
+    "serving_size_description": "2 cookies"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": [
+      "soy"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "f4207727-ad94-50dd-bcca-95407cfe21d4",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "77cebfa4-f7cf-5d32-8db0-8d91376e316e",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "2 large Eggs",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "791f1da8-d718-5b22-94da-2e668e16808d",
+          "ingredient_id": "c644e242-4958-5575-8256-69e88b283feb",
+          "name": "powdered sugar",
+          "display_text": "1 cup Powdered Sugar",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "aeb18cc7-a243-5a30-a631-0df4a660677e",
+          "ingredient_id": "7ad11d6e-3134-5831-97df-4db2a67589f7",
+          "name": "honey",
+          "display_text": "1/4 cup Honey",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "c92228f5-6230-5062-8a2d-2ced5a456b77",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1 tsp Vanilla Extract",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "04660fb7-4030-516d-909b-0108e2da4584",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "3 Cups Vegetable Oil",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "f35cfcc4-2d50-5e54-a32a-a17d5d9909f8",
+          "ingredient_id": "d1e5ec78-b8c2-5649-962c-a9f67272ea92",
+          "name": "all purpose flour",
+          "display_text": "4 cups All purpose flour",
+          "quantity": 4.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 960.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "1ccae519-1fe3-5028-ac9e-51dae506ab5c",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/4 tsp Salt",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "214fba64-e6c7-544b-bf56-239875e2432c",
+          "ingredient_id": "7af3c207-3c37-5965-a096-bf34ac1db1f4",
+          "name": "ground cinnamon",
+          "display_text": "1 tsp Ground Cinnamon",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "b05c8f68-1ab2-5795-8202-4570b15c8961",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 tsp Baking Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "432ffc1b-fea4-5956-a41c-6ca7a4da99ba",
+          "ingredient_id": "57b0f0f3-9046-5bb1-a78b-0092062cf0a4",
+          "name": "chocolate chips",
+          "display_text": "2 cups Chocolate Chips",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "7fd93a98-e4b4-5c74-bb21-40d444748af1",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "2 tsp Vegetable Oil",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat oven to 350 F. Line 2-3 baking sheets with parchment paper.",
+      "temperature": {
+        "value": 350,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a bowl, combine flour, salt, cinnamon and baking soda.",
+      "ingredients_used": [
+        "1ccae519-1fe3-5028-ac9e-51dae506ab5c",
+        "214fba64-e6c7-544b-bf56-239875e2432c"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "In the bowl of a stand mixer, fitted with the paddle attachment, beat together eggs and powdered sugar for3 minutes. Add vanilla extract and honey. Mix to combine, then add oil.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "77cebfa4-f7cf-5d32-8db0-8d91376e316e",
+        "791f1da8-d718-5b22-94da-2e668e16808d",
+        "aeb18cc7-a243-5a30-a631-0df4a660677e",
+        "c92228f5-6230-5062-8a2d-2ced5a456b77"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add the flour mixture in two increments and beat to incorporate. Let the dough rest for 5-10 minutes.",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 5,
+      "instruction": "Shape 2 tbsp balls, place on baking sheets and press flat. Bake for 12-15 minutes, until golden. Let the cookies cool down completely.",
+      "timer_seconds": 900
+    },
+    {
+      "step_number": 6,
+      "instruction": "Melt white and semi-sweet chocolate separately with 1 tbsp vegetable oil each.",
+      "ingredients_used": [
+        "04660fb7-4030-516d-909b-0108e2da4584",
+        "7fd93a98-e4b4-5c74-bb21-40d444748af1"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Dip cookies halfway into chocolate. Let it set. Keep in a air tight container or wrapped in cellophane bags for up to 2 weeks in room temperature or refrigerated."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://cookinglsl.com/bulgarian-honey-cookies-medenki-recipe/#wprm-recipe-container-32773"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": "197b793b-6122-57a8-b03c-920f1b08d01d",
+  "version": "1.0.0",
+  "title": "Caribbean Tamarind balls",
+  "slug": "caribbean-tamarind-balls",
+  "summary": "A traditional Jamaican sweet treat made by mashing tamarind pulp with sugar and rolling them into small, sugar-coated balls.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:27:28Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53360"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/z1hz7z1765316430.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/z1hz7z1765316430.jpg/small",
+      "alt_text": "Photo of Caribbean Tamarind balls",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=adRA-90CHUE"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "2dfec5c8-490a-551c-9d2f-e8e21f706bda",
+        "slug": "jamaican",
+        "name": "Jamaican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 15
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "pieces",
+    "serving_size_description": "3-4 small balls"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "6adf0306-3780-5d89-8e1d-46892b4f8d0c",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "ddae1e4f-f943-5c57-a50a-17346737acbb",
+          "ingredient_id": "ef815a94-bb5a-57ed-9319-ca1a51a34e61",
+          "name": "tamarind pulp",
+          "display_text": "16 ounces Tamarind Pulp",
+          "quantity": 16.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "condiments"
+        },
+        {
+          "id": "55d809c2-b552-5343-9b12-d7e9f58f09c9",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 1/2 cups Sugar",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Add tamarind pulp and 1 cup granulated sugar to a bowl and mash together with a spoon or fork. Take small amounts of the tamarind and sugar mix and shape them into small balls by rolling them in your hands. Make them the size of a marble or slightly bigger, as you like.",
+      "ingredients_used": [
+        "ddae1e4f-f943-5c57-a50a-17346737acbb",
+        "55d809c2-b552-5343-9b12-d7e9f58f09c9"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the remaining sugar to a flat surface, like a plate or a sheet pan. Roll the tamarind balls in granulated sugar until they're well-coated.",
+      "ingredients_used": [
+        "55d809c2-b552-5343-9b12-d7e9f58f09c9"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "You can eat the tamarind balls immediately, or you can let them set for a few hours or overnight. Allowing them to set will give them a firmer texture and more crystallized sugar coating. Enjoy.",
+      "ingredients_used": [
+        "55d809c2-b552-5343-9b12-d7e9f58f09c9"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.myforkinglife.com/tamarind-balls/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

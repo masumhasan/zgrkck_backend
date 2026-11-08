@@ -1,0 +1,279 @@
+{
+  "id": "70e6e058-7ce9-525e-8904-609e86c3f675",
+  "version": "1.0.0",
+  "title": "Creamy Mustard Chicken",
+  "slug": "creamy-mustard-chicken",
+  "summary": "Chicken legs are seared and simmered in a creamy sauce made with mustard, honey, and chicken stock. This Colombian-style dish is typically served over white rice.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:42:20Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53530"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/4htbtm1783803558.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/4htbtm1783803558.jpg/small",
+      "alt_text": "Photo of Creamy Mustard Chicken",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "50fefb0a-1f33-59b0-afdb-383ba2373950",
+        "slug": "colombian",
+        "name": "Colombian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 57,
+    "total_time_minutes": 67
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 chicken leg with sauce and rice"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "mustard"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "4474d263-6246-5f40-a487-0a17e9c7d37e",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "c3458d64-7237-52dd-ac8f-a0441bd8a3fb",
+          "ingredient_id": "e023ae45-1d37-5ed8-bd41-426cd1a6688c",
+          "name": "chicken legs",
+          "display_text": "8 Chicken Legs",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "18ea93ba-67b0-5a75-9ed6-ea956e86a824",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1 tsp Paprika",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "99ca9d78-a48d-59bd-a867-e5ff887597ba",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "afc17f1e-2a48-50f4-b719-1a38135196ee",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1 tsp Black Pepper",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "d1facb94-e2b6-51f4-bf1d-a70f936c606a",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "4 tablespoons Olive Oil",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "10274ff5-0398-51ef-aa66-d55935158412",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 Cloves Crushed Garlic",
+          "quantity": 3.0,
+          "unit": "clove",
+          "preparation": "crushed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "560684a0-1fa9-5d60-b2af-a56d3c71aee4",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1/2 cup Onion",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "9f6dc430-88d1-5c80-927f-c379715cdca2",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "2 cups Chicken Stock",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "f24719ef-b38b-563f-bd13-0cddb9bd34bf",
+          "ingredient_id": "b9e3afdc-e194-5f5e-bbae-5c3659d35a67",
+          "name": "mustard",
+          "display_text": "2 tablespoons Mustard",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "41dc769a-029c-506d-b1f7-96aed5beb38f",
+          "ingredient_id": "cb8d5d02-f2f1-547b-b7e6-054d6629adc1",
+          "name": "heavy cream",
+          "display_text": "1 cup Heavy Cream",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "bed62096-ad51-5580-8956-94180ec4646a",
+          "ingredient_id": "7ad11d6e-3134-5831-97df-4db2a67589f7",
+          "name": "honey",
+          "display_text": "1 tablespoon Honey",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "f6451f4f-d69b-5bf2-963d-64274221ade5",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Garnish Parsley",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "garnish",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Pat the chicken dry and season the pieces with salt, pepper and paprika.",
+      "ingredients_used": [
+        "18ea93ba-67b0-5a75-9ed6-ea956e86a824",
+        "99ca9d78-a48d-59bd-a867-e5ff887597ba"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat a saucepan over medium high heat and add the oil. Let the oil heat for a few seconds. Add the chicken and cook to sear all the sides turning the pieces a couple of times until they are golden browned about 10 minutes.",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 3,
+      "instruction": "Transfer the browned chicken to a plate and set a side. Add the onions and garlic to the skillet and cook for about 2 minutes or until soft. Add the chicken broth, mustard, honey and cream. Season with salt and black pepper.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "99ca9d78-a48d-59bd-a867-e5ff887597ba",
+        "afc17f1e-2a48-50f4-b719-1a38135196ee",
+        "10274ff5-0398-51ef-aa66-d55935158412",
+        "560684a0-1fa9-5d60-b2af-a56d3c71aee4",
+        "f24719ef-b38b-563f-bd13-0cddb9bd34bf",
+        "bed62096-ad51-5580-8956-94180ec4646a"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Stir well and return the chicken pieces to the pan. Cover the pan and cook over medium low for about 45 minutes or until the chicken is cooked. The final temperature for chicken legs should be 170˚F.",
+      "timer_seconds": 2700,
+      "ingredients_used": [
+        "c3458d64-7237-52dd-ac8f-a0441bd8a3fb"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Serve warm over white rice and garnish with chopped parsley.",
+      "ingredients_used": [
+        "f6451f4f-d69b-5bf2-963d-64274221ade5"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.mycolombianrecipes.com/mustard-creamy-chicken/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

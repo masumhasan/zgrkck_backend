@@ -1,0 +1,249 @@
+{
+  "id": "10790c82-5b4b-5384-97d9-c9201688d975",
+  "version": "1.0.0",
+  "title": "Corned Beef Hash",
+  "slug": "corned-beef-hash",
+  "summary": "A classic British breakfast or brunch dish consisting of pan-fried corned beef and potatoes until crispy and browned.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:03:49Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53096"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/vz94r81760534692.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/vz94r81760534692.jpg/small",
+      "alt_text": "Photo of Corned Beef Hash",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=SPr_UnCrYPg"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "brunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 35
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 portion of hash"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "9eec6d33-41c1-5a02-bc4f-07a65fa795db",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "62457d44-13bc-5104-ae55-637fd392d635",
+          "ingredient_id": "bc46b2a6-8a59-50ee-a044-ce38bddb125c",
+          "name": "unsalted butter",
+          "display_text": "3  tablespoons Unsalted Butter",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "61e086a3-e2ad-59be-8ef8-134c95b2a5aa",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 medium chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "medium chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "da857186-2ae3-5f7a-b9d8-b5928ac7a9e0",
+          "ingredient_id": "b9d442b1-bc95-5708-804e-29b7a814b4cd",
+          "name": "corned beef",
+          "display_text": "3 Cups Corned Beef",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "meat"
+        },
+        {
+          "id": "288577ae-e508-5341-bd61-5b2597366e83",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "3 chopped Potatoes",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "317f39e0-0442-5f6d-bd1a-47c9936468c8",
+          "ingredient_id": "f60d2962-95b1-5ff5-80ec-2e8902992bc9",
+          "name": "kosher salt",
+          "display_text": "Dash Kosher Salt",
+          "quantity": 1,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "2ab7a1e0-6011-5ae0-b444-0df265d27f8d",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "Dash Black Pepper",
+          "quantity": 1,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "c3649491-6132-5815-b26b-7bd4b90377ff",
+          "ingredient_id": "a1c590f6-d2a1-5923-8aeb-e632e74b6074",
+          "name": "freshly chopped parsley",
+          "display_text": "Chopped Freshly Chopped Parsley",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Sauté the onions:",
+      "ingredients_used": [
+        "61e086a3-e2ad-59be-8ef8-134c95b2a5aa"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat butter in a large skillet (preferably cast iron) on medium heat. Add the onion and cook a few minutes, until translucent.",
+      "ingredients_used": [
+        "62457d44-13bc-5104-ae55-637fd392d635",
+        "61e086a3-e2ad-59be-8ef8-134c95b2a5aa"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the potatoes and corned beef:",
+      "ingredients_used": [
+        "da857186-2ae3-5f7a-b9d8-b5928ac7a9e0",
+        "288577ae-e508-5341-bd61-5b2597366e83"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Mix in the chopped corned beef and potatoes. Spread out evenly over the pan. Increase the heat to high or medium high and press down on the mixture with a metal spatula.",
+      "ingredients_used": [
+        "da857186-2ae3-5f7a-b9d8-b5928ac7a9e0",
+        "288577ae-e508-5341-bd61-5b2597366e83"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Cook until browned and then flip:"
+    },
+    {
+      "step_number": 6,
+      "instruction": "Do not stir the potatoes and corned beef, but let them brown. If you hear them sizzling, this is good.",
+      "ingredients_used": [
+        "da857186-2ae3-5f7a-b9d8-b5928ac7a9e0",
+        "288577ae-e508-5341-bd61-5b2597366e83"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Use a metal spatula to peek underneath and see if they are browning. If nicely browned, use the spatula to flip sections over in the pan so that they brown on the other side. Press down again with the spatula."
+    },
+    {
+      "step_number": 8,
+      "instruction": "If there is too much sticking, you can add a little more butter to the pan. Continue to cook in this manner until the potatoes and the corned beef are nicely browned.",
+      "ingredients_used": [
+        "62457d44-13bc-5104-ae55-637fd392d635",
+        "da857186-2ae3-5f7a-b9d8-b5928ac7a9e0",
+        "288577ae-e508-5341-bd61-5b2597366e83"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Stir in the parsley and season:",
+      "ingredients_used": [
+        "c3649491-6132-5815-b26b-7bd4b90377ff"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "Remove from heat, stir in chopped parsley. Add plenty of freshly ground black pepper, and add salt to taste.",
+      "ingredients_used": [
+        "317f39e0-0442-5f6d-bd1a-47c9936468c8",
+        "2ab7a1e0-6011-5ae0-b444-0df265d27f8d",
+        "c3649491-6132-5815-b26b-7bd4b90377ff"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.simplyrecipes.com/recipes/corned_beef_hash/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

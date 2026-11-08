@@ -1,0 +1,229 @@
+{
+  "id": "b8291848-7f4f-5056-898a-1180e26cdd21",
+  "version": "1.0.0",
+  "title": "Canadian Butter Tarts",
+  "slug": "canadian-butter-tarts",
+  "summary": "A traditional Canadian dessert consisting of small pastry shells filled with a rich, sweet custard made from muscovado sugar, eggs, and butter, often containing raisins and walnuts.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:49:33Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52923"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/wpputp1511812960.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/wpputp1511812960.jpg/small",
+      "alt_text": "Photo of Canadian Butter Tarts",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=WUpaOGghOdo"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "54838e2c-2c59-558b-8932-e019f7cc6d0c",
+        "slug": "canadian",
+        "name": "Canadian"
+      }
+    ],
+    "tags": [
+      "desert",
+      "pudding",
+      "snack",
+      "speciality"
+    ],
+    "meal_types": [
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 22,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 47
+  },
+  "yield": {
+    "servings": 24,
+    "serving_unit": "pieces"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "tree_nuts",
+      "eggs",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "44ee2e36-2a46-5e25-9c6b-4927ceb827cb",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "8d6bb58b-f58e-5ed6-893c-5e23a540c8b8",
+          "ingredient_id": "046360a3-7aab-5675-9fe2-646f97878a5d",
+          "name": "shortcrust pastry",
+          "display_text": "375g Shortcrust Pastry",
+          "quantity": 375.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 375.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "63d21d89-5b74-56bd-a9ca-bce8065e055b",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "2 large Eggs",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "1ff9dc78-0f67-5c8d-be7b-7ca771ff9054",
+          "ingredient_id": "74d4f663-2935-561e-b6ec-45f204542152",
+          "name": "muscovado sugar",
+          "display_text": "175g Muscovado Sugar",
+          "quantity": 175.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 175.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "6577cbf7-2b57-5e9c-bdab-f9e3ff3b8068",
+          "ingredient_id": "8d52ad34-1aea-57a9-8e92-aabab5116059",
+          "name": "raisins",
+          "display_text": "100g Raisins",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "ef06be8f-7a0f-574c-b99e-b8f967c02370",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1 tsp Vanilla Extract",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "d509e46f-eea0-5abc-84ef-4a182c31804b",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "50g Butter",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "27d6dbed-3e63-50ee-833f-2bd88c0e70b7",
+          "ingredient_id": "e4d9d1f3-3605-503d-a864-c9eb8d0c7996",
+          "name": "single cream",
+          "display_text": "4 tsp Single Cream",
+          "quantity": 4.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 20.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "9d1fefc9-5f84-564f-8632-a558a4c3dbc8",
+          "ingredient_id": "0ad40f09-76c2-5007-b9ca-38f3ecd4a51d",
+          "name": "walnuts",
+          "display_text": "50g Walnuts",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat the oven to fan 170C/ conventional 190C/gas 5. Roll out the pastry on a lightly floured surface so it’s slightly thinner than straight from the pack. Then cut out 18-20 rounds with a 7.5cm fluted cutter, re-rolling the trimmings. Use the rounds to line two deep 12-hole tart tins (not muffin tins). If you only have a regular-sized, 12-hole tart tin you will be able to make a few more slightly shallower tarts.",
+      "temperature": {
+        "value": 170,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "8d6bb58b-f58e-5ed6-893c-5e23a540c8b8"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Beat the eggs in a large bowl and combine with the rest of the ingredients except the walnuts. Tip this mixture into a pan and stir continuously for 3-4 minutes until the butter melts, and the mixture bubbles and starts to thicken. It should be thick enough to coat the back of a wooden spoon. Don’t overcook, and be sure to stir all the time as the mixture can easily burn. Remove from the heat and stir in the nuts.",
+      "timer_seconds": 240,
+      "ingredients_used": [
+        "63d21d89-5b74-56bd-a9ca-bce8065e055b",
+        "d509e46f-eea0-5abc-84ef-4a182c31804b",
+        "9d1fefc9-5f84-564f-8632-a558a4c3dbc8"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Spoon the filling into the unbaked tart shells so it’s level with the pastry. Bake for 15-18 minutes until set and pale golden. Leave in the tin to cool for a few minutes before lifting out on to a wire rack. Serve warm or cold.",
+      "timer_seconds": 1080,
+      "ingredients_used": [
+        "8d6bb58b-f58e-5ed6-893c-5e23a540c8b8"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/1837/canadian-butter-tarts"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

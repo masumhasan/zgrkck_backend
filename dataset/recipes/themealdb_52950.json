@@ -1,0 +1,416 @@
+{
+  "id": "243c6978-4ee9-58c9-a28e-d339ce3fcab4",
+  "version": "1.0.0",
+  "title": "Szechuan Beef",
+  "slug": "szechuan-beef",
+  "summary": "A Chinese stir-fry dish featuring beef marinated in egg white and starch, cooked with a variety of vegetables in a savory, spicy sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:52:02Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52950"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/1529443236.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/1529443236.jpg/small",
+      "alt_text": "Photo of Szechuan Beef",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=SQGZqZYz7Ms"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6813a95e-62cf-55e7-9d4b-6f19ee1d7391",
+        "slug": "chinese",
+        "name": "Chinese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 15,
+    "marinating_time_minutes": 15,
+    "total_time_minutes": 45
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 portion of beef and vegetables"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "celery",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "mustard"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "90faff9f-ed24-55e5-b8e5-c1fb931f7b3c",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "418a5499-f407-5e87-bfb4-cbe57d986af8",
+          "ingredient_id": "c2102b4e-a5b4-5bab-b7d5-bdfa5244ae7b",
+          "name": "beef",
+          "display_text": "1/2 lb Beef",
+          "quantity": 0.5,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 226.8,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "fbd3ebf8-28ca-541a-ace7-d553b99a3ecc",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/2 tsp Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "50116f15-7473-5400-878a-15774208ca53",
+          "ingredient_id": "653731ca-07ee-57df-aa38-0f8f2b71ccc6",
+          "name": "sesame seed oil",
+          "display_text": "1 tsp Sesame Seed Oil",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "77af1705-ba33-54c5-8d2b-89ec24d60a88",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "1 pinch Pepper",
+          "quantity": 1.0,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "caf81b53-a179-515b-9b68-681e66a2b3a5",
+          "ingredient_id": "87c4a7ca-7b0e-5143-aea3-d01ad00e4108",
+          "name": "egg white",
+          "display_text": "1 Egg White",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "4859edd9-e723-5fc8-8d3b-2099d3dbf308",
+          "ingredient_id": "b3c5c45a-2d05-5ed4-91b1-a5aa3324e259",
+          "name": "starch",
+          "display_text": "3 tbs Starch",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "8d157573-2eda-5817-ad0e-6c3c917a3322",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "4 tbs Oil",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "57325e01-6bf9-5ab1-84a1-c68326d4898f",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "1 tsp Ginger",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "5a934f5e-39e4-5806-9a49-25a8bf9c0bad",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 tsp Garlic",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "f8eb0909-5dfb-505f-b0ea-c30081b43a02",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "3/4 cup Onion",
+          "quantity": 0.75,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 180.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "68f521a8-fc9f-59ac-8f1b-170ae564ec83",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "1/2 cup Carrots",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "b3b777e5-b2f3-589e-8086-4a06e6616cc3",
+          "ingredient_id": "f86b83d4-879d-54bb-a883-73bbfa9228ba",
+          "name": "green pepper",
+          "display_text": "3/4 cup Green Pepper",
+          "quantity": 0.75,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 180.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "38ff9181-3b73-5568-a0c8-e154e6a8e605",
+          "ingredient_id": "ed4951b3-26e6-5bb4-a5af-9c61a46687a0",
+          "name": "celery",
+          "display_text": "1 cup Celery",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "ce50a00a-e3b0-5446-8847-f727788dd15d",
+          "ingredient_id": "5031dcf8-ef4a-588f-ae8f-de7c2790dfac",
+          "name": "mushrooms",
+          "display_text": "1 cup Mushrooms",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "de6f3645-0c60-5c96-84ce-9ecbae4e8c38",
+          "ingredient_id": "696dcd25-2ce5-5fc5-9911-4ba83a5f9c1b",
+          "name": "cooking wine",
+          "display_text": "1 tbs Cooking wine",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "594ea4fc-3bbf-5b4d-bcbb-af7b36442c93",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1 cup Water",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "613a07a9-0ad3-538c-ae3f-5401bd3587bb",
+          "ingredient_id": "42972e00-9d00-55f1-8658-5357075be010",
+          "name": "oyster sauce",
+          "display_text": "1 tbs Oyster Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "2361c35f-23a1-5000-a02c-7e5d42398338",
+          "ingredient_id": "42d67342-d05a-512d-958a-1c2fdbf7a682",
+          "name": "hotsauce",
+          "display_text": "1/2 tsp Hotsauce",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "9af2c0b0-1c5b-5f61-9cbf-b44dabb7398f",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 tsp Sugar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "1f39477a-d0e2-506d-af64-a944c5a3f5de",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "1 tbs Soy Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "MARINATING THE BEEF",
+      "ingredients_used": [
+        "418a5499-f407-5e87-bfb4-cbe57d986af8"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a bowl, add the beef, salt, sesame seed oil, white pepper, egg white, 2 Tablespoon of corn starch and 1 Tablespoon of oil.",
+      "ingredients_used": [
+        "418a5499-f407-5e87-bfb4-cbe57d986af8",
+        "fbd3ebf8-28ca-541a-ace7-d553b99a3ecc",
+        "50116f15-7473-5400-878a-15774208ca53",
+        "77af1705-ba33-54c5-8d2b-89ec24d60a88",
+        "caf81b53-a179-515b-9b68-681e66a2b3a5",
+        "4859edd9-e723-5fc8-8d3b-2099d3dbf308",
+        "8d157573-2eda-5817-ad0e-6c3c917a3322"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "STIR FRY"
+    },
+    {
+      "step_number": 4,
+      "instruction": "First Cook the beef by adding 2 Tablespoon of oil until the beef is golden brown.",
+      "ingredients_used": [
+        "418a5499-f407-5e87-bfb4-cbe57d986af8",
+        "8d157573-2eda-5817-ad0e-6c3c917a3322"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Set the beef aside",
+      "ingredients_used": [
+        "418a5499-f407-5e87-bfb4-cbe57d986af8"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "In a wok add 1 Tablespoon of oil, minced ginger, minced garlic and stir-fry for few seconds.",
+      "ingredients_used": [
+        "8d157573-2eda-5817-ad0e-6c3c917a3322",
+        "57325e01-6bf9-5ab1-84a1-c68326d4898f",
+        "5a934f5e-39e4-5806-9a49-25a8bf9c0bad"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Next add all of the vegetables and then add sherry cooking wine and 1 cup of water.",
+      "ingredients_used": [
+        "de6f3645-0c60-5c96-84ce-9ecbae4e8c38",
+        "594ea4fc-3bbf-5b4d-bcbb-af7b36442c93"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "To make the sauce add oyster sauce, hot pepper sauce, and sugar.",
+      "ingredients_used": [
+        "77af1705-ba33-54c5-8d2b-89ec24d60a88",
+        "613a07a9-0ad3-538c-ae3f-5401bd3587bb",
+        "9af2c0b0-1c5b-5f61-9cbf-b44dabb7398f"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "add the cooked beef and 1 spoon of soy sauce",
+      "ingredients_used": [
+        "418a5499-f407-5e87-bfb4-cbe57d986af8",
+        "1f39477a-d0e2-506d-af64-a944c5a3f5de"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "To thicken the sauce, whisk together 1 Tablespoon of cornstarch and 2 Tablespoon of water in a bowl and slowly add to your stir-fry until it's the right thickness.",
+      "ingredients_used": [
+        "594ea4fc-3bbf-5b4d-bcbb-af7b36442c93"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://sueandgambo.com/pages/szechuan-beef"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

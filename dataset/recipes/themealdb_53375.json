@@ -1,0 +1,322 @@
+{
+  "id": "f0b48009-4c65-5359-8959-e753f71b5673",
+  "version": "1.0.0",
+  "title": "Shrimp With Snow Peas",
+  "slug": "shrimp-with-snow-peas",
+  "summary": "A quick Chinese-style stir-fry featuring shrimp and snow peas seasoned with ginger, garlic, and dry sherry.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:28:48Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53375"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/fpl3mv1766433431.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/fpl3mv1766433431.jpg/small",
+      "alt_text": "Photo of Shrimp With Snow Peas",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=RmbTaEqabN4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6813a95e-62cf-55e7-9d4b-6f19ee1d7391",
+        "slug": "chinese",
+        "name": "Chinese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": [
+      "movie_night"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 5,
+    "marinating_time_minutes": 20,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of shrimp and peas with rice"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "peanuts",
+      "soy",
+      "shellfish",
+      "sesame",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "tree_nuts",
+      "eggs",
+      "fish",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "4a06c46e-4fc9-51a3-8502-4ab0a82f999c",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "5f9f665e-6738-5567-a32c-4e250f5a3e31",
+          "ingredient_id": "4bdb1684-cdb6-5a8f-b220-c622cf2655cc",
+          "name": "cornstarch",
+          "display_text": "2 tsp Cornstarch",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "9db5272c-585c-5ddc-b10d-3393496bab44",
+          "ingredient_id": "0878c803-3a75-5498-b12f-29ba3adbfea5",
+          "name": "dry sherry",
+          "display_text": "1 tablespoon Dry sherry",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "165ad8b7-269e-5333-a4c3-a6c4071ab6f8",
+          "ingredient_id": "f60d2962-95b1-5ff5-80ec-2e8902992bc9",
+          "name": "kosher salt",
+          "display_text": "1/2 tsp Kosher Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "c4536055-ad8b-5d53-8f0b-e3a0a970aad6",
+          "ingredient_id": "495feb0d-c0ab-535f-8cf6-cd706b58f4d5",
+          "name": "shrimp",
+          "display_text": "1 lb Shrimp",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "6f9ab067-1dd9-534e-a6cf-8dcf1765ac35",
+          "ingredient_id": "fcf01683-f48b-5ffc-bf64-b06f7405707c",
+          "name": "peanut oil",
+          "display_text": "2 tablespoons Peanut Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "48a9e79a-37f2-5e2b-8866-44c5ddda50a4",
+          "ingredient_id": "9c72d0cf-8d9c-53f6-b4c6-5631779ba66b",
+          "name": "ground ginger",
+          "display_text": "1 tablespoon Ground Ginger",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "7c998465-32a3-5f0b-8430-e825ceb91a23",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 cloves Chopped Garlic",
+          "quantity": 3.0,
+          "unit": "clove",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ba17f599-d32f-53e8-9da1-dd2a506740fa",
+          "ingredient_id": "3dc41d89-8e83-5b80-ac33-abf7ac5aab1f",
+          "name": "snow peas",
+          "display_text": "1/2 lb Snow Peas",
+          "quantity": 0.5,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 226.8,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "ae975887-d5fa-5263-af7e-2262e27184ff",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "2 tsp Soy Sauce",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "100294f4-f482-58f6-b581-5a3cb051efa9",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "1/4 cup Chicken Stock",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "73c7b301-b4f4-5a00-ad30-7756c7802e75",
+          "ingredient_id": "24cbab0a-29d3-5e28-b361-77f90e93af9c",
+          "name": "scallions",
+          "display_text": "4 Scallions",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b0492aa6-63fe-549e-950b-9de44b9f3cbb",
+          "ingredient_id": "653731ca-07ee-57df-aa38-0f8f2b71ccc6",
+          "name": "sesame seed oil",
+          "display_text": "2 tsp Sesame Seed Oil",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "You can also use sugar snap peas for this recipe. Save prep time by prepping the peas, ginger, and garlic while the shrimp is marinating.",
+      "ingredients_used": [
+        "c4536055-ad8b-5d53-8f0b-e3a0a970aad6",
+        "48a9e79a-37f2-5e2b-8866-44c5ddda50a4",
+        "7c998465-32a3-5f0b-8430-e825ceb91a23",
+        "ba17f599-d32f-53e8-9da1-dd2a506740fa"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Marinate the shrimp:",
+      "ingredients_used": [
+        "c4536055-ad8b-5d53-8f0b-e3a0a970aad6"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Mix all marinade ingredients in a large bowl, then add the shrimp. Toss to coat. Let sit for 15 to 20 minutes while you prep the peas, ginger, and garlic.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "c4536055-ad8b-5d53-8f0b-e3a0a970aad6",
+        "48a9e79a-37f2-5e2b-8866-44c5ddda50a4",
+        "7c998465-32a3-5f0b-8430-e825ceb91a23",
+        "ba17f599-d32f-53e8-9da1-dd2a506740fa"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Stir-fry the ginger and garlic:",
+      "ingredients_used": [
+        "48a9e79a-37f2-5e2b-8866-44c5ddda50a4",
+        "7c998465-32a3-5f0b-8430-e825ceb91a23"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Heat a wok or large sauté pan over high heat for 1 minute. Add the peanut oil and let it get hot, about 30 seconds. Add the ginger and garlic and toss to combine. Stir-fry for about 30 seconds.",
+      "ingredients_used": [
+        "6f9ab067-1dd9-534e-a6cf-8dcf1765ac35",
+        "48a9e79a-37f2-5e2b-8866-44c5ddda50a4",
+        "7c998465-32a3-5f0b-8430-e825ceb91a23"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Add the shrimp, snow peas, soy sauce, stock:",
+      "ingredients_used": [
+        "c4536055-ad8b-5d53-8f0b-e3a0a970aad6",
+        "ba17f599-d32f-53e8-9da1-dd2a506740fa",
+        "ae975887-d5fa-5263-af7e-2262e27184ff"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Add the shrimp and all the marinade to the pan (scrape out all the marinade with a rubber spatula). Add the snow peas, soy sauce and chicken stock. Stir-fry until the shrimp turns pink, about 2 minutes.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "c4536055-ad8b-5d53-8f0b-e3a0a970aad6",
+        "ba17f599-d32f-53e8-9da1-dd2a506740fa",
+        "ae975887-d5fa-5263-af7e-2262e27184ff",
+        "100294f4-f482-58f6-b581-5a3cb051efa9"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Add the scallions and finish with sesame oil:",
+      "ingredients_used": [
+        "73c7b301-b4f4-5a00-ad30-7756c7802e75"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Add the scallions and stir-fry 1 more minute. Turn off the heat and add the sesame oil. Toss to combine once more and serve with steamed rice.",
+      "ingredients_used": [
+        "73c7b301-b4f4-5a00-ad30-7756c7802e75"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.simplyrecipes.com/recipes/shrimp_with_snow_peas/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

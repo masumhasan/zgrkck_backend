@@ -1,0 +1,261 @@
+{
+  "id": "d7151450-d360-5376-842a-cee846220f33",
+  "version": "1.0.0",
+  "title": "Tandoori chicken",
+  "slug": "tandoori-chicken",
+  "summary": "Tandoori chicken is an Indian dish featuring chicken thighs marinated in a spiced yogurt mixture and grilled until charred.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:39:03Z",
+  "updated_at": "2026-10-16T10:22:44Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52806"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/qptpvt1487339892.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/qptpvt1487339892.jpg/small",
+      "alt_text": "Photo of Tandoori chicken",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=-CKvt1KNU74"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b2b4e1bc-3c1e-50ce-abf4-9015553e6a16",
+        "slug": "indian",
+        "name": "Indian"
+      }
+    ],
+    "tags": [
+      "meat",
+      "spicy"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 16,
+    "marinating_time_minutes": 70,
+    "total_time_minutes": 106
+  },
+  "yield": {
+    "servings": 16,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 chicken thigh"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "2880f96e-189f-52d9-8e35-353bcef8fdd5",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "00f3efb2-4f41-5d9f-bc08-18ca71a70868",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemons",
+          "display_text": "2 Juice lemons",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "966e3e99-758f-5279-a0b8-393215ba4cf8",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "4 tsp paprika",
+          "quantity": 4.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 20.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "abf18788-76d4-58d5-be00-02cf18473182",
+          "ingredient_id": "716f7639-3b59-56a7-9146-1819649ebdad",
+          "name": "red onions",
+          "display_text": "2 finely chopped red onions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "dbc179f6-e2ef-5831-b991-ec7032fae173",
+          "ingredient_id": "e0e4d032-0f9f-5908-ab90-db9a8ec5b68c",
+          "name": "chicken thighs",
+          "display_text": "16 skinnless chicken thighs",
+          "quantity": 16.0,
+          "unit": "piece",
+          "preparation": "skinnless",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "619b87ef-5b8a-5fa9-9b37-7cef12e0b9b5",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "For brushing vegetable oil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "for brushing",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "0780ea90-1dde-5c58-9559-c7eb9e95483b",
+          "ingredient_id": "ba22b73d-e619-5bc7-a859-f65b683613fe",
+          "name": "greek yogurt",
+          "display_text": "300ml Greek yogurt",
+          "quantity": 300.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "b1dcd7a4-1397-5ce6-8cf4-abd5e5f4809f",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "large piece ginger",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "large piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b976baea-7024-5474-b8ac-12790ce585fb",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "4 garlic clove",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "81230590-51fc-5ff3-9cb3-fa3261e05a6f",
+          "ingredient_id": "b3528dc3-f7f7-5d65-9903-d906fc4c30f0",
+          "name": "garam masala",
+          "display_text": "¾ tsp garam masala",
+          "quantity": 0.75,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 3.8,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "4f5e3543-aa27-57c2-a57c-91e9b5b3efe8",
+          "ingredient_id": "efa5be6a-3bc3-55ca-812f-22dd145ba53d",
+          "name": "ground cumin",
+          "display_text": "¾ tsp ground cumin",
+          "quantity": 0.75,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 3.8,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e17ea819-d0ad-557a-80f8-43c79317d46c",
+          "ingredient_id": "6fab3ead-b910-5c38-a787-4d74e606a7e1",
+          "name": "chilli powder",
+          "display_text": "½ tsp chilli powder",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "914dddf8-2725-5bb3-9321-78db593c6d0a",
+          "ingredient_id": "ab4d5e50-1105-53e2-be29-49b042b3d7fb",
+          "name": "turmeric",
+          "display_text": "¼ tsp turmeric",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Mix the lemon juice with the paprika and red onions in a large shallow dish. Slash each chicken thigh three times, then turn them in the juice and set aside for 10 mins.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "966e3e99-758f-5279-a0b8-393215ba4cf8",
+        "abf18788-76d4-58d5-be00-02cf18473182"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Mix all of the marinade ingredients together and pour over the chicken. Give everything a good mix, then cover and chill for at least 1 hr. This can be done up to a day in advance.",
+      "timer_seconds": 3600
+    },
+    {
+      "step_number": 3,
+      "instruction": "Heat the grill. Lift the chicken pieces onto a rack over a baking tray. Brush over a little oil and grill for 8 mins on each side or until lightly charred and completely cooked through.",
+      "timer_seconds": 480
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://www.bbcgoodfood.com/recipes/1660651/tandoori-chicken"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

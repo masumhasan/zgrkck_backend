@@ -1,0 +1,313 @@
+{
+  "id": "3ec28d3f-fde3-55a6-b28f-7219c6b0b88c",
+  "version": "1.0.0",
+  "title": "Barbados Pepperpot",
+  "slug": "barbados-pepperpot",
+  "summary": "A traditional Barbadian stew made with a variety of meats including beef, oxtail, and pig's trotters, seasoned with aromatic spices and scotch bonnet peppers.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:35:50Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53457"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/5tf8j11782236249.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/5tf8j11782236249.jpg/small",
+      "alt_text": "Photo of Barbados Pepperpot",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=9L2nQEBRPdg"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "71413a66-c12a-5aba-a038-e60b4b3fcacc",
+        "slug": "barbadian",
+        "name": "Barbadian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 25,
+    "cook_time_minutes": 180,
+    "total_time_minutes": 205
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "a large bowl of stew"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "a0003aea-0a21-5a16-8966-d58432a2fa62",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "f3e228ce-e222-5ee6-97bf-cb373eff0e67",
+          "ingredient_id": "128a141f-ed0c-5835-a6bf-6bf089b95176",
+          "name": "pigs trotters",
+          "display_text": "2 Pigs Trotters",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "c14e0f39-e422-5a47-8aba-a6b5b62bd043",
+          "ingredient_id": "de286315-2593-52a5-8564-e33c00254eef",
+          "name": "oxtail",
+          "display_text": "2 Lbs Oxtail",
+          "quantity": 2.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 907.2,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "a824f489-4d4d-5393-b015-b746b0ca042c",
+          "ingredient_id": "36c0f276-68d5-5515-9abe-1ef57bc6eed7",
+          "name": "lime juice",
+          "display_text": "Splash Lime juice",
+          "quantity": 1,
+          "unit": "splash",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3680ecff-7d00-56fa-b7c7-7186bd90f555",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 cloves Garlic",
+          "quantity": 3.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0dd48659-1278-5938-b99f-9a965ee80cdd",
+          "ingredient_id": "cfe71375-907d-57ad-936c-b27b60946f4e",
+          "name": "scotch bonnet",
+          "display_text": "2 Scotch Bonnet",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "cbc0cbd6-d0e4-5a68-b217-b96b52f823b3",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 large Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0b072bbb-7854-5d71-b14e-099f9790b60a",
+          "ingredient_id": "815267d7-ad8f-543a-b885-c3fdabdc63fb",
+          "name": "cinnamon stick",
+          "display_text": "1 Cinnamon Stick",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "31e3bbff-b7bd-541c-aeea-e4da6326b5c5",
+          "ingredient_id": "73063cfc-1094-5f58-87bf-49227197f2a2",
+          "name": "cloves",
+          "display_text": "2 Cloves",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "befa6d33-cb1a-50bf-aa47-1bac0135e3dd",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "Pinch Sugar",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "sweeteners"
+        },
+        {
+          "id": "16c5e86a-039f-5974-978a-d8f722885bfc",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "4dd5faf6-0bc8-59b2-9da2-f49326b4c815",
+          "ingredient_id": "fc6a825e-e02a-589c-91d6-b4e76ccc6354",
+          "name": "basil",
+          "display_text": "Sprinkling Basil",
+          "quantity": 1,
+          "unit": "sprinkling",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "191e23a2-d15c-5cb6-8863-d15d7065f3c5",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "Sprinkling Thyme",
+          "quantity": 1,
+          "unit": "sprinkling",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e518d007-0fe2-510a-824c-5c6f10770ab7",
+          "ingredient_id": "c2102b4e-a5b4-5bab-b7d5-bdfa5244ae7b",
+          "name": "beef",
+          "display_text": "2 Lbs Beef",
+          "quantity": 2.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 907.2,
+          "metric_unit": "gram",
+          "category": "meat"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Wash the stewing steak and place it in the mixing bowl with the lemon or lime juice.",
+      "ingredients_used": [
+        "a824f489-4d4d-5393-b015-b746b0ca042c"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Set that to one side; while you slice the garlic into tiny slices, slice the onion. Chop the basil and thyme.",
+      "ingredients_used": [
+        "3680ecff-7d00-56fa-b7c7-7186bd90f555",
+        "cbc0cbd6-d0e4-5a68-b217-b96b52f823b3",
+        "4dd5faf6-0bc8-59b2-9da2-f49326b4c815",
+        "191e23a2-d15c-5cb6-8863-d15d7065f3c5"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Now you need to be very careful when you slice the scotch bonnet peppers; you want these in fine pieces, which you can either do with a long knife trying not to touch the pepper, or you can wear rubber gloves to cut it up. Wash your hands straight afterward and do not touch your eyes; these peppers really burn your hands and eyes if they make contact with the skin!",
+      "ingredients_used": [
+        "0dd48659-1278-5938-b99f-9a965ee80cdd"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Now rinse the lime or lemon juice off the stewing steak. And cut the meat into cubes."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Also, chop the pig’s trotters and the oxtail into cubes.",
+      "ingredients_used": [
+        "f3e228ce-e222-5ee6-97bf-cb373eff0e67",
+        "c14e0f39-e422-5a47-8aba-a6b5b62bd043"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Fill the large saucepan with water and bring to a boil."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Add the pig’s trotters.",
+      "ingredients_used": [
+        "f3e228ce-e222-5ee6-97bf-cb373eff0e67"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "When the pig’s trotters have boiled, drain the excess water, and now add the stewing steak and cover with fresh hot water.",
+      "ingredients_used": [
+        "f3e228ce-e222-5ee6-97bf-cb373eff0e67"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Now add your chopped garlic, onion, and peppers.",
+      "ingredients_used": [
+        "3680ecff-7d00-56fa-b7c7-7186bd90f555",
+        "cbc0cbd6-d0e4-5a68-b217-b96b52f823b3"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "Now add the cinnamon stick, cloves, basil, and thyme and a pinch of salt and sugar to taste.",
+      "ingredients_used": [
+        "0b072bbb-7854-5d71-b14e-099f9790b60a",
+        "31e3bbff-b7bd-541c-aeea-e4da6326b5c5",
+        "befa6d33-cb1a-50bf-aa47-1bac0135e3dd",
+        "16c5e86a-039f-5974-978a-d8f722885bfc",
+        "4dd5faf6-0bc8-59b2-9da2-f49326b4c815",
+        "191e23a2-d15c-5cb6-8863-d15d7065f3c5"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Now simmer until the meat is tender. The flavor of this dish comes out over a few days and therefore gets tastier each time you reheat it; make sure you always reheat the entire pot to boiling point."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.totallybarbados.com/articles/barbados-recipes/barbados-pepperpot/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

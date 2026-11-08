@@ -1,0 +1,274 @@
+{
+  "id": "46e07c81-833a-5e42-8919-6e254c7a9352",
+  "version": "1.0.0",
+  "title": "Danish Rye Bread",
+  "slug": "danish-rye-bread",
+  "summary": "A traditional Danish dense bread made with rye grain, rye flour, and dark beer. It is typically fermented slowly to develop a deep flavor and hearty texture.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:44:44Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53556"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/hem6gk1784664868.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/hem6gk1784664868.jpg/small",
+      "alt_text": "Photo of Danish Rye Bread",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "11f008d8-4600-56c5-aaa2-cde07db70a5a",
+        "slug": "danish",
+        "name": "Danish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 80,
+    "rest_time_minutes": 90,
+    "total_time_minutes": 185
+  },
+  "yield": {
+    "servings": 10,
+    "serving_unit": "servings",
+    "serving_size_description": "1 thick slice"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery",
+      "sulfites"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "5175f32a-9898-53c9-91b8-6aa3e20e6164",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "f21fa13e-f4e3-5a9c-8f7b-d4f18c62ba47",
+          "ingredient_id": "673ad00c-12de-5247-afbe-da0da6961d1a",
+          "name": "rye grain",
+          "display_text": "200g Rye Grain",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "9d5654c4-1d1e-53e1-a222-f8b46fd592f1",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "3/4 cup Water",
+          "quantity": 0.75,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 180.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "75a18dd6-ee55-586e-b3d8-2f9a4ce758fb",
+          "ingredient_id": "c1cf53fc-0331-526b-aa73-041c5e6cb1f9",
+          "name": "dark beer",
+          "display_text": "3/4 cup Dark Beer",
+          "quantity": 0.75,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 180.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "daee672a-2ace-56fa-8ec9-d963439597e8",
+          "ingredient_id": "56ebd29f-4b15-5770-915a-484caf5b1ddb",
+          "name": "buttermilk",
+          "display_text": "3/4 cup Buttermilk",
+          "quantity": 0.75,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 180.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "175d8a6a-e44e-5f16-84fe-367757c301f3",
+          "ingredient_id": "28b21302-909b-59d3-a88f-a543e26ac34f",
+          "name": "yeast",
+          "display_text": "10g Yeast",
+          "quantity": 10.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "b464f2e5-750c-5744-b7a2-8e9ee78a3441",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "0c288ac7-6fcf-5da1-8302-ce8ce23226ca",
+          "ingredient_id": "e0950a16-4436-5efd-b81e-900b1b7d5268",
+          "name": "seeds",
+          "display_text": "130g Seeds",
+          "quantity": 130.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 130.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "bd9ee422-57db-5aee-8223-b22546e6079a",
+          "ingredient_id": "d1e5ec78-b8c2-5649-962c-a9f67272ea92",
+          "name": "all purpose flour",
+          "display_text": "3/4 cup All purpose flour",
+          "quantity": 0.75,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 180.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "5bd6fc41-4bd9-5e93-848a-ddc00e3a4e71",
+          "ingredient_id": "ffa25b32-aeb4-51bf-a554-565c3027a4b7",
+          "name": "rye flour",
+          "display_text": "2 1/2 cups Rye Flour",
+          "quantity": 2.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 600.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Combine rye grain and water in a saucepan and bring to a boil. Cover and simmer for 2 to 3 minutes.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "f21fa13e-f4e3-5a9c-8f7b-d4f18c62ba47",
+        "9d5654c4-1d1e-53e1-a222-f8b46fd592f1"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Transfer the boiled rye grain to a mixing bowl and combine with beer, buttermilk and salt.",
+      "ingredients_used": [
+        "f21fa13e-f4e3-5a9c-8f7b-d4f18c62ba47",
+        "75a18dd6-ee55-586e-b3d8-2f9a4ce758fb",
+        "daee672a-2ace-56fa-8ec9-d963439597e8",
+        "b464f2e5-750c-5744-b7a2-8e9ee78a3441"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Dissolve the fresh yeast in this mixture and then add the seeds.",
+      "ingredients_used": [
+        "175d8a6a-e44e-5f16-84fe-367757c301f3",
+        "0c288ac7-6fcf-5da1-8302-ce8ce23226ca"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add all-purpose flour and rye flour, and knead for about 10 minutes. You can also use a kitchen mixer to knead the dough.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "5bd6fc41-4bd9-5e93-848a-ddc00e3a4e71"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Transfer the dough to an oiled loaf pan (2.5 l) and smooth out with a spatula."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Poke holes in the surface with a fork and cover loaf pan with plastic wrap. Let the dough rise for 1½ hours at room temperature, or for 24 hours in the refrigerator.",
+      "timer_seconds": 86400
+    },
+    {
+      "step_number": 7,
+      "instruction": "Pre-heat oven to 200°C / 392℉ (175°C / 347℉ on fan setting) and bake bread on the bottom rack for about 75 minutes. Test to make sure dry in center, or if using an oven thermometer, set it to turn off when center reaches 98°C / 208℉",
+      "timer_seconds": 4500,
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 8,
+      "instruction": "Allow the bread to cool completely before slicing."
+    },
+    {
+      "step_number": 9,
+      "instruction": "TIP"
+    },
+    {
+      "step_number": 10,
+      "instruction": "If you refrigerate the dough while rising, let it stand at room temperature for 1 hour before baking.",
+      "timer_seconds": 3600
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://denmark.dk/people-and-culture/recipes/rye-bread/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

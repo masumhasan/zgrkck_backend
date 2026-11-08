@@ -1,0 +1,296 @@
+{
+  "id": "baedbd42-0742-5b2b-9c8a-2aadbe3ec759",
+  "version": "1.0.0",
+  "title": "Papas Chorreadas Recipe (Potatoes with Cream and Cheese Sauce)",
+  "slug": "papas-chorreadas-recipe-potatoes-with-cream-and-cheese-sauce",
+  "summary": "A traditional Colombian dish consisting of boiled red potatoes topped with a creamy sauce made from tomatoes, scallions, and melted mozzarella cheese.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:42:51Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53534"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/v1n3cj1783805938.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/v1n3cj1783805938.jpg/small",
+      "alt_text": "Photo of Papas Chorreadas Recipe (Potatoes with Cream and Cheese Sauce)",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "50fefb0a-1f33-59b0-afdb-383ba2373950",
+        "slug": "colombian",
+        "name": "Colombian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course",
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 42,
+    "total_time_minutes": 52
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of potatoes with sauce"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "gluten",
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "4899581a-1b21-5eb2-9d8b-d25055bcd202",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "988c5c7c-356b-5227-a513-bade6f2bcd5d",
+          "ingredient_id": "53c324cb-8a7f-5123-9cea-2f1d60144900",
+          "name": "red potatoes",
+          "display_text": "8 Red Potatoes",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "40a25dcb-099a-56d1-8ac3-0533b68b1f95",
+          "ingredient_id": "c51e6b59-c18d-5488-827d-6e870113c2e5",
+          "name": "chicken stock cube",
+          "display_text": "1 Chicken Stock Cube",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "5d6bfbd4-a6ab-522a-b531-1dda873c4686",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "Splash Water",
+          "quantity": 1,
+          "unit": "splash",
+          "is_optional": false,
+          "category": "beverages"
+        },
+        {
+          "id": "b1203ddb-3936-5e40-806c-9df4250b34eb",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "1 tablespoon Butter",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "4ba6f1d0-6092-5f13-825d-72767eb818d8",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "1 tablespoon Vegetable Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "c5e106e8-6be7-5b92-91c7-da127de74709",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "1 1/2 cup Tomato",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "fb2b2831-40c8-541d-9f4d-1bea1e389c01",
+          "ingredient_id": "24cbab0a-29d3-5e28-b361-77f90e93af9c",
+          "name": "scallions",
+          "display_text": "3 Scallions",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "660ee8f5-be3c-56ed-aec0-b962456fc92b",
+          "ingredient_id": "856e47ab-bcee-5e44-bc03-f1ba0c6859b1",
+          "name": "garlic powder",
+          "display_text": "1/4 tsp Garlic Powder",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "0315e993-7839-5669-8da9-fb201fd3ea44",
+          "ingredient_id": "be79b3bd-bc90-5d15-aab2-4f95774b8de1",
+          "name": "cumin",
+          "display_text": "1/4 tsp Cumin",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "a8846482-62e1-5eec-a833-1b4a583fca4f",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/4 tsp Salt",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "21e41e71-2e91-5ba9-97a0-22f572773f09",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "To taste Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "bd5f8e46-8836-541f-990d-500563bcff30",
+          "ingredient_id": "ff546e66-3df1-5c50-bf15-42f51d91ab80",
+          "name": "whipping cream",
+          "display_text": "1 cup Whipping Cream",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "d4bbd64e-d608-5611-a554-04584f83f0eb",
+          "ingredient_id": "1655ccbe-97a7-59b3-9245-ebc95a0ed6d0",
+          "name": "cilantro",
+          "display_text": "1 tablespoon chopped Cilantro",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "04332b78-53d5-5da2-a86d-206b66b3a06c",
+          "ingredient_id": "e33b865f-f35f-5c67-b930-10dc0e6899f1",
+          "name": "mozzarella",
+          "display_text": "1 cup Mozzarella",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Place the potatoes and chicken bouillon in a medium saucepan. Cover with water and bring to a boil and cook about 30 minutes until tender. Drain and set a side.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "988c5c7c-356b-5227-a513-bade6f2bcd5d",
+        "5d6bfbd4-a6ab-522a-b531-1dda873c4686"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "While the potatoes are cooking, heat the oil and butter in a frying pan over medium heat. Add onion and tomatoes, stir and cook about 7 minutes. Add garlic powder, cumin, salt and pepper. Stir and cook 2 minutes more.",
+      "ingredients_used": [
+        "988c5c7c-356b-5227-a513-bade6f2bcd5d",
+        "b1203ddb-3936-5e40-806c-9df4250b34eb",
+        "c5e106e8-6be7-5b92-91c7-da127de74709",
+        "660ee8f5-be3c-56ed-aec0-b962456fc92b",
+        "0315e993-7839-5669-8da9-fb201fd3ea44",
+        "a8846482-62e1-5eec-a833-1b4a583fca4f",
+        "21e41e71-2e91-5ba9-97a0-22f572773f09"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add cream, cilantro and cheese. Mix well and turn down the heat and cook for 3 minutes or until cheese has melted.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "d4bbd64e-d608-5611-a554-04584f83f0eb"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "In a serving dish place the potatoes and pour the sauce on top. Serve them hot.",
+      "ingredients_used": [
+        "988c5c7c-356b-5227-a513-bade6f2bcd5d"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.mycolombianrecipes.com/potatoes-with-cheese-sauce-papas/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

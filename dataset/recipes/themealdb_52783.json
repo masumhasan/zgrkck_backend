@@ -1,0 +1,331 @@
+{
+  "id": "0c5c00ae-7f1d-591d-9b9d-f94296004367",
+  "version": "1.0.0",
+  "title": "Rigatoni with fennel sausage sauce",
+  "slug": "rigatoni-with-fennel-sausage-sauce",
+  "summary": "A rich Italian pasta dish featuring fennel-infused sausage ragù, tomatoes, and olives, finished with a fresh basil pesto.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:37:38Z",
+  "updated_at": "2026-10-16T10:22:43Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52783"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/qtqvys1468573168.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/qtqvys1468573168.jpg/small",
+      "alt_text": "Photo of Rigatoni with fennel sausage sauce",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=45dpOfESxr8"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "5777da00-e671-5ded-9c46-d7577d65960f",
+        "slug": "italian",
+        "name": "Italian"
+      }
+    ],
+    "tags": [
+      "pasta"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 62,
+    "total_time_minutes": 82
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of pasta with sauce"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "fish",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "a87bbfd6-0eae-53e9-8f82-d9d652877587",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "fe236702-f207-5066-8f1f-f1312e8ee446",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2½ tbsp olive oil",
+          "quantity": 2.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 37.5,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "32be8bde-2074-59af-8659-2f2ba3c227c1",
+          "ingredient_id": "f68fad14-8516-520e-b56f-1c50a68165c2",
+          "name": "italian fennel sausages",
+          "display_text": "6 cut into 1.5cm-thick slices Italian fennel sausages",
+          "quantity": 6.0,
+          "unit": "piece",
+          "preparation": "cut into 1.5cm-thick slices",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "8edb1bd9-f81e-5205-9854-68eed9fd126f",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 large peeled and chopped onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large peeled and chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d137a462-7db7-510a-9437-d27e36d1e6df",
+          "ingredient_id": "b82bdfe9-4fe1-5840-ab6c-b4bb8469fe4e",
+          "name": "fennel bulb",
+          "display_text": "1 trimmed and roughly chopped; reserve any fronds to garnish fennel bulb",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "trimmed and roughly chopped; reserve any fronds to garnish",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "bb2094ea-9c27-51cf-87d1-183e2ef41d35",
+          "ingredient_id": "77978be2-bc34-5465-bea5-aed4d904048e",
+          "name": "smoky paprika",
+          "display_text": "½ tsp smoky paprika",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "b018f142-2305-56e8-8a51-e25c94892624",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove, peeled and sliced garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "preparation": "peeled and sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "85941fe6-eb17-5064-8ed3-804db3950280",
+          "ingredient_id": "020529fb-59b6-53c9-af68-aa8298301e38",
+          "name": "fennel seeds",
+          "display_text": "2 tsp lightly toasted and then gently crushed fennel seeds",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "preparation": "lightly toasted and then gently crushed",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d754d41b-539a-5517-a04c-8ff17360eef2",
+          "ingredient_id": "0b364d55-0a30-54fb-b1d4-422f720404e3",
+          "name": "red wine",
+          "display_text": "100ml red wine",
+          "quantity": 100.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "4eabeba9-6ff0-52f0-b4d2-2d2d8f21ec84",
+          "ingredient_id": "f55fd16d-cf7d-508e-a734-bd6e6a65e05a",
+          "name": "chopped tomatoes",
+          "display_text": "400g tinned chopped tomatoes",
+          "quantity": 400.0,
+          "unit": "gram",
+          "preparation": "tinned",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "d50e9015-014c-51fe-bb94-adef4b299b10",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "½ tsp caster sugar",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "b6a9c500-e26c-587d-aecd-1e61ff5550f7",
+          "ingredient_id": "6ecab97d-455c-53fd-a75d-4077b624d40a",
+          "name": "pitted black olives",
+          "display_text": "50g cut in half lengthways pitted black olives",
+          "quantity": 50.0,
+          "unit": "gram",
+          "preparation": "cut in half lengthways",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "031bcb6f-ee80-52e8-964d-b6179deb6ef0",
+          "ingredient_id": "fdfe93b1-0984-5ebd-a1dd-e027eee837ee",
+          "name": "rigatoni",
+          "display_text": "500g rigatoni",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "de51c13f-f3cb-529c-b474-d795480e92bd",
+          "ingredient_id": "aa6fab7a-f8f9-5879-aa30-b2978322fd66",
+          "name": "pecorino",
+          "display_text": "30g roughly crumbled into 0.5cm pieces pecorino",
+          "quantity": 30.0,
+          "unit": "gram",
+          "preparation": "roughly crumbled into 0.5cm pieces",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "9abed6d0-ebdc-5bda-87a9-2ffec293e600",
+          "ingredient_id": "63a5d509-146f-5488-99ad-779a434b6fda",
+          "name": "anchovy fillet",
+          "display_text": "1  rinsed and patted dry anchovy fillet",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "rinsed and patted dry",
+          "is_optional": false,
+          "category": "fish"
+        },
+        {
+          "id": "01b929a8-3541-5877-9401-64f33bc571d1",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove, peeled and crushed garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "preparation": "peeled and crushed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b20a79df-1f3b-505e-8acb-16978f415573",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "60ml olive oil",
+          "quantity": 60.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "94639b88-04b4-5a8d-b321-42c58a1afb9f",
+          "ingredient_id": "a1783c57-4793-5f4c-b52e-1ed99ab34832",
+          "name": "basil leaves",
+          "display_text": "50g torn basil leaves",
+          "quantity": 50.0,
+          "unit": "gram",
+          "preparation": "torn",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat a tablespoon of oil in a large saute pan for which you have a lid. Add the sausage pieces and fry on a medium-high heat for 10 minutes, stirring regularly, until golden-brown all over. Transfer the sausages to a plate, then add the onion and fennel to the hot pan and fry for 15 minutes, stirring once in a while, until soft and caramelized; if the pan goes a bit dry, add a teaspoon or so of extra oil. Stir in the paprika, garlic and half the fennel seeds, fry for two minutes more, then pour on the wine and boil for 30 seconds, to reduce by half. Add the tomatoes, sugar, 100ml water, the seared sausage and half a teaspoon of salt, cover and simmer for 30 minutes; remove the lid after 10 minutes, and cook until the sauce is thick and rich. Remove from the heat, stir through the olives and remaining fennel seeds and set aside until you’re ready to serve.",
+      "ingredients_used": [
+        "32be8bde-2074-59af-8659-2f2ba3c227c1",
+        "8edb1bd9-f81e-5205-9854-68eed9fd126f",
+        "bb2094ea-9c27-51cf-87d1-183e2ef41d35",
+        "b018f142-2305-56e8-8a51-e25c94892624",
+        "85941fe6-eb17-5064-8ed3-804db3950280",
+        "d754d41b-539a-5517-a04c-8ff17360eef2",
+        "4eabeba9-6ff0-52f0-b4d2-2d2d8f21ec84",
+        "b6a9c500-e26c-587d-aecd-1e61ff5550f7",
+        "01b929a8-3541-5877-9401-64f33bc571d1"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Bring a large pot of salted water to a boil, add the pasta and cook for 12-14 minutes (or according to the instructions on the packet), until al dente. Meanwhile, reheat the sauce. Drain the pasta, return it to the pot, stir in a tablespoon of oil, then divide between the bowls.",
+      "timer_seconds": 840
+    },
+    {
+      "step_number": 3,
+      "instruction": "Put all the pesto ingredients except the basil in the small bowl of a food processor. Add a tablespoon of water and blitz to a rough paste. Add the basil, then blitz until just combined (the pesto has a much better texture if the basil is not overblended)."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Spoon over the ragù and top with a spoonful of pesto. Finish with a sprinkling of chopped fennel fronds, if you have any, and serve at once."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://www.ottolenghi.co.uk/recipes/meat/rigatoni-with-fennel-sausage-sauce-and-pecorino-and-anchovy-pesto-shop"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

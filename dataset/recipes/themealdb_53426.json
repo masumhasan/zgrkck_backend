@@ -1,0 +1,192 @@
+{
+  "id": "051bbf9c-6452-5595-9b9d-4d9ab4fa1596",
+  "version": "1.0.0",
+  "title": "Lao Som Pak Pickled Cabbage",
+  "slug": "lao-som-pak-pickled-cabbage",
+  "summary": "A traditional Laotian side dish consisting of cabbage and spring onions preserved in a salt water brine.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:33:08Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53426"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/44pjrn1779814409.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/44pjrn1779814409.jpg/small",
+      "alt_text": "Photo of Lao Som Pak Pickled Cabbage",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=0dkBqf0zj6M"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "576ac435-ec21-5e8d-85c2-e8d8a2c9dd6d",
+        "slug": "laotian",
+        "name": "Laotian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 15
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of pickled cabbage"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "a1aa06d4-1f24-5c7e-be35-b7e3103205ac",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "5b294a8d-9d97-5a5c-892d-a79f9ec7a712",
+          "ingredient_id": "8604c41c-a935-5634-b405-fed806fe806b",
+          "name": "cabbage",
+          "display_text": "1 large Cabbage",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "9295cb9b-38b1-561c-9dba-5cbd4f2114b0",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "10 Spring Onions",
+          "quantity": 10.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "226e2bf4-7012-5e40-95fd-30cd1a2b3be2",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "16 oz Water",
+          "quantity": 16.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "beverages"
+        },
+        {
+          "id": "0aebee08-32f8-5cef-af17-e247245dad5f",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "2 tablespoons Salt",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Cut the cabbage and chop it into 1 inch pieces",
+      "ingredients_used": [
+        "5b294a8d-9d97-5a5c-892d-a79f9ec7a712"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Put the cabbage in a large bowl and add cold water to rinse.",
+      "ingredients_used": [
+        "5b294a8d-9d97-5a5c-892d-a79f9ec7a712",
+        "226e2bf4-7012-5e40-95fd-30cd1a2b3be2"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Wash the cabbage. Rinse and drain three times.",
+      "ingredients_used": [
+        "5b294a8d-9d97-5a5c-892d-a79f9ec7a712"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "In a large clean bowl, pour in the bottle of water.",
+      "ingredients_used": [
+        "226e2bf4-7012-5e40-95fd-30cd1a2b3be2"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Put the cabbage and green onion into the salt water mixture.",
+      "ingredients_used": [
+        "5b294a8d-9d97-5a5c-892d-a79f9ec7a712",
+        "226e2bf4-7012-5e40-95fd-30cd1a2b3be2",
+        "0aebee08-32f8-5cef-af17-e247245dad5f"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Add in the salt.",
+      "ingredients_used": [
+        "0aebee08-32f8-5cef-af17-e247245dad5f"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://cookingwithlane.com/som-pak-thai-and-lao-pickled-fermented-cabbage/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

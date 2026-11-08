@@ -1,0 +1,285 @@
+{
+  "id": "36d730a4-a198-5d2e-9c51-28a0e98c87e9",
+  "version": "1.0.0",
+  "title": "Falafel Pita Sandwich with Tahini Sauce",
+  "slug": "falafel-pita-sandwich-with-tahini-sauce",
+  "summary": "A Syrian-style sandwich featuring warm falafel tucked into pita bread pockets with fresh vegetables and a creamy tahini sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:03:24Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53091"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ae6clc1760524712.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ae6clc1760524712.jpg/small",
+      "alt_text": "Photo of Falafel Pita Sandwich with Tahini Sauce",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=wt8nApxP5fE"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "a8c10f43-1ba0-5839-9ba9-834872824efe",
+        "slug": "syrian",
+        "name": "Syrian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "lunchbox",
+      "picnic"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 25
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 pita sandwich with 2 falafel"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "tree_nuts",
+      "sesame"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "45e5d36d-fb15-5a31-87c8-8e7dfe62371f",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "5dc522b5-7d8d-535c-99dd-b3024af95b38",
+          "ingredient_id": "d86b043b-e8e0-569b-bda7-3a3fac04d485",
+          "name": "falafel",
+          "display_text": "12 Falafel",
+          "quantity": 12.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "8063c1b0-4776-52de-bce9-b27f6e2cb7e4",
+          "ingredient_id": "dcf3c30f-4681-5154-b137-649120940259",
+          "name": "tahini",
+          "display_text": "1/4 cup Tahini",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "bbe03378-0205-58a4-a4af-b5a5938776ec",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1/4 cup Water",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "4c127774-532b-5d8d-9787-1add3e1283ba",
+          "ingredient_id": "4020879e-a0a5-58e2-b093-33c7e85c8a08",
+          "name": "lemon juice",
+          "display_text": "2 tablespoons Lemon Juice",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "4f32bfb9-d534-5c01-ae1f-bcee250b21c6",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2ffd6ced-b4cc-5c33-84ad-889fc819fdf2",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1/4 tsp Paprika",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "8e9d2add-85e6-50f4-802f-4adfdf47a46b",
+          "ingredient_id": "3998084f-e7c2-5364-b223-62058fa4c0c9",
+          "name": "pita bread",
+          "display_text": "6 Pita Bread",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "e02a1588-c5ad-59fe-ab93-80be0a085d54",
+          "ingredient_id": "0777cda5-7472-55c6-bfb1-6a88f7678f6d",
+          "name": "lettuce",
+          "display_text": "1 Lettuce",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "9a53db51-99e5-56b6-a0ae-a91fa5f39d10",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "1 Tomato",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4eac00bc-34bc-5447-92f3-bf49a4eb7eea",
+          "ingredient_id": "8f9e104a-822f-5bda-b376-eee34fc38609",
+          "name": "cucumber",
+          "display_text": "1/2 Cucumber",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4d5624f1-1061-596f-84b1-084bd782cd88",
+          "ingredient_id": "e7ef9783-b3f9-5639-b277-3e5953d9ffc4",
+          "name": "dill pickles",
+          "display_text": "1 Dill Pickles",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "a756e935-125f-5022-a3a6-d20fafc2c5eb",
+          "ingredient_id": "716f7639-3b59-56a7-9146-1819649ebdad",
+          "name": "red onions",
+          "display_text": "1/4 Red Onions",
+          "quantity": 0.25,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "5bff5327-1b42-5fca-a730-d73c6e50724a",
+          "ingredient_id": "de3a4289-f9da-523e-971e-192a1995a29a",
+          "name": "harissa spice",
+          "display_text": "3 tsp Harissa Spice",
+          "quantity": 3.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat the oven to 450 degrees F (230 degrees C). Place falafel on a baking sheet.",
+      "temperature": {
+        "value": 450,
+        "unit": "fahrenheit"
+      },
+      "ingredients_used": [
+        "5dc522b5-7d8d-535c-99dd-b3024af95b38"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Bake in the preheated oven until heated through, 8 to 10 minutes.",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 3,
+      "instruction": "While falafel bake, whisk tahini, water, lemon juice, garlic, and paprika together in a bowl.",
+      "ingredients_used": [
+        "5dc522b5-7d8d-535c-99dd-b3024af95b38",
+        "8063c1b0-4776-52de-bce9-b27f6e2cb7e4",
+        "bbe03378-0205-58a4-a4af-b5a5938776ec",
+        "4c127774-532b-5d8d-9787-1add3e1283ba",
+        "4f32bfb9-d534-5c01-ae1f-bcee250b21c6",
+        "2ffd6ced-b4cc-5c33-84ad-889fc819fdf2"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Cut about 1 inch from the top of each pita to form a pocket. Add 2 falafel to each pita with equal amounts lettuce, tomato, cucumber, pickle, and red onion. Drizzle each with about 1 tablespoon tahini sauce and some harissa.",
+      "ingredients_used": [
+        "5dc522b5-7d8d-535c-99dd-b3024af95b38",
+        "8063c1b0-4776-52de-bce9-b27f6e2cb7e4",
+        "e02a1588-c5ad-59fe-ab93-80be0a085d54",
+        "9a53db51-99e5-56b6-a0ae-a91fa5f39d10",
+        "4eac00bc-34bc-5447-92f3-bf49a4eb7eea"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.allrecipes.com/recipe/266014/falafel-pita-sandwich-with-tahini-sauce/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

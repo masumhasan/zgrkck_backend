@@ -1,0 +1,180 @@
+{
+  "id": "5f7c91be-7f91-5c79-841d-4b531e01d475",
+  "version": "1.0.0",
+  "title": "Griddled flatbreads",
+  "slug": "griddled-flatbreads",
+  "summary": "Turkish-style flatbreads made from a mix of wholemeal and white flour, fermented and then griddled until puffed.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:19:36Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53272"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/8825lo1763815264.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/8825lo1763815264.jpg/small",
+      "alt_text": "Photo of Griddled flatbreads",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=s_ilia2LZ4U"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4c480df7-c067-5e9c-ac08-d8d49afa7f51",
+        "slug": "turkish",
+        "name": "Turkish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 5,
+    "rest_time_minutes": 90,
+    "total_time_minutes": 105
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "pieces",
+    "serving_size_description": "4 flatbread squares"
+  },
+  "allergens": {
+    "contains": [
+      "gluten"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "886cb2da-775f-5ee4-a8c1-250409789ff1",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "08fa0574-80a6-5dfb-9073-186ece0c8cb7",
+          "ingredient_id": "9963e42e-cc91-5e1c-ba83-be3706ca0248",
+          "name": "strong wholemeal flour",
+          "display_text": "250g Strong Wholemeal Flour",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "5d6f2e85-54d0-5541-95d4-a2435dca69bb",
+          "ingredient_id": "2792320f-e680-5b9e-9e82-1ae536ce731e",
+          "name": "strong white bread flour",
+          "display_text": "250g Strong white bread flour",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "b929d117-7231-5afa-affa-bf078a308be1",
+          "ingredient_id": "28b21302-909b-59d3-a88f-a543e26ac34f",
+          "name": "yeast",
+          "display_text": "15g Yeast",
+          "quantity": 15.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "02614d1a-cd1a-5a10-96b7-88d51a7e624f",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 tsp Sugar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "bf3b3c5f-654c-5aab-8ef2-edfecb07d443",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tablespoons Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Tip the flours into a food processor. Add the yeast, sugar and 1tsp salt, then mix well. Pour in 350ml warm water and the oil, then process to a soft dough. Mix for 1 min, then leave until doubled in size, about 1 hour.",
+      "ingredients_used": [
+        "b929d117-7231-5afa-affa-bf078a308be1",
+        "02614d1a-cd1a-5a10-96b7-88d51a7e624f"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Pulse the dough a couple of times just to knock out the air, then tip onto a floured surface. Cut the dough in half and roll out one half to a rectangle about 20 x 40cm. Trim the edges using a large sharp knife, then cut into eight 10cm squares. Line a large tray or two baking sheets with non-stick paper and arrange the bread rectangles over the tray in one layer. Repeat with the other half of the dough. Leave in a warm place for about 30 mins until the dough is just starting to rise.",
+      "timer_seconds": 1800
+    },
+    {
+      "step_number": 3,
+      "instruction": "Place bread directly onto the BBQ racks and cook for a couple of mins until they puff up, then flip over and cook on the other side. Tip into a basket and serve with the dips."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/griddled-flatbreads"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

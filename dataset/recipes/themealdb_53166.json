@@ -1,0 +1,270 @@
+{
+  "id": "51669cfc-3f4b-5b92-a6ce-eeded12468c1",
+  "version": "1.0.0",
+  "title": "Chickpea, chorizo & spinach stew",
+  "slug": "chickpea-chorizo-spinach-stew",
+  "summary": "A Spanish-style stew featuring chickpeas, chorizo, and spinach simmered with aromatic spices and sherry vinegar.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:10:06Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53166"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/xvnx8j1763287209.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/xvnx8j1763287209.jpg/small",
+      "alt_text": "Photo of Chickpea, chorizo & spinach stew",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=nI2Sm4B3gWU"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of stew"
+  },
+  "allergens": {
+    "contains": [
+      "celery",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "gluten"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "52206bf0-4b2c-5966-bd17-c2d6548cc382",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "04668a7f-532a-5912-a133-f40436159bbf",
+          "ingredient_id": "96cc0c2b-795a-53be-a503-05d14e92b236",
+          "name": "extra virgin olive oil",
+          "display_text": "4 tablespoons Extra Virgin Olive Oil",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "17203830-7b6c-5ee9-87b0-25e4bce1e88c",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "079cfc1c-2edc-5edc-9fd0-02813dfbd57a",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "1 Diced Carrots",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "90cc2ad5-8f13-5c20-ba96-a459d493a383",
+          "ingredient_id": "ed4951b3-26e6-5bb4-a5af-9c61a46687a0",
+          "name": "celery",
+          "display_text": "1 Diced Celery",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ade7484a-edff-5add-9cd4-de6eedacff0c",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "3 Thyme",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "cb56defb-094a-5869-972d-47cab14ab894",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaves",
+          "display_text": "2 Bay Leaves",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "ddbc8752-3b5b-53d8-835a-0b0b2fcb4ad0",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves chopped Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "374b2310-4b8f-5a02-b8fd-144e61bc8c80",
+          "ingredient_id": "d4235a95-0bb4-579b-8855-bbb8f4efeb46",
+          "name": "chorizo",
+          "display_text": "200g Chorizo",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "edb68c07-664c-5443-8269-e491f1a3ca7a",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "1/4 tsp Cinnamon",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1d59b0e1-7763-57c8-81b7-021bdbbac5a9",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1 teaspoon Paprika",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "4e6da96e-bcd0-5004-9d37-e50086d36f1d",
+          "ingredient_id": "ae979dd7-6a1e-5882-9ed5-e0b09554efd0",
+          "name": "chickpeas",
+          "display_text": "800g Chickpeas",
+          "quantity": 800.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 800.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "83f5063a-0110-5f50-84e4-eb44da6c2abd",
+          "ingredient_id": "284d3e0d-9e9f-56ee-95b4-7e7dc1b66214",
+          "name": "sherry vinegar",
+          "display_text": "2 tblsp Sherry vinegar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "a7791870-6829-51f6-9195-7054ceced70a",
+          "ingredient_id": "d0dd13fa-8c7a-5af9-9e1d-3d7bfc0f68e8",
+          "name": "spinach",
+          "display_text": "400g Spinach",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oil in a large pan, then gently fry the onion for 3-4 mins until it begins to soften. Stir in the carrot, celery, thyme and bay leaves. Season, then cook for 2-3 mins, stirring occasionally. Add the garlic, chorizo, cinnamon and smoked paprika. Gently fry until the vegetables soften and the chorizo starts to release its oils and crisp up.",
+      "ingredients_used": [
+        "17203830-7b6c-5ee9-87b0-25e4bce1e88c",
+        "90cc2ad5-8f13-5c20-ba96-a459d493a383",
+        "ade7484a-edff-5add-9cd4-de6eedacff0c",
+        "cb56defb-094a-5869-972d-47cab14ab894",
+        "ddbc8752-3b5b-53d8-835a-0b0b2fcb4ad0",
+        "374b2310-4b8f-5a02-b8fd-144e61bc8c80",
+        "edb68c07-664c-5443-8269-e491f1a3ca7a",
+        "1d59b0e1-7763-57c8-81b7-021bdbbac5a9"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Stir in the chickpeas, vinegar and 150ml water, then bring to a simmer for 1-2 mins until the chickpeas have heated up. Add the spinach, then stir through the chickpeas until it wilts a little. Remove from the heat, season to taste, then serve warm with crusty bread.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "4e6da96e-bcd0-5004-9d37-e50086d36f1d",
+        "a7791870-6829-51f6-9195-7054ceced70a"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/chickpea-chorizo-spinach-stew"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

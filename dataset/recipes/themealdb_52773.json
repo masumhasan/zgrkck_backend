@@ -1,0 +1,180 @@
+{
+  "id": "d75d2e3f-1bd1-543e-be90-a87de80ea4ad",
+  "version": "1.0.0",
+  "title": "Honey Teriyaki Salmon",
+  "slug": "honey-teriyaki-salmon",
+  "summary": "Salmon fillets pan-fried in a sweet and savory honey teriyaki glaze and garnished with sesame seeds.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:36:51Z",
+  "updated_at": "2026-10-16T10:22:42Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52773"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/xxyupu1468262513.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/xxyupu1468262513.jpg/small",
+      "alt_text": "Photo of Honey Teriyaki Salmon",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=4MpYuaJsvRw"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "56a9f85e-d404-5cf3-b90f-babb495ba40f",
+        "slug": "japanese",
+        "name": "Japanese"
+      }
+    ],
+    "tags": [
+      "breakfast",
+      "datenight",
+      "fish"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "date_night"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 15
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 salmon fillet"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "fish",
+      "sesame"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "shellfish",
+      "mustard",
+      "celery"
+    ],
+    "may_contain": [
+      "sulfites"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "b6776e59-33f3-501e-b1e6-c48738645ea4",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "3f0bd747-bbac-5a5a-ba6c-a59fd9ea77f2",
+          "ingredient_id": "8e78b962-6a36-568e-a6f6-db81cdbb4985",
+          "name": "salmon",
+          "display_text": "1 lb Salmon",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "fish"
+        },
+        {
+          "id": "e145bbfb-524b-5819-9fda-3de9e8bf8bae",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 tablespoon Olive oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "a7335b89-5726-5a3a-a0f9-24ed7ae3eb58",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "2 tablespoons Soy Sauce",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "cc2d7e5b-8635-5bb2-b49c-0f277ec00d67",
+          "ingredient_id": "e5beece9-b264-5da9-8a23-86aef5249963",
+          "name": "sake",
+          "display_text": "2 tablespoons Sake",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "27855467-9722-52b6-8772-90995394153d",
+          "ingredient_id": "d5403c00-b586-53a5-a77f-fac320f14278",
+          "name": "sesame seed",
+          "display_text": "4 tablespoons Sesame Seed",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Mix all the ingredients in the Honey Teriyaki Glaze together. Whisk to blend well. Combine the salmon and the Glaze together.",
+      "ingredients_used": [
+        "3f0bd747-bbac-5a5a-ba6c-a59fd9ea77f2"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat up a skillet on medium-low heat. Add the oil, Pan-fry the salmon on both sides until it’s completely cooked inside and the glaze thickens.",
+      "ingredients_used": [
+        "3f0bd747-bbac-5a5a-ba6c-a59fd9ea77f2"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Garnish with sesame and serve immediately."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

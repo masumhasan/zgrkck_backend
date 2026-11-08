@@ -1,0 +1,230 @@
+{
+  "id": "439ffd6b-9e9a-5a2f-b7e3-4990a6cf3551",
+  "version": "1.0.0",
+  "title": "Key Lime Pie",
+  "slug": "key-lime-pie",
+  "summary": "A classic American dessert featuring a buttery biscuit crust filled with a creamy, tangy lime custard and topped with whipped cream.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:43:50Z",
+  "updated_at": "2026-10-16T10:22:49Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52859"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/qpqtuu1511386216.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/qpqtuu1511386216.jpg/small",
+      "alt_text": "Photo of Key Lime Pie",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=q4Rz7tUkX9A"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b95bb9d4-1e18-5623-a50f-942c7d140e82",
+        "slug": "american",
+        "name": "American"
+      }
+    ],
+    "tags": [
+      "cake",
+      "desert",
+      "fruity",
+      "pie",
+      "sour"
+    ],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "party",
+      "holiday"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 25,
+    "rest_time_minutes": 180,
+    "total_time_minutes": 225
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "servings",
+    "serving_size_description": "1 slice of pie"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "12f70e20-6869-5854-819b-913d36f2e934",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "417e5617-c9d3-56fb-bba9-05cef32d43c5",
+          "ingredient_id": "42f8f655-c997-50ed-870f-09babd4cc947",
+          "name": "digestive biscuits",
+          "display_text": "300g Digestive Biscuits",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "c3db19ec-13ad-5d11-83fa-c81b411afd94",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "150g Butter",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "26d1ca84-5988-5913-b656-9e0413829371",
+          "ingredient_id": "3fe531f9-aa92-5d4e-9940-e8eddf18456b",
+          "name": "condensed milk",
+          "display_text": "400g Condensed Milk",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "60c60b0b-1cbd-574d-99b9-61d9673e01a0",
+          "ingredient_id": "051a3118-01a4-5366-a922-19ecf618e2f9",
+          "name": "egg yolks",
+          "display_text": "3 Egg Yolks",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "f2f3531f-220f-5c48-8c8a-ba15182865cf",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "4 Lime",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7e4e18e2-eb7b-5e9a-b993-d2ce07116bc0",
+          "ingredient_id": "81b5723b-47de-5017-987f-cdcc95dd362b",
+          "name": "double cream",
+          "display_text": "300ml Double Cream",
+          "quantity": 300.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "091c4029-3bff-5559-b179-de4876f8fd6b",
+          "ingredient_id": "c3b952d9-9879-569e-a989-b29a9b7ec664",
+          "name": "icing sugar",
+          "display_text": "1 tbls Icing Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "13a2dfdb-cb93-554e-a725-acbbe12da70a",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "to serve Lime",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oven to 160C/fan 140C/gas 3. Whizz the biscuits to crumbs in a food processor (or put in a strong plastic bag and bash with a rolling pin). Mix with the melted butter and press into the base and up the sides of a 22cm loose-based tart tin. Bake in the oven for 10 minutes. Remove and cool.",
+      "timer_seconds": 600,
+      "temperature": {
+        "value": 160,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "417e5617-c9d3-56fb-bba9-05cef32d43c5",
+        "c3db19ec-13ad-5d11-83fa-c81b411afd94"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Put the egg yolks in a large bowl and whisk for a minute with electric beaters. Add the condensed milk and whisk for 3 minutes then add the zest and juice and whisk again for 3 minutes. Pour the filling into the cooled base then put back in the oven for 15 minutes. Cool then chill for at least 3 hours or overnight if you like.",
+      "ingredients_used": [
+        "26d1ca84-5988-5913-b656-9e0413829371",
+        "60c60b0b-1cbd-574d-99b9-61d9673e01a0"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "When you are ready to serve, carefully remove the pie from the tin and put on a serving plate. To decorate, softly whip together the cream and icing sugar. Dollop or pipe the cream onto the top of the pie and finish with extra lime zest.",
+      "ingredients_used": [
+        "f2f3531f-220f-5c48-8c8a-ba15182865cf",
+        "091c4029-3bff-5559-b179-de4876f8fd6b",
+        "13a2dfdb-cb93-554e-a725-acbbe12da70a"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/2155644/key-lime-pie"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

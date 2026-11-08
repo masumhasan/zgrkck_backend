@@ -1,0 +1,362 @@
+{
+  "id": "1e92d3cb-675a-565a-9eae-7e82a5b9d5b1",
+  "version": "1.0.0",
+  "title": "Cinnamon buns",
+  "slug": "cinnamon-buns",
+  "summary": "Traditional Norwegian cinnamon buns are soft, spiced yeast rolls filled with a mixture of butter, sugar, and cinnamon.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:05:40Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53116"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/as88dq1762772486.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/as88dq1762772486.jpg/small",
+      "alt_text": "Photo of Cinnamon buns",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=wNiyp89pTi0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "56e78dbc-276d-5104-bca5-2bb213b93a49",
+        "slug": "norwegian",
+        "name": "Norwegian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "lunchbox"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 12,
+    "rest_time_minutes": 105,
+    "total_time_minutes": 137
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 cinnamon bun"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "99ecb0f8-3d56-5971-9ff3-ac5f37731a74",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "bfadcd97-cbee-5c9e-aee7-b88564cb5c20",
+          "ingredient_id": "bc46b2a6-8a59-50ee-a044-ce38bddb125c",
+          "name": "unsalted butter",
+          "display_text": "100g Unsalted Butter",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "4c2e766a-417e-51e3-8304-1208ae130c70",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "200ml Milk",
+          "quantity": 200.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "5a9df174-3ee8-5b98-abed-5c3b622ec4b2",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 teaspoon Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "0adfdccc-2cd6-5532-9ec4-b0a633b2fb25",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "250g Flour",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "dfc92792-efb7-5568-9a39-63a2050c97bc",
+          "ingredient_id": "6d5bc803-1f74-5418-a327-35b9cd7b0553",
+          "name": "strong white flour",
+          "display_text": "250g Strong White Flour",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "3db9a094-bffa-5450-b3af-9fc84b75385e",
+          "ingredient_id": "da9a55de-8f1e-5823-b1b3-70b619c07c3a",
+          "name": "fast action yeast",
+          "display_text": "1 1/2 tsp Fast action yeast",
+          "quantity": 1.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "bfd9a83e-3d17-59c6-9392-345d6ab4626a",
+          "ingredient_id": "d72c12ae-5cbc-534c-bbd5-bc044d844d0a",
+          "name": "cardamom",
+          "display_text": "1 teaspoon Cardamom",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "2241e7c3-1502-5e01-b9b1-844915a71c24",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "1 tblsp Caster Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "d877c18f-4811-58f4-83a1-a000daf7a88c",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "2 Egg",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "a9582e7a-0aee-5904-b24d-0fbaa9c2b8c1",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "Dash Olive Oil",
+          "quantity": 1,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "80d663e2-ae9c-55e5-b481-b07f1a891b4c",
+          "ingredient_id": "bc46b2a6-8a59-50ee-a044-ce38bddb125c",
+          "name": "unsalted butter",
+          "display_text": "75g Unsalted Butter",
+          "quantity": 75.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "544e131c-288d-5342-9015-eed6aecc11de",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "100g Caster Sugar",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "cbf49c86-359c-5957-8ed3-1910b92e9fe0",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "2 tbsp Cinnamon",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d9f60bf9-9a9c-535e-a84d-0204ec7a14fd",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "In a small saucepan heat the butter, milk and salt until the butter is melted. Allow the mixture to cool until it is lukewarm.",
+      "ingredients_used": [
+        "bfadcd97-cbee-5c9e-aee7-b88564cb5c20",
+        "4c2e766a-417e-51e3-8304-1208ae130c70",
+        "5a9df174-3ee8-5b98-abed-5c3b622ec4b2",
+        "80d663e2-ae9c-55e5-b481-b07f1a891b4c"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a large bowl, stir together the flours, yeast, cardamom and sugar until combined.",
+      "ingredients_used": [
+        "3db9a094-bffa-5450-b3af-9fc84b75385e",
+        "bfd9a83e-3d17-59c6-9392-345d6ab4626a"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Make a well in the center and crack in the eggs. Pour in the lukewarm milk mixture and stir everything together to form a sticky dough. You may have to use your hands as the dough becomes stiffer.",
+      "ingredients_used": [
+        "4c2e766a-417e-51e3-8304-1208ae130c70"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Oil the work surface with a teaspoon of olive oil. Turn the dough out onto the oiled surface and knead vigorously for 5–8 minutes, using a plastic scraper as needed to prise the dough from the work surface. Don’t be tempted to add flour, as this will make the buns dry and tough. Keep kneading until the dough is considerably less sticky, smoother and more elastic.",
+      "timer_seconds": 480,
+      "ingredients_used": [
+        "0adfdccc-2cd6-5532-9ec4-b0a633b2fb25",
+        "a9582e7a-0aee-5904-b24d-0fbaa9c2b8c1"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Shape into a ball, and put into a large, greased bowl. Cover the bowl with a clean tea towel and set aside in a warm place to prove for an hour, or until doubled in size."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Meanwhile, for the filling and topping, mix the softened butter in a bowl with half the sugar and 1 tablespoon cinnamon. Use a fork to mix the sugar and spice into the butter until it is completely combined.",
+      "ingredients_used": [
+        "bfadcd97-cbee-5c9e-aee7-b88564cb5c20",
+        "80d663e2-ae9c-55e5-b481-b07f1a891b4c",
+        "cbf49c86-359c-5957-8ed3-1910b92e9fe0"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Mix the remaining sugar and cinnamon in a separate bowl and set aside.",
+      "ingredients_used": [
+        "cbf49c86-359c-5957-8ed3-1910b92e9fe0"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "When the dough has risen, turn out onto a floured work surface and gently roll out into a 36x24cm/14x9½in rectangle. Spread the cinnamon-sugar-butter evenly over the dough with a table or palette knife.",
+      "ingredients_used": [
+        "bfadcd97-cbee-5c9e-aee7-b88564cb5c20",
+        "80d663e2-ae9c-55e5-b481-b07f1a891b4c",
+        "cbf49c86-359c-5957-8ed3-1910b92e9fe0"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "With the longest edge closest to you, roll the dough up into a cylinder. Cut into 12 even slices."
+    },
+    {
+      "step_number": 10,
+      "instruction": "Place each slice onto a flattened out paper cupcake case on a baking tray, or into a greased muffin tin. (Baking in a muffin tin will make your cinnamon buns taller and domed.)",
+      "ingredients_used": [
+        "cbf49c86-359c-5957-8ed3-1910b92e9fe0"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Cover with a clean tea towel and set aside to prove again for 30–45 minutes, or until risen.",
+      "timer_seconds": 2700
+    },
+    {
+      "step_number": 12,
+      "instruction": "Preheat the oven to 200C/180C Fan/Gas 6.",
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 13,
+      "instruction": "Brush the tops of the buns with beaten egg and dust liberally with the cinnamon sugar. Bake for 12 minutes until the buns are dark golden-brown. Enjoy warm with a cup of coffee.",
+      "timer_seconds": 720,
+      "ingredients_used": [
+        "d877c18f-4811-58f4-83a1-a000daf7a88c",
+        "cbf49c86-359c-5957-8ed3-1910b92e9fe0",
+        "d9f60bf9-9a9c-535e-a84d-0204ec7a14fd"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbc.co.uk/food/recipes/cinnamon_buns_10634"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

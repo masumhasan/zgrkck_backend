@@ -1,0 +1,293 @@
+{
+  "id": "970b1b7b-cc7c-5eb1-acbc-3199dfb65935",
+  "version": "1.0.0",
+  "title": "Pad Thai",
+  "slug": "pad-thai",
+  "summary": "A classic Thai stir-fry dish featuring rice noodles, tiger prawns, and bean sprouts, seasoned with a tangy lime and fish sauce dressing.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:12:18Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53191"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/rg9ze01763479093.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/rg9ze01763479093.jpg/small",
+      "alt_text": "Photo of Pad Thai",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=F86GfZIph8o"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "724b7c6a-f254-57d4-9729-335a2b2d93b1",
+        "slug": "thai",
+        "name": "Thai"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 25
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 portion of noodles and prawns"
+  },
+  "allergens": {
+    "contains": [
+      "peanuts",
+      "fish",
+      "shellfish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "3ccd30f1-b86d-5e5a-bbd8-9b6657118764",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "d11b8b74-cf5e-5da8-8b1a-11b133a345c4",
+          "ingredient_id": "26534aa9-d664-5446-96c6-a499ce56a3fe",
+          "name": "rice noodles",
+          "display_text": "125g Rice Noodles",
+          "quantity": 125.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 125.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "326d6458-b64a-5173-bc27-d55b25911881",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "Juice of 3 Lime",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "cfc9c90b-3e0b-51eb-a9ea-09c8fbfd4c7a",
+          "ingredient_id": "97dd86b9-4ad7-5a3a-bc6c-86485409c325",
+          "name": "cayenne pepper",
+          "display_text": "1/2 teaspoon Cayenne Pepper",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "2c761c3e-b5ab-5139-bba6-a8cc7cf20fba",
+          "ingredient_id": "74d4f663-2935-561e-b6ec-45f204542152",
+          "name": "muscovado sugar",
+          "display_text": "2 teaspoons Muscovado Sugar",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "352cb78a-6185-56eb-a991-83319d78e731",
+          "ingredient_id": "de927c20-fdfa-5b98-8ee9-7840fa951a2f",
+          "name": "fish sauce",
+          "display_text": "2 tablespoons Fish Sauce",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "7025af89-c9f4-5655-81fa-91a785b47c4d",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "2 tablespoons Vegetable Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "e45fab54-ced8-59ff-be13-4c85efe4badc",
+          "ingredient_id": "080461b7-c0c9-5c52-8869-2de338e27955",
+          "name": "tiger prawns",
+          "display_text": "200g Tiger Prawns",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "33157db3-9c97-5075-807c-8ff316a5572a",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "4 finely sliced Spring Onions",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "finely sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "dc7fe27d-407c-5ad1-a5cf-edfe96dc6c1b",
+          "ingredient_id": "2ac15386-42dc-5765-807a-4b4cf4edfcba",
+          "name": "bean sprouts",
+          "display_text": "140g Bean Sprouts",
+          "quantity": 140.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 140.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "ee70c391-e91c-511e-8786-84ce46b04f59",
+          "ingredient_id": "200b7141-d967-52ee-b154-4f8ed303ac02",
+          "name": "peanuts",
+          "display_text": "25g Peanuts",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "afe1c30c-c421-52cc-a459-fbb624c4a4c9",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "Handful Coriander",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "dd57a9b9-842e-5ec2-aa80-f7931a8394f9",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "2 Lime",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4d5800c4-0e72-539e-85dd-b44bd58e872e",
+          "ingredient_id": "971d8347-9290-5103-a357-dc6438aa5ef3",
+          "name": "sweet chilli sauce",
+          "display_text": "To serve sweet chilli sauce",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Put the noodles in a large heatproof bowl, pour boiling water over them and leave for 4 minutes, then drain and refresh under cold running water.",
+      "timer_seconds": 240,
+      "ingredients_used": [
+        "d11b8b74-cf5e-5da8-8b1a-11b133a345c4"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Put the lime juice, cayenne, sugar and fish sauce in a bowl and mix well. Have all the other ingredients ready by the cooker.",
+      "ingredients_used": [
+        "326d6458-b64a-5173-bc27-d55b25911881",
+        "352cb78a-6185-56eb-a991-83319d78e731",
+        "dd57a9b9-842e-5ec2-aa80-f7931a8394f9"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Heat the oil and fry the prawns until warmed through. Add the spring onions and noodles and toss around. Tip in the lime juice mixture, then stir in the beansprouts and half the peanuts and coriander. Cook for 1 minute until everything is heated through.",
+      "timer_seconds": 60,
+      "ingredients_used": [
+        "d11b8b74-cf5e-5da8-8b1a-11b133a345c4",
+        "326d6458-b64a-5173-bc27-d55b25911881",
+        "e45fab54-ced8-59ff-be13-4c85efe4badc",
+        "33157db3-9c97-5075-807c-8ff316a5572a",
+        "ee70c391-e91c-511e-8786-84ce46b04f59",
+        "afe1c30c-c421-52cc-a459-fbb624c4a4c9",
+        "dd57a9b9-842e-5ec2-aa80-f7931a8394f9"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Pile into a large dish, scatter with the rest of the peanuts and coriander, and serve with lime wedges and sweet chilli sauce.",
+      "ingredients_used": [
+        "326d6458-b64a-5173-bc27-d55b25911881",
+        "ee70c391-e91c-511e-8786-84ce46b04f59",
+        "afe1c30c-c421-52cc-a459-fbb624c4a4c9",
+        "dd57a9b9-842e-5ec2-aa80-f7931a8394f9",
+        "4d5800c4-0e72-539e-85dd-b44bd58e872e"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/easy-pad-thai"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "id": "d675a8ae-ea70-522a-9efd-fee8c5959419",
+  "version": "1.0.0",
+  "title": "Num Ansom – Sticky Rice Cake",
+  "slug": "num-ansom-sticky-rice-cake",
+  "summary": "A traditional Cambodian sweet snack made of glutinous rice and mung bean paste wrapped in banana leaves and steamed.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:39:38Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53500"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/fycrai1782690897.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/fycrai1782690897.jpg/small",
+      "alt_text": "Photo of Num Ansom – Sticky Rice Cake",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9366172c-dff3-589e-9436-4be7c7f595b3",
+        "slug": "cambodian",
+        "name": "Cambodian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 90,
+    "marinating_time_minutes": 15,
+    "rest_time_minutes": 20,
+    "total_time_minutes": 155
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 rice cake parcel"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "508d98a9-717c-5863-9a7e-5b72f223e444",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "9cc042d9-d9bf-51e4-9a1a-0cd604d9fc5a",
+          "ingredient_id": "5f39b927-bb21-5752-b79d-9c91d71dee22",
+          "name": "glutinous rice",
+          "display_text": "2 cups Glutinous Rice",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "f616f5b6-93ab-5f7e-8eca-ed6c3d39e27a",
+          "ingredient_id": "0435e55e-84f6-566c-ac81-37617bbab91c",
+          "name": "coconut milk",
+          "display_text": "1 cup Coconut Milk",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "a3cee297-1f99-54ee-b7b9-e3ad923d9742",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "1/2 cup Brown Sugar",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "03a95a34-41a3-5e6e-bfb0-ca2145091c0b",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/2 tsp Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "ba5559f2-e0a4-5f97-abfb-32092d8b689f",
+          "ingredient_id": "74f2421e-e0f4-577a-8887-ca6e6d03fa27",
+          "name": "banana leaves",
+          "display_text": "8 Banana Leaves",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "32adbbcc-eb71-5cc3-8aa5-02103dd2bc80",
+          "ingredient_id": "798fc6a0-4868-5baa-87c9-9e0d235b100e",
+          "name": "mung bean paste",
+          "display_text": "1 cup Mung Bean Paste",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Drain the soaked glutinous rice thoroughly in a fine-mesh strainer.",
+      "ingredients_used": [
+        "9cc042d9-d9bf-51e4-9a1a-0cd604d9fc5a"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a medium bowl, combine the coconut milk, palm sugar, and salt, stirring until the sugar dissolves completely.",
+      "ingredients_used": [
+        "f616f5b6-93ab-5f7e-8eca-ed6c3d39e27a",
+        "03a95a34-41a3-5e6e-bfb0-ca2145091c0b"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the drained rice to the coconut milk mixture, mixing gently to coat every grain evenly. Let it sit for 15 minutes to absorb the liquid.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "9cc042d9-d9bf-51e4-9a1a-0cd604d9fc5a",
+        "f616f5b6-93ab-5f7e-8eca-ed6c3d39e27a"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Prepare a steamer by filling the bottom pot with 2 inches of water and bringing it to a boil over high heat."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Lay a banana leaf square flat on your work surface, shiny side up. Spoon ¼ cup of the rice mixture into the center, spreading it into a 4-inch rectangle.",
+      "ingredients_used": [
+        "9cc042d9-d9bf-51e4-9a1a-0cd604d9fc5a"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Place 2 tablespoons of mung bean paste in a line down the middle of the rice rectangle.",
+      "ingredients_used": [
+        "9cc042d9-d9bf-51e4-9a1a-0cd604d9fc5a",
+        "32adbbcc-eb71-5cc3-8aa5-02103dd2bc80"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Fold the banana leaf over the filling lengthwise, then fold in the sides to create a tight parcel. Tip: Press firmly to compact the rice, which helps it hold its shape during steaming.",
+      "ingredients_used": [
+        "9cc042d9-d9bf-51e4-9a1a-0cd604d9fc5a"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Secure the parcel with kitchen twine, tying it firmly but not too tight to allow for expansion."
+    },
+    {
+      "step_number": 9,
+      "instruction": "Repeat steps 5–8 with the remaining ingredients to make 8 parcels total."
+    },
+    {
+      "step_number": 10,
+      "instruction": "Arrange the parcels in a single layer in the steamer basket, leaving small gaps between them for steam circulation."
+    },
+    {
+      "step_number": 11,
+      "instruction": "Cover the steamer and steam over medium heat for 90 minutes, checking halfway to ensure the water hasn’t boiled dry—add more hot water if needed. Tip: The parcels are done when the banana leaves turn a deep green and the rice feels firm to the touch.",
+      "timer_seconds": 5400,
+      "ingredients_used": [
+        "9cc042d9-d9bf-51e4-9a1a-0cd604d9fc5a",
+        "ba5559f2-e0a4-5f97-abfb-32092d8b689f"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Carefully remove the parcels from the steamer and let them cool for 20 minutes before unwrapping. Tip: Cooling sets the texture, making slicing cleaner.",
+      "timer_seconds": 1200
+    },
+    {
+      "step_number": 13,
+      "instruction": "Unwrap the banana leaves and slice each parcel into 1-inch thick rounds for serving.",
+      "ingredients_used": [
+        "ba5559f2-e0a4-5f97-abfb-32092d8b689f"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://recipes-for-life.com/cambodian-recipes/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

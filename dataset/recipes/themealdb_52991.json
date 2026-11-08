@@ -1,0 +1,228 @@
+{
+  "id": "66153816-29d0-5c8e-8cfc-c644e3174f82",
+  "version": "1.0.0",
+  "title": "Mince Pies",
+  "slug": "mince-pies",
+  "summary": "Traditional British festive pastries filled with spiced mincemeat and topped with a dusting of icing sugar.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:55:17Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52991"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/qe8pf51576795532.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/qe8pf51576795532.jpg/small",
+      "alt_text": "Photo of Mince Pies",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=PnXft7lQNJE"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "christmas"
+    ],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "christmas"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 20,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 45
+  },
+  "yield": {
+    "servings": 18,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 mince pie"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery"
+    ],
+    "may_contain": [
+      "sulfites"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "022e10d6-153c-54f3-81a9-4e408966ee8b",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "27070c9f-0f78-571e-a770-46c50321aa3b",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "225g Butter",
+          "quantity": 225.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 225.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "4086d699-1f29-56f7-b78b-85de4091a5f3",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "350g Plain Flour",
+          "quantity": 350.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 350.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "b4b99a31-e8fc-510c-b228-b0775a80de40",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "100g Caster Sugar",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "cd7a344a-50f4-59d3-8db3-bf55a1d0a687",
+          "ingredient_id": "1bac3d32-87a7-5e51-ac63-b09b6ce20c71",
+          "name": "mincemeat",
+          "display_text": "280g Mincemeat",
+          "quantity": 280.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 280.0,
+          "metric_unit": "gram",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "616ab15b-a23f-5a55-a015-ab3f7a076da6",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 small Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "b49c13d5-dc64-55f6-a10c-62cf8a66db30",
+          "ingredient_id": "c3b952d9-9879-569e-a989-b29a9b7ec664",
+          "name": "icing sugar",
+          "display_text": "Topping Icing Sugar",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "topping",
+          "is_optional": false,
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "To make the pastry, rub 225g cold, diced butter into 350g plain flour, then mix in 100g golden caster sugar and a pinch of salt.",
+      "ingredients_used": [
+        "27070c9f-0f78-571e-a770-46c50321aa3b",
+        "4086d699-1f29-56f7-b78b-85de4091a5f3",
+        "b4b99a31-e8fc-510c-b228-b0775a80de40"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Combine the pastry into a ball – don’t add liquid – and knead it briefly. The dough will be fairly firm, like shortbread dough. You can use the dough immediately, or chill for later."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Preheat the oven to 200C/gas 6/fan 180C. Line 18 holes of two 12-hole patty tins, by pressing small walnut-sized balls of pastry into each hole.",
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 4,
+      "instruction": "Spoon 280g mincemeat into the pies.",
+      "ingredients_used": [
+        "cd7a344a-50f4-59d3-8db3-bf55a1d0a687"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Take slightly smaller balls of pastry than before and pat them out between your hands to make round lids, big enough to cover the pies."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Top the pies with their lids, pressing the edges gently together to seal – you don’t need to seal them with milk or egg as they will stick on their own. (The pies may now be frozen for up to 1 month).",
+      "ingredients_used": [
+        "616ab15b-a23f-5a55-a015-ab3f7a076da6"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Beat 1 small egg and brush the tops of the pies. Bake for 20 mins until golden. Leave to cool in the tin for 5 mins, then remove to a wire rack.",
+      "ingredients_used": [
+        "616ab15b-a23f-5a55-a015-ab3f7a076da6"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "To serve, lightly dust with icing sugar.",
+      "ingredients_used": [
+        "b49c13d5-dc64-55f6-a10c-62cf8a66db30"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/2174/unbelievably-easy-mince-pies"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

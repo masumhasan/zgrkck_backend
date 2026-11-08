@@ -1,0 +1,285 @@
+{
+  "id": "5baf3d6e-66f1-5c09-ba8c-55d90d577fd7",
+  "version": "1.0.0",
+  "title": "Empanadas",
+  "slug": "empanadas",
+  "summary": "Argentine-style savory pastries filled with a seasoned mixture of ground beef, onions, hard-boiled eggs, and olives.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:07:18Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53134"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/q99te31763075494.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/q99te31763075494.jpg/small",
+      "alt_text": "Photo of Empanadas",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=RRNVLC6IAv4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "52cab25e-aedf-58a6-a869-20df96a19448",
+        "slug": "argentine",
+        "name": "Argentine"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "courses": [
+      "main_course",
+      "appetizer"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 25,
+    "rest_time_minutes": 30,
+    "total_time_minutes": 85
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "pieces",
+    "serving_size_description": "3-4 empanadas"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "5cee96cf-2b02-5c6d-a3ad-b579b261e80a",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "10fe66bf-5acb-59aa-8f0b-2d88bbad63e5",
+          "ingredient_id": "d1e5ec78-b8c2-5649-962c-a9f67272ea92",
+          "name": "all purpose flour",
+          "display_text": "500g All purpose flour",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "0601bdb7-6e80-5153-83dd-39194ce96d5c",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "200g Butter",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "b5538fdc-126e-554d-8c75-fb29a55f880e",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "120ml Water",
+          "quantity": 120.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "6b0d1375-3fe2-57a6-99af-4a7a91a8a44a",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "1b342514-575d-524a-88bd-200520202e76",
+          "ingredient_id": "daceaafa-62e0-5268-ab7d-62934c564c72",
+          "name": "ground beef",
+          "display_text": "500g Ground Beef",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "f8fded75-a940-5624-aefd-21584c91b2d2",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "2 chopped Onion",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "a0ec24dc-9a2b-5bed-a1ab-e246da2dc088",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "4 Chopped Egg",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "f033e14a-7c72-5e0a-b0ff-a47c2deba09d",
+          "ingredient_id": "d7e4a580-0a72-51fa-ae47-47633da37e45",
+          "name": "green olives",
+          "display_text": "100g Green Olives",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "aa76a0f2-0e18-53cb-9c3d-bd6f0e4d8700",
+          "ingredient_id": "be79b3bd-bc90-5d15-aab2-4f95774b8de1",
+          "name": "cumin",
+          "display_text": "1 teaspoon Cumin",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "2cb5339e-9f5d-5a9a-a62b-d98c31d18638",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1 teaspoon Paprika",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "82ed487e-abb0-5791-8908-bf4c94b5e1c4",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "6d74bf40-b8e0-5dc6-bf7a-98f8abb214c3",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "To taste Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Make the Dough: Mix flour and salt in a large bowl. Add butter, using your fingers to blend into a crumbly texture. Gradually add water, mixing until a dough forms. Wrap and chill for 30 minutes.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "0601bdb7-6e80-5153-83dd-39194ce96d5c",
+        "b5538fdc-126e-554d-8c75-fb29a55f880e",
+        "6b0d1375-3fe2-57a6-99af-4a7a91a8a44a",
+        "82ed487e-abb0-5791-8908-bf4c94b5e1c4"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Prepare the Filling: Cook onions in a pan until translucent. Add ground beef, cooking until browned. Stir in spices, then remove from heat. Once cooled, mix in eggs and olives.",
+      "ingredients_used": [
+        "1b342514-575d-524a-88bd-200520202e76",
+        "f8fded75-a940-5624-aefd-21584c91b2d2",
+        "f033e14a-7c72-5e0a-b0ff-a47c2deba09d"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Assemble: Roll out the dough and cut into circles. Place a spoonful of filling in each, fold over, and seal the edges."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Cook: Bake at 200°C (400°F) for 20-25 minutes, or until golden.",
+      "timer_seconds": 1500,
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 5,
+      "instruction": "Pro Tips:"
+    },
+    {
+      "step_number": 6,
+      "instruction": "For a flakier crust, incorporate a tablespoon of vinegar into the dough mixture. This helps prevent gluten formation."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Seal the edges of the empanadas with a fork to ensure they do not open during baking or frying."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.munchery.com/blog/the-ten-iconic-dishes-of-argentina-and-how-to-cook-them-at-home/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

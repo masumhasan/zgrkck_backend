@@ -1,0 +1,279 @@
+{
+  "id": "7ac6f421-f1c5-5ae2-9374-fa5c7d5d3727",
+  "version": "1.0.0",
+  "title": "Bread and Butter Pudding",
+  "slug": "bread-and-butter-pudding",
+  "summary": "A classic British dessert made by layering buttered bread and sultanas, soaked in a spiced custard of milk, cream, and eggs, then baked until golden.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:38:14Z",
+  "updated_at": "2026-10-16T10:22:44Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52792"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/xqwwpy1483908697.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/xqwwpy1483908697.jpg/small",
+      "alt_text": "Photo of Bread and Butter Pudding",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Vz5W1-BmOE4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "brunch",
+      "pudding"
+    ],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 40,
+    "marinating_time_minutes": 30,
+    "total_time_minutes": 85
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 slice of pudding"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "f9249a11-b774-59fd-8a81-015be534e0eb",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "0bedf0bb-f31e-5e87-b226-1d27eb8ac2ef",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "25g/1oz butter",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "12e346a2-afea-599d-9f77-3cc055b68c72",
+          "ingredient_id": "95128a6e-6409-5797-b33b-a94a27c5951f",
+          "name": "bread",
+          "display_text": "8 thin slices bread",
+          "quantity": 8.0,
+          "unit": "slice",
+          "preparation": "thin",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "ee6edcb1-236c-5648-aae6-e7abbb1482c0",
+          "ingredient_id": "13694452-ce2c-5081-97e9-e2047b2f20a3",
+          "name": "sultanas",
+          "display_text": "50g/2oz sultanas",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "42aeba7a-fd65-5739-8232-87136489a8d1",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "2 tsp cinnamon",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3ad7cf0f-1c35-504e-9ef9-858ae30cf71b",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "350ml/12fl milk",
+          "quantity": 350.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 350.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "7de10819-ea87-54a1-b4e9-3d364231c949",
+          "ingredient_id": "81b5723b-47de-5017-987f-cdcc95dd362b",
+          "name": "double cream",
+          "display_text": "50ml/2fl oz double cream",
+          "quantity": 50.0,
+          "unit": "milliliter",
+          "preparation": "oz",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "d029e657-96ab-55a6-ad98-b488dbe2a8ff",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "2 free-range eggs",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "free-range",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "00ab7e23-6152-5ed3-9b27-0f48c6ed0bb0",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "25g/1oz sugar",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "9329b8af-56bb-5218-8efc-326da3304838",
+          "ingredient_id": "9426e9cd-e7b2-540e-8ddb-187c01748931",
+          "name": "nutmeg",
+          "display_text": "grated, to taste nutmeg",
+          "quantity": 0,
+          "unit": "to_taste",
+          "preparation": "grated",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Grease a 1 liter/2 pint pie dish with butter.",
+      "ingredients_used": [
+        "0bedf0bb-f31e-5e87-b226-1d27eb8ac2ef"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Cut the crusts off the bread. Spread each slice with on one side with butter, then cut into triangles.",
+      "ingredients_used": [
+        "0bedf0bb-f31e-5e87-b226-1d27eb8ac2ef",
+        "12e346a2-afea-599d-9f77-3cc055b68c72"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Arrange a layer of bread, buttered-side up, in the bottom of the dish, then add a layer of sultanas. Sprinkle with a little cinnamon, then repeat the layers of bread and sultanas, sprinkling with cinnamon, until you have used up all of the bread. Finish with a layer of bread, then set aside.",
+      "ingredients_used": [
+        "0bedf0bb-f31e-5e87-b226-1d27eb8ac2ef",
+        "12e346a2-afea-599d-9f77-3cc055b68c72",
+        "ee6edcb1-236c-5648-aae6-e7abbb1482c0",
+        "42aeba7a-fd65-5739-8232-87136489a8d1"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Gently warm the milk and cream in a pan over a low heat to scalding point. Don't let it boil.",
+      "ingredients_used": [
+        "3ad7cf0f-1c35-504e-9ef9-858ae30cf71b"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Crack the eggs into a bowl, add three quarters of the sugar and lightly whisk until pale.",
+      "ingredients_used": [
+        "d029e657-96ab-55a6-ad98-b488dbe2a8ff",
+        "00ab7e23-6152-5ed3-9b27-0f48c6ed0bb0"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Add the warm milk and cream mixture and stir well, then strain the custard into a bowl.",
+      "ingredients_used": [
+        "3ad7cf0f-1c35-504e-9ef9-858ae30cf71b"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Pour the custard over the prepared bread layers and sprinkle with nutmeg and the remaining sugar and leave to stand for 30 minutes.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "12e346a2-afea-599d-9f77-3cc055b68c72",
+        "00ab7e23-6152-5ed3-9b27-0f48c6ed0bb0",
+        "9329b8af-56bb-5218-8efc-326da3304838"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Preheat the oven to 180C/355F/Gas 4.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 9,
+      "instruction": "Place the dish into the oven and bake for 30-40 minutes, or until the custard has set and the top is golden-brown.",
+      "timer_seconds": 2400
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://cooking.nytimes.com/recipes/1018529-coq-au-vin"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

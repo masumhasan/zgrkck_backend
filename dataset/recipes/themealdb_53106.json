@@ -1,0 +1,250 @@
+{
+  "id": "e0beeeca-10eb-57bb-b545-33e41f9b814f",
+  "version": "1.0.0",
+  "title": "Warm roast asparagus salad",
+  "slug": "warm-roast-asparagus-salad",
+  "summary": "A warm salad featuring roasted asparagus, tomatoes, and honey-glazed bacon served over boiled potatoes and rocket with a mustard vinaigrette.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:04:46Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53106"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ktsws11761998344.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ktsws11761998344.jpg/small",
+      "alt_text": "Photo of Warm roast asparagus salad",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=pR_ZfbTxwms"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6442c74c-e246-57a7-870b-9366b38050a8",
+        "slug": "australian",
+        "name": "Australian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "salad"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a large platter of salad"
+  },
+  "allergens": {
+    "contains": [
+      "mustard",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "83ddd123-3dc3-536f-b237-fa519a6e8694",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "80d95206-71a4-501d-801d-63c90b45f3db",
+          "ingredient_id": "faad91f4-0f3a-5f4d-9327-7556f61b431c",
+          "name": "asparagus",
+          "display_text": "500g Asparagus",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "2c86d50d-a6f2-5c39-8ec1-f39c3e29a3f7",
+          "ingredient_id": "38df984b-29a1-5431-8935-d850dfe8f8f7",
+          "name": "red wine vinegar",
+          "display_text": "2 tbsp Red Wine Vinegar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "cb96f607-7a9e-59a7-a29d-bb4efcbd2dd9",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "4 Tomato",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ec7a5ac4-32f3-59ad-98bd-90ce2d815d77",
+          "ingredient_id": "96cc0c2b-795a-53be-a503-05d14e92b236",
+          "name": "extra virgin olive oil",
+          "display_text": "1 tbsp Extra Virgin Olive Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "1a054e9c-5a3e-514d-b547-2295999b31a4",
+          "ingredient_id": "abdccfa4-4091-5bc5-90f9-18e443e07949",
+          "name": "streaky bacon",
+          "display_text": "12 Streaky Bacon",
+          "quantity": 12.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "cbea57ff-82da-552c-93f2-d19eadeefe8f",
+          "ingredient_id": "590d0a0c-0a81-5fad-964b-7ade1eb4020d",
+          "name": "clear honey",
+          "display_text": "1 teaspoon Clear Honey",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "1de10fb7-06fe-54f9-9e92-4ffadb913a16",
+          "ingredient_id": "afcc7608-23de-5b7b-ae4a-fb579115468f",
+          "name": "jersey royal potatoes",
+          "display_text": "16 Jersey Royal Potatoes",
+          "quantity": 16.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1d8aa014-3919-5f36-ac0b-9d7990a0c158",
+          "ingredient_id": "96cc0c2b-795a-53be-a503-05d14e92b236",
+          "name": "extra virgin olive oil",
+          "display_text": "2 tblsp Extra Virgin Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "f5e26faa-ce25-5dec-a41b-ae837f03fb17",
+          "ingredient_id": "ca633897-45c5-5885-985b-5fbe25d58c8d",
+          "name": "dijon mustard",
+          "display_text": "1 teaspoon Dijon Mustard",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "a69afe24-89b9-5cbe-8769-6ec79d7e6ffa",
+          "ingredient_id": "af2f1a8f-e30f-53b3-838a-093f52d0cd04",
+          "name": "rocket",
+          "display_text": "100g Rocket",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat the oven to 200C/Gas 6/fan 180C. Snap off the woody ends of the asparagus and discard. Arrange the asparagus in a single layer in a baking tray with sides. Cut the tomatoes in half widthways, nestle them in with the asparagus, season with sea salt and pepper and drizzle with olive oil. Roll each bacon rasher into a tight roll (if large, first cut in half crosswise), and arrange in the tray. Drizzle the bacon rolls with the honey and bake for 20 minutes until the tomatoes are soft and the bacon is crisp.",
+      "timer_seconds": 1200,
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "80d95206-71a4-501d-801d-63c90b45f3db",
+        "cb96f607-7a9e-59a7-a29d-bb4efcbd2dd9",
+        "1a054e9c-5a3e-514d-b547-2295999b31a4",
+        "cbea57ff-82da-552c-93f2-d19eadeefe8f"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "In the meantime, boil the potatoes until tender. Whisk the vinegar, olive oil, mustard, some sea salt and pepper in a large bowl until blended. Toss the rocket or spinach leaves in half of the dressing, and arrange on a large serving platter.",
+      "ingredients_used": [
+        "1de10fb7-06fe-54f9-9e92-4ffadb913a16",
+        "f5e26faa-ce25-5dec-a41b-ae837f03fb17",
+        "a69afe24-89b9-5cbe-8769-6ec79d7e6ffa"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Drain the potatoes and cut in half. Gently toss them in the rest of the dressing, and arrange on the platter with the asparagus. Tuck in the tomatoes and bacon.",
+      "ingredients_used": [
+        "80d95206-71a4-501d-801d-63c90b45f3db",
+        "cb96f607-7a9e-59a7-a29d-bb4efcbd2dd9",
+        "1a054e9c-5a3e-514d-b547-2295999b31a4",
+        "1de10fb7-06fe-54f9-9e92-4ffadb913a16"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/warm-roast-asparagus-salad"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "id": "ca4115a0-bab7-5957-ab5c-0c277b634c58",
+  "version": "1.0.0",
+  "title": "Cumberland Pie",
+  "slug": "cumberland-pie",
+  "summary": "A traditional British savory pie featuring tender feather blade beef in a rich gravy, topped with sliced potatoes and a blend of cheddar and parmesan cheese.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:04:03Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53098"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/pvfkz61761595976.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/pvfkz61761595976.jpg/small",
+      "alt_text": "Photo of Cumberland Pie",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=r1lnsOTNjws"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 240,
+    "total_time_minutes": 260
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1 large portion of beef and potato pie"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "fish",
+      "celery"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "9c4b91ea-ba60-5d41-a902-db3ba698f66d",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "1eee600c-cb16-541c-92ca-2b4d6e608308",
+          "ingredient_id": "ed4951b3-26e6-5bb4-a5af-9c61a46687a0",
+          "name": "celery",
+          "display_text": "2 Celery",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "73e9f9b4-4dea-5726-89dc-33f3a481d34c",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "aca6d617-2643-52bd-b95f-e1999698c2e8",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "2 large Carrots",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "9f3d9432-80da-5c1e-8b86-11841e5e318d",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaves",
+          "display_text": "5 Bay Leaves",
+          "quantity": 5.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "38f8bc9a-3935-52ed-9242-f101e862b429",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "3 Thyme",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "6c6f8aee-a073-5d21-8923-2fef3db1eb88",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "2 tblsp Vegetable Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "a39fd250-1753-5459-a87f-819766fd0ef0",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "1 tablespoon Butter",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "f8df4b0c-e3f8-5a4d-82e2-ceacf34ffe3a",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "2 tablespoons Flour",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "5e832612-963b-52d9-a121-356e89f0603d",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "2 tblsp Tomato Puree",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "2f668b08-3ed6-587f-b973-56787c980cc9",
+          "ingredient_id": "31e8f031-3e86-5406-8703-0e73554e2898",
+          "name": "worcestershire sauce",
+          "display_text": "2 tablespoons Worcestershire Sauce",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "59af68b5-0d80-55b3-8659-c1fa7741bedd",
+          "ingredient_id": "d3020051-f04d-5658-9a21-0b877f489a3e",
+          "name": "beef stock cubes",
+          "display_text": "2 Beef Stock Cubes",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "cf2358e6-e839-5c8c-b88a-8271427b1a89",
+          "ingredient_id": "3d474760-c525-5fec-be1e-6eb851b418a2",
+          "name": "feather blade beef",
+          "display_text": "800g Feather blade beef",
+          "quantity": 800.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 800.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "ba566a97-ef4f-5e8a-852a-b25b2a93045b",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "800g Potatoes",
+          "quantity": 800.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 800.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "9152e82f-17d5-51f2-bd65-0cfdfe83a5d9",
+          "ingredient_id": "3279e3f1-a3fa-59a2-8146-8241f49cc5fa",
+          "name": "mature cheddar",
+          "display_text": "25g Mature Cheddar",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "d19004e3-a94a-59d0-967e-b68ee91f4833",
+          "ingredient_id": "7db471f0-9bfa-5aae-91f1-5642980cae0d",
+          "name": "parmesan cheese",
+          "display_text": "25g Parmesan Cheese",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 160C/140C fan/gas 3. Soften the celery, onion, carrots, bay and 1 thyme sprig in a casserole with 1 tbsp oil and the butter for 10 mins. Stir in the flour, followed by the purée, Worcestershire sauce and stock cubes.",
+      "timer_seconds": 600,
+      "temperature": {
+        "value": 160,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "1eee600c-cb16-541c-92ca-2b4d6e608308",
+        "73e9f9b4-4dea-5726-89dc-33f3a481d34c",
+        "aca6d617-2643-52bd-b95f-e1999698c2e8",
+        "38f8bc9a-3935-52ed-9242-f101e862b429",
+        "a39fd250-1753-5459-a87f-819766fd0ef0",
+        "f8df4b0c-e3f8-5a4d-82e2-ceacf34ffe3a",
+        "2f668b08-3ed6-587f-b973-56787c980cc9",
+        "59af68b5-0d80-55b3-8659-c1fa7741bedd"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Gradually stir in 600ml hot water, then tip in the beef and bring to a gentle simmer. Cover and cook in the oven for 2 hrs 30 mins, then uncover and cook for 30 mins -1 hr more until the meat is really tender and sauce thickened.",
+      "ingredients_used": [
+        "cf2358e6-e839-5c8c-b88a-8271427b1a89"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Meanwhile, cook potatoes in a pan of boiling water until they’re not done but about ¾ of the way there.",
+      "ingredients_used": [
+        "ba566a97-ef4f-5e8a-852a-b25b2a93045b"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Transfer meat to a baking dish. Slice spuds into 1cm thick rounds and gently toss with seasoning, the remaining oil and thyme leaves. Layer on the beef, scattering with the cheese as you layer. You can cover and chill the pie now for 1 day, or freeze for up to 3 months.",
+      "ingredients_used": [
+        "38f8bc9a-3935-52ed-9242-f101e862b429",
+        "cf2358e6-e839-5c8c-b88a-8271427b1a89"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Increase oven to 200C/180C fan/gas 6 and bake for 30-40 mins until golden and crispy, and sauce bubbling if the dish went in cold. Serve with peas.",
+      "timer_seconds": 2400,
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      }
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/crispy-topped-cumberland-pie"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

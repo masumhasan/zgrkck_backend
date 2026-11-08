@@ -1,0 +1,225 @@
+{
+  "id": "52850a46-cd64-5434-8a86-6abf4d7414b1",
+  "version": "1.0.0",
+  "title": "Blueberry & lemon friands",
+  "slug": "blueberry-lemon-friands",
+  "summary": "Small, almond-based sponge cakes flavored with lemon zest and topped with fresh blueberries.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:04:12Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53100"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/e756bf1761848342.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/e756bf1761848342.jpg/small",
+      "alt_text": "Photo of Blueberry & lemon friands",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=7tq5JvO88E0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6442c74c-e246-57a7-870b-9366b38050a8",
+        "slug": "australian",
+        "name": "Australian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "afternoon_snack",
+      "party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 20,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 friand"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "tree_nuts",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "4dc91018-2275-5b0e-974b-f6199a3e9895",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "dbd53d08-f57b-59de-be06-38236bff0d08",
+          "ingredient_id": "bc46b2a6-8a59-50ee-a044-ce38bddb125c",
+          "name": "unsalted butter",
+          "display_text": "100g Unsalted Butter",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "f90ad4f7-06db-52cb-9ad8-ca842a4460be",
+          "ingredient_id": "c3b952d9-9879-569e-a989-b29a9b7ec664",
+          "name": "icing sugar",
+          "display_text": "125g Icing Sugar",
+          "quantity": 125.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 125.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "cde3242a-a184-5aef-9964-235e7368e377",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "25g Flour",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "22646ccf-6383-54ce-bbf4-1b31606e2484",
+          "ingredient_id": "1f65be5f-ad9d-5713-aca2-600f7b2a1ee8",
+          "name": "almonds",
+          "display_text": "85g Almonds",
+          "quantity": 85.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 85.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "4b3c2f28-4bd6-51b1-8c33-7aeafe17c38f",
+          "ingredient_id": "87c4a7ca-7b0e-5143-aea3-d01ad00e4108",
+          "name": "egg white",
+          "display_text": "3 Egg White",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "96ca7305-eddb-58d3-b47f-848efa916246",
+          "ingredient_id": "29dc7611-af0f-5f41-8519-5482e4bce905",
+          "name": "unwaxed lemon",
+          "display_text": "1 Unwaxed Lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0789e1e9-b976-5571-b86c-d033288560d8",
+          "ingredient_id": "6a077770-26c3-5b86-8e16-a2d03421b135",
+          "name": "blackberries",
+          "display_text": "85g Blackberries",
+          "quantity": 85.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 85.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat the oven to fan 180C/conventional 200C/gas 6. Generously butter six non-stick friand or muffin tins. Melt the butter and set aside to cool.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "dbd53d08-f57b-59de-be06-38236bff0d08"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Sift the icing sugar and flour into a bowl. Add the almonds and mix everything between your fingers.",
+      "ingredients_used": [
+        "f90ad4f7-06db-52cb-9ad8-ca842a4460be",
+        "cde3242a-a184-5aef-9964-235e7368e377",
+        "22646ccf-6383-54ce-bbf4-1b31606e2484"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Whisk the egg whites in another bowl until they form a light, floppy foam. Make a well in the center of the dry ingredients, tip in the egg whites and lemon rind, then lightly stir in the butter to form a soft batter.",
+      "ingredients_used": [
+        "dbd53d08-f57b-59de-be06-38236bff0d08",
+        "4b3c2f28-4bd6-51b1-8c33-7aeafe17c38f",
+        "96ca7305-eddb-58d3-b47f-848efa916246"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Divide the batter among the tins, a large serving spoon is perfect for this job. Sprinkle a handful of blueberries over each cake and bake for 15-20 minutes until just firm to the touch and golden brown.",
+      "timer_seconds": 1200
+    },
+    {
+      "step_number": 5,
+      "instruction": "Cool in the tins for 5 minutes, then turn out and cool on a wire rack. To serve, dust lightly with icing sugar.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "f90ad4f7-06db-52cb-9ad8-ca842a4460be"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/blueberry-lemon-friands"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

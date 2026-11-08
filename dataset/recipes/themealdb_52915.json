@@ -1,0 +1,208 @@
+{
+  "id": "0a303b96-0ed3-5379-8cef-1453e465418f",
+  "version": "1.0.0",
+  "title": "French Omelette",
+  "slug": "french-omelette",
+  "summary": "A classic French omelette characterized by a soft, moist texture and a smooth, pale exterior. It is prepared by gently stirring eggs in a pan to create folds before rolling the omelette.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:48:49Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52915"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/yvpuuy1511797244.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/yvpuuy1511797244.jpg/small",
+      "alt_text": "Photo of French Omelette",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=qXPhVYpQLPA"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "fe8f07a1-591f-5711-ae5b-f3c9afcc3e60",
+        "slug": "french",
+        "name": "French"
+      }
+    ],
+    "tags": [
+      "egg"
+    ],
+    "meal_types": [
+      "breakfast",
+      "brunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 5,
+    "total_time_minutes": 10
+  },
+  "yield": {
+    "servings": 1,
+    "serving_unit": "servings",
+    "serving_size_description": "1 omelette"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "eggs"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "998118c7-9eac-5fe1-8fac-44c9d0ae7bbc",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "55b5ab96-45dd-5552-a6a1-2dcce3001456",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "3 Eggs",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "0729e3b4-e6f2-518f-8c6c-702f427be3c6",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "2 knobs Butter",
+          "quantity": 2.0,
+          "unit": "knob",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "983d49e9-a0e0-524d-a40b-fb66cfbfa1ce",
+          "ingredient_id": "416df703-8cf7-5b6e-bc37-86ce7e3fd6da",
+          "name": "parmesan",
+          "display_text": "1 tsp Parmesan",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "2553ca89-ca5b-51f2-8101-53285dee8019",
+          "ingredient_id": "9d3fe757-c811-589c-a993-b4e49f09023f",
+          "name": "tarragon leaves",
+          "display_text": "3 chopped Tarragon Leaves",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "18e37a3d-0b38-58f2-90d3-1c15aec139c1",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "1 tbs chopped Parsley",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "8b8a7bd8-6f54-5700-9642-f4e0fa9af54b",
+          "ingredient_id": "85291054-0b21-5fc5-ac52-86bee20f4bbc",
+          "name": "chives",
+          "display_text": "1 tbs chopped Chives",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "04fcc8ee-e2ec-5774-ae87-394764cbb08b",
+          "ingredient_id": "7e2a902e-7ab4-5cdc-8b27-6bf2e8fa0437",
+          "name": "gruyère",
+          "display_text": "4 tbs Gruyère",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Get everything ready. Warm a 20cm (measured across the top) non-stick frying pan on a medium heat. Crack the eggs into a bowl and beat them with a fork so they break up and mix, but not as completely as you would for scrambled egg. With the heat on medium-hot, drop one knob of butter into the pan. It should bubble and sizzle, but not brown. Season the eggs with the Parmesan and a little salt and pepper, and pour into the pan.",
+      "ingredients_used": [
+        "55b5ab96-45dd-5552-a6a1-2dcce3001456",
+        "0729e3b4-e6f2-518f-8c6c-702f427be3c6",
+        "983d49e9-a0e0-524d-a40b-fb66cfbfa1ce"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Let the eggs bubble slightly for a couple of seconds, then take a wooden fork or spatula and gently draw the mixture in from the sides of the pan a few times, so it gathers in folds in the center. Leave for a few seconds, then stir again to lightly combine uncooked egg with cooked. Leave briefly again, and when partly cooked, stir a bit faster, stopping while there’s some barely cooked egg left. With the pan flat on the heat, shake it back and forth a few times to settle the mixture. It should slide easily in the pan and look soft and moist on top. A quick burst of heat will brown the underside.",
+      "ingredients_used": [
+        "55b5ab96-45dd-5552-a6a1-2dcce3001456"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Grip the handle underneath. Tilt the pan down away from you and let the omelette fall to the edge. Fold the side nearest to you over by a third with your fork, and keep it rolling over, so the omelette tips onto a plate – or fold it in half, if that’s easier. For a neat finish, cover the omelette with a piece of kitchen paper and plump it up a bit with your fingers. Rub the other knob of butter over to glaze. Serve immediately.",
+      "ingredients_used": [
+        "0729e3b4-e6f2-518f-8c6c-702f427be3c6"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/1669/ultimate-french-omelette"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

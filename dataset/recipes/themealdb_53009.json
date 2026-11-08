@@ -1,0 +1,196 @@
+{
+  "id": "27071f7f-e25f-51d7-bdf4-4dbd2d2ad4c3",
+  "version": "1.0.0",
+  "title": "Lamb and Lemon Souvlaki",
+  "slug": "lamb-and-lemon-souvlaki",
+  "summary": "Marinated lamb skewers seasoned with lemon, garlic, and dill, served in pita bread.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:56:28Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53009"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/rjhf741585564676.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/rjhf741585564676.jpg/small",
+      "alt_text": "Photo of Lamb and Lemon Souvlaki",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=krR4rhjR75Y"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "de767d0c-ee8d-59a9-8d05-02b9ae12a1ac",
+        "slug": "greek",
+        "name": "Greek"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 6,
+    "marinating_time_minutes": 120,
+    "rest_time_minutes": 30,
+    "total_time_minutes": 171
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "2-3 skewers with pita bread"
+  },
+  "allergens": {
+    "contains": [
+      "gluten"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "4f45687d-8222-545b-8f24-355e9cac766f",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "99a3c69e-002e-559a-957d-bde802a25e1f",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c1011c69-033a-5916-b8a1-05d69cec8e37",
+          "ingredient_id": "9ffd51ab-918f-5fa2-838e-51c491b97dd2",
+          "name": "sea salt",
+          "display_text": "2 tsp Sea Salt",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "cbf419cb-7b07-5f46-a5cb-d3c7d2823775",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "4 tbs Olive Oil",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "2e3c0246-6aa1-5876-a772-9d8360d27765",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "Zest and juice of 1 Lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "zest and juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7f4d1dbd-6b74-53e6-8b31-6402186fd8d5",
+          "ingredient_id": "c20ef13e-7f52-5fce-847f-34f123e6392e",
+          "name": "dill",
+          "display_text": "1 tbs Dill",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "ab0f51b6-b32c-559f-9f2d-7e8bae123dea",
+          "ingredient_id": "3e654cff-550d-5ae5-ae81-f532c48f2674",
+          "name": "lamb leg",
+          "display_text": "750g Lamb Leg",
+          "quantity": 750.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 750.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "555abc8f-6225-50d8-8b61-406763c378eb",
+          "ingredient_id": "3998084f-e7c2-5364-b223-62058fa4c0c9",
+          "name": "pita bread",
+          "display_text": "To serve Pita Bread",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "grains_pasta"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Pound the garlic with sea salt in a pestle and mortar (or use a small food processor), until the garlic forms a paste. Whisk together the oil, lemon juice, zest, dill and garlic. Mix in the lamb and combine well. Cover and marinate for at least 2 hrs or overnight in the fridge. If you’re going to use bamboo skewers, soak them in cold water.",
+      "timer_seconds": 7200,
+      "ingredients_used": [
+        "99a3c69e-002e-559a-957d-bde802a25e1f",
+        "c1011c69-033a-5916-b8a1-05d69cec8e37",
+        "2e3c0246-6aa1-5876-a772-9d8360d27765",
+        "7f4d1dbd-6b74-53e6-8b31-6402186fd8d5"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "If you’ve prepared the lamb the previous day, take it out of the fridge 30 mins before cooking. Thread the meat onto the soaked or metal skewers. Heat the grill to high or have a hot griddle pan or barbecue ready. Cook the skewers for 2-3 mins on each side, basting with the remaining marinade. Heat the pitta or flatbreads briefly, then stuff with the souvlaki. Add Greek salad (see 'Goes well with', right) and Tzatziki (below), if you like."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/lamb-lemon-dill-souvlaki"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

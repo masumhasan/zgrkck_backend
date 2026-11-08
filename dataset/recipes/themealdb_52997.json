@@ -1,0 +1,227 @@
+{
+  "id": "0f50e321-9adb-5f3d-a9ea-d37932f146e2",
+  "version": "1.0.0",
+  "title": "Beef Banh Mi Bowls with Sriracha Mayo, Carrot & Pickled Cucumber",
+  "slug": "beef-banh-mi-bowls-with-sriracha-mayo-carrot-pickled-cucumber",
+  "summary": "A deconstructed Vietnamese sandwich served in a bowl, featuring seasoned ground beef over rice with pickled cucumbers, grated carrots, and a spicy sriracha mayonnaise.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:55:50Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52997"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/z0ageb1583189517.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/z0ageb1583189517.jpg/small",
+      "alt_text": "Photo of Beef Banh Mi Bowls with Sriracha Mayo, Carrot & Pickled Cucumber",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "60481cf3-a7b7-5be4-a0dc-6b872c887e64",
+        "slug": "vietnamese",
+        "name": "Vietnamese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 25,
+    "rest_time_minutes": 10,
+    "total_time_minutes": 55
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of beef, rice, and vegetables"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "soy",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "8b0bddb7-6690-50e3-87c2-f8da79047c46",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "00870246-e375-5b94-a81d-424399d32073",
+          "ingredient_id": "025b8433-c498-5b37-813a-ec00ac6c2ae5",
+          "name": "rice",
+          "display_text": "White Rice",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "white",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "76a8bc72-71ec-5585-a584-32abb6157f81",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b837179c-329a-51cf-abd5-97a6f7bbfd9f",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "1 Lime",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "9707a430-275c-59a8-9e1b-38dd2dacb179",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "3 Garlic Clove",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "92731a9e-1069-5738-abac-8ad8bb896fc6",
+          "ingredient_id": "8f9e104a-822f-5bda-b376-eee34fc38609",
+          "name": "cucumber",
+          "display_text": "1 Cucumber",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "cc15fb4c-2123-556a-9876-335a03f78061",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "3 oz Carrots",
+          "quantity": 3.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 85.1,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "2ae37fc5-a56c-5b7d-adb5-b91fad566de3",
+          "ingredient_id": "daceaafa-62e0-5268-ab7d-62934c564c72",
+          "name": "ground beef",
+          "display_text": "1 lb Ground Beef",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "6b737225-af0a-5831-bcb0-b9eb6e042fbc",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "2 oz Soy Sauce",
+          "quantity": 2.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 56.7,
+          "metric_unit": "gram",
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Add'l ingredients: mayonnaise, siracha"
+    },
+    {
+      "step_number": 2,
+      "instruction": "Place rice in a fine-mesh sieve and rinse until water runs clear. Add to a small pot with 1 cup water (2 cups for 4 servings) and a pinch of salt. Bring to a boil, then cover and reduce heat to low. Cook until rice is tender, 15 minutes. Keep covered off heat for at least 10 minutes or until ready to serve.",
+      "ingredients_used": [
+        "00870246-e375-5b94-a81d-424399d32073"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Meanwhile, wash and dry all produce. Peel and finely chop garlic. Zest and quarter lime (for 4 servings, zest 1 lime and quarter both). Trim and halve cucumber lengthwise; thinly slice crosswise into half-moons. Halve, peel, and medium dice onion. Trim, peel, and grate carrot.",
+      "ingredients_used": [
+        "76a8bc72-71ec-5585-a584-32abb6157f81",
+        "b837179c-329a-51cf-abd5-97a6f7bbfd9f",
+        "92731a9e-1069-5738-abac-8ad8bb896fc6"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "In a medium bowl, combine cucumber, juice from half the lime, ¼ tsp sugar (½ tsp for 4 servings), and a pinch of salt. In a small bowl, combine mayonnaise, a pinch of garlic, a squeeze of lime juice, and as much sriracha as you’d like. Season with salt and pepper.",
+      "ingredients_used": [
+        "b837179c-329a-51cf-abd5-97a6f7bbfd9f",
+        "92731a9e-1069-5738-abac-8ad8bb896fc6"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Heat a drizzle of oil in a large pan over medium-high heat. Add onion and cook, stirring, until softened, 4-5 minutes. Add beef, remaining garlic, and 2 tsp sugar (4 tsp for 4 servings). Cook, breaking up meat into pieces, until beef is browned and cooked through, 4-5 minutes. Stir in soy sauce. Turn off heat; taste and season with salt and pepper.",
+      "ingredients_used": [
+        "76a8bc72-71ec-5585-a584-32abb6157f81",
+        "2ae37fc5-a56c-5b7d-adb5-b91fad566de3",
+        "6b737225-af0a-5831-bcb0-b9eb6e042fbc"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Fluff rice with a fork; stir in lime zest and 1 TBSP butter. Divide rice between bowls. Arrange beef, grated carrot, and pickled cucumber on top. Top with a squeeze of lime juice. Drizzle with sriracha mayo.",
+      "ingredients_used": [
+        "00870246-e375-5b94-a81d-424399d32073",
+        "b837179c-329a-51cf-abd5-97a6f7bbfd9f",
+        "92731a9e-1069-5738-abac-8ad8bb896fc6",
+        "2ae37fc5-a56c-5b7d-adb5-b91fad566de3"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

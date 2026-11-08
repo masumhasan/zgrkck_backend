@@ -1,0 +1,291 @@
+{
+  "id": "57bca732-bed1-56a9-bd2e-0bc03666b2c2",
+  "version": "1.0.0",
+  "title": "Salmon Prawn Risotto",
+  "slug": "salmon-prawn-risotto",
+  "summary": "A creamy Italian-style risotto featuring salmon, king prawns, and asparagus, finished with lemon and parmesan.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:40:40Z",
+  "updated_at": "2026-10-16T10:22:46Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52823"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/xxrxux1503070723.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/xxrxux1503070723.jpg/small",
+      "alt_text": "Photo of Salmon Prawn Risotto",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=V2PMvBv52IE"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "5777da00-e671-5ded-9c46-d7577d65960f",
+        "slug": "italian",
+        "name": "Italian"
+      }
+    ],
+    "tags": [
+      "fish"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 45
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 portion of risotto with salmon, prawns and asparagus"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "fish",
+      "shellfish",
+      "sulfites"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "d96e739e-72b5-58db-b8bd-e0efc2290566",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "310f509f-313f-5be7-b15f-c0b833e88d12",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "50g/2oz butter",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "b64b2e03-72cd-55e8-be9a-5d6b499cfb04",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 finely chopped onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d292c9f5-31db-546b-bc9c-9a09a7c96534",
+          "ingredient_id": "025b8433-c498-5b37-813a-ec00ac6c2ae5",
+          "name": "rice",
+          "display_text": "150g rice",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "8a295d2e-056b-5194-a07e-5390b63ad3c8",
+          "ingredient_id": "7dfa4179-cc08-5fb6-b4fc-aa52abc5f515",
+          "name": "white wine",
+          "display_text": "125ml white wine",
+          "quantity": 125.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 125.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "800ea805-33c4-5a0e-9b2e-71a0d86f0190",
+          "ingredient_id": "2d490c0b-0744-5be5-a104-641c87b13636",
+          "name": "vegetable stock",
+          "display_text": "1 liter hot vegetable stock",
+          "quantity": 1.0,
+          "unit": "liter",
+          "preparation": "hot",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "liter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "e8dd9d9f-b0b8-5334-9b36-fff17a9ee137",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "The juice and zest of one lemon",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "the juice and zest of one",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1baf28e5-9424-57b6-b6ae-69299c09f023",
+          "ingredient_id": "ebfe6676-831a-5bcc-841b-779f40bbb238",
+          "name": "king prawns",
+          "display_text": "240g large King Prawns",
+          "quantity": 240.0,
+          "unit": "gram",
+          "preparation": "large",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "de087acb-3bc1-5703-9b13-8821c8e2dd74",
+          "ingredient_id": "8e78b962-6a36-568e-a6f6-db81cdbb4985",
+          "name": "salmon",
+          "display_text": "150g salmon",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "fish"
+        },
+        {
+          "id": "b6453504-b122-5407-aa8b-f9ee4daac169",
+          "ingredient_id": "faad91f4-0f3a-5f4d-9327-7556f61b431c",
+          "name": "asparagus",
+          "display_text": "100g tips blanched briefly in boiling water asparagus",
+          "quantity": 100.0,
+          "unit": "gram",
+          "preparation": "tips blanched briefly in boiling water",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "eb31ed82-9817-5c71-a7af-ed59c3c6aebd",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "ground black pepper",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "ground",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "10f499b5-589d-50b6-9a25-87a4bd0c8801",
+          "ingredient_id": "416df703-8cf7-5b6e-bc37-86ce7e3fd6da",
+          "name": "parmesan",
+          "display_text": "50g shavings Parmesan",
+          "quantity": 50.0,
+          "unit": "gram",
+          "preparation": "shavings",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Melt the butter in a thick-based pan and gently cook the onion without color until it is soft.",
+      "ingredients_used": [
+        "310f509f-313f-5be7-b15f-c0b833e88d12",
+        "b64b2e03-72cd-55e8-be9a-5d6b499cfb04"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the rice and stir to coat all the grains in the butter",
+      "ingredients_used": [
+        "310f509f-313f-5be7-b15f-c0b833e88d12",
+        "d292c9f5-31db-546b-bc9c-9a09a7c96534"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the wine and cook gently stirring until it is absorbed",
+      "ingredients_used": [
+        "8a295d2e-056b-5194-a07e-5390b63ad3c8"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Gradually add the hot stock, stirring until each addition is absorbed. Keep stirring until the rice is tender",
+      "ingredients_used": [
+        "d292c9f5-31db-546b-bc9c-9a09a7c96534"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Season with the lemon juice and zest, and pepper to taste. (there will probably be sufficient saltiness from the salmon to not need to add salt) Stir gently to heat through",
+      "ingredients_used": [
+        "e8dd9d9f-b0b8-5334-9b36-fff17a9ee137",
+        "de087acb-3bc1-5703-9b13-8821c8e2dd74"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Serve scattered with the Parmesan and seasonal vegetables.",
+      "ingredients_used": [
+        "10f499b5-589d-50b6-9a25-87a4bd0c8801"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Grill the salmon and gently place onto the risotto with the prawns and asparagus",
+      "ingredients_used": [
+        "1baf28e5-9424-57b6-b6ae-69299c09f023",
+        "de087acb-3bc1-5703-9b13-8821c8e2dd74",
+        "b6453504-b122-5407-aa8b-f9ee4daac169"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://www.rangemaster.co.uk/rangemaster-owners/recipes-ideas-inspiration/recipes/mains/prawn-and-hot-smoked-salmon-risotto-with-asparagus"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

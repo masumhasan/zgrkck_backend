@@ -1,0 +1,282 @@
+{
+  "id": "d7e16f74-90bd-5509-af4f-aeb80964517a",
+  "version": "1.0.0",
+  "title": "Salt & pepper squid",
+  "slug": "salt-pepper-squid",
+  "summary": "Crispy fried squid seasoned with salt and pepper, served with a side of sweet and tangy rice vinegar dipping sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:16:07Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53233"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/yxiilf1763759428.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/yxiilf1763759428.jpg/small",
+      "alt_text": "Photo of Salt & pepper squid",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=l1Ik6k22s1I"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "60481cf3-a7b7-5be4-a0dc-6b872c887e64",
+        "slug": "vietnamese",
+        "name": "Vietnamese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "courses": [
+      "appetizer",
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 25
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of squid with dipping sauce"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "fish",
+      "shellfish"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "057ad1ab-db67-56df-bb48-7383c091e3a6",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "2b3dfde2-c025-563a-af2d-a056c47ce7d8",
+          "ingredient_id": "94f73465-e9e4-5ae0-8787-ee86687dbeb4",
+          "name": "corn flour",
+          "display_text": "85g Corn Flour",
+          "quantity": 85.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 85.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "6b8312ed-f881-504c-9ff6-cb830878d9aa",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "85g Plain Flour",
+          "quantity": 85.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 85.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "936fb821-799d-5bcb-81fe-2a63f7da60f1",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "2 tsp Black Pepper",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "ce0df8fa-9db0-5879-b3ad-6129ea64beac",
+          "ingredient_id": "f149ab36-74c1-5b50-9fe6-82fa342de3a2",
+          "name": "szechuan peppercorns",
+          "display_text": "2 tsp Szechuan Peppercorns",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "c180169e-a6c2-5b7c-9165-191369c41b78",
+          "ingredient_id": "aa561384-0d26-5008-a25e-3ba9db4b2a3f",
+          "name": "sunflower oil",
+          "display_text": "For frying Sunflower Oil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "for frying",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "29e04eab-94d2-5d84-a3fa-42c9ffb9865f",
+          "ingredient_id": "99692f34-e6c0-5343-b562-9ea531589faa",
+          "name": "squid",
+          "display_text": "400g Squid",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "784ec4a1-4f10-5786-84b2-9bdd8748db82",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "Sliced Spring Onions",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "984b8774-de24-5220-9382-32906678b9e6",
+          "ingredient_id": "091f7fa6-975c-516e-a354-2a31e6503580",
+          "name": "green chilli",
+          "display_text": "Sliced Green Chilli",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "18f96485-90b1-532f-ac5b-37593d5fb907",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "1 chopped Red Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "91a1037a-3391-5d88-8058-e32f6953cd17",
+          "ingredient_id": "8f9e104a-822f-5bda-b376-eee34fc38609",
+          "name": "cucumber",
+          "display_text": "1/2 Cucumber",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1a04dd5b-ab47-5f30-89c5-465ba8c4b597",
+          "ingredient_id": "716f7639-3b59-56a7-9146-1819649ebdad",
+          "name": "red onions",
+          "display_text": "1 chopped Red Onions",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "df9e852d-b0d4-5776-ab4f-a303d68cb2d3",
+          "ingredient_id": "cad15bc5-2770-5a5f-8572-c5ac5ad79569",
+          "name": "rice vinegar",
+          "display_text": "100 ml Rice Vinegar",
+          "quantity": 100.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "13d47bbd-3fb0-5cec-98e1-25ec1b84c95c",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "1 tablespoon Caster Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "f251c412-2c93-5dad-a6e4-46856221f7c2",
+          "ingredient_id": "de927c20-fdfa-5b98-8ee9-7840fa951a2f",
+          "name": "fish sauce",
+          "display_text": "2 tsp Fish Sauce",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "To make the dipping sauce, mix all the ingredients in a small bowl until the sugar has dissolved, then set aside. Mix the cornflour and plain flour with both peppers and 2 tsp sea salt in a large bowl, then set aside. Line a tray with kitchen paper and make sure you have more salt to sprinkle with.",
+      "ingredients_used": [
+        "6b8312ed-f881-504c-9ff6-cb830878d9aa"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat about 7cm of oil to 180C in a deep fryer, wok or deep pan. If you don’t have a thermometer, you can test it with a cube of bread – it should brown in 20 secs. Coat the squid well with the flour mix and fry in batches for about 2 mins each or until crisp. Use a slotted spoon to lift out the squid, then drain on the kitchen paper and sprinkle with a little more salt. Serve the squid scattered with the spring onion and chilli, with the dipping sauce on the side.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "29e04eab-94d2-5d84-a3fa-42c9ffb9865f",
+        "984b8774-de24-5220-9382-32906678b9e6",
+        "18f96485-90b1-532f-ac5b-37593d5fb907"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/salt-pepper-squid"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

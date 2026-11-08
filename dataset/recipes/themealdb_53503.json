@@ -1,0 +1,334 @@
+{
+  "id": "1878fff5-7c52-58c2-b18a-ac5e331ed6ff",
+  "version": "1.0.0",
+  "title": "Samlar Machu Kreung – Cambodian Sour Stew",
+  "slug": "samlar-machu-kreung-cambodian-sour-stew",
+  "summary": "A Cambodian sour stew featuring chicken thighs simmered in a tamarind-based broth with pineapple, cherry tomatoes, and green beans.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:39:54Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53503"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/bmbvjk1782770310.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/bmbvjk1782770310.jpg/small",
+      "alt_text": "Photo of Samlar Machu Kreung – Cambodian Sour Stew",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9366172c-dff3-589e-9436-4be7c7f595b3",
+        "slug": "cambodian",
+        "name": "Cambodian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 32,
+    "total_time_minutes": 42
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of stew"
+  },
+  "allergens": {
+    "contains": [
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "7e068a6e-3318-5317-bbe1-e290293a730d",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "782bd1c5-b91c-5a3d-81af-53694713fb94",
+          "ingredient_id": "e0e4d032-0f9f-5908-ab90-db9a8ec5b68c",
+          "name": "chicken thighs",
+          "display_text": "1 lb Chicken Thighs",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "poultry"
+        },
+        {
+          "id": "b0d81aea-ad67-5ca0-94e3-b402d5b85c35",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "1 tablespoon Vegetable Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "baf68b45-0f36-5c79-80e6-9c3e99d31ce6",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "4 cups Water",
+          "quantity": 4.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 960.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "20ccc3f3-70d8-586b-ad6b-98afe28671ba",
+          "ingredient_id": "459ccfd6-d28f-544c-80d1-1b5a80bf5bed",
+          "name": "tamarind paste",
+          "display_text": "2 tablespoons Tamarind Paste",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "00e109b2-1c0b-510d-8b1a-463ec4a32439",
+          "ingredient_id": "de927c20-fdfa-5b98-8ee9-7840fa951a2f",
+          "name": "fish sauce",
+          "display_text": "1 tablespoon Fish Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "d33c4391-599a-5bad-81f7-ac7cf25690db",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 tsp Sugar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "9b2292ea-7783-58f7-a397-07c4ff3d6b96",
+          "ingredient_id": "be521ebe-e6e4-5412-a9c6-c1e26f6b7551",
+          "name": "pineapple chunks",
+          "display_text": "1 cup Pineapple Chunks",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "83bcd107-2760-5bf8-8535-1346e2856d0a",
+          "ingredient_id": "041e90f7-87c0-5883-b651-a9f26dce39b7",
+          "name": "cherry tomatoes",
+          "display_text": "1 cup Cherry Tomatoes",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "93abc49a-f8ba-5194-8a8b-1812c675faa7",
+          "ingredient_id": "76e924de-1ab6-5ae5-94fc-70f3fd268a7d",
+          "name": "green beans",
+          "display_text": "1 cup Green Beans",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "2d819ae6-095c-50c6-8de1-2efcf27036c0",
+          "ingredient_id": "784549c9-8cb9-52e6-bee9-208af4ebb3b1",
+          "name": "lemongrass",
+          "display_text": "1 Stalk Lemongrass",
+          "quantity": 1.0,
+          "unit": "stalk",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "05be2882-1718-5edc-a02f-e134534cec2e",
+          "ingredient_id": "b68d56c5-29fc-57c8-82da-35103b765c1e",
+          "name": "kaffir lime leaves",
+          "display_text": "2 Kaffir Lime Leaves",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "367bb242-dcf4-5723-885c-de2c557eefec",
+          "ingredient_id": "3deb6c1f-bd27-560b-a63b-f2b3eaf9e82e",
+          "name": "chilli",
+          "display_text": "1 sliced Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat 1 tbsp vegetable oil in a large pot over medium-high heat until it shimmers, about 1 minute.",
+      "timer_seconds": 60,
+      "ingredients_used": [
+        "b0d81aea-ad67-5ca0-94e3-b402d5b85c35"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add 1 lb boneless, skinless chicken thighs to the pot and cook until browned on all sides, approximately 5-7 minutes, stirring occasionally to prevent sticking.",
+      "timer_seconds": 420,
+      "ingredients_used": [
+        "782bd1c5-b91c-5a3d-81af-53694713fb94"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Pour 4 cups water into the pot and bring to a boil, then reduce heat to a simmer.",
+      "ingredients_used": [
+        "baf68b45-0f36-5c79-80e6-9c3e99d31ce6"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Stir in 2 tbsp tamarind paste, 1 tbsp fish sauce, and 1 tsp sugar until fully dissolved, about 1 minute.",
+      "timer_seconds": 60,
+      "ingredients_used": [
+        "20ccc3f3-70d8-586b-ad6b-98afe28671ba",
+        "00e109b2-1c0b-510d-8b1a-463ec4a32439",
+        "d33c4391-599a-5bad-81f7-ac7cf25690db"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Add 1 stalk lemongrass and 2 kaffir lime leaves to the pot, then cover and simmer for 10 minutes to infuse the broth with flavor.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "2d819ae6-095c-50c6-8de1-2efcf27036c0",
+        "05be2882-1718-5edc-a02f-e134534cec2e"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Tip: Bruising the lemongrass before adding helps release its essential oils for a more aromatic stew.",
+      "ingredients_used": [
+        "2d819ae6-095c-50c6-8de1-2efcf27036c0"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Add 1 cup pineapple chunks, 1 cup cherry tomatoes, and 1 cup green beans to the pot, stirring gently to combine.",
+      "ingredients_used": [
+        "9b2292ea-7783-58f7-a397-07c4ff3d6b96",
+        "83bcd107-2760-5bf8-8535-1346e2856d0a",
+        "93abc49a-f8ba-5194-8a8b-1812c675faa7"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Simmer uncovered for 10-12 minutes, or until the green beans are tender but still crisp and the tomatoes start to soften.",
+      "timer_seconds": 720,
+      "ingredients_used": [
+        "83bcd107-2760-5bf8-8535-1346e2856d0a",
+        "93abc49a-f8ba-5194-8a8b-1812c675faa7"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Tip: Avoid overcooking the vegetables to maintain their vibrant color and texture in the final dish."
+    },
+    {
+      "step_number": 10,
+      "instruction": "Stir in 1 Thai chili and simmer for an additional 2 minutes to incorporate the heat.",
+      "timer_seconds": 120
+    },
+    {
+      "step_number": 11,
+      "instruction": "Tip: Taste the broth and adjust with extra tamarind paste or fish sauce if desired, but do so gradually to avoid overpowering the balance.",
+      "ingredients_used": [
+        "20ccc3f3-70d8-586b-ad6b-98afe28671ba",
+        "00e109b2-1c0b-510d-8b1a-463ec4a32439"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Remove the pot from heat and discard the lemongrass and kaffir lime leaves before serving.",
+      "ingredients_used": [
+        "2d819ae6-095c-50c6-8de1-2efcf27036c0",
+        "05be2882-1718-5edc-a02f-e134534cec2e"
+      ]
+    },
+    {
+      "step_number": 13,
+      "instruction": "Present the stew hot in bowls, optionally garnished with fresh herbs like cilantro."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://recipes-for-life.com/cambodian-recipes/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

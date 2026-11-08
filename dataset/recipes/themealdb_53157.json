@@ -1,0 +1,209 @@
+{
+  "id": "37ca0951-1d8f-5db0-b1a8-97179bfb13d4",
+  "version": "1.0.0",
+  "title": "Chorizo & soft-boiled egg salad",
+  "slug": "chorizo-soft-boiled-egg-salad",
+  "summary": "A Spanish-inspired salad featuring boiled baby potatoes, green beans, and crispy chorizo, topped with soft-boiled eggs and a sherry vinegar dressing.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:09:18Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53157"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/v8eaed1763257313.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/v8eaed1763257313.jpg/small",
+      "alt_text": "Photo of Chorizo & soft-boiled egg salad",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=PfAjfn5dYHE"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 12,
+    "total_time_minutes": 22
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a bowl of salad with chorizo and egg"
+  },
+  "allergens": {
+    "contains": [
+      "eggs",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "1e195685-464d-5a11-9ae4-be669d0a5ac1",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "64b91cf3-8ba1-569e-b772-768773da385f",
+          "ingredient_id": "c280b375-6294-519b-a161-a423752ba84d",
+          "name": "baby new potatoes",
+          "display_text": "500g Baby New Potatoes",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "4e962649-b857-5632-b93d-520beb69d89c",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "4 Egg",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "16e6a835-bd3d-588b-a7b8-d813bc98f5aa",
+          "ingredient_id": "76e924de-1ab6-5ae5-94fc-70f3fd268a7d",
+          "name": "green beans",
+          "display_text": "225g Green Beans",
+          "quantity": 225.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 225.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "c94df705-90b5-5a45-9afc-07614be75619",
+          "ingredient_id": "d4235a95-0bb4-579b-8855-bbb8f4efeb46",
+          "name": "chorizo",
+          "display_text": "225g Chorizo",
+          "quantity": 225.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 225.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "2c5a7bb5-ce88-5cf3-a468-ec7870d38800",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "1 sliced Garlic Clove",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ff3bce67-5680-53bb-b365-f682e6811722",
+          "ingredient_id": "284d3e0d-9e9f-56ee-95b4-7e7dc1b66214",
+          "name": "sherry vinegar",
+          "display_text": "2 tbsp Sherry vinegar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "8a8288cf-a01a-5331-8305-e60c7a863548",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "2 tbsp chopped Parsley",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Cook the potatoes in a large pan of boiling salted water for 12 mins, adding the eggs after 6 mins, and the beans for the final 2 mins. Drain everything and cool the eggs under cold running water.",
+      "ingredients_used": [
+        "64b91cf3-8ba1-569e-b772-768773da385f",
+        "16e6a835-bd3d-588b-a7b8-d813bc98f5aa"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Meanwhile fry chorizo slices for 1-2 mins, until beginning to crisp. Remove from the pan with a slotted spoon and set aside, leaving the oil from the chorizo in the pan. Add the garlic to the pan and cook gently for 1 min.",
+      "ingredients_used": [
+        "c94df705-90b5-5a45-9afc-07614be75619"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Remove the pan from the heat, stir in the vinegar and parsley, then toss with the potatoes, beans, chorizo and seasoning. Shell the eggs, cut into quarters and add to the salad.",
+      "ingredients_used": [
+        "64b91cf3-8ba1-569e-b772-768773da385f",
+        "16e6a835-bd3d-588b-a7b8-d813bc98f5aa",
+        "c94df705-90b5-5a45-9afc-07614be75619",
+        "8a8288cf-a01a-5331-8305-e60c7a863548"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/chorizo-soft-boiled-egg-salad"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

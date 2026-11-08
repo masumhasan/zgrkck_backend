@@ -1,0 +1,246 @@
+{
+  "id": "5b5958d6-66e2-5c6e-b9b5-960ecbe4b46c",
+  "version": "1.0.0",
+  "title": "Frikadeller - Danish Meatballs",
+  "slug": "frikadeller-danish-meatballs",
+  "summary": "Frikadeller are traditional Danish meatballs made from minced pork, onion, and egg, typically pan-fried until golden brown.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:44:28Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53553"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/bnhfa71784662834.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/bnhfa71784662834.jpg/small",
+      "alt_text": "Photo of Frikadeller - Danish Meatballs",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "11f008d8-4600-56c5-aaa2-cde07db70a5a",
+        "slug": "danish",
+        "name": "Danish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 15,
+    "marinating_time_minutes": 30,
+    "total_time_minutes": 60
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of meatballs with potato salad"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "c4fc1b29-bd20-543e-8410-8b0404cc5232",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "42e8099b-ff9c-51fc-8402-9f163b77e880",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 large Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "85ad736a-aa34-55be-ab1f-dbf715ce67ec",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ba8ded12-5af7-5ff4-85bf-d65f334ac257",
+          "ingredient_id": "129e9d71-a5d6-5673-b00e-1cc058330b03",
+          "name": "minced pork",
+          "display_text": "500g Minced Pork",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "9d03410c-c8ac-5d94-9b88-1c08a27c6f7c",
+          "ingredient_id": "d1e5ec78-b8c2-5649-962c-a9f67272ea92",
+          "name": "all purpose flour",
+          "display_text": "1 tablespoon All purpose flour",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "38bf39a9-1180-5c3f-b4fa-c5af8badf9f5",
+          "ingredient_id": "8e77f694-66fc-5ca4-97f6-deb23c629202",
+          "name": "oats",
+          "display_text": "1 tablespoon Oats",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "bffe7c62-99a1-586f-922f-b937975d6f4f",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "1/2 cup Milk",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "1e34073a-d87c-5207-8928-6675fa699b84",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "82ffb75e-597c-5aec-9bd6-ce7e88d640d5",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tablespoon Salt",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "23d2b647-6d8b-5db2-bb7d-090003dfc168",
+          "ingredient_id": "49e87b98-0472-5544-890c-195803881226",
+          "name": "ground black pepper",
+          "display_text": "1 tsp Ground Black Pepper",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "e46f22b5-289e-5e7c-8d8d-d997de112b73",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "2 tablespoons Butter",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Finely chop onion and garlic.",
+      "ingredients_used": [
+        "42e8099b-ff9c-51fc-8402-9f163b77e880",
+        "85ad736a-aa34-55be-ab1f-dbf715ce67ec"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Stir salt into minced meat. Add the dry ingredients, then onion and garlic, then the egg. and lastly the milk. Stir the meat mixture until it is firm. Refrigerate for at least 30 minutes. You can also make the mixture one day in advance and refrigerate.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "42e8099b-ff9c-51fc-8402-9f163b77e880",
+        "85ad736a-aa34-55be-ab1f-dbf715ce67ec",
+        "bffe7c62-99a1-586f-922f-b937975d6f4f",
+        "1e34073a-d87c-5207-8928-6675fa699b84",
+        "82ffb75e-597c-5aec-9bd6-ce7e88d640d5"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Heat a pan over medium heat. Add butter to the pan and use a spoon to form frikadeller (meatballs) in your preferred size. We recommend using about 2 tablespoons of mixture per frikadelle.",
+      "ingredients_used": [
+        "e46f22b5-289e-5e7c-8d8d-d997de112b73"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Fry until they develop a nice browned crust on both sides and are cooked all the way through."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Serve hot with a classic potato salad on the side."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://denmark.dk/people-and-culture/recipes/danish-meat-balls/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

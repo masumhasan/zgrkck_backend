@@ -1,0 +1,263 @@
+{
+  "id": "2e061faf-18c1-5591-8a69-3aa733f78fea",
+  "version": "1.0.0",
+  "title": "Lamb and Potato pie",
+  "slug": "lamb-and-potato-pie",
+  "summary": "A hearty British-style pie featuring tender lamb shoulder simmered with carrots and onions, topped with a layer of potatoes and golden shortcrust pastry.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:45:28Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52877"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/sxrpws1511555907.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/sxrpws1511555907.jpg/small",
+      "alt_text": "Photo of Lamb and Potato pie",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=NCyPaaUNYUk"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "pie"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": [
+      "dinner_party",
+      "comfort_food"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 160,
+    "total_time_minutes": 180
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 large slice of pie"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "431672d5-27f8-5844-b11a-6a91a403f9ea",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "208a78e8-0ce3-5c98-aebb-90c840e59c4e",
+          "ingredient_id": "d3502ea3-9e5b-5fe6-a3e5-4cbc8ca5e58f",
+          "name": "lamb shoulder",
+          "display_text": "500g Lamb Shoulder",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "52bfc3fc-4195-5e02-a773-e109ba6200dc",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "1 tbls Flour",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "1caef155-6c07-5907-afe1-43423cb86c09",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "Dash Vegetable Oil",
+          "quantity": 1,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "6d27d572-a199-5bcc-a075-49642eff7650",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 sliced Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7b8089eb-0004-5a56-ad39-78201eea6a64",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "2 sliced Carrots",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "9f15afc6-f18a-5514-b09e-a804a665f356",
+          "ingredient_id": "2d490c0b-0744-5be5-a104-641c87b13636",
+          "name": "vegetable stock",
+          "display_text": "350ml/12fl Vegetable Stock",
+          "quantity": 350.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 350.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "9ff0315f-1eaf-5e73-b5aa-742643e8a8f8",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "500g Potatoes",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "18f7a69f-4adf-531d-a5c9-e991cbf94b38",
+          "ingredient_id": "046360a3-7aab-5675-9fe2-646f97878a5d",
+          "name": "shortcrust pastry",
+          "display_text": "450g Shortcrust Pastry",
+          "quantity": 450.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "1aeb1051-ec59-54db-bbc8-089cb04d006f",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "To Glaze Eggs",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to glaze",
+          "is_optional": false,
+          "category": "eggs"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Dust the meat with flour to lightly coat.",
+      "ingredients_used": [
+        "52bfc3fc-4195-5e02-a773-e109ba6200dc"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat enough vegetable oil in a large saucepan to fill the base, and fry the onion and meat until lightly browned. Season with salt and pepper.",
+      "ingredients_used": [
+        "1caef155-6c07-5907-afe1-43423cb86c09",
+        "6d27d572-a199-5bcc-a075-49642eff7650"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the carrots, stock and more seasoning to taste.",
+      "ingredients_used": [
+        "7b8089eb-0004-5a56-ad39-78201eea6a64"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Bring to the boil, cover and reduce the heat to a simmer. Simmer for at least an hour or until the meat is tender. Take your time cooking the meat, the longer you leave it to cook, the better the flavor will be."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Preheat the oven to 180C/350F/Gas 4.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 6,
+      "instruction": "Add the drained potato cubes to the lamb."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Turn the mixture into a pie dish or casserole and cover with the shortcrust pastry. Make three slits in the top of the pastry to release any steam while cooking.",
+      "ingredients_used": [
+        "18f7a69f-4adf-531d-a5c9-e991cbf94b38"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Brush with beaten egg and bake for about 40 minutes, until the pastry is golden brown.",
+      "timer_seconds": 2400,
+      "ingredients_used": [
+        "18f7a69f-4adf-531d-a5c9-e991cbf94b38"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Serve."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbc.co.uk/food/recipes/lambandpotatopie_83913"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "id": "57ad21db-04ad-552f-9567-508d424a7326",
+  "version": "1.0.0",
+  "title": "Mediterranean Pasta Salad",
+  "slug": "mediterranean-pasta-salad",
+  "summary": "A refreshing Italian pasta salad featuring farfalle, tuna, mozzarella, and cherry tomatoes tossed with fresh basil and olives.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:37:07Z",
+  "updated_at": "2026-10-16T10:22:43Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52777"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg/small",
+      "alt_text": "Photo of Mediterranean Pasta Salad",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=e52IL8zYmaE"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "5777da00-e671-5ded-9c46-d7577d65960f",
+        "slug": "italian",
+        "name": "Italian"
+      }
+    ],
+    "tags": [
+      "baking",
+      "pasta"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course",
+      "salad"
+    ],
+    "dietary_flags": [],
+    "difficulty": "beginner",
+    "occasions": [
+      "picnic",
+      "summer_refreshment"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "marinating_time_minutes": 30,
+    "rest_time_minutes": 30,
+    "total_time_minutes": 85
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of pasta salad"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "fish"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "bced32b2-87d3-5618-bf5c-508143b30d72",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "b8d0b35a-9afc-5377-9151-2fa6a488da02",
+          "ingredient_id": "9f7aa897-9bb3-57e7-a54c-7748ca788307",
+          "name": "mozzarella balls",
+          "display_text": "200 g mozzarella balls",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "a343d23d-6a50-5b0a-94ef-3cbfbe0ffef1",
+          "ingredient_id": "2ec42c09-8d35-58d1-a7a4-f669dddf5e72",
+          "name": "baby plum tomatoes",
+          "display_text": "250 g baby plum tomatoes",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "6e4d5896-bc07-5500-a955-1f57b2ebf32e",
+          "ingredient_id": "d32d4561-6f45-50f6-bcea-367d09ef478e",
+          "name": "fresh basil",
+          "display_text": "1  bunch fresh basil",
+          "quantity": 1.0,
+          "unit": "bunch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "c8ec17fb-276b-510c-bba1-21e6f1bac050",
+          "ingredient_id": "fbcf7d92-08d8-5258-b71e-6049c2ffd456",
+          "name": "farfalle",
+          "display_text": "350 g farfalle",
+          "quantity": 350.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 350.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "ab945a6c-a711-59bb-b634-9ec4857c9f2c",
+          "ingredient_id": "96cc0c2b-795a-53be-a503-05d14e92b236",
+          "name": "extra virgin olive oil",
+          "display_text": "3  tablespoons extra virgin olive oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "6fde6e11-df45-5418-98bb-8a1bc8172c09",
+          "ingredient_id": "d7e4a580-0a72-51fa-ae47-47633da37e45",
+          "name": "green olives",
+          "display_text": "40 g Green Olives",
+          "quantity": 40.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 40.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "55ecad1b-f76d-5bd3-b043-7298738258c9",
+          "ingredient_id": "fe75f1cb-e7bd-5163-83c7-78d6aa269e26",
+          "name": "tuna",
+          "display_text": "200 g tuna",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "fish"
+        },
+        {
+          "id": "48c7ab16-5ee7-567f-a7a0-72ee5fb340bb",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "to taste salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "035e5ef2-d805-5db6-9fc6-e06d56e0e800",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "to taste pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Bring a large saucepan of salted water to the boil",
+      "ingredients_used": [
+        "48c7ab16-5ee7-567f-a7a0-72ee5fb340bb"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the pasta, stir once and cook for about 10 minutes or as directed on the packet.",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 3,
+      "instruction": "Meanwhile, wash the tomatoes and cut into quarters. Slice the olives. Wash the basil.",
+      "ingredients_used": [
+        "a343d23d-6a50-5b0a-94ef-3cbfbe0ffef1",
+        "6e4d5896-bc07-5500-a955-1f57b2ebf32e",
+        "6fde6e11-df45-5418-98bb-8a1bc8172c09"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Put the tomatoes into a salad bowl and tear the basil leaves over them. Add a tablespoon of olive oil and mix.",
+      "ingredients_used": [
+        "a343d23d-6a50-5b0a-94ef-3cbfbe0ffef1",
+        "6e4d5896-bc07-5500-a955-1f57b2ebf32e"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "When the pasta is ready, drain into a colander and run cold water over it to cool it quickly."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Toss the pasta into the salad bowl with the tomatoes and basil.",
+      "ingredients_used": [
+        "a343d23d-6a50-5b0a-94ef-3cbfbe0ffef1",
+        "6e4d5896-bc07-5500-a955-1f57b2ebf32e"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Add the sliced olives, drained mozzarella balls, and chunks of tuna. Mix well and let the salad rest for at least half an hour to allow the flavors to mingle.",
+      "ingredients_used": [
+        "b8d0b35a-9afc-5377-9151-2fa6a488da02",
+        "6fde6e11-df45-5418-98bb-8a1bc8172c09",
+        "55ecad1b-f76d-5bd3-b043-7298738258c9"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Sprinkle the pasta with a generous grind of black pepper and drizzle with the remaining olive oil just before serving.",
+      "ingredients_used": [
+        "035e5ef2-d805-5db6-9fc6-e06d56e0e800"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://thelemonsqueezy.com/recipe/mediterranean-pasta-salad/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

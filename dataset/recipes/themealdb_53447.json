@@ -1,0 +1,239 @@
+{
+  "id": "218cf201-2a59-5147-9e89-ac65032c1ca3",
+  "version": "1.0.0",
+  "title": "Tafelspitz",
+  "slug": "tafelspitz",
+  "summary": "A traditional Austrian boiled beef dish served either in a clear broth or as a main course with various accompaniments.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:35:01Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53447"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/svf3d01780298321.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/svf3d01780298321.jpg/small",
+      "alt_text": "Photo of Tafelspitz",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "5ced9979-56b0-5063-8e7f-d2ba3c272045",
+        "slug": "austrian",
+        "name": "Austrian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "starter",
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 180,
+    "total_time_minutes": 200
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of sliced beef with vegetables"
+  },
+  "allergens": {
+    "contains": [
+      "celery"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "gluten"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "aba75d70-6418-5a80-b215-8ef7e64b2a5e",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "09f94119-3ff5-5de1-9f71-5cc7e5af7240",
+          "ingredient_id": "912306cc-7127-5c59-8a0d-abb900c0fa1c",
+          "name": "beef brisket",
+          "display_text": "1.5kg Beef Brisket",
+          "quantity": 1.5,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.5,
+          "metric_unit": "kilogram",
+          "category": "meat"
+        },
+        {
+          "id": "f0ad717c-3473-57d5-946e-260ab56a1e8f",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "1  bunch Carrots",
+          "quantity": 1.0,
+          "unit": "bunch",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "efb12a88-f666-5c34-93da-8682dcac56f4",
+          "ingredient_id": "f44959de-0d13-52b9-bc9e-3608459350a4",
+          "name": "celeriac",
+          "display_text": "1 Celeriac",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4f5732b5-00b9-526b-87f1-e5fc82278249",
+          "ingredient_id": "0db28f22-a0ac-5202-ad06-aadf94f02292",
+          "name": "parsnips",
+          "display_text": "2 Parsnips",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f09ab036-edd9-5911-9dfe-df229d90875a",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Sprigs of fresh Parsley",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "sprigs of fresh",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "a508081f-3d74-5ee2-98bd-4e79554b7dd5",
+          "ingredient_id": "ef5d99bc-384e-522a-8c0f-1c8501f6612c",
+          "name": "leek",
+          "display_text": "1/2 Leek",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "62bc485f-430f-5840-b05a-ae2a7a0b36c3",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 large Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "16fe7027-a7b6-5943-abdd-c56e9fba47e9",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "2 Bay Leaf",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "47d8622e-3356-51df-9ad5-97e868fa37a8",
+          "ingredient_id": "88f566bb-0371-50a0-8e10-e9fbea6ad92b",
+          "name": "peppercorns",
+          "display_text": "5 Peppercorns",
+          "quantity": 5.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "159ce50c-7c66-59e7-95b2-992a602fab2e",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Slice the unpeeled onion in half widthways and fry off the cut surfaces without fat until fairly well browned.",
+      "ingredients_used": [
+        "62bc485f-430f-5840-b05a-ae2a7a0b36c3"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Put around 3 liters of water into a large saucepan. Add the root vegetables, leek, halves of onion, bay leaves, and peppercorns and bring to a boil. Add the washed meat and bones and, depending on the type of meat, allow to cook until softened in gently simmering water, which will take around 2 1⁄2 – 3 hours. Add more water as required and skim off any foam from the surface.",
+      "timer_seconds": 10800,
+      "ingredients_used": [
+        "a508081f-3d74-5ee2-98bd-4e79554b7dd5",
+        "62bc485f-430f-5840-b05a-ae2a7a0b36c3",
+        "47d8622e-3356-51df-9ad5-97e868fa37a8"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Season well with salt, but only after a good 2 hours.",
+      "timer_seconds": 7200,
+      "ingredients_used": [
+        "159ce50c-7c66-59e7-95b2-992a602fab2e"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Once the meat has softened, remove it from the pan and keep it warm in some of the liquid from the soup. Season the remainder of the soup again with salt to taste, and strain it (optional). Serve with semolina dumplings or \"Frittaten\" (sliced pancakes - a traditional Austrian soup garnish) and freshly chopped chives as a starter. Afterwards, slice the boiled beef by cutting on the bias and arrange it on pre-heated plates, or serve in the hot soup in a decorative soup tureen.",
+      "ingredients_used": [
+        "159ce50c-7c66-59e7-95b2-992a602fab2e"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Serve with roast potatoes, a bread and horseradish mix, green beans in a dill sauce, or creamed spinach and chive sauce. If the root vegetables are to be served at the same time, cook some of them separately to be served al dente."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.austria.info/en-gb/recipes/tafelspitz/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

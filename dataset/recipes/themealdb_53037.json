@@ -1,0 +1,230 @@
+{
+  "id": "1c04ead9-0086-59eb-b942-474d82dd7c75",
+  "version": "1.0.0",
+  "title": "Coddled pork with cider",
+  "slug": "coddled-pork-with-cider",
+  "summary": "A traditional Irish stew-style dish featuring pork chops simmered with bacon, root vegetables, and cabbage in a cider and chicken stock base.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:59:06Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53037"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/7vpsfp1608588991.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/7vpsfp1608588991.jpg/small",
+      "alt_text": "Photo of Coddled pork with cider",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ftn_4mc-65o"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9afcb22c-d4b3-58a6-981b-5d7f3acffbaf",
+        "slug": "irish",
+        "name": "Irish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 pork chop with vegetables"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery",
+      "sulfites"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "f28bfc21-9172-5d3d-a989-17e8fce7714d",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "cc377b6f-79f4-583e-a978-2567597a34c1",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "Knob Butter",
+          "quantity": 1,
+          "unit": "knob",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "40e6c0f5-ec9d-57a8-b861-7c07828f6b6b",
+          "ingredient_id": "b0ed5e14-8c68-5f17-8716-0154f1badecf",
+          "name": "pork chops",
+          "display_text": "2 Pork Chops",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "9cd65789-bce2-594d-bfb6-126446a86307",
+          "ingredient_id": "956cfefc-d0f9-5c1f-9f20-d38a1e4dbdad",
+          "name": "bacon",
+          "display_text": "4 Bacon",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "af8b67ac-6a36-57d1-97b4-91f228d31c3e",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "2 Potatoes",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "9c043ca1-5957-5ead-8147-6c23fc7ac141",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "1 Carrots",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d96126db-7949-505b-b550-baa6973f7c50",
+          "ingredient_id": "5d08caa9-b04f-5458-b5be-718012f0d133",
+          "name": "swede",
+          "display_text": "1/2 Swede",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "75222c6f-82e8-58e0-8e65-9da766d3d413",
+          "ingredient_id": "8604c41c-a935-5634-b405-fed806fe806b",
+          "name": "cabbage",
+          "display_text": "1/2 Cabbage",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "26742ec5-b186-5b4e-b313-bf0450891a62",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "1 Bay Leaf",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "174142eb-484d-5f25-ab93-b5763261dc02",
+          "ingredient_id": "047ce81f-a2e1-5ec4-bed5-c1bee1e6dfdd",
+          "name": "cider",
+          "display_text": "100ml Cider",
+          "quantity": 100.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "5f15b912-6b40-5318-883f-cbc398b4f7b6",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "100g Chicken Stock",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the butter in a casserole dish until sizzling, then fry the pork for 2-3 mins on each side until browned. Remove from the pan.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "cc377b6f-79f4-583e-a978-2567597a34c1"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Tip the bacon, carrot, potatoes and swede into the pan, then gently fry until slightly colored. Stir in the cabbage, sit the chops back on top, add the bay leaf, then pour over the cider and stock. Cover the pan, then leave everything to gently simmer for 20 mins until the pork is cooked through and the vegetables are tender.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "40e6c0f5-ec9d-57a8-b861-7c07828f6b6b",
+        "9cd65789-bce2-594d-bfb6-126446a86307",
+        "af8b67ac-6a36-57d1-97b4-91f228d31c3e",
+        "d96126db-7949-505b-b550-baa6973f7c50",
+        "75222c6f-82e8-58e0-8e65-9da766d3d413",
+        "26742ec5-b186-5b4e-b313-bf0450891a62",
+        "174142eb-484d-5f25-ab93-b5763261dc02"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Serve at the table spooned straight from the dish."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/irish-coddled-pork-cider"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

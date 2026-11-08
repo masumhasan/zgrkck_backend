@@ -1,0 +1,249 @@
+{
+  "id": "712e1620-89b0-553d-8a45-3927c26fc78c",
+  "version": "1.0.0",
+  "title": "Baba Ghanoush",
+  "slug": "baba-ghanoush",
+  "summary": "A Syrian smoky eggplant dip made by grilling eggplants until soft and mashing them with tahini, garlic, lemon juice, and yogurt.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:03:41Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53094"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/dlmh401760524897.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/dlmh401760524897.jpg/small",
+      "alt_text": "Photo of Baba Ghanoush",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/shorts/Mz-ZVfOA_ig"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "a8c10f43-1ba0-5839-9ba9-834872824efe",
+        "slug": "syrian",
+        "name": "Syrian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "courses": [
+      "side_dish",
+      "appetizer"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 30,
+    "rest_time_minutes": 25,
+    "total_time_minutes": 65
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1/2 cup of dip"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "tree_nuts",
+      "sesame"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "872f1152-7550-51fc-9a14-e21a28783e4a",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "65295294-1ec7-5684-8b2d-db01b44ffbb2",
+          "ingredient_id": "08b505fe-2af9-5025-98f3-845df35333e6",
+          "name": "egg plants",
+          "display_text": "4 large Egg Plants",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "222a948c-96c7-5da5-85f4-dcdf8ea2c121",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "51f4db22-bac7-5d0f-b074-f88618932b73",
+          "ingredient_id": "f60d2962-95b1-5ff5-80ec-2e8902992bc9",
+          "name": "kosher salt",
+          "display_text": "2 teaspoons Kosher Salt",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "c3683f67-9fbe-59b4-9f0e-a306e09881fa",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "1 Lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1cc77904-4c0c-5955-a542-557117e86ad7",
+          "ingredient_id": "dcf3c30f-4681-5154-b137-649120940259",
+          "name": "tahini",
+          "display_text": "3  tablespoons Tahini",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "3b98a8e3-35c6-5632-9cdc-430367e60a8a",
+          "ingredient_id": "96cc0c2b-795a-53be-a503-05d14e92b236",
+          "name": "extra virgin olive oil",
+          "display_text": "3  tablespoons Extra Virgin Olive Oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "72e6a5a0-d456-5962-86e7-d547f9379767",
+          "ingredient_id": "ba22b73d-e619-5bc7-a859-f65b683613fe",
+          "name": "greek yogurt",
+          "display_text": "2 tablespoons Greek Yogurt",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "0b087e3d-b027-5348-8b33-84b3096c18c8",
+          "ingredient_id": "97dd86b9-4ad7-5a3a-bc6c-86485409c325",
+          "name": "cayenne pepper",
+          "display_text": "1 pinch Cayenne Pepper",
+          "quantity": 1.0,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "c3658d38-b836-5776-87bf-6102d802f1dd",
+          "ingredient_id": "0e838047-684d-55cb-884e-e7872e0e96c4",
+          "name": "mint",
+          "display_text": "1 Leaf Mint",
+          "quantity": 1.0,
+          "unit": "leaf",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "321992f8-0b48-5965-a2de-34ec181eacf6",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "2 tablespoons Parsley",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Prick the surface of the skin of eggplants several times with the tip of a knife."
+    },
+    {
+      "step_number": 2,
+      "instruction": "Place eggplants directly on grill. Turn frequently with tongs while skin chars. Cook until eggplants have collapsed and are very soft, 25 to 30 minutes. Transfer to a bowl and cover tightly with aluminum foil and allow to cool, about 15 minutes."
+    },
+    {
+      "step_number": 3,
+      "instruction": "When eggplants are cool enough to handle, split them in half and scrape flesh into a colander placed over a bowl. Drain 5 or 10 minutes.",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 4,
+      "instruction": "Transfer eggplant to mixing bowl. Add crushed garlic and salt; mash until creamy but with a little texture, about 5 minutes. Whisk in lemon juice, tahini, olive oil, and cayenne pepper. Stir in yogurt.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "222a948c-96c7-5da5-85f4-dcdf8ea2c121",
+        "51f4db22-bac7-5d0f-b074-f88618932b73",
+        "c3683f67-9fbe-59b4-9f0e-a306e09881fa",
+        "1cc77904-4c0c-5955-a542-557117e86ad7",
+        "72e6a5a0-d456-5962-86e7-d547f9379767",
+        "0b087e3d-b027-5348-8b33-84b3096c18c8"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Cover bowl with plastic wrap and refrigerate until completely chilled. Stir in mint and parsley, and taste to adjust seasonings before serving.",
+      "ingredients_used": [
+        "c3658d38-b836-5776-87bf-6102d802f1dd",
+        "321992f8-0b48-5965-a2de-34ec181eacf6"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.allrecipes.com/recipe/244553/chef-johns-baba-ghanoush/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

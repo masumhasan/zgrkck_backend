@@ -1,0 +1,205 @@
+{
+  "id": "bf4ab7b2-43ff-5c0c-9c29-7f734fa70be0",
+  "version": "1.0.0",
+  "title": "Bajan Salt Bread Recipe",
+  "slug": "bajan-salt-bread-recipe",
+  "summary": "A traditional Barbadian bread characterized by its firm texture and savory flavor profile. These rolls are made using a simple yeast dough and baked until golden brown.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:35:49Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53456"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/sr7chd1780264758.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/sr7chd1780264758.jpg/small",
+      "alt_text": "Photo of Bajan Salt Bread Recipe",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "71413a66-c12a-5aba-a038-e60b4b3fcacc",
+        "slug": "barbadian",
+        "name": "Barbadian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "snack"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 30,
+    "rest_time_minutes": 90,
+    "total_time_minutes": 135
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "portions",
+    "serving_size_description": "1 fist-sized roll"
+  },
+  "allergens": {
+    "contains": [
+      "gluten"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "e2d7879b-2b21-59da-a4c4-d2f6b85203fe",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "14751a89-cf27-50d7-9442-c389df61470a",
+          "ingredient_id": "28b21302-909b-59d3-a88f-a543e26ac34f",
+          "name": "yeast",
+          "display_text": "2 tubs Yeast",
+          "quantity": 2.0,
+          "unit": "tub",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "4253d0ba-085e-5a1e-a188-466f1739d25c",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "2 tsp Sugar",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "c4895fcb-d8c6-5624-932a-0c42d8df7f61",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "f44c5384-ad31-5284-ae17-723ec46e85bb",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "2 tablespoons Vegetable Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "2f5cbeb4-d7a2-52dd-ade9-67ae5cea9baf",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "6 cups Flour",
+          "quantity": 6.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 1440.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "5f7089f0-17a6-565b-9bb0-b216bd2652e6",
+          "ingredient_id": "390767a5-b5bd-56c6-93dd-03bf9dcc5356",
+          "name": "warm water",
+          "display_text": "2 1/2 cups Warm Water",
+          "quantity": 2.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 600.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Sift half the flour, mix with salt and yeast in a large mixing bowl, and slowly add warm water until the mixture forms a stiff dough. Add more sifted flour until you have a stiff enough dough to knead.",
+      "ingredients_used": [
+        "14751a89-cf27-50d7-9442-c389df61470a",
+        "c4895fcb-d8c6-5624-932a-0c42d8df7f61",
+        "2f5cbeb4-d7a2-52dd-ade9-67ae5cea9baf",
+        "5f7089f0-17a6-565b-9bb0-b216bd2652e6"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Lightly flour the work surface, knead the dough for 10 minutes until it is smooth and elastic, and then place it in a greased bowl. Now place the bowl warmly for 40-50 minutes until it has doubled. You know the dough is ready when you poke a finger, and the indentation remains.",
+      "ingredients_used": [
+        "2f5cbeb4-d7a2-52dd-ade9-67ae5cea9baf"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Preheat oven to 425 degrees F or 220 degrees C.",
+      "temperature": {
+        "value": 425,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 4,
+      "instruction": "Now divide the dough into 12 equal portions, roll each into a fist size ball, and place on a greased baking sheet. Now place in a warm place again for a further 40 minutes or again until the dough has doubled in size.",
+      "timer_seconds": 2400
+    },
+    {
+      "step_number": 5,
+      "instruction": "Now place in the oven’s center and bake for 25-30 minutes until golden brown rolls sound hollow when tapped.",
+      "timer_seconds": 1800
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.totallybarbados.com/articles/barbados-recipes/bajan-salt-bread-recipe/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

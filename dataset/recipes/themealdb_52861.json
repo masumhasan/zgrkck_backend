@@ -1,0 +1,261 @@
+{
+  "id": "a824cdb1-de4a-58fd-a321-2f909ed92faf",
+  "version": "1.0.0",
+  "title": "Peanut Butter Cheesecake",
+  "slug": "peanut-butter-cheesecake",
+  "summary": "A creamy cheesecake featuring a peanut cookie base, a ricotta and peanut butter filling, and a whipped cream topping with peanut brittle.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:43:58Z",
+  "updated_at": "2026-10-16T10:22:49Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52861"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/qtuuys1511387068.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/qtuuys1511387068.jpg/small",
+      "alt_text": "Photo of Peanut Butter Cheesecake",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=QSTsturcyL0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b95bb9d4-1e18-5623-a50f-942c7d140e82",
+        "slug": "american",
+        "name": "American"
+      }
+    ],
+    "tags": [
+      "cake",
+      "desert",
+      "speciality",
+      "treat",
+      "unhealthy"
+    ],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 5,
+    "rest_time_minutes": 240,
+    "total_time_minutes": 265
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "servings",
+    "serving_size_description": "1 slice of cheesecake"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "peanuts"
+    ],
+    "free_from": [
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "65e92a97-0d1c-5907-a89f-94fafaeeff5b",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "9bee2d15-6999-56c0-a586-4f5f4775e969",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "50g Butter",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "503e73bd-29ab-5860-bd28-d6b3b5f5730d",
+          "ingredient_id": "a4971883-5336-570b-87dd-6cb3d4541250",
+          "name": "peanut cookies",
+          "display_text": "175g Peanut Cookies",
+          "quantity": 175.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 175.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "ed5d4374-030e-50d4-a061-3f93ba2d93bb",
+          "ingredient_id": "aedfe8f7-f59b-5f4c-a5b9-7c1dfcfd8fc7",
+          "name": "gelatine leafs",
+          "display_text": "5 Gelatine Leafs",
+          "quantity": 5.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "8ea0f4fe-cb35-55c5-be79-19ebf90d7f59",
+          "ingredient_id": "8d0de567-62a1-52a2-bfda-c80f966ac532",
+          "name": "ricotta",
+          "display_text": "500g Ricotta",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "74e0fcc2-21d2-5b40-a61e-f603050ecbd5",
+          "ingredient_id": "7d1aec85-0aaa-5080-9fc7-4d5396f799f9",
+          "name": "peanut butter",
+          "display_text": "175g Peanut Butter",
+          "quantity": 175.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 175.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "b6c1a967-d869-5207-b90c-a4067a0e8da9",
+          "ingredient_id": "c41764f1-4930-56cd-9515-4a677dd7e880",
+          "name": "golden syrup",
+          "display_text": "175g Golden Syrup",
+          "quantity": 175.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 175.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "5221e2ce-f489-57a7-b5e3-aad6579302af",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "150ml Milk",
+          "quantity": 150.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "2e017436-fb03-5149-a2cc-50c65927286e",
+          "ingredient_id": "81b5723b-47de-5017-987f-cdcc95dd362b",
+          "name": "double cream",
+          "display_text": "275ml Double Cream",
+          "quantity": 275.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 275.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "eb9a884a-b1d1-5c07-9c1c-15ad9905e5c9",
+          "ingredient_id": "093150ba-8070-5416-a1d8-9cd088b9e3da",
+          "name": "light brown soft sugar",
+          "display_text": "2 tblsp Light Brown Soft Sugar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "0cd2e408-15e5-5093-aa12-89c44480bc21",
+          "ingredient_id": "5e7c00f7-53a8-5a90-871f-0e791fab2ee9",
+          "name": "peanut brittle",
+          "display_text": "Crushed Peanut Brittle",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "crushed",
+          "is_optional": false,
+          "category": "nuts_seeds"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Oil and line a 20cm round loose- bottomed cake tin with cling film, making it as smooth as possible. Melt the butter in a pan. Crush the biscuits by bashing them in a bag with a rolling pin, then stir them into the butter until very well coated. Press the mixture firmly into the base of the tin and chill.",
+      "ingredients_used": [
+        "9bee2d15-6999-56c0-a586-4f5f4775e969",
+        "74e0fcc2-21d2-5b40-a61e-f603050ecbd5"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Soak the gelatine in water while you make the filling. Tip the ricotta into a bowl, then beat in the peanut butter and syrup. Ricotta has a slightly grainy texture so blitz until smooth with a stick blender for a smoother texture if you prefer.",
+      "ingredients_used": [
+        "9bee2d15-6999-56c0-a586-4f5f4775e969",
+        "8ea0f4fe-cb35-55c5-be79-19ebf90d7f59",
+        "74e0fcc2-21d2-5b40-a61e-f603050ecbd5",
+        "b6c1a967-d869-5207-b90c-a4067a0e8da9"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Take the soaked gelatine from the water and squeeze dry. Put it into a pan with the milk and heat very gently until the gelatine dissolves. Beat into the peanut mixture, then tip onto the biscuit base. Chill until set.",
+      "ingredients_used": [
+        "5221e2ce-f489-57a7-b5e3-aad6579302af"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "To freeze, leave in the tin and as soon as it is solid, cover the surface with cling film, then wrap the tin with cling film and foil."
+    },
+    {
+      "step_number": 5,
+      "instruction": "To defrost, thaw in the fridge overnight."
+    },
+    {
+      "step_number": 6,
+      "instruction": "To serve, carefully remove from the tin. Whisk the cream with the sugar until it holds its shape, then spread on top of the cheesecake and scatter with the peanut brittle.",
+      "ingredients_used": [
+        "0cd2e408-15e5-5093-aa12-89c44480bc21"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/1759649/peanut-butter-cheesecake"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

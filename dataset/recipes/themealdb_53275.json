@@ -1,0 +1,217 @@
+{
+  "id": "49492773-e7d3-5aec-92fb-125f0bac90d3",
+  "version": "1.0.0",
+  "title": "Sweet potato salad",
+  "slug": "sweet-potato-salad",
+  "summary": "A roasted sweet potato salad dressed with a honey and sherry vinegar vinaigrette, finished with fresh chives and spring onions.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:19:54Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53275"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/z458v91763817681.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/z458v91763817681.jpg/small",
+      "alt_text": "Photo of Sweet potato salad",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=RkiKSO0IuVQ"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4c480df7-c067-5e9c-ac08-d8d49afa7f51",
+        "slug": "turkish",
+        "name": "Turkish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "courses": [
+      "salad",
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "picnic",
+      "summer_refreshment"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 35,
+    "rest_time_minutes": 15,
+    "total_time_minutes": 60
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "portions",
+    "serving_size_description": "a bowl of roasted sweet potato salad"
+  },
+  "allergens": {
+    "contains": [
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "272a5bb9-16c4-583e-b251-6cd051322dcd",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "045b1ddd-f186-5378-9d7b-1d2912071e61",
+          "ingredient_id": "47da68fd-6de3-548e-856a-a2034af5866f",
+          "name": "sweet potatoes",
+          "display_text": "1200g Sweet Potatoes",
+          "quantity": 1200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 1200.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "43358c8a-52ab-5951-a725-ac9b395eed95",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 tablespoon Olive Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "4d2547f2-bcf1-5dc4-bcda-dc4ba57fc0ea",
+          "ingredient_id": "d22accc4-e562-59bf-9cbb-1ad38d461e99",
+          "name": "shallots",
+          "display_text": "2 Shallots",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "5ee25490-c623-54de-a64b-e35965977225",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "4 sliced Spring Onions",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4c9bc4b2-e0cd-525e-aaa2-50181a50106b",
+          "ingredient_id": "85291054-0b21-5fc5-ac52-86bee20f4bbc",
+          "name": "chives",
+          "display_text": "Bunch Chives",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "bunch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d33b79e1-8e37-501c-b6dd-986693e6b6a9",
+          "ingredient_id": "284d3e0d-9e9f-56ee-95b4-7e7dc1b66214",
+          "name": "sherry vinegar",
+          "display_text": "5 tablespoons Sherry vinegar",
+          "quantity": 5.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "99fc0d0f-68bc-5869-9bdd-c20f9b4bbae6",
+          "ingredient_id": "96cc0c2b-795a-53be-a503-05d14e92b236",
+          "name": "extra virgin olive oil",
+          "display_text": "2 tablespoons Extra Virgin Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "adac02f7-eaf5-51ac-a49f-1d802231f7ec",
+          "ingredient_id": "7ad11d6e-3134-5831-97df-4db2a67589f7",
+          "name": "honey",
+          "display_text": "2 tablespoons Honey",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 200C/180C fan/gas 6. Toss the sweet potato chunks with the olive oil and some seasoning, and spread on a baking parchment-lined baking sheet. Roast for 30 - 35 mins until tender and golden. Cool at room temperature.",
+      "timer_seconds": 2100,
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "43358c8a-52ab-5951-a725-ac9b395eed95"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "When just about cool whisk together all the dressing ingredients with a little more seasoning and gently toss through the potato chunks – use your hands to avoid breaking them up."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/sweet-potato-salad"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

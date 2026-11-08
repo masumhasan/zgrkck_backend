@@ -1,0 +1,293 @@
+{
+  "id": "b0981a14-fa44-5309-9427-c7447ef4c21e",
+  "version": "1.0.0",
+  "title": "Num E (Sticky Rice Balls in Sugar Syrup and Coconut Cream)",
+  "slug": "num-e-sticky-rice-balls-in-sugar-syrup-and-coconut-cream",
+  "summary": "A Cambodian dessert consisting of colorful, chewy sticky rice balls made with natural vegetable dyes, served in a sweet coconut cream syrup with longan and coconut.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:32:49Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53422"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/5572yt1779739329.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/5572yt1779739329.jpg/small",
+      "alt_text": "Photo of Num E (Sticky Rice Balls in Sugar Syrup and Coconut Cream)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=RDlkKhMho90"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9366172c-dff3-589e-9436-4be7c7f595b3",
+        "slug": "cambodian",
+        "name": "Cambodian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert",
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 40,
+    "cook_time_minutes": 25,
+    "rest_time_minutes": 10,
+    "total_time_minutes": 75
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "bowls",
+    "serving_size_description": "a small bowl of rice balls in syrup"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "49fca297-62e0-598c-b13a-047b8c7821db",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "ef02665c-b1b8-530c-9a6d-a0e8a6cf3011",
+          "ingredient_id": "ad7bd704-9b55-5a89-901e-ad530a9e3231",
+          "name": "sticky rice flour",
+          "display_text": "700g Sticky Rice Flour",
+          "quantity": 700.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 700.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "64637adf-03e5-503c-a0e3-6ee7cb404b92",
+          "ingredient_id": "2ebe13f8-09b0-5442-9bb8-aedb29388fd2",
+          "name": "pandan leaves",
+          "display_text": "7 Pandan Leaves",
+          "quantity": 7.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "17ca2a68-ba11-50a4-88f9-9e263ff19436",
+          "ingredient_id": "5eb26a00-afde-5f0c-84ea-6db9840afa2c",
+          "name": "beetroot",
+          "display_text": "1/4 Beetroot",
+          "quantity": 0.25,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b2630d8b-e861-5879-b8d4-7ca9dea8f406",
+          "ingredient_id": "e046e936-ea1f-5501-bc83-8d8341cc097c",
+          "name": "pumpkin",
+          "display_text": "100g Pumpkin",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "bbc02063-b295-53e3-9934-3d74672b54ff",
+          "ingredient_id": "893f57e7-9fe9-5df4-b54e-7aef382d4813",
+          "name": "taro",
+          "display_text": "100g Taro",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "880f143e-c6a3-5171-867a-fbd518209dbb",
+          "ingredient_id": "a4c433c5-81f3-573a-bcc6-520a689cd200",
+          "name": "longan",
+          "display_text": "100g Longan",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "993cb323-2bd6-558e-bd26-a692c9537045",
+          "ingredient_id": "739769d2-a7f0-5fac-98c1-26e2aa7ce44e",
+          "name": "coconut",
+          "display_text": "200g Coconut",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "7c93515f-67c8-5710-a221-bcea26898a85",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "2L Water",
+          "quantity": 2.0,
+          "unit": "liter",
+          "is_optional": false,
+          "metric_quantity": 2.0,
+          "metric_unit": "liter",
+          "category": "beverages"
+        },
+        {
+          "id": "24d8af74-e908-52a1-b3da-1cd3f855383f",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1 L Water",
+          "quantity": 1.0,
+          "unit": "liter",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "liter",
+          "category": "beverages"
+        },
+        {
+          "id": "d713f032-4f97-5738-9ccb-52a31fd7ee43",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/2 tsp Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "0a3eea72-26cb-517a-8a49-5ef49bf5e4a2",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "5 Slices Ginger",
+          "quantity": 5.0,
+          "unit": "slice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "8cb5c41a-6bbf-58b1-a769-b60e7c7a13ef",
+          "ingredient_id": "0f3e4fb6-2462-5ac9-9904-fadac99ad6a7",
+          "name": "coconut cream",
+          "display_text": "3 Cups Coconut Cream",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Place coconut cream in a small pot over low heat. Cut 3 pandan leaves into large strips and add to the pot with brown sugar, salt, and ginger. Bring to a boil, then cook 2 more minutes. Turn off the heat, remove the pandan leaves, and let cool.",
+      "ingredients_used": [
+        "64637adf-03e5-503c-a0e3-6ee7cb404b92",
+        "993cb323-2bd6-558e-bd26-a692c9537045",
+        "d713f032-4f97-5738-9ccb-52a31fd7ee43",
+        "0a3eea72-26cb-517a-8a49-5ef49bf5e4a2",
+        "8cb5c41a-6bbf-58b1-a769-b60e7c7a13ef"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Chop the remaining 4 pandan leaves, blend with ¼ cup water until very green, then strain well. In a bowl, place 200 g sticky rice flour, add a little pandan liquid, and knead until smooth.",
+      "ingredients_used": [
+        "ef02665c-b1b8-530c-9a6d-a0e8a6cf3011",
+        "64637adf-03e5-503c-a0e3-6ee7cb404b92",
+        "7c93515f-67c8-5710-a221-bcea26898a85",
+        "24d8af74-e908-52a1-b3da-1cd3f855383f"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Peel and chop beetroot, blend with ¼ cup water until red, then strain well. In a bowl, place 200 g sticky rice flour, add a little beetroot liquid, and knead until smooth.",
+      "ingredients_used": [
+        "ef02665c-b1b8-530c-9a6d-a0e8a6cf3011",
+        "17ca2a68-ba11-50a4-88f9-9e263ff19436",
+        "7c93515f-67c8-5710-a221-bcea26898a85",
+        "24d8af74-e908-52a1-b3da-1cd3f855383f"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Bring 3 liters of water to a boil in a medium–large pot. Divide each dough into small pieces, roll into balls about ⅓ the size of a ping pong ball, then drop into boiling water. When they float, remove and place them into fresh, icy water to keep them separate.",
+      "ingredients_used": [
+        "7c93515f-67c8-5710-a221-bcea26898a85",
+        "24d8af74-e908-52a1-b3da-1cd3f855383f"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Drain well, then place the mixed colored balls into the cooled coconut sugar syrup and stir. Serve in small bowls (add longan and shredded coconut as desired).",
+      "ingredients_used": [
+        "880f143e-c6a3-5171-867a-fbd518209dbb",
+        "993cb323-2bd6-558e-bd26-a692c9537045"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Add the coloring liquids gradually—each flour absorbs differently. You want a dough that’s smooth and pliable, not sticky."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.chefnak.com/sticky-rice-balls-in-coconut-syrup"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

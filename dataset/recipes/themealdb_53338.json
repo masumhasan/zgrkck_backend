@@ -1,0 +1,248 @@
+{
+  "id": "670044d4-01ba-5f8c-a397-ebd751858c2e",
+  "version": "1.0.0",
+  "title": "Date squares",
+  "slug": "date-squares",
+  "summary": "A classic Canadian dessert consisting of a crumbly oat crust and topping layered with a sweet, thickened date filling.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:25:35Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53338"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/u4scbo1764446514.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/u4scbo1764446514.jpg/small",
+      "alt_text": "Photo of Date squares",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=E0bOy1FWkXA"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "54838e2c-2c59-558b-8932-e019f7cc6d0c",
+        "slug": "canadian",
+        "name": "Canadian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "date_night",
+      "picnic"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 43,
+    "rest_time_minutes": 30,
+    "total_time_minutes": 88
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 square"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "f6a33d51-3f4c-5083-8c9c-d1a833f154c5",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "d09d228f-98ad-5018-916f-8f8b6c701eec",
+          "ingredient_id": "f87857af-b190-565b-a81b-5c2c01583295",
+          "name": "pitted dates",
+          "display_text": "2 1/2 cups Pitted Dates",
+          "quantity": 2.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 600.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "4d051452-0e06-5f22-b131-18caf5143b4a",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1 cup Water",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "cf0f35c5-b0e5-5554-a4a4-ca0eecb9e06e",
+          "ingredient_id": "1ad32b47-90dc-570b-9ae6-d231b0342095",
+          "name": "vanilla",
+          "display_text": "1 1/2 cup Vanilla",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "7440a92e-3ac4-5bb4-88da-f04bb4c736b3",
+          "ingredient_id": "8e77f694-66fc-5ca4-97f6-deb23c629202",
+          "name": "oats",
+          "display_text": "2 cups Oats",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "9e1f1de2-927f-5a27-b793-8145c7b6bb4e",
+          "ingredient_id": "d1e5ec78-b8c2-5649-962c-a9f67272ea92",
+          "name": "all purpose flour",
+          "display_text": "1 cup All purpose flour",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "60b68d1a-2727-5001-8fd1-7e48811345ab",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "1 cup Brown Sugar",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "329bc342-bb1f-5720-8b31-bf129f4f37a8",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1/2 tsp Baking Powder",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "e113d875-984b-5003-8685-5b7eaa466f6f",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/4 tsp Salt",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "a7cffa4e-6704-5237-8c42-68b2527340ff",
+          "ingredient_id": "bc46b2a6-8a59-50ee-a044-ce38bddb125c",
+          "name": "unsalted butter",
+          "display_text": "1 cup Unsalted Butter",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat oven to 350°F (180°C). Grease an 8-inch (20 cm) square baking pan.",
+      "temperature": {
+        "value": 350,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "To make the date filing: Combine the dates and water in a medium saucepan over high heat and bring to a boil. Reduce heat to low and simmer gently, stirring occasionally until the mixture thickens, around 6 to 8 minutes. Remove from heat, stir in vanilla and let cool. Set aside.",
+      "timer_seconds": 480,
+      "ingredients_used": [
+        "d09d228f-98ad-5018-916f-8f8b6c701eec",
+        "4d051452-0e06-5f22-b131-18caf5143b4a",
+        "cf0f35c5-b0e5-5554-a4a4-ca0eecb9e06e"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Combine rolled oats, flour, sugar, baking soda and salt in a food processor. Pulse 3 times (careful not to overmix, you don’t want the mixture to be powdery, just combined). Add butter and pulse again until the mixture is crumbly in pea-sized clumps. Transfer to a mixing bowl to thoroughly mix in the butter.",
+      "ingredients_used": [
+        "7440a92e-3ac4-5bb4-88da-f04bb4c736b3",
+        "e113d875-984b-5003-8685-5b7eaa466f6f",
+        "a7cffa4e-6704-5237-8c42-68b2527340ff"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Spread half of the oat mixture on the bottom of the prepared baking pan, pressing down to make a flat, equal bottom later. Add the date mixture over the crust and then spread evenly. Layer with the remaining oat mixture and press down to flatten the top layer."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Bake in the center of the oven until the top is golden brown, 30 to 35 minutes. Let cool completely in the pan before cutting and serving. Date Squares keep well, covered in the refrigerator for up to a week, and frozen for 2 to 3 months.",
+      "timer_seconds": 2100
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://canadianfoodfocus.org/recipes/classic-canadian-dishes-date-squares/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

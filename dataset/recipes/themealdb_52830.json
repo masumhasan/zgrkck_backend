@@ -1,0 +1,335 @@
+{
+  "id": "ea75a3b9-0a11-511f-8bd7-25c4548422e6",
+  "version": "1.0.0",
+  "title": "Crock Pot Chicken Baked Tacos",
+  "slug": "crock-pot-chicken-baked-tacos",
+  "summary": "Chicken breasts are slow-cooked in vinaigrette and spices before being shredded and layered into hard taco shells with refried beans and cheese, then baked until melted.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:41:12Z",
+  "updated_at": "2026-10-16T10:22:47Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52830"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ypxvwv1505333929.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ypxvwv1505333929.jpg/small",
+      "alt_text": "Photo of Crock Pot Chicken Baked Tacos",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=oqL0mLDBzS4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d92b5023-5f76-56a5-b92d-341aaabd6a80",
+        "slug": "mexican",
+        "name": "Mexican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 255,
+    "total_time_minutes": 275
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "c334c502-d397-508b-aced-fd442f15ba7f",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "e58a0a21-16f2-5f48-a61a-c1cccfbe8706",
+          "ingredient_id": "e23191a1-4966-5b21-a6f1-8df6f50b79db",
+          "name": "chicken breasts",
+          "display_text": "4 - 6 Chicken Breasts",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "a036ee4f-20cc-5093-b53c-61600c6ea87c",
+          "ingredient_id": "3338bf62-c30d-5322-aaec-ada42b54589b",
+          "name": "vinaigrette dressing",
+          "display_text": "1 bottle Vinaigrette Dressing",
+          "quantity": 1.0,
+          "unit": "bottle",
+          "is_optional": false,
+          "category": "condiments"
+        },
+        {
+          "id": "2b63d8c4-457d-509b-bc9a-e7f79ec9f4e5",
+          "ingredient_id": "be79b3bd-bc90-5d15-aab2-4f95774b8de1",
+          "name": "cumin",
+          "display_text": "1½ tablespoon Cumin",
+          "quantity": 1.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 22.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d0379059-4676-5c80-9299-daed900c85fd",
+          "ingredient_id": "d8dee4f9-ce24-510b-a43d-b7968606921e",
+          "name": "smoked paprika",
+          "display_text": "1 tablespoon Smoked Paprika",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "563682b9-c6a4-59c9-b130-d1a502f6c5bd",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 teaspoon Garlic",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "8488f0dc-2f37-5bf8-b5b6-74430c044a94",
+          "ingredient_id": "41221275-05ff-5589-a164-58d8a5328774",
+          "name": "refried beans",
+          "display_text": "1 can Refried Beans",
+          "quantity": 1.0,
+          "unit": "can",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "4566a24d-e0c0-5352-a6c2-05997f7e828f",
+          "ingredient_id": "e3b9a158-c98c-5d34-af81-a44ae4a1c339",
+          "name": "hard taco shells",
+          "display_text": "12 Hard Taco Shells",
+          "quantity": 12.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "cdecd5fd-de10-5fe8-8390-deef622655ed",
+          "ingredient_id": "629b57e9-5d88-58bc-9c06-8841209b8168",
+          "name": "shredded mexican cheese",
+          "display_text": "2 cups Shredded Mexican Cheese",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "eb56f6ca-5a5c-5dd2-ab15-c9c8293a7c48",
+          "ingredient_id": "4797e840-d51f-51ae-9159-e0e4114c875e",
+          "name": "grape tomatoes",
+          "display_text": "Halved Grape Tomatoes",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "halved",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "26b2ad0c-7d19-540c-8689-ccf4cc7951c6",
+          "ingredient_id": "eef793c9-14cb-5fa6-bd09-7094600a8921",
+          "name": "jalapeno",
+          "display_text": "Sliced and Seeded Jalapeno",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "sliced and seeded",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c574e853-da23-5fb6-9c07-1c3b39fc11f4",
+          "ingredient_id": "eb7e0cb5-be44-5074-93b2-98cbac9baf42",
+          "name": "avocado",
+          "display_text": "Peeled and Sliced Avocado",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "peeled and sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c8b7f3cc-7367-576e-92ac-db0df4650fbd",
+          "ingredient_id": "24f98eb0-fa70-521c-9520-2df69e9f8854",
+          "name": "green salsa",
+          "display_text": "2 tablespoons Green Salsa",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "0180f3f9-9a3d-5aca-918b-2b3c35791ea8",
+          "ingredient_id": "6ca777b1-4e80-5a4b-8ffe-88c954e2cc8a",
+          "name": "sour cream",
+          "display_text": "3 tablespoons Sour Cream",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "62b3449a-3494-570a-9300-2eaaa7b82b68",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "1 tablespoon Milk",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Put the uncooked chicken breasts in the crock pot. Pour the full bottle of salad dressing over the chicken. Sprinkle the rest of the ingredients over the top and mix them in a bit with a spoon.",
+      "ingredients_used": [
+        "e58a0a21-16f2-5f48-a61a-c1cccfbe8706",
+        "a036ee4f-20cc-5093-b53c-61600c6ea87c"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Cover your crock pot with the lid and cook on high for 4 hours.",
+      "timer_seconds": 14400
+    },
+    {
+      "step_number": 3,
+      "instruction": "Remove all the chicken breasts from the crock pot and let cool.",
+      "ingredients_used": [
+        "e58a0a21-16f2-5f48-a61a-c1cccfbe8706"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Shred the chicken breasts and move to a glass bowl.",
+      "ingredients_used": [
+        "e58a0a21-16f2-5f48-a61a-c1cccfbe8706"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Pour most of the liquid over the shredded chicken."
+    },
+    {
+      "step_number": 6,
+      "instruction": "FOR THE TACOS:"
+    },
+    {
+      "step_number": 7,
+      "instruction": "Make the guacamole sauce by mixing the avocado and green salsa together. Pour the guacamole mixture through a strainer until smooth and transfer to a squeeze bottle. Cut the tip off the lid of the squeeze bottle to make the opening more wide if needed.",
+      "ingredients_used": [
+        "c574e853-da23-5fb6-9c07-1c3b39fc11f4",
+        "c8b7f3cc-7367-576e-92ac-db0df4650fbd"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Make the sour cream sauce by mixing the sour cream and milk together until you get a more liquid sour cream sauce. Transfer to a squeeze bottle.",
+      "ingredients_used": [
+        "0180f3f9-9a3d-5aca-918b-2b3c35791ea8",
+        "62b3449a-3494-570a-9300-2eaaa7b82b68"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "In a 9x 13 glass baking dish, fill all 12+ tacos with a layer of refried beans, cooked chicken and shredded cheese.",
+      "ingredients_used": [
+        "8488f0dc-2f37-5bf8-b5b6-74430c044a94"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "Bake at 450 for 10-15 minutes just until the cheese is melted and bubbling.",
+      "timer_seconds": 900
+    },
+    {
+      "step_number": 11,
+      "instruction": "Out of the oven top all the tacos with the sliced grape tomaotes, jalapeno and cilantro.",
+      "ingredients_used": [
+        "26b2ad0c-7d19-540c-8689-ccf4cc7951c6"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Finish with a drizzle of guacamole and sour cream.",
+      "ingredients_used": [
+        "0180f3f9-9a3d-5aca-918b-2b3c35791ea8"
+      ]
+    },
+    {
+      "step_number": 13,
+      "instruction": "Enjoy!"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://www.nobiggie.net/crock-pot-chicken-baked-tacos/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

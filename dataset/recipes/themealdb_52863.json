@@ -1,0 +1,310 @@
+{
+  "id": "cd53d866-0322-5078-80c6-83efb2947c95",
+  "version": "1.0.0",
+  "title": "Vegetarian Casserole",
+  "slug": "vegetarian-casserole",
+  "summary": "A hearty British-style vegetable casserole featuring lentils, peppers, and root vegetables simmered in a spiced tomato sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:44:11Z",
+  "updated_at": "2026-10-16T10:22:49Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52863"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/vptwyt1511450962.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/vptwyt1511450962.jpg/small",
+      "alt_text": "Photo of Vegetarian Casserole",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=oHmKE9mWtWM"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "casserole",
+      "vegetarian"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 40,
+    "total_time_minutes": 55
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of casserole"
+  },
+  "allergens": {
+    "contains": [
+      "celery"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "gluten"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "505d6226-d4a8-5e51-9182-05b6f0058cdc",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "46cc0a85-6de1-5fd0-b2ef-ff78ef13a189",
+          "ingredient_id": "bf553a6e-4d85-50e4-a27c-bb7d90ec509c",
+          "name": "rapeseed oil",
+          "display_text": "1 Rapeseed Oil",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "138d7ed0-5668-5a5c-9365-c27e85a837f8",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "06be5a7d-6a38-50ab-9dcb-b7069dd5dbcc",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 cloves Garlic",
+          "quantity": 3.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "287d2171-8287-5a7b-af78-c4fe77a68000",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1 tsp Paprika",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "63d41b20-e95f-59ef-b8bc-b626a21cf26b",
+          "ingredient_id": "be79b3bd-bc90-5d15-aab2-4f95774b8de1",
+          "name": "cumin",
+          "display_text": "½ tsp Cumin",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "30bcd8c2-ecff-5a89-a20a-7b99c8e92a5e",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "1 tblsp Thyme",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "bde025c9-8cfd-5b35-9264-c35e7cf2b968",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "3 Medium Carrots",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0e350bb1-fe67-53aa-bd3c-2f3e94e92ae0",
+          "ingredient_id": "ed4951b3-26e6-5bb4-a5af-9c61a46687a0",
+          "name": "celery",
+          "display_text": "2 small stalks Celery",
+          "quantity": 2.0,
+          "unit": "stalk",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "101ff86a-4af6-5e24-9489-032222153fa9",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1 Red Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1effce55-43ae-5973-93e8-de8fe6aa6ad4",
+          "ingredient_id": "ca16fa3e-7db9-5c18-acf7-0540f4e86a4d",
+          "name": "yellow pepper",
+          "display_text": "1 Yellow Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1a3bf753-4edb-5edf-b455-0bb1f6789d3d",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "2 x 400g tins Tomato",
+          "quantity": 2.0,
+          "unit": "can",
+          "preparation": "400g tins",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "57d3a713-d502-532f-a930-65d28a0ba9b5",
+          "ingredient_id": "7987b479-6a71-5b57-9ff9-daff64e561ca",
+          "name": "vegetable stock cube",
+          "display_text": "250ml Vegetable Stock Cube",
+          "quantity": 250.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "2452af4c-6d93-5a9e-9803-f203a6422777",
+          "ingredient_id": "868972c7-da7a-5cf2-864d-fe1f7aada74b",
+          "name": "courgettes",
+          "display_text": "2 sliced Courgettes",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "8ef7e5ca-acbf-59e0-97ca-bc085e6e2c7c",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "2 sprigs Thyme",
+          "quantity": 2.0,
+          "unit": "sprig",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "439061ab-5b39-54b8-b7e2-7b92f974f5b3",
+          "ingredient_id": "2a5e22bd-f74d-56d3-8c07-5b7495ee1f1e",
+          "name": "lentils",
+          "display_text": "250g Lentils",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oil in a large, heavy-based pan. Add the onions and cook gently for 5 – 10 mins until softened.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "138d7ed0-5668-5a5c-9365-c27e85a837f8"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the garlic, spices, dried thyme, carrots, celery and peppers and cook for 5 minutes.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "06be5a7d-6a38-50ab-9dcb-b7069dd5dbcc",
+        "30bcd8c2-ecff-5a89-a20a-7b99c8e92a5e",
+        "bde025c9-8cfd-5b35-9264-c35e7cf2b968",
+        "0e350bb1-fe67-53aa-bd3c-2f3e94e92ae0",
+        "8ef7e5ca-acbf-59e0-97ca-bc085e6e2c7c"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the tomatoes, stock, courgettes and fresh thyme and cook for 20 - 25 minutes.",
+      "timer_seconds": 1500,
+      "ingredients_used": [
+        "30bcd8c2-ecff-5a89-a20a-7b99c8e92a5e",
+        "1a3bf753-4edb-5edf-b455-0bb1f6789d3d",
+        "2452af4c-6d93-5a9e-9803-f203a6422777",
+        "8ef7e5ca-acbf-59e0-97ca-bc085e6e2c7c"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Take out the thyme sprigs. Stir in the lentils and bring back to a simmer. Serve with wild and white basmati rice, mash or quinoa.",
+      "ingredients_used": [
+        "30bcd8c2-ecff-5a89-a20a-7b99c8e92a5e",
+        "8ef7e5ca-acbf-59e0-97ca-bc085e6e2c7c",
+        "439061ab-5b39-54b8-b7e2-7b92f974f5b3"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/1993645/vegetarian-casserole"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

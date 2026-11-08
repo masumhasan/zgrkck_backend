@@ -1,0 +1,224 @@
+{
+  "id": "1db0cc5c-4db2-5bc7-861e-a2c672b805ef",
+  "version": "1.0.0",
+  "title": "Spanish rice & prawn one-pot",
+  "slug": "spanish-rice-prawn-one-pot",
+  "summary": "A one-pot Spanish-style rice dish featuring prawns, chorizo, and peppers cooked in a tomato base.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:11:37Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53184"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/sl6vqv1763335988.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/sl6vqv1763335988.jpg/small",
+      "alt_text": "Photo of Spanish rice & prawn one-pot",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=fhz1QjO1tB0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 16,
+    "total_time_minutes": 26
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of rice with prawns and chorizo"
+  },
+  "allergens": {
+    "contains": [
+      "shellfish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery",
+      "sulfites"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "e7952dd0-926b-5f1a-8ca3-e162a77da676",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "7fffea59-6db8-58f1-8f61-7ba8972c1162",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 sliced Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "15dc485c-2d5e-5a42-9a50-0355ccbc646a",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1 sliced Red Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "82163135-967b-5fe7-bc1b-26e57a803776",
+          "ingredient_id": "f86b83d4-879d-54bb-a883-73bbfa9228ba",
+          "name": "green pepper",
+          "display_text": "1 sliced Green Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d2c6e501-912d-5953-a321-77933ed5479d",
+          "ingredient_id": "d4235a95-0bb4-579b-8855-bbb8f4efeb46",
+          "name": "chorizo",
+          "display_text": "50g Chorizo",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "dae1f355-f804-5464-9d38-434328005c61",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves minced Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "minced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2d6f4b16-c65d-508e-8332-b3cc2ceffbc0",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 tblsp Olive Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "10829cb7-b31b-5520-8717-e1e8f1c33d37",
+          "ingredient_id": "83ffb65f-48c4-5295-bd29-b97975a1fcb1",
+          "name": "basmati rice",
+          "display_text": "250g Basmati Rice",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "475a53c2-3238-5759-883a-93f6d682f72d",
+          "ingredient_id": "5cf11297-0a5b-55fb-85b2-ff239b80e4f4",
+          "name": "tinned tomatos",
+          "display_text": "400g Tinned Tomatos",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "13023351-7c02-5a20-b9eb-98e8f4679f66",
+          "ingredient_id": "d2faf7d8-97cd-57b2-9aee-58261714f9d5",
+          "name": "prawns",
+          "display_text": "200g Prawns",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "seafood"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Boil the kettle. In a non-stick frying or shallow pan with a lid, fry the onion, peppers, chorizo and garlic in the oil over a high heat for 3 mins. Stir in the rice and chopped tomatoes with 500ml boiling water, cover, then cook over a high heat for 12 mins.",
+      "ingredients_used": [
+        "7fffea59-6db8-58f1-8f61-7ba8972c1162",
+        "d2c6e501-912d-5953-a321-77933ed5479d",
+        "dae1f355-f804-5464-9d38-434328005c61",
+        "10829cb7-b31b-5520-8717-e1e8f1c33d37"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Uncover, then stir – the rice should be almost tender. Stir in the prawns, with a splash more water if the rice is looking dry, then cook for another min until the prawns are just pink and rice tender.",
+      "ingredients_used": [
+        "10829cb7-b31b-5520-8717-e1e8f1c33d37",
+        "13023351-7c02-5a20-b9eb-98e8f4679f66"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/spanish-rice-prawn-one-pot"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

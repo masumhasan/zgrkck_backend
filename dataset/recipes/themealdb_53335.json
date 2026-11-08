@@ -1,0 +1,241 @@
+{
+  "id": "2b35c191-03ff-5e26-81ed-3def891ec73a",
+  "version": "1.0.0",
+  "title": "Jiggs Dinner",
+  "slug": "jiggs-dinner",
+  "summary": "A traditional Canadian meal consisting of salt beef, split pea pudding, and boiled root vegetables.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:25:19Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53335"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/z1tfnw1764443171.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/z1tfnw1764443171.jpg/small",
+      "alt_text": "Photo of Jiggs Dinner",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=w-rVGvZXVfs"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "54838e2c-2c59-558b-8932-e019f7cc6d0c",
+        "slug": "canadian",
+        "name": "Canadian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 160,
+    "marinating_time_minutes": 600,
+    "total_time_minutes": 775
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of beef, pea pudding, and boiled vegetables"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "d8918805-88cb-569b-9cbf-a6bb7f722c9e",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "b0dc1145-0a2b-5dce-811d-b7bd55969584",
+          "ingredient_id": "c2102b4e-a5b4-5bab-b7d5-bdfa5244ae7b",
+          "name": "beef",
+          "display_text": "2 Lbs Beef",
+          "quantity": 2.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 907.2,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "81c284f7-1268-5864-ab18-9845c563473d",
+          "ingredient_id": "40c396da-e418-53c3-b301-16cceca5cdb1",
+          "name": "yellow split peas",
+          "display_text": "1 cup Yellow Split Peas",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "a086fc32-cefb-5937-940b-832e4c56d1e4",
+          "ingredient_id": "8604c41c-a935-5634-b405-fed806fe806b",
+          "name": "cabbage",
+          "display_text": "1 head Cabbage",
+          "quantity": 1.0,
+          "unit": "head",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "36705595-3a46-5096-9d32-400a603754db",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "6 Carrots",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "adf98bfc-dd04-51f2-85da-dd504fdd69b5",
+          "ingredient_id": "f67eeee2-403f-5b6c-8fff-6c0b97cf53e0",
+          "name": "turnips",
+          "display_text": "1 large Turnips",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "cf215976-75cf-57d3-ad5e-873fd005ff8f",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "8 Potatoes",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3d38e229-6b72-541c-a9f5-6cbb20fd7b17",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "3  tablespoons Butter",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "b13448da-a133-5ef3-94d0-b9381fc61701",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "To taste Black Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "The night before, break salt beef into big chunks and soak in water overnight, at least 8-10 hours. Put split peas into a bowl and cover with water to soak overnight.",
+      "timer_seconds": 36000,
+      "ingredients_used": [
+        "b0dc1145-0a2b-5dce-811d-b7bd55969584",
+        "81c284f7-1268-5864-ab18-9845c563473d"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Drain the salt beef and place it into a large stockpot. Cover with fresh water, at least 6-7 liters. Place the split peas into a pease pudding canvas bag or triple layer of cheesecloth and tie, making sure to leave room for peas to expand inside the bag.",
+      "ingredients_used": [
+        "b0dc1145-0a2b-5dce-811d-b7bd55969584",
+        "81c284f7-1268-5864-ab18-9845c563473d"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Put the bag inside the pot, tying the strings to the outside handle so it doesn't stick to the bottom of the pot with the salt beef. Bring to a boil, then lower the heat and simmer for 2 hours.",
+      "timer_seconds": 7200,
+      "ingredients_used": [
+        "b0dc1145-0a2b-5dce-811d-b7bd55969584"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Remove the peas pudding bag and empty contents into a bowl, mixing with butter and pepper for taste. Set aside.",
+      "ingredients_used": [
+        "81c284f7-1268-5864-ab18-9845c563473d",
+        "3d38e229-6b72-541c-a9f5-6cbb20fd7b17"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Add your cabbage to the pot and boil for 20 more minutes. Then add turnip, carrots and potatoes then boil for 20 more, or until vegetables are tender.",
+      "ingredients_used": [
+        "a086fc32-cefb-5937-940b-832e4c56d1e4",
+        "36705595-3a46-5096-9d32-400a603754db",
+        "cf215976-75cf-57d3-ad5e-873fd005ff8f"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Remove salt beef and vegetables from the pot and put them on a platter.",
+      "ingredients_used": [
+        "b0dc1145-0a2b-5dce-811d-b7bd55969584"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Use the cooking liquid in two ways; as a pot liquor which some people like to drink or reduce it to make a jus or gravy to pour over the meal."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://canadianfoodfocus.org/recipes/classic-canadian-dishes-jiggs-dinner/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

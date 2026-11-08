@@ -1,0 +1,239 @@
+{
+  "id": "1233ecad-f90b-546d-80bf-4a936e0ed019",
+  "version": "1.0.0",
+  "title": "Tuna Nicoise",
+  "slug": "tuna-nicoise",
+  "summary": "A classic French salad featuring roasted potatoes, tuna, hard-boiled eggs, and fresh spinach tossed in a vinaigrette.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:43:10Z",
+  "updated_at": "2026-10-16T10:22:48Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52852"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/yypwwq1511304979.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/yypwwq1511304979.jpg/small",
+      "alt_text": "Photo of Tuna Nicoise",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=3_UAxkx0u6U"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "fe8f07a1-591f-5711-ae5b-f3c9afcc3e60",
+        "slug": "french",
+        "name": "French"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "salad"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 30,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 50
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a salad bowl with tuna, potatoes, and egg"
+  },
+  "allergens": {
+    "contains": [
+      "eggs",
+      "fish",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "f8ea2e61-d587-55bf-984b-ef45fe59eac4",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "80bc7138-a8e2-5a80-8b7a-87134295ecee",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "450g Potatoes",
+          "quantity": 450.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "2d764235-2685-560c-b1c3-58072cc6f8a4",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tblsp Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "1f3e9e09-1f5e-59a1-8f64-2cbf59e5e6b8",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "4 Eggs",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "90bab99d-852c-5367-9a38-bddb2c1d960d",
+          "ingredient_id": "38df984b-29a1-5431-8935-d850dfe8f8f7",
+          "name": "red wine vinegar",
+          "display_text": "1 tbls Red Wine Vinegar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "8f157228-f743-551a-ae0f-e56b20207300",
+          "ingredient_id": "36457c73-2562-5d44-b7a9-103c2cf3cd62",
+          "name": "capers",
+          "display_text": "2 tblsp Capers",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "5640dea1-076c-57de-8dd6-bec798513bf6",
+          "ingredient_id": "aa561384-0d26-5008-a25e-3ba9db4b2a3f",
+          "name": "sunflower oil",
+          "display_text": "50g Sunflower Oil",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "oils_fats"
+        },
+        {
+          "id": "24f2dc08-40df-5546-8984-3321a883b251",
+          "ingredient_id": "716f7639-3b59-56a7-9146-1819649ebdad",
+          "name": "red onions",
+          "display_text": "½ Red Onions",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3b63f6b1-498e-5a1d-8b8a-a521208de75f",
+          "ingredient_id": "d0dd13fa-8c7a-5af9-9e1d-3d7bfc0f68e8",
+          "name": "spinach",
+          "display_text": "100g Spinach",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "841bb4c9-fbe5-5305-9193-a6a0f434ca2f",
+          "ingredient_id": "fe75f1cb-e7bd-5163-83c7-78d6aa269e26",
+          "name": "tuna",
+          "display_text": "400g Tuna",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "fish"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 200C/fan 180C/gas 6. Toss the potatoes with 2 tsp oil and some seasoning. Tip onto a large baking tray, then roast for 20 mins, stirring halfway, until crisp, golden and cooked through.",
+      "timer_seconds": 1200,
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "80bc7138-a8e2-5a80-8b7a-87134295ecee"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Meanwhile, put eggs in a small pan of water, bring to the boil, then simmer for 8-10 mins, depending on how you like them cooked. Plunge into a bowl of cold water to cool for a few mins. Peel away the shells, then cut into halves.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "1f3e9e09-1f5e-59a1-8f64-2cbf59e5e6b8"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "In a large salad bowl, whisk together the remaining oil, red wine vinegar, capers and chopped tomatoes. Season, tip in the onion, spinach, tuna and potatoes, then gently toss together. Top with the eggs, then serve straight away.",
+      "ingredients_used": [
+        "80bc7138-a8e2-5a80-8b7a-87134295ecee",
+        "1f3e9e09-1f5e-59a1-8f64-2cbf59e5e6b8",
+        "90bab99d-852c-5367-9a38-bddb2c1d960d",
+        "8f157228-f743-551a-ae0f-e56b20207300",
+        "3b63f6b1-498e-5a1d-8b8a-a521208de75f",
+        "841bb4c9-fbe5-5305-9193-a6a0f434ca2f"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/9529/winter-tuna-nioise"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "id": "df746cc8-afbb-5341-9afc-037c9aee612e",
+  "version": "1.0.0",
+  "title": "Jamaican Curry Chicken Recipe",
+  "slug": "jamaican-curry-chicken-recipe",
+  "summary": "A traditional Jamaican dish featuring chicken thighs marinated in curry powder and aromatics, simmered with potatoes and scotch bonnet pepper.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:26:07Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53345"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/o5fuq51764789643.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/o5fuq51764789643.jpg/small",
+      "alt_text": "Photo of Jamaican Curry Chicken Recipe",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "2dfec5c8-490a-551c-9d2f-e8e21f706bda",
+        "slug": "jamaican",
+        "name": "Jamaican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "weeknight_dinner"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 55,
+    "marinating_time_minutes": 60,
+    "total_time_minutes": 135
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 portion of chicken and potatoes"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "391c5f25-7759-5640-82d1-69e0b6dca0f2",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "72d1239c-9824-5965-9810-1ec074aeb382",
+          "ingredient_id": "e0e4d032-0f9f-5908-ab90-db9a8ec5b68c",
+          "name": "chicken thighs",
+          "display_text": "2 Lbs Chicken Thighs",
+          "quantity": 2.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 907.2,
+          "metric_unit": "gram",
+          "category": "poultry"
+        },
+        {
+          "id": "f28ffab4-6de8-5087-a502-20909c1e87e3",
+          "ingredient_id": "bf1eedb9-f5db-509c-818c-63ceb74086c5",
+          "name": "curry powder",
+          "display_text": "2 1/2 Tbs Curry Powder",
+          "quantity": 2.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 37.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "2d927e3c-3924-5ed4-a2a1-9f4d4659c3bb",
+          "ingredient_id": "cc13d994-4056-5662-bfdc-da000c2a117b",
+          "name": "all-purpose seasoning",
+          "display_text": "1 tsp All-purpose Seasoning",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "360b95a6-6bec-5050-8167-5881d018ebcd",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "78d28b14-b60a-5f33-9967-5ed7e229bfea",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "3 chopped Spring Onions",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e5a7a797-0c4e-5932-a4b3-709a79621057",
+          "ingredient_id": "f86b83d4-879d-54bb-a883-73bbfa9228ba",
+          "name": "green pepper",
+          "display_text": "1/2 Green Pepper",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "8518af48-93b1-59e3-b812-4fdf32344408",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "4 Cloves Chopped Garlic",
+          "quantity": 4.0,
+          "unit": "clove",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3cabc221-7711-5e58-aeb9-6489795dbee7",
+          "ingredient_id": "cfe71375-907d-57ad-936c-b27b60946f4e",
+          "name": "scotch bonnet",
+          "display_text": "1 chopped Scotch Bonnet",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7fc41f36-922f-5a78-8ce9-d32ceb678b3b",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "3 sprigs Thyme",
+          "quantity": 3.0,
+          "unit": "sprig",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "ae3f81eb-87b4-52e1-ab94-02388687a083",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "3  tablespoons Olive Oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "c0a97c5b-f451-55d0-9d15-62e57901f089",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1/4 cup Water",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "c6e9e6fb-f30f-566d-b6d0-d56ae65ea99c",
+          "ingredient_id": "dd855601-7333-53ea-84e3-5bbe01eea027",
+          "name": "russet potato",
+          "display_text": "1 large Russet Potato",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "bc4cc5e5-f672-585b-9dee-a314b5afcf0b",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "2a05934a-2a92-5af4-accb-fd9c15993b0f",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "To taste Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Equipment"
+    },
+    {
+      "step_number": 2,
+      "instruction": "Dutch Oven"
+    },
+    {
+      "step_number": 3,
+      "instruction": "Instructions"
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add chicken thighs, all-purpose seasoning, 1 tablespoon of curry powder, onion, green onions, green pepper, garlic cloves, scotch bonnet pepper (if using), and thyme to a large bowl and combine, making sure all chicken pieces are covered with the seasoning. Cover and refrigerate for at least 1 hour or up to overnight.",
+      "timer_seconds": 3600,
+      "ingredients_used": [
+        "72d1239c-9824-5965-9810-1ec074aeb382",
+        "f28ffab4-6de8-5087-a502-20909c1e87e3",
+        "2d927e3c-3924-5ed4-a2a1-9f4d4659c3bb",
+        "360b95a6-6bec-5050-8167-5881d018ebcd",
+        "78d28b14-b60a-5f33-9967-5ed7e229bfea",
+        "e5a7a797-0c4e-5932-a4b3-709a79621057",
+        "8518af48-93b1-59e3-b812-4fdf32344408",
+        "3cabc221-7711-5e58-aeb9-6489795dbee7",
+        "7fc41f36-922f-5a78-8ce9-d32ceb678b3b",
+        "2a05934a-2a92-5af4-accb-fd9c15993b0f"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "One the chicken is done marinating, remove onions, peppers, and garlic cloves from chicken and set aside.",
+      "ingredients_used": [
+        "360b95a6-6bec-5050-8167-5881d018ebcd",
+        "78d28b14-b60a-5f33-9967-5ed7e229bfea",
+        "8518af48-93b1-59e3-b812-4fdf32344408"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Heat olive oil in a large heavy bottom pot over medium heat. Add remaining curry powder and stir, cooking for about 20-30 seconds. Add onions, green pepper, garlic cloves, thyme, and scotch bonnet pepper (if using) to pot and stir until onions have softened, about 3-5 minutes. If your onions and peppers are looking dry, add about 1 tablespoon of water.",
+      "ingredients_used": [
+        "f28ffab4-6de8-5087-a502-20909c1e87e3",
+        "360b95a6-6bec-5050-8167-5881d018ebcd",
+        "78d28b14-b60a-5f33-9967-5ed7e229bfea",
+        "e5a7a797-0c4e-5932-a4b3-709a79621057",
+        "8518af48-93b1-59e3-b812-4fdf32344408",
+        "3cabc221-7711-5e58-aeb9-6489795dbee7",
+        "7fc41f36-922f-5a78-8ce9-d32ceb678b3b",
+        "ae3f81eb-87b4-52e1-ab94-02388687a083",
+        "c0a97c5b-f451-55d0-9d15-62e57901f089",
+        "2a05934a-2a92-5af4-accb-fd9c15993b0f"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Add chicken and ¼ cup of water to the pot. Cover and reduce heat to medium low. Cook, stirring occasionally, for 30-35 minutes.",
+      "timer_seconds": 2100,
+      "ingredients_used": [
+        "c0a97c5b-f451-55d0-9d15-62e57901f089"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "When there is about 15 minutes remaining, stir in potato and continue to cook covered.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "c6e9e6fb-f30f-566d-b6d0-d56ae65ea99c"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Once chicken is cooked and potatoes are softened, remove from heat. Salt and pepper to taste.",
+      "ingredients_used": [
+        "c6e9e6fb-f30f-566d-b6d0-d56ae65ea99c",
+        "bc4cc5e5-f672-585b-9dee-a314b5afcf0b",
+        "2a05934a-2a92-5af4-accb-fd9c15993b0f"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.myforkinglife.com/jamaican-curry-chicken/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

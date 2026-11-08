@@ -1,0 +1,249 @@
+{
+  "id": "d2794740-1198-5ec6-a880-cc0137f58bb0",
+  "version": "1.0.0",
+  "title": "Lamb Tzatziki Burgers",
+  "slug": "lamb-tzatziki-burgers",
+  "summary": "Lamb burgers seasoned with Mediterranean spices and served with a fresh cucumber and mint yogurt sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:56:39Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53010"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/k420tj1585565244.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/k420tj1585565244.jpg/small",
+      "alt_text": "Photo of Lamb Tzatziki Burgers",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=s7_TF4ZHjPc"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "de767d0c-ee8d-59a9-8d05-02b9ae12a1ac",
+        "slug": "greek",
+        "name": "Greek"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 25
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 burger in a bun with tzatziki"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "ef022f3e-6380-5ddb-801b-52573ad71709",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "00cb71e0-224a-5815-bfd0-444c0f199ad4",
+          "ingredient_id": "44b08a9c-96fa-552f-9b22-73c4714ec011",
+          "name": "bulgur wheat",
+          "display_text": "25g Bulgur Wheat",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "0187dd3e-2aab-50dd-8a46-f15092dbc31f",
+          "ingredient_id": "4d40d67a-57b5-5c91-91d3-62eba5bf1b7e",
+          "name": "lamb mince",
+          "display_text": "500g Lamb Mince",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "8dfac5b8-3d20-5948-86b0-14cf482badb1",
+          "ingredient_id": "be79b3bd-bc90-5d15-aab2-4f95774b8de1",
+          "name": "cumin",
+          "display_text": "1 tsp Cumin",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "b496a056-7bd9-5f01-a38d-08cbb73019f4",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "1 tsp Coriander",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "a75c90bd-d6a8-50ea-9dac-bcfa6bcba609",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1 tsp Paprika",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "9924d0f6-3a89-57c9-961c-ac7bcc726cea",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove finely chopped Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "de119bf3-fe2e-5393-ada4-4ab34b3f7d45",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "For frying Olive Oil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "for frying",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "35138f11-163e-5965-a1af-fd8a3aab6005",
+          "ingredient_id": "605473f1-9ac6-5c77-a578-0fd7c5d9899b",
+          "name": "bun",
+          "display_text": "4 Bun",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "50a44fd8-a87b-5fb8-9df6-e0fd4ce641b9",
+          "ingredient_id": "8f9e104a-822f-5bda-b376-eee34fc38609",
+          "name": "cucumber",
+          "display_text": "Grated Cucumber",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "grated",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "bfd74b2f-0e41-5848-82e6-643d4f3ee7e1",
+          "ingredient_id": "ba22b73d-e619-5bc7-a859-f65b683613fe",
+          "name": "greek yogurt",
+          "display_text": "200g Greek Yogurt",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "b1f6be2b-8c40-5a99-bd1c-97c421feec6f",
+          "ingredient_id": "0e838047-684d-55cb-884e-e7872e0e96c4",
+          "name": "mint",
+          "display_text": "2 tbs Mint",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Tip the bulghar into a pan, cover with water and boil for 10 mins. Drain really well in a sieve, pressing out any excess water.",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 2,
+      "instruction": "To make the tzatziki, squeeze and discard the juice from the cucumber, then mix into the yogurt with the chopped mint and a little salt.",
+      "ingredients_used": [
+        "50a44fd8-a87b-5fb8-9df6-e0fd4ce641b9",
+        "bfd74b2f-0e41-5848-82e6-643d4f3ee7e1",
+        "b1f6be2b-8c40-5a99-bd1c-97c421feec6f"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Work the bulghar into the lamb with the spices, garlic (if using) and seasoning, then shape into 4 burgers. Brush with a little oil and fry or barbecue for about 5 mins each side until cooked all the way through. Serve in the buns (toasted if you like) with the tzatziki, tomatoes, onion and a few mint leaves.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "9924d0f6-3a89-57c9-961c-ac7bcc726cea",
+        "b1f6be2b-8c40-5a99-bd1c-97c421feec6f"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/lamb-burgers-tzatziki"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

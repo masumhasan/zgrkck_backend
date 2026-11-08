@@ -1,0 +1,259 @@
+{
+  "id": "40be4b69-8252-5353-abb2-ff706aaee209",
+  "version": "1.0.0",
+  "title": "Leblebi Soup",
+  "slug": "leblebi-soup",
+  "summary": "A Tunisian chickpea soup seasoned with cumin, garlic, and harissa.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:53:56Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52973"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/x2fw9e1560460636.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/x2fw9e1560460636.jpg/small",
+      "alt_text": "Photo of Leblebi Soup",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=BgRifcCwinY"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "23146f21-0265-5561-bbec-944b008fa0d1",
+        "slug": "tunisian",
+        "name": "Tunisian"
+      }
+    ],
+    "tags": [
+      "soup"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "soup"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 60,
+    "total_time_minutes": 75
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of soup"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "5ad20c39-417b-5dec-a407-46e8e6c27d2e",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "1d00b8dc-d3fb-5904-81bd-8c98ac29686d",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tbs Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "963428a0-6922-555a-bdcf-be624ca937c9",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 medium finely diced Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "medium finely diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "60fdadd8-60e1-5aaa-bf99-54561826e635",
+          "ingredient_id": "ae979dd7-6a1e-5882-9ed5-e0b09554efd0",
+          "name": "chickpeas",
+          "display_text": "250g Chickpeas",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "9daad9d0-8bff-5bc4-8dc0-eb68b2966aca",
+          "ingredient_id": "2d490c0b-0744-5be5-a104-641c87b13636",
+          "name": "vegetable stock",
+          "display_text": "1.5L Vegetable Stock",
+          "quantity": 1.5,
+          "unit": "liter",
+          "is_optional": false,
+          "metric_quantity": 1.5,
+          "metric_unit": "liter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "907e802e-95a3-55e2-89aa-7818f923070c",
+          "ingredient_id": "be79b3bd-bc90-5d15-aab2-4f95774b8de1",
+          "name": "cumin",
+          "display_text": "1 tsp Cumin",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "466a26ec-3446-56e8-ac78-b8592521a032",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "5 cloves Garlic",
+          "quantity": 5.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "689013e8-490e-5f84-99d4-a129ea3120fe",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/2 tsp Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "688e554c-fa5a-502d-8af1-dc5dfdf4ca90",
+          "ingredient_id": "de3a4289-f9da-523e-971e-192a1995a29a",
+          "name": "harissa spice",
+          "display_text": "1 tsp Harissa Spice",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "9a04f7f2-4324-5481-8946-8c6b0e943a98",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "Pinch Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e1276f42-6c00-5474-bf43-616f641180ed",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "1/2 Lime",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oil in a large pot. Add the onion and cook until translucent.",
+      "ingredients_used": [
+        "963428a0-6922-555a-bdcf-be624ca937c9"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Drain the soaked chickpeas and add them to the pot together with the vegetable stock. Bring to the boil, then reduce the heat and cover. Simmer for 30 minutes.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "60fdadd8-60e1-5aaa-bf99-54561826e635",
+        "9daad9d0-8bff-5bc4-8dc0-eb68b2966aca"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "In the meantime toast the cumin in a small ungreased frying pan, then grind them in a mortar. Add the garlic and salt and pound to a fine paste.",
+      "ingredients_used": [
+        "907e802e-95a3-55e2-89aa-7818f923070c",
+        "466a26ec-3446-56e8-ac78-b8592521a032",
+        "689013e8-490e-5f84-99d4-a129ea3120fe"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add the paste and the harissa to the soup and simmer until the chickpeas are tender, about 30 minutes.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "60fdadd8-60e1-5aaa-bf99-54561826e635"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Season to taste with salt, pepper and lemon juice and serve hot.",
+      "ingredients_used": [
+        "689013e8-490e-5f84-99d4-a129ea3120fe",
+        "9a04f7f2-4324-5481-8946-8c6b0e943a98"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://allrecipes.co.uk/recipe/43419/leblebi--tunisian-chickpea-soup-.aspx"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

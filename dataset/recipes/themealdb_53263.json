@@ -1,0 +1,220 @@
+{
+  "id": "279f06d9-7110-5d17-8b75-fafc777a152f",
+  "version": "1.0.0",
+  "title": "Turkish lamb pilau",
+  "slug": "turkish-lamb-pilau",
+  "summary": "A Turkish-style rice dish featuring tender lamb, aromatic cinnamon, and sweet dried apricots, topped with toasted pine nuts and fresh mint.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:18:48Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53263"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/cr2kyr1763793839.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/cr2kyr1763793839.jpg/small",
+      "alt_text": "Photo of Turkish lamb pilau",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=FXaQK06pMBI"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4c480df7-c067-5e9c-ac08-d8d49afa7f51",
+        "slug": "turkish",
+        "name": "Turkish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of lamb and rice"
+  },
+  "allergens": {
+    "contains": [
+      "tree_nuts",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "gluten",
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "077de5ce-e985-5ae5-98c7-6d44b99f1b27",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "65fb2420-b525-5955-bd13-04745f614229",
+          "ingredient_id": "d33b80af-1e5d-5fa5-a5a8-1cc1a925e2ee",
+          "name": "pine nuts",
+          "display_text": "Handful Pine Nuts",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "c6fc7745-7270-53e8-b341-12f7f9fe42f4",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 tablespoon Olive Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "aeb26e00-72a0-5621-8481-ef9906a34516",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Large Chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "aaabcc7d-f6d3-5449-99e9-08d0ff8db8ab",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "2 Cinnamon",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "ac20fd8f-5a2d-5819-830e-51e01f73ee40",
+          "ingredient_id": "9d9a6681-e50b-5870-820c-5bf49172a394",
+          "name": "lamb",
+          "display_text": "500g Lamb",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "7861877b-5f1b-522a-86f7-8a80cf777a89",
+          "ingredient_id": "83ffb65f-48c4-5295-bd29-b97975a1fcb1",
+          "name": "basmati rice",
+          "display_text": "250g Basmati Rice",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "8ad6164a-eebc-5673-a5ad-7ef4ca7d473b",
+          "ingredient_id": "9879cab6-6792-528b-972b-49d2cbd22fc5",
+          "name": "lamb stock",
+          "display_text": "1 Lamb Stock",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "309458b7-028a-500e-8045-a62807859b27",
+          "ingredient_id": "4e2337c2-e42a-5ed6-9e7b-4b439f982bd2",
+          "name": "dried apricots",
+          "display_text": "12 Dried Apricots",
+          "quantity": 12.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "f1f798e9-482d-52cb-a4d7-201fd5cdb74a",
+          "ingredient_id": "0e838047-684d-55cb-884e-e7872e0e96c4",
+          "name": "mint",
+          "display_text": "Handful Mint",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Dry-fry the pine nuts or almonds in a large pan until lightly toasted, then tip onto a plate. Add the oil to the pan, then fry the onion and cinnamon together until starting to turn golden. Turn up the heat, stir in the lamb, fry until the meat changes color, then tip in the rice and cook for 1 min, stirring all the time.",
+      "timer_seconds": 60,
+      "ingredients_used": [
+        "65fb2420-b525-5955-bd13-04745f614229",
+        "aeb26e00-72a0-5621-8481-ef9906a34516",
+        "aaabcc7d-f6d3-5449-99e9-08d0ff8db8ab",
+        "ac20fd8f-5a2d-5819-830e-51e01f73ee40",
+        "7861877b-5f1b-522a-86f7-8a80cf777a89"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Pour in 500ml boiling water, crumble in the stock cube, add the apricots, then season to taste. Turn the heat down, cover and simmer for 12 mins until the rice is tender and the stock has been absorbed. Toss in the pine nuts and mint and serve.",
+      "timer_seconds": 720,
+      "ingredients_used": [
+        "65fb2420-b525-5955-bd13-04745f614229",
+        "7861877b-5f1b-522a-86f7-8a80cf777a89",
+        "309458b7-028a-500e-8045-a62807859b27",
+        "f1f798e9-482d-52cb-a4d7-201fd5cdb74a"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/turkish-lamb-pilau"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "id": "0790232d-0365-5deb-b8f5-11f9aeecc805",
+  "version": "1.0.0",
+  "title": "Aubergine & hummus grills",
+  "slug": "aubergine-hummus-grills",
+  "summary": "Grilled aubergine slices topped with hummus and crunchy breadcrumbs, served with a walnut and cherry tomato salad.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:20:10Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53278"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/zub3s91764110535.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/zub3s91764110535.jpg/small",
+      "alt_text": "Photo of Aubergine & hummus grills",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=P5LD03XptB8"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4c480df7-c067-5e9c-ac08-d8d49afa7f51",
+        "slug": "turkish",
+        "name": "Turkish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 18,
+    "total_time_minutes": 33
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "2 aubergine slices with salad"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "tree_nuts",
+      "sesame"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "3c62d85c-86c8-5590-a8a5-66fcc4a1bbb2",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "e637a933-5577-5c58-9b50-74e682feae60",
+          "ingredient_id": "0c13526c-c9d0-5c10-bc72-13ae3bf32c7e",
+          "name": "aubergine",
+          "display_text": "2 Aubergine",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1eba445c-1458-57db-b39b-d1909e129035",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "2 tablespoons Vegetable Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "93ea7cdf-36a5-5837-971e-3ed98755ba9b",
+          "ingredient_id": "95128a6e-6409-5797-b33b-a94a27c5951f",
+          "name": "bread",
+          "display_text": "3 sliced thinly Bread",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "sliced thinly",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "366bc4fe-b667-5f54-9108-c5a0a8dabd87",
+          "ingredient_id": "13663315-ada3-5bc6-8324-ddfaf23bdfa0",
+          "name": "hummus",
+          "display_text": "300g Hummus",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "e35df6eb-46b7-5529-a7a4-2e0bb40489f3",
+          "ingredient_id": "0ad40f09-76c2-5007-b9ca-38f3ecd4a51d",
+          "name": "walnuts",
+          "display_text": "100g Walnuts",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "07d30a35-8219-5ae0-be4e-96b8de34c866",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "40g Parsley",
+          "quantity": 40.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 40.0,
+          "metric_unit": "gram",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "f9aacc9f-5e40-5bb2-a36b-52c6c2085408",
+          "ingredient_id": "041e90f7-87c0-5883-b651-a9f26dce39b7",
+          "name": "cherry tomatoes",
+          "display_text": "200g Cherry Tomatoes",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "dc19d790-7a3d-5675-8ffb-a440462109b3",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "Juice of 1/2 Lemon",
+          "quantity": 0.5,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "89d4a8c3-caf7-5d94-9f6b-3c29bd372116",
+          "ingredient_id": "96cc0c2b-795a-53be-a503-05d14e92b236",
+          "name": "extra virgin olive oil",
+          "display_text": "Splash Extra Virgin Olive Oil",
+          "quantity": 1,
+          "unit": "splash",
+          "is_optional": false,
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Lay the aubergine out in one layer on a large baking sheet. Brush sparingly with vegetable oil, then season generously. Grill for 15 mins, turning twice and brushing with oil until the slices are softened and cooked through. Meanwhile, whizz the bread into crumbs. Add 2 tsp oil and whizz briefly again, to coat.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "e637a933-5577-5c58-9b50-74e682feae60",
+        "1eba445c-1458-57db-b39b-d1909e129035",
+        "93ea7cdf-36a5-5837-971e-3ed98755ba9b"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Spread a couple of tsps of hummus on top of each slice of aubergine. Tip the breadcrumbs onto a large plate, then press the hummus side of the aubergines into the crumbs to coat. Grill again, crumb-side up, for about 3 mins until golden.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "e637a933-5577-5c58-9b50-74e682feae60",
+        "93ea7cdf-36a5-5837-971e-3ed98755ba9b",
+        "366bc4fe-b667-5f54-9108-c5a0a8dabd87"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Toss the walnuts, parsley and cherry tomatoes in a bowl, season, then add the lemon juice and olive oil and toss again. Serve the grills with the salad, a dollop more hummus and some pitta bread.",
+      "ingredients_used": [
+        "93ea7cdf-36a5-5837-971e-3ed98755ba9b",
+        "366bc4fe-b667-5f54-9108-c5a0a8dabd87",
+        "e35df6eb-46b7-5529-a7a4-2e0bb40489f3",
+        "07d30a35-8219-5ae0-be4e-96b8de34c866",
+        "f9aacc9f-5e40-5bb2-a36b-52c6c2085408",
+        "dc19d790-7a3d-5675-8ffb-a440462109b3"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/aubergine-hummus-grills"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

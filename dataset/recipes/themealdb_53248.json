@@ -1,0 +1,206 @@
+{
+  "id": "43740fa6-f887-5719-8ea3-3cb0fde378a4",
+  "version": "1.0.0",
+  "title": "Salmon noodle wraps",
+  "slug": "salmon-noodle-wraps",
+  "summary": "Salmon fillets baked in parchment parcels with rice noodles, spring onions, and petit pois.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:17:27Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53248"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/prrirc1763781360.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/prrirc1763781360.jpg/small",
+      "alt_text": "Photo of Salmon noodle wraps",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=9j2qftITN-Y"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "60481cf3-a7b7-5be4-a0dc-6b872c887e64",
+        "slug": "vietnamese",
+        "name": "Vietnamese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 salmon fillet with noodles and vegetables"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "fish"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "6564ffd9-6a03-52a9-b964-12640958c587",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "f59f4d67-3505-56f3-8941-9c65697b33bf",
+          "ingredient_id": "26534aa9-d664-5446-96c6-a499ce56a3fe",
+          "name": "rice noodles",
+          "display_text": "100g Rice Noodles",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "c20211ac-6f77-5044-a725-2f6dfd69f020",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "3 sliced thinly Spring Onions",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "sliced thinly",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "fa2999b2-6525-5f63-b47c-172a94e766cb",
+          "ingredient_id": "221b2da9-73cc-5cfd-9020-641a1cc7f762",
+          "name": "petit pois",
+          "display_text": "50g Petit Pois",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "f616b8b7-7b9b-5de7-8a42-a6a420d2a1de",
+          "ingredient_id": "3deb6c1f-bd27-560b-a63b-f2b3eaf9e82e",
+          "name": "chilli",
+          "display_text": "85g Chilli",
+          "quantity": 85.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 85.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "3beacecc-eb38-5d6b-86e2-0c32d6d52760",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "85g Coriander",
+          "quantity": 85.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 85.0,
+          "metric_unit": "gram",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "73f135c1-5aec-572f-919f-29beee15491c",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "85g Lime",
+          "quantity": 85.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 85.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "a63e4906-9def-57aa-9a8b-d70aae8d2789",
+          "ingredient_id": "8e78b962-6a36-568e-a6f6-db81cdbb4985",
+          "name": "salmon",
+          "display_text": "300g Salmon",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "fish"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 200C/fan 180C/gas 6. Put the noodles in a bowl and pour over enough boiling water to just cover them. Leave for 2 mins, until they are bendable, but not too soft, then drain well. Return to the bowl with the spring onions, petit pois, salt and pepper and a third of the butter. Mix well until the butter has melted.",
+      "timer_seconds": 120,
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "f59f4d67-3505-56f3-8941-9c65697b33bf",
+        "c20211ac-6f77-5044-a725-2f6dfd69f020",
+        "fa2999b2-6525-5f63-b47c-172a94e766cb"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Pile the noodles and vegetables onto two large squares of baking parchment, then sit the salmon on top. Slice the remaining butter and arrange over the top of the salmon. Bring the ends of the paper over the fish, fold them together to seal, then tuck the ends of the paper underneath so there are no gaps. Put the parcels on a baking sheet and bake for 15-20 mins. Transfer to dinner plates and serve without delay.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "f59f4d67-3505-56f3-8941-9c65697b33bf",
+        "a63e4906-9def-57aa-9a8b-d70aae8d2789"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/salmon-noodle-wraps"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "id": "0cb3f59c-2ccc-591b-9915-b2a5102e8e31",
+  "version": "1.0.0",
+  "title": "Spicy Thai prawn noodles",
+  "slug": "spicy-thai-prawn-noodles",
+  "summary": "A quick Thai-style stir-fry featuring rice noodles, prawns, and a thin omelette, seasoned with ginger, chili, and lime.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:13:55Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53209"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/568t931763584227.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/568t931763584227.jpg/small",
+      "alt_text": "Photo of Spicy Thai prawn noodles",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "724b7c6a-f254-57d4-9729-335a2b2d93b1",
+        "slug": "thai",
+        "name": "Thai"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 25
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of noodles with prawns and egg"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "peanuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame"
+    ],
+    "free_from": [
+      "dairy",
+      "tree_nuts",
+      "fish",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "9f4929de-6585-59c6-8082-0fde75b71a6c",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "caad9d40-b8aa-5328-b0f5-a88fa3a71f87",
+          "ingredient_id": "26534aa9-d664-5446-96c6-a499ce56a3fe",
+          "name": "rice noodles",
+          "display_text": "200g Rice Noodles",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "fa602f65-99cb-58d3-8cc3-7d42ba5d262e",
+          "ingredient_id": "653731ca-07ee-57df-aa38-0f8f2b71ccc6",
+          "name": "sesame seed oil",
+          "display_text": "1 tablespoon Sesame Seed Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "d9fad6be-771e-5eed-98b4-9518e80660a6",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "2 Beaten Egg",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "beaten",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "dcd154e2-afab-552a-a485-2a43598fda71",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "1 chopped Red Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d90ef222-cd2a-59e1-bacb-7552ed648a8c",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "3cm piece Ginger",
+          "quantity": 3.0,
+          "unit": "centimeter",
+          "preparation": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3a6ed5c8-fead-574e-8926-51f3bdab318e",
+          "ingredient_id": "d2faf7d8-97cd-57b2-9aee-58261714f9d5",
+          "name": "prawns",
+          "display_text": "450g Prawns",
+          "quantity": 450.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "02fe2f24-f229-5238-a296-8386a6d7f22d",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "1 tablespoon Soy Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "cb5875e4-1f2f-5d0a-97ff-672d91da03a1",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "Bunch Coriander",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "bunch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d52e7040-6b48-550e-9a36-f9d79bcfca60",
+          "ingredient_id": "0e838047-684d-55cb-884e-e7872e0e96c4",
+          "name": "mint",
+          "display_text": "1/2 handful Mint",
+          "quantity": 0.5,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1bd46e26-3dcb-5128-860f-58bacf77b5ea",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "Zest and juice of 1 Lime",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "zest and juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f089bf42-73d9-56be-b3f6-f4dbded8f452",
+          "ingredient_id": "200b7141-d967-52ee-b154-4f8ed303ac02",
+          "name": "peanuts",
+          "display_text": "Handful Peanuts",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "nuts_seeds"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Cook the noodles following the pack instructions, drain and set aside for later. Heat the oil in a large frying pan and pour in the beaten egg. Swirl around the pan to make a thin omelette, cook for 1-2 mins, then flip over and cook the other side for 1 min. Tip out and slice into thin strips.",
+      "ingredients_used": [
+        "caad9d40-b8aa-5328-b0f5-a88fa3a71f87",
+        "d9fad6be-771e-5eed-98b4-9518e80660a6"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the chilli and ginger to the pan, fry for 1-2 mins then tip in the noodles, prawns and egg. Splash in the soy sauce and stir-fry for 1 min more. Throw in the chopped herbs and pour over the lime juice and zest, then sprinkle over the chopped peanuts and serve.",
+      "ingredients_used": [
+        "caad9d40-b8aa-5328-b0f5-a88fa3a71f87",
+        "d9fad6be-771e-5eed-98b4-9518e80660a6",
+        "dcd154e2-afab-552a-a485-2a43598fda71",
+        "d90ef222-cd2a-59e1-bacb-7552ed648a8c",
+        "3a6ed5c8-fead-574e-8926-51f3bdab318e",
+        "02fe2f24-f229-5238-a296-8386a6d7f22d",
+        "1bd46e26-3dcb-5128-860f-58bacf77b5ea",
+        "f089bf42-73d9-56be-b3f6-f4dbded8f452"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/spicy-thai-prawn-noodles"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

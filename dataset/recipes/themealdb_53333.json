@@ -1,0 +1,197 @@
+{
+  "id": "1ed2719a-d51a-5e20-b51f-58db8d329380",
+  "version": "1.0.0",
+  "title": "Passion fruit mousse",
+  "slug": "passion-fruit-mousse",
+  "summary": "A light and airy Venezuelan dessert made with passion fruit pulp, condensed milk, and whipped egg whites.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:25:02Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53333"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/gkcdpl1764441325.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/gkcdpl1764441325.jpg/small",
+      "alt_text": "Photo of Passion fruit mousse",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=x5SRhOq3vfs"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "7511fbbd-fbff-5fb1-ad48-c4a89d390e43",
+        "slug": "venezuelan",
+        "name": "Venezuelan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "rest_time_minutes": 120,
+    "total_time_minutes": 145
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1 glass of mousse"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "eggs"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "4581cb8c-18df-53a2-b758-643db47fda95",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "390646a5-712a-53e7-87f4-bb3cbee88a2c",
+          "ingredient_id": "d9d27659-3d3e-533e-a6eb-d14937b7d3f7",
+          "name": "unflavored gelatin",
+          "display_text": "1 ½ tbsp Unflavored Gelatin",
+          "quantity": 1.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 22.5,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "305c15b7-41ce-59b1-a5cb-63f22b09e218",
+          "ingredient_id": "b0ffe8df-5e8f-5f1a-adfe-9654b655f382",
+          "name": "passion fruit pulp",
+          "display_text": "1 Passion Fruit Pulp",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3698e78c-7e62-5c37-94f9-9c1a431c62d5",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 cup Sugar",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "a5b9f040-c3e3-541c-890c-994fedad9377",
+          "ingredient_id": "3fe531f9-aa92-5d4e-9940-e8eddf18456b",
+          "name": "condensed milk",
+          "display_text": "1 Can Condensed Milk",
+          "quantity": 1.0,
+          "unit": "can",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "85f650aa-2ad0-55fd-a7ff-19457b60a332",
+          "ingredient_id": "87c4a7ca-7b0e-5143-aea3-d01ad00e4108",
+          "name": "egg white",
+          "display_text": "6 Egg White",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "ef2e23f1-76ce-5b8b-8238-af841604786a",
+          "ingredient_id": "0e838047-684d-55cb-884e-e7872e0e96c4",
+          "name": "mint",
+          "display_text": "1 Sprig Mint",
+          "quantity": 1.0,
+          "unit": "sprig",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Add gelatin and ¼ cup room-temperature water to small bowl; let sit until gelatin softens, about 5 minutes. In medium saucepan over medium-high heat, stir together passion fruit pulp, sugar and gelatin mixture. Cook, stirring occasionally, until mixture is thoroughly combined and smooth (mixture should not come to a boil). Remove from heat; cool completely. Stir in condensed milk.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "390646a5-712a-53e7-87f4-bb3cbee88a2c",
+        "305c15b7-41ce-59b1-a5cb-63f22b09e218",
+        "3698e78c-7e62-5c37-94f9-9c1a431c62d5",
+        "a5b9f040-c3e3-541c-890c-994fedad9377"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Meanwhile, in clean mixing bowl, using electric mixer, beat egg whites until stiff (peaks of egg whites will not droop, and egg whites will not move when bowl is tilted).",
+      "ingredients_used": [
+        "85f650aa-2ad0-55fd-a7ff-19457b60a332"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Stir 1/3 egg whites into cooled passion fruit mixture until combined. Using spatula, gently fold in remaining egg whites until combined. Divide mousse evenly among clear glass serving cups; cover. Refrigerate mousse until well chilled, at least 2 hrs.",
+      "timer_seconds": 7200,
+      "ingredients_used": [
+        "85f650aa-2ad0-55fd-a7ff-19457b60a332"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Serve chilled. Garnish with mint, if desired.",
+      "ingredients_used": [
+        "ef2e23f1-76ce-5b8b-8238-af841604786a"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://goya.es/en/recipes/passion-fruit-mousse"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

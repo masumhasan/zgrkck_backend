@@ -1,0 +1,264 @@
+{
+  "id": "a82ea9ab-5f04-514f-a73f-6a1e32107405",
+  "version": "1.0.0",
+  "title": "Cayman-Style Lobster",
+  "slug": "cayman-style-lobster",
+  "summary": "Lobster meat sautéed with peppers, garlic, and scotch bonnet in a savory chicken stock sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:40:42Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53510"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/wkhwqr1782774765.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/wkhwqr1782774765.jpg/small",
+      "alt_text": "Photo of Cayman-Style Lobster",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c09eb408-33f5-5580-b0b4-cd787ea520ba",
+        "slug": "caymanian",
+        "name": "Caymanian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 35,
+    "total_time_minutes": 55
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1 lobster tail with sauce"
+  },
+  "allergens": {
+    "contains": [
+      "shellfish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "fdc43d05-8840-5ff0-920f-3145ad21a0b3",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "82654387-ff48-55bd-b2f5-4dc7e4f380b7",
+          "ingredient_id": "6c8a7cde-282e-5e29-abca-712949f67c85",
+          "name": "lobster",
+          "display_text": "6 Lobster",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "seafood"
+        },
+        {
+          "id": "a4a9e17b-a3fd-50ab-a057-e37599315b20",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "1/2 cup Chicken Stock",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "8c913b52-9dc0-541b-8553-f2a1882415cc",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1/2 cup Red Pepper",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "c8092ade-535b-5b60-a9dd-babfaafc4c58",
+          "ingredient_id": "f86b83d4-879d-54bb-a883-73bbfa9228ba",
+          "name": "green pepper",
+          "display_text": "1/2 cup Green Pepper",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "3b609da8-d524-5417-9037-1ca8e9fce8d3",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1/2 cup Onion",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "825e13f4-caf5-5c36-8eb7-30dcb05c0680",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves minced Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "minced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ad47d790-8e75-56b9-a60f-3977056f15b2",
+          "ingredient_id": "cfe71375-907d-57ad-936c-b27b60946f4e",
+          "name": "scotch bonnet",
+          "display_text": "1/2 Scotch Bonnet",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b6ae9d27-e585-5e57-892c-d2acc806bf2c",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "8390556d-0773-5a66-a0a3-1415122a783a",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "To taste Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "c452bd8b-6004-5dff-8b52-26a587ca56da",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "To taste Thyme",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "a9298444-4e93-5ec2-b3e7-d62e08ca8c23",
+          "ingredient_id": "4bdb1684-cdb6-5a8f-b220-c622cf2655cc",
+          "name": "cornstarch",
+          "display_text": "2 tsp Cornstarch",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "e40a20b6-63f0-541a-b845-a59a689bbc88",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tablespoons Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Rinse lobster under cold running water. Bring water and salt to boil in a 12 quart pot. Quickly plunge lobsters, headfirst, into boiling water. Cover and boil for 20 minutes or until lobsters turn red.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "82654387-ff48-55bd-b2f5-4dc7e4f380b7",
+        "b6ae9d27-e585-5e57-892c-d2acc806bf2c"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Remove lobster and allow it to cool. Remove lobster tails and cut shell down to middle to remove the meat. Cut the tail meat down the middle to remove the vein inside. Remove large claws and smaller legs by twisting them away from the body. A nut cracker can be used to crush the claw and legs to remove the meat inside.",
+      "ingredients_used": [
+        "82654387-ff48-55bd-b2f5-4dc7e4f380b7"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Chop lobster meat. Heat butter or olive oil in large pan over low heat. Sauté red, green and scotch bonnet peppers, thyme and garlic. Add salt and chicken stock to pan. Then, add lobster meat and sauté for 10 to 15 minutes. Thicken sauce with the corn starch and water mixture.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "82654387-ff48-55bd-b2f5-4dc7e4f380b7",
+        "a4a9e17b-a3fd-50ab-a057-e37599315b20",
+        "825e13f4-caf5-5c36-8eb7-30dcb05c0680",
+        "ad47d790-8e75-56b9-a60f-3977056f15b2",
+        "b6ae9d27-e585-5e57-892c-d2acc806bf2c",
+        "c452bd8b-6004-5dff-8b52-26a587ca56da",
+        "e40a20b6-63f0-541a-b845-a59a689bbc88"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Serve with your choice of vegetables, salad and/or rice."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.ourcayman.ky/en-us/about/more-about-cayman/recipes"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "id": "d4ed5fc0-e2b7-58d1-b9de-1ce3e3e40f54",
+  "version": "1.0.0",
+  "title": "Three Fish Pie",
+  "slug": "three-fish-pie",
+  "summary": "A classic British seafood pie featuring a mixture of salmon, haddock, and smoked haddock in a creamy leek sauce, topped with mashed potatoes and gruyère cheese.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:45:50Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52882"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/spswqs1511558697.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/spswqs1511558697.jpg/small",
+      "alt_text": "Photo of Three Fish Pie",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Ds1Jb8H5Sg8"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "dairy",
+      "fish",
+      "pie",
+      "seafood"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 50,
+    "rest_time_minutes": 10,
+    "total_time_minutes": 80
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1 large portion of pie"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs",
+      "fish",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "10f2462b-aa94-5d3a-80ba-4be060142bb3",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "0b1cea47-7e11-5612-966c-2e0b6af8ba5a",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "1kg Potatoes",
+          "quantity": 1.0,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "kilogram",
+          "category": "produce"
+        },
+        {
+          "id": "aa2844a9-f4cd-5311-8963-cb337bd02dab",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "Knob Butter",
+          "quantity": 1,
+          "unit": "knob",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "faca26c2-a19b-564e-8580-1ad68a888f70",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "Dash Milk",
+          "quantity": 1,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "12f4b229-15f0-5dc8-a5ad-02e241003f0f",
+          "ingredient_id": "7e2a902e-7ab4-5cdc-8b27-6bf2e8fa0437",
+          "name": "gruyere",
+          "display_text": "50g Gruyere",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "1b5e5c86-269d-53e1-ad99-ced202b4b884",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "75g Butter",
+          "quantity": 75.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "a7380e26-571e-53c8-8c2a-c6ef782688b5",
+          "ingredient_id": "ef5d99bc-384e-522a-8c0f-1c8501f6612c",
+          "name": "leek",
+          "display_text": "2 sliced Leek",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "941f9f6e-c647-5272-9f96-2a8c97fe19fb",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "75g Plain Flour",
+          "quantity": 75.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "0eee08af-588e-5bab-a111-987cc373a9bc",
+          "ingredient_id": "7dfa4179-cc08-5fb6-b4fc-aa52abc5f515",
+          "name": "white wine",
+          "display_text": "150ml White Wine",
+          "quantity": 150.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "35979693-f63d-51b8-ab33-30d91870ebba",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "568ml Milk",
+          "quantity": 568.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 568.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "2684cdfa-108e-59e2-b7ac-7a0a29ae45bd",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "2 tbs chopped Parsley",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "7f3bdc07-1c65-5f40-994d-e2ba8bc56393",
+          "ingredient_id": "8e78b962-6a36-568e-a6f6-db81cdbb4985",
+          "name": "salmon",
+          "display_text": "250g Salmon",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "fish"
+        },
+        {
+          "id": "918f1aa1-2a0a-5005-8838-17ad4e09d37e",
+          "ingredient_id": "4b8bb11c-07ac-57ce-b69f-6943f80b1d5a",
+          "name": "haddock",
+          "display_text": "250g Haddock",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "fish"
+        },
+        {
+          "id": "f5a26b36-5ed7-53cd-b9f9-883a690b9f92",
+          "ingredient_id": "8a36d527-b02f-5ec9-8866-59950c2f55e6",
+          "name": "smoked haddock",
+          "display_text": "250g Smoked Haddock",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "fish"
+        },
+        {
+          "id": "d7d0d792-4d2a-5604-a154-fd740ee9f888",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "6 Eggs",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat the oven to 200C/400F/Gas 6 (180C fan).",
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "Put the potatoes into a saucepan of cold salted water. Bring up to the boil and simmer until completely tender. Drain well and then mash with the butter and milk. Add pepper and taste to check the seasoning. Add salt and more pepper if necessary.",
+      "ingredients_used": [
+        "0b1cea47-7e11-5612-966c-2e0b6af8ba5a",
+        "aa2844a9-f4cd-5311-8963-cb337bd02dab",
+        "faca26c2-a19b-564e-8580-1ad68a888f70",
+        "1b5e5c86-269d-53e1-ad99-ced202b4b884",
+        "35979693-f63d-51b8-ab33-30d91870ebba"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "For the fish filling, melt the butter in a saucepan, add the leeks and stir over the heat. Cover with a lid and simmer gently for 10 minutes, or until soft. Measure the flour into a small bowl. Add the wine and whisk together until smooth.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "aa2844a9-f4cd-5311-8963-cb337bd02dab",
+        "1b5e5c86-269d-53e1-ad99-ced202b4b884",
+        "a7380e26-571e-53c8-8c2a-c6ef782688b5",
+        "0eee08af-588e-5bab-a111-987cc373a9bc"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add the milk to the leeks, bring to the boil and then add the wine mixture. Stir briskly until thickened. Season and add the parsley and fish. Stir over the heat for two minutes, then spoon into an ovenproof casserole. Scatter over the eggs. Allow to cool until firm.",
+      "ingredients_used": [
+        "faca26c2-a19b-564e-8580-1ad68a888f70",
+        "a7380e26-571e-53c8-8c2a-c6ef782688b5",
+        "0eee08af-588e-5bab-a111-987cc373a9bc",
+        "35979693-f63d-51b8-ab33-30d91870ebba",
+        "2684cdfa-108e-59e2-b7ac-7a0a29ae45bd",
+        "d7d0d792-4d2a-5604-a154-fd740ee9f888"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Spoon the mashed potatoes over the fish mixture and mark with a fork. Sprinkle with cheese.",
+      "ingredients_used": [
+        "0b1cea47-7e11-5612-966c-2e0b6af8ba5a"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Bake for 30-40 minutes, or until lightly golden-brown on top and bubbling around the edges.",
+      "timer_seconds": 2400
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbc.co.uk/food/recipes/three_fish_pie_58875"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

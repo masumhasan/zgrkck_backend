@@ -1,0 +1,247 @@
+{
+  "id": "1de20f01-e3c5-504c-a3b7-28d40489b680",
+  "version": "1.0.0",
+  "title": "Arroz con Leche Recipe",
+  "slug": "arroz-con-leche-recipe",
+  "summary": "A traditional Colombian rice pudding made by simmering rice in cinnamon-infused water, milk, and condensed milk until creamy.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:41:46Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53522"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/jp09191782856005.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/jp09191782856005.jpg/small",
+      "alt_text": "Photo of Arroz con Leche Recipe",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "50fefb0a-1f33-59b0-afdb-383ba2373950",
+        "slug": "colombian",
+        "name": "Colombian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 95,
+    "rest_time_minutes": 60,
+    "total_time_minutes": 160
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of rice pudding"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "90cd5ce7-9790-5cca-9495-d7eab314480b",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "523eb9ad-cbf9-5f9f-af4a-caa62411b5e9",
+          "ingredient_id": "025b8433-c498-5b37-813a-ec00ac6c2ae5",
+          "name": "rice",
+          "display_text": "1 cup Rice",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "f49b461a-f5f1-5a47-818c-ddfdbf5feb57",
+          "ingredient_id": "815267d7-ad8f-543a-b885-c3fdabdc63fb",
+          "name": "cinnamon stick",
+          "display_text": "4 Cinnamon Stick",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "bf642174-d0fe-525c-8e4c-cd501262c6a6",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "2 cups Water",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "8c96fbeb-2476-51be-9a1f-118d500a48e3",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "4 cups Milk",
+          "quantity": 4.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 960.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "b7a36107-21cc-527c-bf21-37b7d90e42fe",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "b4f4bcb4-7f82-54ce-9591-77bc3c47d965",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "2 tablespoons Butter",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "aa490e75-09ce-5785-9bfc-f3892fd8101e",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "2 tablespoons Vanilla Extract",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "03cf4000-2905-584e-8a84-146415fc33d6",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 cup Sugar",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "4ffb75d2-ea60-543e-8812-0990beef33ac",
+          "ingredient_id": "3fe531f9-aa92-5d4e-9940-e8eddf18456b",
+          "name": "condensed milk",
+          "display_text": "12 ounces Condensed Milk",
+          "quantity": 12.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 340.2,
+          "metric_unit": "gram",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "In a small pot, add water and cinnamon sticks, bring to a boil and cook for 10 minutes. Set aside and discard cinnamon sticks.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "f49b461a-f5f1-5a47-818c-ddfdbf5feb57",
+        "bf642174-d0fe-525c-8e4c-cd501262c6a6"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Place the rice and the cinnamon water in a large saucepan, over medium heat and cook for 5 minutes.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "523eb9ad-cbf9-5f9f-af4a-caa62411b5e9",
+        "bf642174-d0fe-525c-8e4c-cd501262c6a6"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add salt, butter, vanilla extract, 2 cups of milk, and sugar. Stir well to mix and cook uncovered for approximately 15 minutes.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "8c96fbeb-2476-51be-9a1f-118d500a48e3",
+        "b7a36107-21cc-527c-bf21-37b7d90e42fe",
+        "b4f4bcb4-7f82-54ce-9591-77bc3c47d965",
+        "aa490e75-09ce-5785-9bfc-f3892fd8101e",
+        "03cf4000-2905-584e-8a84-146415fc33d6",
+        "4ffb75d2-ea60-543e-8812-0990beef33ac"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Reduce heat to medium low. Add the remaining milk and condensed milk. Stir with a wooden spoon. Cook for 1 hour and 15 minutes, or until the rice pudding thickens to desire consistency.",
+      "ingredients_used": [
+        "523eb9ad-cbf9-5f9f-af4a-caa62411b5e9",
+        "8c96fbeb-2476-51be-9a1f-118d500a48e3",
+        "4ffb75d2-ea60-543e-8812-0990beef33ac"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Stir well and remove from heat, and let it cool at room temperature. The consistency should be very creamy. Refrigerate for a least 1 hour or overnight.",
+      "timer_seconds": 3600
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.mycolombianrecipes.com/arroz-con-leche-rice-pudding/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

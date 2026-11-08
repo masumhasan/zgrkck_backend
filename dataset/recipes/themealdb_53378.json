@@ -1,0 +1,214 @@
+{
+  "id": "2d089914-1ea3-57f8-a987-a72283bc2744",
+  "version": "1.0.0",
+  "title": "Sesame Cucumber Salad",
+  "slug": "sesame-cucumber-salad",
+  "summary": "A refreshing Chinese-style salad featuring sliced cucumbers tossed in a savory dressing of sesame oil, rice vinegar, and chili flakes.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:29:04Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53378"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/93iok31766436070.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/93iok31766436070.jpg/small",
+      "alt_text": "Photo of Sesame Cucumber Salad",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=q37qn81lg5c"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6813a95e-62cf-55e7-9d4b-6f19ee1d7391",
+        "slug": "chinese",
+        "name": "Chinese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 10
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of cucumber salad"
+  },
+  "allergens": {
+    "contains": [
+      "sesame"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "mustard",
+      "celery"
+    ],
+    "may_contain": [
+      "sulfites"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "e03ae969-dc84-5bae-b36d-0eefc067cb2a",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "6238ad59-dd46-5da8-b021-a087ae5545b8",
+          "ingredient_id": "8f9e104a-822f-5bda-b376-eee34fc38609",
+          "name": "cucumber",
+          "display_text": "2 medium Cucumber",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "47819751-e8ac-5066-abd8-e7c531653aa4",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/2 tsp Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "d2d756ce-8dc8-5766-a080-7e8b967726f6",
+          "ingredient_id": "653731ca-07ee-57df-aa38-0f8f2b71ccc6",
+          "name": "sesame seed oil",
+          "display_text": "2 tsp Sesame Seed Oil",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "2dd70f4b-caaf-5a32-90a0-6cf726be2e6c",
+          "ingredient_id": "cad15bc5-2770-5a5f-8572-c5ac5ad79569",
+          "name": "rice vinegar",
+          "display_text": "2 tablespoons Rice Vinegar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "048c6469-42a3-5c03-9565-500836d933c7",
+          "ingredient_id": "a1783c57-4793-5f4c-b52e-1ed99ab34832",
+          "name": "basil leaves",
+          "display_text": "6 Basil Leaves",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "8be8ec28-f190-57a3-a419-980da4b472d1",
+          "ingredient_id": "61117efd-62b4-5061-a850-7dc99f502de3",
+          "name": "red chilli flakes",
+          "display_text": "1/2 tsp Red Chilli Flakes",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "c04f2cdc-f295-59d7-9907-a26d8e6e30ce",
+          "ingredient_id": "d5403c00-b586-53a5-a77f-fac320f14278",
+          "name": "sesame seed",
+          "display_text": "2 tsp Sesame Seed",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Prep the cucumbers:",
+      "ingredients_used": [
+        "6238ad59-dd46-5da8-b021-a087ae5545b8"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Peel the cucumbers. Cut them into quarters, lengthwise. (If the seeds are bitter, scrape out the seeds and discard.) Cut the cucumbers again, crosswise, into 1/2-inch thick pieces.",
+      "ingredients_used": [
+        "6238ad59-dd46-5da8-b021-a087ae5545b8",
+        "c04f2cdc-f295-59d7-9907-a26d8e6e30ce"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Toss the salad:"
+    },
+    {
+      "step_number": 4,
+      "instruction": "Place cucumbers into a serving bowl. Sprinkle with salt. Toss with sesame oil, seasoned rice vinegar, basil (if using), and chili flakes. Sprinkle with toasted sesame seeds if using.",
+      "ingredients_used": [
+        "6238ad59-dd46-5da8-b021-a087ae5545b8",
+        "47819751-e8ac-5066-abd8-e7c531653aa4",
+        "2dd70f4b-caaf-5a32-90a0-6cf726be2e6c",
+        "c04f2cdc-f295-59d7-9907-a26d8e6e30ce"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.simplyrecipes.com/recipes/sesame_cucumber_salad/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

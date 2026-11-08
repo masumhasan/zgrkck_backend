@@ -1,0 +1,346 @@
+{
+  "id": "9ed2c16c-061d-548d-9ff5-904044edadee",
+  "version": "1.0.0",
+  "title": "Venezuelan Sancocho",
+  "slug": "venezuelan-sancocho",
+  "summary": "A hearty Venezuelan beef soup featuring hind shank and a variety of root vegetables like yautia, white yam, and cassava.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:24:29Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53326"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/8859m71764377470.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/8859m71764377470.jpg/small",
+      "alt_text": "Photo of Venezuelan Sancocho",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=w6KNOKkcRBs"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "7511fbbd-fbff-5fb1-ad48-c4a89d390e43",
+        "slug": "venezuelan",
+        "name": "Venezuelan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 76,
+    "total_time_minutes": 96
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of soup with meat and vegetables"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "d5478368-c50d-53e7-86f3-7181e985f4c8",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "6d7d2e2e-2d83-5849-a0a8-04c61467dece",
+          "ingredient_id": "983af801-6f45-5b0c-bcce-05fc69abe876",
+          "name": "hind shank",
+          "display_text": "2 Lbs Hind Shank",
+          "quantity": 2.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 907.2,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "58f4c815-b5ed-5a4c-be19-d9d78e49b248",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "2 small Onion",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "6381f5bc-4f49-5b62-879a-26b8e932a5df",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "1/2 Pepper",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "12cd5243-06b6-5000-a3cc-67af1db520f3",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "4 Cloves Chopped Garlic",
+          "quantity": 4.0,
+          "unit": "clove",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7d0f679a-936e-5ada-b8aa-b4e49a24d48d",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "4 Cloves Crushed Garlic",
+          "quantity": 4.0,
+          "unit": "clove",
+          "preparation": "crushed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7dd5b510-1c8f-53a7-9ff5-bac3b1aee8a2",
+          "ingredient_id": "ef5d99bc-384e-522a-8c0f-1c8501f6612c",
+          "name": "leek",
+          "display_text": "1 Leek",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "28819064-4645-5f51-a165-aa4c6c3a19d0",
+          "ingredient_id": "39a746ef-3300-5229-b0b2-3e03970ea60c",
+          "name": "beef stock",
+          "display_text": "8 cups Beef Stock",
+          "quantity": 8.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 1920.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "89c228cd-ddb5-56c4-bf93-72ebc9e1403e",
+          "ingredient_id": "71f13e3e-6cda-5e87-841a-b9e248a8f598",
+          "name": "sweet red peppers",
+          "display_text": "1/2 cup Sweet Red Peppers",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "3d50120c-1d5d-5c7b-bc31-0b0575200a90",
+          "ingredient_id": "24cbab0a-29d3-5e28-b361-77f90e93af9c",
+          "name": "scallions",
+          "display_text": "1/2 cup Scallions",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "8ca30514-b765-50d6-bfd3-14e452a1ef25",
+          "ingredient_id": "92714bc1-780e-51dd-976e-bfbc04bc95a8",
+          "name": "sweetcorn",
+          "display_text": "2 Sweetcorn",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "4e0540b8-e3ef-59a5-916e-19e29774b0e9",
+          "ingredient_id": "faf80da1-d928-5c7d-af2e-5c0680400295",
+          "name": "cassaba",
+          "display_text": "1/2 lb Cassaba",
+          "quantity": 0.5,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 226.8,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "867231b0-8cfd-5ebf-b9bd-4726490be6b4",
+          "ingredient_id": "905a3a56-f0bd-5e47-9706-883b4c831453",
+          "name": "yautia",
+          "display_text": "1/2 lb Yautia",
+          "quantity": 0.5,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 226.8,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "5d8d7f47-8653-5882-922b-c867b99da5e5",
+          "ingredient_id": "4e16d391-b99b-5b19-ac18-995e0e6c642f",
+          "name": "white yam",
+          "display_text": "1/2 lb White Yam",
+          "quantity": 0.5,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 226.8,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "1d727adc-047a-5c23-999e-1ab8964948c8",
+          "ingredient_id": "f2a5d81b-c148-52d1-96a6-c8d33709dafc",
+          "name": "butternut squash",
+          "display_text": "1/2 lb Butternut Squash",
+          "quantity": 0.5,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 226.8,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "ee6d7437-f184-5a20-86fa-bbf42d31105c",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "3df0c893-5550-5b99-8071-9ed0511437cb",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "To taste Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "05f98b69-c57a-5a32-ae03-198ba46325dd",
+          "ingredient_id": "1655ccbe-97a7-59b3-9245-ebc95a0ed6d0",
+          "name": "cilantro",
+          "display_text": "Chopped Cilantro",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Add hind shank, 1 halved small onion, halved bell pepper, 4 whole garlic cloves, the dark green leaves of the leek, and stock to a large stockpot. Cook for 45-60 minutes until the meat is fork-tender. NOTE: the meat can take a bit longer to be fork-tender; that is okay, just add more cooking time if necessary.",
+      "timer_seconds": 3600,
+      "ingredients_used": [
+        "6d7d2e2e-2d83-5849-a0a8-04c61467dece",
+        "58f4c815-b5ed-5a4c-be19-d9d78e49b248",
+        "6381f5bc-4f49-5b62-879a-26b8e932a5df",
+        "12cd5243-06b6-5000-a3cc-67af1db520f3",
+        "7d0f679a-936e-5ada-b8aa-b4e49a24d48d",
+        "7dd5b510-1c8f-53a7-9ff5-bac3b1aee8a2",
+        "3df0c893-5550-5b99-8071-9ed0511437cb"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "When the meat is tender, remove the big pieces of vegetables and bones. Discard."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add diced onion, 2 minced garlic, mini sweet peppers, sliced leeks (light green part), scallions, yucca, and corn; Mix and simmer covered over medium heat for 5- 8 minutes, until the yucca is starting to soften. NOTE: the yuca can take a bit longer to start softening; that is okay, just add more cooking time if necessary.",
+      "timer_seconds": 480,
+      "ingredients_used": [
+        "58f4c815-b5ed-5a4c-be19-d9d78e49b248",
+        "12cd5243-06b6-5000-a3cc-67af1db520f3",
+        "7d0f679a-936e-5ada-b8aa-b4e49a24d48d",
+        "7dd5b510-1c8f-53a7-9ff5-bac3b1aee8a2",
+        "89c228cd-ddb5-56c4-bf93-72ebc9e1403e",
+        "3d50120c-1d5d-5c7b-bc31-0b0575200a90"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add yautia, white yam, and butternut squash. Mix to combine. Simmer covered over medium heat for 5 – 6 minutes, until all the root vegetables are tender. NOTE: Do not cook too much, or they will fall apart.",
+      "timer_seconds": 360,
+      "ingredients_used": [
+        "867231b0-8cfd-5ebf-b9bd-4726490be6b4",
+        "5d8d7f47-8653-5882-922b-c867b99da5e5",
+        "1d727adc-047a-5c23-999e-1ab8964948c8"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Taste and add salt to your taste, if necessary. Add cilantro and the remaining 2 minced garlic cloves. Mix and let simmer for 2 more minutes.",
+      "ingredients_used": [
+        "12cd5243-06b6-5000-a3cc-67af1db520f3",
+        "7d0f679a-936e-5ada-b8aa-b4e49a24d48d",
+        "ee6d7437-f184-5a20-86fa-bbf42d31105c",
+        "05f98b69-c57a-5a32-ae03-198ba46325dd"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Serve hot in large soup bowls, dividing the meat and vegetables evenly. Add a squish of lime juice and/or hot sauce, if desired. Serve along with arepas and or casabe (cassava bread)."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://mommyshomecooking.com/easy-venezuelan-sancocho/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

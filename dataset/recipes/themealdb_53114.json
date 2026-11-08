@@ -1,0 +1,151 @@
+{
+  "id": "e0a59889-4f97-59b9-a63e-4019c376e367",
+  "version": "1.0.0",
+  "title": "Ugali – Kenyan cornmeal",
+  "slug": "ugali-kenyan-cornmeal",
+  "summary": "Ugali is a traditional Kenyan staple made by cooking cornmeal in boiling water until it reaches a thick, dough-like consistency.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:05:30Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53114"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/smoa3h1762341142.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/smoa3h1762341142.jpg/small",
+      "alt_text": "Photo of Ugali – Kenyan cornmeal",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=yjue2KTETdE"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "f2e3f346-83dd-52eb-ba4c-b2e29c50a479",
+        "slug": "kenyan",
+        "name": "Kenyan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish",
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 20
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a thick disk of cornmeal"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "e5e8c688-77eb-5b17-87b0-613c78462b14",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "58673eb5-35de-51ee-a814-e6533222a656",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "2 cups Water",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "e7eb38b1-d617-5cdf-8bb9-dc69119ae5f1",
+          "ingredient_id": "05781938-b98b-53f4-b279-3f7f575f8bbb",
+          "name": "white cornmeal",
+          "display_text": "1 1/2 cups White Cornmeal",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Bring the water to a boil in a medium saucepan.",
+      "ingredients_used": [
+        "58673eb5-35de-51ee-a814-e6533222a656"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Reduce the heat to low, and stirring constantly with a whisk, slowly add the cornmeal to the boiling water. The ugali will begin to thicken quite quickly.",
+      "ingredients_used": [
+        "58673eb5-35de-51ee-a814-e6533222a656",
+        "e7eb38b1-d617-5cdf-8bb9-dc69119ae5f1"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Continue cooking on low heat, stirring constantly with a sturdy wooden spoon, until the ugali begins to pull away from the sides of the pan, hold together, and takes on the aroma of roasted corn. Turn it out immediately onto a serving plate. If you would like, using a spoon or spatula, quickly shape it into a thick disk or round."
+    },
+    {
+      "step_number": 4,
+      "instruction": "The ugali will continue to firm as it cools and will be thick enough to cut with a knife (similar to firm polenta)."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://tasteoftheplace.com/ugali-kenyan-cornmeal/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

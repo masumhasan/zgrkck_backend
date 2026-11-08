@@ -1,0 +1,387 @@
+{
+  "id": "12dbf7ce-84a1-5fc8-b69d-f5abe2167a12",
+  "version": "1.0.0",
+  "title": "Bigos (Hunters Stew)",
+  "slug": "bigos-hunters-stew",
+  "summary": "A traditional Polish hunter's stew made with a hearty combination of pork, kielbasa, bacon, sauerkraut, and cabbage.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:57:16Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53018"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/md8w601593348504.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/md8w601593348504.jpg/small",
+      "alt_text": "Photo of Bigos (Hunters Stew)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Oqg_cO4s8ik"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d40b0607-0a3a-5f5d-8012-7eaf1b714fa5",
+        "slug": "polish",
+        "name": "Polish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 190,
+    "total_time_minutes": 210
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1 large bowl of stew"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "fish",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "1cbd17df-1f90-5251-8572-f35613fccc08",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "774ee145-b75c-5599-88bb-b8dc0f37e921",
+          "ingredient_id": "956cfefc-d0f9-5c1f-9f20-d38a1e4dbdad",
+          "name": "bacon",
+          "display_text": "2 sliced Bacon",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "c0d93994-31dc-555e-9d89-ad7286cb6f74",
+          "ingredient_id": "4ffcd7eb-e8b6-5324-a930-37fde2ac7158",
+          "name": "kielbasa",
+          "display_text": "1 lb Kielbasa",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "5449cdc8-78fd-5836-826e-9208891af00e",
+          "ingredient_id": "f16b4344-55cf-5ee7-a3a2-d8f68550bd18",
+          "name": "pork",
+          "display_text": "1 lb Pork",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "d606dd60-be8b-5892-a9b0-3cfde30e1a34",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "1/4 cup Flour",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "c0b9f701-538d-5cd4-8efb-1d529bfb0b92",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 chopped Garlic",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "5debb152-437e-595d-bec0-ba1fa66f0b63",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Diced Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "773f5821-2854-57e8-8099-27b688ef1107",
+          "ingredient_id": "5031dcf8-ef4a-588f-ae8f-de7c2790dfac",
+          "name": "mushrooms",
+          "display_text": "1 1/2 cup Mushrooms",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "78d5c1ae-92c6-5252-a09a-1e7787ccf5f0",
+          "ingredient_id": "8604c41c-a935-5634-b405-fed806fe806b",
+          "name": "cabbage",
+          "display_text": "4 cups Cabbage",
+          "quantity": 4.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 960.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "9789241f-ebf0-511a-848f-b8279569b779",
+          "ingredient_id": "3f420211-9c78-59f6-bedc-67dae51f7566",
+          "name": "sauerkraut",
+          "display_text": "1 Jar Sauerkraut",
+          "quantity": 1.0,
+          "unit": "jar",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c8271d84-afed-527a-af5e-f9a6171c1887",
+          "ingredient_id": "0b364d55-0a30-54fb-b1d4-422f720404e3",
+          "name": "red wine",
+          "display_text": "1/4 cup Red Wine",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "28b46a39-2fd9-5666-a7e1-9d866325b533",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "1 Bay Leaf",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3cf1c313-c317-5083-b71d-94bd7224ace0",
+          "ingredient_id": "fc6a825e-e02a-589c-91d6-b4e76ccc6354",
+          "name": "basil",
+          "display_text": "1 tsp Basil",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "83e3e264-821c-5a9c-9556-19613166871e",
+          "ingredient_id": "6ce49d7a-5bca-5a22-a57c-2838ecf815f4",
+          "name": "marjoram",
+          "display_text": "1 tsp Marjoram",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "958b6ac9-636e-5c52-b997-47ea5e549941",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1 tbs Paprika",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "0492a3b1-646c-5aed-aee2-d9289e093785",
+          "ingredient_id": "110599c9-bd03-5bad-84c6-a2e20655dd5b",
+          "name": "caraway seed",
+          "display_text": "1/8 teaspoon Caraway Seed",
+          "quantity": 0.125,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 0.6,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "91726219-3935-57f8-a32f-2e465068cdfc",
+          "ingredient_id": "42d67342-d05a-512d-958a-1c2fdbf7a682",
+          "name": "hotsauce",
+          "display_text": "1 dash Hotsauce",
+          "quantity": 1.0,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "condiments"
+        },
+        {
+          "id": "4b77f1e9-b806-56c1-a17c-670135cf1bc4",
+          "ingredient_id": "39a746ef-3300-5229-b0b2-3e03970ea60c",
+          "name": "beef stock",
+          "display_text": "5 Cups Beef Stock",
+          "quantity": 5.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 1200.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "378dfaeb-36cb-5b64-b32e-8ea0140924ae",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "2 tbs Tomato Puree",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "ba339def-f1bc-56d6-88f6-2db0f47395f9",
+          "ingredient_id": "e3ca4b2a-435a-5f06-a406-9184cd1d1f47",
+          "name": "diced tomatoes",
+          "display_text": "1 cup Diced Tomatoes",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "523898b8-ae8a-5951-9d90-22347f8f2522",
+          "ingredient_id": "31e8f031-3e86-5406-8703-0e73554e2898",
+          "name": "worcestershire sauce",
+          "display_text": "1 dash Worcestershire Sauce",
+          "quantity": 1.0,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat the oven to 350 degrees F (175 degrees C).",
+      "temperature": {
+        "value": 350,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat a large pot over medium heat. Add the bacon and kielbasa; cook and stir until the bacon has rendered its fat and sausage is lightly browned. Use a slotted spoon to remove the meat and transfer to a large casserole or Dutch oven.",
+      "ingredients_used": [
+        "774ee145-b75c-5599-88bb-b8dc0f37e921",
+        "c0d93994-31dc-555e-9d89-ad7286cb6f74"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Coat the cubes of pork lightly with flour and fry them in the bacon drippings over medium-high heat until golden brown. Use a slotted spoon to transfer the pork to the casserole. Add the garlic, onion, carrots, fresh mushrooms, cabbage and sauerkraut. Reduce heat to medium; cook and stir until the carrots are soft, about 10 minutes. Do not let the vegetables brown.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "774ee145-b75c-5599-88bb-b8dc0f37e921",
+        "5449cdc8-78fd-5836-826e-9208891af00e",
+        "d606dd60-be8b-5892-a9b0-3cfde30e1a34",
+        "c0b9f701-538d-5cd4-8efb-1d529bfb0b92",
+        "5debb152-437e-595d-bec0-ba1fa66f0b63",
+        "773f5821-2854-57e8-8099-27b688ef1107",
+        "78d5c1ae-92c6-5252-a09a-1e7787ccf5f0",
+        "9789241f-ebf0-511a-848f-b8279569b779"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Deglaze the pan by pouring in the red wine and stirring to loosen all of the bits of food and flour that are stuck to the bottom. Season with the bay leaf, basil, marjoram, paprika, salt, pepper, caraway seeds and cayenne pepper; cook for 1 minute.",
+      "timer_seconds": 60,
+      "ingredients_used": [
+        "d606dd60-be8b-5892-a9b0-3cfde30e1a34",
+        "c8271d84-afed-527a-af5e-f9a6171c1887",
+        "28b46a39-2fd9-5666-a7e1-9d866325b533",
+        "3cf1c313-c317-5083-b71d-94bd7224ace0",
+        "83e3e264-821c-5a9c-9556-19613166871e",
+        "958b6ac9-636e-5c52-b997-47ea5e549941",
+        "0492a3b1-646c-5aed-aee2-d9289e093785"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Mix in the dried mushrooms, hot pepper sauce, Worcestershire sauce, beef stock, tomato paste and tomatoes. Heat through just until boiling. Pour the vegetables and all of the liquid into the casserole dish with the meat. Cover with a lid.",
+      "ingredients_used": [
+        "773f5821-2854-57e8-8099-27b688ef1107",
+        "4b77f1e9-b806-56c1-a17c-670135cf1bc4",
+        "ba339def-f1bc-56d6-88f6-2db0f47395f9",
+        "523898b8-ae8a-5951-9d90-22347f8f2522"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Bake in the preheated oven for 2 1/2 to 3 hours, until meat is very tender.",
+      "timer_seconds": 10800
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.allrecipes.com/recipe/138131/bigos-hunters-stew/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

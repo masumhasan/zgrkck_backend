@@ -1,0 +1,272 @@
+{
+  "id": "a61e05ea-de85-5a8b-98a9-785213dab477",
+  "version": "1.0.0",
+  "title": "Crispy fried fish with ginger and fermented soybeans (trey chien chuon)",
+  "slug": "crispy-fried-fish-with-ginger-and-fermented-soybeans-trey-chien-chuon",
+  "summary": "A Cambodian seafood dish featuring crispy fried fish strips served with sautéed fermented soybeans, garlic, and ginger.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:32:33Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53419"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/9q1ci41779735714.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/9q1ci41779735714.jpg/small",
+      "alt_text": "Photo of Crispy fried fish with ginger and fermented soybeans (trey chien chuon)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=V0G3ODvMg0k"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9366172c-dff3-589e-9436-4be7c7f595b3",
+        "slug": "cambodian",
+        "name": "Cambodian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 35
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "fish strips with soybean mixture and rice"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "c952edbc-72a0-5a4b-9187-d90a4cc48016",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "3d457b33-24c7-57e9-8a38-6cd7eb7b18d4",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "2 cups Ginger",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "7399dc6d-218a-541d-a0cf-65a832373fe5",
+          "ingredient_id": "2f08406c-d076-5ac2-9443-c634a0b4ce03",
+          "name": "fish fillet",
+          "display_text": "1 lb Fish fillet",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "fish"
+        },
+        {
+          "id": "c9685a29-745b-599f-83cf-7ac3262dfa94",
+          "ingredient_id": "42ffbf6b-6065-5276-b0d5-18cbdf022899",
+          "name": "tempura flour",
+          "display_text": "2 tablespoons Tempura Flour",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "e69f5922-95a0-5b83-a615-3da0eac782e9",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "2 cups Oil",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "12ea2ce1-4fdc-514b-86a0-ab1cefc5c1a1",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "4 cloves Garlic",
+          "quantity": 4.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2880cde8-c9b1-5946-a2c6-8233612cce1d",
+          "ingredient_id": "b40159a8-fdb9-5393-831e-3372eb1518c0",
+          "name": "soya bean",
+          "display_text": "800g Soya Bean",
+          "quantity": 800.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 800.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "85149fc4-b5aa-5d46-b442-f6d6be375d86",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1/2 tbs Sugar",
+          "quantity": 0.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "99e7b093-814c-59cf-9574-399c94c3b34b",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1/2 cup Water",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "1cf7cc0e-e7be-5d18-a21c-ea52ccaceb02",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "3 Spring Onions",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Fry the ginger in plenty of oil until golden and slightly crispy. Set aside for later.",
+      "ingredients_used": [
+        "3d457b33-24c7-57e9-8a38-6cd7eb7b18d4",
+        "e69f5922-95a0-5b83-a615-3da0eac782e9"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Cut the fish into strips. Dredge the fish in a very thin layer of tempura flour.",
+      "ingredients_used": [
+        "c9685a29-745b-599f-83cf-7ac3262dfa94"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Fry the fish in plenty of oil until golden brown and crispy. You can use the same oil as you were using to fry the ginger.",
+      "ingredients_used": [
+        "3d457b33-24c7-57e9-8a38-6cd7eb7b18d4",
+        "e69f5922-95a0-5b83-a615-3da0eac782e9"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Crush the garlic and chop it into small pieces. Chop the spring onion.",
+      "ingredients_used": [
+        "12ea2ce1-4fdc-514b-86a0-ab1cefc5c1a1"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Drain the fermented soybeans using a colander. If you are using salted beans (soybeans in a very salty brine), you need to wash the beans in water before you add them to the dish.",
+      "ingredients_used": [
+        "2880cde8-c9b1-5946-a2c6-8233612cce1d",
+        "99e7b093-814c-59cf-9574-399c94c3b34b"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Add a tablespoon of oil to a deep pan or a large pot, and sauté the garlic until slightly golden.",
+      "ingredients_used": [
+        "e69f5922-95a0-5b83-a615-3da0eac782e9",
+        "12ea2ce1-4fdc-514b-86a0-ab1cefc5c1a1"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Add the soybeans and stir fry for a few minutes. If the soybeans are very salty, add ¼- ½ tablespoon sugar to balance the flavor.",
+      "ingredients_used": [
+        "85149fc4-b5aa-5d46-b442-f6d6be375d86"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Add water and fry for a minute.",
+      "ingredients_used": [
+        "99e7b093-814c-59cf-9574-399c94c3b34b"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Just before serving, stir in the fried ginger, the spring onion, and the crispy fish. Serve with steamed rice.",
+      "ingredients_used": [
+        "3d457b33-24c7-57e9-8a38-6cd7eb7b18d4"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://mitziemee.com/recipe-cambodian-fried-fish-ginger-fermented-soybeans/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

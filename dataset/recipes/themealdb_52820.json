@@ -1,0 +1,339 @@
+{
+  "id": "214cc0a1-61f1-535d-8cef-cfaf1c73ca13",
+  "version": "1.0.0",
+  "title": "Katsu Chicken curry",
+  "slug": "katsu-chicken-curry",
+  "summary": "A Japanese-style dish featuring breaded, fried chicken cutlets served with a thick, aromatic vegetable and spice-based curry sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:40:23Z",
+  "updated_at": "2026-10-16T10:22:46Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52820"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/vwrpps1503068729.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/vwrpps1503068729.jpg/small",
+      "alt_text": "Photo of Katsu Chicken curry",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=MWzxDFRtVbc"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "56a9f85e-d404-5cf3-b90f-babb495ba40f",
+        "slug": "japanese",
+        "name": "Japanese"
+      }
+    ],
+    "tags": [
+      "curry",
+      "meat"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 45
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 chicken cutlet with curry sauce and rice"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "eggs"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "fee44e5f-8b29-59c5-ae09-1f19c0e8f99c",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "7445c3cf-85ff-5aa9-8596-7d26dd8da4f4",
+          "ingredient_id": "e23191a1-4966-5b21-a6f1-8df6f50b79db",
+          "name": "chicken breast",
+          "display_text": "4 pounded to 1cm thickness chicken breast",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "pounded to 1cm thickness",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "4aa2c599-bef4-5ab9-8f31-b7221afa69d0",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "2 tablespoons plain flour",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "7f7d9ece-70a7-5b58-bc24-fa4b7e56e4d1",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 beaten egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "beaten",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "e7663a56-4083-520d-b059-37dc3436813a",
+          "ingredient_id": "00efa231-6d81-5c88-91fa-b330117cc5f4",
+          "name": "breadcrumbs",
+          "display_text": "100g fine breadcrumbs",
+          "quantity": 100.0,
+          "unit": "gram",
+          "preparation": "fine",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "fe017348-26ca-578e-955a-8d88421d7123",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "230ml frying vegetable oil",
+          "quantity": 230.0,
+          "unit": "milliliter",
+          "preparation": "frying",
+          "is_optional": false,
+          "metric_quantity": 230.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "d3f85804-3dbe-54c6-87e7-b26ee5f39e1e",
+          "ingredient_id": "aa561384-0d26-5008-a25e-3ba9db4b2a3f",
+          "name": "sunflower oil",
+          "display_text": "2 tablespoons sunflower oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "8bed705a-230e-5a21-93b5-b5aa37788158",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onions",
+          "display_text": "2 sliced onions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c16455bc-baa4-54f7-9872-2973e4b9b0f4",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "5 chopped cloves garlic",
+          "quantity": 5.0,
+          "unit": "piece",
+          "preparation": "chopped cloves",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f76c20d5-5bc0-58e1-adce-bee0ff6b3112",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrot",
+          "display_text": "2 sliced carrot",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2b7a5edd-41f6-5ef8-a6bf-0c559c4e3801",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "2 tablespoons plain flour",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "85aeaed4-d80e-5b9c-9c39-d1ee341d8158",
+          "ingredient_id": "bf1eedb9-f5db-509c-818c-63ceb74086c5",
+          "name": "curry powder",
+          "display_text": "4 teaspoons curry powder",
+          "quantity": 4.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 20.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "f11db01d-ac77-51fb-aa01-e251051b23f9",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "600ml chicken stock",
+          "quantity": 600.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 600.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "39e1b6d9-878d-572f-90e3-d2383d1ed3d0",
+          "ingredient_id": "7ad11d6e-3134-5831-97df-4db2a67589f7",
+          "name": "honey",
+          "display_text": "2 teaspoons honey",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "2e12773a-ab8b-546f-9b66-15d1bf85ea23",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "4 teaspoons soy sauce",
+          "quantity": 4.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 20.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "9bdf2e08-d778-52dc-9a8d-95f883e55e4e",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "1 bay leaf",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1335d128-1ca6-5e39-ba00-e2f25da82d4f",
+          "ingredient_id": "b3528dc3-f7f7-5d65-9903-d906fc4c30f0",
+          "name": "garam masala",
+          "display_text": "1 teaspoon garam masala",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Prep:15min  ›  Cook:30min  ›  Ready in:45min"
+    },
+    {
+      "step_number": 2,
+      "instruction": "For the curry sauce: Heat oil in medium non-stick saucepan, add onion and garlic and cook until softened. Stir in carrots and cook over low heat for 10 to 12 minutes.",
+      "timer_seconds": 720,
+      "ingredients_used": [
+        "c16455bc-baa4-54f7-9872-2973e4b9b0f4",
+        "f76c20d5-5bc0-58e1-adce-bee0ff6b3112"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add flour and curry powder; cook for 1 minute. Gradually stir in stock until combined; add honey, soy sauce and bay leaf. Slowly bring to the boil.",
+      "timer_seconds": 60,
+      "ingredients_used": [
+        "85aeaed4-d80e-5b9c-9c39-d1ee341d8158",
+        "39e1b6d9-878d-572f-90e3-d2383d1ed3d0",
+        "2e12773a-ab8b-546f-9b66-15d1bf85ea23",
+        "9bdf2e08-d778-52dc-9a8d-95f883e55e4e"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Turn down heat and simmer for 20 minutes or until sauce thickens but is still of pouring consistency. Stir in garam masala. Pour the curry sauce through a sieve; return to saucepan and keep on low heat until ready to serve.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "1335d128-1ca6-5e39-ba00-e2f25da82d4f"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "For the chicken: Season both sides of chicken breasts with salt and pepper. Place flour, egg and breadcrumbs in separate bowls and arrange in a row. Coat the chicken breasts in flour, then dip them into the egg, then coat in breadcrumbs, making sure you cover both sides.",
+      "ingredients_used": [
+        "7445c3cf-85ff-5aa9-8596-7d26dd8da4f4",
+        "7f7d9ece-70a7-5b58-bc24-fa4b7e56e4d1",
+        "e7663a56-4083-520d-b059-37dc3436813a"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Heat oil in large frying pan over medium-high heat. Place chicken into hot oil and cook until golden brown, about 3 or 4 minutes each side. Once cooked, place on kitchen paper to absorb excess oil.",
+      "timer_seconds": 240
+    },
+    {
+      "step_number": 7,
+      "instruction": "Pour curry sauce over chicken, serve with white rice and enjoy!"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://allrecipes.co.uk/recipe/29578/chicken-katsu-curry.aspx"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

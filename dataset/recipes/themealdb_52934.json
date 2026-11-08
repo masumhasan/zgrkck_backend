@@ -1,0 +1,363 @@
+{
+  "id": "534acd0a-3554-5206-aedb-dd270380ff6a",
+  "version": "1.0.0",
+  "title": "Chicken Basquaise",
+  "slug": "chicken-basquaise",
+  "summary": "A French-style chicken dish cooked with peppers, onions, chorizo, and sun-dried tomatoes, served over basmati rice.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:50:30Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52934"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/wruvqv1511880994.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/wruvqv1511880994.jpg/small",
+      "alt_text": "Photo of Chicken Basquaise",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=emfm6TwsVhg"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "fe8f07a1-591f-5711-ae5b-f3c9afcc3e60",
+        "slug": "french",
+        "name": "French"
+      }
+    ],
+    "tags": [
+      "meat"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 75,
+    "total_time_minutes": 95
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 chicken joint with rice and vegetables"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "sulfites"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "d332cbea-b0c2-52cc-8434-5dd2ca594e3c",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "0c222158-b420-57dd-9879-7e0aa2f77dc8",
+          "ingredient_id": "96643234-56e3-5df9-9877-487e63d7cb8b",
+          "name": "chicken",
+          "display_text": "1.5kg Chicken",
+          "quantity": 1.5,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.5,
+          "metric_unit": "kilogram",
+          "category": "poultry"
+        },
+        {
+          "id": "d62ff6ed-1591-5c12-bfe5-b13a3183c08c",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "25g Butter",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "7863935c-534d-5ea9-8fe7-6b27232e851f",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "6 tblsp Olive Oil",
+          "quantity": 6.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 90.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "706c36c9-fbd9-54a5-b271-1a42e75cd8da",
+          "ingredient_id": "716f7639-3b59-56a7-9146-1819649ebdad",
+          "name": "red onions",
+          "display_text": "2 sliced Red Onions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "53749b38-f732-53b9-a451-c5d66aa05fc5",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "3 Large Red Pepper",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "94689a0e-ee25-5e2c-b8a9-66ee58c4d606",
+          "ingredient_id": "d4235a95-0bb4-579b-8855-bbb8f4efeb46",
+          "name": "chorizo",
+          "display_text": "130g Chorizo",
+          "quantity": 130.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 130.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "51f1cccc-dc4e-5348-8309-40d8cac93bb4",
+          "ingredient_id": "c663e7b2-9416-5b46-8769-b4782a8371d9",
+          "name": "sun-dried tomatoes",
+          "display_text": "8 Sun-Dried Tomatoes",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "06c52ff0-327b-5196-a958-04d7ecf1612a",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "6 cloves sliced Garlic",
+          "quantity": 6.0,
+          "unit": "clove",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2194bd37-3516-56f3-90da-5aca54202fa8",
+          "ingredient_id": "83ffb65f-48c4-5295-bd29-b97975a1fcb1",
+          "name": "basmati rice",
+          "display_text": "300g Basmati Rice",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "ba8ab9d8-4d4f-5eb0-99ac-a5f9e9029810",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "drizzle Tomato Puree",
+          "quantity": 1,
+          "unit": "drizzle",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "ac6877df-c22c-5464-97c5-c4a3b2e0e271",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "½ tsp Paprika",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "b92c398d-38d9-5879-b575-c4ea6d76d8cb",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaves",
+          "display_text": "4 Bay Leaves",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "2762c888-bded-5498-8f20-7e32c5aea1d8",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "Handful Thyme",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "ce4bc891-bedc-51b3-bdc8-b4d1d564ba1b",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "350ml Chicken Stock",
+          "quantity": 350.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 350.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "1747127b-7d26-5f28-9b85-83befa89bbfc",
+          "ingredient_id": "fda31c84-156d-52ae-9761-68b43f6d20f4",
+          "name": "dry white wine",
+          "display_text": "180g Dry White Wine",
+          "quantity": 180.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 180.0,
+          "metric_unit": "gram",
+          "category": "beverages"
+        },
+        {
+          "id": "0214c614-9df5-5ae9-83d6-47e4d70c3bd2",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemons",
+          "display_text": "2 Lemons",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "cfc8b0c7-cbdc-578c-ad37-5f31e3669857",
+          "ingredient_id": "e0970f8f-509c-5d2f-a8b2-85ecb22b5660",
+          "name": "black olives",
+          "display_text": "100g Black Olives",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "ed5d9b7c-64e6-5598-a3ec-943617630108",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "to serve Salt",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "69d62ea5-24fb-519f-baf5-ba357c05a309",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "to serve Pepper",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat the oven to 180°C/Gas mark 4. Have the chicken joints ready to cook. Heat the butter and 3 tbsp olive oil in a flameproof casserole or large frying pan. Brown the chicken pieces in batches on both sides, seasoning them with salt and pepper as you go. Don't crowd the pan - fry the chicken in small batches, removing the pieces to kitchen paper as they are done.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "0c222158-b420-57dd-9879-7e0aa2f77dc8",
+        "d62ff6ed-1591-5c12-bfe5-b13a3183c08c",
+        "7863935c-534d-5ea9-8fe7-6b27232e851f",
+        "ed5d9b7c-64e6-5598-a3ec-943617630108",
+        "69d62ea5-24fb-519f-baf5-ba357c05a309"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add a little more olive oil to the casserole and fry the onions over a medium heat for 10 minutes, stirring frequently, until softened but not browned. Add the rest of the oil, then the peppers and cook for another 5 minutes.",
+      "ingredients_used": [
+        "7863935c-534d-5ea9-8fe7-6b27232e851f",
+        "706c36c9-fbd9-54a5-b271-1a42e75cd8da"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the chorizo, sun-dried tomatoes and garlic and cook for 2-3 minutes. Add the rice, stirring to ensure it is well coated in the oil. Stir in the tomato paste, paprika, bay leaves and chopped thyme. Pour in the stock and wine. When the liquid starts to bubble, turn the heat down to a gentle simmer. Press the rice down into the liquid if it isn't already submerged and place the chicken on top. Add the lemon wedges and olives around the chicken.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "0c222158-b420-57dd-9879-7e0aa2f77dc8",
+        "94689a0e-ee25-5e2c-b8a9-66ee58c4d606",
+        "51f1cccc-dc4e-5348-8309-40d8cac93bb4",
+        "06c52ff0-327b-5196-a958-04d7ecf1612a",
+        "2194bd37-3516-56f3-90da-5aca54202fa8",
+        "ac6877df-c22c-5464-97c5-c4a3b2e0e271",
+        "b92c398d-38d9-5879-b575-c4ea6d76d8cb",
+        "2762c888-bded-5498-8f20-7e32c5aea1d8",
+        "1747127b-7d26-5f28-9b85-83befa89bbfc",
+        "cfc8b0c7-cbdc-578c-ad37-5f31e3669857"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Cover and cook in the oven for 50 minutes. The rice should be cooked but still have some bite, and the chicken should have juices that run clear when pierced in the thickest part with a knife. If not, cook for another 5 minutes and check again.",
+      "ingredients_used": [
+        "0c222158-b420-57dd-9879-7e0aa2f77dc8",
+        "2194bd37-3516-56f3-90da-5aca54202fa8"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.rivercottage.net/recipes/chicken-basquaise"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

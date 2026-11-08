@@ -1,0 +1,341 @@
+{
+  "id": "a2345d5b-a2e8-563d-8502-68bba2533a10",
+  "version": "1.0.0",
+  "title": "Quark and Rhubarb Pie",
+  "slug": "quark-and-rhubarb-pie",
+  "summary": "An Estonian dessert featuring a soft yeast dough filled with sweet quark and tart rhubarb, shaped into rolls and baked until golden.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:46:21Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53574"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/s5o6521784834958.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/s5o6521784834958.jpg/small",
+      "alt_text": "Photo of Quark and Rhubarb Pie",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "da9196a9-a77a-56ba-93b0-a3364fc63c4e",
+        "slug": "estonian",
+        "name": "Estonian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 30,
+    "rest_time_minutes": 120,
+    "total_time_minutes": 170
+  },
+  "yield": {
+    "servings": 7,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 rhubarb and quark roll"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "94191025-fa77-50a8-a00a-69fe305c9608",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "96d6f69e-252b-5799-a100-4ebc23f3363e",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "100ml Milk",
+          "quantity": 100.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "565238e8-d38b-577b-aece-946b04025a2a",
+          "ingredient_id": "28b21302-909b-59d3-a88f-a543e26ac34f",
+          "name": "yeast",
+          "display_text": "10g Yeast",
+          "quantity": 10.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "db114cba-4ccc-573c-b59c-55c883d8081b",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 tablespoon Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "71e5f0ae-f66f-5d2b-9616-1456991bd499",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "0e450fcf-ca22-5de3-8c50-e29fefdb71ce",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "25g Butter",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "1ea693a2-4ad8-5bee-81b7-9c23ffa76c79",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/2 tsp Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "f45544ca-e0fb-517e-ad7b-dd65fe78823b",
+          "ingredient_id": "d72c12ae-5cbc-534c-bbd5-bc044d844d0a",
+          "name": "cardamom",
+          "display_text": "1/2 tsp Cardamom",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "dc000e91-f27e-5be0-bf7b-9aadf3ce8e40",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "300ml Flour",
+          "quantity": 300.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "e5ff7fd0-783d-5d05-8fe2-d9cfe3e6ae19",
+          "ingredient_id": "d21113c1-6f5f-5559-92e6-2a31002d64b9",
+          "name": "sweet quark",
+          "display_text": "200g Sweet Quark",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "f6ed48ea-1fdf-5198-8e4e-b6b6cbf92750",
+          "ingredient_id": "dd3dd5c3-244c-5ac3-8988-9ec55a5c49d6",
+          "name": "rhubarb",
+          "display_text": "1 cup Rhubarb",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "d051e6cd-0a9e-5fb2-8346-ef17f81c72bb",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "Pinch Sugar",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "sweeteners"
+        },
+        {
+          "id": "cf0cde91-1c0f-5d9b-8165-3747c09ae282",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "Pinch Cinnamon",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "All materials must be in room temperature"
+    },
+    {
+      "step_number": 2,
+      "instruction": "Dissolve yeast with lukewarm (37C) milk and sugar",
+      "temperature": {
+        "value": 37,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "96d6f69e-252b-5799-a100-4ebc23f3363e",
+        "565238e8-d38b-577b-aece-946b04025a2a",
+        "db114cba-4ccc-573c-b59c-55c883d8081b",
+        "d051e6cd-0a9e-5fb2-8346-ef17f81c72bb"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add about half of the quantity of flour, mixed with salt",
+      "ingredients_used": [
+        "1ea693a2-4ad8-5bee-81b7-9c23ffa76c79",
+        "dc000e91-f27e-5be0-bf7b-9aadf3ce8e40"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Beat the mixture for a short time. Sprinkle with a little flour , cover the bowl with a towel and place in a warm place to rise for ca 1 hour",
+      "timer_seconds": 3600,
+      "ingredients_used": [
+        "dc000e91-f27e-5be0-bf7b-9aadf3ce8e40"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Add additional flour, cardamom",
+      "ingredients_used": [
+        "f45544ca-e0fb-517e-ad7b-dd65fe78823b",
+        "dc000e91-f27e-5be0-bf7b-9aadf3ce8e40"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "add melted butter. Beat egg and leave ca 1 teaspoon for spreading.Add other beaten egg in to the dough",
+      "ingredients_used": [
+        "71e5f0ae-f66f-5d2b-9616-1456991bd499",
+        "0e450fcf-ca22-5de3-8c50-e29fefdb71ce"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Knead the dough properly, until it separates from the bowl."
+    },
+    {
+      "step_number": 8,
+      "instruction": "Sprinkle with a little flour , cover the bowl with a towel and place in a warm place to rise for ca 1 hour until dough is doubled in size.",
+      "timer_seconds": 3600,
+      "ingredients_used": [
+        "dc000e91-f27e-5be0-bf7b-9aadf3ce8e40"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Roll the dough to a square and put in center quark. Turn edges on to the quark and roll again carefully  to a rectangle.",
+      "ingredients_used": [
+        "e5ff7fd0-783d-5d05-8fe2-d9cfe3e6ae19"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "Pour on to the rectangle rhubarb, sugar and cinnamon. leave one edge ca 2 cm empty. Roll and cut in to the equal slices. You should get ca 6-7 rolls. Empty edge turn under the roll as bottom.",
+      "ingredients_used": [
+        "db114cba-4ccc-573c-b59c-55c883d8081b",
+        "f6ed48ea-1fdf-5198-8e4e-b6b6cbf92750",
+        "d051e6cd-0a9e-5fb2-8346-ef17f81c72bb",
+        "cf0cde91-1c0f-5d9b-8165-3747c09ae282"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Put roll in to the butter-spreaded springform pan, as flower. one roll in to the center and others around. Let enough space to rise.",
+      "ingredients_used": [
+        "0e450fcf-ca22-5de3-8c50-e29fefdb71ce"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Coat buns with beaten egg before putting into the oven. Bate at 180C 20-30 minutes .",
+      "timer_seconds": 1800,
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "71e5f0ae-f66f-5d2b-9616-1456991bd499"
+      ]
+    },
+    {
+      "step_number": 13,
+      "instruction": "Decorate with icing sugar.",
+      "ingredients_used": [
+        "db114cba-4ccc-573c-b59c-55c883d8081b",
+        "d051e6cd-0a9e-5fb2-8346-ef17f81c72bb"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://estoniancuisine.com/2017/05/13/4295/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

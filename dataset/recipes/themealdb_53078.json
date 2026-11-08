@@ -1,0 +1,196 @@
+{
+  "id": "c738d3f8-85ca-5e82-8bfb-566a5a196b6d",
+  "version": "1.0.0",
+  "title": "Beetroot Soup (Borscht)",
+  "slug": "beetroot-soup-borscht",
+  "summary": "A traditional Ukrainian beetroot soup featuring boiled beetroot, potatoes, and cannellini beans.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:02:35Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53078"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/zadvgb1699012544.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/zadvgb1699012544.jpg/small",
+      "alt_text": "Photo of Beetroot Soup (Borscht)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=6CXgPVw_-0g"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "e00f83fa-fc1f-5fa7-b77b-c52fa0a57fe1",
+        "slug": "ukrainian",
+        "name": "Ukrainian"
+      }
+    ],
+    "tags": [
+      "soup"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "soup"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 35,
+    "total_time_minutes": 50
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of soup"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "gluten",
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "6f9515c5-f66d-5918-84b2-04abadea0cf6",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "a302654f-91f2-5e09-9697-33cc90884981",
+          "ingredient_id": "5eb26a00-afde-5f0c-84ea-6db9840afa2c",
+          "name": "beetroot",
+          "display_text": "3 Beetroot",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "fd397c1c-5040-5864-9887-04d01919c9ab",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "4 tbs Olive Oil",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "66edcd7c-e906-5e5a-996e-c6c4746e1bda",
+          "ingredient_id": "c51e6b59-c18d-5488-827d-6e870113c2e5",
+          "name": "chicken stock cube",
+          "display_text": "1 Chicken Stock Cube",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "feb7084f-ced4-536d-bbec-53bbaa2289f6",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "6 cups Water",
+          "quantity": 6.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 1440.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "877c0d44-a10f-5cb7-a35b-f45496a3e024",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "3 Potatoes",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "bfc7c203-ea1c-5868-9a32-7a16f31158a2",
+          "ingredient_id": "b2ff6357-5b66-5b44-8834-220365f1a90d",
+          "name": "cannellini beans",
+          "display_text": "1 can Cannellini Beans",
+          "quantity": 1.0,
+          "unit": "can",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "c9d26317-5dd7-5543-917b-1527e8d388e2",
+          "ingredient_id": "c20ef13e-7f52-5fce-847f-34f123e6392e",
+          "name": "dill",
+          "display_text": "Garnish Dill",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "garnish",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Chop the beetroot, add water and stock cube and cook for 15mins. Add the other ingredients and boil until soft.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "a302654f-91f2-5e09-9697-33cc90884981",
+        "66edcd7c-e906-5e5a-996e-c6c4746e1bda",
+        "feb7084f-ced4-536d-bbec-53bbaa2289f6"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Finally add the beans and cook for 5mins. Serve in the soup pot.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "bfc7c203-ea1c-5868-9a32-7a16f31158a2"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://natashaskitchen.com/classic-russian-borscht-recipe/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

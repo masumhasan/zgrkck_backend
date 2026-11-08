@@ -1,0 +1,267 @@
+{
+  "id": "175b446f-36ec-5bf9-85db-c644b1e89aa2",
+  "version": "1.0.0",
+  "title": "Fish fofos",
+  "slug": "fish-fofos",
+  "summary": "Portuguese-style fish fritters made with poached haddock, potatoes, and aromatic spices, coated in breadcrumbs and fried until golden.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:59:39Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53043"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/a15wsa1614349126.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/a15wsa1614349126.jpg/small",
+      "alt_text": "Photo of Fish fofos",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=YXUZHK2PrV8"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d3317c07-1a34-51bf-a414-80251ba04fe2",
+        "slug": "portuguese",
+        "name": "Portuguese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 14,
+    "marinating_time_minutes": 20,
+    "total_time_minutes": 54
+  },
+  "yield": {
+    "servings": 3,
+    "serving_unit": "servings"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "eggs",
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "61890050-91db-5d60-aa83-56eecee0f3a6",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "51157ab4-6fed-5e3f-82ba-632ffa59f1ba",
+          "ingredient_id": "4b8bb11c-07ac-57ce-b69f-6943f80b1d5a",
+          "name": "haddock",
+          "display_text": "600g Haddock",
+          "quantity": 600.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 600.0,
+          "metric_unit": "gram",
+          "category": "fish"
+        },
+        {
+          "id": "bad00247-d4e2-5854-9f1d-c4891da86317",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "300g Potatoes",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "ddcbcbe9-4811-50cb-92ad-603019d7a39f",
+          "ingredient_id": "091f7fa6-975c-516e-a354-2a31e6503580",
+          "name": "green chilli",
+          "display_text": "1 chopped Green Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2934ebaa-79ff-5ad5-8ea4-8ed4d34d4aef",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "3 tbs Coriander",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "73d4e7e6-b7c7-5a26-8da5-5503c30ae13d",
+          "ingredient_id": "e03a9d77-1724-50c7-abdd-1b6af998189f",
+          "name": "cumin seeds",
+          "display_text": "1 tsp Cumin Seeds",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "be4f4c2c-5576-5c2e-833d-62eeb32beca1",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "1/2 tsp Pepper",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "b260d2e0-20c8-5f58-a6be-622c5e3128f9",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 cloves Garlic",
+          "quantity": 3.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "89aa93d8-212d-5d62-b47e-3d9634047e73",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "2 pieces Ginger",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1619b403-1c18-573c-8f05-6fd632ef5980",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "2 tbs Flour",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "c8bcfb5a-1617-57fa-a14e-5832206c7508",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "3 Eggs",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "4f574d23-e742-522b-b752-478a3a54c8d5",
+          "ingredient_id": "00efa231-6d81-5c88-91fa-b330117cc5f4",
+          "name": "breadcrumbs",
+          "display_text": "75g Breadcrumbs",
+          "quantity": 75.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "49b4deff-fb1a-57d3-a9d5-e8596532226e",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "For frying Vegetable Oil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "for frying",
+          "is_optional": false,
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Put the fish into a lidded pan and pour over enough water to cover. Bring to a simmer and gently poach for 10 minutes over a low heat with the lid on. Drain and flake the fish.",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 2,
+      "instruction": "Put the fish, potato, green chilli, coriander, cumin, black pepper, garlic and ginger in a large bowl. Season, add the rice flour, mix well and break in 1 egg. Stir the mixture and divide into 15, then form into small logs. Break the remaining eggs into a bowl and whisk lightly. Put the breadcrumbs into another bowl. Dip each fofo in the beaten egg followed by the breadcrumb mixture. Chill for 20 minutes.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "ddcbcbe9-4811-50cb-92ad-603019d7a39f",
+        "2934ebaa-79ff-5ad5-8ea4-8ed4d34d4aef",
+        "be4f4c2c-5576-5c2e-833d-62eeb32beca1",
+        "b260d2e0-20c8-5f58-a6be-622c5e3128f9",
+        "89aa93d8-212d-5d62-b47e-3d9634047e73",
+        "1619b403-1c18-573c-8f05-6fd632ef5980",
+        "c8bcfb5a-1617-57fa-a14e-5832206c7508",
+        "4f574d23-e742-522b-b752-478a3a54c8d5"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Heat 1cm of oil in a large frying pan over a medium heat. Fry the fofos in batches for 2 minutes on each side, turning gently to get an even golden brown color all over. Drain on kitchen paper and repeat with the remaining fofos.",
+      "timer_seconds": 120
+    },
+    {
+      "step_number": 4,
+      "instruction": "For the onion salad, mix together the onion, coriander and lemon juice with a pinch of salt. Serve with the fofos and mango chutney.",
+      "ingredients_used": [
+        "2934ebaa-79ff-5ad5-8ea4-8ed4d34d4aef"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.olivemagazine.com/recipes/fish-and-seafood/fish-fofos/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

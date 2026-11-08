@@ -1,0 +1,279 @@
+{
+  "id": "1bbaf391-8123-5736-bc9b-41cc0b9b944f",
+  "version": "1.0.0",
+  "title": "Chicken & chorizo rice pot",
+  "slug": "chicken-chorizo-rice-pot",
+  "summary": "A Spanish-style one-pot meal featuring chicken and chorizo simmered with rice, peppers, and white wine.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:09:43Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53161"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/fk80jp1763280767.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/fk80jp1763280767.jpg/small",
+      "alt_text": "Photo of Chicken & chorizo rice pot",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=CiY6ZOYRMI4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 58,
+    "rest_time_minutes": 10,
+    "total_time_minutes": 83
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 large portion of rice with chicken and chorizo"
+  },
+  "allergens": {
+    "contains": [
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "50ae7861-080c-504d-8246-e9f699c61125",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "045e50fe-5a85-5cd6-b291-0be13e2147ec",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "1 tblsp Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "5e42de1f-b107-53c9-93cb-1cb6b3235e6a",
+          "ingredient_id": "96643234-56e3-5df9-9877-487e63d7cb8b",
+          "name": "chicken",
+          "display_text": "1 whole Chicken",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "whole",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "40e77322-84d3-51fc-8493-89835554026a",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Large Chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1ca34953-6953-5134-b658-0ac411ec0084",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1 chopped Red Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "73013594-df74-54c5-a94c-812f1fc1d342",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 Cloves Crushed Garlic",
+          "quantity": 3.0,
+          "unit": "clove",
+          "preparation": "crushed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f6d807bf-b933-5903-b216-ca7ad15396d7",
+          "ingredient_id": "d4235a95-0bb4-579b-8855-bbb8f4efeb46",
+          "name": "chorizo",
+          "display_text": "225g Chorizo",
+          "quantity": 225.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 225.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "64a8f4a9-8b00-5010-b209-1d372911e707",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "1 tblsp Tomato Puree",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "52d31b79-ce82-54e1-9409-c95e8e510545",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "1 tablespoon chopped Thyme",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "8bbcfb9d-59d1-50b6-9982-e25397adcd21",
+          "ingredient_id": "7dfa4179-cc08-5fb6-b4fc-aa52abc5f515",
+          "name": "white wine",
+          "display_text": "150ml White Wine",
+          "quantity": 150.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "3bb04089-30ab-5ac3-befe-c28f31d5f460",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "800ml Chicken Stock",
+          "quantity": 800.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 800.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "9d57a2b7-6d46-5be3-8c73-66645ee55e9b",
+          "ingredient_id": "025b8433-c498-5b37-813a-ec00ac6c2ae5",
+          "name": "rice",
+          "display_text": "400g Rice",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "73b93a59-9974-574b-91e3-657f48e80221",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "2 tbs chopped Parsley",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oil in a large flameproof casserole dish and brown the chicken pieces on all sides – you may have to do this in batches. Remove from the dish and put to one side.",
+      "ingredients_used": [
+        "045e50fe-5a85-5cd6-b291-0be13e2147ec",
+        "5e42de1f-b107-53c9-93cb-1cb6b3235e6a"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Lower the heat, add the onion and pepper, and gently cook for 10 mins until softened. Add the garlic and chorizo, and cook for a further 2 mins until the chorizo has released some of its oils into the dish. Stir in the tomato purée and cook for 1 min more.",
+      "ingredients_used": [
+        "40e77322-84d3-51fc-8493-89835554026a",
+        "73013594-df74-54c5-a94c-812f1fc1d342",
+        "f6d807bf-b933-5903-b216-ca7ad15396d7"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Return the chicken pieces to the dish along with the thyme, white wine and stock. Bring the liquid to a boil, cover the dish with a tight-fitting lid and lower the heat. Cook for 30 mins.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "5e42de1f-b107-53c9-93cb-1cb6b3235e6a",
+        "52d31b79-ce82-54e1-9409-c95e8e510545",
+        "8bbcfb9d-59d1-50b6-9982-e25397adcd21"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Tip in the rice and stir everything together. Cover, set over a low heat and cook for a further 15 mins, or until the rice is cooked and has absorbed most of the cooking liquid. Remove from the heat and leave the dish to sit for 10 mins to absorb any remaining liquid. Season to taste and scatter with parsley to serve.",
+      "ingredients_used": [
+        "9d57a2b7-6d46-5be3-8c73-66645ee55e9b",
+        "73b93a59-9974-574b-91e3-657f48e80221"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/chicken-chorizo-rice-pot"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

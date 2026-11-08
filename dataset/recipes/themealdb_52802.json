@@ -1,0 +1,319 @@
+{
+  "id": "7519ac9e-2257-52e7-85b4-3d4b46fe62cf",
+  "version": "1.0.0",
+  "title": "Fish pie",
+  "slug": "fish-pie",
+  "summary": "A classic British seafood dish featuring a creamy mixture of white fish, prawns, leeks, and artichokes, topped with mashed potatoes and melted Gruyère cheese.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:38:47Z",
+  "updated_at": "2026-10-16T10:22:44Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52802"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg/small",
+      "alt_text": "Photo of Fish pie",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=2sX4fCgg-UI"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "baking",
+      "breakfast",
+      "fish",
+      "pie"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 60,
+    "total_time_minutes": 80
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a large portion of fish pie"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "fish",
+      "shellfish"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "77c5f95c-fcd9-5729-8a93-4522fdf64c54",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "34769ebd-1084-54df-97a1-0471ae4e9024",
+          "ingredient_id": "5ab2844a-ae46-593a-bd2a-31993da0d0b3",
+          "name": "floury potatoes",
+          "display_text": "900g Floury Potatoes",
+          "quantity": 900.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 900.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "8659fffc-a68b-59d0-a4c1-af7378dceb4d",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tbsp Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "a2cbe48c-f350-5d1a-8bc7-7b18f66abae2",
+          "ingredient_id": "b2d88ca1-cd53-5098-8ebf-5e66679bd2bd",
+          "name": "semi-skimmed milk",
+          "display_text": "600ml Semi-skimmed Milk",
+          "quantity": 600.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 600.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "4243d5b2-0df3-5690-8cac-917a20d32b3e",
+          "ingredient_id": "294fd450-3103-541d-82ea-098246f4c7d6",
+          "name": "white fish fillets",
+          "display_text": "800g White Fish Fillets",
+          "quantity": 800.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 800.0,
+          "metric_unit": "gram",
+          "category": "fish"
+        },
+        {
+          "id": "ee52522c-ca64-520b-babb-9ae77d1c7e91",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "1 tbsp Plain flour",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "d960c3b6-4ccb-5398-be21-76cc9866e17c",
+          "ingredient_id": "9426e9cd-e7b2-540e-8ddb-187c01748931",
+          "name": "nutmeg",
+          "display_text": "Grating Nutmeg",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "grating",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "8095be33-968d-55c3-b5fe-fa019ebe0973",
+          "ingredient_id": "81b5723b-47de-5017-987f-cdcc95dd362b",
+          "name": "double cream",
+          "display_text": "3 tbsp Double Cream",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "cccac360-d7f3-5a5c-a70e-cdeadeac1163",
+          "ingredient_id": "c7218e54-21c7-55fc-9deb-4016cc356675",
+          "name": "jerusalem artichokes",
+          "display_text": "200g Jerusalem Artichokes",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "76141d4c-da2f-52a1-868b-2ffab469d573",
+          "ingredient_id": "ef5d99bc-384e-522a-8c0f-1c8501f6612c",
+          "name": "leek",
+          "display_text": "1 finely sliced Leek",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "finely sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "11dfbe50-e808-51ec-9c1d-038caa092835",
+          "ingredient_id": "d2faf7d8-97cd-57b2-9aee-58261714f9d5",
+          "name": "prawns",
+          "display_text": "200g peeled raw Prawns",
+          "quantity": 200.0,
+          "unit": "gram",
+          "preparation": "peeled raw",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "b0366bad-d7c3-5ea7-8fce-0653cb9849cf",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Large handful Parsley",
+          "quantity": 1,
+          "unit": "handful",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "4bc5ff03-de1a-56cf-b631-406e37294677",
+          "ingredient_id": "c20ef13e-7f52-5fce-847f-34f123e6392e",
+          "name": "dill",
+          "display_text": "Handful Dill",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "05535d1e-dfbc-55b9-8e97-e2d9ef55b8b0",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "Grated zest of 1 Lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "grated zest",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "6ae471dd-80a3-59bf-b37d-a448f42fdf71",
+          "ingredient_id": "7e2a902e-7ab4-5cdc-8b27-6bf2e8fa0437",
+          "name": "gruyère",
+          "display_text": "25g grated Gruyère",
+          "quantity": 25.0,
+          "unit": "gram",
+          "preparation": "grated",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "5b1ac655-cfef-52af-800a-be9c342f45cc",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "Juice of 1 Lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "01.Put the potatoes in a large pan of cold salted water and bring to the boil. Lower the heat, cover, then simmer gently for 15 minutes until tender. Drain, then return to the pan over a low heat for 30 seconds to drive off any excess water. Mash with 1 tbsp olive oil, then season.",
+      "ingredients_used": [
+        "34769ebd-1084-54df-97a1-0471ae4e9024",
+        "8659fffc-a68b-59d0-a4c1-af7378dceb4d"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "02.Meanwhile put the milk in a large sauté pan, add the fish and bring to the boil. Remove from the heat, cover and stand for 3 minutes. Remove the fish (reserving the milk) and pat dry with kitchen paper, then gently flake into an ovenproof dish, discarding the skin and any bones.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "a2cbe48c-f350-5d1a-8bc7-7b18f66abae2"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "03.Heat the remaining oil in a pan, stir in the flour and cook for 30 seconds. Gradually stir in 200-250ml of the reserved milk (discard the rest). Grate in nutmeg, season, then bubble until thick. Stir in the cream.",
+      "timer_seconds": 30,
+      "ingredients_used": [
+        "a2cbe48c-f350-5d1a-8bc7-7b18f66abae2",
+        "d960c3b6-4ccb-5398-be21-76cc9866e17c"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "04.Preheat the oven to 190°C/fan170°C/gas 5. Grate the artichokes and add to the dish with the leek, prawns and herbs. Stir the lemon zest and juice into the sauce, then pour over. Mix gently with a wooden spoon.",
+      "temperature": {
+        "value": 190,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "cccac360-d7f3-5a5c-a70e-cdeadeac1163",
+        "76141d4c-da2f-52a1-868b-2ffab469d573",
+        "11dfbe50-e808-51ec-9c1d-038caa092835",
+        "05535d1e-dfbc-55b9-8e97-e2d9ef55b8b0",
+        "5b1ac655-cfef-52af-800a-be9c342f45cc"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "05.Spoon the mash onto the fish mixture, then use a fork to make peaks, which will crisp and brown as it cooks. Sprinkle over the cheese, then bake for 35-40 minutes until golden and bubbling. Serve with wilted greens.",
+      "timer_seconds": 2400
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

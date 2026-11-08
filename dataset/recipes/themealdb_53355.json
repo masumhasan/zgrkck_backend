@@ -1,0 +1,244 @@
+{
+  "id": "2995eb49-fb86-5f98-9c41-cfa11989690d",
+  "version": "1.0.0",
+  "title": "Jamaican Festival (Sweet Dumpling)",
+  "slug": "jamaican-festival-sweet-dumpling",
+  "summary": "Jamaican Festival is a sweet, fried dumpling often served as a side dish to accompany savory meals like jerk chicken.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:26:56Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53355"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/g6xb8m1764875029.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/g6xb8m1764875029.jpg/small",
+      "alt_text": "Photo of Jamaican Festival (Sweet Dumpling)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=N270k22MPWk"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "2dfec5c8-490a-551c-9d2f-e8e21f706bda",
+        "slug": "jamaican",
+        "name": "Jamaican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 6,
+    "total_time_minutes": 16
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "pieces",
+    "serving_size_description": "2 dumplings"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "1ffba32c-ec17-565d-bc27-3a45e85491dc",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "f071fab1-7f01-5005-8296-0dca2cb16002",
+          "ingredient_id": "d1e5ec78-b8c2-5649-962c-a9f67272ea92",
+          "name": "all purpose flour",
+          "display_text": "1 1/2 cups All purpose flour",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "d20b5467-3d7f-5a4a-8403-015fb7a17939",
+          "ingredient_id": "56ea45f6-1a03-524b-a39f-e562bfef4dd1",
+          "name": "cornmeal",
+          "display_text": "1/2 cup Cornmeal",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "974c43ca-c92f-5be8-8f58-da43c2a4cd32",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "6 tablespoons Sugar",
+          "quantity": 6.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 90.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "4e8b7c54-179c-5df2-a6d2-77fce0cfe65a",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "2 tsp Baking Powder",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "c99be067-658c-57d8-a79a-bfaf07420dcf",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1 tsp Vanilla Extract",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "4fbbc108-4896-5f5b-8ed1-3e63fb3d67a9",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/2 tsp Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "aec4e950-2559-5ec3-807b-bfb11774105b",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "3/4 cup Milk",
+          "quantity": 0.75,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 180.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "ac020cd2-8ad7-57c5-bf6f-f464afa782c4",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "For frying Oil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "for frying",
+          "is_optional": false,
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat a heavy bottom pot of oil that has at least 3 inches of oil in it or use a deep fryer if you have one. Turn the heat over medium heat until the temperature reaches 350 degrees Fahrenheit.",
+      "temperature": {
+        "value": 350,
+        "unit": "fahrenheit"
+      },
+      "ingredients_used": [
+        "ac020cd2-8ad7-57c5-bf6f-f464afa782c4"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the all-purpose flour, cornmeal, granulated sugar, baking powder, and salt to a large bowl and stir to combine.",
+      "ingredients_used": [
+        "d20b5467-3d7f-5a4a-8403-015fb7a17939",
+        "974c43ca-c92f-5be8-8f58-da43c2a4cd32",
+        "4e8b7c54-179c-5df2-a6d2-77fce0cfe65a",
+        "4fbbc108-4896-5f5b-8ed1-3e63fb3d67a9"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the vanilla extract and milk and stir until the dough comes together. Then use your hands to lightly form the mixture into a ball.",
+      "ingredients_used": [
+        "c99be067-658c-57d8-a79a-bfaf07420dcf",
+        "aec4e950-2559-5ec3-807b-bfb11774105b"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Pinch off pieces of dough and roll them into long oval shapes. Make about 12 dumplings."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Once the oil has reached the temperature of 350 degrees Fahrenheit, fry the dough on all sides, until golden brown. This should take about 4-6 minutes.",
+      "timer_seconds": 360,
+      "temperature": {
+        "value": 350,
+        "unit": "fahrenheit"
+      },
+      "ingredients_used": [
+        "ac020cd2-8ad7-57c5-bf6f-f464afa782c4"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Remove dough and drain off any excess grease. Serve and enjoy."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.myforkinglife.com/jamaican-festival-recipe/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

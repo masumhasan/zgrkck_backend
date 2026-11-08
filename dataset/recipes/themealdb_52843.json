@@ -1,0 +1,305 @@
+{
+  "id": "d8fc7821-f695-541b-a05d-342f4b3d5405",
+  "version": "1.0.0",
+  "title": "Lamb Tagine",
+  "slug": "lamb-tagine",
+  "summary": "A Moroccan-style slow-cooked lamb stew featuring aromatic spices, honey, and dried apricots, served with vegetables.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:42:20Z",
+  "updated_at": "2026-10-16T10:22:48Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52843"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/yuwtuu1511295751.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/yuwtuu1511295751.jpg/small",
+      "alt_text": "Photo of Lamb Tagine",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=bR5Cqu84S_k"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "118c0c07-e5c2-5a71-ac2b-49c1d77823aa",
+        "slug": "moroccan",
+        "name": "Moroccan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 120,
+    "total_time_minutes": 140
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of tagine with couscous"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "tree_nuts",
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "fb85c48b-a6a5-54a6-b29a-7abba56fd174",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "5c4309a8-4bcf-57b1-8e70-5f8e8bdf873a",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tblsp Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "498f22cb-7c7a-5b35-b8d5-0f0f942cbf94",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 finely sliced Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "finely sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f375efca-2580-5617-8770-9cd9df346efa",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "2 chopped Carrots",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f7c71d2c-2379-5778-b3cf-ce81389dd71d",
+          "ingredient_id": "3e654cff-550d-5ae5-ae81-f532c48f2674",
+          "name": "lamb leg",
+          "display_text": "500g Lamb Leg",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "fbb88b48-5110-5e44-a4e4-02c3ff3aab07",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves minced Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "minced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "84547563-e645-5086-817f-65d5b5d683eb",
+          "ingredient_id": "be79b3bd-bc90-5d15-aab2-4f95774b8de1",
+          "name": "cumin",
+          "display_text": "½ tsp Cumin",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "81d558cd-5631-59bb-99fc-fd54dbfb18e5",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "½ tsp Ginger",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "a48d725c-9e6f-5882-b4ff-ba74baa3c381",
+          "ingredient_id": "6e4973c3-ed8a-5158-9a24-ca212d5e7092",
+          "name": "saffron",
+          "display_text": "¼ tsp Saffron",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "8b8c90cc-7434-579a-bc6f-899e34e95e07",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "1 tsp Cinnamon",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "f6a12cda-5dd9-5a17-b9dd-a3f75b698854",
+          "ingredient_id": "7ad11d6e-3134-5831-97df-4db2a67589f7",
+          "name": "honey",
+          "display_text": "1 tblsp Honey",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "7d33ba25-8dba-51f7-8172-480e4d4ada0d",
+          "ingredient_id": "ee2c8bb9-cd00-583a-b03d-c403a249783d",
+          "name": "apricot",
+          "display_text": "100g Apricot",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "454baf74-efb7-52e1-8af6-11d1b595fb2d",
+          "ingredient_id": "7987b479-6a71-5b57-9ff9-daff64e561ca",
+          "name": "vegetable stock cube",
+          "display_text": "1 Vegetable Stock Cube",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "31d1d3f4-e576-5db2-aad7-297f81aec8a7",
+          "ingredient_id": "f2a5d81b-c148-52d1-96a6-c8d33709dafc",
+          "name": "butternut squash",
+          "display_text": "1 medium chopped Butternut Squash",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "medium chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "243ff4cf-537b-5875-b3db-9b7471bc94a7",
+          "ingredient_id": "c2b6c88e-6bee-5b11-a840-6c6f211b45fb",
+          "name": "couscous",
+          "display_text": "Steamed Couscous",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "steamed",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "cad5090e-20ad-5570-9e2f-8cdbb5652dc3",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Chopped Parsley",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the olive oil in a heavy-based pan and add the onion and carrot. Cook for 3- 4 mins until softened.",
+      "timer_seconds": 240,
+      "ingredients_used": [
+        "5c4309a8-4bcf-57b1-8e70-5f8e8bdf873a",
+        "498f22cb-7c7a-5b35-b8d5-0f0f942cbf94"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the diced lamb and brown all over. Stir in the garlic and all the spices and cook for a few mins more or until the aromas are released.",
+      "ingredients_used": [
+        "fbb88b48-5110-5e44-a4e4-02c3ff3aab07"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the honey and apricots, crumble in the stock cube and pour over roughly 500ml boiling water or enough to cover the meat. Give it a good stir and bring to the boil. Turn down to a simmer, put the lid on and cook for 1 hour.",
+      "timer_seconds": 3600,
+      "ingredients_used": [
+        "f6a12cda-5dd9-5a17-b9dd-a3f75b698854",
+        "7d33ba25-8dba-51f7-8172-480e4d4ada0d",
+        "454baf74-efb7-52e1-8af6-11d1b595fb2d"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Remove the lid and cook for a further 30 mins, then stir in the squash. Cook for 20 – 30 mins more until the squash is soft and the lamb is tender. Serve alongside rice or couscous and sprinkle with parsley and pine nuts, if using.",
+      "ingredients_used": [
+        "31d1d3f4-e576-5db2-aad7-297f81aec8a7",
+        "243ff4cf-537b-5875-b3db-9b7471bc94a7",
+        "cad5090e-20ad-5570-9e2f-8cdbb5652dc3"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/2303638/family-meals-easy-lamb-tagine-"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

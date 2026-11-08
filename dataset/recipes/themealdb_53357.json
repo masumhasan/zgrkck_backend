@@ -1,0 +1,255 @@
+{
+  "id": "5192592f-27b8-53ca-90e1-cff5b4ab6e2e",
+  "version": "1.0.0",
+  "title": "Jamaican Rice and Peas",
+  "slug": "jamaican-rice-and-peas",
+  "summary": "A traditional Jamaican side dish made with rice, coconut milk, and kidney beans, seasoned with allspice and thyme.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:27:12Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53357"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/pkyvrn1764878267.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/pkyvrn1764878267.jpg/small",
+      "alt_text": "Photo of Jamaican Rice and Peas",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=swVY-6tUK5g"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "2dfec5c8-490a-551c-9d2f-e8e21f706bda",
+        "slug": "jamaican",
+        "name": "Jamaican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 18,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 28
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 cup of rice and beans"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "5b7fff08-33c1-5385-9a86-a72677bcd721",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "817320a7-193e-5da1-936c-2151ef50dfa5",
+          "ingredient_id": "025b8433-c498-5b37-813a-ec00ac6c2ae5",
+          "name": "rice",
+          "display_text": "2 cups Rice",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "1d25cbe0-e3ad-5601-910c-4997f3400ffd",
+          "ingredient_id": "0435e55e-84f6-566c-ac81-37617bbab91c",
+          "name": "coconut milk",
+          "display_text": "380g Coconut Milk",
+          "quantity": 380.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 380.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "cc575d8e-6147-5464-ac76-d87986b06959",
+          "ingredient_id": "ba890946-fbb1-5386-9394-aa912a5bb5a0",
+          "name": "kidney beans",
+          "display_text": "450g Kidney Beans",
+          "quantity": 450.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "e9ccbef1-2531-5769-b616-2f0df84e3b55",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1 cup Water",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "c9c44964-0370-5b42-a501-eb2804f693e5",
+          "ingredient_id": "f60d2962-95b1-5ff5-80ec-2e8902992bc9",
+          "name": "kosher salt",
+          "display_text": "2 tsp Kosher Salt",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "9bcbf81d-419a-55ff-bddc-d991ca7846c9",
+          "ingredient_id": "3c1f3ec3-71e9-5cc4-ad1e-cc142a823fa4",
+          "name": "ground allspice",
+          "display_text": "1/2 tsp Ground Allspice",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "b765fff9-d1f2-5b30-9efc-5048b4f30a17",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1/4 tsp Black Pepper",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "5ac4c4a9-5705-5416-a5b7-d8d9fbf07aa8",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "3 Spring Onions",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "da70d41e-bad3-5c10-b461-53f08ef4e4cb",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "2 sprigs Thyme",
+          "quantity": 2.0,
+          "unit": "sprig",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "70d55418-3a43-5a8c-810f-5e0f52729d27",
+          "ingredient_id": "cfe71375-907d-57ad-936c-b27b60946f4e",
+          "name": "scotch bonnet",
+          "display_text": "1 Scotch Bonnet",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Equipment"
+    },
+    {
+      "step_number": 2,
+      "instruction": "Dutch oven"
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add rice, coconut milk, kidney beans, water, kosher salt, allspice, and black pepper to a large pot and stir until combined. Lay green onions, thyme and Scotch bonnet pepper on top. Bring mixture to a boil.",
+      "ingredients_used": [
+        "817320a7-193e-5da1-936c-2151ef50dfa5",
+        "1d25cbe0-e3ad-5601-910c-4997f3400ffd",
+        "cc575d8e-6147-5464-ac76-d87986b06959",
+        "e9ccbef1-2531-5769-b616-2f0df84e3b55",
+        "c9c44964-0370-5b42-a501-eb2804f693e5",
+        "9bcbf81d-419a-55ff-bddc-d991ca7846c9",
+        "b765fff9-d1f2-5b30-9efc-5048b4f30a17",
+        "5ac4c4a9-5705-5416-a5b7-d8d9fbf07aa8",
+        "da70d41e-bad3-5c10-b461-53f08ef4e4cb",
+        "70d55418-3a43-5a8c-810f-5e0f52729d27"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Once boiling, reduce heat to low and cover with a lid. Allow to cook covered for 18 minutes over low heat, then remove from heat. Leave the lid on for an additional 5 minutes."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Open the lid and remove the green onion, Scotch bonnet pepper, and thyme. Fluff the rice and peas with a fork. Serve and enjoy.",
+      "ingredients_used": [
+        "817320a7-193e-5da1-936c-2151ef50dfa5",
+        "da70d41e-bad3-5c10-b461-53f08ef4e4cb",
+        "70d55418-3a43-5a8c-810f-5e0f52729d27"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.myforkinglife.com/jamaican-rice-and-peas/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

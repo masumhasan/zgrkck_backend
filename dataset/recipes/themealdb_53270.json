@@ -1,0 +1,218 @@
+{
+  "id": "914b094b-bccc-5a13-a014-c3062d4c3ceb",
+  "version": "1.0.0",
+  "title": "Turkish-style lamb",
+  "slug": "turkish-style-lamb",
+  "summary": "Lamb leg seasoned with oregano and yogurt, served in pita bread with fresh salad and mint yogurt.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:19:24Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53270"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/0p7l6b1763813981.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/0p7l6b1763813981.jpg/small",
+      "alt_text": "Photo of Turkish-style lamb",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=RSXfGtom4RQ"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4c480df7-c067-5e9c-ac08-d8d49afa7f51",
+        "slug": "turkish",
+        "name": "Turkish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 7,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 27
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 pita bread with lamb and salad"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "8297b9c5-eafd-58c2-8237-7e9179824f5c",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "2dc5d7e7-bb21-5321-bc80-cdfd02bd00f9",
+          "ingredient_id": "3e654cff-550d-5ae5-ae81-f532c48f2674",
+          "name": "lamb leg",
+          "display_text": "4 Lamb Leg",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "c6d7ec06-aefe-54fa-baab-a72db6642c53",
+          "ingredient_id": "81f2c99c-58d4-59e1-b130-0490a7b582f1",
+          "name": "seasoning",
+          "display_text": "2 tsp Seasoning",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "c5650cbf-5c25-5710-9489-a320b9e27854",
+          "ingredient_id": "23e1101c-9b20-575b-81cd-037dfd7bf307",
+          "name": "dried oregano",
+          "display_text": "1 tsp Dried Oregano",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "556a0f0d-817c-5102-8bee-f39e20302dc8",
+          "ingredient_id": "0e838047-684d-55cb-884e-e7872e0e96c4",
+          "name": "mint",
+          "display_text": "Bunch Mint",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "bunch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "db92a1df-7837-5d5f-97d7-57be1b56a11e",
+          "ingredient_id": "c2dfe217-47d5-5561-8ce3-2d7cb17fc75b",
+          "name": "yogurt",
+          "display_text": "300g Yogurt",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "1c26962d-6ddb-55f7-98af-718c3d80f095",
+          "ingredient_id": "3998084f-e7c2-5364-b223-62058fa4c0c9",
+          "name": "pita bread",
+          "display_text": "4 Pita Bread",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "31556763-a975-534d-babf-51fc1fe0f26d",
+          "ingredient_id": "54a856ce-5ed6-58fb-82c9-474191c2f968",
+          "name": "iceberg lettuce",
+          "display_text": "1/2 Iceberg Lettuce",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "640d3fd1-a7b2-5916-a6b1-1f425b6ed827",
+          "ingredient_id": "716f7639-3b59-56a7-9146-1819649ebdad",
+          "name": "red onions",
+          "display_text": "1 sliced Red Onions",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "87cb91e8-f0fe-5433-9987-9c97a94c7891",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "1 Lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat grill to high. Season the lamb, then grill for 2 mins on each side until browned, but still very rare. Meanwhile, mix the seasoning, oregano and half of the mint into one of the tubs of yogurt, smother this over the lamb, then return to the grill for another 2-3 mins or until the yogurt is blistered and the meat is cooked to your liking.",
+      "ingredients_used": [
+        "c6d7ec06-aefe-54fa-baab-a72db6642c53",
+        "c5650cbf-5c25-5710-9489-a320b9e27854",
+        "556a0f0d-817c-5102-8bee-f39e20302dc8",
+        "db92a1df-7837-5d5f-97d7-57be1b56a11e"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Leave the meat to rest on a board for a few mins while you toast the pittas, shred the lettuce and thinly slice the red onion. Stir the rest of the mint into the second tub of yogurt. Thickly slice the meat and stuff into the pitta bread with the salad and minted yogurt. Squeeze over lemon juice before tucking in, if you like.",
+      "ingredients_used": [
+        "556a0f0d-817c-5102-8bee-f39e20302dc8",
+        "db92a1df-7837-5d5f-97d7-57be1b56a11e",
+        "1c26962d-6ddb-55f7-98af-718c3d80f095",
+        "31556763-a975-534d-babf-51fc1fe0f26d",
+        "87cb91e8-f0fe-5433-9987-9c97a94c7891"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/turkish-style-lamb"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

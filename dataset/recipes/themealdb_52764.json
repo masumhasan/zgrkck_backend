@@ -1,0 +1,229 @@
+{
+  "id": "3090c566-9cab-58c1-8d84-b30e2cb37f34",
+  "version": "1.0.0",
+  "title": "Garides Saganaki",
+  "slug": "garides-saganaki",
+  "summary": "A Greek seafood dish featuring prawns simmered in a tomato and white wine sauce, topped with melted feta cheese.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:36:22Z",
+  "updated_at": "2026-10-16T10:22:42Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52764"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/wuvryu1468232995.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/wuvryu1468232995.jpg/small",
+      "alt_text": "Photo of Garides Saganaki",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=uO0ejc85zSE"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "de767d0c-ee8d-59a9-8d05-02b9ae12a1ac",
+        "slug": "greek",
+        "name": "Greek"
+      }
+    ],
+    "tags": [
+      "seafood",
+      "shellfish"
+    ],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 40,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 60
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a bowl of prawns in tomato sauce with feta"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "shellfish",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "gluten",
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "e158b52e-016b-5d5b-8b75-bcec8764ba31",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "d295c7ea-90ab-546a-8920-c1ab98f97833",
+          "ingredient_id": "c25c2a5c-b6b1-56c4-b863-457dc879b0df",
+          "name": "raw king prawns",
+          "display_text": "500g Raw king prawns",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "37be91f8-6877-5355-96c4-a0f7d889c31d",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "3 tablespoons Olive oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "60f5ee60-46a9-589b-a135-38f45dfb3f91",
+          "ingredient_id": "41097fa9-3c91-5f11-a65d-ff127beff926",
+          "name": "chopped onion",
+          "display_text": "1 Chopped onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f134d5ac-6c9f-5522-91a7-a0a0b3413f74",
+          "ingredient_id": "a1c590f6-d2a1-5923-8aeb-e632e74b6074",
+          "name": "freshly chopped parsley",
+          "display_text": "pinch Freshly chopped parsley",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d51d3fa8-e94f-5486-a42e-3526ad6b5130",
+          "ingredient_id": "7dfa4179-cc08-5fb6-b4fc-aa52abc5f515",
+          "name": "white wine",
+          "display_text": "250ml White wine",
+          "quantity": 250.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "9698f7d4-cab1-50dd-b40c-c912edf72d84",
+          "ingredient_id": "f55fd16d-cf7d-508e-a734-bd6e6a65e05a",
+          "name": "chopped tomatoes",
+          "display_text": "1 (400g) tin Chopped tomatoes",
+          "quantity": 1.0,
+          "unit": "can",
+          "preparation": "400g tin of chopped tomatoes",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "3edff87e-1d56-5670-b095-22aad5bc8905",
+          "ingredient_id": "39d03be8-6193-58a7-94b7-bad7961f2aa6",
+          "name": "minced garlic",
+          "display_text": "1/2 teaspoon Minced garlic",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "6156490f-7371-5dd7-b836-03395c5786b7",
+          "ingredient_id": "f4919e68-cd3b-5ea5-9f47-364bd5bd45d1",
+          "name": "cubed feta cheese",
+          "display_text": "1 (200g) pack Cubed Feta cheese",
+          "quantity": 1.0,
+          "unit": "packet",
+          "preparation": "200g pack of cubed feta cheese",
+          "is_optional": false,
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Place the prawns in a pot and add enough water to cover. Boil for 5 minutes. Drain, reserving the liquid, and set aside.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "d295c7ea-90ab-546a-8920-c1ab98f97833"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat 2 tablespoons of oil in a saucepan. Add the onion; cook and stir until soft. Mix in the parsley, wine, tomatoes, garlic and remaining olive oil. Simmer, stirring occasionally, for about 30 minutes, or until the sauce is thickened.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "37be91f8-6877-5355-96c4-a0f7d889c31d",
+        "60f5ee60-46a9-589b-a135-38f45dfb3f91",
+        "f134d5ac-6c9f-5522-91a7-a0a0b3413f74",
+        "d51d3fa8-e94f-5486-a42e-3526ad6b5130",
+        "9698f7d4-cab1-50dd-b40c-c912edf72d84",
+        "3edff87e-1d56-5670-b095-22aad5bc8905"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "While the sauce is simmering, the prawns should become cool enough to handle. First remove the legs by pinching them, and then pull off the shells, leaving the head and tail on.",
+      "ingredients_used": [
+        "d295c7ea-90ab-546a-8920-c1ab98f97833"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "When the sauce has thickened, stir in the prawns. Bring to a simmer again if the sauce has cooled with the prawns, and cook for about 5 minutes. Add the feta and remove from the heat. Let stand until the cheese starts to melt. Serve warm with slices of crusty bread.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "d295c7ea-90ab-546a-8920-c1ab98f97833"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Though completely untraditional, you can add a few tablespoons of stock or passata to this recipe to make a delicious pasta sauce. Toss with pasta after adding the feta, and serve."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

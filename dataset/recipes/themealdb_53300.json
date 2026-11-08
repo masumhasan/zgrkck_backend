@@ -1,0 +1,313 @@
+{
+  "id": "1f40bf3c-0105-5c5a-acfb-28871f3352e8",
+  "version": "1.0.0",
+  "title": "Bigos (Polish hunter's stew)",
+  "slug": "bigos-polish-hunter-s-stew",
+  "summary": "A traditional Polish hunter's stew made with a hearty combination of beef, various meats, cabbage, and mushrooms, flavored with prunes and spices.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:22:05Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53300"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/fl4brj1764361323.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/fl4brj1764361323.jpg/small",
+      "alt_text": "Photo of Bigos (Polish hunter's stew)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Oqg_cO4s8ik"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d40b0607-0a3a-5f5d-8012-7eaf1b714fa5",
+        "slug": "polish",
+        "name": "Polish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 138,
+    "total_time_minutes": 158
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "bowls",
+    "serving_size_description": "a large bowl of stew"
+  },
+  "allergens": {
+    "contains": [
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "e403be20-a8d5-57af-9575-e23ba05e4165",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "ca376b21-7af2-5439-be84-ca673a9e5d9e",
+          "ingredient_id": "21b2d42b-5b38-5551-ac7b-75008ee144d3",
+          "name": "white cabbage",
+          "display_text": "1 sliced White Cabbage",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "5fc47e40-a33e-571b-90b9-55843db6c70f",
+          "ingredient_id": "39a746ef-3300-5229-b0b2-3e03970ea60c",
+          "name": "beef stock",
+          "display_text": "250ml Beef Stock",
+          "quantity": 250.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "6d7a6676-e314-56b0-b932-3129a71825dd",
+          "ingredient_id": "5031dcf8-ef4a-588f-ae8f-de7c2790dfac",
+          "name": "mushrooms",
+          "display_text": "100g Mushrooms",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "32131e87-3aa6-5a39-8974-c741dea513d0",
+          "ingredient_id": "52a9e69e-4aca-513e-aee5-b38b82db2847",
+          "name": "lard",
+          "display_text": "2 tablespoons Lard",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "2be9da83-3907-5dbb-bba7-5c4c1111d890",
+          "ingredient_id": "2073e443-e305-5092-be8f-5fd73d2d286f",
+          "name": "german sausages",
+          "display_text": "400g German Sausages",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "2d0f7bf9-8565-5b52-afea-e7426c7ad822",
+          "ingredient_id": "956cfefc-d0f9-5c1f-9f20-d38a1e4dbdad",
+          "name": "bacon",
+          "display_text": "250g Bacon",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "cd96d2f6-4db8-5458-9b68-2d6a8fa6c4b0",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "2 chopped Onion",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "fc85355f-a14e-5930-af2f-2df6030a4c41",
+          "ingredient_id": "c2102b4e-a5b4-5bab-b7d5-bdfa5244ae7b",
+          "name": "beef",
+          "display_text": "750g Beef",
+          "quantity": 750.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 750.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "c4aec96f-72f7-5fd0-bf68-660c1bdfcc23",
+          "ingredient_id": "b3be8731-39ee-5597-a958-e79b3c474682",
+          "name": "prunes",
+          "display_text": "200g Prunes",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "c86ca28b-6d35-5118-a121-cb5eef9bf950",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "1 Bay Leaf",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "fccb71a6-319e-5226-834e-376ecd4de23d",
+          "ingredient_id": "73063cfc-1094-5f58-87bf-49227197f2a2",
+          "name": "cloves",
+          "display_text": "2 Cloves",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "cbef490c-64cd-5d88-bd74-9d6b713bee15",
+          "ingredient_id": "88f566bb-0371-50a0-8e10-e9fbea6ad92b",
+          "name": "peppercorns",
+          "display_text": "12 Peppercorns",
+          "quantity": 12.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "31c50345-479d-5375-b35d-723c553ca374",
+          "ingredient_id": "0e648f87-4d4e-5201-8fa8-b68de640b2b1",
+          "name": "juniper berries",
+          "display_text": "4 Juniper Berries",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7db39eca-93dc-58f6-b551-52eeeac9c6f6",
+          "ingredient_id": "1fbb2485-4b0b-5f55-9471-cb6f42a1e9df",
+          "name": "allspice berries",
+          "display_text": "4 Allspice Berries",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "b33f55e3-5183-5d57-a989-7214f0432f6c",
+          "ingredient_id": "0b364d55-0a30-54fb-b1d4-422f720404e3",
+          "name": "red wine",
+          "display_text": "90 ml Red Wine",
+          "quantity": 90.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 90.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "2373a814-ac35-5b51-aeb8-2f4b61b56fb7",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "2 tablespoons Tomato Puree",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Put the cabbage in a heavy casserole dish, add the stock and cook over a low heat for about 50 mins, until tender.",
+      "timer_seconds": 3000,
+      "ingredients_used": [
+        "ca376b21-7af2-5439-be84-ca673a9e5d9e"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Cut the soaked mushrooms into strips and save the soaking water. Heat the lard and fry the sausages and bacon, then scoop out, leaving the fat in the pan. Fry the onion in the same pan for 5-8 mins until lightly browned.",
+      "timer_seconds": 480,
+      "ingredients_used": [
+        "6d7a6676-e314-56b0-b932-3129a71825dd",
+        "32131e87-3aa6-5a39-8974-c741dea513d0",
+        "2be9da83-3907-5dbb-bba7-5c4c1111d890",
+        "2d0f7bf9-8565-5b52-afea-e7426c7ad822",
+        "cd96d2f6-4db8-5458-9b68-2d6a8fa6c4b0"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the mushrooms and their liquid along with all the cooked meat, onions and prunes, then cover and cook for 20 mins. Add the spices, red wine and tomato purée and bring to a simmer, then cover and cook for 1 hr. Season well and leave to cool. Will keep covered and chilled for up to two days. Bigos improves in flavor over a couple of days. Leave to cool first. Reheat until piping hot before serving.",
+      "ingredients_used": [
+        "6d7a6676-e314-56b0-b932-3129a71825dd",
+        "cd96d2f6-4db8-5458-9b68-2d6a8fa6c4b0",
+        "c4aec96f-72f7-5fd0-bf68-660c1bdfcc23",
+        "b33f55e3-5183-5d57-a989-7214f0432f6c"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/bigos"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

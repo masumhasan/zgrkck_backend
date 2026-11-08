@@ -1,0 +1,266 @@
+{
+  "id": "d72dc5c1-116c-51f6-a309-5c7390926434",
+  "version": "1.0.0",
+  "title": "Easy Spanish chicken",
+  "slug": "easy-spanish-chicken",
+  "summary": "A Spanish-style chicken dish featuring chicken thighs baked with chorizo, peppers, olives, and butter beans in a smoky tomato sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:08:06Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53143"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/kzxflc1763194887.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/kzxflc1763194887.jpg/small",
+      "alt_text": "Photo of Easy Spanish chicken",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=EusTpzrqYK4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 60,
+    "total_time_minutes": 75
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "2 chicken thighs with vegetables and beans"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "fdf7f22b-d1b3-5f72-80bb-11a4ed8c2bf0",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "6f45cdf7-38e2-56a7-8ff8-d1518f7f0c81",
+          "ingredient_id": "96cc0c2b-795a-53be-a503-05d14e92b236",
+          "name": "extra virgin olive oil",
+          "display_text": "2 tbsp Extra Virgin Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "7391d4c7-618a-5032-97ce-bcb099bde231",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "44aa984b-c97a-552a-b920-2b007708faee",
+          "ingredient_id": "d4235a95-0bb4-579b-8855-bbb8f4efeb46",
+          "name": "chorizo",
+          "display_text": "150g Chorizo",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "514a3da0-fd99-50d3-8f9c-5d89c70f23bd",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1 Red Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b9eec8a2-14b2-55c9-9d16-0a4aa6be6147",
+          "ingredient_id": "ca16fa3e-7db9-5c18-acf7-0540f4e86a4d",
+          "name": "yellow pepper",
+          "display_text": "1 Yellow Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1c9b7451-97c7-5149-bc00-290d1aa0cd04",
+          "ingredient_id": "9f84e62c-2837-5620-bc34-6ce2bf1703a3",
+          "name": "sweet smoked paprika",
+          "display_text": "1 teaspoon sweet smoked paprika",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "43ad7bfc-c8f9-574b-ab76-ab28c8b67b19",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "4 cloves Garlic",
+          "quantity": 4.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "859e5033-6308-5a17-a6bc-72dd554a9a89",
+          "ingredient_id": "5cf11297-0a5b-55fb-85b2-ff239b80e4f4",
+          "name": "tinned tomatos",
+          "display_text": "400g Tinned Tomatos",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "69f11629-4b18-51a7-9296-9d25ca5146b6",
+          "ingredient_id": "d7e4a580-0a72-51fa-ae47-47633da37e45",
+          "name": "green olives",
+          "display_text": "150g Green Olives",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "bd93459c-3d35-5ecd-80c2-aa50df5f1ba2",
+          "ingredient_id": "9a828326-2a9a-5eaa-afb5-f6508a5d14e1",
+          "name": "butter beans",
+          "display_text": "400g Butter Beans",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "95c97695-6805-5dd4-b56e-499c20b6ee54",
+          "ingredient_id": "e0e4d032-0f9f-5908-ab90-db9a8ec5b68c",
+          "name": "chicken thighs",
+          "display_text": "8 Chicken Thighs",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "b9bd7430-030d-52ce-9704-087a4d1b4a9a",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "1 Handfull Parsley",
+          "quantity": 1.0,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oven to 200C/180C fan/gas 6. Heat the olive oil in a large ovenproof frying pan over a medium heat and fry the onion, chorizo and peppers along with a pinch of salt and pepper for 15 mins until the veg has softened and the chorizo has released its oils. Add the paprika and garlic, and cook for another few minutes until fragrant.",
+      "timer_seconds": 900,
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "7391d4c7-618a-5032-97ce-bcb099bde231",
+        "44aa984b-c97a-552a-b920-2b007708faee",
+        "1c9b7451-97c7-5149-bc00-290d1aa0cd04",
+        "43ad7bfc-c8f9-574b-ab76-ab28c8b67b19"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Tip in the chopped tomatoes, olives and butter beans, stir to combine and season. Nestle in the chicken thighs and season well. Transfer to the oven and bake for 40 mins until the chicken skin is crisp and the meat cooked through and tender. Scatter with the parsley and serve.",
+      "timer_seconds": 2400,
+      "ingredients_used": [
+        "69f11629-4b18-51a7-9296-9d25ca5146b6",
+        "bd93459c-3d35-5ecd-80c2-aa50df5f1ba2",
+        "95c97695-6805-5dd4-b56e-499c20b6ee54",
+        "b9bd7430-030d-52ce-9704-087a4d1b4a9a"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Watch after ad (0.04):"
+    },
+    {
+      "step_number": 4,
+      "instruction": "3 Budget Egg Ideas"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/easy-spanish-chicken"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

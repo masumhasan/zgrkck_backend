@@ -1,0 +1,397 @@
+{
+  "id": "c57311c4-f7e4-5f16-9f08-7f272dc516d6",
+  "version": "1.0.0",
+  "title": "Shrimp Chow Fun",
+  "slug": "shrimp-chow-fun",
+  "summary": "A classic Cantonese stir-fry dish featuring rice stick noodles, prawns, and vegetables seasoned with oyster sauce and soy sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:52:18Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52953"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/1529445434.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/1529445434.jpg/small",
+      "alt_text": "Photo of Shrimp Chow Fun",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=wzaTcpoFEaY"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6813a95e-62cf-55e7-9d4b-6f19ee1d7391",
+        "slug": "chinese",
+        "name": "Chinese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of noodles with shrimp"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "f3be9d97-0444-5f7c-93b6-983fd06c42c8",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "5d70e1cf-8d09-5237-b766-c83f9fab3e1b",
+          "ingredient_id": "e5b3cc9e-c722-5a7a-9386-b7349fa3eaa2",
+          "name": "rice stick noodles",
+          "display_text": "1/2 bag Rice Stick Noodles",
+          "quantity": 0.5,
+          "unit": "bag",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "5f4e1798-e873-5575-9c80-28c3c01b6a11",
+          "ingredient_id": "d2faf7d8-97cd-57b2-9aee-58261714f9d5",
+          "name": "prawns",
+          "display_text": "8 oz Prawns",
+          "quantity": 8.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 226.8,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "22123cf8-5463-564d-af79-a789c6509ba9",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1/2 Egg",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "e201cc3d-ceec-5d72-99da-10c4c9b0756f",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "pinch Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "ce558be2-ee8b-537f-ac95-f817ee497dc1",
+          "ingredient_id": "653731ca-07ee-57df-aa38-0f8f2b71ccc6",
+          "name": "sesame seed oil",
+          "display_text": "2 tsp Sesame Seed Oil",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "8c31d73d-6a98-50d4-845d-478275e4478c",
+          "ingredient_id": "4bdb1684-cdb6-5a8f-b220-c622cf2655cc",
+          "name": "cornstarch",
+          "display_text": "2 tbs Cornstarch",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "8da1a819-b1f6-5446-b5e4-2a49b2f23fed",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "4 tbs Oil",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "8ba9be12-6c33-5954-813c-7bd6c77d3b5f",
+          "ingredient_id": "39d03be8-6193-58a7-94b7-bad7961f2aa6",
+          "name": "minced garlic",
+          "display_text": "1 tsp Minced Garlic",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "01bfb106-d863-5679-9add-a2bb84415698",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "1 tsp Ginger",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "90c26086-d337-5df3-9c44-98b5dda1ed36",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1/2 cup Onion",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "61581428-8366-5eca-a42d-91fe19668ac5",
+          "ingredient_id": "2ac15386-42dc-5765-807a-4b4cf4edfcba",
+          "name": "bean sprouts",
+          "display_text": "1 cup Bean Sprouts",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "3f484cb1-67d0-57d9-92b2-67a71686d18b",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "1/2 cup Spring Onions",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "1c1625b0-7c1a-5d7b-942e-49b34e57e83e",
+          "ingredient_id": "696dcd25-2ce5-5fc5-9911-4ba83a5f9c1b",
+          "name": "cooking wine",
+          "display_text": "1 tbs Cooking wine",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "91d88f77-1ac8-5b07-8de2-fcde99129f35",
+          "ingredient_id": "42972e00-9d00-55f1-8658-5357075be010",
+          "name": "oyster sauce",
+          "display_text": "1 tbs Oyster Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "24ca4c10-afc7-5137-974b-3721994c030c",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1/2 tbs Sugar",
+          "quantity": 0.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "24723704-d6da-586f-9d94-657f1fbc831d",
+          "ingredient_id": "ab5b1e5d-c74e-59bc-9caa-0009568a07cb",
+          "name": "vinegar",
+          "display_text": "1/2 tbs Vinegar",
+          "quantity": 0.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "243f086e-95a2-57d1-8777-119764cd44b6",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "1 tbs Soy Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "SOAK THE RICE NOODLES",
+      "ingredients_used": [
+        "5d70e1cf-8d09-5237-b766-c83f9fab3e1b"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Soak the rice noodles overnight untill they are soft",
+      "ingredients_used": [
+        "5d70e1cf-8d09-5237-b766-c83f9fab3e1b"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "BOIL THE RICE NOODLES",
+      "ingredients_used": [
+        "5d70e1cf-8d09-5237-b766-c83f9fab3e1b"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Boil the noodles for 10-15 minutes and then rinse with cold water to stop the cooking process of the noodles.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "5d70e1cf-8d09-5237-b766-c83f9fab3e1b"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "MARINATING THE SHRIMP"
+    },
+    {
+      "step_number": 6,
+      "instruction": "In a bowl add the shrimp, egg, 1 pinch of white pepper, 1 Teaspoon of sesame seed oil, 1 Tablespoon corn starch and 1 tablespoon of oil",
+      "ingredients_used": [
+        "22123cf8-5463-564d-af79-a789c6509ba9",
+        "e201cc3d-ceec-5d72-99da-10c4c9b0756f",
+        "ce558be2-ee8b-537f-ac95-f817ee497dc1",
+        "8da1a819-b1f6-5446-b5e4-2a49b2f23fed"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Mix together well"
+    },
+    {
+      "step_number": 8,
+      "instruction": "STIR FRY"
+    },
+    {
+      "step_number": 9,
+      "instruction": "In a wok add 2 Tablespoons of oil, shrimp and stir fry them until it is golden brown",
+      "ingredients_used": [
+        "8da1a819-b1f6-5446-b5e4-2a49b2f23fed"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "Set the shrimp aside"
+    },
+    {
+      "step_number": 11,
+      "instruction": "Add 1 Tablespoon of oil to the work and then add minced garlic, ginger and all of the vegetables.",
+      "ingredients_used": [
+        "8da1a819-b1f6-5446-b5e4-2a49b2f23fed",
+        "8ba9be12-6c33-5954-813c-7bd6c77d3b5f",
+        "01bfb106-d863-5679-9add-a2bb84415698"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Add the noodles to the wok",
+      "ingredients_used": [
+        "5d70e1cf-8d09-5237-b766-c83f9fab3e1b"
+      ]
+    },
+    {
+      "step_number": 13,
+      "instruction": "Next add sherry cooking wine, oyster sauce, sugar, vinegar, sesame seed oil, 1 pinch white pepper, and soy sauce",
+      "ingredients_used": [
+        "e201cc3d-ceec-5d72-99da-10c4c9b0756f",
+        "ce558be2-ee8b-537f-ac95-f817ee497dc1",
+        "8da1a819-b1f6-5446-b5e4-2a49b2f23fed",
+        "1c1625b0-7c1a-5d7b-942e-49b34e57e83e",
+        "91d88f77-1ac8-5b07-8de2-fcde99129f35",
+        "24ca4c10-afc7-5137-974b-3721994c030c",
+        "24723704-d6da-586f-9d94-657f1fbc831d",
+        "243f086e-95a2-57d1-8777-119764cd44b6"
+      ]
+    },
+    {
+      "step_number": 14,
+      "instruction": "Add back in the shrimp"
+    },
+    {
+      "step_number": 15,
+      "instruction": "To thicken the sauce, whisk together 1 Tablespoon of corn starch and 2 Tablespoon of water in a bowl and slowly add to your stir-fry until it's the right thickness."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://sueandgambo.com/pages/shrimp-chow-fun"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

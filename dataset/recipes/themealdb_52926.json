@@ -1,0 +1,261 @@
+{
+  "id": "3b132654-0bf8-535c-9652-6dc59eb90617",
+  "version": "1.0.0",
+  "title": "Tourtiere",
+  "slug": "tourtiere",
+  "summary": "A traditional Canadian meat pie filled with a seasoned mixture of minced pork, mashed potatoes, and warm spices like cinnamon and allspice.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:49:50Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52926"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ytpstt1511814614.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ytpstt1511814614.jpg/small",
+      "alt_text": "Photo of Tourtiere",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=A96hbwobKKs"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "54838e2c-2c59-558b-8932-e019f7cc6d0c",
+        "slug": "canadian",
+        "name": "Canadian"
+      }
+    ],
+    "tags": [
+      "bbq",
+      "cake",
+      "mainmeal",
+      "pie"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 65
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1 wedge of pie"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "755d94c8-cebc-58b0-8596-e7fd05547a74",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "0271d0e9-c2be-5207-b4cc-6e6157771bcb",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "1 medium Potatoes",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c642542b-1d59-5e9d-88bd-6fd878359d10",
+          "ingredient_id": "aa561384-0d26-5008-a25e-3ba9db4b2a3f",
+          "name": "sunflower oil",
+          "display_text": "1 tsp Sunflower Oil",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "cf7dabd7-2b7e-5b7d-b1d9-4860bc6767db",
+          "ingredient_id": "129e9d71-a5d6-5673-b00e-1cc058330b03",
+          "name": "minced pork",
+          "display_text": "500g Minced Pork",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "7ff98338-e676-5c90-8083-58e2ace5842f",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 finely chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c252f987-a74d-58ca-9c0f-028a97a20619",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "1 finely chopped Garlic Clove",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f39a7938-2229-5cbc-ba50-080ada3a74ba",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "¼ tsp Cinnamon",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d60d001f-766a-5f45-9407-7232a4e4f017",
+          "ingredient_id": "38dedce7-9a7f-57ee-8e46-5162ab60eba8",
+          "name": "allspice",
+          "display_text": "¼ tsp Allspice",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "5cf98d86-fef5-5a4a-b4de-b6dd8796d908",
+          "ingredient_id": "9426e9cd-e7b2-540e-8ddb-187c01748931",
+          "name": "nutmeg",
+          "display_text": "¼ tsp Nutmeg",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "21e54158-a272-5cc9-ac06-b0ade16a9343",
+          "ingredient_id": "2d490c0b-0744-5be5-a104-641c87b13636",
+          "name": "vegetable stock",
+          "display_text": "100ml Vegetable Stock",
+          "quantity": 100.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "9162f5c6-67d0-5a32-b6d1-b5c3cd0efeae",
+          "ingredient_id": "046360a3-7aab-5675-9fe2-646f97878a5d",
+          "name": "shortcrust pastry",
+          "display_text": "400g Shortcrust Pastry",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "11f3d1c9-6298-5f99-9e37-f1b542cc7c8f",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "To Glaze Egg",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to glaze",
+          "is_optional": false,
+          "category": "eggs"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 200C/180C fan/gas 6. Boil the potato until tender, drain and mash, then leave to cool. Heat the oil in a non-stick pan, add the mince and onion and quickly fry until browned. Add the garlic, spices, stock, plenty of pepper and a little salt and mix well. Remove from the heat, stir into the potato and leave to cool.",
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "7ff98338-e676-5c90-8083-58e2ace5842f"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Roll out half the pastry and line the base of a 20-23cm pie plate or flan tin. Fill with the pork mixture and brush the edges of the pastry with water. Roll out the remaining dough and cover the pie. Press the edges of the pastry to seal, trimming off the excess. Prick the top of the pastry case to allow steam to escape and glaze the top with the beaten egg.",
+      "ingredients_used": [
+        "cf7dabd7-2b7e-5b7d-b1d9-4860bc6767db",
+        "9162f5c6-67d0-5a32-b6d1-b5c3cd0efeae",
+        "11f3d1c9-6298-5f99-9e37-f1b542cc7c8f"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Bake for 30 mins until the pastry is crisp and golden. Serve cut into wedges with a crisp green salad. Leftovers are good cold for lunch the next day, served with a selection of pickles.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "9162f5c6-67d0-5a32-b6d1-b5c3cd0efeae"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/531644/spiced-pork-and-potato-pie"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

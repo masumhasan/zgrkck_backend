@@ -1,0 +1,316 @@
+{
+  "id": "ce05f12d-21c7-51ab-89bb-3c598ccf8521",
+  "version": "1.0.0",
+  "title": "Piri-piri chicken and slaw",
+  "slug": "piri-piri-chicken-and-slaw",
+  "summary": "Spicy marinated chicken served with a fresh vegetable slaw. The chicken is seasoned with a piri-piri style marinade of chili, garlic, and spices, then roasted and served alongside a crunchy cabbage and beetroot salad.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:59:11Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53039"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/hglsbl1614346998.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/hglsbl1614346998.jpg/small",
+      "alt_text": "Photo of Piri-piri chicken and slaw",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=_RKwKjskopk"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d3317c07-1a34-51bf-a414-80251ba04fe2",
+        "slug": "portuguese",
+        "name": "Portuguese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 80,
+    "marinating_time_minutes": 60,
+    "rest_time_minutes": 20,
+    "total_time_minutes": 180
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of chicken with slaw"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "eggs",
+      "sulfites"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "a8fecc52-6e0c-5683-a938-378ecb1942ec",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "256bebda-7f4e-5da0-af62-f20a2a2bd88f",
+          "ingredient_id": "96643234-56e3-5df9-9877-487e63d7cb8b",
+          "name": "chicken",
+          "display_text": "1.5kg Chicken",
+          "quantity": 1.5,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.5,
+          "metric_unit": "kilogram",
+          "category": "poultry"
+        },
+        {
+          "id": "631657a7-9536-5184-baec-2fb873924cee",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "3 chopped Red Chilli",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c2e632bd-b0ec-520e-91c5-2f3824e1be10",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "fc3f1649-4f07-5151-bc0b-ef2996815529",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "1 tsp Ginger",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "51d5a872-aa40-5968-a7a0-78f75fa294f2",
+          "ingredient_id": "23e1101c-9b20-575b-81cd-037dfd7bf307",
+          "name": "dried oregano",
+          "display_text": "1 tsp Dried Oregano",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "56208b26-ccdf-5fa2-9949-7aefd30f27c0",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "1 tsp Coriander",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "dde7456f-b13d-5fff-ae52-305401d1a93f",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1 tsp Paprika",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "c122d1a9-1923-56a2-a649-689ede5b0f57",
+          "ingredient_id": "38df984b-29a1-5431-8935-d850dfe8f8f7",
+          "name": "red wine vinegar",
+          "display_text": "2 tbs Red Wine Vinegar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "8d19e4d0-9f04-5bfc-92bf-7aebb7c4f4b5",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "2 tbs Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "5be45d03-81e6-5aec-b979-aa19e8a4a127",
+          "ingredient_id": "716f7639-3b59-56a7-9146-1819649ebdad",
+          "name": "red onions",
+          "display_text": "1 sliced Red Onions",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "daad9c49-dc57-5406-a741-624916611815",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "2 Carrots",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0e5291f1-dae3-5b7b-bf3e-f5c68e15d1cb",
+          "ingredient_id": "5eb26a00-afde-5f0c-84ea-6db9840afa2c",
+          "name": "beetroot",
+          "display_text": "1 Beetroot",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "6f4ce2be-0f1d-5105-adf5-0a8eaa6cd096",
+          "ingredient_id": "8604c41c-a935-5634-b405-fed806fe806b",
+          "name": "cabbage",
+          "display_text": "4 leaves Cabbage",
+          "quantity": 4.0,
+          "unit": "leaf",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c6cdecfb-6d4d-51aa-af3f-45977ee4aa24",
+          "ingredient_id": "6a3a5ec7-7840-5eff-a3ce-0e3aafbaa822",
+          "name": "mayonnaise",
+          "display_text": "2 tbs Mayonnaise",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "9d79c064-41e7-5f08-8d73-c9e980622d3b",
+          "ingredient_id": "ba22b73d-e619-5bc7-a859-f65b683613fe",
+          "name": "greek yogurt",
+          "display_text": "2 tbs Greek Yogurt",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "de5ddbb6-ffd9-5832-971c-244fd9321c98",
+          "ingredient_id": "38df984b-29a1-5431-8935-d850dfe8f8f7",
+          "name": "red wine vinegar",
+          "display_text": "2 tbs Red Wine Vinegar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "e7f81733-dbcf-5691-afbd-c9dc02ced1ae",
+          "ingredient_id": "e03a9d77-1724-50c7-abdd-1b6af998189f",
+          "name": "cumin seeds",
+          "display_text": "1 tsp Cumin Seeds",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Whizz together all of the marinade ingredients in a small food processor. Rub the marinade onto the chicken and leave for 1 hour at room temperature.",
+      "timer_seconds": 3600,
+      "ingredients_used": [
+        "256bebda-7f4e-5da0-af62-f20a2a2bd88f"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat the oven to 190C/fan 170C/gas 5. Put the chicken in a roasting tray and cook for 1 hour 20 minutes. Rest under loose foil for 20 minutes. While the chicken is resting, mix together the slaw ingredients and season. Serve the chicken with slaw, fries and condiments.",
+      "temperature": {
+        "value": 190,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "256bebda-7f4e-5da0-af62-f20a2a2bd88f"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.olivemagazine.com/recipes/family/piri-piri-chicken-and-winter-slaw/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

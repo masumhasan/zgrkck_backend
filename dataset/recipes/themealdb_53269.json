@@ -1,0 +1,181 @@
+{
+  "id": "929048fa-b1b7-56cb-b775-f11a7c1dba2e",
+  "version": "1.0.0",
+  "title": "Hummus",
+  "slug": "hummus",
+  "summary": "A smooth Turkish-style hummus made with chickpeas, tahini, garlic, and Greek yogurt.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:19:20Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53269"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/gpon5u1763801180.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/gpon5u1763801180.jpg/small",
+      "alt_text": "Photo of Hummus",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=EsZFJEjANiA"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4c480df7-c067-5e9c-ac08-d8d49afa7f51",
+        "slug": "turkish",
+        "name": "Turkish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish",
+      "appetizer"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 10
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a scoop of hummus"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "tree_nuts",
+      "sesame"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "d56e08da-1cce-57bc-9637-683405540aac",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "3f32c27e-2e41-59ca-a6b4-fa5e7cb390fb",
+          "ingredient_id": "ae979dd7-6a1e-5882-9ed5-e0b09554efd0",
+          "name": "chickpeas",
+          "display_text": "400g Chickpeas",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "a9160d32-d9b8-524b-a3e5-f064ebfd889e",
+          "ingredient_id": "de16a8f5-5521-5c73-8b47-7a32a65ce109",
+          "name": "tahini paste",
+          "display_text": "1 tablespoon Tahini Paste",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "bc5510fb-88d3-547f-9f10-583b57c62c25",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "1 large Garlic Clove",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "745d77b6-65a6-570e-85e3-dbccbc3b9c5c",
+          "ingredient_id": "ba22b73d-e619-5bc7-a859-f65b683613fe",
+          "name": "greek yogurt",
+          "display_text": "3  tablespoons Greek Yogurt",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "4cd43a2c-3c25-5657-b3ca-f1da925f52d0",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "Juice of half Lemon",
+          "quantity": 0.5,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Drain the chickpeas into a sieve set over a bowl or jug to catch the liquid. Tip the chickpeas, tahini, garlic and yogurt into a food processor or blender and whizz to smooth.",
+      "ingredients_used": [
+        "3f32c27e-2e41-59ca-a6b4-fa5e7cb390fb",
+        "745d77b6-65a6-570e-85e3-dbccbc3b9c5c"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Whizz in a tbsp of the chickpea liquid at a time until you have a nice consistency, then scrape into a bowl."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Stir in a squeeze of lemon juice and season to taste.",
+      "ingredients_used": [
+        "4cd43a2c-3c25-5657-b3ca-f1da925f52d0"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/easy-hummus-recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

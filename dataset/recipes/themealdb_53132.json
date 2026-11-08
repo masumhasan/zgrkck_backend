@@ -1,0 +1,343 @@
+{
+  "id": "df0e5dab-26fe-546d-932e-d91d9e94374a",
+  "version": "1.0.0",
+  "title": "Mazariner – Scandinavian Almond Tartlets",
+  "slug": "mazariner-scandinavian-almond-tartlets",
+  "summary": "Mazariner are traditional Norwegian almond tartlets consisting of a shortcrust pastry shell filled with a rich, almond-flavored frangipane and finished with a sweet glaze.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:07:09Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53132"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/uh1n5u1763075545.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/uh1n5u1763075545.jpg/small",
+      "alt_text": "Photo of Mazariner – Scandinavian Almond Tartlets",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ZpZ_8mcmNLI"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "56e78dbc-276d-5104-bca5-2bb213b93a49",
+        "slug": "norwegian",
+        "name": "Norwegian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "afternoon_snack",
+      "holiday"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 25,
+    "rest_time_minutes": 10,
+    "total_time_minutes": 65
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 tartlet"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "tree_nuts",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "e7ed72f6-3a60-5132-965f-ae63ec9a851b",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "8ee3885e-a2cf-551a-bf46-01ef9e870a5b",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "3 Cups Flour",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "9c5a71ae-3cb6-594c-a043-338184510851",
+          "ingredient_id": "c644e242-4958-5575-8256-69e88b283feb",
+          "name": "powdered sugar",
+          "display_text": "1 1/4 cup Powdered Sugar",
+          "quantity": 1.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "91c30a7e-5c88-55b0-ba9a-a763b0b1f466",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "200g Butter",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "2c3e5f15-4d6c-534e-9dba-d3cb2bd16358",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "7e2a2542-576a-565b-9c62-361bc7cf32d6",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "3 Egg",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "392b0079-32ee-569e-84bd-19bc447b92fb",
+          "ingredient_id": "c644e242-4958-5575-8256-69e88b283feb",
+          "name": "powdered sugar",
+          "display_text": "1 1/4 cup Powdered Sugar",
+          "quantity": 1.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "1a193253-09d7-5b50-aa0d-2c7de04714fb",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "100g Butter",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "d93ccced-dc79-5c74-945d-77475b507496",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "2 teaspoons Vanilla Extract",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "37e0d1a4-c284-5e37-9335-eb2e15fa2910",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "2 tblsp Flour",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "5c829c60-6427-5863-8c93-037e4680de4d",
+          "ingredient_id": "19be7926-b3ea-5c9b-ad47-47c3517fbd1c",
+          "name": "almond flour",
+          "display_text": "2 cups Almond Flour",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "e585d597-8b52-5e1b-bb88-1f71176283dd",
+          "ingredient_id": "278d6272-cef1-5153-8ee2-6a0fb031c264",
+          "name": "almond extract",
+          "display_text": "1 teaspoon Almond Extract",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "78cac372-9f93-5d15-90df-da795b6813d1",
+          "ingredient_id": "c644e242-4958-5575-8256-69e88b283feb",
+          "name": "powdered sugar",
+          "display_text": "2 cups Powdered Sugar",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "ccf7f76e-1d59-5612-a845-0a31ffdb2b4d",
+          "ingredient_id": "cb8d5d02-f2f1-547b-b7e6-054d6629adc1",
+          "name": "heavy cream",
+          "display_text": "3  tablespoons Heavy Cream",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "c40e5ac2-0212-5a94-a573-760956fc75d6",
+          "ingredient_id": "278d6272-cef1-5153-8ee2-6a0fb031c264",
+          "name": "almond extract",
+          "display_text": "1/4 tsp Almond Extract",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "nuts_seeds"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Shells"
+    },
+    {
+      "step_number": 2,
+      "instruction": "Combine the flour and powdered sugar in a food processor. Add the butter and pulse until it's evenly distributed. Add the egg and pulse until the dough comes together.",
+      "ingredients_used": [
+        "8ee3885e-a2cf-551a-bf46-01ef9e870a5b",
+        "9c5a71ae-3cb6-594c-a043-338184510851",
+        "91c30a7e-5c88-55b0-ba9a-a763b0b1f466",
+        "2c3e5f15-4d6c-534e-9dba-d3cb2bd16358",
+        "7e2a2542-576a-565b-9c62-361bc7cf32d6",
+        "392b0079-32ee-569e-84bd-19bc447b92fb",
+        "1a193253-09d7-5b50-aa0d-2c7de04714fb",
+        "37e0d1a4-c284-5e37-9335-eb2e15fa2910",
+        "78cac372-9f93-5d15-90df-da795b6813d1"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Roll out the dough on a floured surface. Cut the dough in circles with a large mug. Press the circles down into a greased muffin pan. Put the pan of shells in the fridge while you prepare the almond filling."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Almond filling"
+    },
+    {
+      "step_number": 5,
+      "instruction": "Preheat oven to 355°F (180°C).",
+      "temperature": {
+        "value": 355,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 6,
+      "instruction": "Whisk the egg and powdered sugar together until thick and airy. Melt the butter and stir it into the egg mixture. Stir in the vanilla, flour, and almond extract. Stir in the almond flour.",
+      "ingredients_used": [
+        "8ee3885e-a2cf-551a-bf46-01ef9e870a5b",
+        "9c5a71ae-3cb6-594c-a043-338184510851",
+        "91c30a7e-5c88-55b0-ba9a-a763b0b1f466",
+        "2c3e5f15-4d6c-534e-9dba-d3cb2bd16358",
+        "7e2a2542-576a-565b-9c62-361bc7cf32d6",
+        "392b0079-32ee-569e-84bd-19bc447b92fb",
+        "1a193253-09d7-5b50-aa0d-2c7de04714fb",
+        "d93ccced-dc79-5c74-945d-77475b507496",
+        "37e0d1a4-c284-5e37-9335-eb2e15fa2910",
+        "5c829c60-6427-5863-8c93-037e4680de4d",
+        "e585d597-8b52-5e1b-bb88-1f71176283dd",
+        "78cac372-9f93-5d15-90df-da795b6813d1",
+        "c40e5ac2-0212-5a94-a573-760956fc75d6"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Pipe or spoon the almond filling onto the shells, filling the shells about 3/4 full."
+    },
+    {
+      "step_number": 8,
+      "instruction": "Bake the mazariner for 20 – 25 minutes, until light golden brown. Cool on a wire rack.",
+      "timer_seconds": 1500
+    },
+    {
+      "step_number": 9,
+      "instruction": "Glaze"
+    },
+    {
+      "step_number": 10,
+      "instruction": "Mix together the powdered sugar and liquid until you get a spreadable glaze. Spread the glaze on top of the mazariner and if you wish, decorate with sprinkles, or anything you like.",
+      "ingredients_used": [
+        "9c5a71ae-3cb6-594c-a043-338184510851",
+        "392b0079-32ee-569e-84bd-19bc447b92fb",
+        "78cac372-9f93-5d15-90df-da795b6813d1"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://scandinaviancookbook.com/mazariner-scandinavian-almond-tartlets/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

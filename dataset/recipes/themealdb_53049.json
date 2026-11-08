@@ -1,0 +1,234 @@
+{
+  "id": "caad2483-4316-574e-aa8f-5dace741883b",
+  "version": "1.0.0",
+  "title": "Apam balik",
+  "slug": "apam-balik",
+  "summary": "Apam balik is a Malaysian thick pancake typically filled with sweet ingredients like peanuts and sugar.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:00:11Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53049"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/adxcbq1619787919.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/adxcbq1619787919.jpg/small",
+      "alt_text": "Photo of Apam balik",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=6R8ffRRJcrg"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "336a5cbb-5bdd-53e1-aca6-9d291720d97b",
+        "slug": "malaysian",
+        "name": "Malaysian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 25
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "eggs"
+    ],
+    "free_from": [
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "6bd33367-1f62-51b8-bd85-2191369fad02",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "39643747-e3ea-59bf-84c2-2cd15fc2894f",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "200ml Milk",
+          "quantity": 200.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "f953feae-7130-5017-bfe5-f54ed6211ec5",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "60ml Oil",
+          "quantity": 60.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "a4981a6c-615c-5094-aaa6-7f7aa46005a7",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "2 Eggs",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "843057e2-7ed5-5fbb-b4c3-a324ebd7f020",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "1600g Flour",
+          "quantity": 1600.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 1600.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "d8bf4f4f-ea27-55b0-aa12-75c93cb4be62",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "3 tsp Baking Powder",
+          "quantity": 3.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "43ed7ab0-d444-5999-93e8-2ec113534242",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/2 tsp Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "dfe36221-fafd-5b30-926f-f468239e4094",
+          "ingredient_id": "bc46b2a6-8a59-50ee-a044-ce38bddb125c",
+          "name": "unsalted butter",
+          "display_text": "25g Unsalted Butter",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "82d4c4a5-9acd-5326-8a64-d164735d4df6",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "45g Sugar",
+          "quantity": 45.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "15fe3981-66a7-5d40-9de1-0ca9e958ecb0",
+          "ingredient_id": "7d1aec85-0aaa-5080-9fc7-4d5396f799f9",
+          "name": "peanut butter",
+          "display_text": "3 tbs Peanut Butter",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "nuts_seeds"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Mix milk, oil and egg together. Sift flour, baking powder and salt into the mixture. Stir well until all ingredients are combined evenly.",
+      "ingredients_used": [
+        "39643747-e3ea-59bf-84c2-2cd15fc2894f",
+        "f953feae-7130-5017-bfe5-f54ed6211ec5",
+        "843057e2-7ed5-5fbb-b4c3-a324ebd7f020",
+        "d8bf4f4f-ea27-55b0-aa12-75c93cb4be62",
+        "43ed7ab0-d444-5999-93e8-2ec113534242"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Spread some batter onto the pan. Spread a thin layer of batter to the side of the pan. Cover the pan for 30-60 seconds until small air bubbles appear.",
+      "timer_seconds": 60
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add butter, cream corn, crushed peanuts and sugar onto the pancake. Fold the pancake into half once the bottom surface is browned.",
+      "ingredients_used": [
+        "dfe36221-fafd-5b30-926f-f468239e4094",
+        "82d4c4a5-9acd-5326-8a64-d164735d4df6",
+        "15fe3981-66a7-5d40-9de1-0ca9e958ecb0"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Cut into wedges and best eaten when it is warm."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.nyonyacooking.com/recipes/apam-balik~SJ5WuvsDf9WQ"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

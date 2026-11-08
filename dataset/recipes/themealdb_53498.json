@@ -1,0 +1,343 @@
+{
+  "id": "b73d0c34-ae02-576e-ae1f-09a1f3322e33",
+  "version": "1.0.0",
+  "title": "Samlar Kari – Khmer Red Curry",
+  "slug": "samlar-kari-khmer-red-curry",
+  "summary": "A Cambodian-style red curry featuring chicken thighs simmered in a coconut milk base with red curry paste, bamboo shoots, and red peppers.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:39:36Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53498"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/k5qzdl1782689660.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/k5qzdl1782689660.jpg/small",
+      "alt_text": "Photo of Samlar Kari – Khmer Red Curry",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9366172c-dff3-589e-9436-4be7c7f595b3",
+        "slug": "cambodian",
+        "name": "Cambodian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 36,
+    "total_time_minutes": 51
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of curry"
+  },
+  "allergens": {
+    "contains": [
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "7d9fc509-7297-5e64-93a1-ddfa57ca111f",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "75489a70-71bc-5fce-8a94-2a7d1952f846",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "1 tablespoon Vegetable Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "895503b0-0e49-5aaf-866b-c89b4ac6c9fb",
+          "ingredient_id": "e0e4d032-0f9f-5908-ab90-db9a8ec5b68c",
+          "name": "chicken thighs",
+          "display_text": "1 lb Chicken Thighs",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "poultry"
+        },
+        {
+          "id": "3af5c7a1-75fe-50b7-87f3-92e893c14b6d",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 medium chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "medium chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e115b628-1cb7-5d01-8a96-c06a573fa0a6",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 Cloves Crushed Garlic",
+          "quantity": 3.0,
+          "unit": "clove",
+          "preparation": "crushed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "9fe40c3d-645c-5cf1-9bd4-848f5d5510d4",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "1 tablespoon Ginger",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "411eed23-7823-57c8-9c8e-df93ad46672e",
+          "ingredient_id": "51cfaefc-03f3-5c8a-9e12-0900e51f3b03",
+          "name": "red curry paste",
+          "display_text": "2 tablespoons Red Curry Paste",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "b6d1c014-1699-5e97-aa6e-0a71d30a9c09",
+          "ingredient_id": "0435e55e-84f6-566c-ac81-37617bbab91c",
+          "name": "coconut milk",
+          "display_text": "1 can Coconut Milk",
+          "quantity": 1.0,
+          "unit": "can",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "e581e0ab-e747-5025-a7c5-d4f471bf4467",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "1 cup Chicken Stock",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "a9a3a76d-108f-5567-9fc4-fd0624c0a29e",
+          "ingredient_id": "de927c20-fdfa-5b98-8ee9-7840fa951a2f",
+          "name": "fish sauce",
+          "display_text": "1 tablespoon Fish Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "da8dfa08-461b-542d-83a3-d86059ef57a7",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "1 tablespoon Brown Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "77ca3eb8-7c3b-5b7a-9f69-a10ec8b1be93",
+          "ingredient_id": "1844db6b-910a-5526-9892-d245ad37b906",
+          "name": "bamboo shoot",
+          "display_text": "1 cup Bamboo Shoot",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "683320ae-5ef9-5257-8e13-2a5e3b92ca52",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1 sliced Red Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b7b2aee3-d6fa-5579-9297-b3369e56ff4f",
+          "ingredient_id": "fc6a825e-e02a-589c-91d6-b4e76ccc6354",
+          "name": "basil",
+          "display_text": "Pinch Basil",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "6edb42c1-7b84-50d0-9c18-dc6784073a15",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "To serve Lime",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat 1 tbsp vegetable oil in a large pot or Dutch oven over medium-high heat until it shimmers, about 2 minutes.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "75489a70-71bc-5fce-8a94-2a7d1952f846"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add 1 lb chicken pieces to the pot and cook until browned on all sides, approximately 5–7 minutes, stirring occasionally to prevent sticking.",
+      "timer_seconds": 420
+    },
+    {
+      "step_number": 3,
+      "instruction": "Remove the chicken from the pot and set it aside on a plate, leaving any oil and juices in the pot."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Reduce the heat to medium and add 1 sliced onion to the pot, cooking until softened and translucent, about 4 minutes.",
+      "timer_seconds": 240,
+      "ingredients_used": [
+        "3af5c7a1-75fe-50b7-87f3-92e893c14b6d"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Stir in 3 cloves minced garlic and 1 tbsp grated ginger, cooking for 1 minute until fragrant to avoid burning.",
+      "timer_seconds": 60,
+      "ingredients_used": [
+        "e115b628-1cb7-5d01-8a96-c06a573fa0a6",
+        "9fe40c3d-645c-5cf1-9bd4-848f5d5510d4"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Add 2 tbsp red curry paste to the pot and cook for 1 minute, stirring constantly to toast the spices and deepen the flavor.",
+      "timer_seconds": 60,
+      "ingredients_used": [
+        "411eed23-7823-57c8-9c8e-df93ad46672e"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Pour in 1 can coconut milk and 1 cup chicken broth, scraping the bottom of the pot to incorporate any browned bits for extra richness.",
+      "ingredients_used": [
+        "b6d1c014-1699-5e97-aa6e-0a71d30a9c09"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Stir in 1 tbsp fish sauce and 1 tbsp palm sugar until fully dissolved, then return the browned chicken to the pot.",
+      "ingredients_used": [
+        "a9a3a76d-108f-5567-9fc4-fd0624c0a29e"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Bring the mixture to a gentle boil, then reduce the heat to low, cover, and simmer for 15 minutes to allow the flavors to meld.",
+      "timer_seconds": 900
+    },
+    {
+      "step_number": 10,
+      "instruction": "Add 1 cup bamboo shoots and 1 sliced red bell pepper to the pot, simmering uncovered for an additional 5 minutes until the vegetables are tender-crisp.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "77ca3eb8-7c3b-5b7a-9f69-a10ec8b1be93"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Remove the pot from the heat and stir in 1 cup Thai basil leaves until just wilted, about 1 minute, to preserve their fresh aroma.",
+      "timer_seconds": 60,
+      "ingredients_used": [
+        "b7b2aee3-d6fa-5579-9297-b3369e56ff4f"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Serve the curry hot, garnished with lime wedges for a bright, acidic finish.",
+      "ingredients_used": [
+        "6edb42c1-7b84-50d0-9c18-dc6784073a15"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://recipes-for-life.com/cambodian-recipes/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

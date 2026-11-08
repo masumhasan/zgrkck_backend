@@ -1,0 +1,184 @@
+{
+  "id": "bd867f62-efa6-599c-907f-5bbda4d9c78e",
+  "version": "1.0.0",
+  "title": "Quick gazpacho",
+  "slug": "quick-gazpacho",
+  "summary": "A chilled Spanish-style soup made by blending passata with fresh red pepper, chili, garlic, and vinegar.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:10:39Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53173"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/h5qmn31763304965.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/h5qmn31763304965.jpg/small",
+      "alt_text": "Photo of Quick gazpacho",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=sJzHIxlDTHc"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "starter"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 10
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of soup"
+  },
+  "allergens": {
+    "contains": [
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "f4116d94-ec74-5a31-8e35-7c0d863e7a11",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "c8c9c953-8284-5536-a60f-d7ef0a39a668",
+          "ingredient_id": "aef5069a-5b08-5a3b-b076-1f7a6755415c",
+          "name": "passata",
+          "display_text": "250g Passata",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "01c9a900-6370-52a1-ab97-10428f0a7ddf",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1 chopped Red Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "a6006e3e-7d90-5775-acee-ffd7b70ac784",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "1 chopped Red Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f0c9efca-156f-5cf9-a3c1-14858ea51807",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove peeled crushed Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "preparation": "peeled crushed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3c70ac38-4f99-57b8-b117-b1d70a95a1a9",
+          "ingredient_id": "284d3e0d-9e9f-56ee-95b4-7e7dc1b66214",
+          "name": "sherry vinegar",
+          "display_text": "1 teaspoon Sherry vinegar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "5305b5cb-ae23-5b6f-9c19-d89dfc5c4104",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "Juice of 1/2 Lime",
+          "quantity": 0.5,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "In a blender (or with a stick blender), whizz together the passata, red pepper, chilli, garlic, sherry vinegar and lime juice until smooth. Season to taste, then serve with ice cubes",
+      "ingredients_used": [
+        "c8c9c953-8284-5536-a60f-d7ef0a39a668",
+        "01c9a900-6370-52a1-ab97-10428f0a7ddf",
+        "a6006e3e-7d90-5775-acee-ffd7b70ac784",
+        "f0c9efca-156f-5cf9-a3c1-14858ea51807",
+        "3c70ac38-4f99-57b8-b117-b1d70a95a1a9",
+        "5305b5cb-ae23-5b6f-9c19-d89dfc5c4104"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/quick-gazpacho"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "id": "5ade0fb3-9a31-5675-9ab6-550a6070fc6b",
+  "version": "1.0.0",
+  "title": "Rice paper dumplings",
+  "slug": "rice-paper-dumplings",
+  "summary": "Vietnamese-style dumplings made with rice paper wrappers, filled with a mixture of ground pork, vegetables, and aromatics, then pan-fried until golden.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:15:34Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53227"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/sfahy01763752319.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/sfahy01763752319.jpg/small",
+      "alt_text": "Photo of Rice paper dumplings",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/shorts/YU09jIusxo4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "60481cf3-a7b7-5be4-a0dc-6b872c887e64",
+        "slug": "vietnamese",
+        "name": "Vietnamese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "courses": [
+      "appetizer",
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 25,
+    "cook_time_minutes": 10,
+    "marinating_time_minutes": 15,
+    "total_time_minutes": 50
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "5 dumplings"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "sesame"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "fish",
+      "shellfish",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "9b67d132-8516-5ad8-b10f-e169d719496e",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "9d035056-7f45-5d20-b060-f780ecdeb917",
+          "ingredient_id": "21b2d42b-5b38-5551-ac7b-75008ee144d3",
+          "name": "white cabbage",
+          "display_text": "1/4 White Cabbage",
+          "quantity": 0.25,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "84ba467a-c17a-56e5-bd70-1861d20a3cc4",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "1 Carrots",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "004ace25-f02c-5a53-93d3-668304a3fb01",
+          "ingredient_id": "b1799df6-0136-5c15-b8f4-d13b39bf63d3",
+          "name": "shiitake mushrooms",
+          "display_text": "100g Shiitake Mushrooms",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "d4ff203b-48b3-5a23-a0e1-8eeaec052b04",
+          "ingredient_id": "43eb0e54-4681-5c1a-b0f7-d686895d5f7a",
+          "name": "ground pork",
+          "display_text": "400g Ground Pork",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "09b2a267-0420-5a7c-9acd-dfb51f52c1b1",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves minced Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "minced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4a2998f9-1aca-5ca3-8202-ec140f0a5e15",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "20g Ginger",
+          "quantity": 20.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 20.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "f4183039-245e-584f-95d2-451041ae0a3b",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "2 tsp Soy Sauce",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "534340c9-2b85-5315-a15c-bf252280a90e",
+          "ingredient_id": "653731ca-07ee-57df-aa38-0f8f2b71ccc6",
+          "name": "sesame seed oil",
+          "display_text": "2 tsp Sesame Seed Oil",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "6f5a47e8-73ab-5a52-a454-d0cee764e1e9",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "3 sliced thinly Spring Onions",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "sliced thinly",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0d9d18b5-a456-59d9-a6c6-7e23b81ec12e",
+          "ingredient_id": "14e49cf9-fca5-5e59-80e7-71e990354a46",
+          "name": "rice paper sheets",
+          "display_text": "20 Rice Paper Sheets",
+          "quantity": 20.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "0874b9de-c844-56f9-b617-8ab46c3550e1",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "75 ml Vegetable Oil",
+          "quantity": 75.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "6364bb85-de84-540d-a810-e103ce3cb872",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "2 tablespoons Soy Sauce",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "e9d558a9-88f0-5b04-ba68-7975e5b462d6",
+          "ingredient_id": "cad15bc5-2770-5a5f-8572-c5ac5ad79569",
+          "name": "rice vinegar",
+          "display_text": "2 tablespoons Rice Vinegar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "f9061033-f420-5531-856f-da068ef0f86f",
+          "ingredient_id": "d5403c00-b586-53a5-a77f-fac320f14278",
+          "name": "sesame seed",
+          "display_text": "1/2 tbs Sesame Seed",
+          "quantity": 0.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "2c5e3a52-642d-532c-97cd-c5af57440524",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "2 sliced Spring Onions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Tip the cabbage into a food processor and blitz until finely chopped. Season with ½ tsp salt, toss well and set aside for 15 mins. Tip into a clean tea towel and squeeze out as much water as you can. Tip into a bowl with the carrot, mushrooms, pork mince, garlic, ginger, soy sauce, sesame oil and spring onions. Season with black pepper. Scrunch everything together using your hands, mixing well until everything is combined.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "9d035056-7f45-5d20-b060-f780ecdeb917",
+        "004ace25-f02c-5a53-93d3-668304a3fb01",
+        "d4ff203b-48b3-5a23-a0e1-8eeaec052b04",
+        "09b2a267-0420-5a7c-9acd-dfb51f52c1b1",
+        "4a2998f9-1aca-5ca3-8202-ec140f0a5e15",
+        "f4183039-245e-584f-95d2-451041ae0a3b",
+        "6f5a47e8-73ab-5a52-a454-d0cee764e1e9",
+        "6364bb85-de84-540d-a810-e103ce3cb872",
+        "2c5e3a52-642d-532c-97cd-c5af57440524"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Soak the spring roll sheets for a couple of seconds in a shallow dish of warm water, then transfer to an oiled chopping board. Working with one sheet at a time, spoon 1 heaped tbsp of the filling into the middle, then fold the bottom up and over the filling. Fold down the top of the sheet, then the sides to fully encase and make a neat square. If the dumpling feels a little fragile, soak another sheet and wrap it again. Repeat with the remaining sheets and filling, transferring the dumplings to an oiled plate as you go.",
+      "ingredients_used": [
+        "0d9d18b5-a456-59d9-a6c6-7e23b81ec12e"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Heat the oil in a large, non-stick frying pan (ensuring it is no more than a third full) over a medium-high heat and fry the dumplings for 3-5 mins until golden brown. Use a slotted spoon or spider to turn them, then cover with a lid and cook for another 3-4 mins until golden. Remove the lid and cook for 1-2 mins."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Meanwhile, combine all the dipping sauce ingredients in small bowl. Serve the dumplings with the dipping sauce on the side."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/rice-paper-dumplings"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

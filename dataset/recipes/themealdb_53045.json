@@ -1,0 +1,312 @@
+{
+  "id": "b9d76fc4-9c25-5344-878f-babac0183167",
+  "version": "1.0.0",
+  "title": "Portuguese fish stew (Caldeirada de peixe)",
+  "slug": "portuguese-fish-stew-caldeirada-de-peixe",
+  "summary": "A traditional Portuguese seafood stew featuring a variety of fish, shellfish, and potatoes simmered in a fragrant white wine and saffron sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:59:45Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53045"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/do7zps1614349775.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/do7zps1614349775.jpg/small",
+      "alt_text": "Photo of Portuguese fish stew (Caldeirada de peixe)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=utv-GpSJypk"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d3317c07-1a34-51bf-a414-80251ba04fe2",
+        "slug": "portuguese",
+        "name": "Portuguese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 35,
+    "total_time_minutes": 55
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of stew with baguette slices"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "fish",
+      "shellfish",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "8ae1348b-9871-597e-b70f-453dc24e8be2",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "0cb181ea-7e36-5ae9-9f44-577f3e38f38e",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onions",
+          "display_text": "2 finely chopped Onions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d3bc9e19-9713-5beb-8048-74f8ad4adcb2",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1 Diced Red Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "23cba137-15b8-55e5-9398-42e2ec28b62c",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "Small bunch Coriander",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "small bunch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "4d350fc2-1f15-5002-a8f1-7a0ce22cbe5d",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "1 small Red Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "22020640-aea8-5870-86d4-b433da63133d",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 cloves Garlic",
+          "quantity": 3.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0c416fa1-b94d-59f2-a159-25af6faa73ee",
+          "ingredient_id": "fda31c84-156d-52ae-9761-68b43f6d20f4",
+          "name": "dry white wine",
+          "display_text": "400ml Dry White Wine",
+          "quantity": 400.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "a4638b33-4c7e-5cf0-a4eb-5c6b19898caf",
+          "ingredient_id": "6e4973c3-ed8a-5158-9a24-ca212d5e7092",
+          "name": "saffron",
+          "display_text": "Pinch Saffron",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "6060858f-cd43-568a-8653-75ac16cd3ef9",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "1 Bay Leaf",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "10737105-1258-5cd2-ae07-641a2add711c",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "300g Potatoes",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "1f831211-246f-58da-8cf4-0dc1414bb415",
+          "ingredient_id": "eef09ba5-f0a8-5d2e-a676-6a71ab7f1fab",
+          "name": "plum tomatoes",
+          "display_text": "400g Plum Tomatoes",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "dd90d896-dd92-5259-9dcc-8e69e70491d4",
+          "ingredient_id": "f9dad168-9e60-5ad4-ac38-eaf334e31e27",
+          "name": "cod",
+          "display_text": "600g Cod",
+          "quantity": 600.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 600.0,
+          "metric_unit": "gram",
+          "category": "fish"
+        },
+        {
+          "id": "f2cafcd7-e0a6-55b9-a6a1-90b8417ee5fd",
+          "ingredient_id": "99692f34-e6c0-5343-b562-9ea531589faa",
+          "name": "squid",
+          "display_text": "300g Squid",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "7f844211-ff6b-574f-9693-1acb13dc474a",
+          "ingredient_id": "080461b7-c0c9-5c52-8869-2de338e27955",
+          "name": "tiger prawns",
+          "display_text": "8 Tiger Prawns",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "seafood"
+        },
+        {
+          "id": "8d1b58db-83e5-50a4-b614-783db39292a8",
+          "ingredient_id": "ed56a766-8341-54bc-9a49-06a1d5eb42b6",
+          "name": "clams",
+          "display_text": "500g Clams",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "72d8eb5e-7cdd-5b02-87ca-4bf9522018f0",
+          "ingredient_id": "6fa524d6-82be-5309-be7c-5e9137a8c8ec",
+          "name": "mussels",
+          "display_text": "500g Mussels",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "697f299c-70a9-58be-ad45-3a686ff1e8c5",
+          "ingredient_id": "43b5d3b2-0e2d-5ff1-9c0e-d047e896af5e",
+          "name": "baguette",
+          "display_text": "1 sliced Baguette",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "grains_pasta"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat a drizzle of oil in a large, deep-sided frying pan, and fry the onion and pepper on a medium heat until softened but not browned. Finely chop the coriander stalks (keep the leaves for later), and add to the pan with the chilli and chopped garlic. Fry for another few minutes. Add the wine, saffron and bay leaf and let it simmer until reduced by half.",
+      "ingredients_used": [
+        "23cba137-15b8-55e5-9398-42e2ec28b62c",
+        "4d350fc2-1f15-5002-a8f1-7a0ce22cbe5d",
+        "22020640-aea8-5870-86d4-b433da63133d",
+        "0c416fa1-b94d-59f2-a159-25af6faa73ee",
+        "a4638b33-4c7e-5cf0-a4eb-5c6b19898caf",
+        "6060858f-cd43-568a-8653-75ac16cd3ef9"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the potatoes, tomatoes, and 300ml water and bring to a gentle boil. Break up the tomatoes with a spoon on the side of the pan and simmer for 20-25 minutes until the potatoes are just tender, and the tomatoes have broken down.",
+      "timer_seconds": 1500,
+      "ingredients_used": [
+        "10737105-1258-5cd2-ae07-641a2add711c",
+        "1f831211-246f-58da-8cf4-0dc1414bb415"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Season well, then gently push the fish into the sauce, and arrange the squid, prawns, clams and mussels on the surface. Put the lid on and cook for 6-8 minutes until the mussel and clam shells have opened, the prawns are cooked and the fish is flaky. Toast the bread, rub lightly with the halved garlic clove and drizzle with olive oil. Serve the stew scatted with chopped coriander leaves, and the toasts for dunking.",
+      "timer_seconds": 480,
+      "ingredients_used": [
+        "23cba137-15b8-55e5-9398-42e2ec28b62c",
+        "22020640-aea8-5870-86d4-b433da63133d",
+        "f2cafcd7-e0a6-55b9-a6a1-90b8417ee5fd",
+        "7f844211-ff6b-574f-9693-1acb13dc474a",
+        "8d1b58db-83e5-50a4-b614-783db39292a8",
+        "72d8eb5e-7cdd-5b02-87ca-4bf9522018f0"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.olivemagazine.com/recipes/one-pots/portuguese-fish-stew-caldeirada-de-peixe/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

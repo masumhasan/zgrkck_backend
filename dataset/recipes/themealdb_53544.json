@@ -1,0 +1,236 @@
+{
+  "id": "2e4d2cfa-3f1f-5195-91df-44cc6574f384",
+  "version": "1.0.0",
+  "title": "CAFE LA LLAVE ESPRESSO ICE CREAM",
+  "slug": "cafe-la-llave-espresso-ice-cream",
+  "summary": "A creamy Cuban-style dessert made with espresso, heavy cream, and egg yolks.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:43:39Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53544"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/9kecho1784575366.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/9kecho1784575366.jpg/small",
+      "alt_text": "Photo of CAFE LA LLAVE ESPRESSO ICE CREAM",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "bd3047f5-b3e1-53bc-b58b-9c7b54443734",
+        "slug": "cuban",
+        "name": "Cuban"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 5,
+    "total_time_minutes": 15
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "servings",
+    "serving_size_description": "1/2 cup ice cream"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "eggs"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "8b6a2106-9c1d-52ac-9d51-baf4028dc7d2",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "501da2e6-ad42-5109-a37f-a461db6ed0f4",
+          "ingredient_id": "cb8d5d02-f2f1-547b-b7e6-054d6629adc1",
+          "name": "heavy cream",
+          "display_text": "2 cups Heavy Cream",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "47f0c323-caec-5bf6-9f4d-9904955f9bf7",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "1 cup Milk",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "154c95fd-7054-5878-ace2-12c2e2277fd9",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/4 tsp Salt",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "b07cdf84-3323-5932-9fe4-cacf02a0b6c8",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1/2 cup Sugar",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "95784a5b-6ac3-5b34-a80e-611c18e4b37c",
+          "ingredient_id": "051a3118-01a4-5366-a922-19ecf618e2f9",
+          "name": "egg yolks",
+          "display_text": "5 Egg Yolks",
+          "quantity": 5.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "3e855ddd-9478-51c5-9a55-f7a183b29e11",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1/2 tsp Vanilla Extract",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "fa8ce0a2-ba1a-5ac1-b70d-595849ce8582",
+          "ingredient_id": "e0a7e9e1-3054-5ac0-b819-baff18418bc2",
+          "name": "cafe la llave",
+          "display_text": "3 shots Cafe La Llave",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "shots",
+          "is_optional": false,
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "A note about the espresso: I like using the fine ground espresso brick and making the coffee in a regular moka pot, but you can certainly also use the Nespresso style capsules if you have that type of espresso maker. FULL DISCLOSURE: I personally prefer the decaf espresso, which the Cafe La Llave brand makes to perfection. The ice cream flavor holds either way.",
+      "ingredients_used": [
+        "fa8ce0a2-ba1a-5ac1-b70d-595849ce8582"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a medium saucepan, heat the cream, milk, sugar and salt over medium heat; whisking to dissolve the sugar (this should take about 4 to 5 minutes).",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "47f0c323-caec-5bf6-9f4d-9904955f9bf7",
+        "154c95fd-7054-5878-ace2-12c2e2277fd9",
+        "b07cdf84-3323-5932-9fe4-cacf02a0b6c8"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "In a separate bowl, whisk the egg yolks.",
+      "ingredients_used": [
+        "95784a5b-6ac3-5b34-a80e-611c18e4b37c"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Gradually pour about 1 cup of the hot milk mixture into the egg yolk bowl, while continually whisking. Do this carefully to temper the eggs. (You’re not cooking them.)",
+      "ingredients_used": [
+        "47f0c323-caec-5bf6-9f4d-9904955f9bf7"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Add the tempered egg yolk mix back into the pan while whisking until it just comes to a simmer."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Remove the pan from the heat, then add the vanilla extract and espresso.",
+      "ingredients_used": [
+        "3e855ddd-9478-51c5-9a55-f7a183b29e11"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "you can use any ice cream maker. It doesn’t have to be fancy."
+    },
+    {
+      "step_number": 8,
+      "instruction": "Use between 2 and 4 shots of espresso (regular or decaf) depending on how strong you like the coffee flavor in the ice cream. I think about 3 shots is ideal."
+    },
+    {
+      "step_number": 9,
+      "instruction": "This recipe will yield about 1 quart of ice cream."
+    },
+    {
+      "step_number": 10,
+      "instruction": "Please sit back and enjoy your espresso ice cream. Also, stay cool. You’re welcome"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.mybigfatcubanfamily.com/2023/09/cafe-la-llave-espresso-ice-cream/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

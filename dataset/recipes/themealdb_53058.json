@@ -1,0 +1,201 @@
+{
+  "id": "a22290b5-17d5-5a66-98e7-437d5f157508",
+  "version": "1.0.0",
+  "title": "Croatian Bean Stew",
+  "slug": "croatian-bean-stew",
+  "summary": "A hearty Croatian stew made with cannellini beans, chorizo sausage, and tomatoes.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:00:59Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53058"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/tnwy8m1628770384.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/tnwy8m1628770384.jpg/small",
+      "alt_text": "Photo of Croatian Bean Stew",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=mrjnQal3S1A"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b5d05ee7-9bce-5691-809b-0e253d6b7ed2",
+        "slug": "croatian",
+        "name": "Croatian"
+      }
+    ],
+    "tags": [
+      "beans",
+      "soup",
+      "warming"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 45
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of stew"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "51b5c30c-521f-56bf-958a-af678c41a193",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "d60339b7-f6f3-5fd2-ab87-7afacdc0d1b1",
+          "ingredient_id": "b2ff6357-5b66-5b44-8834-220365f1a90d",
+          "name": "cannellini beans",
+          "display_text": "2 cans Cannellini Beans",
+          "quantity": 2.0,
+          "unit": "can",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "65e4442d-02a7-5aff-8671-b9ec206dff32",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "3 tbs Vegetable Oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "adf7d859-743a-54ab-a420-5635aa7a1f53",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomatoes",
+          "display_text": "2 cups Tomatoes",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "3cc9e245-20c4-5f51-a354-11d2f477b6e6",
+          "ingredient_id": "b5be86c1-9338-59cc-924e-96de6771869c",
+          "name": "challots",
+          "display_text": "5 Challots",
+          "quantity": 5.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "69c2c609-b802-54cd-ab16-a8b2da64be04",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b61cabf7-3bf8-542e-86bb-ab52287d9bbb",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Pinch Parsley",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "c80280be-a6a6-5b09-9e46-f3fd34ecaaa7",
+          "ingredient_id": "d4235a95-0bb4-579b-8855-bbb8f4efeb46",
+          "name": "chorizo",
+          "display_text": "1/2 kg chopped Chorizo",
+          "quantity": 0.5,
+          "unit": "kilogram",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 0.5,
+          "metric_unit": "kilogram",
+          "category": "meat"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oil in a pan. Add the chopped vegetables and sauté until tender."
+    },
+    {
+      "step_number": 2,
+      "instruction": "Take a pot, empty the beans together with the vegetables into it, put the sausages inside and cook for further 20 minutes on a low heat. Or, put it in an oven and bake it at a temperature of 180ºC/350ºF for 30 minutes.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "d60339b7-f6f3-5fd2-ab87-7afacdc0d1b1"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "This dish is even better reheated the next day."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.visit-croatia.co.uk/croatian-cuisine/croatian-recipes/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "id": "dcb3fa3e-1f88-515f-ae2d-8a0893af2b4b",
+  "version": "1.0.0",
+  "title": "Laksa King Prawn Noodles",
+  "slug": "laksa-king-prawn-noodles",
+  "summary": "A Malaysian-style coconut milk-based noodle soup featuring king prawns, red curry paste, and rice noodles.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:40:26Z",
+  "updated_at": "2026-10-16T10:22:46Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52821"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/rvypwy1503069308.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/rvypwy1503069308.jpg/small",
+      "alt_text": "Photo of Laksa King Prawn Noodles",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=OcarztU8cYo"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "336a5cbb-5bdd-53e1-aca6-9d291720d97b",
+        "slug": "malaysian",
+        "name": "Malaysian"
+      }
+    ],
+    "tags": [
+      "seafood",
+      "shellfish"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 20
+  },
+  "yield": {
+    "servings": 1,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of prawn noodles"
+  },
+  "allergens": {
+    "contains": [
+      "fish",
+      "shellfish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "3dde40be-12be-51d8-ab62-5de2cda45cee",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "5ae5660e-0ce0-5f74-999e-f3f0644ab6c9",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 tbsp Olive Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "17e1bbe6-3c21-5ffb-b218-ee10a5e00899",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "1 finely sliced Red Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "finely sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "8a4d9454-1fa5-55d9-824a-76ced1bd9035",
+          "ingredient_id": "beb6cb16-691a-5cca-80dd-69a4020c3fa6",
+          "name": "thai red curry paste",
+          "display_text": "2 ½ tbsp Thai red curry paste",
+          "quantity": 2.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 37.5,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "a480203a-f96f-5136-b3f2-671f8adbc674",
+          "ingredient_id": "7987b479-6a71-5b57-9ff9-daff64e561ca",
+          "name": "vegetable stock cube",
+          "display_text": "1 vegetable stock cube",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "97aba81c-be6f-56b8-a750-0c1da2a83533",
+          "ingredient_id": "0435e55e-84f6-566c-ac81-37617bbab91c",
+          "name": "coconut milk",
+          "display_text": "400ml can coconut milk",
+          "quantity": 400.0,
+          "unit": "milliliter",
+          "preparation": "can",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "4df33644-075c-520f-86b7-0809a235c00a",
+          "ingredient_id": "de927c20-fdfa-5b98-8ee9-7840fa951a2f",
+          "name": "fish sauce",
+          "display_text": "2 tsp fish sauce",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "0363cb13-5b96-5c9e-95db-ec33a70677c6",
+          "ingredient_id": "26534aa9-d664-5446-96c6-a499ce56a3fe",
+          "name": "rice noodles",
+          "display_text": "100g rice noodles",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "778a55f7-e649-5adb-bab0-4038a34ff0d9",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "2 juice of 1, the other halved lime",
+          "quantity": 0,
+          "unit": "as_needed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3847f2ba-ebd5-5f05-b5b7-18490909c6e7",
+          "ingredient_id": "ebfe6676-831a-5bcc-841b-779f40bbb238",
+          "name": "king prawns",
+          "display_text": "150g king prawns",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "6b1622dd-aab5-5277-98a6-6e7afbf29924",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "½ small pack coriander",
+          "quantity": 0.5,
+          "unit": "packet",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oil in a medium saucepan and add the chilli. Cook for 1 min, then add the curry paste, stir and cook for 1 min more. Dissolve the stock cube in a large jug in 700ml boiling water, then pour into the pan and stir to combine. Tip in the coconut milk and bring to the boil.",
+      "ingredients_used": [
+        "17e1bbe6-3c21-5ffb-b218-ee10a5e00899",
+        "a480203a-f96f-5136-b3f2-671f8adbc674",
+        "97aba81c-be6f-56b8-a750-0c1da2a83533"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the fish sauce and a little seasoning. Toss in the noodles and cook for a further 3-4 mins until softening. Squeeze in the lime juice, add the prawns and cook through until warm, about 2-3 mins. Scatter over some of the coriander.",
+      "ingredients_used": [
+        "4df33644-075c-520f-86b7-0809a235c00a",
+        "0363cb13-5b96-5c9e-95db-ec33a70677c6",
+        "778a55f7-e649-5adb-bab0-4038a34ff0d9",
+        "3847f2ba-ebd5-5f05-b5b7-18490909c6e7",
+        "6b1622dd-aab5-5277-98a6-6e7afbf29924"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Serve in bowls with the remaining coriander and lime wedges on top for squeezing over.",
+      "ingredients_used": [
+        "778a55f7-e649-5adb-bab0-4038a34ff0d9",
+        "6b1622dd-aab5-5277-98a6-6e7afbf29924"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/prawn-laksa-curry-bowl"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "id": "85a8399d-d901-5793-bc6c-b7c0de4c5772",
+  "version": "1.0.0",
+  "title": "Shawarma chuck roast wrap",
+  "slug": "shawarma-chuck-roast-wrap",
+  "summary": "A slow-cooked beef dish where chuck roast is simmered in a spiced broth of cumin, turmeric, and cinnamon before being shredded and served in pita wraps.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:14:33Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53217"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/swo87v1763595282.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/swo87v1763595282.jpg/small",
+      "alt_text": "Photo of Shawarma chuck roast wrap",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/shorts/YLhyRjyLkcE"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "dadedf2a-1088-576c-834c-66ae61df3c2a",
+        "slug": "saudi-arabian",
+        "name": "Saudi Arabian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 600,
+    "total_time_minutes": 610
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1 wrap with shredded beef"
+  },
+  "allergens": {
+    "contains": [
+      "gluten"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "bfb7ad1f-6d1d-5dbb-9daf-4e56cc392e35",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "140bf530-1471-574a-bf38-237af1c5561e",
+          "ingredient_id": "36b91640-830e-59a8-a7a4-52ea3fcb1464",
+          "name": "chuck roast",
+          "display_text": "1kg Chuck Roast",
+          "quantity": 1.0,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "kilogram",
+          "category": "meat"
+        },
+        {
+          "id": "9d321a8b-b24d-5b7f-9a0e-94ac10c3a384",
+          "ingredient_id": "39a746ef-3300-5229-b0b2-3e03970ea60c",
+          "name": "beef stock",
+          "display_text": "1 cup Beef Stock",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "b149733a-fd63-56d5-83dd-d7b5194c2e68",
+          "ingredient_id": "4020879e-a0a5-58e2-b093-33c7e85c8a08",
+          "name": "lemon juice",
+          "display_text": "3  tablespoons Lemon Juice",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "b0b71c05-882f-5d08-9940-3fbee7daa72d",
+          "ingredient_id": "efa5be6a-3bc3-55ca-812f-22dd145ba53d",
+          "name": "ground cumin",
+          "display_text": "1 tablespoon Ground Cumin",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "ab311be5-b695-5819-aedd-171e0756d461",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "2 tsp Paprika",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "323fd762-900a-5dd7-b273-0fff8437a795",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "5bf26941-f808-5525-b163-ed6838123d77",
+          "ingredient_id": "9c72d0cf-8d9c-53f6-b4c6-5631779ba66b",
+          "name": "ground ginger",
+          "display_text": "1 tsp Ground Ginger",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "f400bc78-e0e1-5612-ad41-9861bfa6135c",
+          "ingredient_id": "ab4d5e50-1105-53e2-be29-49b042b3d7fb",
+          "name": "turmeric",
+          "display_text": "1 tsp Turmeric",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d7d21796-2dd0-597f-9652-f442fd00d187",
+          "ingredient_id": "97dd86b9-4ad7-5a3a-bc6c-86485409c325",
+          "name": "cayenne pepper",
+          "display_text": "1/2 teaspoon Cayenne Pepper",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "204dea1e-d0fe-57b0-8c91-80836732ff39",
+          "ingredient_id": "7af3c207-3c37-5965-a096-bf34ac1db1f4",
+          "name": "ground cinnamon",
+          "display_text": "1/2 teaspoon Ground Cinnamon",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d3cb7541-3efe-5897-abc9-f2a3c29d2b13",
+          "ingredient_id": "81534384-b0e9-52fb-8b88-01288b93f32a",
+          "name": "ground coriander",
+          "display_text": "1/2 teaspoon Ground Coriander",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "c8c5afbc-85bc-5ecc-b44c-b8c9fd164fe7",
+          "ingredient_id": "d64811b1-6728-5fc6-a570-f549062b0737",
+          "name": "ground clove",
+          "display_text": "1/4 tsp Ground Clove",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "In a dutch oven or slow cooker, add all the spices, beef broth and lemon juice. Stir to combine..",
+      "ingredients_used": [
+        "b149733a-fd63-56d5-83dd-d7b5194c2e68"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the beef and turn to coat, spoon some sauce over the top."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Cover and cook on low for 8-10 hours.",
+      "timer_seconds": 36000
+    },
+    {
+      "step_number": 4,
+      "instruction": "After cooking, remove beef and use two forks to shred. Discard any excess fat."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Skim fat off of the top of the liquid remaining."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Mix shredded beef into sauce. Keep warm until you are ready to serve."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Build wrap by spreading garlic sauce on the pita. Top with beef and add garnishes to your liking."
+    },
+    {
+      "step_number": 8,
+      "instruction": "Fold it burrito style."
+    },
+    {
+      "step_number": 9,
+      "instruction": "Heat a grill pan and grill the wrap."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://cookpad.com/eng/recipes/24415920?ref=search&search_term=saudi+arabia"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

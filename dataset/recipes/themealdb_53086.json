@@ -1,0 +1,177 @@
+{
+  "id": "c9e90850-e15c-52a3-9b35-d0d437416d4e",
+  "version": "1.0.0",
+  "title": "Migas",
+  "slug": "migas",
+  "summary": "A traditional Spanish dish made from crumbled bread sautéed in olive oil with garlic and pork.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:03:14Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53086"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/xd9aj21740432378.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/xd9aj21740432378.jpg/small",
+      "alt_text": "Photo of Migas",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=GSvFVBpqMKI"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "brunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 40,
+    "marinating_time_minutes": 30,
+    "total_time_minutes": 75
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of migas"
+  },
+  "allergens": {
+    "contains": [
+      "gluten"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "306b927a-19d3-58d1-afae-830b4257f396",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "676fb184-3b84-5dc0-b102-1be7639a6963",
+          "ingredient_id": "95128a6e-6409-5797-b33b-a94a27c5951f",
+          "name": "bread",
+          "display_text": "1 large Bread",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "087e159e-35c7-5441-87c1-13a75e0d1571",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 1/2 L Olive Oil",
+          "quantity": 1.5,
+          "unit": "liter",
+          "is_optional": false,
+          "metric_quantity": 1.5,
+          "metric_unit": "liter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "aa3f50c3-8e4b-544c-b4a8-bc40ee9f5fdc",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "Half Garlic",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "half",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "bbae074a-6238-5b5a-94e8-7ce8ab301955",
+          "ingredient_id": "f16b4344-55cf-5ee7-a3a2-d8f68550bd18",
+          "name": "pork",
+          "display_text": "1 Handfull Pork",
+          "quantity": 1.0,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "meat"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Crumble the bread into small pieces. Sprinkle with cold water, cover with a damp cloth and leave for 30 minutes.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "676fb184-3b84-5dc0-b102-1be7639a6963"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat 2 tsp of olive oil in a deep pan. Add the garlic cloves separated, skins on; just make a small cut with a knife to open them and keep frying for 5 minutes. Set the garlic aside.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "087e159e-35c7-5441-87c1-13a75e0d1571",
+        "aa3f50c3-8e4b-544c-b4a8-bc40ee9f5fdc"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "In the same oil, where we fried everything, simmer the bread, stirring constantly for 15 minutes and add a grinding of black pepper.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "676fb184-3b84-5dc0-b102-1be7639a6963"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add the garlic, continue stirring for about 20 minutes. It will be ready when the bread is soft and golden.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "676fb184-3b84-5dc0-b102-1be7639a6963",
+        "aa3f50c3-8e4b-544c-b4a8-bc40ee9f5fdc"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.ibericafood.com/Recipes/post/migas-with-pork"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

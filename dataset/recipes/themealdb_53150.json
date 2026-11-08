@@ -1,0 +1,149 @@
+{
+  "id": "25731f5a-60e6-5b27-85c6-2f316929c81e",
+  "version": "1.0.0",
+  "title": "Padron peppers",
+  "slug": "padron-peppers",
+  "summary": "Padron peppers are small green peppers from Spain that are pan-fried or air-fried until blistered and served with sea salt.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:08:47Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53150"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/0ljvc51763248075.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/0ljvc51763248075.jpg/small",
+      "alt_text": "Photo of Padron peppers",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=wD6NE3cMKBY"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "dinner"
+    ],
+    "courses": [
+      "appetizer",
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "thanksgiving",
+      "christmas"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 0,
+    "cook_time_minutes": 8,
+    "total_time_minutes": 8
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "portions",
+    "serving_size_description": "a bowl of blistered peppers"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "2ae64e0a-628b-594b-8cee-82a8bbe3799d",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "e807af75-f9ec-5a9b-8dba-fefb549e21cd",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 tablespoon Olive Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "6648756d-77d0-5375-8b16-0a98e35425c5",
+          "ingredient_id": "54d0da84-c437-52c2-a233-f50e11c0d3dc",
+          "name": "padron peppers",
+          "display_text": "500g Padron peppers",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the olive oil in a large frying pan over a high heat, or if using an air-fryer, heat to 205C for 3 mins. Fry the peppers, stirring frequently, for 5 mins until blistered and wilted. The peppers should be soft and slightly charred.",
+      "temperature": {
+        "value": 205,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "e807af75-f9ec-5a9b-8dba-fefb549e21cd",
+        "6648756d-77d0-5375-8b16-0a98e35425c5"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Transfer the peppers to a serving plate and season with some sea salt. Serve with dips or as part of a tapas spread, if you like.",
+      "ingredients_used": [
+        "6648756d-77d0-5375-8b16-0a98e35425c5"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/padron-peppers"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

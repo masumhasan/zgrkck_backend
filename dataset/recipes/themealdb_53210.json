@@ -1,0 +1,261 @@
+{
+  "id": "c39af091-346f-52e9-9ccb-f91122dc3473",
+  "version": "1.0.0",
+  "title": "Thai pumpkin soup",
+  "slug": "thai-pumpkin-soup",
+  "summary": "A creamy Thai-inspired soup made with roasted pumpkin, coconut milk, and red curry paste.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:14:01Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53210"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/1brbso1763585098.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/1brbso1763585098.jpg/small",
+      "alt_text": "Photo of Thai pumpkin soup",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=X3BxTRAhgTc"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "724b7c6a-f254-57d4-9729-335a2b2d93b1",
+        "slug": "thai",
+        "name": "Thai"
+      }
+    ],
+    "tags": [
+      "haloween",
+      "soup"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "starter",
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "holiday"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 46,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 66
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of soup"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "fe5bf8f8-1797-5c70-a42f-811c01b1b19c",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "8702f543-2dbc-5b80-b9e0-b4480325fd82",
+          "ingredient_id": "e046e936-ea1f-5501-bc83-8d8341cc097c",
+          "name": "pumpkin",
+          "display_text": "1.5kg Pumpkin",
+          "quantity": 1.5,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.5,
+          "metric_unit": "kilogram",
+          "category": "produce"
+        },
+        {
+          "id": "c20a40d3-cb46-549b-b629-07d19cfbad1f",
+          "ingredient_id": "aa561384-0d26-5008-a25e-3ba9db4b2a3f",
+          "name": "sunflower oil",
+          "display_text": "4 tsp Sunflower Oil",
+          "quantity": 4.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 20.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "b53f808e-262d-50b7-8db2-b5b6ee4337cb",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 sliced Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b807b50d-7a65-5060-8536-01f4b69f60ee",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "1 tbsp grated Ginger",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "preparation": "grated",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "63bceb38-f82b-565d-a4bd-9b1bd63cc7fc",
+          "ingredient_id": "784549c9-8cb9-52e6-bee9-208af4ebb3b1",
+          "name": "lemongrass",
+          "display_text": "1 Lemongrass",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "dc7d7a41-9d6d-5f5e-88e0-b19129de9e10",
+          "ingredient_id": "beb6cb16-691a-5cca-80dd-69a4020c3fa6",
+          "name": "thai red curry paste",
+          "display_text": "4 tablespoons Thai Red Curry Paste",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "4f2a4bdb-d332-51e2-9faa-675681eb390b",
+          "ingredient_id": "0435e55e-84f6-566c-ac81-37617bbab91c",
+          "name": "coconut milk",
+          "display_text": "400ml Coconut Milk",
+          "quantity": 400.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "1ee4ec21-5ba4-5e69-a686-383bc463a31e",
+          "ingredient_id": "2d490c0b-0744-5be5-a104-641c87b13636",
+          "name": "vegetable stock",
+          "display_text": "800ml Vegetable Stock",
+          "quantity": 800.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 800.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "a6e71910-a9b8-5976-a739-b079d2cca0bb",
+          "ingredient_id": "36c0f276-68d5-5515-9abe-1ef57bc6eed7",
+          "name": "lime juice",
+          "display_text": "To taste Lime juice",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "68a38430-42e7-57c5-a41d-9592d9825b49",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "To taste Sugar",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "sweeteners"
+        },
+        {
+          "id": "f1a1b29e-45f4-59ad-8014-3aa83d54b829",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "To serve Red Chilli",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 200C/180C fan/gas 6. Toss the pumpkin or squash in a roasting tin with half the oil and seasoning, then roast for 30 mins until golden and tender.",
+      "timer_seconds": 1800,
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "8702f543-2dbc-5b80-b9e0-b4480325fd82"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Meanwhile, put the remaining oil in a pan with the onion, ginger and lemongrass. Gently cook for 8-10 mins until softened. Stir in the curry paste for 1 min, followed by the roasted pumpkin, all but 3 tbsp of the coconut milk and the stock. Bring to a simmer, cook for 5 mins, then fish out the lemongrass. Cool for a few mins, then whizz until smooth with a hand blender, or in a large blender in batches. Return to the pan to heat through, seasoning with salt, pepper, lime juice and sugar, if it needs it. Serve drizzled with the remaining coconut milk and scattered with chilli, if you like.",
+      "ingredients_used": [
+        "8702f543-2dbc-5b80-b9e0-b4480325fd82",
+        "b53f808e-262d-50b7-8db2-b5b6ee4337cb",
+        "b807b50d-7a65-5060-8536-01f4b69f60ee",
+        "63bceb38-f82b-565d-a4bd-9b1bd63cc7fc",
+        "4f2a4bdb-d332-51e2-9faa-675681eb390b",
+        "a6e71910-a9b8-5976-a739-b079d2cca0bb",
+        "68a38430-42e7-57c5-a41d-9592d9825b49",
+        "f1a1b29e-45f4-59ad-8014-3aa83d54b829"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/thai-pumpkin-soup"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

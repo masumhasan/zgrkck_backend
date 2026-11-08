@@ -1,0 +1,439 @@
+{
+  "id": "1f8280a1-bfa2-5e23-bb33-c21c02c8b4bf",
+  "version": "1.0.0",
+  "title": "Smoky Lentil Chili with Squash",
+  "slug": "smoky-lentil-chili-with-squash",
+  "summary": "A hearty vegetarian chili featuring roasted squash and tender brown lentils, seasoned with warm spices and cocoa for a smoky depth.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:37:40Z",
+  "updated_at": "2026-10-16T10:22:43Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52784"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/uwxqwy1483389553.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/uwxqwy1483389553.jpg/small",
+      "alt_text": "Photo of Smoky Lentil Chili with Squash",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=pKmqawK2Tqs"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "pulse"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 70,
+    "total_time_minutes": 90
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of chili with cashew sour cream"
+  },
+  "allergens": {
+    "contains": [
+      "tree_nuts",
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "f5eab80b-f338-5c2d-b9fd-f605fff89180",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "63da0f24-8e61-53b5-845b-475e78cb2b70",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 tbls Olive Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "73b68449-d183-517a-890e-ba553354fe6d",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "afb6eb1c-f425-5a9a-8c7b-1e9d3afeacd7",
+          "ingredient_id": "ef5d99bc-384e-522a-8c0f-1c8501f6612c",
+          "name": "leek",
+          "display_text": "1 chopped Leek",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "74932614-680b-5835-87ea-453bb4305a0e",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 cloves Garlic",
+          "quantity": 3.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2c5c3ec4-d717-503d-842b-c85700633c83",
+          "ingredient_id": "be79b3bd-bc90-5d15-aab2-4f95774b8de1",
+          "name": "cumin",
+          "display_text": "4 tsp ground Cumin",
+          "quantity": 4.0,
+          "unit": "teaspoon",
+          "preparation": "ground",
+          "is_optional": false,
+          "metric_quantity": 20.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "db6ccf1a-2634-58c5-9858-6aa742a151dd",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "2 tsp ground Coriander",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "preparation": "ground",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "c4c7f068-74ac-53b2-af10-eccb3b96b9ed",
+          "ingredient_id": "d8dee4f9-ce24-510b-a43d-b7968606921e",
+          "name": "smoked paprika",
+          "display_text": "1 tsp Smoked Paprika",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "6871c8d7-df74-5807-b0d5-e5cb6b6dc48e",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "1/2 tsp Cinnamon",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e3058637-20b8-5670-a8af-3450aee25d24",
+          "ingredient_id": "82355d68-cedc-5a32-8a70-51eb80680771",
+          "name": "chili powder",
+          "display_text": "1 tsp Chili Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d07ddf95-620f-59fd-a581-a871e8e9c46c",
+          "ingredient_id": "2193339a-3b86-589b-be11-3a28fcf5a95e",
+          "name": "cocoa",
+          "display_text": "1 tsp Cocoa",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "9d7cfd3d-cc89-51f9-bdc5-6dbc1f42e172",
+          "ingredient_id": "23e1101c-9b20-575b-81cd-037dfd7bf307",
+          "name": "dried oregano",
+          "display_text": "1/2 tsp Dried Oregano",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "977f78fd-e986-5056-9fd6-4322680475d3",
+          "ingredient_id": "e3ca4b2a-435a-5f06-a406-9184cd1d1f47",
+          "name": "diced tomatoes",
+          "display_text": "1 can Diced Tomatoes",
+          "quantity": 1.0,
+          "unit": "can",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "dce3f07b-8de6-5421-bf65-055b30f098bf",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "3 cups Water",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "ebb42456-5b32-57df-9b1e-ce937e96ded1",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "3 chopped Carrots",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f86c27c1-8176-52fa-997d-bef9b4fa79ec",
+          "ingredient_id": "2afea6b9-5e0a-5f9e-b2f3-b4746a144116",
+          "name": "brown lentils",
+          "display_text": "1 1/2 cups Brown Lentils",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "d0c2f618-f106-5455-b359-d92714f94b7c",
+          "ingredient_id": "9ffd51ab-918f-5fa2-838e-51c491b97dd2",
+          "name": "sea salt",
+          "display_text": "1 tsp Sea Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "2ef58571-4923-55da-ba03-6fbdd5df3a54",
+          "ingredient_id": "79c59e5a-3279-54a0-905b-352cf130c268",
+          "name": "squash",
+          "display_text": "1 Small Squash",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2f31dff1-443f-556b-9c42-75ac7dbd106d",
+          "ingredient_id": "36e72bd3-ce3e-5b84-9040-b7226fbd933e",
+          "name": "cashews",
+          "display_text": "1 Cup Cashews",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "51af30a9-12d9-5508-8df2-bd905a41e22e",
+          "ingredient_id": "211a37f0-70a1-58ab-8de9-d0d3b232bc64",
+          "name": "apple cider vinegar",
+          "display_text": "1 tsp Apple Cider Vinegar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Begin by roasting the squash. Slice it into thin crescents and drizzle with a little oil and sprinkle with sea salt. I added a fresh little sage I had in the fridge, but it’s unnecessary. Roast the squash a 205 C (400 F) for 20-30 minutes, flipping halfway through, until soft and golden. Let cool and chop into cubes.",
+      "timer_seconds": 1800,
+      "temperature": {
+        "value": 205,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "d0c2f618-f106-5455-b359-d92714f94b7c",
+        "2ef58571-4923-55da-ba03-6fbdd5df3a54"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Meanwhile, rinse the lentils and cover them with water. Bring them to the boil then turn down to a simmer and let cook (uncovered) for 20-30 minutes, or until tender. Drain and set aside.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "dce3f07b-8de6-5421-bf65-055b30f098bf",
+        "f86c27c1-8176-52fa-997d-bef9b4fa79ec"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "While the lentils are cooking heat the 1 Tbsp. of oil on low in a medium pot. Add the onions and leeks and sauté for 5 or so minutes, or until they begin to soften. Add the garlic next along with the cumin and coriander, cooking for a few more minutes. Add the remaining spices – paprika, cinnamon, chilli, cocoa, Worcestershire sauce, salt, and oregano. Next add the can of tomatoes, the water or stock, and carrots. Let simmer, covered, for 20 minutes or until the veg is tender and the mixture has thickened up. You’ll need to check on the pot periodically for a stir and a top of of liquid if needed.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "73b68449-d183-517a-890e-ba553354fe6d",
+        "afb6eb1c-f425-5a9a-8c7b-1e9d3afeacd7",
+        "74932614-680b-5835-87ea-453bb4305a0e",
+        "2c5c3ec4-d717-503d-842b-c85700633c83",
+        "db6ccf1a-2634-58c5-9858-6aa742a151dd",
+        "c4c7f068-74ac-53b2-af10-eccb3b96b9ed",
+        "6871c8d7-df74-5807-b0d5-e5cb6b6dc48e",
+        "d07ddf95-620f-59fd-a581-a871e8e9c46c",
+        "9d7cfd3d-cc89-51f9-bdc5-6dbc1f42e172",
+        "977f78fd-e986-5056-9fd6-4322680475d3",
+        "dce3f07b-8de6-5421-bf65-055b30f098bf",
+        "ebb42456-5b32-57df-9b1e-ce937e96ded1",
+        "f86c27c1-8176-52fa-997d-bef9b4fa79ec",
+        "d0c2f618-f106-5455-b359-d92714f94b7c"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add the lentils and chopped roasted squash. Let cook for 10 more minutes to heat through.",
+      "ingredients_used": [
+        "f86c27c1-8176-52fa-997d-bef9b4fa79ec",
+        "2ef58571-4923-55da-ba03-6fbdd5df3a54"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Serve with sliced jalapeno, lime wedges, cilantro, green onions, and cashew sour cream.",
+      "ingredients_used": [
+        "73b68449-d183-517a-890e-ba553354fe6d"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "SIMPLE CASHEW SOUR CREAM"
+    },
+    {
+      "step_number": 7,
+      "instruction": "1 Cup Raw Unsalted Cashews",
+      "ingredients_used": [
+        "2f31dff1-443f-556b-9c42-75ac7dbd106d"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Pinch Sea Salt",
+      "ingredients_used": [
+        "d0c2f618-f106-5455-b359-d92714f94b7c"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "1 tsp. Apple Cider Vinegar",
+      "ingredients_used": [
+        "51af30a9-12d9-5508-8df2-bd905a41e22e"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "Water",
+      "ingredients_used": [
+        "dce3f07b-8de6-5421-bf65-055b30f098bf"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Bring some water to the boil, and use it to soak the cashews for at least four hours. Alternatively, you can use cold water and let the cashews soak overnight, but I’m forgetful/lazy, so often use the boil method which is much faster.",
+      "ingredients_used": [
+        "dce3f07b-8de6-5421-bf65-055b30f098bf",
+        "2f31dff1-443f-556b-9c42-75ac7dbd106d"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "After the cashews have soaked, drain them and add to a high speed blender. Begin to puree, slowly adding about 1/2 cup fresh water, until a creamy consistency is reached. You may need to add less or more water to reach the desired consistency.",
+      "ingredients_used": [
+        "dce3f07b-8de6-5421-bf65-055b30f098bf",
+        "2f31dff1-443f-556b-9c42-75ac7dbd106d"
+      ]
+    },
+    {
+      "step_number": 13,
+      "instruction": "Add a pinch of sea salt and vinegar (or lemon juice).",
+      "ingredients_used": [
+        "d0c2f618-f106-5455-b359-d92714f94b7c"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://www.wholeheartedeats.com/2016/11/smoky-lentil-chili-squash/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

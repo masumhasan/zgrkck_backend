@@ -1,0 +1,166 @@
+{
+  "id": "bc4cf51e-6d0d-5daa-8624-cb8cf6acf112",
+  "version": "1.0.0",
+  "title": "Vegetarian Chilli",
+  "slug": "vegetarian-chilli",
+  "summary": "A hearty vegetarian chili made with roasted vegetables, kidney beans, and chopped tomatoes, served alongside mixed grains.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:44:30Z",
+  "updated_at": "2026-10-16T10:22:49Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52867"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/wqurxy1511453156.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/wqurxy1511453156.jpg/small",
+      "alt_text": "Photo of Vegetarian Chilli",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=D0bFRVH_EqU"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "chilli"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 0,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of chili with grains"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "1c5730a9-3029-53bb-8da6-dcc536cf3ed3",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "2ba416c6-4b02-5646-a012-4cc849904eb8",
+          "ingredient_id": "2540f39b-536e-5180-8e09-83a24b8b23a5",
+          "name": "roasted vegetables",
+          "display_text": "400g Roasted Vegetables",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "1e61cccb-bbf4-5182-8b0d-1f73c02123e8",
+          "ingredient_id": "ba890946-fbb1-5386-9394-aa912a5bb5a0",
+          "name": "kidney beans",
+          "display_text": "1 can Kidney Beans",
+          "quantity": 1.0,
+          "unit": "can",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "51628afc-b344-52ff-8706-2ccbada97c2f",
+          "ingredient_id": "f55fd16d-cf7d-508e-a734-bd6e6a65e05a",
+          "name": "chopped tomatoes",
+          "display_text": "1 can Chopped Tomatoes",
+          "quantity": 1.0,
+          "unit": "can",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "fdda55f8-bba5-59e0-8d5a-b4219f85de54",
+          "ingredient_id": "cab9ccd7-bb64-5fac-8860-4fd039aedb13",
+          "name": "mixed grain",
+          "display_text": "1 Packet Mixed Grain",
+          "quantity": 1.0,
+          "unit": "packet",
+          "is_optional": false,
+          "category": "grains_pasta"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 200C/180C fan/ gas 6. Cook the vegetables in a casserole dish for 15 mins.",
+      "timer_seconds": 900,
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "2ba416c6-4b02-5646-a012-4cc849904eb8"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Tip in the beans and tomatoes, season, and cook for another 10-15 mins until piping hot. Heat the pouch in the microwave on High for 1 min and serve with the chilli.",
+      "ingredients_used": [
+        "1e61cccb-bbf4-5182-8b0d-1f73c02123e8",
+        "51628afc-b344-52ff-8706-2ccbada97c2f"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/veggie-chilli"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

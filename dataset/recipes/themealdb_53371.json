@@ -1,0 +1,205 @@
+{
+  "id": "7527ae77-418a-5add-8c43-dd142fa1292f",
+  "version": "1.0.0",
+  "title": "Sichuan Style Stir-Fried Chinese Long Beans",
+  "slug": "sichuan-style-stir-fried-chinese-long-beans",
+  "summary": "A spicy and aromatic Chinese side dish featuring long beans stir-fried with dried chilies and Sichuan peppercorns.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:28:31Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53371"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/i0610h1765659464.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/i0610h1765659464.jpg/small",
+      "alt_text": "Photo of Sichuan Style Stir-Fried Chinese Long Beans",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=7mzLphZJ3xc"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6813a95e-62cf-55e7-9d4b-6f19ee1d7391",
+        "slug": "chinese",
+        "name": "Chinese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 20
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 portion of stir-fried beans"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "peanuts",
+      "soy",
+      "sesame"
+    ],
+    "free_from": [
+      "dairy",
+      "tree_nuts",
+      "eggs",
+      "fish",
+      "shellfish",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "72b54bdd-7fbd-5d05-a648-5c6a0b3df92f",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "185f3a99-1383-5246-ad1e-fbec65b63fad",
+          "ingredient_id": "7d793ea9-c9e8-59c8-a01c-30f1e33c868c",
+          "name": "chinese long beans",
+          "display_text": "1/2 lb Chinese Long Beans",
+          "quantity": 0.5,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 226.8,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "c9047c94-19e0-59a3-a1fd-4362c9566867",
+          "ingredient_id": "fcf01683-f48b-5ffc-bf64-b06f7405707c",
+          "name": "peanut oil",
+          "display_text": "1 tablespoon Peanut Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "765b6227-81f6-5a7d-847c-56345367b0f3",
+          "ingredient_id": "26faf07a-f1d8-5fa9-affe-eb366835fd63",
+          "name": "dried chillies",
+          "display_text": "6 Dried Chillies",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "051bd063-1b75-59e7-ac66-efeaf93cfbec",
+          "ingredient_id": "6c586470-2f1d-542b-90db-99f3ac836a31",
+          "name": "sichuan pepper",
+          "display_text": "1 tsp Sichuan Pepper",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "a2e49efb-499d-5891-aec1-f6f2b347970c",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/4 tsp Salt",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "af9e731b-98f1-5417-aaf8-34fc291feaed",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1/2 tsp Sugar",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "30a9ada0-a6a0-531a-8b9f-9fcf65021627",
+          "ingredient_id": "653731ca-07ee-57df-aa38-0f8f2b71ccc6",
+          "name": "sesame seed oil",
+          "display_text": "1 tablespoon Sesame Seed Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "7a59c9a1-3462-5a79-8c1c-58202b5ae2aa",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "Splash Soy Sauce",
+          "quantity": 1,
+          "unit": "splash",
+          "is_optional": false,
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Chinese long beans can be found in both green and purple varieties. Both have similar flavors and textures, and either kind can be used for this recipe.",
+      "ingredients_used": [
+        "185f3a99-1383-5246-ad1e-fbec65b63fad"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "If you don't have a wok, use a sturdy, large sauté pan that has at least a two-inch lip."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.simplyrecipes.com/recipes/sichuan_style_stir_fried_chinese_long_beans/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "id": "2deb682e-53ae-5148-a5ee-cc49ea4ad772",
+  "version": "1.0.0",
+  "title": "Satee",
+  "slug": "satee",
+  "summary": "Aruban-style satee consists of meat skewers marinated in a blend of onion, garlic, lemon juice, and soy sauce, then fried or barbecued.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:34:30Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53443"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/dqxtlh1780153831.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/dqxtlh1780153831.jpg/small",
+      "alt_text": "Photo of Satee",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "0582bdef-9340-5f24-b48f-1bf7f5f392ac",
+        "slug": "aruban",
+        "name": "Aruban"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 15,
+    "marinating_time_minutes": 180,
+    "total_time_minutes": 215
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "servings",
+    "serving_size_description": "several skewers"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "29ed504e-13e5-5f17-99af-6391f5af7123",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "288590fc-0254-51da-84c2-9aef0e03fa55",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e78c49fb-18b3-564e-b1de-5234f521955a",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7afd4663-eea4-522a-9f61-ee6db7388848",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemons",
+          "display_text": "Juice of 2 Lemons",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "cc4b2320-738a-5f53-89b9-e946cdea5266",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "2 tablespoons Sugar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "40bba988-11dd-515f-947b-3842bb1af450",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "1 cup Soy Sauce",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "d4c31739-492f-5045-a7b3-b660ce68ef63",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "22a39eb7-9af9-50c5-a7d0-9ec54f90c133",
+          "ingredient_id": "81534384-b0e9-52fb-8b88-01288b93f32a",
+          "name": "ground coriander",
+          "display_text": "1 tsp Ground Coriander",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "5c63a314-a8df-57cb-8c9a-c591d2558fce",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "1 cup Oil",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "3d400228-a09e-516a-8f30-4421986dc059",
+          "ingredient_id": "c2102b4e-a5b4-5bab-b7d5-bdfa5244ae7b",
+          "name": "beef",
+          "display_text": "4-5 pound Beef",
+          "quantity": 4.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 1814.4,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "e2097bbc-2736-553f-b000-89619fe2062f",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "1 cup Oil",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "f193aa10-07b4-55cc-bb1d-874b0d8f66be",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "2 tablespoons Soy Sauce",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "To make the marinade for the satee put in the container of an electric blender:"
+    },
+    {
+      "step_number": 2,
+      "instruction": "1 large onion, coarsely chopped 2 cloves of garlic",
+      "ingredients_used": [
+        "288590fc-0254-51da-84c2-9aef0e03fa55",
+        "e78c49fb-18b3-564e-b1de-5234f521955a"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Juice of 2 lemons",
+      "ingredients_used": [
+        "7afd4663-eea4-522a-9f61-ee6db7388848"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "2Tbs. of sugar 1 cup of soy sauce",
+      "ingredients_used": [
+        "cc4b2320-738a-5f53-89b9-e946cdea5266",
+        "40bba988-11dd-515f-947b-3842bb1af450",
+        "f193aa10-07b4-55cc-bb1d-874b0d8f66be"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "1 tsp. salt 1 tsp. ground coriander for beef (or chicken) or 1 tsp. ground ginger for pork",
+      "ingredients_used": [
+        "d4c31739-492f-5045-a7b3-b660ce68ef63",
+        "22a39eb7-9af9-50c5-a7d0-9ec54f90c133",
+        "3d400228-a09e-516a-8f30-4421986dc059"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "1 cup of oil",
+      "ingredients_used": [
+        "5c63a314-a8df-57cb-8c9a-c591d2558fce",
+        "e2097bbc-2736-553f-b000-89619fe2062f"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Blend thoroughly and pour over:"
+    },
+    {
+      "step_number": 8,
+      "instruction": "5 lbs. of beef or pork tenderloin, cubed",
+      "ingredients_used": [
+        "3d400228-a09e-516a-8f30-4421986dc059"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "DO NOT marinate overnight, but only for a few hours."
+    },
+    {
+      "step_number": 10,
+      "instruction": "Place the meat on: 36 skewers"
+    },
+    {
+      "step_number": 11,
+      "instruction": "Blend well:"
+    },
+    {
+      "step_number": 12,
+      "instruction": "1 cup of oil",
+      "ingredients_used": [
+        "5c63a314-a8df-57cb-8c9a-c591d2558fce",
+        "e2097bbc-2736-553f-b000-89619fe2062f"
+      ]
+    },
+    {
+      "step_number": 13,
+      "instruction": "2 Tbs. Soy sauce",
+      "ingredients_used": [
+        "40bba988-11dd-515f-947b-3842bb1af450",
+        "f193aa10-07b4-55cc-bb1d-874b0d8f66be"
+      ]
+    },
+    {
+      "step_number": 14,
+      "instruction": "Pour into a large shallow dish."
+    },
+    {
+      "step_number": 15,
+      "instruction": "To keep meat from becoming dry, roll each skewer in seasoned oil before frying.",
+      "ingredients_used": [
+        "5c63a314-a8df-57cb-8c9a-c591d2558fce",
+        "e2097bbc-2736-553f-b000-89619fe2062f"
+      ]
+    },
+    {
+      "step_number": 16,
+      "instruction": "Satee is also excellent when barbecued."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.visitaruba.com/aruba-recipes/satee/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

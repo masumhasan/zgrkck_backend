@@ -1,0 +1,308 @@
+{
+  "id": "19fd37d4-1fef-5794-8d47-16c46eb23f5a",
+  "version": "1.0.0",
+  "title": "New York cheesecake",
+  "slug": "new-york-cheesecake",
+  "summary": "A rich, creamy American-style cheesecake featuring a dense cream cheese filling and a tangy sour cream topping.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:43:42Z",
+  "updated_at": "2026-10-16T10:22:49Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52858"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/swttys1511385853.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/swttys1511385853.jpg/small",
+      "alt_text": "Photo of New York cheesecake",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=tspdJ6hxqnc"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b95bb9d4-1e18-5623-a50f-942c7d140e82",
+        "slug": "american",
+        "name": "American"
+      }
+    ],
+    "tags": [
+      "breakfast",
+      "cake",
+      "dairy",
+      "desert",
+      "pudding"
+    ],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "party",
+      "holiday"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 65,
+    "rest_time_minutes": 580,
+    "total_time_minutes": 675
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "pieces"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "f22a665b-eb89-55e3-82ae-0776bab8ffec",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "9c577074-64b9-56ec-a154-d53c5c685716",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "85g Butter",
+          "quantity": 85.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 85.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "78b12146-bb05-5603-af9f-a0358c9249fb",
+          "ingredient_id": "6ca777b1-4e80-5a4b-8ffe-88c954e2cc8a",
+          "name": "sour cream",
+          "display_text": "140g Sour Cream",
+          "quantity": 140.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 140.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "4d6a9daa-e9f6-5719-ac39-7066a55462a3",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1tbsp Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "e679a592-b5f5-5d03-9ef2-b5d3969a7dc5",
+          "ingredient_id": "0523a624-2afe-5b39-a3e8-a4588a68c1c2",
+          "name": "cream cheese",
+          "display_text": "900g Cream Cheese",
+          "quantity": 900.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 900.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "d167ee99-3a0b-593b-9bc9-bac5f9cf39c7",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "250g Caster Sugar",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "2dda453a-f7da-51c6-80e9-08328ab73365",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "3 tbs Plain Flour",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "d377f957-6db3-5f0d-b77d-bb6728177dd4",
+          "ingredient_id": "4020879e-a0a5-58e2-b093-33c7e85c8a08",
+          "name": "lemon juice",
+          "display_text": "1 ½ teaspoons Lemon Juice",
+          "quantity": 1.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "1cedce93-c142-5379-b04e-03850b0d57c2",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "3 Large Eggs",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "8f9d31e8-d86d-5349-8838-5f319ffbb972",
+          "ingredient_id": "6ca777b1-4e80-5a4b-8ffe-88c954e2cc8a",
+          "name": "sour cream",
+          "display_text": "250ml Sour Cream",
+          "quantity": 250.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "ab77e7d1-7696-5a42-a892-53ce5d83ea62",
+          "ingredient_id": "6ca777b1-4e80-5a4b-8ffe-88c954e2cc8a",
+          "name": "sour cream",
+          "display_text": "150ml Sour Cream",
+          "quantity": 150.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "360ca432-ab7a-5b47-af5c-7f6b5cf8ac10",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "1 tbsp Caster Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "bfd75227-0aff-5470-939b-1582b57b6037",
+          "ingredient_id": "4020879e-a0a5-58e2-b093-33c7e85c8a08",
+          "name": "lemon juice",
+          "display_text": "2 tsp Lemon Juice",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Position an oven shelf in the middle of the oven. Preheat the oven to fan 160C/conventional 180C/gas 4. Line the base of a 23cm springform cake tin with parchment paper. For the crust, melt the butter in a medium pan. Stir in the biscuit crumbs and sugar so the mixture is evenly moistened. Press the mixture into the bottom of the pan and bake for 10 minutes. Cool on a wire rack while preparing the filling.",
+      "timer_seconds": 600,
+      "temperature": {
+        "value": 160,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "9c577074-64b9-56ec-a154-d53c5c685716",
+        "4d6a9daa-e9f6-5719-ac39-7066a55462a3"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "For the filling, increase the oven temperature to fan 200C/conventional 240C/gas 9. In a table top mixer fitted with the paddle attachment, beat the soft cheese at medium-low speed until creamy, about 2 minutes. With the mixer on low, gradually add the sugar, then the flour and a pinch of salt, scraping down the sides of the bowl and the paddle twice.",
+      "timer_seconds": 120,
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "4d6a9daa-e9f6-5719-ac39-7066a55462a3"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Swap the paddle attachment for the whisk. Continue by adding the vanilla, lemon zest and juice. Whisk in the eggs and yolk, one at a time, scraping the bowl and whisk at least twice. Stir the 284ml carton of soured cream until smooth, then measure 200ml/7fl oz (just over 3⁄4 of the carton). Continue on low speed as you add the measured soured cream (reserve the rest). Whisk to blend, but don't over-beat. The batter should be smooth, light and somewhat airy.",
+      "ingredients_used": [
+        "1cedce93-c142-5379-b04e-03850b0d57c2"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Brush the sides of the springform tin with melted butter and put on a baking sheet. Pour in the filling - if there are any lumps, sink them using a knife - the top should be as smooth as possible. Bake for 10 minutes. Reduce oven temperature to fan 90C/conventional 110C/gas 1⁄4 and bake for 25 minutes more. If you gently shake the tin, the filling should have a slight wobble. Turn off the oven and open the oven door for a cheesecake that's creamy in the center, or leave it closed if you prefer a drier texture. Let cool in the oven for 2 hours. The cheesecake may get a slight crack on top as it cools.",
+      "temperature": {
+        "value": 90,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "9c577074-64b9-56ec-a154-d53c5c685716"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Combine the reserved soured cream with the 142ml carton, the sugar and lemon juice for the topping. Spread over the cheesecake right to the edges. Cover loosely with foil and refrigerate for at least 8 hours or overnight.",
+      "timer_seconds": 28800,
+      "ingredients_used": [
+        "4d6a9daa-e9f6-5719-ac39-7066a55462a3",
+        "d377f957-6db3-5f0d-b77d-bb6728177dd4",
+        "bfd75227-0aff-5470-939b-1582b57b6037"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Run a round-bladed knife around the sides of the tin to loosen any stuck edges. Unlock the side, slide the cheesecake off the bottom of the tin onto a plate, then slide the parchment paper out from underneath."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/2869/new-york-cheesecake"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

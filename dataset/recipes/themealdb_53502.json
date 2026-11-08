@@ -1,0 +1,290 @@
+{
+  "id": "bcb61ac9-af47-5917-a426-0b6f970deba6",
+  "version": "1.0.0",
+  "title": "Khmer Banh Xeo – Cambodian Savory Pancake",
+  "slug": "khmer-banh-xeo-cambodian-savory-pancake",
+  "summary": "Khmer Banh Xeo is a Cambodian savory pancake made from a turmeric-infused rice flour batter, filled with pork belly, onions, and bean sprouts.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:39:53Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53502"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/xrv78g1782769859.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/xrv78g1782769859.jpg/small",
+      "alt_text": "Photo of Khmer Banh Xeo – Cambodian Savory Pancake",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9366172c-dff3-589e-9436-4be7c7f595b3",
+        "slug": "cambodian",
+        "name": "Cambodian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "rest_time_minutes": 15,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 pancake"
+  },
+  "allergens": {
+    "contains": [
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "3658a714-2726-5261-83af-1807f0f6ca80",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "178ae1f0-0221-53a1-bcd3-886dbf9e084a",
+          "ingredient_id": "bb7538bd-fd5e-5266-99fb-19310715e076",
+          "name": "rice flour",
+          "display_text": "1 cup Rice Flour",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "feace707-dd4a-57d3-bd7e-22e2a7314d2d",
+          "ingredient_id": "4bdb1684-cdb6-5a8f-b220-c622cf2655cc",
+          "name": "cornstarch",
+          "display_text": "1/4 cup Cornstarch",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "265118b3-083a-5680-bd92-c585ccf8166b",
+          "ingredient_id": "0435e55e-84f6-566c-ac81-37617bbab91c",
+          "name": "coconut milk",
+          "display_text": "1 1/4 cup Coconut Milk",
+          "quantity": 1.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "56c0109e-b0c1-542a-92fd-368dbba98192",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "3/4 cup Water",
+          "quantity": 0.75,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 180.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "e2a5266a-fcc6-50e8-bc73-e1f233dd62ab",
+          "ingredient_id": "c2860364-0695-56cf-a2d1-331855605613",
+          "name": "ground turmeric",
+          "display_text": "1/2 tsp Ground Turmeric",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "df2d00a7-e4fc-5b11-abb0-c62158a6c523",
+          "ingredient_id": "af97c10f-86c5-5225-a3ae-82b725a27963",
+          "name": "pork belly slices",
+          "display_text": "1/2 lb Pork belly slices",
+          "quantity": 0.5,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 226.8,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "a0297e55-f733-5ea7-8dd7-aca0ee5d8372",
+          "ingredient_id": "2ac15386-42dc-5765-807a-4b4cf4edfcba",
+          "name": "bean sprouts",
+          "display_text": "1 cup Bean Sprouts",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "d9df1a5d-da6c-53e7-862d-694a4a9beb90",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1/2 Onion",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "745a04ee-a7af-5644-866a-565a8b9aafe2",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "2 tablespoons Vegetable Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "361bc116-bad1-5606-9404-469b270bb991",
+          "ingredient_id": "de927c20-fdfa-5b98-8ee9-7840fa951a2f",
+          "name": "fish sauce",
+          "display_text": "Splash Fish Sauce",
+          "quantity": 1,
+          "unit": "splash",
+          "is_optional": false,
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Whisk together rice flour, cornstarch, coconut milk, water, and turmeric in a bowl until smooth, then let rest for 15 minutes—this hydrates the flour for better texture.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "178ae1f0-0221-53a1-bcd3-886dbf9e084a",
+        "feace707-dd4a-57d3-bd7e-22e2a7314d2d",
+        "265118b3-083a-5680-bd92-c585ccf8166b",
+        "56c0109e-b0c1-542a-92fd-368dbba98192",
+        "e2a5266a-fcc6-50e8-bc73-e1f233dd62ab"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat a 10-inch non-stick skillet over medium-high heat (375°F) and add 1/2 tablespoon of vegetable oil.",
+      "temperature": {
+        "value": 375,
+        "unit": "fahrenheit"
+      },
+      "ingredients_used": [
+        "745a04ee-a7af-5644-866a-565a8b9aafe2"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Sauté pork belly slices for 3–4 minutes until lightly browned, then push to one side of the skillet.",
+      "timer_seconds": 240,
+      "ingredients_used": [
+        "df2d00a7-e4fc-5b11-abb0-c62158a6c523"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add onion slices and cook for 1 minute until slightly softened.",
+      "timer_seconds": 60,
+      "ingredients_used": [
+        "df2d00a7-e4fc-5b11-abb0-c62158a6c523",
+        "d9df1a5d-da6c-53e7-862d-694a4a9beb90"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Stir the batter briefly and pour about 1/2 cup into the skillet, immediately swirling to coat the bottom thinly."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Scatter bean sprouts over half of the pancake and cover the skillet with a lid for 2 minutes to steam the sprouts.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "a0297e55-f733-5ea7-8dd7-aca0ee5d8372"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Uncover and cook for another 3–4 minutes until the edges curl and turn golden brown and crispy.",
+      "timer_seconds": 240
+    },
+    {
+      "step_number": 8,
+      "instruction": "Fold the pancake in half over the bean sprouts using a spatula, then transfer to a plate.",
+      "ingredients_used": [
+        "a0297e55-f733-5ea7-8dd7-aca0ee5d8372"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Repeat steps 2–8 with remaining batter and ingredients, adding oil as needed to prevent sticking."
+    },
+    {
+      "step_number": 10,
+      "instruction": "Serve immediately with fish sauce for dipping.",
+      "ingredients_used": [
+        "361bc116-bad1-5606-9404-469b270bb991"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://recipes-for-life.com/cambodian-recipes/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

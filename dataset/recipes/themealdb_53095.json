@@ -1,0 +1,260 @@
+{
+  "id": "b0d74753-8eee-551d-896c-a15799c805ba",
+  "version": "1.0.0",
+  "title": "Syrian Rice with Meat",
+  "slug": "syrian-rice-with-meat",
+  "summary": "A traditional Syrian dish consisting of ground beef and rice seasoned with warm spices like allspice and cinnamon, topped with toasted pine nuts.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:03:47Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53095"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/zg2b9l1760524940.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/zg2b9l1760524940.jpg/small",
+      "alt_text": "Photo of Syrian Rice with Meat",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "a8c10f43-1ba0-5839-9ba9-834872824efe",
+        "slug": "syrian",
+        "name": "Syrian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 35,
+    "total_time_minutes": 45
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1.5 cups of rice and beef mixture"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "tree_nuts"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "30d8ee7c-d620-52bc-8989-b4997c80fada",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "99a333a9-8266-5ceb-8158-b711e1f495de",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "1/4 cup Butter",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "76859f3a-e8bd-5b8c-8e90-2fa8d08c8301",
+          "ingredient_id": "daceaafa-62e0-5268-ab7d-62934c564c72",
+          "name": "ground beef",
+          "display_text": "2 Pounds Ground Beef",
+          "quantity": 2.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 907.2,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "01b8d2c1-414b-5eab-93ac-5b4f67237efb",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "2 teaspoons Salt",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "e87c90f6-4891-5d08-b3f1-3c6f76bfe5ba",
+          "ingredient_id": "38dedce7-9a7f-57ee-8e46-5162ab60eba8",
+          "name": "allspice",
+          "display_text": "1/2 teaspoon Allspice",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "df8faafa-e92a-566f-88ca-4110ba956f56",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "1/2 teaspoon Cinnamon",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e0a17ebf-5b4b-59ec-97ff-b4a49a317f6f",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1/2 teaspoon Black Pepper",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "aa79d4d6-5586-5cbe-b874-c9dda3ebdc54",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "5 Cups Chicken Stock",
+          "quantity": 5.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 1200.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "a56d86cd-ca22-5847-94ed-94a7856e32c0",
+          "ingredient_id": "025b8433-c498-5b37-813a-ec00ac6c2ae5",
+          "name": "rice",
+          "display_text": "2 cups Rice",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "4963c833-c500-589e-ab65-a599dd685fb0",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "2 tablespoons Butter",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "25bb5879-903b-59bb-8dae-febc84dd7f35",
+          "ingredient_id": "d33b80af-1e5d-5fa5-a5a8-1cc1a925e2ee",
+          "name": "pine nuts",
+          "display_text": "1/2 cup Pine Nuts",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "nuts_seeds"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat 1/4 cup butter in a large saucepan over medium-high heat. Add ground beef and season with salt, allspice, cinnamon, and black pepper. Cook and stir until beef is browned and crumbly, 7 to 10 minutes.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "99a333a9-8266-5ceb-8158-b711e1f495de",
+        "76859f3a-e8bd-5b8c-8e90-2fa8d08c8301",
+        "01b8d2c1-414b-5eab-93ac-5b4f67237efb",
+        "e87c90f6-4891-5d08-b3f1-3c6f76bfe5ba",
+        "df8faafa-e92a-566f-88ca-4110ba956f56",
+        "e0a17ebf-5b4b-59ec-97ff-b4a49a317f6f",
+        "4963c833-c500-589e-ab65-a599dd685fb0"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Stir chicken broth and rice into beef in the saucepan; bring to a boil. Reduce heat to low, cover, and cook until liquid is absorbed, about 20 minutes.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "76859f3a-e8bd-5b8c-8e90-2fa8d08c8301",
+        "a56d86cd-ca22-5847-94ed-94a7856e32c0"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Meanwhile, melt 2 tablespoons butter in a small skillet over medium heat. Cook and stir pine nuts in hot butter until lightly browned, 3 to 5 minutes.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "99a333a9-8266-5ceb-8158-b711e1f495de",
+        "4963c833-c500-589e-ab65-a599dd685fb0",
+        "25bb5879-903b-59bb-8dae-febc84dd7f35"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Mix pine nuts into beef-rice mixture before serving.",
+      "ingredients_used": [
+        "76859f3a-e8bd-5b8c-8e90-2fa8d08c8301",
+        "a56d86cd-ca22-5847-94ed-94a7856e32c0",
+        "25bb5879-903b-59bb-8dae-febc84dd7f35"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.allrecipes.com/recipe/272233/syrian-rice-with-meat/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

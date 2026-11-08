@@ -1,0 +1,302 @@
+{
+  "id": "7a4ee8b9-76d6-50ae-b784-434f18b30c6f",
+  "version": "1.0.0",
+  "title": "Steak and Kidney Pie",
+  "slug": "steak-and-kidney-pie",
+  "summary": "A traditional British savory pie filled with braised beef and lamb kidney in a rich gravy, topped with a golden puff pastry crust.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:45:49Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52881"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/qysyss1511558054.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/qysyss1511558054.jpg/small",
+      "alt_text": "Photo of Steak and Kidney Pie",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=oTw5tPt4KmA"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "pie"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 130,
+    "total_time_minutes": 150
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "portions",
+    "serving_size_description": "1 slice of pie with gravy"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "eggs",
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "614748e3-66d8-58db-980c-8aa89834dba2",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "4575cd5c-a8c1-532e-8ed7-61d312bf0fe9",
+          "ingredient_id": "a552ed18-91bb-59fa-a3c1-dad1308c6c3e",
+          "name": "puff pastry",
+          "display_text": "300g Puff Pastry",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "8c5b8eac-2235-5ec9-b73a-b79175999a21",
+          "ingredient_id": "87c4a7ca-7b0e-5143-aea3-d01ad00e4108",
+          "name": "egg white",
+          "display_text": "Beaten Egg White",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "beaten",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "2c9edfc4-ddad-5ccf-a768-31e89efbc175",
+          "ingredient_id": "051a3118-01a4-5366-a922-19ecf618e2f9",
+          "name": "egg yolks",
+          "display_text": "Beaten Egg Yolks",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "beaten",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "a61f9c57-1017-5650-8df4-5c4524c1ec97",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "2 tbs Vegetable Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "487594d9-335d-5041-810b-a7e363495885",
+          "ingredient_id": "c2102b4e-a5b4-5bab-b7d5-bdfa5244ae7b",
+          "name": "beef",
+          "display_text": "70 ml Beef",
+          "quantity": 70.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 70.0,
+          "metric_unit": "milliliter",
+          "category": "meat"
+        },
+        {
+          "id": "2a72f915-74bc-5b0b-9aa3-e3d3cd227ef0",
+          "ingredient_id": "ad191fd8-feba-5c1f-8a55-f2bbb9892076",
+          "name": "lamb kidney",
+          "display_text": "200g Lamb Kidney",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "3f113d5b-0f25-5167-bca1-ae474002874d",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onions",
+          "display_text": "2 chopped Onions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1443dfd5-540f-5574-b884-304831178f39",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "30g Plain Flour",
+          "quantity": 30.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "dda0989d-7e97-57d5-a38d-a84f40f6454b",
+          "ingredient_id": "39a746ef-3300-5229-b0b2-3e03970ea60c",
+          "name": "beef stock",
+          "display_text": "85 ml Beef Stock",
+          "quantity": 85.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 85.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "14c201b9-7c53-5210-a283-72ab6c484190",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "dae75b18-107c-53c1-b9bb-da1a57070de1",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "pinch Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1ecf92db-a669-5749-b5cc-c9a9931cfee3",
+          "ingredient_id": "31e8f031-3e86-5406-8703-0e73554e2898",
+          "name": "worcestershire sauce",
+          "display_text": "Dash Worcestershire Sauce",
+          "quantity": 1,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat the oven to 220C/425F/Gas 7",
+      "temperature": {
+        "value": 220,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat the vegetable oil in a large frying pan, and brown the beef all over. (You may need to do this in batches.) Set aside, then brown the kidneys on both sides in the same pan. Add the onions and cook for 3-4 minutes.",
+      "timer_seconds": 240,
+      "ingredients_used": [
+        "a61f9c57-1017-5650-8df4-5c4524c1ec97",
+        "487594d9-335d-5041-810b-a7e363495885",
+        "2a72f915-74bc-5b0b-9aa3-e3d3cd227ef0",
+        "3f113d5b-0f25-5167-bca1-ae474002874d"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Return the beef to the pan, sprinkle flour over and coat the meat and onions",
+      "ingredients_used": [
+        "487594d9-335d-5041-810b-a7e363495885",
+        "3f113d5b-0f25-5167-bca1-ae474002874d"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add the stock to the pan, stir well and bring to the boil."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Turn the heat down and simmer for 1½ hours without a lid. If the liquid evaporates too much, add more stock."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Remove from the heat. Add salt, pepper and Worcestershire sauce and allow to cool completely. Place the cooked meat mixture into a pie dish.",
+      "ingredients_used": [
+        "14c201b9-7c53-5210-a283-72ab6c484190",
+        "dae75b18-107c-53c1-b9bb-da1a57070de1",
+        "1ecf92db-a669-5749-b5cc-c9a9931cfee3"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Roll out the pastry to 5mm/¼in thick and 5cm/2in larger than the dish you are using.",
+      "ingredients_used": [
+        "4575cd5c-a8c1-532e-8ed7-61d312bf0fe9"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Using a rolling pin, lift the pastry and place it over the top of the pie dish. Trim and crimp the edges with your fingers and thumb.",
+      "ingredients_used": [
+        "4575cd5c-a8c1-532e-8ed7-61d312bf0fe9"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Brush the surface with the beaten egg mixture and bake for 30-40 minutes until golden-brown and puffed.",
+      "timer_seconds": 2400
+    },
+    {
+      "step_number": 10,
+      "instruction": "Serve with creamy mash and steamed vegetables to soak up the gravy."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbc.co.uk/food/recipes/steakandkidneypie_73308"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

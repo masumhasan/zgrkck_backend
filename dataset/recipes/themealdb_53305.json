@@ -1,0 +1,260 @@
+{
+  "id": "38e2e9d6-c022-5720-8b1d-55ae8597d841",
+  "version": "1.0.0",
+  "title": "Braised stuffed cabbage",
+  "slug": "braised-stuffed-cabbage",
+  "summary": "Polish-style stuffed cabbage rolls filled with a mixture of basmati rice, chestnuts, and cranberries, braised in a savory vegetable stock.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:22:35Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53305"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/z267f71764364072.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/z267f71764364072.jpg/small",
+      "alt_text": "Photo of Braised stuffed cabbage",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=RNrZpQaj5us"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d40b0607-0a3a-5f5d-8012-7eaf1b714fa5",
+        "slug": "polish",
+        "name": "Polish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 94,
+    "total_time_minutes": 114
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1 stuffed cabbage roll"
+  },
+  "allergens": {
+    "contains": [
+      "tree_nuts",
+      "celery"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "9f2fac89-9882-5d21-a8d3-5dc5a879866b",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "26b23525-351d-567b-8655-6191bf971aa5",
+          "ingredient_id": "9278472e-30fb-5166-a5ea-df0d1fcf56b6",
+          "name": "cabbage leaves",
+          "display_text": "6 large Cabbage Leaves",
+          "quantity": 6.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e2187c2e-1ff7-5460-8a55-6a4c6b4a9150",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tablespoons Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "8d55ffce-d032-57e6-ae50-6bac7129c304",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b556c767-d03c-5a7d-b0c4-6486cc583a88",
+          "ingredient_id": "b0bbff87-223e-5a9c-aa07-1ee472617b84",
+          "name": "rosemary",
+          "display_text": "2 tsp Rosemary",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "090ae30a-f8d0-5f3b-b3be-68b9024eb6e1",
+          "ingredient_id": "ed4951b3-26e6-5bb4-a5af-9c61a46687a0",
+          "name": "celery",
+          "display_text": "1 chopped Celery",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d2dfa0a9-e611-5ee2-87e9-a0a623164217",
+          "ingredient_id": "83ffb65f-48c4-5295-bd29-b97975a1fcb1",
+          "name": "basmati rice",
+          "display_text": "140g Basmati Rice",
+          "quantity": 140.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 140.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "31edc90c-5589-5be6-8fb6-c16a18fa4edb",
+          "ingredient_id": "0ed7fbce-804b-56c8-a7b4-b474e3125eac",
+          "name": "cooked chestnut",
+          "display_text": "140g Cooked Chestnut",
+          "quantity": 140.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 140.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "3d62bbcd-7628-54d7-be09-64a7283ca5c7",
+          "ingredient_id": "f259a56d-bbb3-5763-8ce8-e98b5cc4eaaf",
+          "name": "cranberry",
+          "display_text": "50g Cranberry",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "01206d40-d50f-5257-8f65-47d8958944c5",
+          "ingredient_id": "2d490c0b-0744-5be5-a104-641c87b13636",
+          "name": "vegetable stock",
+          "display_text": "300ml Vegetable Stock",
+          "quantity": 300.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "3dc1e6c9-b68f-5600-84b7-4475948a7255",
+          "ingredient_id": "63107704-a6f7-54e1-89ce-d8232f5288e9",
+          "name": "balsamic vinegar",
+          "display_text": "1 tablespoon Balsamic Vinegar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "919fe18e-d894-5f3c-99cd-53d35f9ff7b9",
+          "ingredient_id": "590d0a0c-0a81-5fad-964b-7ade1eb4020d",
+          "name": "clear honey",
+          "display_text": "1 tsp Clear Honey",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 180C/fan 160C/gas 4. Remove the tough central stalk from the cabbage leaves. Bring a large pan of salted water to the boil, add the cabbage, then cook for just 1-2 mins until the leaves are starting to wilt. Drain and refresh under cold running water. Drain well, then pat dry with a tea towel.",
+      "timer_seconds": 120,
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "26b23525-351d-567b-8655-6191bf971aa5"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat the oil in a pan, add the onion, then fry for 5 mins until slightly browned. Add the rosemary and celery, then cook for 8 mins more. Stir in the rice, then cook for a min or so until the grains are glistening. Remove from the heat, stir in the chestnuts and cranberries, then season.",
+      "ingredients_used": [
+        "8d55ffce-d032-57e6-ae50-6bac7129c304",
+        "b556c767-d03c-5a7d-b0c4-6486cc583a88",
+        "090ae30a-f8d0-5f3b-b3be-68b9024eb6e1",
+        "d2dfa0a9-e611-5ee2-87e9-a0a623164217",
+        "31edc90c-5589-5be6-8fb6-c16a18fa4edb"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Spoon a little stuffing onto a cabbage leaf, roll up and fold in the sides to enclose the filling. Put in a single layer in a large, oiled, shallow ovenproof dish with the join underneath. Fill the remaining leaves in the same way. Mix the stock, vinegar and honey, then pour over the cabbage. Cover the dish tightly with foil, bake for 1 hr, uncover, then cook for a further 15 mins.",
+      "ingredients_used": [
+        "919fe18e-d894-5f3c-99cd-53d35f9ff7b9"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/braised-stuffed-cabbage"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

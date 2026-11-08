@@ -1,0 +1,257 @@
+{
+  "id": "c01bd0a4-dd44-56b7-9786-3e7ee967b9e6",
+  "version": "1.0.0",
+  "title": "Chicken with saffron, raisins & pine nuts",
+  "slug": "chicken-with-saffron-raisins-pine-nuts",
+  "summary": "A Spanish-style chicken dish braised with saffron, dry sherry, and raisins, finished with toasted pine nuts and fresh parsley.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:11:52Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53186"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/4mhr3u1763481087.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/4mhr3u1763481087.jpg/small",
+      "alt_text": "Photo of Chicken with saffron, raisins & pine nuts",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=uKWjI2DNq0Q"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 53,
+    "total_time_minutes": 68
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "chicken pieces with rice"
+  },
+  "allergens": {
+    "contains": [
+      "tree_nuts",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "fd220341-5a17-5829-ab25-99e8e603c828",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "5f537f0a-25e0-51f6-ace6-63e9b27d470c",
+          "ingredient_id": "96643234-56e3-5df9-9877-487e63d7cb8b",
+          "name": "chicken",
+          "display_text": "1.25kg Chicken",
+          "quantity": 1.25,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "kilogram",
+          "category": "poultry"
+        },
+        {
+          "id": "43fb27b7-8d24-5110-9bf8-2ed0e995beb1",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tblsp Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "31d63846-05cc-59c4-a127-530959d658e0",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 cloves Chopped Garlic",
+          "quantity": 3.0,
+          "unit": "clove",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "996b76b6-3ccd-5bfa-80ae-60a38e5f554e",
+          "ingredient_id": "6e4973c3-ed8a-5158-9a24-ca212d5e7092",
+          "name": "saffron",
+          "display_text": "Pinch Saffron",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1b46412c-fa98-5e23-aca1-4a80ec3c3ebe",
+          "ingredient_id": "0878c803-3a75-5498-b12f-29ba3adbfea5",
+          "name": "dry sherry",
+          "display_text": "125ml Dry sherry",
+          "quantity": 125.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 125.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "17eae7e3-ae52-5f12-952a-5bd86d3abcf2",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "200ml Chicken Stock",
+          "quantity": 200.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "a859be2a-b530-5ccb-9b34-e276bdaef968",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "1 tbsp Thyme",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "df2fccfa-6a9b-5af8-b1c0-fb2528f463ff",
+          "ingredient_id": "8d52ad34-1aea-57a9-8e92-aabab5116059",
+          "name": "raisins",
+          "display_text": "50g Raisins",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "b48968a9-bdda-5267-82a9-68c597e5d67a",
+          "ingredient_id": "d33b80af-1e5d-5fa5-a5a8-1cc1a925e2ee",
+          "name": "pine nuts",
+          "display_text": "2 tbsp Pine Nuts",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "6b0d3606-3c04-5668-93ab-01a7dbeb1fd5",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Handful Parsley",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat a large frying pan on a high heat and season the chicken. Add the olive oil to the pan, then the chicken. Brown for about 5 mins on each side, remove onto a plate, then set aside.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "5f537f0a-25e0-51f6-ace6-63e9b27d470c",
+        "43fb27b7-8d24-5110-9bf8-2ed0e995beb1"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Lower the heat to medium. In the remaining fat, fry the onions for 3 mins, then add the garlic and saffron. Cook for 3-4 mins more. Add the sherry, then simmer for 3-5 mins until syrupy.",
+      "ingredients_used": [
+        "31d63846-05cc-59c4-a127-530959d658e0",
+        "996b76b6-3ccd-5bfa-80ae-60a38e5f554e",
+        "1b46412c-fa98-5e23-aca1-4a80ec3c3ebe"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Put the chicken leg pieces back into the pan, tip in the stock, thyme and raisins, cover, then gently cook on a low heat for 20 mins. Add the breast meat and any juices left on the plate. Simmer for 10 mins more until cooked through and the sauce in the pan has reduced.",
+      "ingredients_used": [
+        "5f537f0a-25e0-51f6-ace6-63e9b27d470c",
+        "a859be2a-b530-5ccb-9b34-e276bdaef968",
+        "df2fccfa-6a9b-5af8-b1c0-fb2528f463ff"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "While the chicken is cooking, heat oven to 200C/180C fan/gas 6. Scatter the pine nuts over a baking sheet, then roast for 10 mins until golden and toasted. Once the chicken has cooked through, season to taste, scatter with pine nuts and parsley, then serve with rice.",
+      "timer_seconds": 600,
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "5f537f0a-25e0-51f6-ace6-63e9b27d470c",
+        "b48968a9-bdda-5267-82a9-68c597e5d67a",
+        "6b0d3606-3c04-5668-93ab-01a7dbeb1fd5"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/chicken-saffron-raisins-pine-nuts"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

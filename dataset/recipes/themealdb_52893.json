@@ -1,0 +1,244 @@
+{
+  "id": "2e636ed1-309a-5778-9a91-a22d311cfdb8",
+  "version": "1.0.0",
+  "title": "Apple & Blackberry Crumble",
+  "slug": "apple-blackberry-crumble",
+  "summary": "A classic British dessert consisting of a warm fruit compote of apples and blackberries topped with a baked, buttery flour and sugar crumble.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:30:23Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52893"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/xvsurr1511719182.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/xvsurr1511719182.jpg/small",
+      "alt_text": "Photo of Apple & Blackberry Crumble",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=4vhcOwVBDO4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "pudding"
+    ],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "dinner_party",
+      "comfort_food"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 36,
+    "rest_time_minutes": 3,
+    "total_time_minutes": 54
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of fruit with crumble"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "4de4c519-b3e6-5d88-bd9a-0fc1d14de7e7",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "52f929b2-9664-539e-857b-deaf44ff1c93",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "120g Plain Flour",
+          "quantity": 120.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "80215f6a-1ac9-51c6-9ea5-c3cc3f1b639b",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "60g Caster Sugar",
+          "quantity": 60.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "4a5b0e45-12f7-56ca-b14f-25691865dfe8",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "60g Butter",
+          "quantity": 60.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "f834d525-abbe-5d0f-8a83-25291be2b1c1",
+          "ingredient_id": "8c09da59-a4dd-5a31-b3a3-f7bbf9218a17",
+          "name": "braeburn apples",
+          "display_text": "300g Braeburn Apples",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "680a4460-cb7d-5319-8bdc-bb0d49f88521",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "30g Butter",
+          "quantity": 30.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "794ff180-6379-5682-9008-891b70e10aa2",
+          "ingredient_id": "83fd3f9f-e97c-579b-81d6-4d64808be32f",
+          "name": "demerara sugar",
+          "display_text": "30g Demerara Sugar",
+          "quantity": 30.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "ca8c963d-7884-53b1-b912-a884f14d6b5f",
+          "ingredient_id": "6a077770-26c3-5b86-8e16-a2d03421b135",
+          "name": "blackberries",
+          "display_text": "120g Blackberries",
+          "quantity": 120.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "76839eb6-c8a1-54e9-b6ad-ff5955d64d1c",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "¼ teaspoon Cinnamon",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "56bde445-0f66-5fcb-84bf-fa789e1e1349",
+          "ingredient_id": "66def360-0119-50c9-80d5-048ee2af3184",
+          "name": "ice cream",
+          "display_text": "to serve Ice Cream",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "frozen_foods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 190C/170C fan/gas 5. Tip the flour and sugar into a large bowl. Add the butter, then rub into the flour using your fingertips to make a light breadcrumb texture. Do not overwork it or the crumble will become heavy. Sprinkle the mixture evenly over a baking sheet and bake for 15 mins or until lightly colored.",
+      "timer_seconds": 900,
+      "temperature": {
+        "value": 190,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "4a5b0e45-12f7-56ca-b14f-25691865dfe8",
+        "680a4460-cb7d-5319-8bdc-bb0d49f88521"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Meanwhile, for the compote, peel, core and cut the apples into 2cm dice. Put the butter and sugar in a medium saucepan and melt together over a medium heat. Cook for 3 mins until the mixture turns to a light caramel. Stir in the apples and cook for 3 mins. Add the blackberries and cinnamon, and cook for 3 mins more. Cover, remove from the heat, then leave for 2-3 mins to continue cooking in the warmth of the pan.",
+      "ingredients_used": [
+        "4a5b0e45-12f7-56ca-b14f-25691865dfe8",
+        "f834d525-abbe-5d0f-8a83-25291be2b1c1",
+        "680a4460-cb7d-5319-8bdc-bb0d49f88521",
+        "ca8c963d-7884-53b1-b912-a884f14d6b5f",
+        "76839eb6-c8a1-54e9-b6ad-ff5955d64d1c"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "To serve, spoon the warm fruit into an ovenproof gratin dish, top with the crumble mix, then reheat in the oven for 5-10 mins. Serve with vanilla ice cream.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "56bde445-0f66-5fcb-84bf-fa789e1e1349"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/778642/apple-and-blackberry-crumble"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

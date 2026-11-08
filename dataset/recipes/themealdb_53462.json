@@ -1,0 +1,244 @@
+{
+  "id": "035737bd-ad1a-549f-853a-c9afc1e1465f",
+  "version": "1.0.0",
+  "title": "Cinnamon Roll Cookies",
+  "slug": "cinnamon-roll-cookies",
+  "summary": "These cookies are inspired by cinnamon rolls, featuring a dough rolled with a cinnamon and brown sugar mixture before being sliced and baked.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:36:22Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53462"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/txce0y1782494894.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/txce0y1782494894.jpg/small",
+      "alt_text": "Photo of Cinnamon Roll Cookies",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/shorts/LZ6ra2I0Edo"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "be40c58d-b0e2-5e0f-99bc-6d79e9a5a5f5",
+        "slug": "belgian",
+        "name": "Belgian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 16,
+    "marinating_time_minutes": 45,
+    "total_time_minutes": 76
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "pieces",
+    "serving_size_description": "2 cookies"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "2d4e34da-fd84-5cce-9908-9a6f475c741d",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "1c0ed850-b0a4-5f45-9ec1-2dea8096fb39",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "250g Plain Flour",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "d49a7c43-f68e-5530-b0bb-196ec40e47dc",
+          "ingredient_id": "bc46b2a6-8a59-50ee-a044-ce38bddb125c",
+          "name": "unsalted butter",
+          "display_text": "180g Unsalted Butter",
+          "quantity": 180.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 180.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "ddd9ccc0-aba7-5c65-9fa3-f663c0881ded",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "85g Caster Sugar",
+          "quantity": 85.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 85.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "835e9aea-06c6-51cc-b377-9289e4a7a602",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 medium Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "e3d42db2-943e-5d0f-b04c-934c9fa73e7d",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "bf4217ae-aa23-5116-abf9-2e7430443a58",
+          "ingredient_id": "7af3c207-3c37-5965-a096-bf34ac1db1f4",
+          "name": "ground cinnamon",
+          "display_text": "2 tsp Ground Cinnamon",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "fdfde4f8-58be-576d-9f66-3c6a57a5e907",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "30g Brown Sugar",
+          "quantity": 30.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "In a large bowl, combine the butter and caster sugar until creamy. Add the egg and a pinch of salt.",
+      "ingredients_used": [
+        "d49a7c43-f68e-5530-b0bb-196ec40e47dc",
+        "ddd9ccc0-aba7-5c65-9fa3-f663c0881ded",
+        "835e9aea-06c6-51cc-b377-9289e4a7a602",
+        "e3d42db2-943e-5d0f-b04c-934c9fa73e7d"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Stir into a buttery mixture. Add the sifted flour.",
+      "ingredients_used": [
+        "d49a7c43-f68e-5530-b0bb-196ec40e47dc"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Whisk well. You should end up with a smooth dough. Cover it with a piece of plastic wrap and put the dough in the fridge for 15 minutes to chill and set.",
+      "timer_seconds": 900
+    },
+    {
+      "step_number": 4,
+      "instruction": "In the meantime combine the cassonade (or brown sugar) and the cinnamon.",
+      "ingredients_used": [
+        "bf4217ae-aa23-5116-abf9-2e7430443a58",
+        "fdfde4f8-58be-576d-9f66-3c6a57a5e907"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Transfer the dough onto a floured surface and knead it for a minute. Add extra flour if necessary. Roll the dough out gently into a nice rectangle. It should be about ⅕-inch (5 mm) thick. Sprinkle with the sugary cinnamon mixture.",
+      "ingredients_used": [
+        "bf4217ae-aa23-5116-abf9-2e7430443a58"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Carefully start rolling the dough up. If it is too sticky, put it in the fridge again for a couple of minutes. Wrap it up tightly in plastic wrap."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Put it in the fridge for 30 minutes to chill and set. After that, remove the cling film and cut the dough roll into even slices.",
+      "timer_seconds": 1800
+    },
+    {
+      "step_number": 8,
+      "instruction": "Place the slices on a baking paper lined baking tray. Bake the cookies in a preheated oven at 356°F (180°C) for 14 to 16 minutes.",
+      "timer_seconds": 960,
+      "temperature": {
+        "value": 356,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 9,
+      "instruction": "Let the baked cinnamon roll cookies cool down fully before eating or wrapping them up.",
+      "ingredients_used": [
+        "bf4217ae-aa23-5116-abf9-2e7430443a58"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://junedarville.com/cinnamon-roll-cookies.html"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

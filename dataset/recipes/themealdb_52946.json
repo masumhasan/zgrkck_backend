@@ -1,0 +1,272 @@
+{
+  "id": "76f5e36e-228a-5d1d-9ab7-cb3cc9fa787c",
+  "version": "1.0.0",
+  "title": "Kung Po Prawns",
+  "slug": "kung-po-prawns",
+  "summary": "A Chinese-style stir-fry featuring prawns, peanuts, and water chestnuts in a savory sauce with chili and garlic.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:51:37Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52946"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/1525873040.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/1525873040.jpg/small",
+      "alt_text": "Photo of Kung Po Prawns",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ysiuZm9FIxs"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6813a95e-62cf-55e7-9d4b-6f19ee1d7391",
+        "slug": "chinese",
+        "name": "Chinese"
+      }
+    ],
+    "tags": [
+      "bbq"
+    ],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "marinating_time_minutes": 10,
+    "total_time_minutes": 35
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of prawns with peanuts and water chestnuts"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "shellfish"
+    ],
+    "free_from": [
+      "dairy",
+      "eggs",
+      "fish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "86ed5f73-58ac-505d-b8a3-ed9d5b670109",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "91b764ef-0d38-5ea8-827f-2dbe61fe6fbd",
+          "ingredient_id": "d2faf7d8-97cd-57b2-9aee-58261714f9d5",
+          "name": "prawns",
+          "display_text": "400g Prawns",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "6603642e-21f9-5d4f-a2e8-eb56e8883124",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "2 tbs Soy Sauce",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "5524e5d6-bf0c-552c-bdb5-f91565934199",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "1 tsp Tomato Puree",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "752654eb-0613-597c-b389-9dfab189738e",
+          "ingredient_id": "94f73465-e9e4-5ae0-8787-ee86687dbeb4",
+          "name": "corn flour",
+          "display_text": "1 tsp Corn Flour",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "796027b2-1c04-577a-a78b-b95e25596516",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "1 tsp Caster Sugar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "9fa7d249-3976-53b6-b268-5dd21d195a1d",
+          "ingredient_id": "aa561384-0d26-5008-a25e-3ba9db4b2a3f",
+          "name": "sunflower oil",
+          "display_text": "1 tsp Sunflower Oil",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "135795c4-5faa-50ae-9fd4-1bc7479acb9d",
+          "ingredient_id": "200b7141-d967-52ee-b154-4f8ed303ac02",
+          "name": "peanuts",
+          "display_text": "85g Peanuts",
+          "quantity": 85.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 85.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "22ba363f-08b4-5756-8854-862820f84065",
+          "ingredient_id": "3deb6c1f-bd27-560b-a63b-f2b3eaf9e82e",
+          "name": "chilli",
+          "display_text": "3 Large Chilli",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2eff0631-781e-5362-ba88-4ce90d2b1948",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "1 tbs Brown Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "0e21d411-f35a-5f87-b6f8-17446861c5cf",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "6 cloves Garlic Clove",
+          "quantity": 6.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "bc6f6d11-cdb6-5312-aa55-c139bd5af71d",
+          "ingredient_id": "8b4cb4df-7262-54b9-b650-855aeb595f72",
+          "name": "water chestnut",
+          "display_text": "450g Water Chestnut",
+          "quantity": 450.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "gram",
+          "category": "beverages"
+        },
+        {
+          "id": "872a71c1-a0ee-5f3b-8028-558259069ac3",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "to taste Ginger",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Mix the cornflour and 1 tbsp soy sauce, toss in the prawns and set aside for 10 mins. Stir the vinegar, remaining soy sauce, tomato purée, sugar and 2 tbsp water together to make a sauce.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "91b764ef-0d38-5ea8-827f-2dbe61fe6fbd",
+        "6603642e-21f9-5d4f-a2e8-eb56e8883124"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "When you’re ready to cook, heat a large frying pan or wok until very hot, then add 1 tbsp oil. Fry the prawns until they are golden in places and have opened out– then tip them out of the pan.",
+      "ingredients_used": [
+        "91b764ef-0d38-5ea8-827f-2dbe61fe6fbd"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Heat the remaining oil and add the peanuts, chillies and water chestnuts. Stir-fry for 2 mins or until the peanuts start to color, then add the ginger and garlic and fry for 1 more min. Tip in the prawns and sauce and simmer for 2 mins until thickened slightly. Serve with rice.",
+      "ingredients_used": [
+        "91b764ef-0d38-5ea8-827f-2dbe61fe6fbd",
+        "135795c4-5faa-50ae-9fd4-1bc7479acb9d",
+        "22ba363f-08b4-5756-8854-862820f84065",
+        "bc6f6d11-cdb6-5312-aa55-c139bd5af71d",
+        "872a71c1-a0ee-5f3b-8028-558259069ac3"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/1415664/kung-po-prawns"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

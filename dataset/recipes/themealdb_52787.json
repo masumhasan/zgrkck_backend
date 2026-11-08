@@ -1,0 +1,231 @@
+{
+  "id": "5b1ad6fc-c48c-5a5c-ac0a-090bda6e1a1c",
+  "version": "1.0.0",
+  "title": "Hot Chocolate Fudge",
+  "slug": "hot-chocolate-fudge",
+  "summary": "A rich, two-layered fudge made with dark and white chocolate, sweetened condensed milk, and topped with miniature marshmallows.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:37:58Z",
+  "updated_at": "2026-10-16T10:22:44Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52787"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/xrysxr1483568462.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/xrysxr1483568462.jpg/small",
+      "alt_text": "Photo of Hot Chocolate Fudge",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=oJvbsVSblfk"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b95bb9d4-1e18-5623-a50f-942c7d140e82",
+        "slug": "american",
+        "name": "American"
+      }
+    ],
+    "tags": [
+      "chocolate",
+      "snack"
+    ],
+    "meal_types": [
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 5,
+    "rest_time_minutes": 240,
+    "total_time_minutes": 255
+  },
+  "yield": {
+    "servings": 24,
+    "serving_unit": "pieces",
+    "serving_size_description": "bite-sized piece"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": [
+      "soy"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "640aa22c-d6f9-5b3d-9b02-4b5c46010621",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "a3e1d77d-acf0-5cbd-8d14-6742162e9bd7",
+          "ingredient_id": "57b0f0f3-9046-5bb1-a78b-0092062cf0a4",
+          "name": "chocolate chips",
+          "display_text": "2 cups Chocolate Chips",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "afc3ac9e-93f8-58f7-8c4a-beed6d037133",
+          "ingredient_id": "cb8d5d02-f2f1-547b-b7e6-054d6629adc1",
+          "name": "heavy cream",
+          "display_text": "2 tbs Heavy Cream",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "6e94925b-4f2c-53fd-8127-b23c27517698",
+          "ingredient_id": "3fe531f9-aa92-5d4e-9940-e8eddf18456b",
+          "name": "condensed milk",
+          "display_text": "1 – 14-ounce can Condensed Milk",
+          "quantity": 1.0,
+          "unit": "can",
+          "preparation": "14-ounce",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "ab3250c3-2c47-5773-8192-e8fa7785b398",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1 tsp Vanilla Extract",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "997c29e8-fc71-55a7-9bd3-174186665c8d",
+          "ingredient_id": "a0957ef2-972e-5a79-8aca-388b440f8174",
+          "name": "white chocolate chips",
+          "display_text": "1-⅓ cups White Chocolate Chips",
+          "quantity": 1.3333,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 320.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "f71c6e16-e517-57be-b912-4524d25ac4fd",
+          "ingredient_id": "89141a6d-4907-5cb2-81a1-3758ea2340cd",
+          "name": "miniature marshmallows",
+          "display_text": "1-½ cups Miniature Marshmallows",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Line an 8-inch-square baking pan with wax paper or foil, and coat with non-stick spray."
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a microwave-safe bowl, combine the dark chocolate chips, heavy cream and half of the sweetened condensed milk. Microwave the dark chocolate mixture in 20-second intervals, stirring in between each interval, until the chocolate is melted.",
+      "ingredients_used": [
+        "a3e1d77d-acf0-5cbd-8d14-6742162e9bd7",
+        "afc3ac9e-93f8-58f7-8c4a-beed6d037133",
+        "6e94925b-4f2c-53fd-8127-b23c27517698",
+        "997c29e8-fc71-55a7-9bd3-174186665c8d"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the vanilla extract to the dark chocolate mixture and stir well until smooth.",
+      "ingredients_used": [
+        "ab3250c3-2c47-5773-8192-e8fa7785b398"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Transfer the dark chocolate mixture into the prepared pan and spread into an even layer."
+    },
+    {
+      "step_number": 5,
+      "instruction": "In a separate bowl, combine the white chocolate chips with the remaining half of the sweetened condensed milk. Microwave the white chocolate mixture in 20-second intervals, stirring in between each interval, until the chocolate is melted.",
+      "ingredients_used": [
+        "a3e1d77d-acf0-5cbd-8d14-6742162e9bd7",
+        "6e94925b-4f2c-53fd-8127-b23c27517698",
+        "997c29e8-fc71-55a7-9bd3-174186665c8d"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Evenly spread the white chocolate mixture on top of dark chocolate layer."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Top the chocolate layers with the Mallow Bits or miniature marshmallows, and gently press them down.",
+      "ingredients_used": [
+        "f71c6e16-e517-57be-b912-4524d25ac4fd"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Refrigerate for 4 hours, or until set.",
+      "timer_seconds": 14400
+    },
+    {
+      "step_number": 9,
+      "instruction": "Remove the fudge and wax paper from the pan. Carefully peel all of the wax paper from the fudge."
+    },
+    {
+      "step_number": 10,
+      "instruction": "Cut the fudge into bite-sized pieces and serve."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

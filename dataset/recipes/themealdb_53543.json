@@ -1,0 +1,281 @@
+{
+  "id": "ee423560-26bb-597f-b2b4-3b8051b0edb6",
+  "version": "1.0.0",
+  "title": "Dulce de Leche Cheesecake with a Maria Cookie Crust.",
+  "slug": "dulce-de-leche-cheesecake-with-a-maria-cookie-crust",
+  "summary": "A rich Cuban-style cheesecake featuring a Maria cookie crust and a creamy filling flavored with dulce de leche.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:43:39Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53543"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/f9qog11784574376.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/f9qog11784574376.jpg/small",
+      "alt_text": "Photo of Dulce de Leche Cheesecake with a Maria Cookie Crust.",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "bd3047f5-b3e1-53bc-b58b-9c7b54443734",
+        "slug": "cuban",
+        "name": "Cuban"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 65,
+    "rest_time_minutes": 300,
+    "total_time_minutes": 385
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 slice of cheesecake"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "2a579fee-2db0-5bbb-befd-48dc4cfdc57a",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "767091d7-e67f-5f73-bd25-95a62a8222a1",
+          "ingredient_id": "7a681ff8-c144-526f-986b-75c438133b3d",
+          "name": "maria cookies",
+          "display_text": "7 oz Maria Cookies",
+          "quantity": 7.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 198.5,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "ea52d67b-554e-5a7f-a8b4-4e523812bd58",
+          "ingredient_id": "bc46b2a6-8a59-50ee-a044-ce38bddb125c",
+          "name": "unsalted butter",
+          "display_text": "1/2 cup Unsalted Butter",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "23eabcda-1069-56d6-8dd3-05a8421cfdc5",
+          "ingredient_id": "0523a624-2afe-5b39-a3e8-a4588a68c1c2",
+          "name": "cream cheese",
+          "display_text": "16 oz Cream Cheese",
+          "quantity": 16.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "85d199db-b597-53f9-bcad-9f77d238ab12",
+          "ingredient_id": "0523a624-2afe-5b39-a3e8-a4588a68c1c2",
+          "name": "cream cheese",
+          "display_text": "16 oz Cream Cheese",
+          "quantity": 16.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "c1108a04-f85f-5d0a-af62-cad7eaecfb02",
+          "ingredient_id": "cbc624d4-82e3-5a30-bde7-a0d3464ff910",
+          "name": "sweetened condensed milk",
+          "display_text": "1 Can Sweetened Condensed Milk",
+          "quantity": 1.0,
+          "unit": "can",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "3cd0a1c3-16eb-5641-9257-11ce78917b2f",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "4 Eggs",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "2d1a4d33-a283-50c2-9ef0-4d4a22e41090",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1 ½ tbsp Vanilla Extract",
+          "quantity": 1.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 22.5,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "30cc29f1-d5fc-59fe-a881-0702a358060d",
+          "ingredient_id": "5d772d5e-0624-59e9-ac6b-e8bc1c4a6936",
+          "name": "dulce de leche",
+          "display_text": "Garnish Dulce de leche",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "garnish",
+          "is_optional": false,
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 325ºF.",
+      "temperature": {
+        "value": 325,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "Place cookies in bowl of food processor. Pulse 30 seconds, or until finely ground. (Or, crush them by hand by placing cookies in zip-top bag and using the bottom of a heavy skillet, pound cookies until finely crushed); transfer cookie crumbs to bowl.",
+      "timer_seconds": 30,
+      "ingredients_used": [
+        "767091d7-e67f-5f73-bd25-95a62a8222a1"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add softened butter, stirring until combined.",
+      "ingredients_used": [
+        "ea52d67b-554e-5a7f-a8b4-4e523812bd58"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Transfer cookie mixture to 9” spring form pan. Using your fingers, press cookie crumbs evenly onto bottom and sides of pan. Bake until firm and fragrant, about 10 minutes.",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 5,
+      "instruction": "Allow to cool."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Set electric mixer on medium speed, beat cream cheese until fluffy, about 3 minutes.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "23eabcda-1069-56d6-8dd3-05a8421cfdc5",
+        "85d199db-b597-53f9-bcad-9f77d238ab12"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Add condensed milk; beat until smooth, 1 minute.",
+      "timer_seconds": 60,
+      "ingredients_used": [
+        "c1108a04-f85f-5d0a-af62-cad7eaecfb02"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Beat in eggs, vanilla and 3 tbsp. dulce de leche (caramel) until combined, 3 minutes.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "3cd0a1c3-16eb-5641-9257-11ce78917b2f",
+        "30cc29f1-d5fc-59fe-a881-0702a358060d"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Pour filling into prepared crust. Bake until golden brown and set, but still a little wiggly in the middle, 45 – 55 minutes.",
+      "timer_seconds": 3300
+    },
+    {
+      "step_number": 10,
+      "instruction": "Turn off oven; partially open oven door."
+    },
+    {
+      "step_number": 11,
+      "instruction": "Let cheesecake sit in oven until it come to room temperature, about 1 hour.",
+      "timer_seconds": 3600
+    },
+    {
+      "step_number": 12,
+      "instruction": "Transfer cheesecake to refrigerator; cool completely, at least 4 hours.",
+      "timer_seconds": 14400
+    },
+    {
+      "step_number": 13,
+      "instruction": "Remove cooled cheesecake from sprigform pan."
+    },
+    {
+      "step_number": 14,
+      "instruction": "Place remaining dulce de leche in ziplock bag.",
+      "ingredients_used": [
+        "30cc29f1-d5fc-59fe-a881-0702a358060d"
+      ]
+    },
+    {
+      "step_number": 15,
+      "instruction": "Using scissors, snip small hole in corner of bag. Applying even pressure on “pastry bag,” paint stripes on your finished cheesecake."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.mybigfatcubanfamily.com/2024/01/dulce-de-leche-cheesecake-with-maria-cookie-crust/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

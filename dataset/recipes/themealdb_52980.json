@@ -1,0 +1,287 @@
+{
+  "id": "33130d1a-b487-588a-85a0-856b6d3e86a3",
+  "version": "1.0.0",
+  "title": "Stamppot",
+  "slug": "stamppot",
+  "summary": "A traditional Dutch mash dish consisting of potatoes mixed with kale and served with sausages.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:54:35Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52980"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/hyarod1565090529.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/hyarod1565090529.jpg/small",
+      "alt_text": "Photo of Stamppot",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=hTrSXryX31A"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "74c070cf-0c42-573b-9e5c-54db497f25a3",
+        "slug": "dutch",
+        "name": "Dutch"
+      }
+    ],
+    "tags": [
+      "breakfast",
+      "savory"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 35,
+    "total_time_minutes": 50
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a large portion of mash with kale and sausage"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "sulfites"
+    ],
+    "may_contain": [
+      "mustard",
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "2b7ac9bb-7fff-5b09-a6db-393bb952c467",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "46409d8a-6580-555b-b628-e9e808f2d02f",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "1.5kg Potatoes",
+          "quantity": 1.5,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.5,
+          "metric_unit": "kilogram",
+          "category": "produce"
+        },
+        {
+          "id": "3e0cab4f-6c7b-50d4-a6ea-d56e092783c3",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "2 leaves Bay Leaf",
+          "quantity": 2.0,
+          "unit": "leaf",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "014e5541-5ac7-535c-acf0-4af5adb711bd",
+          "ingredient_id": "d22accc4-e562-59bf-9cbb-1ad38d461e99",
+          "name": "shallots",
+          "display_text": "2 Shallots",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "cde64cca-a45f-547b-a20d-d4c3f0382f2a",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "3 tbs Butter",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "7f7e7c48-3baf-589b-8c8d-42a157a6bc6d",
+          "ingredient_id": "ea2b5188-1104-5240-b077-b8eaf2c3aed9",
+          "name": "kale",
+          "display_text": "750g Kale",
+          "quantity": 750.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 750.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "7d4ba0bd-f242-501c-828e-055622da05e7",
+          "ingredient_id": "0e53b5a4-2ff0-53fb-a8ef-b53dca6ce663",
+          "name": "sausages",
+          "display_text": "2 Sausages",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "16703624-a334-5a57-b787-6442fe473d89",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "500ml Milk",
+          "quantity": 500.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "9cc6afaa-572a-5e61-9972-5df43a0e863f",
+          "ingredient_id": "9426e9cd-e7b2-540e-8ddb-187c01748931",
+          "name": "nutmeg",
+          "display_text": "Grated Nutmeg",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "grated",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d93b5bb1-f2db-59a1-85ba-9ea831545144",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "d271b2fc-a53c-5e16-a69d-5b8ada580b33",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "Pinch Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Wash and peel the potatoes and cut into similarly sized pieces for even cooking.",
+      "ingredients_used": [
+        "46409d8a-6580-555b-b628-e9e808f2d02f"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a large soup pot, boil the potatoes and the bay leaves in salted water for 20 minutes. Discard the bay leaves.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "46409d8a-6580-555b-b628-e9e808f2d02f",
+        "d93b5bb1-f2db-59a1-85ba-9ea831545144"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "If you're not using a bag of ready-cut curly kale, wash the bunches thoroughly under cool running water to get rid of all soil—you wouldn't want that gritty texture in your finished dish. Trim any coarse stems and discard any brown leaves. With a sharp knife, cut the curly kale into thin strips.",
+      "ingredients_used": [
+        "7f7e7c48-3baf-589b-8c8d-42a157a6bc6d"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Peel and chop the shallots.",
+      "ingredients_used": [
+        "014e5541-5ac7-535c-acf0-4af5adb711bd"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "In a frying pan or skillet, melt 1 tbsp. of butter and saute the shallots for a few minutes before adding the curly kale and 2 tbsp. of water. Season and cook for about 10 minutes, or until tender.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "014e5541-5ac7-535c-acf0-4af5adb711bd",
+        "cde64cca-a45f-547b-a20d-d4c3f0382f2a",
+        "7f7e7c48-3baf-589b-8c8d-42a157a6bc6d"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Warm the milk on the stove or in the microwave.",
+      "ingredients_used": [
+        "16703624-a334-5a57-b787-6442fe473d89"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Drain, shake and dry the potatoes with kitchen towels before mashing with a potato masher or ricer. Working quickly, add the warm milk and the remaining butter. Season to taste with nutmeg, salt, and pepper.",
+      "ingredients_used": [
+        "46409d8a-6580-555b-b628-e9e808f2d02f",
+        "cde64cca-a45f-547b-a20d-d4c3f0382f2a",
+        "16703624-a334-5a57-b787-6442fe473d89",
+        "9cc6afaa-572a-5e61-9972-5df43a0e863f",
+        "d93b5bb1-f2db-59a1-85ba-9ea831545144",
+        "d271b2fc-a53c-5e16-a69d-5b8ada580b33"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Mix the cooked curly kale through the cooked mashed potato mixture.",
+      "ingredients_used": [
+        "7f7e7c48-3baf-589b-8c8d-42a157a6bc6d"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Top with slices of the smoked sausage and serve hot with your favorite mustard or gravy."
+    },
+    {
+      "step_number": 10,
+      "instruction": "Serve and enjoy!"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.thespruceeats.com/stamppot-with-curly-kale-and-rookworst-1128837"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

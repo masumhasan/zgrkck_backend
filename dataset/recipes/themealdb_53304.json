@@ -1,0 +1,228 @@
+{
+  "id": "f7d315a5-64c1-5d61-9cd1-0cdbd73902f9",
+  "version": "1.0.0",
+  "title": "Mini bundt cakes",
+  "slug": "mini-bundt-cakes",
+  "summary": "Small, individual-sized bundt cakes featuring a marbled pattern of plain and cocoa-flavored batter.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:22:21Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53304"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/tzt3it1764363293.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/tzt3it1764363293.jpg/small",
+      "alt_text": "Photo of Mini bundt cakes",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=4agkoGMcL2w"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d40b0607-0a3a-5f5d-8012-7eaf1b714fa5",
+        "slug": "polish",
+        "name": "Polish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 18,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 38
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 mini bundt cake"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "6ac65720-a3f6-5086-80d1-780dd9b2aec2",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "3555cb79-2cc7-5468-b79a-468c4d71fefd",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "150g Butter",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "413f7a54-e652-5dfb-9015-a33d71aec0e5",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "175g Plain Flour",
+          "quantity": 175.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 175.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "e094bb8d-58d1-5a40-912a-ce1b7d2ff239",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "125g Caster Sugar",
+          "quantity": 125.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 125.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "82a52858-7650-55b8-a82f-b928217171c9",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "3 Egg",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "5203aaa5-99a6-597a-a784-f3709d94e4f0",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 tsp Baking Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "de1da3fe-7717-5b39-ab2b-36381016603e",
+          "ingredient_id": "6c64db5e-ca58-5d5d-9518-d41d949dd540",
+          "name": "cocoa powder",
+          "display_text": "2 tsp Cocoa Powder",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "7576f8a3-cc74-50e6-a064-7781b774fbba",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "3  tablespoons Milk",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "ca22f53c-4911-56e8-bf99-15506a09b49c",
+          "ingredient_id": "c3b952d9-9879-569e-a989-b29a9b7ec664",
+          "name": "icing sugar",
+          "display_text": "1 tablespoon Icing Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oven to 180C/160C fan/gas 4. Melt 25g butter and generously brush into the holes of a mini bundt tins. Tip a little flour into each hole and shake to coat, then tip out the excess. Beat the butter, caster sugar and a pinch of salt together using an electric whisk. Add the eggs, one at a time, beating well after each addition. Combine the flour and baking powder in a separate bowl, then sift this into the wet ingredients and stir until smooth. Combine the cocoa powder and milk in a small bowl until smooth.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "3555cb79-2cc7-5468-b79a-468c4d71fefd",
+        "e094bb8d-58d1-5a40-912a-ce1b7d2ff239",
+        "5203aaa5-99a6-597a-a784-f3709d94e4f0",
+        "de1da3fe-7717-5b39-ab2b-36381016603e",
+        "7576f8a3-cc74-50e6-a064-7781b774fbba"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Spoon 1 tbsp of the plain batter into each hole of the bundt tin. Mix the remaining plain batter with the cocoa powder mixture, then divide this between the holes. Bake for 15-18 mins, or until a skewer inserted into the cakes comes out clean. Leave to cool in the tin for 5 mins, then turn out onto a wire rack and leave to cool completely. Dust with icing sugar to serve.",
+      "ingredients_used": [
+        "de1da3fe-7717-5b39-ab2b-36381016603e",
+        "ca22f53c-4911-56e8-bf99-15506a09b49c"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Pour 1 tablespoon of light batter into each mold. Mix the remaining batter with the stirred cocoa mixture and then fill the molds with a tablespoon."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Bake the mini Bundt cakes in the preheated oven for 15-18 minutes , depending on the size of the molds. After 15 minutes of baking time, use a toothpick to test with a skewer and, if necessary, bake for another 3 minutes. Let the mini Bundt cakes cool down completely in the tin. Then carefully remove from the mold. Dust with some icing sugar and serve. Enjoy your meal!",
+      "ingredients_used": [
+        "ca22f53c-4911-56e8-bf99-15506a09b49c"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/mini-bundt-cakes"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

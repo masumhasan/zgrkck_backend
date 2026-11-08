@@ -1,0 +1,286 @@
+{
+  "id": "0eedf009-d14f-5343-a52b-3a56c013c3c6",
+  "version": "1.0.0",
+  "title": "Pistachio cake",
+  "slug": "pistachio-cake",
+  "summary": "A Polish-style dessert cake featuring a pistachio sponge layered with a thick pistachio-mascarpone cream and fresh raspberries.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:21:31Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53293"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/xvgpng1764121726.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/xvgpng1764121726.jpg/small",
+      "alt_text": "Photo of Pistachio cake",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ACpikfieDP0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d40b0607-0a3a-5f5d-8012-7eaf1b714fa5",
+        "slug": "polish",
+        "name": "Polish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 25,
+    "cook_time_minutes": 40,
+    "rest_time_minutes": 30,
+    "total_time_minutes": 95
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "servings",
+    "serving_size_description": "1 slice of cake"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "tree_nuts",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "ca98cef7-535c-56b9-a3b9-c6a46496712d",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "88456d05-8fee-5067-b932-aa34b2318526",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "250g Butter",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "109d44f9-0456-5e06-b8fa-4117ac10dc9a",
+          "ingredient_id": "7a638ace-4c4a-53cc-a6d0-64e2c042f7ec",
+          "name": "pistachio",
+          "display_text": "200g Pistachio",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "d479ef08-8fac-5f63-a6bc-94ff9eeea57b",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "80g Plain Flour",
+          "quantity": 80.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 80.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "bfb84533-53f5-5466-a150-442d1be24006",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 tsp Baking Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "86e80617-a797-5c17-a62f-ffb6441f1bd7",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "225g Caster Sugar",
+          "quantity": 225.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 225.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "fc2014ef-af6b-55d3-99ae-c6a3cde2faa8",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "4 Egg",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "7b7cd057-c81e-5e7a-8f7d-8495c49013bb",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1 tsp Vanilla Extract",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "b1c2cea8-7a03-5f0e-a1a7-f7ee3d693676",
+          "ingredient_id": "c3b952d9-9879-569e-a989-b29a9b7ec664",
+          "name": "icing sugar",
+          "display_text": "100g Icing Sugar",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "79a7cda4-10bf-526f-939e-55ca4f612cd1",
+          "ingredient_id": "46a7c18d-4f96-5454-b9fa-a262e8226782",
+          "name": "mascarpone",
+          "display_text": "250g Mascarpone",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "4f137811-6731-5815-aad9-ac760b4ea883",
+          "ingredient_id": "81b5723b-47de-5017-987f-cdcc95dd362b",
+          "name": "double cream",
+          "display_text": "200ml Double Cream",
+          "quantity": 200.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "e42850ee-d03f-5530-990e-392a3728edf0",
+          "ingredient_id": "cd447916-33cf-55a9-94ac-2cb305b2b82c",
+          "name": "pistachio paste",
+          "display_text": "100g Pistachio Paste",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "7adee396-b2c9-5a88-a8b3-0610f1bcd99c",
+          "ingredient_id": "51e91b52-f7fc-5c02-9971-241fdb8abe3c",
+          "name": "raspberries",
+          "display_text": "400g Raspberries",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "84f3062a-a972-599f-b878-529de595089b",
+          "ingredient_id": "ea12f26a-7b44-57af-b77c-1bd21200a276",
+          "name": "unwaxed lime",
+          "display_text": "1 Unwaxed Lime",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oven to 180C/160C fan/gas 4. Butter and line a 23cm springform cake tin. Tip 150g of the pistachios into a food processor and blitz until finely ground. Tip into a bowl and mix in the flour, baking powder and pinch of salt. Beat the butter and sugar in a separate bowl until fluffy and pale, around 5 mins. Crack in the eggs one at a time, beating well for 1 min after each addition, until they have all been added. Beat in the vanilla, then fold in the flour mixture gently. Carefully spoon into the prepared tin and bake for 35-40 mins until a skewer inserted into the middle comes out clean. Set aside to cool completely on a wire rack in the tin.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "88456d05-8fee-5067-b932-aa34b2318526",
+        "109d44f9-0456-5e06-b8fa-4117ac10dc9a",
+        "bfb84533-53f5-5466-a150-442d1be24006"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Meanwhile, sift the icing sugar into a bowl, then tip in the mascarpone, double cream and pistachio paste. Beat until well combined, then set aside in the fridge for 20-30 mins to thicken to a spooning consistency.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "109d44f9-0456-5e06-b8fa-4117ac10dc9a",
+        "b1c2cea8-7a03-5f0e-a1a7-f7ee3d693676",
+        "79a7cda4-10bf-526f-939e-55ca4f612cd1",
+        "4f137811-6731-5815-aad9-ac760b4ea883",
+        "e42850ee-d03f-5530-990e-392a3728edf0"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Cut the cooled cake in half horizontally using a serrated knife, so you have two layers. Put the bottom layer on a plate or cake stand and spread over a generous spoonful of the pistachio cream. Top with a generous handful of the raspberries so the cake is covered. Top with the other sponge half, then cover the top and sides of the cake with the remaining cream. Scatter over the last of the raspberries, the remaining pistachios and the lime zest to serve. Will keep chilled in an airtight container for two days.",
+      "ingredients_used": [
+        "109d44f9-0456-5e06-b8fa-4117ac10dc9a",
+        "7adee396-b2c9-5a88-a8b3-0610f1bcd99c",
+        "84f3062a-a972-599f-b878-529de595089b"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/pistachio-cake"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

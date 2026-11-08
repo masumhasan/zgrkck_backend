@@ -1,0 +1,187 @@
+{
+  "id": "f7c6c434-4e2a-5bb2-8595-8cec4d16d1ed",
+  "version": "1.0.0",
+  "title": "Squash linguine",
+  "slug": "squash-linguine",
+  "summary": "A light Italian pasta dish featuring roasted butternut squash blended into a creamy sauce with garlic and sage.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:44:27Z",
+  "updated_at": "2026-10-16T10:22:49Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52866"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/wxswxy1511452625.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/wxswxy1511452625.jpg/small",
+      "alt_text": "Photo of Squash linguine",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=xHZ-PoGwTLQ"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "5777da00-e671-5ded-9c46-d7577d65960f",
+        "slug": "italian",
+        "name": "Italian"
+      }
+    ],
+    "tags": [
+      "light",
+      "pasta"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 40,
+    "total_time_minutes": 50
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of pasta with squash sauce"
+  },
+  "allergens": {
+    "contains": [
+      "gluten"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "adf17136-1cb5-5f24-93f6-e93a2e917827",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "22e41806-e1b3-5476-b5ed-6c91ed632928",
+          "ingredient_id": "f2a5d81b-c148-52d1-96a6-c8d33709dafc",
+          "name": "butternut squash",
+          "display_text": "350g Butternut Squash",
+          "quantity": 350.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 350.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "19b8635f-7196-562f-bd02-8999d4c39019",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 parts Garlic",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "parts",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "987f5e22-a3a5-5f59-9ffb-318042638e6a",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "3 tbs Olive Oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "79c0e171-360d-5386-ab5e-ea652207b03e",
+          "ingredient_id": "26e0d9c0-a9a9-58f8-8cff-e0c59cad0c6e",
+          "name": "linguine pasta",
+          "display_text": "350g Linguine Pasta",
+          "quantity": 350.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 350.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "68021065-a4de-58eb-8a72-9bc6200ba904",
+          "ingredient_id": "d01f0def-bca6-5c7e-990e-4032fdf6f4c4",
+          "name": "sage",
+          "display_text": "Small bunch Sage",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "small bunch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 200C/180C fan/gas 6. Put the squash and garlic on a baking tray and drizzle with the olive oil. Roast for 35-40 mins until soft. Season.",
+      "timer_seconds": 2400,
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "22e41806-e1b3-5476-b5ed-6c91ed632928",
+        "19b8635f-7196-562f-bd02-8999d4c39019",
+        "987f5e22-a3a5-5f59-9ffb-318042638e6a"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Cook the pasta according to pack instructions. Drain, reserving the water. Use a stick blender to whizz the squash with 400ml cooking water. Heat some oil in a frying pan, fry the sage until crisp, then drain on kitchen paper. Tip the pasta and sauce into the pan and warm through. Scatter with sage.",
+      "ingredients_used": [
+        "22e41806-e1b3-5476-b5ed-6c91ed632928",
+        "79c0e171-360d-5386-ab5e-ea652207b03e",
+        "68021065-a4de-58eb-8a72-9bc6200ba904"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/creamy-squash-linguine"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

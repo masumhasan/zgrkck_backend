@@ -1,0 +1,178 @@
+{
+  "id": "c00f6dac-6189-5d4c-8936-bccb6179893c",
+  "version": "1.0.0",
+  "title": "Raspberry mousse",
+  "slug": "raspberry-mousse",
+  "summary": "A light and airy Polish dessert made from a raspberry purée folded into whipped cream and set with gelatin.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:22:20Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53303"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/v5jrnn1764362830.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/v5jrnn1764362830.jpg/small",
+      "alt_text": "Photo of Raspberry mousse",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=YbFsvvwcSCw"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d40b0607-0a3a-5f5d-8012-7eaf1b714fa5",
+        "slug": "polish",
+        "name": "Polish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 6,
+    "rest_time_minutes": 360,
+    "total_time_minutes": 376
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 ramekin of mousse"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "ba7517b3-e045-5ecc-86a5-fc015c7a67c4",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "aceeee83-4106-5f74-af07-943b877626c1",
+          "ingredient_id": "aedfe8f7-f59b-5f4c-a5b9-7c1dfcfd8fc7",
+          "name": "gelatine leafs",
+          "display_text": "2 Gelatine Leafs",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "11a1ba08-9c63-588e-9a16-683eed5b4c96",
+          "ingredient_id": "51e91b52-f7fc-5c02-9971-241fdb8abe3c",
+          "name": "raspberries",
+          "display_text": "350g Raspberries",
+          "quantity": 350.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 350.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "8b13876c-8ecf-576b-916c-35903460970b",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "60g Caster Sugar",
+          "quantity": 60.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "101e306f-acb4-5faa-a9af-781f9935c5b1",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "Juice of 1 Lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "95028ece-bf48-574f-b6b5-a2bd8d1c8cd4",
+          "ingredient_id": "ff546e66-3df1-5c50-bf15-42f51d91ab80",
+          "name": "whipping cream",
+          "display_text": "500ml Whipping Cream",
+          "quantity": 500.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Put the gelatine leaves in a bowl, cover with warm water and leave to soak for 5 mins. Drain and squeeze out any excess water.",
+      "timer_seconds": 300
+    },
+    {
+      "step_number": 2,
+      "instruction": "Tip the raspberries into a pan over a medium-low heat along with the sugar and lemon juice. Cook for 5-6 mins until the berries have completely broken down. Push the mixture through a sieve set over a bowl, discarding the seeds. Stir in the gelatine leaves until dissolved (if they don’t dissolve, pour the mixture into a clean saucepan and heat gently until dissolved). Set aside to cool for 15 mins.",
+      "ingredients_used": [
+        "11a1ba08-9c63-588e-9a16-683eed5b4c96",
+        "101e306f-acb4-5faa-a9af-781f9935c5b1"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Whip the cream to soft peaks using an electric whisk, then gently fold this into the raspberry mixture. Spoon into the ramekins or molds and chill overnight, or for at least 6 hrs. Serve with raspberries scattered over the top.",
+      "timer_seconds": 21600,
+      "ingredients_used": [
+        "11a1ba08-9c63-588e-9a16-683eed5b4c96"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/raspberry-mousse"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

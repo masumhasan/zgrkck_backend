@@ -1,0 +1,294 @@
+{
+  "id": "d4aa18a3-b469-5059-8a7a-e64c68b736b1",
+  "version": "1.0.0",
+  "title": "Piernik (Polish gingerbread)",
+  "slug": "piernik-polish-gingerbread",
+  "summary": "A traditional Polish spiced cake made with honey, warming spices, and plum jam, finished with a rich chocolate and cream glaze.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:21:17Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53292"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/kwmdk41764120884.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/kwmdk41764120884.jpg/small",
+      "alt_text": "Photo of Piernik (Polish gingerbread)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=SGkMAlrTu6g"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d40b0607-0a3a-5f5d-8012-7eaf1b714fa5",
+        "slug": "polish",
+        "name": "Polish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 55,
+    "rest_time_minutes": 20,
+    "total_time_minutes": 95
+  },
+  "yield": {
+    "servings": 10,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 slice of cake"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": [
+      "soy"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "12b45c79-f5db-525e-801a-f8ede888a7e0",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "1f2774f5-1800-5916-9b44-3801e9b3600c",
+          "ingredient_id": "bc46b2a6-8a59-50ee-a044-ce38bddb125c",
+          "name": "unsalted butter",
+          "display_text": "140g Unsalted Butter",
+          "quantity": 140.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 140.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "6d8094fd-2dc5-526f-aa1b-c67af176141f",
+          "ingredient_id": "590d0a0c-0a81-5fad-964b-7ade1eb4020d",
+          "name": "clear honey",
+          "display_text": "300g Clear Honey",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "caf243d0-bf48-5691-b47e-fe74219e0153",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "100g Brown Sugar",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "160e1a1e-1eca-571f-ad56-1c86a41f523f",
+          "ingredient_id": "d923f6bd-1129-51bf-ba9e-32b3305fa65e",
+          "name": "self-raising flour",
+          "display_text": "375g Self-raising Flour",
+          "quantity": 375.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 375.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "06243281-7cc3-5a62-8a73-4db2a0af5364",
+          "ingredient_id": "9c72d0cf-8d9c-53f6-b4c6-5631779ba66b",
+          "name": "ground ginger",
+          "display_text": "3 tsp Ground Ginger",
+          "quantity": 3.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "5b5aa31b-db61-53b0-a01c-1a31301691d8",
+          "ingredient_id": "7af3c207-3c37-5965-a096-bf34ac1db1f4",
+          "name": "ground cinnamon",
+          "display_text": "1 tsp Ground Cinnamon",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "dcf3a21a-ca31-5f30-9e39-028b4a3d03cd",
+          "ingredient_id": "d64811b1-6728-5fc6-a570-f549062b0737",
+          "name": "ground clove",
+          "display_text": "1/2 teaspoon Ground Clove",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "396b45d8-cd9a-59e9-9147-00f2196ac675",
+          "ingredient_id": "43fdd2fd-26e3-5e32-af4b-0c63a027d37c",
+          "name": "ground nutmeg",
+          "display_text": "1/4 tsp Ground Nutmeg",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "2994f5d8-80cd-5308-9dc1-8a2364aa960f",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "1/4 tsp Pepper",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "bc0ff3ae-2001-534e-9148-7df27340993d",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "3 Large Egg",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "0fa9a638-e9c0-5bfa-a1cd-861b217b9fcc",
+          "ingredient_id": "0a21c1c1-961f-5ec6-b3df-08f7c27394ee",
+          "name": "plum jam",
+          "display_text": "200g Plum Jam",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "condiments"
+        },
+        {
+          "id": "4f4135db-091c-5586-a0ac-9e0d060e179a",
+          "ingredient_id": "81b5723b-47de-5017-987f-cdcc95dd362b",
+          "name": "double cream",
+          "display_text": "225ml Double Cream",
+          "quantity": 225.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 225.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "68d864f9-cffe-5d82-97cf-7f92dd5d0d10",
+          "ingredient_id": "f553aca9-844a-5f4f-ba77-363733c03112",
+          "name": "dark chocolate",
+          "display_text": "140g Dark Chocolate",
+          "quantity": 140.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 140.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "5a60521d-3a6e-5c75-ba6c-76265c1b8c9c",
+          "ingredient_id": "590d0a0c-0a81-5fad-964b-7ade1eb4020d",
+          "name": "clear honey",
+          "display_text": "3  tablespoons Clear Honey",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 160C/140C fan/gas 3. Grease and line the base and sides of a deep 20cm cake tin with baking parchment. Put the honey, sugar and butter in a medium saucepan and cook over a medium heat until fully melted. Remove from the heat and allow to cool. Put the flour and spices in a large bowl and mix everything together.",
+      "temperature": {
+        "value": 160,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "1f2774f5-1800-5916-9b44-3801e9b3600c",
+        "6d8094fd-2dc5-526f-aa1b-c67af176141f",
+        "5a60521d-3a6e-5c75-ba6c-76265c1b8c9c"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Once the liquid ingredients have cooled, whisk in the eggs. Pour over the dry ingredients, whisking them together to form a smooth batter – be careful not to overmix as this can lead to a dry cake. Pour into the prepared tin and bake for 50-55 mins or until risen and a skewer inserted into the middle of the cake comes out clean. Allow the cake to cool in the pan for 20 mins before turning out onto a wire rack to cool completely."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Once cooled, use a large serrated knife to slice the cake into 3 layers. Spread the jam across the 2 bottom cake layers, then reassemble the cake and set aside while you make the glaze. Put the cream, chocolate and honey in a medium pan and cook over a low-medium heat until the chocolate is melted and you have a smooth, pourable mixture. Put the cake on a wire rack set over a parchment-lined baking tray and pour over the glaze, making sure to cover the entire cake. Use a fish slice to carefully transfer the cake to a serving plate and allow the glaze to set. To decorate, dust with a little edible gold powder, if you like. Uniced, this cake will keep for up to 5 days. Once iced, enjoy within 3 days – just keep in the fridge, but remove before serving and eat at room temperature.",
+      "ingredients_used": [
+        "6d8094fd-2dc5-526f-aa1b-c67af176141f",
+        "68d864f9-cffe-5d82-97cf-7f92dd5d0d10",
+        "5a60521d-3a6e-5c75-ba6c-76265c1b8c9c"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/piernik-polish-gingerbread"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "id": "98f99dd9-3b8f-5c15-89a8-9b5a290ae8fc",
+  "version": "1.0.0",
+  "title": "Chocolate Gateau",
+  "slug": "chocolate-gateau",
+  "summary": "A rich French chocolate cake made with melted chocolate, butter, eggs, and flour.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:37:05Z",
+  "updated_at": "2026-10-16T10:22:43Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52776"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/tqtywx1468317395.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/tqtywx1468317395.jpg/small",
+      "alt_text": "Photo of Chocolate Gateau",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=dsJtgmAhFF4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "fe8f07a1-591f-5711-ae5b-f3c9afcc3e60",
+        "slug": "french",
+        "name": "French"
+      }
+    ],
+    "tags": [
+      "cake",
+      "chocolate",
+      "desert",
+      "pudding"
+    ],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 55,
+    "rest_time_minutes": 10,
+    "total_time_minutes": 80
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 slice of cake"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "607dba04-bf4b-55b3-9ad4-6c9978a1ddcc",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "db2ba683-a7a1-5cb0-a5cb-c6f33a80da32",
+          "ingredient_id": "5249cdcb-b4e9-58d9-b02d-ab4627bed87e",
+          "name": "plain chocolate",
+          "display_text": "250g Plain chocolate",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "5c4efba3-d3fa-59d4-8a39-a84afdb380f8",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "175g Butter",
+          "quantity": 175.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 175.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "68f0c45f-fa13-5df6-9e74-5599cc6a81d9",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "2 tablespoons Milk",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "9374c15c-a26f-5aa6-b393-98912c5f7d31",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "5 Eggs",
+          "quantity": 5.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "93816209-2c44-5301-932e-bdc7dd4c1222",
+          "ingredient_id": "585e8c07-6f6b-5618-a220-3f1795eaa043",
+          "name": "granulated sugar",
+          "display_text": "175g Granulated Sugar",
+          "quantity": 175.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 175.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "e2857f25-d1b1-5758-ab00-277f37de95cc",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "125g Flour",
+          "quantity": 125.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 125.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat the oven to 180°C/350°F/Gas Mark 4. Grease and line the base of an 8 in round spring form cake tin with baking parchment",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "Break the chocolate into a heatproof bowl and place over a saucepan of gently simmering water and stir until it melts. (or melt in the microwave for 2-3 mins stirring occasionally)",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "db2ba683-a7a1-5cb0-a5cb-c6f33a80da32"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Place the butter and sugar in a mixing bowl and cream together with a wooden spoon until light and fluffy. Gradually beat in the eggs, adding a little flour if the mixture begins to curdle. Fold in the remaining flour with the cooled, melted chocolate and milk. Mix until smooth.",
+      "ingredients_used": [
+        "db2ba683-a7a1-5cb0-a5cb-c6f33a80da32",
+        "5c4efba3-d3fa-59d4-8a39-a84afdb380f8",
+        "68f0c45f-fa13-5df6-9e74-5599cc6a81d9",
+        "9374c15c-a26f-5aa6-b393-98912c5f7d31",
+        "e2857f25-d1b1-5758-ab00-277f37de95cc"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Spread the mixture into the cake tin and bake for 50-55 mins or until firm in the center and a skewer comes out cleanly. Cool for 10 minutes, then turn out and cool completely."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://www.goodtoknow.co.uk/recipes/536028/chocolate-gateau"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

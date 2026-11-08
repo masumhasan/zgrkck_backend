@@ -1,0 +1,212 @@
+{
+  "id": "58d87886-2ca1-5564-a021-562911093db4",
+  "version": "1.0.0",
+  "title": "Spicy Arrabiata Penne",
+  "slug": "spicy-arrabiata-penne",
+  "summary": "A spicy Italian pasta dish featuring penne tossed in a tomato-based sauce seasoned with garlic, red chili flakes, and Italian herbs.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:36:50Z",
+  "updated_at": "2026-10-16T10:22:43Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52771"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg/small",
+      "alt_text": "Photo of Spicy Arrabiata Penne",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=1IszT_guI08"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "5777da00-e671-5ded-9c46-d7577d65960f",
+        "slug": "italian",
+        "name": "Italian"
+      }
+    ],
+    "tags": [
+      "curry",
+      "pasta"
+    ],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 16,
+    "total_time_minutes": 21
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of pasta"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "20c9c52d-6213-5a74-963a-54a50b0da935",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "d555c0a4-b9be-5fbf-9f9f-147f8e6cb9d3",
+          "ingredient_id": "c9caadad-7fd0-589a-8db2-ef5d45e59e16",
+          "name": "penne rigate",
+          "display_text": "1 pound penne rigate",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "bcad7ba8-0b9c-577e-8b1d-cfe544e9c9d4",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1/4 cup olive oil",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "cec707bb-e2c9-511e-8d82-eee7fe2c3d35",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 cloves garlic",
+          "quantity": 3.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3ae78049-9eec-5b96-9823-74ad96468541",
+          "ingredient_id": "f55fd16d-cf7d-508e-a734-bd6e6a65e05a",
+          "name": "chopped tomatoes",
+          "display_text": "1 tin chopped tomatoes",
+          "quantity": 1.0,
+          "unit": "can",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "91245e3a-4e8a-5de2-9f58-e69c707b2493",
+          "ingredient_id": "61117efd-62b4-5061-a850-7dc99f502de3",
+          "name": "red chilli flakes",
+          "display_text": "1/2 teaspoon red chilli flakes",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d3bd5415-b6c6-54a0-b069-7e6d6eb07c56",
+          "ingredient_id": "e2bd7f4d-b4f2-51a0-be2d-6fc6b162e817",
+          "name": "italian seasoning",
+          "display_text": "1/2 teaspoon italian seasoning",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "681aa42d-d31b-580b-9261-06501086e540",
+          "ingredient_id": "fc6a825e-e02a-589c-91d6-b4e76ccc6354",
+          "name": "basil",
+          "display_text": "6 leaves basil",
+          "quantity": 6.0,
+          "unit": "leaf",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e5945425-898a-587c-aaa2-62e8140b4743",
+          "ingredient_id": "25f4da40-ddca-579a-87d5-4442d3ac2c80",
+          "name": "parmigiano-reggiano",
+          "display_text": "sprinkling Parmigiano-Reggiano",
+          "quantity": 1,
+          "unit": "sprinkling",
+          "is_optional": false,
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Bring a large pot of water to a boil. Add kosher salt to the boiling water, then add the pasta. Cook according to the package instructions, about 9 minutes.",
+      "timer_seconds": 540
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a large skillet over medium-high heat, add the olive oil and heat until the oil starts to shimmer. Add the garlic and cook, stirring, until fragrant, 1 to 2 minutes. Add the chopped tomatoes, red chile flakes, Italian seasoning and salt and pepper to taste. Bring to a boil and cook for 5 minutes. Remove from the heat and add the chopped basil.",
+      "ingredients_used": [
+        "bcad7ba8-0b9c-577e-8b1d-cfe544e9c9d4",
+        "cec707bb-e2c9-511e-8d82-eee7fe2c3d35",
+        "3ae78049-9eec-5b96-9823-74ad96468541",
+        "d3bd5415-b6c6-54a0-b069-7e6d6eb07c56",
+        "681aa42d-d31b-580b-9261-06501086e540"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Drain the pasta and add it to the sauce. Garnish with Parmigiano-Reggiano flakes and more basil and serve warm.",
+      "ingredients_used": [
+        "681aa42d-d31b-580b-9261-06501086e540",
+        "e5945425-898a-587c-aaa2-62e8140b4743"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "id": "8f9331fc-198d-5ac0-a3aa-99855c733486",
+  "version": "1.0.0",
+  "title": "Arepa",
+  "slug": "arepa",
+  "summary": "Arepas are traditional cornmeal cakes that are shaped into rounds, cooked in a skillet, and finished in the oven until hollow-sounding.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:34:12Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53439"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ejht7k1780092390.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ejht7k1780092390.jpg/small",
+      "alt_text": "Photo of Arepa",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/shorts/n6h5GwO6UpQ"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "0582bdef-9340-5f24-b48f-1bf7f5f392ac",
+        "slug": "aruban",
+        "name": "Aruban"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "snack",
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 25,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "pieces",
+    "serving_size_description": "2 arepas"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "f32bfb42-bc2e-5cac-b614-ecd789a4a19d",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "8adf3c80-373e-5183-8404-aabb31cafc7c",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "692a7d25-589e-57cf-8e77-316bfe0a4a76",
+          "ingredient_id": "94f73465-e9e4-5ae0-8787-ee86687dbeb4",
+          "name": "corn flour",
+          "display_text": "1 cup Corn Flour",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "f5c14392-09c1-591e-8c7e-6645b67464e9",
+          "ingredient_id": "390767a5-b5bd-56c6-93dd-03bf9dcc5356",
+          "name": "warm water",
+          "display_text": "1 1/4 cup Warm Water",
+          "quantity": 1.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Put the corn flour in a bowl and add the salted water little by little, mixing with the flour until all the water has been used and the flour has become a dough. Let it rest for five minutes. Now, shape the dough into round rolls about 3 inches in diameter and 1/2 inch thick. In a lightly greased skillet, slowly cook the arepas until a crust forms on each side. Now place them into a casserole and bake in the oven at 350 degrees for approximately 20 minutes, until the arepas sound hollow when tapped.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "8adf3c80-373e-5183-8404-aabb31cafc7c",
+        "692a7d25-589e-57cf-8e77-316bfe0a4a76"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "To enhance taste: instead of using just water, use chicken or beef broth."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.visitaruba.com/aruba-recipes/arepa/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

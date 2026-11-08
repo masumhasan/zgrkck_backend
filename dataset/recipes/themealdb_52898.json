@@ -1,0 +1,342 @@
+{
+  "id": "7e630996-172b-5c26-98d3-d74d2f718e7d",
+  "version": "1.0.0",
+  "title": "Chelsea Buns",
+  "slug": "chelsea-buns",
+  "summary": "Chelsea buns are a classic British sweet yeast bread roll filled with dried fruit, cinnamon, and sugar, finished with a sweet milk glaze.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:47:13Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52898"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/vqpwrv1511723001.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/vqpwrv1511723001.jpg/small",
+      "alt_text": "Photo of Chelsea Buns",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=i_zemP3yBKw"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "baking",
+      "bun",
+      "treat"
+    ],
+    "meal_types": [
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "afternoon_snack"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 25,
+    "rest_time_minutes": 90,
+    "total_time_minutes": 135
+  },
+  "yield": {
+    "servings": 10,
+    "serving_unit": "bowls"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery"
+    ],
+    "may_contain": [
+      "sulfites"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "f7aa6663-61cc-5383-86f0-1a3084062d11",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "2b6566fa-168e-5cb5-a9db-585a109506b8",
+          "ingredient_id": "7080ab13-7811-5401-855c-d7c286f5e336",
+          "name": "white flour",
+          "display_text": "500g White Flour",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "26504baa-5235-52c1-9832-e5d99483299a",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "8253b58a-4820-5bf7-8136-a00da57cd31a",
+          "ingredient_id": "28b21302-909b-59d3-a88f-a543e26ac34f",
+          "name": "yeast",
+          "display_text": "7g Yeast",
+          "quantity": 7.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 7.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "4dada9b3-b97d-5865-8113-099d1b62e209",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "300ml Milk",
+          "quantity": 300.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "3d1d9148-c4b4-5789-8b8c-e651ab38f645",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "40g Butter",
+          "quantity": 40.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 40.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "7cf75074-0b37-5f18-b90f-330901e6085f",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "1 Eggs",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "01090ca1-95d6-5d08-a457-9647fc44736b",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "Dash Vegetable Oil",
+          "quantity": 1,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "bef7226e-3341-5934-9adf-9e8158a57dbc",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "25g Butter",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "4ee94814-118d-5dd1-ae06-aeb52c4743d2",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "75g Brown Sugar",
+          "quantity": 75.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "1fcd32e4-c6a8-52b9-84e9-a7c102123e4c",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "2 tsp Cinnamon",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "29f55fa7-de93-51e1-8b70-76994e3f8915",
+          "ingredient_id": "33970a63-f64a-5f70-88ea-3a468c975ae6",
+          "name": "dried fruit",
+          "display_text": "150g Dried Fruit",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "c03fd54d-e309-529a-8cee-7d82fc48ed5d",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "2 tbs Milk",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "064d8ac5-05e7-5a19-ab3e-1257cf2640c9",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "2 tbs Caster Sugar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Sift the flour and salt into a large bowl. Make a well in the middle and add the yeast.",
+      "ingredients_used": [
+        "26504baa-5235-52c1-9832-e5d99483299a",
+        "8253b58a-4820-5bf7-8136-a00da57cd31a"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Meanwhile, warm the milk and butter in a saucepan until the butter melts and the mixture is lukewarm.",
+      "ingredients_used": [
+        "4dada9b3-b97d-5865-8113-099d1b62e209",
+        "3d1d9148-c4b4-5789-8b8c-e651ab38f645",
+        "bef7226e-3341-5934-9adf-9e8158a57dbc",
+        "c03fd54d-e309-529a-8cee-7d82fc48ed5d"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the milk mixture and egg to the flour mixture and stir until the contents of the bowl come together as a soft dough. (You may need to add a little extra flour.)",
+      "ingredients_used": [
+        "4dada9b3-b97d-5865-8113-099d1b62e209",
+        "c03fd54d-e309-529a-8cee-7d82fc48ed5d"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Tip the dough onto a generously floured work surface. Knead for five minutes, adding more flour if necessary, until the dough is smooth and elastic and no longer feels sticky."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Lightly oil a bowl with a little of the vegetable oil. Place the dough into the bowl and turn until it is covered in the oil. Cover the bowl with cling film and set aside in a warm place for one hour, or until the dough has doubled in size.",
+      "ingredients_used": [
+        "01090ca1-95d6-5d08-a457-9647fc44736b"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Lightly grease a baking tray."
+    },
+    {
+      "step_number": 7,
+      "instruction": "For the filling, knock the dough back to its original size and turn out onto a lightly floured work surface. Roll the dough out into a rectangle 0.5cm/¼in thick. Brush all over with the melted butter, then sprinkle over the brown sugar, cinnamon and dried fruit.",
+      "ingredients_used": [
+        "3d1d9148-c4b4-5789-8b8c-e651ab38f645",
+        "bef7226e-3341-5934-9adf-9e8158a57dbc",
+        "4ee94814-118d-5dd1-ae06-aeb52c4743d2",
+        "1fcd32e4-c6a8-52b9-84e9-a7c102123e4c",
+        "29f55fa7-de93-51e1-8b70-76994e3f8915"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Roll the dough up into a tight cylinder , cut ten 4cm/1½in slice and place them onto a lightly greased baking sheet, leaving a little space between each slice. Cover with a tea towel and set aside to rise for 30 minutes.",
+      "timer_seconds": 1800
+    },
+    {
+      "step_number": 9,
+      "instruction": "Preheat oven to 190C/375F/Gas 5.",
+      "temperature": {
+        "value": 190,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 10,
+      "instruction": "Bake the buns in the oven for 20-25 minutes, or until risen and golden-brown.",
+      "timer_seconds": 1500
+    },
+    {
+      "step_number": 11,
+      "instruction": "Meanwhile, for the glaze, heat the milk and sugar in a saucepan until boiling. Reduce the heat and simmer for 2-3 minutes.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "4dada9b3-b97d-5865-8113-099d1b62e209",
+        "c03fd54d-e309-529a-8cee-7d82fc48ed5d"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Remove the buns from the oven and brush with the glaze, then set aside to cool on a wire rack."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbc.co.uk/food/recipes/chelsea_buns_95015"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

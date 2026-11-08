@@ -1,0 +1,227 @@
+{
+  "id": "21ddcea7-767d-5468-ae98-95e8d7dc60fb",
+  "version": "1.0.0",
+  "title": "Rosemary braised red cabbage with kabanos",
+  "slug": "rosemary-braised-red-cabbage-with-kabanos",
+  "summary": "Red cabbage is braised with red onions, apples, and rosemary in a sweet and sour liquid, finished with sliced kabanos sausages.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:23:26Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53315"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/s1jxzl1764369317.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/s1jxzl1764369317.jpg/small",
+      "alt_text": "Photo of Rosemary braised red cabbage with kabanos",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "e00f83fa-fc1f-5fa7-b77b-c52fa0a57fe1",
+        "slug": "ukrainian",
+        "name": "Ukrainian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course",
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 120,
+    "total_time_minutes": 135
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of cabbage and 2 sausages"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "sulfites"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "a05e2431-e3c5-5b5e-97aa-8ec948ff3aea",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "6a741e15-04f6-5d57-856c-1d2466f5b8df",
+          "ingredient_id": "93adfa8e-dfee-5a44-825f-075c81b606db",
+          "name": "red cabbage",
+          "display_text": "1/2 Red Cabbage",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "9d82b947-934b-5b8c-84df-7928b65b4b7c",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 tablespoon Olive Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "458bb821-230d-5a36-849d-0e2734f8283a",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "Knob Butter",
+          "quantity": 1,
+          "unit": "knob",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "676c5b38-0ecd-5613-bbc8-ef60fa9ecb8f",
+          "ingredient_id": "716f7639-3b59-56a7-9146-1819649ebdad",
+          "name": "red onions",
+          "display_text": "1 sliced Red Onions",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ee824d8a-7290-57f1-aaf8-7793ce4a4169",
+          "ingredient_id": "38df984b-29a1-5431-8935-d850dfe8f8f7",
+          "name": "red wine vinegar",
+          "display_text": "125ml Red Wine Vinegar",
+          "quantity": 125.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 125.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "3790befa-70fe-5b9d-969d-5095ec1f8d61",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "140g Brown Sugar",
+          "quantity": 140.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 140.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "dc07a0da-1933-582f-8dc1-841bbed42530",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "1 chopped Red Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "019704ba-22be-597a-882f-0bbe872299fc",
+          "ingredient_id": "b0bbff87-223e-5a9c-aa07-1ee472617b84",
+          "name": "rosemary",
+          "display_text": "2 sprigs Rosemary",
+          "quantity": 2.0,
+          "unit": "sprig",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "cff3ba6e-9453-5bf1-a28d-1578b8026beb",
+          "ingredient_id": "a5429717-646c-519b-9cd6-e52407f5b361",
+          "name": "bramley apples",
+          "display_text": "1 chopped Bramley Apples",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "151db4d0-3cf0-5f72-a9dd-4f04daad74d9",
+          "ingredient_id": "2c292589-8376-5fff-bf76-55b18710ed58",
+          "name": "kabanos sausages",
+          "display_text": "8 Kabanos Sausages",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Halve the cabbage, remove the tough stem and thinly slice. Place in a large pan with all the other ingredients apart from the sausages, then mix in 300ml water and some salt and pepper.",
+      "ingredients_used": [
+        "6a741e15-04f6-5d57-856c-1d2466f5b8df",
+        "151db4d0-3cf0-5f72-a9dd-4f04daad74d9"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Bring to a simmer, then reduce the heat, cover with a well-fitting lid and gently cook for 1½ hrs, stirring frequently. If too dry, you can add a little more water."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the kabanos to the cabbage mixture, place a lid on the pan and gently simmer for 20 mins. Remove the lid and cook for a further 10 mins. Serve alongside some simple mash or boiled potatoes.",
+      "ingredients_used": [
+        "6a741e15-04f6-5d57-856c-1d2466f5b8df"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/rosemary-braised-red-cabbage-kabanos"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

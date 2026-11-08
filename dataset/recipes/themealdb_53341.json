@@ -1,0 +1,309 @@
+{
+  "id": "540686a7-0544-57ff-8b3b-50d8942c868b",
+  "version": "1.0.0",
+  "title": "Flapper Pie",
+  "slug": "flapper-pie",
+  "summary": "A Canadian dessert pie featuring a graham cracker crust, a creamy vanilla custard filling, and a toasted meringue topping.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:25:51Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53341"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/6ht8141764786479.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/6ht8141764786479.jpg/small",
+      "alt_text": "Photo of Flapper Pie",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ALTeJItoxHg"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "54838e2c-2c59-558b-8932-e019f7cc6d0c",
+        "slug": "canadian",
+        "name": "Canadian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 20,
+    "rest_time_minutes": 120,
+    "total_time_minutes": 160
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 slice of pie"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "d66c214a-c2b4-5a1d-a9b5-e2c89c92e0e4",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "0ed08962-d92d-5c60-ad77-6a41a629dace",
+          "ingredient_id": "ff2d5ddc-0cf1-5050-837b-f316ad51dc29",
+          "name": "graham cracker crumbs",
+          "display_text": "1 1/2 cups Graham Cracker Crumbs",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "08f4b3ae-26bd-5a1c-9fa5-8da217982ab4",
+          "ingredient_id": "824a7073-84ed-52c2-97ef-4d532cabeb6d",
+          "name": "melted butter",
+          "display_text": "6 tablespoons Melted Butter",
+          "quantity": 6.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 90.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "5dd431ac-1070-517a-8253-e4c007fb5a4a",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1/2 cup Sugar",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "ed91e9bb-ecfc-5389-a4a5-786a1da3a245",
+          "ingredient_id": "7af3c207-3c37-5965-a096-bf34ac1db1f4",
+          "name": "ground cinnamon",
+          "display_text": "1/2 tsp Ground Cinnamon",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "5fe4f800-da7d-5f4d-a222-64da73178e81",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "2 1/2 cups Milk",
+          "quantity": 2.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 600.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "343dc4fd-4652-566a-b7af-2fa67b4d0e35",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1/2 cup Sugar",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "0d1f842e-2db4-5a00-9509-d1deb6863410",
+          "ingredient_id": "4bdb1684-cdb6-5a8f-b220-c622cf2655cc",
+          "name": "cornstarch",
+          "display_text": "1/4 cup Cornstarch",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "ff7083c7-c388-55c6-ae9b-83234fbb73b5",
+          "ingredient_id": "051a3118-01a4-5366-a922-19ecf618e2f9",
+          "name": "egg yolks",
+          "display_text": "3 Egg Yolks",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "f43b9b20-e5d5-5f0b-ad18-a5f7debe4c8e",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1 tsp Vanilla Extract",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "fd1ef523-5c8b-5796-9f32-26aace06ae60",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/4 tsp Salt",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "d816c1ac-9447-5fe2-983c-d922f3d674f7",
+          "ingredient_id": "87c4a7ca-7b0e-5143-aea3-d01ad00e4108",
+          "name": "egg white",
+          "display_text": "3 Egg White",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "3fcf5e42-1264-5652-9947-c9b0160f6215",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1/4 cup Sugar",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "55ef66b5-1f09-5bac-975b-7a2661b9064b",
+          "ingredient_id": "24801e47-a1f1-59e1-862b-b017aad0eff2",
+          "name": "cream of tartar",
+          "display_text": "1/4 tsp Cream Of Tartar",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat the oven to 350˚F."
+    },
+    {
+      "step_number": 2,
+      "instruction": "Mix all the crust ingredients (graham cracker crumbs, melted butter, granulated sugar and ground cinnamon) in a medium bowl. Set aside about 2 Tbsp (30 mL) for later and press the mixture into a 9-inch deep-dish pie plate in the bottom and up the sides. Bake crust for 10 minutes, it will only brown slightly.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "0ed08962-d92d-5c60-ad77-6a41a629dace",
+        "08f4b3ae-26bd-5a1c-9fa5-8da217982ab4",
+        "5dd431ac-1070-517a-8253-e4c007fb5a4a",
+        "ed91e9bb-ecfc-5389-a4a5-786a1da3a245",
+        "343dc4fd-4652-566a-b7af-2fa67b4d0e35",
+        "3fcf5e42-1264-5652-9947-c9b0160f6215"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Combine the vanilla custard filling ingredients (milk, granulated sugar, cornstarch, egg yolks, vanilla extract and salt together) and cook on medium heat, stirring constantly, until it bubbles and thickens to the texture of pudding. Set aside to cool while you make the meringue topping.",
+      "ingredients_used": [
+        "5dd431ac-1070-517a-8253-e4c007fb5a4a",
+        "5fe4f800-da7d-5f4d-a222-64da73178e81",
+        "343dc4fd-4652-566a-b7af-2fa67b4d0e35",
+        "0d1f842e-2db4-5a00-9509-d1deb6863410",
+        "ff7083c7-c388-55c6-ae9b-83234fbb73b5",
+        "f43b9b20-e5d5-5f0b-ad18-a5f7debe4c8e",
+        "fd1ef523-5c8b-5796-9f32-26aace06ae60",
+        "3fcf5e42-1264-5652-9947-c9b0160f6215"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "In the bowl of a stand mixer fitted with the beater attachment or in a large bowl using an electric mixer beat the meringue ingredients (egg whites, granulated sugar, cream of tartar) together until it holds stiff and glossy peaks.",
+      "ingredients_used": [
+        "5dd431ac-1070-517a-8253-e4c007fb5a4a",
+        "343dc4fd-4652-566a-b7af-2fa67b4d0e35",
+        "d816c1ac-9447-5fe2-983c-d922f3d674f7",
+        "3fcf5e42-1264-5652-9947-c9b0160f6215",
+        "55ef66b5-1f09-5bac-975b-7a2661b9064b"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "To assemble the pie, pour the filling into the crust and top with a thick layer of the meringue, making little spikes that will brown on top. Sprinkle the reserved crumb over the top and place it into the preheated oven."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Bake until the meringue browns, around 10 minutes, making sure to watch it carefully.",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 7,
+      "instruction": "Chill in the fridge and eat within a few hours of baking. This pie is best eaten the same day as the meringue will soften and liquify."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://canadianfoodfocus.org/recipes/classic-canadian-dish-flapper-pie/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

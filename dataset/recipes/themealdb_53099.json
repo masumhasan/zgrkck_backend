@@ -1,0 +1,182 @@
+{
+  "id": "e3e14c60-869e-57b7-8709-b604f02c9395",
+  "version": "1.0.0",
+  "title": "Aussie Burgers",
+  "slug": "aussie-burgers",
+  "summary": "A classic Australian-style burger featuring lean minced steak, beetroot, and rocket served on toasted naan bread with a soured cream and chive dip.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:04:06Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53099"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/44bzep1761848278.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/44bzep1761848278.jpg/small",
+      "alt_text": "Photo of Aussie Burgers",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=pSupybydA_U"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6442c74c-e246-57a7-870b-9366b38050a8",
+        "slug": "australian",
+        "name": "Australian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 6,
+    "total_time_minutes": 21
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 burger on half a naan"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery",
+      "sulfites"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "a3485b67-a40c-5371-9434-ce7ffc79ddaf",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "9bece09e-9342-5974-bb67-7f2df6617e12",
+          "ingredient_id": "eba43be6-5c72-5a37-9eb0-794ab461e075",
+          "name": "lean minced steak",
+          "display_text": "500g Lean Minced Steak",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "705ccc6c-3f1d-5595-b2bf-c2324d3269eb",
+          "ingredient_id": "0e168da4-5716-57ea-9954-88d8f82b7168",
+          "name": "cooked beetroot",
+          "display_text": "100g Cooked Beetroot",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "fc8700f0-7774-57dc-a60a-98672378c74e",
+          "ingredient_id": "77b49c28-b9ef-58e3-ab11-154a34e97eba",
+          "name": "naan bread",
+          "display_text": "2 small Naan Bread",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "6f338682-5ba9-5606-86c2-5f1ce39cf0f6",
+          "ingredient_id": "af2f1a8f-e30f-53b3-838a-093f52d0cd04",
+          "name": "rocket",
+          "display_text": "50g Rocket",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "b5765200-7da7-54fe-9241-06ba5ea4abb5",
+          "ingredient_id": "beb28c13-3a03-58a5-8d33-9d3281e6cf7f",
+          "name": "soured cream and chive dip",
+          "display_text": "4 tablespoons Soured cream and chive dip",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Make the burgers: Tip the meat into a bowl and sprinkle over 1 tsp salt and a good grinding of black pepper.Work with wet hands to mix in the seasoning. Divide into four with your hands and shape into burgers. (It can be frozen at this stage.)"
+    },
+    {
+      "step_number": 2,
+      "instruction": "Sort out your ingredients: Slice the beetroot and split the naan breads.",
+      "ingredients_used": [
+        "705ccc6c-3f1d-5595-b2bf-c2324d3269eb",
+        "fc8700f0-7774-57dc-a60a-98672378c74e"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Toast the naans: Heat a griddle pan or barbecue. Griddle the naans on both sides until lightly toasted and set aside. Add the burgers to the grill or barbecue and cook for 2-3 minutes, then turn and cook the other side for a further 2-3 minutes."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Assemble the dish: Set half a toasted naan on each serving plate and put a pile of rocket on each. Top with a burger, then a few slices of beetroot and a dollop of soured cream. Sprinkle with salt and freshly ground black pepper and serve immediately with a big green salad and chips. A glass of red wine wouldn’t go amiss, either.",
+      "ingredients_used": [
+        "705ccc6c-3f1d-5595-b2bf-c2324d3269eb",
+        "6f338682-5ba9-5606-86c2-5f1ce39cf0f6"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/aussie-burgers"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

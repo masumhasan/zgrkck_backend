@@ -1,0 +1,267 @@
+{
+  "id": "287fa921-bf33-5fb9-ae8d-15fbb898e064",
+  "version": "1.0.0",
+  "title": "Spaghetti Bolognese",
+  "slug": "spaghetti-bolognese",
+  "summary": "A classic Italian meat sauce made with minced beef, mushrooms, and tomatoes, served over spaghetti.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:36:38Z",
+  "updated_at": "2026-10-16T10:22:42Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52770"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/sutysw1468247559.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/sutysw1468247559.jpg/small",
+      "alt_text": "Photo of Spaghetti Bolognese",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=-gF8d-fitkU"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "5777da00-e671-5ded-9c46-d7577d65960f",
+        "slug": "italian",
+        "name": "Italian"
+      }
+    ],
+    "tags": [
+      "meat",
+      "pasta"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": [
+      "weeknight_dinner"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 40,
+    "total_time_minutes": 55
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a large bowl of spaghetti with meat sauce"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "soy",
+      "fish",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "f679842d-0703-57d4-9917-f2ac88130058",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "e0a0aecf-38cb-5db9-8cea-8e3632663cb1",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onions",
+          "display_text": "2 onions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "32ca117f-8b02-560a-88c3-1e0aabd603dc",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1tbsp olive oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "2b9396e5-a52c-532e-aea1-4637c76cc360",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7626e264-2834-581f-86df-3b39afef0e86",
+          "ingredient_id": "ba9778d3-4745-5bee-84f4-d6dfaf1143d9",
+          "name": "lean minced beef",
+          "display_text": "500g lean minced beef",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "afcc806c-e61d-5682-a06d-cd392ed507b6",
+          "ingredient_id": "5031dcf8-ef4a-588f-ae8f-de7c2790dfac",
+          "name": "mushrooms",
+          "display_text": "90g mushrooms",
+          "quantity": 90.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 90.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "a85b815f-0521-5282-aaa0-fb6aa14c7192",
+          "ingredient_id": "23e1101c-9b20-575b-81cd-037dfd7bf307",
+          "name": "dried oregano",
+          "display_text": "1tsp dried oregano",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "ee7e0083-4342-5787-8b07-de69cf754b8e",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomatoes",
+          "display_text": "400g can tomatoes",
+          "quantity": 400.0,
+          "unit": "gram",
+          "preparation": "can",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "91155726-9946-5c25-a7be-516d5d54a356",
+          "ingredient_id": "76d2ad9c-3eb4-5bf1-86f5-daebaa478070",
+          "name": "hot beef stock",
+          "display_text": "300ml hot beef stock",
+          "quantity": 300.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "c5bedc17-1552-55c1-81f0-d51ef9b4c43f",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "1tbsp tomato puree",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "f813590a-dd43-5dc3-b0d7-0d548ef44a2c",
+          "ingredient_id": "31e8f031-3e86-5406-8703-0e73554e2898",
+          "name": "worcestershire sauce",
+          "display_text": "1tbsp worcestershire sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "6c98f435-974f-563c-8962-dfe842f9b81d",
+          "ingredient_id": "d91ee0f1-9526-50eb-9a82-388a6e83d702",
+          "name": "spaghetti",
+          "display_text": "350g spaghetti",
+          "quantity": 350.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 350.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "247c2630-f938-59a8-bbe6-cc2aa6323bc5",
+          "ingredient_id": "416df703-8cf7-5b6e-bc37-86ce7e3fd6da",
+          "name": "parmesan",
+          "display_text": "Topping parmesan",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "topping",
+          "is_optional": false,
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Put the onion and oil in a large pan and fry over a fairly high heat for 3-4 mins. Add the garlic and mince and fry until they both brown. Add the mushrooms and herbs, and cook for another couple of mins.",
+      "timer_seconds": 240,
+      "ingredients_used": [
+        "2b9396e5-a52c-532e-aea1-4637c76cc360",
+        "afcc806c-e61d-5682-a06d-cd392ed507b6"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Stir in the tomatoes, beef stock, tomato ketchup or purée, Worcestershire sauce and seasoning. Bring to the boil, then reduce the heat, cover and simmer, stirring occasionally, for 30 mins.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "7626e264-2834-581f-86df-3b39afef0e86",
+        "ee7e0083-4342-5787-8b07-de69cf754b8e",
+        "f813590a-dd43-5dc3-b0d7-0d548ef44a2c"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Meanwhile, cook the spaghetti in a large pan of boiling, salted water, according to packet instructions. Drain well, run hot water through it, put it back in the pan and add a dash of olive oil, if you like, then stir in the meat sauce. Serve in hot bowls and hand round Parmesan cheese, for sprinkling on top.",
+      "ingredients_used": [
+        "32ca117f-8b02-560a-88c3-1e0aabd603dc",
+        "6c98f435-974f-563c-8962-dfe842f9b81d",
+        "247c2630-f938-59a8-bbe6-cc2aa6323bc5"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

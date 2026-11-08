@@ -1,0 +1,221 @@
+{
+  "id": "2aeabba4-dcb3-5526-a838-55c71e57fa2b",
+  "version": "1.0.0",
+  "title": "Algerian Kefta (Meatballs)",
+  "slug": "algerian-kefta-meatballs",
+  "summary": "Algerian-style meatballs made with ground beef, garlic, and onion, served in a savory tomato-based sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:20:26Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53281"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/8rfd4q1764112993.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/8rfd4q1764112993.jpg/small",
+      "alt_text": "Photo of Algerian Kefta (Meatballs)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=IRadJQNLvPs"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "44067efa-6d33-5eeb-9836-eb49ba7b3e31",
+        "slug": "algerian",
+        "name": "Algerian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 21,
+    "total_time_minutes": 36
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "3 to 4 meatballs with sauce"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "a205e16f-c169-5b3b-8f17-887e764db526",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "6e53840f-0422-531e-8a92-e6d1744a5868",
+          "ingredient_id": "daceaafa-62e0-5268-ab7d-62934c564c72",
+          "name": "ground beef",
+          "display_text": "1 lb Ground Beef",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "cfe977e9-1338-5150-b0ac-ff6996d15b32",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "4 Cloves Crushed Garlic",
+          "quantity": 4.0,
+          "unit": "clove",
+          "preparation": "crushed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7b44cd74-545e-5e02-a48c-9289bd48de9a",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1/2 cup Onion",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "9430f113-8e63-5754-993e-89bfa64121d4",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "16f0fa1c-ae82-5b68-b574-2f2147569fc5",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "To taste Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "5c28ecc4-461a-5e24-ac3c-7256a70b33e1",
+          "ingredient_id": "eef09ba5-f0a8-5d2e-a676-6a71ab7f1fab",
+          "name": "plum tomatoes",
+          "display_text": "3 Plum Tomatoes",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "f52b2fc5-4063-5742-bf69-1d8d39914075",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "1 tsp Parsley",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "52a86933-88e6-5bc4-b7af-128a3849539e",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1/2 cup Water",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Combine ground beef with 1/2 of the minced garlic and 1 tablespoon chopped onion in a large bowl. Mix with your hands until fully incorporated. Shape meat mixture into 1 1/2-inch oblong patties; you should have 12 to 14 meatballs.",
+      "ingredients_used": [
+        "6e53840f-0422-531e-8a92-e6d1744a5868",
+        "cfe977e9-1338-5150-b0ac-ff6996d15b32",
+        "7b44cd74-545e-5e02-a48c-9289bd48de9a"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat a large skillet over medium-high heat. Brown patties in batches in the hot skillet until crispy on both sides and no longer pink in the center, about 10 minutes. Set meatballs aside in a rimmed serving dish.",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 3,
+      "instruction": "Reduce heat to medium and stir remaining chopped onion into drippings in the skillet. Season with salt and pepper. Cook, stirring constantly, until onion has softened and turned translucent, about 5 minutes. Stir in remaining garlic and cook for 30 seconds. Stir in Roma tomatoes, dried parsley, and ras el hanout. Pour in water. Cook until tomatoes are soft, about 5 minutes.",
+      "ingredients_used": [
+        "cfe977e9-1338-5150-b0ac-ff6996d15b32",
+        "7b44cd74-545e-5e02-a48c-9289bd48de9a",
+        "9430f113-8e63-5754-993e-89bfa64121d4",
+        "16f0fa1c-ae82-5b68-b574-2f2147569fc5",
+        "5c28ecc4-461a-5e24-ac3c-7256a70b33e1",
+        "f52b2fc5-4063-5742-bf69-1d8d39914075",
+        "52a86933-88e6-5bc4-b7af-128a3849539e"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Pour tomato sauce over meatballs to serve."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.allrecipes.com/recipe/153790/algerian-kefta-meatballs/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

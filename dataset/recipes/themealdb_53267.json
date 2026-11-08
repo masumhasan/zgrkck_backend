@@ -1,0 +1,215 @@
+{
+  "id": "d2ed40f7-46a7-57e7-83c1-225adf51d4f3",
+  "version": "1.0.0",
+  "title": "Aubergine couscous salad",
+  "slug": "aubergine-couscous-salad",
+  "summary": "A Turkish-inspired salad featuring grilled aubergine, fluffy couscous, cherry tomatoes, and creamy goat's cheese.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:19:08Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53267"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/02s6gc1763799560.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/02s6gc1763799560.jpg/small",
+      "alt_text": "Photo of Aubergine couscous salad",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/shorts/8ws2Ohy__CQ"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4c480df7-c067-5e9c-ac08-d8d49afa7f51",
+        "slug": "turkish",
+        "name": "Turkish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course",
+      "salad"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "rest_time_minutes": 10,
+    "total_time_minutes": 35
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of couscous salad"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "fbe90b86-00cd-59b7-a247-27da40822df3",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "32d39531-b902-5cdb-9483-e4fb885bde43",
+          "ingredient_id": "0c13526c-c9d0-5c10-bc72-13ae3bf32c7e",
+          "name": "aubergine",
+          "display_text": "1 sliced Aubergine",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f40dc045-cf6d-5e3c-8347-9f1bbeeef7de",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "3  tablespoons Olive Oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "ef5b234a-6ba1-5720-9b7f-ac7d6725fbb0",
+          "ingredient_id": "c2b6c88e-6bee-5b11-a840-6c6f211b45fb",
+          "name": "couscous",
+          "display_text": "140g Couscous",
+          "quantity": 140.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 140.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "a84271b0-9a0d-58cf-9bfa-b2570eb3a9be",
+          "ingredient_id": "2d490c0b-0744-5be5-a104-641c87b13636",
+          "name": "vegetable stock",
+          "display_text": "225g Vegetable Stock",
+          "quantity": 225.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 225.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "b8f0e97b-c57f-5991-8bf9-f4f6c3da3dfd",
+          "ingredient_id": "041e90f7-87c0-5883-b651-a9f26dce39b7",
+          "name": "cherry tomatoes",
+          "display_text": "200g Cherry Tomatoes",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "7d48169b-1736-5387-9361-af9071601c33",
+          "ingredient_id": "0e838047-684d-55cb-884e-e7872e0e96c4",
+          "name": "mint",
+          "display_text": "Handful Mint",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "9dcafe89-bf9a-5a56-a46c-e1f16e91a017",
+          "ingredient_id": "dfc0b05a-d6aa-5c97-90f3-2d4b682bcd78",
+          "name": "goats cheese",
+          "display_text": "100g Goats Cheese",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "b56925b5-8457-5851-8027-5f6107bed0fa",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "Juice of 1/2 Lemon",
+          "quantity": 0.5,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat grill to high. Put the aubergine on a baking sheet, brush with oil and season. Grill for about 15 mins, turning and brushing with more oil halfway, until browned and softened.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "32d39531-b902-5cdb-9483-e4fb885bde43"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Meanwhile, tip the couscous into a large bowl, pour over the stock, then cover and leave for 10 mins. Mix the tomatoes, mint, goat’s cheese and remaining oil together. Fluff the couscous up with a fork, then stir in the aubergines, tomato mixture and lemon juice.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "32d39531-b902-5cdb-9483-e4fb885bde43",
+        "ef5b234a-6ba1-5720-9b7f-ac7d6725fbb0",
+        "b8f0e97b-c57f-5991-8bf9-f4f6c3da3dfd",
+        "7d48169b-1736-5387-9361-af9071601c33",
+        "b56925b5-8457-5851-8027-5f6107bed0fa"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/aubergine-couscous-salad"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

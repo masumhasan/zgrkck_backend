@@ -1,0 +1,274 @@
+{
+  "id": "74b19adc-2e3b-57bc-a212-76830701abbb",
+  "version": "1.0.0",
+  "title": "Lamb Pilaf (Plov)",
+  "slug": "lamb-pilaf-plov",
+  "summary": "A traditional Russian rice dish made with lamb, prunes, and saffron, simmered in vegetable stock.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:02:59Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53083"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/kos9av1699014767.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/kos9av1699014767.jpg/small",
+      "alt_text": "Photo of Lamb Pilaf (Plov)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=rllQsUw1hFQ"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "89b023d7-b2bb-5d32-90aa-fbee4bddee90",
+        "slug": "russian",
+        "name": "Russian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 85,
+    "marinating_time_minutes": 60,
+    "total_time_minutes": 160
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of pilaf"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "sulfites"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "2b554a1e-7af8-5d22-a7f2-2df91958b597",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "122eb93f-aa03-59da-817f-1a23462dd67d",
+          "ingredient_id": "9d9a6681-e50b-5870-820c-5bf49172a394",
+          "name": "lamb",
+          "display_text": "50g Lamb",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "11e45f20-f74b-5b5f-b531-fd0f694629fa",
+          "ingredient_id": "b3be8731-39ee-5597-a958-e79b3c474682",
+          "name": "prunes",
+          "display_text": "120g Prunes",
+          "quantity": 120.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "e86f7598-7cdc-5a12-ae50-e55f31849675",
+          "ingredient_id": "4020879e-a0a5-58e2-b093-33c7e85c8a08",
+          "name": "lemon juice",
+          "display_text": "1 tbs Lemon Juice",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "f5d3c2a2-cd09-56ef-8821-b7f675013fcd",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "2 tbs Butter",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "e0ab73b5-d68b-5c0d-b947-33030f527635",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c45897b7-3e03-5e12-b0e5-23a8beea5dcc",
+          "ingredient_id": "9d9a6681-e50b-5870-820c-5bf49172a394",
+          "name": "lamb",
+          "display_text": "450g Lamb",
+          "quantity": 450.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "083ae814-f91d-5707-92e6-98e33cc3f299",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f79e3c0b-c667-57ba-ab80-8195d2cd2a6c",
+          "ingredient_id": "2d490c0b-0744-5be5-a104-641c87b13636",
+          "name": "vegetable stock",
+          "display_text": "600ml Vegetable Stock",
+          "quantity": 600.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 600.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "004af4d4-9779-504c-b1f8-deadd0396375",
+          "ingredient_id": "025b8433-c498-5b37-813a-ec00ac6c2ae5",
+          "name": "rice",
+          "display_text": "2 cups Rice",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "f216ad7f-76dd-5f80-8b80-b478df23972c",
+          "ingredient_id": "6e4973c3-ed8a-5158-9a24-ca212d5e7092",
+          "name": "saffron",
+          "display_text": "Pinch Saffron",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e539b341-4c2d-5cb3-a503-03f82e043e1d",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Garnish Parsley",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "garnish",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Place the raisins and prunes into a small bowl and pour over enough water to cover. Add lemon juice and let soak for at least 1 hour. Drain. Roughly chop the prunes.",
+      "timer_seconds": 3600,
+      "ingredients_used": [
+        "11e45f20-f74b-5b5f-b531-fd0f694629fa",
+        "e86f7598-7cdc-5a12-ae50-e55f31849675"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Meanwhile, heat the butter in a large pan, add the onion, and cook for 5 minutes. Add cubed lamb, ground lamb, and crushed garlic cloves. Fry for 5 minutes, stirring constantly until browned.",
+      "ingredients_used": [
+        "122eb93f-aa03-59da-817f-1a23462dd67d",
+        "f5d3c2a2-cd09-56ef-8821-b7f675013fcd",
+        "e0ab73b5-d68b-5c0d-b947-33030f527635",
+        "c45897b7-3e03-5e12-b0e5-23a8beea5dcc",
+        "083ae814-f91d-5707-92e6-98e33cc3f299"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Pour 2/3 cup (150 milliliters) of stock into the pan. Bring to a boil, then lower the heat, cover, and simmer for 1 hour, or until the lamb is tender.",
+      "timer_seconds": 3600,
+      "ingredients_used": [
+        "122eb93f-aa03-59da-817f-1a23462dd67d",
+        "c45897b7-3e03-5e12-b0e5-23a8beea5dcc"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add the remaining stock and bring to a boil. Add rinsed long-grain white rice and a large pinch of saffron. Stir, then cover, and simmer for 15 minutes, or until the rice is tender.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "004af4d4-9779-504c-b1f8-deadd0396375",
+        "f216ad7f-76dd-5f80-8b80-b478df23972c"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Add the drained raisins, drained chopped prunes, and salt and pepper to taste. Heat through for a few minutes, then turn out onto a warmed serving dish and garnish with sprigs of flat-leaf parsley.",
+      "ingredients_used": [
+        "11e45f20-f74b-5b5f-b531-fd0f694629fa",
+        "e539b341-4c2d-5cb3-a503-03f82e043e1d"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.thespruceeats.com/russian-lamb-pilaf-plov-recipe-1137309"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

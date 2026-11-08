@@ -1,0 +1,228 @@
+{
+  "id": "d9234331-b201-52a5-8a24-cc59fcfeaa20",
+  "version": "1.0.0",
+  "title": "kofta burgers",
+  "slug": "kofta-burgers",
+  "summary": "Turkish-style lamb burgers seasoned with garam masala and served in pita bread with fresh vegetables and yogurt.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:18:15Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53257"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/lgmnff1763789847.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/lgmnff1763789847.jpg/small",
+      "alt_text": "Photo of kofta burgers",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/shorts/4OsDpyaTKk0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4c480df7-c067-5e9c-ac08-d8d49afa7f51",
+        "slug": "turkish",
+        "name": "Turkish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 12,
+    "total_time_minutes": 32
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces",
+    "serving_size_description": "2 burgers in pita bread"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "6ba79492-8134-5cf2-9aa9-66a784eeca16",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "657ba076-ce9f-5087-aa85-537abf7c7d52",
+          "ingredient_id": "9d9a6681-e50b-5870-820c-5bf49172a394",
+          "name": "lamb",
+          "display_text": "1kg Lamb",
+          "quantity": 1.0,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "kilogram",
+          "category": "meat"
+        },
+        {
+          "id": "19803c81-7b8e-54b7-8290-05451aa9987b",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "2 Onion",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "cabdb227-dde4-550e-9112-7b52bd2fa15a",
+          "ingredient_id": "db615f68-3d21-5c4d-8ec4-de8cf70c91df",
+          "name": "garlic bulb",
+          "display_text": "1 Garlic Bulb",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "68b9e102-dc6e-5ca3-94e7-de2d44bebbcf",
+          "ingredient_id": "b3528dc3-f7f7-5d65-9903-d906fc4c30f0",
+          "name": "garam masala",
+          "display_text": "6 tablespoons Garam Masala",
+          "quantity": 6.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 90.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1c4590ac-06e8-5dca-8b79-af666b795e01",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "Bunch Coriander",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "bunch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "db307297-8bd2-5b5d-b311-93f4a444e63c",
+          "ingredient_id": "d61c9f0f-74f1-5e2e-89cd-b1fb8144b774",
+          "name": "chilli sauce",
+          "display_text": "1 tablespoon Chilli Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "711bc4f2-83b0-5b53-9d20-4e4d6f64533b",
+          "ingredient_id": "3998084f-e7c2-5364-b223-62058fa4c0c9",
+          "name": "pita bread",
+          "display_text": "8 Pita Bread",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "a82f2d1e-83ae-5cbe-9d5e-68b833d76a59",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "4 sliced Tomato",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "9e34557e-e564-5b0f-96c2-7538a5554fe5",
+          "ingredient_id": "93adfa8e-dfee-5a44-825f-075c81b606db",
+          "name": "red cabbage",
+          "display_text": "1/2 Red Cabbage",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "91033d98-dfbf-5c82-9760-487937a320cd",
+          "ingredient_id": "716f7639-3b59-56a7-9146-1819649ebdad",
+          "name": "red onions",
+          "display_text": "1 sliced Red Onions",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2309483e-c6db-5fa5-9698-165e3edfc8c2",
+          "ingredient_id": "c2dfe217-47d5-5561-8ce3-2d7cb17fc75b",
+          "name": "yogurt",
+          "display_text": "Small pack Yogurt",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "small pack",
+          "is_optional": false,
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Tip the mince into a large bowl (use a clean washing-up bowl if you don’t have anything big enough) with all the other burger ingredients and a good pinch of salt. Roll up your sleeves, get your hands into the mix and squelch everything together through your fingers until completely mixed. Pat the mix into 16 small burgers. These may now be frozen for up to 1 month or chilled up to a day ahead."
+    },
+    {
+      "step_number": 2,
+      "instruction": "To cook, heat grill to its highest setting and lay the burgers in a single layer on a baking tray (you may need to do this in batches, depending on how big your tray is). Grill on the highest shelf for 5-6 mins on each side until browned and cooked through. Pile burgers onto a platter and serve with all the accompaniments, so everyone can construct their own sandwich.",
+      "timer_seconds": 360
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/diy-kofta-burgers"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

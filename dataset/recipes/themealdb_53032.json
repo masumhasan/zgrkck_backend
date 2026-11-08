@@ -1,0 +1,232 @@
+{
+  "id": "b5a62882-abf7-596a-8122-6793a6d88c17",
+  "version": "1.0.0",
+  "title": "Tonkatsu pork",
+  "slug": "tonkatsu-pork",
+  "summary": "Tonkatsu is a Japanese dish consisting of breaded, deep-fried pork cutlets served with a savory-sweet sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:58:38Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53032"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/lwsnkl1604181187.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/lwsnkl1604181187.jpg/small",
+      "alt_text": "Photo of Tonkatsu pork",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=aASr5x0d3Ys"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "56a9f85e-d404-5cf3-b90f-babb495ba40f",
+        "slug": "japanese",
+        "name": "Japanese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "portions",
+    "serving_size_description": "1 pork chop with sauce"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "4b1050a9-316f-5050-8fc3-93e93a20caa6",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "477b48ae-cf16-58be-a9d1-f4618a3e8e77",
+          "ingredient_id": "b0ed5e14-8c68-5f17-8716-0154f1badecf",
+          "name": "pork chops",
+          "display_text": "4 Pork Chops",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "9a40979d-08c1-501f-bfa7-6641e73c0d9f",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "100g Flour",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "f2f5c456-9174-5c30-a299-34d57d3d5080",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "2 Beaten Eggs",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "beaten",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "cf723a47-23e1-59f3-bc53-95ab6b2cb832",
+          "ingredient_id": "00efa231-6d81-5c88-91fa-b330117cc5f4",
+          "name": "breadcrumbs",
+          "display_text": "100g Breadcrumbs",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "c5b78256-f1be-537f-9c7c-1d8a8536ff3c",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "Fry Vegetable Oil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "fry",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "5fdca673-e4b1-5be9-812a-b97cee2ea6b2",
+          "ingredient_id": "a4357aa8-235c-57af-b089-15c2effbb92c",
+          "name": "tomato ketchup",
+          "display_text": "2 tbs Tomato Ketchup",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "635c59c6-efcc-5634-ac0a-2289c573dd0d",
+          "ingredient_id": "31e8f031-3e86-5406-8703-0e73554e2898",
+          "name": "worcestershire sauce",
+          "display_text": "2 tbs Worcestershire Sauce",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "96b03d9e-2c19-54e2-a3af-3bbe67984beb",
+          "ingredient_id": "42972e00-9d00-55f1-8658-5357075be010",
+          "name": "oyster sauce",
+          "display_text": "1 tbs Oyster Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "f9889f7c-16f3-5035-92d0-04a92acc868f",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "2 tblsp Caster Sugar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Remove the large piece of fat on the edge of each pork loin, then bash each of the loins between two pieces of baking parchment until around 1cm in thickness – you can do this using a meat tenderizer or a rolling pin. Once bashed, use your hands to reshape the meat to its original shape and thickness – this step will ensure the meat is as succulent as possible."
+    },
+    {
+      "step_number": 2,
+      "instruction": "Put the flour, eggs and panko breadcrumbs into three separate wide-rimmed bowls. Season the meat, then dip first in the flour, followed by the eggs, then the breadcrumbs.",
+      "ingredients_used": [
+        "9a40979d-08c1-501f-bfa7-6641e73c0d9f",
+        "f2f5c456-9174-5c30-a299-34d57d3d5080",
+        "cf723a47-23e1-59f3-bc53-95ab6b2cb832"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "In a large frying or sauté pan, add enough oil to come 2cm up the side of the pan. Heat the oil to 180C – if you don’t have a thermometer, drop a bit of panko into the oil and if it sinks a little then starts to fry, the oil is ready. Add two pork chops and cook for 1 min 30 secs on each side, then remove and leave to rest on a wire rack for 5 mins. Repeat with the remaining pork chops.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "477b48ae-cf16-58be-a9d1-f4618a3e8e77"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "While the pork is resting, make the sauce by whisking the ingredients together, adding a splash of water if it’s particularly thick. Slice the tonkatsu and serve drizzled with the sauce."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/tonkatsu-pork"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

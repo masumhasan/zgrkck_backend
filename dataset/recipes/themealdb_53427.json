@@ -1,0 +1,416 @@
+{
+  "id": "0519a12d-0215-5906-b964-9655dbe08af5",
+  "version": "1.0.0",
+  "title": "Lao Naem Khao",
+  "slug": "lao-naem-khao",
+  "summary": "Lao Naem Khao is a traditional Laotian dish consisting of crispy fried rice balls mixed with sour pork sausage, fresh herbs, and peanuts.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:33:09Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53427"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/0dypw51779817467.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/0dypw51779817467.jpg/small",
+      "alt_text": "Photo of Lao Naem Khao",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=qDWN61Ib4A4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "576ac435-ec21-5e8d-85c2-e8d8a2c9dd6d",
+        "slug": "laotian",
+        "name": "Laotian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 15,
+    "rest_time_minutes": 10,
+    "total_time_minutes": 55
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a bowl of rice mixture with lettuce"
+  },
+  "allergens": {
+    "contains": [
+      "peanuts",
+      "eggs",
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "tree_nuts",
+      "soy",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "08dbfb30-4dae-562d-85c4-905c10ab8dc2",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "aff5c5c0-513c-5f23-b284-79f5594ee3db",
+          "ingredient_id": "5e15f536-69f0-5645-a107-7aef5fc85d55",
+          "name": "jasmine rice",
+          "display_text": "3 Cups Jasmine Rice",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "39dbb959-f4c3-57e7-aa42-ac2523cd0c7a",
+          "ingredient_id": "739769d2-a7f0-5fac-98c1-26e2aa7ce44e",
+          "name": "coconut",
+          "display_text": "1 Coconut",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4174622b-97f1-5ade-9c93-ae3d468c549d",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "Splash Oil",
+          "quantity": 1,
+          "unit": "splash",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "5891b8bd-68d7-5f2e-bf5d-84845eda618e",
+          "ingredient_id": "9085123a-2a5d-592e-930e-8f25d4fa1333",
+          "name": "sour pork sausage",
+          "display_text": "2 cups Sour Pork Sausage",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "meat"
+        },
+        {
+          "id": "3faa347a-230b-544b-91c2-52f0b40824b5",
+          "ingredient_id": "ab2237c5-d8e1-5d42-ab2d-a1471b3e2686",
+          "name": "pickled garlics",
+          "display_text": "2 diced Pickled Garlics",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "diced",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "b62dcd30-c7ba-5dc3-b080-cf65cbc6a9f4",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "Juice of 1 Lime",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "61602368-a45b-54d0-b52d-f0e6572d34fa",
+          "ingredient_id": "de927c20-fdfa-5b98-8ee9-7840fa951a2f",
+          "name": "fish sauce",
+          "display_text": "2 tablespoons Fish Sauce",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "c4267fec-c1df-5d81-86d2-cd7b3495ad2a",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 tablespoon Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "f411ea93-8de9-55f6-be94-1a0f51cac499",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 sliced Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "de75721e-5859-5010-965c-447061122085",
+          "ingredient_id": "d22accc4-e562-59bf-9cbb-1ad38d461e99",
+          "name": "shallots",
+          "display_text": "1 sliced Shallots",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "bb4fb9c7-e1a9-527d-b61b-0999c04d17b9",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "3 finely chopped Spring Onions",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "de12d023-4caf-571e-b456-9a75c9c1b64c",
+          "ingredient_id": "1655ccbe-97a7-59b3-9245-ebc95a0ed6d0",
+          "name": "cilantro",
+          "display_text": "1 cup Cilantro",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "0fa47784-09f3-582f-aa34-1c9ec0bfd245",
+          "ingredient_id": "92f4fc91-e3df-51ea-bf16-43fee1b8c64a",
+          "name": "hot mint",
+          "display_text": "1/2 cup Hot Mint",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "6bfcaae8-84a2-5535-be49-f9cf7099d76e",
+          "ingredient_id": "0e838047-684d-55cb-884e-e7872e0e96c4",
+          "name": "mint",
+          "display_text": "1/2 cup Mint",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "52ca6446-c8f4-5fd7-959a-51a5f64ea917",
+          "ingredient_id": "3c49c19f-5aa2-5a05-94e6-3752afe853a0",
+          "name": "roasted peanut",
+          "display_text": "1/4 cup Roasted Peanut",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "8a0b46f5-7171-5e8f-a4f0-b352cb4b55df",
+          "ingredient_id": "7e74770b-ade3-5c3d-94c0-904c898856f0",
+          "name": "vegetables",
+          "display_text": "To serve Vegetables",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "38094592-e40b-5624-89dd-0c660f385ca1",
+          "ingredient_id": "0777cda5-7472-55c6-bfb1-6a88f7678f6d",
+          "name": "lettuce",
+          "display_text": "To serve Lettuce",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Slice the onion and shallots thinly. Let them soak in a ice water bath while preparing the rest of the meal.",
+      "ingredients_used": [
+        "f411ea93-8de9-55f6-be94-1a0f51cac499",
+        "de75721e-5859-5010-965c-447061122085"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Grate the coconut. Put in a large bowl.",
+      "ingredients_used": [
+        "39dbb959-f4c3-57e7-aa42-ac2523cd0c7a"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the coconut in a large bowl. Add the rice. Using your hands, mix the coconut and rice together.",
+      "ingredients_used": [
+        "aff5c5c0-513c-5f23-b284-79f5594ee3db",
+        "39dbb959-f4c3-57e7-aa42-ac2523cd0c7a"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Roll the mixture to form 2-inch rice ball croquettes.",
+      "ingredients_used": [
+        "aff5c5c0-513c-5f23-b284-79f5594ee3db"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Heat up the cooking oil in a pot or pan.",
+      "ingredients_used": [
+        "4174622b-97f1-5ade-9c93-ae3d468c549d"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Beat two eggs and a large bowl. Dip the balls into the egg mixture. Then, drop the balls into the cooking oil.",
+      "ingredients_used": [
+        "4174622b-97f1-5ade-9c93-ae3d468c549d"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Allow the balls to turn a dark amber brown color. Deep fry until crispy, crunchy, and golden. Remove and set on paper towel to drain excess oil.",
+      "ingredients_used": [
+        "4174622b-97f1-5ade-9c93-ae3d468c549d"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Once cooled, break apart the rice balls and add into a larger bowl.",
+      "ingredients_used": [
+        "aff5c5c0-513c-5f23-b284-79f5594ee3db"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Drain the onion and the shallots.",
+      "ingredients_used": [
+        "f411ea93-8de9-55f6-be94-1a0f51cac499",
+        "de75721e-5859-5010-965c-447061122085"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "Make sure you tear the pork sausage up into small pieces. You can use a knife too, but the traditional method is tearing.",
+      "ingredients_used": [
+        "5891b8bd-68d7-5f2e-bf5d-84845eda618e"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "In the large bowl, add in the onion, shallots, sour pork sausage, pickled garlic, lime juice, fish sauce, sugar, cilantro, hot mint, regular mint.",
+      "ingredients_used": [
+        "5891b8bd-68d7-5f2e-bf5d-84845eda618e",
+        "b62dcd30-c7ba-5dc3-b080-cf65cbc6a9f4",
+        "61602368-a45b-54d0-b52d-f0e6572d34fa",
+        "c4267fec-c1df-5d81-86d2-cd7b3495ad2a",
+        "f411ea93-8de9-55f6-be94-1a0f51cac499",
+        "de75721e-5859-5010-965c-447061122085",
+        "de12d023-4caf-571e-b456-9a75c9c1b64c",
+        "0fa47784-09f3-582f-aa34-1c9ec0bfd245",
+        "6bfcaae8-84a2-5535-be49-f9cf7099d76e"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Top with peanuts. Serve with Lettuce, dry chilli, and other fresh vegetables.",
+      "ingredients_used": [
+        "52ca6446-c8f4-5fd7-959a-51a5f64ea917",
+        "8a0b46f5-7171-5e8f-a4f0-b352cb4b55df",
+        "38094592-e40b-5624-89dd-0c660f385ca1"
+      ]
+    },
+    {
+      "step_number": 13,
+      "instruction": "Preserving Naem Khao Recipe"
+    },
+    {
+      "step_number": 14,
+      "instruction": "Naem Khao can be kept in the refrigerator for 4 days. It can then be served chilled."
+    },
+    {
+      "step_number": 15,
+      "instruction": "It should not be frozen."
+    },
+    {
+      "step_number": 16,
+      "instruction": "Serving Naem Khao"
+    },
+    {
+      "step_number": 17,
+      "instruction": "Nam Khao is generally served with lettuce leaves and a variety of different herbs like hot mint, mint, basil, and perilla.",
+      "ingredients_used": [
+        "0fa47784-09f3-582f-aa34-1c9ec0bfd245",
+        "6bfcaae8-84a2-5535-be49-f9cf7099d76e",
+        "38094592-e40b-5624-89dd-0c660f385ca1"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://cookingwithlane.com/naem-khao-crispy-coconut-rice-salad/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

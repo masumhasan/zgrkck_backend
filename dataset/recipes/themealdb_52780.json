@@ -1,0 +1,240 @@
+{
+  "id": "1629baee-2a03-5e6c-9042-a7d0483639a3",
+  "version": "1.0.0",
+  "title": "Potato Gratin with Chicken",
+  "slug": "potato-gratin-with-chicken",
+  "summary": "A creamy potato gratin layered with onions and topped with parmesan cheese, served alongside chicken, bacon, peas, and spinach.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:37:22Z",
+  "updated_at": "2026-10-16T10:22:43Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52780"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/qwrtut1468418027.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/qwrtut1468418027.jpg/small",
+      "alt_text": "Photo of Potato Gratin with Chicken",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=p3u8eiy3yHI"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "5777da00-e671-5ded-9c46-d7577d65960f",
+        "slug": "italian",
+        "name": "Italian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 45
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 chicken breast with potato gratin and greens"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "408de4c5-10e4-5c7e-b18a-8ac1af905457",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "14549ff9-f9bc-5c5c-8259-df2427b66ec5",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "800g Potatoes",
+          "quantity": 800.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 800.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "d8b85190-2a99-577e-a763-c7ea310c60ec",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onions",
+          "display_text": "3 Onions",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4e43337f-6aff-5214-a478-ea5d5c4bb919",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tblsp Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "bcd3bfa9-445e-594b-b0dc-c3e6881deba3",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "100ml Chicken Stock",
+          "quantity": 100.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "77c91861-85ed-57d6-ac77-b978f197d1b2",
+          "ingredient_id": "5a0201c7-6447-5098-baf7-57a2595f11ba",
+          "name": "creme fraiche",
+          "display_text": "1 pot Creme Fraiche",
+          "quantity": 1.0,
+          "unit": "pot",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "afa5d3f2-ade7-578f-8286-7fb44eb0de72",
+          "ingredient_id": "416df703-8cf7-5b6e-bc37-86ce7e3fd6da",
+          "name": "parmesan",
+          "display_text": "Topping Parmesan",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "topping",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "f7e5bb7e-8db0-58b6-a974-73004adfa555",
+          "ingredient_id": "e23191a1-4966-5b21-a6f1-8df6f50b79db",
+          "name": "chicken breasts",
+          "display_text": "4 Chicken Breasts",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "642ba701-1a2c-58b8-9609-6a1b1f9f6f3f",
+          "ingredient_id": "956cfefc-d0f9-5c1f-9f20-d38a1e4dbdad",
+          "name": "bacon",
+          "display_text": "4 Bacon",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "cc109ce0-92a0-5e21-b615-ebf81d4cbaba",
+          "ingredient_id": "d0dd13fa-8c7a-5af9-9e1d-3d7bfc0f68e8",
+          "name": "spinach",
+          "display_text": "Topping Spinach",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "topping",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7234d9ab-1035-5cfc-b491-4a0ba2923802",
+          "ingredient_id": "7073667e-84c6-57dc-a1f3-4bd704824318",
+          "name": "peas",
+          "display_text": "Topping Peas",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "topping",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "15 minute potato gratin with chicken and bacon greens: a gratin always seems more effort and more indulgent than ordinary boiled or roasts, but it doesn't have to take 45mins, it's nice for a change and you can control the calorie content by going with full fat to low fat creme fraiche. (It's always tastes better full fat though obviously!) to serve 4: use 800g of potatoes, finely slice and boil in a pan for about 5-8 mins till firmish, not soft. Finely slice 3 onions and place in an oven dish with 2 tblsp of olive oil and 100ml of chicken stock.",
+      "ingredients_used": [
+        "14549ff9-f9bc-5c5c-8259-df2427b66ec5",
+        "d8b85190-2a99-577e-a763-c7ea310c60ec",
+        "4e43337f-6aff-5214-a478-ea5d5c4bb919",
+        "bcd3bfa9-445e-594b-b0dc-c3e6881deba3",
+        "77c91861-85ed-57d6-ac77-b978f197d1b2",
+        "642ba701-1a2c-58b8-9609-6a1b1f9f6f3f"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Cook till the onions are soft then drain the potatoes and pour onto the onions. Season and spoon over cream or creme fraiche till all is covered but not swimming.",
+      "ingredients_used": [
+        "14549ff9-f9bc-5c5c-8259-df2427b66ec5",
+        "d8b85190-2a99-577e-a763-c7ea310c60ec",
+        "77c91861-85ed-57d6-ac77-b978f197d1b2"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Grate Parmesan over the top then finish under the grill till nicely golden. serve with chicken and bacon, peas and spinach.",
+      "ingredients_used": [
+        "afa5d3f2-ade7-578f-8286-7fb44eb0de72",
+        "642ba701-1a2c-58b8-9609-6a1b1f9f6f3f",
+        "cc109ce0-92a0-5e21-b615-ebf81d4cbaba",
+        "7234d9ab-1035-5cfc-b491-4a0ba2923802"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.instagram.com/p/BHxR7hYBJ6P"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

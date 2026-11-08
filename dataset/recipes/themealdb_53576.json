@@ -1,0 +1,255 @@
+{
+  "id": "a6981815-d476-5c3a-b950-d62d6e96e162",
+  "version": "1.0.0",
+  "title": "Carrot and Bean Fritters",
+  "slug": "carrot-and-bean-fritters",
+  "summary": "These Estonian-style fritters are made from a mixture of grated carrots and mashed canned beans, seasoned with garlic and herbs, then coated in breadcrumbs and baked.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:46:35Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53576"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/xjii2g1784836867.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/xjii2g1784836867.jpg/small",
+      "alt_text": "Photo of Carrot and Bean Fritters",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "da9196a9-a77a-56ba-93b0-a3364fc63c4e",
+        "slug": "estonian",
+        "name": "Estonian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "courses": [
+      "side_dish",
+      "starter"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 25
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of fritters"
+  },
+  "allergens": {
+    "contains": [
+      "gluten"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "b904961a-9988-5dc9-a1b9-040b613cf755",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "604d4c42-3580-53b9-816d-7372c1c4d504",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "400g Carrots",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "bba87328-b393-5e7f-b14d-ef0a96c03b7d",
+          "ingredient_id": "69411f7f-2e56-5198-8567-7e365b189dd4",
+          "name": "canned beans",
+          "display_text": "200g Canned Beans",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "c19f24ed-f431-5553-831d-d9a258fa9e4a",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "4 cloves Garlic",
+          "quantity": 4.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "fa056063-4e66-5897-bb69-bafa038c85d3",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "1 tablespoon Flour",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "d5a0a561-8c06-5185-a763-8e121b30e1d2",
+          "ingredient_id": "00efa231-6d81-5c88-91fa-b330117cc5f4",
+          "name": "breadcrumbs",
+          "display_text": "1 cup Breadcrumbs",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "589da3c4-e2c0-5b6c-9c45-6af3cb8284a7",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "Pinch Thyme",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e451ecf3-05af-5d35-8f9a-d7a6aded07bc",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Pinch Parsley",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "05342b3f-75d3-591b-b48e-01239ec79046",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "05f4efa3-2d7f-577b-9031-3b5b04ea570e",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "Pinch Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "6d7a0ea9-a7a8-512e-b0b9-43321459be03",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "Pinch Thyme",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "28d00a25-e6ce-5a5b-a04e-bd42932414bb",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "Splash Oil",
+          "quantity": 1,
+          "unit": "splash",
+          "is_optional": false,
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Pour the beans into the sieve, remove liquid.",
+      "ingredients_used": [
+        "bba87328-b393-5e7f-b14d-ef0a96c03b7d"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Grate carrots and add beans, Mix and mash together. Season with garlic, thyme, salt and pepper.",
+      "ingredients_used": [
+        "604d4c42-3580-53b9-816d-7372c1c4d504",
+        "bba87328-b393-5e7f-b14d-ef0a96c03b7d",
+        "c19f24ed-f431-5553-831d-d9a258fa9e4a",
+        "589da3c4-e2c0-5b6c-9c45-6af3cb8284a7",
+        "05342b3f-75d3-591b-b48e-01239ec79046",
+        "05f4efa3-2d7f-577b-9031-3b5b04ea570e",
+        "6d7a0ea9-a7a8-512e-b0b9-43321459be03"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Form the dough into round buns, dip them slightly into the bread crumbs, and press the fritters."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Fry fritters in hot oil for a short time until the fritters are browned.  Place on the greased or /baking paper-lined oven plate and bake at 200C for 10 minutes.",
+      "timer_seconds": 600,
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "28d00a25-e6ce-5a5b-a04e-bd42932414bb"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://estoniancuisine.com/2021/01/15/carrot-and-bean-fritters-porgandi-oakotletid/#more-12384"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

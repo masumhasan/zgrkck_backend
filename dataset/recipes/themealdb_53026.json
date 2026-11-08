@@ -1,0 +1,239 @@
+{
+  "id": "cb99e7bc-76b9-5d53-8cdd-e938bfc9d66c",
+  "version": "1.0.0",
+  "title": "Tamiya",
+  "slug": "tamiya",
+  "summary": "Tamiya, also known as Ta'ameya, is an Egyptian version of falafel made with dried broad beans instead of chickpeas. These savory fritters are seasoned with herbs and spices, then deep-fried until golden.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:58:05Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53026"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/n3xxd91598732796.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/n3xxd91598732796.jpg/small",
+      "alt_text": "Photo of Tamiya",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=mulqW-J3Yy4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "3586d868-9b83-5a6f-adb2-43d378fffcd2",
+        "slug": "egyptian",
+        "name": "Egyptian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "brunch"
+    ],
+    "courses": [
+      "side_dish",
+      "appetizer"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 15,
+    "marinating_time_minutes": 30,
+    "total_time_minutes": 65
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "3-4 patties"
+  },
+  "allergens": {
+    "contains": [
+      "gluten"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": [
+      "sesame"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "9dab6b60-8427-5f86-834a-fc273c051e5d",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "94c585cd-2622-5a6c-b44b-eef841c6585b",
+          "ingredient_id": "62f1d397-f8eb-5c14-b2c3-48b7ced52406",
+          "name": "broad beans",
+          "display_text": "3 cups Broad Beans",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "c4b3164f-77d4-5115-a18b-b79e3daa10db",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "6 Spring Onions",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "582a4341-a8d2-5f05-bb18-1d22c0cb3ea2",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "4 Garlic Clove",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1c315def-c466-50da-8c7d-4f7c56c75e6f",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "1/4 cup Parsley",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "a8ae9ddc-f47f-524f-9a53-452d50b973fd",
+          "ingredient_id": "be79b3bd-bc90-5d15-aab2-4f95774b8de1",
+          "name": "cumin",
+          "display_text": "2 tsp Cumin",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "a36b0e4a-bed2-55dd-914d-ad640bffcdab",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 tsp Baking Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "d7e26666-f2b3-544c-b734-89ea0c1f9e0d",
+          "ingredient_id": "97dd86b9-4ad7-5a3a-bc6c-86485409c325",
+          "name": "cayenne pepper",
+          "display_text": "1/2 tsp Cayenne Pepper",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "622c35a1-5321-5e62-9bdc-c05438904c86",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "Spinkling Flour",
+          "quantity": 1,
+          "unit": "sprinkling",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "10053706-9f33-56f6-9328-a2ffa90bd7bf",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "As required Vegetable Oil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "as required",
+          "is_optional": false,
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "oak the beans in water to cover overnight.Drain. If skinless beans are unavailable, rub to loosen the skins, then discard the skins. Pat the beans dry with a towel.",
+      "ingredients_used": [
+        "94c585cd-2622-5a6c-b44b-eef841c6585b"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Grind the beans in a food mill or meat grinder.If neither appliance is available, process them in a food processor but only until the beans form a paste. (If blended too smoothly, the batter tends to fall apart during cooking.) Add the scallions, garlic, cilantro, cumin, baking powder, cayenne, salt, pepper, and coriander, if using.  Refrigerate for at least 30 minutes.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "94c585cd-2622-5a6c-b44b-eef841c6585b",
+        "a8ae9ddc-f47f-524f-9a53-452d50b973fd",
+        "a36b0e4a-bed2-55dd-914d-ad640bffcdab"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Shape the bean mixture into 1-inch balls.Flatten slightly and coat with flour.",
+      "ingredients_used": [
+        "622c35a1-5321-5e62-9bdc-c05438904c86"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Heat at least 1½-inches of oil over medium heat to 365 degrees."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Fry the patties in batches, turning once, until golden brown on all sides, about 5 minutes.Remove with a wire mesh skimmer or slotted spoon. Serve as part of a meze or in pita bread with tomato-cucumber salad and tahina sauce.",
+      "timer_seconds": 300
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://oukosher.org/recipes/tamiya-egyptian-dried-fava-bean-fritters/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

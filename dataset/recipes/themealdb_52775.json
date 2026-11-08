@@ -1,0 +1,279 @@
+{
+  "id": "1fe9e2bc-e764-50b8-bcc8-5d933c7fdcf5",
+  "version": "1.0.0",
+  "title": "Vegan Lasagna",
+  "slug": "vegan-lasagna",
+  "summary": "A plant-based version of the classic Italian pasta dish featuring a lentil and vegetable ragu topped with a creamy soya milk béchamel.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:30:23Z",
+  "updated_at": "2026-10-16T10:22:43Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52775"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/rvxxuy1468312893.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/rvxxuy1468312893.jpg/small",
+      "alt_text": "Photo of Vegan Lasagna",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=VU8cXvlGbvc"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "5777da00-e671-5ded-9c46-d7577d65960f",
+        "slug": "italian",
+        "name": "Italian"
+      }
+    ],
+    "tags": [
+      "pasta",
+      "vegan"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 55,
+    "total_time_minutes": 70
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 slice of lasagna"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "mustard"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "sulfites"
+    ],
+    "may_contain": [
+      "fish",
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "8e6ce703-e2cc-50aa-b139-a3a2a459ab1e",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "b5f0ef9c-1084-52ff-847f-722a6c25cb3d",
+          "ingredient_id": "2b69c62f-077b-5e39-95c9-b150a4a5db53",
+          "name": "green red lentils",
+          "display_text": "1 cups green red lentils",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "bfa9557b-0050-554e-8816-b943e42f0b30",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "1 Carrots",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c5985cbe-e3e6-5ed1-a71b-4460a3b59f1c",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "8a5c4792-54af-5e66-a67e-51b06c0e5b4e",
+          "ingredient_id": "008f50c5-b911-5eaa-ae64-9b4e3b127614",
+          "name": "zucchini",
+          "display_text": "1 small zucchini",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2044741c-91dd-5754-9dd4-1dc5f70a9f3d",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "sprinking coriander",
+          "quantity": 1,
+          "unit": "sprinkling",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "658b4f4c-9f1e-5ea5-95dd-ae21e7baea21",
+          "ingredient_id": "d0dd13fa-8c7a-5af9-9e1d-3d7bfc0f68e8",
+          "name": "spinach",
+          "display_text": "150g spinach",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "c600b241-dd33-5c63-af69-2434a0d9d9bc",
+          "ingredient_id": "47cbe380-7207-5181-9d4f-60c7fab5f539",
+          "name": "lasagne sheets",
+          "display_text": "10 lasagne sheets",
+          "quantity": 10.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "09cfdb6e-bdf3-5488-a4cb-47b70f4f12c3",
+          "ingredient_id": "82ef78b3-77c3-5054-b0ca-1b9a9955bf4c",
+          "name": "vegan butter",
+          "display_text": "35g vegan butter",
+          "quantity": 35.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 35.0,
+          "metric_unit": "gram",
+          "category": "oils_fats"
+        },
+        {
+          "id": "702550e1-889c-5ba8-ad21-24e522966612",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "4 tablespoons flour",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "47d6d224-105a-514f-aecc-d04ef6644151",
+          "ingredient_id": "987d45f5-c528-51be-9935-44d029bed181",
+          "name": "soya milk",
+          "display_text": "300ml soya milk",
+          "quantity": 300.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "c0f332ad-f8a8-52da-ab7b-ccafe858e968",
+          "ingredient_id": "b9e3afdc-e194-5f5e-bbae-5c3659d35a67",
+          "name": "mustard",
+          "display_text": "1.5 teaspoons mustard",
+          "quantity": 1.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "39a62720-1faa-5e1c-a0ba-72cefd58e64d",
+          "ingredient_id": "ab5b1e5d-c74e-59bc-9caa-0009568a07cb",
+          "name": "vinegar",
+          "display_text": "1 teaspoon vinegar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat oven to 180 degrees celcius."
+    },
+    {
+      "step_number": 2,
+      "instruction": "Boil vegetables for 5-7 minutes, until soft. Add lentils and bring to a gentle simmer, adding a stock cube if desired. Continue cooking and stirring until the lentils are soft, which should take about 20 minutes.",
+      "ingredients_used": [
+        "b5f0ef9c-1084-52ff-847f-722a6c25cb3d"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Blanch spinach leaves for a few minutes in a pan, before removing and setting aside.",
+      "ingredients_used": [
+        "658b4f4c-9f1e-5ea5-95dd-ae21e7baea21"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Top up the pan with water and cook the lasagne sheets. When cooked, drain and set aside.",
+      "ingredients_used": [
+        "c600b241-dd33-5c63-af69-2434a0d9d9bc"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "To make the sauce, melt the butter and add the flour, then gradually add the soya milk along with the mustard and the vinegar. Cook and stir until smooth and then assemble the lasagne as desired in a baking dish.",
+      "ingredients_used": [
+        "09cfdb6e-bdf3-5488-a4cb-47b70f4f12c3",
+        "702550e1-889c-5ba8-ad21-24e522966612",
+        "47d6d224-105a-514f-aecc-d04ef6644151",
+        "c0f332ad-f8a8-52da-ab7b-ccafe858e968",
+        "39a62720-1faa-5e1c-a0ba-72cefd58e64d"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Bake in the preheated oven for about 25 minutes.",
+      "timer_seconds": 1500
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

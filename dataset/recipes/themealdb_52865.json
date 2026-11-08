@@ -1,0 +1,267 @@
+{
+  "id": "caead90d-0970-5d44-83d6-51ba94608d97",
+  "version": "1.0.0",
+  "title": "Matar Paneer",
+  "slug": "matar-paneer",
+  "summary": "A classic Indian vegetarian curry made with paneer cheese, green peas, and a spiced tomato-based sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:44:22Z",
+  "updated_at": "2026-10-16T10:22:49Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52865"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg/small",
+      "alt_text": "Photo of Matar Paneer",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=wlseYNqwLNs"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b2b4e1bc-3c1e-50ce-abf4-9015553e6a16",
+        "slug": "indian",
+        "name": "Indian"
+      }
+    ],
+    "tags": [
+      "curry",
+      "vegetarian"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "weeknight_dinner"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 25
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of curry with naan"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "d4372063-bfd7-56d5-b5bf-6cdf17d480f9",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "6ee40791-b880-59ee-b159-5014119aae94",
+          "ingredient_id": "aa561384-0d26-5008-a25e-3ba9db4b2a3f",
+          "name": "sunflower oil",
+          "display_text": "1 tbls Sunflower Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "880c76fb-2ae8-5421-8d68-3098b68a2862",
+          "ingredient_id": "e16bf6eb-6dad-5e8e-8a67-3e7edfa1e3df",
+          "name": "paneer",
+          "display_text": "225g Paneer",
+          "quantity": 225.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 225.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "dd0546ba-51bd-5e6f-b89a-c50f13752f23",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "2 Ginger",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "9d8ec3e6-22bb-5039-a288-cf9a06dcb7fb",
+          "ingredient_id": "be79b3bd-bc90-5d15-aab2-4f95774b8de1",
+          "name": "cumin",
+          "display_text": "1 tsp Cumin",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1927a297-f1bd-5561-93a2-07fafa412db0",
+          "ingredient_id": "ab4d5e50-1105-53e2-be29-49b042b3d7fb",
+          "name": "turmeric",
+          "display_text": "1 tsp Turmeric",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "197cca5e-00c8-5670-b368-55d9122bf3e6",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "1 tsp Coriander",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3db51b5e-5fae-57f4-b633-96a3adfc6212",
+          "ingredient_id": "091f7fa6-975c-516e-a354-2a31e6503580",
+          "name": "green chilli",
+          "display_text": "1 Green Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b2904d27-9f06-5790-aaae-da0a5123508a",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "4 large Tomato",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3c1676cb-9ee1-5554-a4ab-f677cd698328",
+          "ingredient_id": "7073667e-84c6-57dc-a1f3-4bd704824318",
+          "name": "peas",
+          "display_text": "150g Peas",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "0901932c-6555-5dea-b13e-27497efb95ae",
+          "ingredient_id": "b3528dc3-f7f7-5d65-9903-d906fc4c30f0",
+          "name": "garam masala",
+          "display_text": "1 tsp Garam Masala",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "2abbca2b-c665-56a0-86af-4913da5196d8",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "Small bunch Coriander",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "small bunch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "0a92cf93-d687-592a-9f26-1d05b08c9205",
+          "ingredient_id": "77b49c28-b9ef-58e3-ab11-154a34e97eba",
+          "name": "naan bread",
+          "display_text": "to serve Naan Bread",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "grains_pasta"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oil in a frying pan over high heat until it’s shimmering hot. Add the paneer, then turn the heat down a little. Fry until it starts to brown at the edges, then turn it over and brown on each side – the paneer will brown faster than you think, so don’t walk away. Remove the paneer from the pan and drain on kitchen paper.",
+      "ingredients_used": [
+        "880c76fb-2ae8-5421-8d68-3098b68a2862"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Put the ginger, cumin, turmeric, ground coriander and chilli in the pan, and fry everything for 1 min. Add the tomatoes, mashing them with the back of a spoon and simmer everything for 5 mins until the sauce smells fragrant. Add a splash of water if it’s too thick. Season well. Add the peas and simmer for a further 2 mins, then stir in the paneer and sprinkle over the garam masala. Divide between two bowls, top with coriander leaves and serve with naan bread, roti or rice.",
+      "ingredients_used": [
+        "880c76fb-2ae8-5421-8d68-3098b68a2862",
+        "dd0546ba-51bd-5e6f-b89a-c50f13752f23",
+        "9d8ec3e6-22bb-5039-a288-cf9a06dcb7fb",
+        "1927a297-f1bd-5561-93a2-07fafa412db0",
+        "197cca5e-00c8-5670-b368-55d9122bf3e6",
+        "3db51b5e-5fae-57f4-b633-96a3adfc6212",
+        "b2904d27-9f06-5790-aaae-da0a5123508a",
+        "3c1676cb-9ee1-5554-a4ab-f677cd698328",
+        "0901932c-6555-5dea-b13e-27497efb95ae",
+        "2abbca2b-c665-56a0-86af-4913da5196d8",
+        "0a92cf93-d687-592a-9f26-1d05b08c9205"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/matar-paneer"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

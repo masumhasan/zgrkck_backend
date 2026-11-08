@@ -1,0 +1,223 @@
+{
+  "id": "920d84bf-0878-5adc-8769-87319f25d4f0",
+  "version": "1.0.0",
+  "title": "Kulaç Soda Bread",
+  "slug": "kulac-soda-bread",
+  "summary": "Kulaç is an Albanian soda bread made with Greek yogurt, resulting in a dense, slightly tangy texture. It is often shaped into a circle and can be decorated with fork patterns before baking.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:31:31Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53408"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/9aia021779646058.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/9aia021779646058.jpg/small",
+      "alt_text": "Photo of Kulaç Soda Bread",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=h05_zOhGedo"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "e7c6b7b1-e982-5d1b-96fc-1577c9153035",
+        "slug": "albanian",
+        "name": "Albanian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "snack"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 40,
+    "total_time_minutes": 55
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "0089e817-7d71-5c90-8b09-2f0c59dd86d5",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "dab45a27-8710-575c-837c-414f09f728dd",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "450g Flour",
+          "quantity": 450.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "36bb0d1a-8030-52c6-bf22-1fdd564f0e0d",
+          "ingredient_id": "ba22b73d-e619-5bc7-a859-f65b683613fe",
+          "name": "greek yogurt",
+          "display_text": "500g Greek Yogurt",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "84aecb6b-ecd8-50ad-b9b6-81c76ace3e4d",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/2 tsp Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "9da8211e-6141-5382-985f-77ec7ff46b09",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 tsp Baking Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "33d8d97d-e713-5a27-a4bb-9af9553d35fd",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "Splash Olive Oil",
+          "quantity": 1,
+          "unit": "splash",
+          "is_optional": false,
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Prepare"
+    },
+    {
+      "step_number": 2,
+      "instruction": "On a large baking tray or a clean work surface, mix together the dry ingredients - flour, baking soda and salt.",
+      "ingredients_used": [
+        "dab45a27-8710-575c-837c-414f09f728dd",
+        "84aecb6b-ecd8-50ad-b9b6-81c76ace3e4d"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Make a well in the middle and add the yogurt. Using your hands slowly combined the ingredients together to start to form a dough.",
+      "ingredients_used": [
+        "36bb0d1a-8030-52c6-bf22-1fdd564f0e0d"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Kneed the dough on a floured surface, adding extra flour if you find the texture too sticky. The dough is ready when it is of a pizza dough texture and still very slightly sticky, this should only take a few minutes.",
+      "ingredients_used": [
+        "dab45a27-8710-575c-837c-414f09f728dd"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "On a baking tray add a little oil and put the dough on top. Shape and flatten the dough into a circle shape ensuring the height of the dough is about 5cm."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Cover the dough with a little bit of olive oil, ensure it is fully covered.",
+      "ingredients_used": [
+        "33d8d97d-e713-5a27-a4bb-9af9553d35fd"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "You can bake the Kulaç as it is or you can create patterns which also helps with even cooking. The most common patterns are using the back of a fork to slightly press down to create line dents all over or spiking the dough with the fork."
+    },
+    {
+      "step_number": 8,
+      "instruction": "Baking"
+    },
+    {
+      "step_number": 9,
+      "instruction": "Place on the bottom shelf of a pre heated oven. Bake for 40 minutes or until the dough is golden and firm to touch.",
+      "timer_seconds": 2400
+    },
+    {
+      "step_number": 10,
+      "instruction": "Cooling"
+    },
+    {
+      "step_number": 11,
+      "instruction": "Once removed from the oven, stand upright or place on a cooling rack to allow the Kulaç to cool."
+    },
+    {
+      "step_number": 12,
+      "instruction": "Serving"
+    },
+    {
+      "step_number": 13,
+      "instruction": "Cut the Kulaç the way you would a cake into 8 slices. If you are serving warm you may want to snap and pull apart the bread with your hands instead."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.myalbanianfood.com/recipe/albanian-kulac-albanian-soda-bread/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

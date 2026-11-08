@@ -1,0 +1,372 @@
+{
+  "id": "8d830378-2584-5312-a127-11562cd24d82",
+  "version": "1.0.0",
+  "title": "Baked brie with sorrel jam",
+  "slug": "baked-brie-with-sorrel-jam",
+  "summary": "A Danish-inspired starter featuring a warm, melted brie cheese wheel wrapped in flaky puff pastry and topped with a tangy, homemade sorrel jam.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:45:01Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53559"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/fg7d641784666908.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/fg7d641784666908.jpg/small",
+      "alt_text": "Photo of Baked brie with sorrel jam",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "11f008d8-4600-56c5-aaa2-cde07db70a5a",
+        "slug": "danish",
+        "name": "Danish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "starter"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "party",
+      "holiday"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 45
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1 slice of pastry-wrapped brie with jam"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "fe0e0b90-475f-5594-a308-34cb029e93f9",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "751e463d-f4dd-550d-97a5-fe98e3fc39af",
+          "ingredient_id": "584bd7f2-17a5-5a5f-b33d-96a79a265b1d",
+          "name": "dried sorrel",
+          "display_text": "1 cup Dried Sorrel",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "4ff2e067-5c16-5830-9128-e4a74ae5b84d",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "2 cups Brown Sugar",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "2274ce60-c1f8-5f00-927a-79d053441754",
+          "ingredient_id": "9c72d0cf-8d9c-53f6-b4c6-5631779ba66b",
+          "name": "ground ginger",
+          "display_text": "1 tsp Ground Ginger",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "4e6f6340-0e70-58f2-97da-ba3ed81f97ea",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "1/4 cup Cinnamon",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "bf51bc2b-282c-5980-a874-f251c9274f04",
+          "ingredient_id": "e649c677-18b1-5099-b2de-36904e7ffe2b",
+          "name": "vanilla pod",
+          "display_text": "1 vanilla pod",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "ab802b49-a3f6-5143-86f2-ba1ef7546580",
+          "ingredient_id": "4f3b3c33-6392-5e5a-ac51-d269b68aa6e4",
+          "name": "orange",
+          "display_text": "Zest of 1 Orange",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "zest",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "a0ebaca2-b270-538d-b3ef-d1896b1ed093",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "Boiled Water",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "boiled",
+          "is_optional": false,
+          "category": "beverages"
+        },
+        {
+          "id": "4905017b-4878-5077-8cd9-75e7bf301a8c",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 beaten Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "beaten",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "7b69ecf2-2c9a-5856-9824-a815ba2d38f6",
+          "ingredient_id": "a552ed18-91bb-59fa-a3c1-dad1308c6c3e",
+          "name": "puff pastry",
+          "display_text": "1 Slice Puff Pastry",
+          "quantity": 1.0,
+          "unit": "slice",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "c6247c11-0559-585a-93e8-6a8129ec4afe",
+          "ingredient_id": "b9955d8e-4b6c-5f48-86b7-bfb8d8d38f80",
+          "name": "brie",
+          "display_text": "2 Lbs Brie",
+          "quantity": 2.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 907.2,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "3c037774-f983-5763-9571-ad949bb8a1ea",
+          "ingredient_id": "9daeddb6-59de-5514-997d-b78ebfb8f8de",
+          "name": "sorrel jam",
+          "display_text": "To serve Sorrel Jam",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "condiments"
+        },
+        {
+          "id": "b97d5932-6d06-576a-8000-03d60a1f05ad",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1 tsp Water",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Sorrel jam instructions",
+      "ingredients_used": [
+        "751e463d-f4dd-550d-97a5-fe98e3fc39af",
+        "3c037774-f983-5763-9571-ad949bb8a1ea"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Combine sugar, sorrel, lemon zest, water in a medium sized pot.",
+      "ingredients_used": [
+        "751e463d-f4dd-550d-97a5-fe98e3fc39af",
+        "a0ebaca2-b270-538d-b3ef-d1896b1ed093",
+        "b97d5932-6d06-576a-8000-03d60a1f05ad"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Bring to a boil as petal becomes soft"
+    },
+    {
+      "step_number": 4,
+      "instruction": "Reduce heat, and cook until thickened."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Let it rest before using on brie",
+      "ingredients_used": [
+        "c6247c11-0559-585a-93e8-6a8129ec4afe"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Baked brie instructions",
+      "ingredients_used": [
+        "c6247c11-0559-585a-93e8-6a8129ec4afe"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "You can slice the brie in half to create a sandwich-like effect. Or you can leave the brie wheel intact and just trim the top rind of the wheel.",
+      "ingredients_used": [
+        "c6247c11-0559-585a-93e8-6a8129ec4afe"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Add a generous portion of jam to the top of the wheel, or one side of the sandwich"
+    },
+    {
+      "step_number": 9,
+      "instruction": "Roll dough out with a rolling pin on a floured surface"
+    },
+    {
+      "step_number": 10,
+      "instruction": "Trim excess dough. You can also use it to decorate ."
+    },
+    {
+      "step_number": 11,
+      "instruction": "Wrap the pastry up around the sides and over the top of cheese wheel, wrapping completely and pressing the edges of dough together to form a tightly sealed package.",
+      "ingredients_used": [
+        "7b69ecf2-2c9a-5856-9824-a815ba2d38f6"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Carefully flip the dough-wrapped cheese over, so that the gathered dough is on the bottom.Place the package, seam side down, on a baking sheet sprayed with non-stick cooking spray."
+    },
+    {
+      "step_number": 13,
+      "instruction": "The brie can be prepared up to this point and refrigerated for 2 days before baking.",
+      "ingredients_used": [
+        "c6247c11-0559-585a-93e8-6a8129ec4afe"
+      ]
+    },
+    {
+      "step_number": 14,
+      "instruction": "Be sure to bring the brie to room temperature before baking.",
+      "ingredients_used": [
+        "c6247c11-0559-585a-93e8-6a8129ec4afe"
+      ]
+    },
+    {
+      "step_number": 15,
+      "instruction": "Preheat the oven to 400° F.",
+      "temperature": {
+        "value": 400,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 16,
+      "instruction": "Combine the egg and water and brush the mixture over the top and sides of the pastry.",
+      "ingredients_used": [
+        "a0ebaca2-b270-538d-b3ef-d1896b1ed093",
+        "4905017b-4878-5077-8cd9-75e7bf301a8c",
+        "7b69ecf2-2c9a-5856-9824-a815ba2d38f6",
+        "b97d5932-6d06-576a-8000-03d60a1f05ad"
+      ]
+    },
+    {
+      "step_number": 17,
+      "instruction": "Add design from leftover dough if you'd like, and brush with egg mixture",
+      "ingredients_used": [
+        "4905017b-4878-5077-8cd9-75e7bf301a8c"
+      ]
+    },
+    {
+      "step_number": 18,
+      "instruction": "You can use leftover sorrel pulp from your juice to make the jam. It will be  a little less acidic and the color will be a brighter red instead of darker red.",
+      "ingredients_used": [
+        "751e463d-f4dd-550d-97a5-fe98e3fc39af"
+      ]
+    },
+    {
+      "step_number": 19,
+      "instruction": "Make my jam a day ahead, so I don’t feel rushed and the jam will have time to settle."
+    },
+    {
+      "step_number": 20,
+      "instruction": "Add the jam to the center of the brie by slicing the brie in half and having the jam as a filler.",
+      "ingredients_used": [
+        "c6247c11-0559-585a-93e8-6a8129ec4afe"
+      ]
+    },
+    {
+      "step_number": 21,
+      "instruction": "Next time, I’ll use a larger pot, so that I don’t need to add water frequently to tenderize the sorrel.",
+      "ingredients_used": [
+        "751e463d-f4dd-550d-97a5-fe98e3fc39af",
+        "a0ebaca2-b270-538d-b3ef-d1896b1ed093",
+        "b97d5932-6d06-576a-8000-03d60a1f05ad"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://dominicagourmet.com/baked-brie-with-sorrel-jam/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

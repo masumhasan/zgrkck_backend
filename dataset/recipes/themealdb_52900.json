@@ -1,0 +1,230 @@
+{
+  "id": "4b1bae54-6578-5739-9a73-f4b35b1e30e0",
+  "version": "1.0.0",
+  "title": "Madeira Cake",
+  "slug": "madeira-cake",
+  "summary": "A classic British sponge cake known for its firm texture and light lemon flavor, traditionally served with tea.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:47:26Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52900"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/urtqut1511723591.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/urtqut1511723591.jpg/small",
+      "alt_text": "Photo of Madeira Cake",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=-YDh4WEmK_E"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "baking",
+      "cake",
+      "desert",
+      "light"
+    ],
+    "meal_types": [
+      "dessert",
+      "snack"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "afternoon_snack"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 40,
+    "rest_time_minutes": 10,
+    "total_time_minutes": 65
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 slice of cake"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery"
+    ],
+    "may_contain": [
+      "sulfites"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "ec9977fd-77ac-594e-abc5-970a6f84c0ae",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "b66dccee-5bac-5737-be9c-3052701c0fbd",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "175g Butter",
+          "quantity": 175.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 175.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "ce864fe8-9908-59ff-9094-810fcaf53677",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "175g Caster Sugar",
+          "quantity": 175.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 175.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "5efc2bb6-6589-50c2-815a-dcd19e596bfc",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "3 Eggs",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "a42c76a0-5df9-5bc4-99e7-019f65728859",
+          "ingredient_id": "d923f6bd-1129-51bf-ba9e-32b3305fa65e",
+          "name": "self-raising flour",
+          "display_text": "250g Self-raising Flour",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "a20f476c-2c49-5b7b-9329-d8350c2a05d5",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "3 tbs Milk",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "349d0ac1-b95a-5e2b-9ce6-4d7dda81810b",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "Zest of 1 Lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "zest",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "8bff4abd-f30d-5e4b-9840-049526267181",
+          "ingredient_id": "fd374ea2-5987-5d14-8d28-f947902742a0",
+          "name": "mixed peel",
+          "display_text": "To Glaze Mixed Peel",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to glaze",
+          "is_optional": false,
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Pre-heat the oven to 180C/350F/Gas 4. Grease an 18cm/7in round cake tin, line the base with greaseproof paper and grease the paper.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "Cream the butter and sugar together in a bowl until pale and fluffy. Beat in the eggs, one at a time, beating the mixture well between each one and adding a tablespoon of the flour with the last egg to prevent the mixture curdling.",
+      "ingredients_used": [
+        "b66dccee-5bac-5737-be9c-3052701c0fbd",
+        "5efc2bb6-6589-50c2-815a-dcd19e596bfc"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Sift the flour and gently fold in, with enough milk to give a mixture that falls slowly from the spoon. Fold in the lemon zest.",
+      "ingredients_used": [
+        "a20f476c-2c49-5b7b-9329-d8350c2a05d5",
+        "349d0ac1-b95a-5e2b-9ce6-4d7dda81810b"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Spoon the mixture into the prepared tin and lightly level the top. Bake on the middle shelf of the oven for 30-40 minutes, or until golden-brown on top and a skewer inserted into the center comes out clean.",
+      "timer_seconds": 2400
+    },
+    {
+      "step_number": 5,
+      "instruction": "Remove from the oven and set aside to cool in the tin for 10 minutes, then turn it out on to a wire rack and leave to cool completely.",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 6,
+      "instruction": "To serve, decorate the cake with the candied peel.",
+      "ingredients_used": [
+        "8bff4abd-f30d-5e4b-9840-049526267181"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbc.co.uk/food/recipes/madeiracake_73878"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

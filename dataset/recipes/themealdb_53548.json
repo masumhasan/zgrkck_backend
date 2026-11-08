@@ -1,0 +1,243 @@
+{
+  "id": "3fb373e6-42ea-50a5-a0c0-bae1c964fed8",
+  "version": "1.0.0",
+  "title": "Baked Yuca Fries",
+  "slug": "baked-yuca-fries",
+  "summary": "Crispy baked yuca sticks seasoned with chili powder, served with a creamy avocado and lime dipping sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:43:57Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53548"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/j223gc1784579841.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/j223gc1784579841.jpg/small",
+      "alt_text": "Photo of Baked Yuca Fries",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "bd3047f5-b3e1-53bc-b58b-9c7b54443734",
+        "slug": "cuban",
+        "name": "Cuban"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 35,
+    "total_time_minutes": 50
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of fries with dipping sauce"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "a6bc9319-e8cb-576d-be48-c294ea26ceb1",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "475e9108-1989-5dfa-9c52-92365bc015b9",
+          "ingredient_id": "aa788d35-26cb-5757-b954-96811cfc2b49",
+          "name": "yuca",
+          "display_text": "2 large Yuca",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e4deba35-413e-5f51-b834-21d120cdaca2",
+          "ingredient_id": "96cc0c2b-795a-53be-a503-05d14e92b236",
+          "name": "extra virgin olive oil",
+          "display_text": "2 tablespoons Extra Virgin Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "0ddfa928-bc1b-5af6-97eb-b30abdd5d295",
+          "ingredient_id": "6fab3ead-b910-5c38-a787-4d74e606a7e1",
+          "name": "chilli powder",
+          "display_text": "1 tsp Chilli Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "cbd68372-e68b-5538-bef4-ab7ab1145dd8",
+          "ingredient_id": "f60d2962-95b1-5ff5-80ec-2e8902992bc9",
+          "name": "kosher salt",
+          "display_text": "Pinch Kosher Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "8774f951-edb9-5552-aef7-2a041037ea89",
+          "ingredient_id": "49e87b98-0472-5544-890c-195803881226",
+          "name": "ground black pepper",
+          "display_text": "Pinch Ground Black Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "f2665240-8c6e-5174-bf12-d2e7808e84d9",
+          "ingredient_id": "eb7e0cb5-be44-5074-93b2-98cbac9baf42",
+          "name": "avocado",
+          "display_text": "1 large Avocado",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e2aea675-1928-5bf8-b794-e4e9f174f754",
+          "ingredient_id": "6ca777b1-4e80-5a4b-8ffe-88c954e2cc8a",
+          "name": "sour cream",
+          "display_text": "1/4 cup Sour Cream",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "da8e6416-dfff-5fe2-99c9-741a685c3116",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "Juice of 1 Lime",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1a9abfab-6356-58bb-8149-68f400dffc49",
+          "ingredient_id": "1655ccbe-97a7-59b3-9245-ebc95a0ed6d0",
+          "name": "cilantro",
+          "display_text": "1/4 cup Cilantro",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat oven to 450°. Bring a large pot of water to a boil. Trim ends of yuca and cut each one in half, widthwise. Stand them on their ends and use a sharp knife to cut the waxy peel off. Cut each piece in half lengthwise and then cut in half lengthwise one more time to create 16 pieces total. Trim the fibrous center out of each piece.",
+      "ingredients_used": [
+        "475e9108-1989-5dfa-9c52-92365bc015b9"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Place cut yuca into boiling water and let boil until fork tender, 8 to 10 minutes. Using a slotted spoon, remove from pot and place on a paper towel lined cutting board. Pat dry with another paper towel.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "475e9108-1989-5dfa-9c52-92365bc015b9"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Place dried yuca into a large bowl and toss with oil. Season with chili powder, salt, and pepper and toss again to evenly coat. Place yuca on a large baking sheet in an even layer.",
+      "ingredients_used": [
+        "475e9108-1989-5dfa-9c52-92365bc015b9",
+        "cbd68372-e68b-5538-bef4-ab7ab1145dd8"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Bake until golden and crispy, about 25 minutes, tossing halfway through.",
+      "timer_seconds": 1500
+    },
+    {
+      "step_number": 5,
+      "instruction": "Meanwhile make dipping sauce: In a small food processor or blender, combine avocado, sour cream, lime juice, and cilantro and blend until smooth. Season with salt and pepper.",
+      "ingredients_used": [
+        "cbd68372-e68b-5538-bef4-ab7ab1145dd8",
+        "f2665240-8c6e-5174-bf12-d2e7808e84d9",
+        "e2aea675-1928-5bf8-b794-e4e9f174f754",
+        "da8e6416-dfff-5fe2-99c9-741a685c3116",
+        "1a9abfab-6356-58bb-8149-68f400dffc49"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Serve fries immediately with dipping sauce."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.delish.com/cooking/recipe-ideas/a36702083/yuca-fries-recipe/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

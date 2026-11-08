@@ -1,0 +1,220 @@
+{
+  "id": "ae4ec4be-e856-5e37-a879-fd56dbaf5eed",
+  "version": "1.0.0",
+  "title": "Griddled aubergines with sesame dressing",
+  "slug": "griddled-aubergines-with-sesame-dressing",
+  "summary": "Grilled aubergine slices served with a creamy tahini and yogurt dressing infused with garlic and fresh herbs.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:19:41Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53274"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/yoj48r1763817100.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/yoj48r1763817100.jpg/small",
+      "alt_text": "Photo of Griddled aubergines with sesame dressing",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=332VIeW67VM"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4c480df7-c067-5e9c-ac08-d8d49afa7f51",
+        "slug": "turkish",
+        "name": "Turkish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "courses": [
+      "side_dish",
+      "appetizer"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 6,
+    "total_time_minutes": 16
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "aubergine slices with dressing"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "tree_nuts",
+      "sesame"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "8d7820d2-cf56-5c0b-b65d-48682b3b53ba",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "bf835f6b-ad0c-50e9-bdac-7a0787e3125c",
+          "ingredient_id": "0c13526c-c9d0-5c10-bc72-13ae3bf32c7e",
+          "name": "aubergine",
+          "display_text": "2 large Aubergine",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "8bc19a4a-eb9b-5b70-b6fd-0bdcc266847a",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tablespoons Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "c8e8e385-0e4f-5d61-85ec-4b18949376d9",
+          "ingredient_id": "ba22b73d-e619-5bc7-a859-f65b683613fe",
+          "name": "greek yogurt",
+          "display_text": "250g Greek Yogurt",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "936192ae-55cf-5d12-b6b0-36eaa020f1e3",
+          "ingredient_id": "de16a8f5-5521-5c73-8b47-7a32a65ce109",
+          "name": "tahini paste",
+          "display_text": "3  tablespoons Tahini Paste",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "9780bbed-ad2e-57d9-a8e9-3ae1ef7f6ee9",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove peeled crushed Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "preparation": "peeled crushed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d9dc269b-e831-5a62-9bcb-199831e1981b",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "Juice of 1 Lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "506a0ac7-4a03-51c1-9a60-2c7a37cbf44c",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "Handful Coriander",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "03e36fdc-2e02-5191-a6a0-ed276d703ba0",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Handful Parsley",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "fe4a5794-320d-5b89-af37-95d4fb4880f4",
+          "ingredient_id": "0e838047-684d-55cb-884e-e7872e0e96c4",
+          "name": "mint",
+          "display_text": "Handful Mint",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Brush each aubergine slice with some oil, then season. Heat a griddle pan or barbecue. When hot, griddle the aubergine slices for 2-3 mins on each side until golden brown and tender.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "bf835f6b-ad0c-50e9-bdac-7a0787e3125c"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Mix the yogurt with the tahini, garlic, lemon juice and herbs, then season. Top the aubergines with the dressing and scatter over extra herb leaves.",
+      "ingredients_used": [
+        "bf835f6b-ad0c-50e9-bdac-7a0787e3125c",
+        "c8e8e385-0e4f-5d61-85ec-4b18949376d9",
+        "9780bbed-ad2e-57d9-a8e9-3ae1ef7f6ee9",
+        "d9dc269b-e831-5a62-9bcb-199831e1981b"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/griddled-aubergines-sesame-dressing"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

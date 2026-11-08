@@ -1,0 +1,329 @@
+{
+  "id": "14516a41-ad5b-5d34-aff8-de363444f524",
+  "version": "1.0.0",
+  "title": "Vietnamese lamb shanks with sweet potatoes",
+  "slug": "vietnamese-lamb-shanks-with-sweet-potatoes",
+  "summary": "Slow-cooked lamb shanks in a fragrant Vietnamese-style broth with sweet potatoes, lemongrass, and star anise.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:15:53Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53231"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/7xte3u1763757761.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/7xte3u1763757761.jpg/small",
+      "alt_text": "Photo of Vietnamese lamb shanks with sweet potatoes",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.tiktok.com/@shanice_and_lima/video/7280471655959383297"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "60481cf3-a7b7-5be4-a0dc-6b872c887e64",
+        "slug": "vietnamese",
+        "name": "Vietnamese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 150,
+    "total_time_minutes": 170
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 lamb shank with sweet potatoes and broth"
+  },
+  "allergens": {
+    "contains": [
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "7bff62ce-ccd5-580e-b906-83ec1313b3e5",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "85614ee5-63ce-523f-a58d-85cc8accf108",
+          "ingredient_id": "91c1bd70-d7c7-5326-89ba-7c3530c157d5",
+          "name": "ground nut oil",
+          "display_text": "2 tablespoons Ground Nut Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "563936b0-aeba-5726-82d4-6a8673a23d98",
+          "ingredient_id": "ad3b8c2c-7dce-5ea3-b33c-5e727e39b34c",
+          "name": "lamb shanks",
+          "display_text": "4 Lamb Shanks",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "b6a105a0-2121-50eb-b1fc-9300efc5257b",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "2 Onion",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e31dda23-37f2-5259-92f2-61d32bcf560c",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "2 tbs chopped Ginger",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "7a84104f-9269-5652-8a2e-6771cb187f1d",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "3 sliced thinly Garlic Clove",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "sliced thinly",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "07025d23-ab36-504f-b4cd-6743cc60964d",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "1 chopped Red Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "6ce5ca1b-de80-57bc-b638-643251d99ff2",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "1 sliced Red Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "8f75f309-e2de-5fd4-957d-d496e8d9291c",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "1 tablespoon Brown Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "f515f635-c0ed-5a38-95b3-ece36df764e4",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "1 tsp Brown Sugar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "09be2c67-3919-5f3a-ba78-853bc03decc8",
+          "ingredient_id": "64157e8a-c6c6-55a2-a87b-181db452c2d2",
+          "name": "star anise",
+          "display_text": "3 Star Anise",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1a4b0b0a-225f-5353-936e-aa281034e844",
+          "ingredient_id": "a729805b-0ef1-5769-999e-6483e337b4a5",
+          "name": "lemongrass stalks",
+          "display_text": "2 Lemongrass Stalks",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "8f5845bb-59ec-588d-9385-76a2aaaaa391",
+          "ingredient_id": "9879cab6-6792-528b-972b-49d2cbd22fc5",
+          "name": "lamb stock",
+          "display_text": "1L Lamb Stock",
+          "quantity": 1.0,
+          "unit": "liter",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "liter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "da23d33b-59c2-590b-a7e3-7b96ea36cace",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "1 ½ tbsp Tomato Puree",
+          "quantity": 1.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 22.5,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "00ecdf82-3662-5a19-bbb8-e5ad2f75e8e9",
+          "ingredient_id": "47da68fd-6de3-548e-856a-a2034af5866f",
+          "name": "sweet potatoes",
+          "display_text": "4 Sweet Potatoes",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "216b1e48-bcd5-5bd5-96e6-3c8d032e566e",
+          "ingredient_id": "de927c20-fdfa-5b98-8ee9-7840fa951a2f",
+          "name": "fish sauce",
+          "display_text": "2 tablespoons Fish Sauce",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "5e48693e-da65-5463-ad4b-1326d28ac64a",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "Juice of 2 Lime",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f85abaa4-c2a0-5ee3-8e8b-e90f2c77e596",
+          "ingredient_id": "0e838047-684d-55cb-884e-e7872e0e96c4",
+          "name": "mint",
+          "display_text": "Handful Mint",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "26e254ad-03b9-51c8-88c1-80631fc046bd",
+          "ingredient_id": "a1783c57-4793-5f4c-b52e-1ed99ab34832",
+          "name": "basil leaves",
+          "display_text": "Handful Basil Leaves",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 160C/140C fan/gas 3. Heat 1 tbsp oil in a heavy-bottomed casserole, season the shanks, then brown them 2 at a time on all sides, adding the remaining oil for the second batch. Remove the lamb and add the onions. Fry them quite briskly, about 30 secs, add the ginger, garlic and chopped chilli, then turn the heat down and cook for 1 min. Add 1 tbsp sugar, stir, then add the star anise, lemongrass, stock, purée and seasoning. Bring to the boil.",
+      "temperature": {
+        "value": 160,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "563936b0-aeba-5726-82d4-6a8673a23d98",
+        "b6a105a0-2121-50eb-b1fc-9300efc5257b",
+        "e31dda23-37f2-5259-92f2-61d32bcf560c",
+        "07025d23-ab36-504f-b4cd-6743cc60964d",
+        "6ce5ca1b-de80-57bc-b638-643251d99ff2",
+        "09be2c67-3919-5f3a-ba78-853bc03decc8"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Cover and cook in the oven for 1½ hrs, then add the sweet potatoes and cook for 1 hr more. The lamb should be completely tender and almost falling off the bones. Stir in the fish sauce, lime juice and 1 tsp sugar to just lift the flavor, then scatter with the mint, basil and the sliced chilli to serve.",
+      "timer_seconds": 3600,
+      "ingredients_used": [
+        "07025d23-ab36-504f-b4cd-6743cc60964d",
+        "6ce5ca1b-de80-57bc-b638-643251d99ff2",
+        "00ecdf82-3662-5a19-bbb8-e5ad2f75e8e9",
+        "216b1e48-bcd5-5bd5-96e6-3c8d032e566e",
+        "5e48693e-da65-5463-ad4b-1326d28ac64a",
+        "f85abaa4-c2a0-5ee3-8e8b-e90f2c77e596"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/vietnamese-lamb-shanks-sweet-potatoes"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

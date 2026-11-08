@@ -1,0 +1,218 @@
+{
+  "id": "3f512e5d-5f92-599d-a408-3644356bd28b",
+  "version": "1.0.0",
+  "title": "Apple Pie",
+  "slug": "apple-pie",
+  "summary": "A traditional Estonian dessert consisting of a soft cake-like batter filled with sliced apples.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:46:21Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53575"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/stnxzp1784835840.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/stnxzp1784835840.jpg/small",
+      "alt_text": "Photo of Apple Pie",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "da9196a9-a77a-56ba-93b0-a3364fc63c4e",
+        "slug": "estonian",
+        "name": "Estonian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 45
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 slice of pie"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "1aab7318-ce5a-53e6-889d-0e0e7a56f46e",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "c6002c33-ac85-532b-9f2b-2bddd6ad0239",
+          "ingredient_id": "6a1dceb6-71ee-57ce-baf5-40c7434f83c8",
+          "name": "apples",
+          "display_text": "4 Apples",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "412ee594-4942-5de1-b14d-520295aeef73",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "2 Eggs",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "93773d61-0de5-5ff0-bfb6-4908676258ef",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "125ml Sugar",
+          "quantity": 125.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 125.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "68ffb964-2b53-5520-9a87-24ee00b4f067",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "1 1/2 cups Flour",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "dc372b1f-b629-5d05-8be3-03f0a98a0b88",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/2 tsp Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "2277f15a-7b6f-5941-8712-81fb922ee3c0",
+          "ingredient_id": "5b3aa746-938c-5e92-be83-6710a36a51db",
+          "name": "bicarbonate of soda",
+          "display_text": "1 tsp Bicarbonate Of Soda",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "5952491e-43a7-5254-8758-f47a81db5aaa",
+          "ingredient_id": "69aee303-f7d5-58b1-9584-59746ede37ca",
+          "name": "sour milk",
+          "display_text": "250ml Sour Milk",
+          "quantity": 250.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Peel and clean apples/rhubarb, cut in to a slices",
+      "ingredients_used": [
+        "c6002c33-ac85-532b-9f2b-2bddd6ad0239"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "beat eggs and sugar together into a light foam",
+      "ingredients_used": [
+        "412ee594-4942-5de1-b14d-520295aeef73",
+        "93773d61-0de5-5ff0-bfb6-4908676258ef"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Mix together flour, salt and baking powder",
+      "ingredients_used": [
+        "68ffb964-2b53-5520-9a87-24ee00b4f067",
+        "dc372b1f-b629-5d05-8be3-03f0a98a0b88"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add  the dry ingredients to the egg mixture and add sour milk gradually while stirring,  Add berries.",
+      "ingredients_used": [
+        "5952491e-43a7-5254-8758-f47a81db5aaa"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Pour dough in to a butter greased pan. Sprinkle over sugar (and cinnamon). Bake at 180 C for 30 minute",
+      "timer_seconds": 1800,
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "93773d61-0de5-5ff0-bfb6-4908676258ef"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://estoniancuisine.com/2017/07/07/soft-grandmothers-apple-or-rhubarb-pie/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

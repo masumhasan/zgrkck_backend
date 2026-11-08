@@ -1,0 +1,270 @@
+{
+  "id": "81afd796-23b2-55b9-80e9-38a97395a08a",
+  "version": "1.0.0",
+  "title": "Chakchouka",
+  "slug": "chakchouka",
+  "summary": "A traditional Tunisian dish consisting of a spiced tomato and pepper sauce with eggs poached directly in the mixture.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:53:41Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52969"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/gpz67p1560458984.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/gpz67p1560458984.jpg/small",
+      "alt_text": "Photo of Chakchouka",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=EHKNu93MSx4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "23146f21-0265-5561-bbec-944b008fa0d1",
+        "slug": "tunisian",
+        "name": "Tunisian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "brunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "weeknight_dinner"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 35
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 egg with sauce"
+  },
+  "allergens": {
+    "contains": [
+      "eggs"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": [
+      "gluten"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "157081a4-6828-5ffa-8aa5-9d2c19809320",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "70baf49a-b6ad-50e4-8bba-9693c2b3a410",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomatoes",
+          "display_text": "4 Tomatoes",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "548a3e7e-b2a4-5e63-87ce-0992af194f69",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tbs Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "8cd58081-a41e-538c-aaec-790f9cdd1385",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Diced Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "59342d94-a6ce-5259-9879-ef091507141d",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1 sliced Red Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "954b9840-4329-5c87-b6cb-0527f4488f36",
+          "ingredient_id": "f86b83d4-879d-54bb-a883-73bbfa9228ba",
+          "name": "green pepper",
+          "display_text": "1 sliced Green Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "12904483-88fc-5218-b90a-788bcf708e2a",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 Cloves Crushed Garlic",
+          "quantity": 3.0,
+          "unit": "clove",
+          "preparation": "crushed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "9b82acc7-e058-5cb8-8b6d-f0b46adef0db",
+          "ingredient_id": "be79b3bd-bc90-5d15-aab2-4f95774b8de1",
+          "name": "cumin",
+          "display_text": "1 tsp Cumin",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "ecf80659-66a0-5b2b-a7a1-ea775e0f22f2",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1 tsp Paprika",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "2c5e187b-a00f-5219-8452-a2e1fbe8584b",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "3/4 teaspoon Salt",
+          "quantity": 0.75,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 3.8,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "425cd93f-1604-504e-b699-13b86dcf8753",
+          "ingredient_id": "82355d68-cedc-5a32-8a70-51eb80680771",
+          "name": "chili powder",
+          "display_text": "1/2 teaspoon Chili Powder",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e4f54e85-92c0-555d-92f2-25ba88b8e2f9",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "4 Eggs",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "In a large cast iron skillet or sauté pan with a lid, heat oil over medium high heat. Add the onion and sauté for 2-3 minutes, until softened.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "8cd58081-a41e-538c-aaec-790f9cdd1385"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the peppers and garlic, and sauté for an additional 3-5 minutes. Add the tomatoes, cumin, paprika, salt, and chili powder.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "70baf49a-b6ad-50e4-8bba-9693c2b3a410",
+        "12904483-88fc-5218-b90a-788bcf708e2a",
+        "9b82acc7-e058-5cb8-8b6d-f0b46adef0db",
+        "ecf80659-66a0-5b2b-a7a1-ea775e0f22f2",
+        "2c5e187b-a00f-5219-8452-a2e1fbe8584b",
+        "425cd93f-1604-504e-b699-13b86dcf8753"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Mix well and bring the mixture to a simmer. Reduce the heat to medium low and continue to simmer, uncovered, 10-15 minutes until the mixture has thickened to your desired consistency. (Taste the sauce at this point and adjust for salt and spice, as desired.) Using the back of a spoon, make four craters in the mixture, large enough to hold an egg.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "2c5e187b-a00f-5219-8452-a2e1fbe8584b"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Crack one egg into each of the craters. Cover the skillet and simmer for 5-7 minutes, until the eggs have set.",
+      "timer_seconds": 420,
+      "ingredients_used": [
+        "e4f54e85-92c0-555d-92f2-25ba88b8e2f9"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Serve immediately with crusty bread or pita."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.curiouscuisiniere.com/chakchouka/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

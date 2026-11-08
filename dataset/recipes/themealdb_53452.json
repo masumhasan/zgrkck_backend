@@ -1,0 +1,215 @@
+{
+  "id": "7f788044-4bad-52c7-95d2-4482f7791659",
+  "version": "1.0.0",
+  "title": "Handesh – Bangladeshi rice flour and date molasses cakes",
+  "slug": "handesh-bangladeshi-rice-flour-and-date-molasses-cakes",
+  "summary": "Handesh are traditional Bangladeshi sweet cakes made from a batter of rice flour, wheat flour, and date molasses, which are deep-fried until golden and puffed.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:35:20Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53452"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/vfybi01780261706.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/vfybi01780261706.jpg/small",
+      "alt_text": "Photo of Handesh – Bangladeshi rice flour and date molasses cakes",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "3fa2a93a-81b0-51e9-8da2-f5fc1192c36e",
+        "slug": "bangladeshi",
+        "name": "Bangladeshi"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "marinating_time_minutes": 120,
+    "total_time_minutes": 140
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a small pile of cakes"
+  },
+  "allergens": {
+    "contains": [
+      "gluten"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery",
+      "sulfites"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "ceb8b580-c423-5c14-a410-9c54982a94f4",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "8a6749d3-7f88-5610-b3ea-9f73faed6cc0",
+          "ingredient_id": "13322fb3-3703-5afb-8a07-87ef2086dbb1",
+          "name": "date molasses",
+          "display_text": "250g Date Molasses",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "94dc7ba8-ab7d-5ab9-9383-8609976bcd2f",
+          "ingredient_id": "390767a5-b5bd-56c6-93dd-03bf9dcc5356",
+          "name": "warm water",
+          "display_text": "400ml Warm Water",
+          "quantity": 400.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "9567d1a1-59a1-5930-a009-a69a59a8a005",
+          "ingredient_id": "bb7538bd-fd5e-5266-99fb-19310715e076",
+          "name": "rice flour",
+          "display_text": "250g Rice Flour",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "e8586b2a-6a65-5b85-acd9-8a928f9eff43",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "150g Flour",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "30f88a60-964a-5484-90e4-20e74a4a7feb",
+          "ingredient_id": "7af3c207-3c37-5965-a096-bf34ac1db1f4",
+          "name": "ground cinnamon",
+          "display_text": "1/4 tsp Ground Cinnamon",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "fb97035e-b644-509b-b0f2-d4db0df7df46",
+          "ingredient_id": "3bca0ce2-1312-525a-a4c2-bee7bbeaa967",
+          "name": "ground cardomom",
+          "display_text": "1/4 tsp Ground Cardomom",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Add the molasses to a large mixing bowl and begin by pouring 300ml of water to start with and whisk together. The texture of Bangladeshi molasses varies from a thick syrup to slightly set. I use brands such as Zilani or Akza. If the set is very syrupy (like golden syrup) you will only require 300–325ml of water",
+      "ingredients_used": [
+        "8a6749d3-7f88-5610-b3ea-9f73faed6cc0"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Pour in the flours and spices (if using) and whisk for 3–5 minutes, until you have a smooth batter. You need to check carefully for lumps, as they prevent the handesh from rising and will cause them to split. Cover the batter and rest for 2 hours"
+    },
+    {
+      "step_number": 3,
+      "instruction": "After 2 hours, thoroughly whisk the batter until smooth, as the rice flour will have settled at the bottom of the bowl. The batter should have a fairly thick consistency, yet remain loose enough to pour – similar to thick pancake or waffle batter. It should form ribbons as you drag the whisk though it",
+      "timer_seconds": 7200,
+      "ingredients_used": [
+        "9567d1a1-59a1-5930-a009-a69a59a8a005",
+        "e8586b2a-6a65-5b85-acd9-8a928f9eff43"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Take a cast-iron korai or wok and add enough oil to half-fill the pan, or enough to deep-fry and turn the heat to high. Once the oil is hot reduce the heat to low–medium. Drop in a teaspoon of batter to test the oil – if it rises slowly to the surface the oil is ready"
+    },
+    {
+      "step_number": 5,
+      "instruction": "Pour batter in a quick steady stream into the center of the pan, preferably using a pyrex jug with a pouring spout (About 45ml of batter for each cake). It should rise to the surface in about 15–20 seconds and slowly puff up. If it rises too quickly, just turn the heat down slightly. Cook for 45 seconds, or until the underside is golden. Carefully turn over and cook for a further 30–45 seconds, until golden. Make sure to not let excess batter drip into the pan as this may prevent the cakes from rising and always fry one at a time"
+    },
+    {
+      "step_number": 6,
+      "instruction": "If the batter splits while frying, whisk in 2 tablespoons of flour to the mixture and try again. You should be creating handesh which are about the size of a digestive biscuit",
+      "ingredients_used": [
+        "e8586b2a-6a65-5b85-acd9-8a928f9eff43"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Use a slotted spoon to remove the handesh and place on kitchen towel with frilled edge facing down while you continue frying the reaming batter. This helps retain the shape of the cakes"
+    },
+    {
+      "step_number": 8,
+      "instruction": "Enjoy hot, fresh out of the pan. Once cool, place in an airtight container overnight and in the fridge for up to a week. Reheat in a warm oven for a few minutes to refresh or on a tawa or frying pan over a very low heat, turning a few times"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.greatbritishchefs.com/recipes/handesh-recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

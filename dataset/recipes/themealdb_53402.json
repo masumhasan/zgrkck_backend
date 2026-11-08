@@ -1,0 +1,265 @@
+{
+  "id": "2ba91e70-7173-5437-be34-ff5f22cf1c61",
+  "version": "1.0.0",
+  "title": "Mantu Afghan Dumpling",
+  "slug": "mantu-afghan-dumpling",
+  "summary": "Mantu are traditional Afghan dumplings filled with a spiced minced lamb and onion mixture, served with a tomato sauce and strained yogurt topping.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:30:58Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53402"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/oemdp11779556068.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/oemdp11779556068.jpg/small",
+      "alt_text": "Photo of Mantu Afghan Dumpling",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/shorts/KTgAOhsTTC8"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "e686c554-2e81-511f-b656-15ef0dcb3943",
+        "slug": "afghan",
+        "name": "Afghan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "starter",
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 45,
+    "rest_time_minutes": 60,
+    "total_time_minutes": 135
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of dumplings with sauce and yogurt"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "f06d097e-c47f-5021-becc-b39697de6180",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "7b606714-ce45-5723-8417-cee5576469ed",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "450g Plain Flour",
+          "quantity": 450.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "dcb63f67-e980-5c48-a140-0119821d5955",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "225ml Water",
+          "quantity": 225.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 225.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "52f552fd-c89b-5361-bde3-aedc52020936",
+          "ingredient_id": "9d9a6681-e50b-5870-820c-5bf49172a394",
+          "name": "lamb",
+          "display_text": "450g Lamb",
+          "quantity": 450.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "7385b4f8-6383-53fa-98d6-3695a1792678",
+          "ingredient_id": "091f7fa6-975c-516e-a354-2a31e6503580",
+          "name": "green chilli",
+          "display_text": "1 Green Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ca286963-c1aa-526e-9535-79139ac76cd3",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onions",
+          "display_text": "450g Onions",
+          "quantity": 450.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "8a6cb2ab-8b3a-5529-ba6b-9e97300a64dc",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "2 tblsp Black Pepper",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "775b9dc3-1a2a-50c7-9fd3-d131bcc7bc0c",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "1 tablespoon Vegetable Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "8ca10b89-e944-56f5-83ed-ae29778edb84",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "1 tablespoon Tomato Puree",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "ba1763ae-2fff-5e99-bb6c-82b9d6d274ed",
+          "ingredient_id": "9c8a7c3b-cbbf-59f5-bd3d-4f150352676a",
+          "name": "strained yogurt",
+          "display_text": "425ml Strained Yogurt",
+          "quantity": 425.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 425.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "060d9f60-f738-5bb7-8b3c-97f69d7d6fd2",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "Pinch Coriander",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "To prepare the dough, sift the flour with 1tsp of salt into a mixing bowl. Slowly mix in as much of the water is required, until a stiff dough is formed. Knead on a clean work surface for 5-10 minutes, until the dough is elastic and shiny. Cover with a damp cloth and set aside for about an hour.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "dcb63f67-e980-5c48-a140-0119821d5955"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Put the chopped lamb, onions, chilli, 1 tsp salt, ground pepper and spices in a bowl and mix thoroughly.",
+      "ingredients_used": [
+        "52f552fd-c89b-5361-bde3-aedc52020936",
+        "7385b4f8-6383-53fa-98d6-3695a1792678",
+        "ca286963-c1aa-526e-9535-79139ac76cd3"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Divide the dough into 4 small balls, and roll out to a thickness of 1.5mm, cutting into 10cm squares. Into each square, place 1 heaped teaspoon of the lamb mixture.",
+      "ingredients_used": [
+        "52f552fd-c89b-5361-bde3-aedc52020936"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Take two opposite corners and bring them to join in the center by nipping together firmly between your fingers, and then bring together to other two corners in the same manner. Note that the mantu should not be entirely closed, as the steam has to be penetrate and cook the filling!"
+    },
+    {
+      "step_number": 5,
+      "instruction": "Using fat to grease the shelves of the steamer, place your mantu so that there is a small space between each one. Steam for 30-45 minutes over a medium heat.",
+      "timer_seconds": 2700
+    },
+    {
+      "step_number": 6,
+      "instruction": "Meanwhile, make the tomato sauce. Heat the oil in a pan, add tomato puree, and bring to the boil. Stir and simmer on a low heat until the mantu are ready.",
+      "ingredients_used": [
+        "8ca10b89-e944-56f5-83ed-ae29778edb84"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Remove the mantu carefully from the steamer and place on a large, warm dish. Spoon the tomato sauce over the top, followed by the strained yogurt, and sprinkle with chopped coriander to garnish.",
+      "ingredients_used": [
+        "ba1763ae-2fff-5e99-bb6c-82b9d6d274ed",
+        "060d9f60-f738-5bb7-8b3c-97f69d7d6fd2"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.afghanaid.org.uk/mantu-afghan-dumpling-recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

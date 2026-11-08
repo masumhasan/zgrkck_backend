@@ -1,0 +1,288 @@
+{
+  "id": "a2844a19-9561-557a-804d-6e8609e607e4",
+  "version": "1.0.0",
+  "title": "Beef pumpkin Stew",
+  "slug": "beef-pumpkin-stew",
+  "summary": "A hearty Botswanan-style stew featuring beef chunks simmered in a savory pumpkin puree and beef stock base with potatoes and carrots.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:36:55Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53469"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/k07k271782502861.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/k07k271782502861.jpg/small",
+      "alt_text": "Photo of Beef pumpkin Stew",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "7eccd33d-bce1-55b8-8196-232aa305f7a3",
+        "slug": "botswanan",
+        "name": "Botswanan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 210,
+    "total_time_minutes": 230
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "servings",
+    "serving_size_description": "a large bowl of stew"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "soy",
+      "fish",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "0cbb6cac-a964-52c6-9041-80acbe0fa938",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "3ef2270e-b1bd-5075-94b7-aeec665e3408",
+          "ingredient_id": "c2102b4e-a5b4-5bab-b7d5-bdfa5244ae7b",
+          "name": "beef",
+          "display_text": "3 Lbs Beef",
+          "quantity": 3.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 1360.8,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "571f785f-e990-5fdc-9c3b-a761d51e5e60",
+          "ingredient_id": "d1e5ec78-b8c2-5649-962c-a9f67272ea92",
+          "name": "all purpose flour",
+          "display_text": "1/2 cup All purpose flour",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "53cf2bde-3f0f-5eb7-9785-554626e6713e",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "3  tablespoons Butter",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "0b53b855-eb76-5991-813c-3794fa81985f",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 cup Onion",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "b4dd35bd-d1bf-5bf2-8392-afdef27ed9fc",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove peeled crushed Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "preparation": "peeled crushed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "be878166-a223-5971-9099-0bd7cbc162aa",
+          "ingredient_id": "39a746ef-3300-5229-b0b2-3e03970ea60c",
+          "name": "beef stock",
+          "display_text": "4 cups Beef Stock",
+          "quantity": 4.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 960.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "5843a6f4-d7ba-5985-a1e4-75b295e2561e",
+          "ingredient_id": "dc0c8f59-9c41-5949-8a96-e357a0ff304d",
+          "name": "pumpkin puree",
+          "display_text": "3 Cups Pumpkin Puree",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "ad1cb57f-762b-5a7a-9b1a-7c0cb39f2eb3",
+          "ingredient_id": "31e8f031-3e86-5406-8703-0e73554e2898",
+          "name": "worcestershire sauce",
+          "display_text": "1 tablespoon Worcestershire Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "b758fd4e-6e3b-5a01-ba0a-5a35f57b3f65",
+          "ingredient_id": "f60d2962-95b1-5ff5-80ec-2e8902992bc9",
+          "name": "kosher salt",
+          "display_text": "1 tablespoon Kosher Salt",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "5d8bec64-9a12-5513-92d4-4de648684b78",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1 teaspoon Black Pepper",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "92711f80-3817-51cc-af1e-1fbe1285a01f",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "3 Lbs Potatoes",
+          "quantity": 3.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 1360.8,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "9f789e95-b538-5d77-8752-1a78acb2ebae",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "1 lb Carrots",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "c2ee79af-1e3f-5019-9145-1e5dbc74f863",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "4 sprigs Thyme",
+          "quantity": 4.0,
+          "unit": "sprig",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Cut the beef into 1-inch chunks. Dredge the beef in the flour until all of the beef sides are covered.",
+      "ingredients_used": [
+        "3ef2270e-b1bd-5075-94b7-aeec665e3408"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a large soup pot, melt the butter over medium high-heat. In small quantities, brown the beef on all sides, removing the browned beef and setting it aside in a large bowl as you go. When the beef is browned, add the onion and the garlic to the pot. Sauté the onion and garlic for one minute, scraping the bottom of the pot as you stir.",
+      "ingredients_used": [
+        "3ef2270e-b1bd-5075-94b7-aeec665e3408",
+        "53cf2bde-3f0f-5eb7-9785-554626e6713e",
+        "0b53b855-eb76-5991-813c-3794fa81985f",
+        "b4dd35bd-d1bf-5bf2-8392-afdef27ed9fc"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Return the browned beef to the pot and add the beef stock, pumpkin puree, Worcestershire sauce, salt, and pepper. Stir well and bring to a boil. Once the liquid is boiling, reduce heat to medium-low and simmer for 3 hours, stirring occasionally.",
+      "timer_seconds": 10800,
+      "ingredients_used": [
+        "3ef2270e-b1bd-5075-94b7-aeec665e3408",
+        "be878166-a223-5971-9099-0bd7cbc162aa",
+        "5843a6f4-d7ba-5985-a1e4-75b295e2561e",
+        "ad1cb57f-762b-5a7a-9b1a-7c0cb39f2eb3",
+        "b758fd4e-6e3b-5a01-ba0a-5a35f57b3f65"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add the potatoes, carrots and thyme sprigs to the pot and increase heat to medium. Cook for an additional 30 minutes. Salt to taste and serve.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "b758fd4e-6e3b-5a01-ba0a-5a35f57b3f65",
+        "92711f80-3817-51cc-af1e-1fbe1285a01f",
+        "9f789e95-b538-5d77-8752-1a78acb2ebae",
+        "c2ee79af-1e3f-5019-9145-1e5dbc74f863"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.honeyandbirch.com/pumpkin-beef-stew-recipe/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

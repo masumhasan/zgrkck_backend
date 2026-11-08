@@ -1,0 +1,237 @@
+{
+  "id": "dac9e371-0304-5b42-ac0c-2146d469a2ed",
+  "version": "1.0.0",
+  "title": "Ham hock colcannon",
+  "slug": "ham-hock-colcannon",
+  "summary": "A traditional Irish dish consisting of mashed potatoes mixed with sautéed cabbage, spring onions, and ham, topped with a fried egg.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:58:54Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53035"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/n41ny81608588066.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/n41ny81608588066.jpg/small",
+      "alt_text": "Photo of Ham hock colcannon",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=aQJAU2iJ730"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9afcb22c-d4b3-58a6-981b-5d7f3acffbaf",
+        "slug": "irish",
+        "name": "Irish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 25,
+    "rest_time_minutes": 2,
+    "total_time_minutes": 42
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of colcannon with 1 fried egg"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "eggs",
+      "mustard"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "039ba0b5-13d3-5a9c-8f7b-3930be1fbb6a",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "979be5af-cfd7-5028-ad11-8adb9bb1068c",
+          "ingredient_id": "5ab2844a-ae46-593a-bd2a-31993da0d0b3",
+          "name": "floury potatoes",
+          "display_text": "800g Floury Potatoes",
+          "quantity": 800.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 800.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "796c5812-2a7c-5879-9918-edbad2806779",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "50g Butter",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "5d7b5607-1b4b-5911-99dc-7255711a757e",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "3 chopped Garlic Clove",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "befb59fc-09cd-575a-b41d-b987a16d1f64",
+          "ingredient_id": "8604c41c-a935-5634-b405-fed806fe806b",
+          "name": "cabbage",
+          "display_text": "1 chopped Cabbage",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "6e35b93b-c44f-5566-bd3c-cb2ac19baf54",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "8 Spring Onions",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c8f624f3-423c-558c-9a10-1795c49bf3f0",
+          "ingredient_id": "81b5723b-47de-5017-987f-cdcc95dd362b",
+          "name": "double cream",
+          "display_text": "100ml Double Cream",
+          "quantity": 100.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "265ad453-5592-587c-a324-cda718d599f0",
+          "ingredient_id": "b9e3afdc-e194-5f5e-bbae-5c3659d35a67",
+          "name": "mustard",
+          "display_text": "2 tbs Mustard",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "1a5f3976-e2e8-56a8-be5e-dd373c26e057",
+          "ingredient_id": "c61b86c2-f691-51ef-9d76-0787f0d404f5",
+          "name": "ham",
+          "display_text": "180g Ham",
+          "quantity": 180.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 180.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "d93449d8-2539-5330-a12b-5f2c68b78d53",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "4 Eggs",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Peel and cut the potatoes into even, medium-sized chunks. Put in a large pan filled with cold salted water, bring to the boil and cook for 10-15 mins until a knife can be inserted into the potatoes easily.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "979be5af-cfd7-5028-ad11-8adb9bb1068c"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Meanwhile, melt the butter in a large sauté pan over a medium heat. Add the garlic, cabbage, spring onions and some seasoning. Stir occasionally until the cabbage is wilted but still retains a little bite, then set aside.",
+      "ingredients_used": [
+        "796c5812-2a7c-5879-9918-edbad2806779",
+        "befb59fc-09cd-575a-b41d-b987a16d1f64",
+        "6e35b93b-c44f-5566-bd3c-cb2ac19baf54"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Drain the potatoes, leave to steam-dry for a couple of mins, then mash with the cream, mustard and seasoning in the same saucepan. Stir in the cabbage and ham hock. Keep warm over a low heat.",
+      "ingredients_used": [
+        "979be5af-cfd7-5028-ad11-8adb9bb1068c",
+        "befb59fc-09cd-575a-b41d-b987a16d1f64",
+        "265ad453-5592-587c-a324-cda718d599f0",
+        "1a5f3976-e2e8-56a8-be5e-dd373c26e057"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Reheat the pan you used to cook the cabbage (no need to wash first), add a splash of oil, crack in the eggs and fry to your liking. To serve, divide the colcannon between bowls and top each with a fried egg.",
+      "ingredients_used": [
+        "befb59fc-09cd-575a-b41d-b987a16d1f64",
+        "d93449d8-2539-5330-a12b-5f2c68b78d53"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/ham-hock-colcannon"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "id": "38c04786-5ed7-59ad-872e-341520d4e9d5",
+  "version": "1.0.0",
+  "title": "Lamb tomato and sweet spices",
+  "slug": "lamb-tomato-and-sweet-spices",
+  "summary": "A Moroccan-style dish featuring lamb mince and rice wrapped in vine leaves, simmered in a spiced tomato sauce with fennel.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:37:27Z",
+  "updated_at": "2026-10-16T10:22:43Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52782"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/qtwtss1468572261.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/qtwtss1468572261.jpg/small",
+      "alt_text": "Photo of Lamb tomato and sweet spices",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=vaZb1MnFBgA"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "118c0c07-e5c2-5a71-ac2b-49c1d77823aa",
+        "slug": "moroccan",
+        "name": "Moroccan"
+      }
+    ],
+    "tags": [
+      "sweet"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "advanced",
+    "occasions": [
+      "easter"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 45,
+    "cook_time_minutes": 90,
+    "total_time_minutes": 135
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "portions",
+    "serving_size_description": "a few vine leaves with fennel slices and rice"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "dairy",
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "42145b86-5f0f-5b24-a36e-d6525cdc5808",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "97f2c968-a328-51b7-a5cf-b7994b959db8",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tbsp olive oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "c483967c-0d59-5ce8-b5cb-c65b1479d996",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "4cm piece finely chopped ginger",
+          "quantity": 4.0,
+          "unit": "centimeter",
+          "preparation": "piece finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "9e524dd2-df2e-57bd-9894-720bac2b3f26",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves peeled and chopped garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "peeled and chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7c9e7c91-018c-5e1d-bc8d-d199020a7af4",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomatoes",
+          "display_text": "800g peeled and chopped tomatoes",
+          "quantity": 800.0,
+          "unit": "gram",
+          "preparation": "peeled and chopped",
+          "is_optional": false,
+          "metric_quantity": 800.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "01e1d050-c34a-5999-b674-dbeb0d540082",
+          "ingredient_id": "4020879e-a0a5-58e2-b093-33c7e85c8a08",
+          "name": "lemon juice",
+          "display_text": "2 tbsp lemon juice",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "c730df4b-d32c-5cd4-8982-e9898d47b359",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "1 tsp caster sugar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "4be4925f-47b4-501a-a887-cd606c1ae62f",
+          "ingredient_id": "a2173669-3649-5e7c-8662-702ded52af84",
+          "name": "vine leaves",
+          "display_text": "50 vine leaves",
+          "quantity": 50.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "619e6c7e-5e2d-57d8-b0a6-4f5ead6ec93f",
+          "ingredient_id": "b82bdfe9-4fe1-5840-ab6c-b4bb8469fe4e",
+          "name": "fennel bulb",
+          "display_text": "1 large fennel bulb",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b1fcf012-ae98-5916-8aea-bd3d98702c6e",
+          "ingredient_id": "4d40d67a-57b5-5c91-91d3-62eba5bf1b7e",
+          "name": "lamb mince",
+          "display_text": "400g lamb mince",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "8a22d91c-a8af-54ed-8fc4-da753d84d1f0",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 medium onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b1e92b0c-e9a6-5ba4-b91e-10cab3c1b8b7",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "1 small peeled and coarsely grated potatoes",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "small peeled and coarsely grated",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "472a9369-73c0-5c32-931e-562115f9b7fa",
+          "ingredient_id": "83ffb65f-48c4-5295-bd29-b97975a1fcb1",
+          "name": "basmati rice",
+          "display_text": "2 tbsp basmati rice",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "d460d5c8-4786-5683-bcb2-f213d75aac50",
+          "ingredient_id": "3029588a-ffab-59b3-a77a-61dcd622662f",
+          "name": "chopped parsley",
+          "display_text": "2 tbsp chopped parsley",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "2a487d3a-025e-5362-8595-541d6e4f6466",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "2 tbsp chopped coriander",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "a9f32df7-db48-5d51-a146-b0f2c2536416",
+          "ingredient_id": "4020879e-a0a5-58e2-b093-33c7e85c8a08",
+          "name": "lemon juice",
+          "display_text": "1 tbsp lemon juice",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "97d4e8e4-e62f-5ca4-9c1f-5e70b009338f",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4a842cc5-d729-51da-983f-6bb2d6406011",
+          "ingredient_id": "73063cfc-1094-5f58-87bf-49227197f2a2",
+          "name": "clove",
+          "display_text": "½ tsp ground clove",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "preparation": "ground",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "76fa8d28-b1b1-551c-b73d-6cacaa2d2902",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "½ tsp ground cinnamon",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "preparation": "ground",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "0b703de2-0d67-57fb-a343-4d75d294dfc5",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomatoes",
+          "display_text": "2 medium tomatoes",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Use pickled vine leaves here, preserved in brine. Small delicate leaves are better than the large bristly ones but, if only large leaves are to hand, then trim them to roughly 12 by 12 cms so that you don't get too many layers of leaves around the filling. And remove any stalks. Drain the preserved leaves, immerse them in boiling water for 10 minutes and then leave to dry on a tea towel before use.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "4be4925f-47b4-501a-a887-cd606c1ae62f"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Basmati rice with butter and pine nuts is an ideal accompaniment. Couscous is great, too. Serves four.",
+      "ingredients_used": [
+        "472a9369-73c0-5c32-931e-562115f9b7fa"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "First make the filling. Put all the ingredients, apart from the tomatoes, in a bowl. Cut the tomatoes in half, coarsely grate into the bowl and discard the skins. Add half a teaspoon of salt and some black pepper, and stir. Leave on the side, or in the fridge, for up to a day. Before using, gently squeeze with your hands and drain away any juices that come out.",
+      "ingredients_used": [
+        "7c9e7c91-018c-5e1d-bc8d-d199020a7af4",
+        "0b703de2-0d67-57fb-a343-4d75d294dfc5"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "To make the sauce, heat the oil in a medium pan. Add the ginger and garlic, cook for a minute or two, taking care not to burn them, then add the tomato, lemon juice and sugar. Season, and simmer for 20 minutes.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "c483967c-0d59-5ce8-b5cb-c65b1479d996",
+        "9e524dd2-df2e-57bd-9894-720bac2b3f26",
+        "01e1d050-c34a-5999-b674-dbeb0d540082",
+        "a9f32df7-db48-5d51-a146-b0f2c2536416",
+        "97d4e8e4-e62f-5ca4-9c1f-5e70b009338f"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "While the sauce is bubbling away, prepare the vine leaves. Use any torn or broken leaves to line the base of a wide, heavy saucepan. Trim any leaves from the fennel, cut it vertically into 0.5cm-thick slices and spread over the base of the pan to cover completely.",
+      "ingredients_used": [
+        "4be4925f-47b4-501a-a887-cd606c1ae62f"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Lay a prepared vine leaf (see intro) on a work surface, veiny side up. Put two teaspoons of filling at the base of the leaf in a 2cm-long by 1cm-wide strip. Fold the sides of the leaf over the filling, then roll it tightly from bottom to top, in a cigar shape. Place in the pan, seam down, and repeat with the remaining leaves, placing them tightly next to each other in lines or circles (in two layers if necessary)."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Pour the sauce over the leaves (and, if needed, add water just to cover). Place a plate on top, to weigh the leaves down, then cover with a lid. Bring to a boil, reduce the heat and cook on a bare simmer for 70 minutes. Most of the liquid should evaporate. Remove from the heat, and leave to cool a little - they are best served warm. When serving, bring to the table in the pan - it looks great. Serve a few vine leaves and fennel slices with warm rice. Spoon the braising juices on top and garnish with coriander.",
+      "timer_seconds": 4200,
+      "ingredients_used": [
+        "4be4925f-47b4-501a-a887-cd606c1ae62f",
+        "472a9369-73c0-5c32-931e-562115f9b7fa",
+        "2a487d3a-025e-5362-8595-541d6e4f6466"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://www.ottolenghi.co.uk/recipes/meat/lamb-tomato-and-sweet-spices-shop"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

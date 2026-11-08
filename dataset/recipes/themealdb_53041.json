@@ -1,0 +1,194 @@
+{
+  "id": "46b6a8c6-a06c-5630-923a-581c0d25cd4f",
+  "version": "1.0.0",
+  "title": "Grilled Portuguese sardines",
+  "slug": "grilled-portuguese-sardines",
+  "summary": "Sardines marinated in a mixture of olive oil, garlic, paprika, and herbs, then grilled until charred.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:59:26Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53041"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/lpd4wy1614347943.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/lpd4wy1614347943.jpg/small",
+      "alt_text": "Photo of Grilled Portuguese sardines",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=JYtMjKa6cdY"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d3317c07-1a34-51bf-a414-80251ba04fe2",
+        "slug": "portuguese",
+        "name": "Portuguese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "marinating_time_minutes": 180,
+    "total_time_minutes": 205
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "servings",
+    "serving_size_description": "1 sardine"
+  },
+  "allergens": {
+    "contains": [
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "b78f977e-eb71-59d1-8943-00a9a6e01e06",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "461a4694-8e54-5fed-a389-8196bfe9866d",
+          "ingredient_id": "59314509-6435-5183-beda-4d13ac3acde5",
+          "name": "sardines",
+          "display_text": "8 Sardines",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "fish"
+        },
+        {
+          "id": "8ccd7a6c-b6e8-5615-9eb1-46e43c85b729",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tbs Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "c171a554-1622-589d-b71f-ca570ac05cdf",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 cloves Garlic",
+          "quantity": 3.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "68b3302a-1567-5967-acd6-9f4d62d2fe00",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1 tbs Paprika",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "4e9130bb-62c6-51f6-ab7d-02e07a88a272",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "1/2 Lemon",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "fed4d468-80cd-5514-b179-2fb643918c6b",
+          "ingredient_id": "b0bbff87-223e-5a9c-aa07-1ee472617b84",
+          "name": "rosemary",
+          "display_text": "4 sprigs Rosemary",
+          "quantity": 4.0,
+          "unit": "sprig",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "42a6e504-3b3b-5012-a95c-8f97d8e9a8fe",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "1 Red Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Put all of the ingredients, except the sardines, into a bowl and mix together with some seasoning. Pour into a baking dish, add the sardines and toss really well. Cover and chill for a few hours.",
+      "ingredients_used": [
+        "461a4694-8e54-5fed-a389-8196bfe9866d"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat a BBQ or griddle pan until hot. Cook the sardines for 4-5 minutes on each side or until really caramelized and charred. Put onto a serving plate, drizzle with oil, sprinkle with a little more paprika and squeeze over the lemon wedges.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "461a4694-8e54-5fed-a389-8196bfe9866d",
+        "68b3302a-1567-5967-acd6-9f4d62d2fe00",
+        "4e9130bb-62c6-51f6-ab7d-02e07a88a272"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.olivemagazine.com/recipes/fish-and-seafood/grilled-portuguese-sardines/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

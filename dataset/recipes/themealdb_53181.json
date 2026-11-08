@@ -1,0 +1,237 @@
+{
+  "id": "f3657732-8d3f-5df5-ac08-61ede8dec9a5",
+  "version": "1.0.0",
+  "title": "Spanish beans with chicken & chorizo",
+  "slug": "spanish-beans-with-chicken-chorizo",
+  "summary": "A hearty Spanish-style stew featuring chicken thighs, chorizo, and pinto beans simmered with potatoes and fresh herbs.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:11:21Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53181"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/bpkxtw1763332446.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/bpkxtw1763332446.jpg/small",
+      "alt_text": "Photo of Spanish beans with chicken & chorizo",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 80,
+    "total_time_minutes": 255
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 chicken thigh with beans, potatoes, and chorizo"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "30b13a5a-9250-5140-a522-c6364cbe1ece",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "9c6cb1bd-c1ba-5aa7-ba02-7e1264353de8",
+          "ingredient_id": "f5f2f47a-1403-5a71-be98-daef78b0c6fd",
+          "name": "pinto beans",
+          "display_text": "300g Pinto Beans",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "bd1ea5c6-27b1-54f3-8004-1f652a31cb09",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2ed16e07-5334-515f-9946-69ebd285ef97",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1 tablespoon Paprika",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d2b58d75-47ba-58d5-8eef-68de4982d17b",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "Sprigs of fresh Thyme",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "sprigs of fresh",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3b8fb429-5c1b-55b8-a885-b508fc106059",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaves",
+          "display_text": "Pinch Bay Leaves",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "6c8a0e03-93a8-5207-8fa1-0ce16967d6a3",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Bunch Parsley",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "bunch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "075e5fcf-d680-5904-93ed-399ee7aba81c",
+          "ingredient_id": "e0e4d032-0f9f-5908-ab90-db9a8ec5b68c",
+          "name": "chicken thighs",
+          "display_text": "4 Chicken Thighs",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "ac10ccf2-a105-5d7a-8d1c-ed0db9e56448",
+          "ingredient_id": "afcc7608-23de-5b7b-ae4a-fb579115468f",
+          "name": "jersey royal potatoes",
+          "display_text": "250g Jersey Royal Potatoes",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "b5bcf52b-d7a6-5bff-abba-8d36f3384b73",
+          "ingredient_id": "d4235a95-0bb4-579b-8855-bbb8f4efeb46",
+          "name": "chorizo",
+          "display_text": "250g Chorizo",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "2ed1a69c-f6ed-53d5-93d9-90b313f1cbfc",
+          "ingredient_id": "d0dd13fa-8c7a-5af9-9e1d-3d7bfc0f68e8",
+          "name": "spinach",
+          "display_text": "100g Spinach",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Soak the beans for at least 4 hrs or overnight in a large bowl with plenty of water to cover. Next day, rinse and drain, then put in a large heavy based pan with the onion, paprika, herb bundle and chicken. Pour over enough water or stock to cover, bring to the boil, then reduce the heat, cover and simmer for 45 mins.",
+      "ingredients_used": [
+        "9c6cb1bd-c1ba-5aa7-ba02-7e1264353de8",
+        "bd1ea5c6-27b1-54f3-8004-1f652a31cb09",
+        "2ed16e07-5334-515f-9946-69ebd285ef97"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Remove the chicken to a plate, then add the potatoes and chorizo to the pan. Continue cooking for 30 mins until the beans and potatoes are tender.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "9c6cb1bd-c1ba-5aa7-ba02-7e1264353de8",
+        "ac10ccf2-a105-5d7a-8d1c-ed0db9e56448",
+        "b5bcf52b-d7a6-5bff-abba-8d36f3384b73"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Discard the skin and bones from the chicken and tear into large chunks. Return the chicken to the pan with the spinach and simmer for 5 mins.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "2ed1a69c-f6ed-53d5-93d9-90b313f1cbfc"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/spanish-beans-chicken-chorizo"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

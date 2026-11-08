@@ -1,0 +1,200 @@
+{
+  "id": "dcd53416-8e8e-552b-8ff5-fca2af0ad62d",
+  "version": "1.0.0",
+  "title": "Duck Confit",
+  "slug": "duck-confit",
+  "summary": "A classic French dish where duck legs are cured in salt and aromatics before being slow-cooked in liquid until tender.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:48:03Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52907"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/wvpvsu1511786158.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/wvpvsu1511786158.jpg/small",
+      "alt_text": "Photo of Duck Confit",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=MHhLJqghY-o"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "fe8f07a1-591f-5711-ae5b-f3c9afcc3e60",
+        "slug": "french",
+        "name": "French"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "advanced",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 150,
+    "marinating_time_minutes": 1440,
+    "total_time_minutes": 1605
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 duck leg"
+  },
+  "allergens": {
+    "contains": [
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "2c481d7d-fb3e-5a2e-9f0f-6520cc3fa953",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "e87f31f0-ed0e-53d9-a7bd-16161d93922e",
+          "ingredient_id": "9ffd51ab-918f-5fa2-838e-51c491b97dd2",
+          "name": "sea salt",
+          "display_text": "Handful Sea Salt",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "1206dab4-814e-57f2-9eaa-d5f485c86b6e",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "4 Bay Leaf",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "5cbf35c1-cc17-58cc-a5e4-5c33065fe42b",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "4 cloves Garlic",
+          "quantity": 4.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "fdc83d97-63eb-573c-b1ae-4e80efc5894d",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "Handful Thyme",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "f0ca7052-9e78-5b88-97da-7057e22247d4",
+          "ingredient_id": "026a4da3-4e78-5919-b067-f6946baea67e",
+          "name": "duck legs",
+          "display_text": "4 Duck Legs",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "4b1af605-1ec8-5113-9076-7e65b0df925b",
+          "ingredient_id": "7dfa4179-cc08-5fb6-b4fc-aa52abc5f515",
+          "name": "white wine",
+          "display_text": "100ml White Wine",
+          "quantity": 100.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "The day before you want to make the dish, scatter half the salt, half the garlic and half of the herbs over the base of a small shallow dish. Lay the duck legs, skin-side up, on top, then scatter over the remaining salt, garlic and herbs. Cover the duck and refrigerate overnight. This can be done up to 2 days ahead.",
+      "ingredients_used": [
+        "e87f31f0-ed0e-53d9-a7bd-16161d93922e",
+        "5cbf35c1-cc17-58cc-a5e4-5c33065fe42b",
+        "f0ca7052-9e78-5b88-97da-7057e22247d4"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Pour the wine into a saucepan that will snugly fit the duck legs in a single layer. Brush the salt off the duck legs and place them, skin-side down, in the wine. Cover the pan with a lid and place over a medium heat. As soon as the wine starts to bubble, turn the heat down to the lowest setting and cook for 2 hours, checking occasionally that the liquid is just barely simmering. (If you own a heat diffuser, it would be good to use it here.) After 2 hours, the duck legs should be submerged in their own fat and the meat should feel incredibly tender when prodded. Leave to cool.",
+      "ingredients_used": [
+        "e87f31f0-ed0e-53d9-a7bd-16161d93922e",
+        "f0ca7052-9e78-5b88-97da-7057e22247d4",
+        "4b1af605-1ec8-5113-9076-7e65b0df925b"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "The duck legs are now cooked and can be eaten immediately – or you can follow the next step if you like them crisp. If you are preparing ahead, pack the duck legs tightly into a plastic container or jar and pour over the fat, but not the liquid at the bottom of the pan. Cover and leave in the fridge for up to a month, or freeze for up to 3 months. The liquid you are left with makes a tasty gravy, which can be chilled or frozen until needed.",
+      "ingredients_used": [
+        "f0ca7052-9e78-5b88-97da-7057e22247d4"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "To reheat and crisp up the duck legs, heat oven to 220C/fan 200C/gas 7. Remove the legs from the fat and place them, skin-side down, in an ovenproof frying pan. Roast for 30-40 mins, turning halfway through, until brown and crisp. Serve with the reheated gravy, a crisp salad and some crisp golden ptoatoes.",
+      "timer_seconds": 2400,
+      "temperature": {
+        "value": 220,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "f0ca7052-9e78-5b88-97da-7057e22247d4"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/2085/barneys-confit-of-duck"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

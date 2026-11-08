@@ -1,0 +1,200 @@
+{
+  "id": "de759aea-08bc-54a6-b078-dd3de2bf03d0",
+  "version": "1.0.0",
+  "title": "Pa Amb Tomaquet (Bread with Tomato)",
+  "slug": "pa-amb-tomaquet-bread-with-tomato",
+  "summary": "A traditional Andorran dish consisting of toasted bread rubbed with garlic and fresh tomato, finished with olive oil and salt.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:32:19Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53417"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/lz9rw91779733434.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/lz9rw91779733434.jpg/small",
+      "alt_text": "Photo of Pa Amb Tomaquet (Bread with Tomato)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=nFoQ5K-7_24"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4ae69bee-e4d8-5b74-8959-5af11c0b3454",
+        "slug": "andorran",
+        "name": "Andorran"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "snack",
+      "lunch"
+    ],
+    "courses": [
+      "starter"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "lunchbox",
+      "picnic"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 5,
+    "total_time_minutes": 10
+  },
+  "yield": {
+    "servings": 1,
+    "serving_unit": "servings",
+    "serving_size_description": "2 slices of tomato bread"
+  },
+  "allergens": {
+    "contains": [
+      "gluten"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "710c1481-ea48-532c-80d8-005232588cc8",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "97c92845-7af4-5723-842d-73636060bcb8",
+          "ingredient_id": "95128a6e-6409-5797-b33b-a94a27c5951f",
+          "name": "bread",
+          "display_text": "2 sliced Bread",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "a977aa76-0548-572c-ba40-7716560aab04",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "486cdf39-b078-569c-a397-84fa389c5164",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "3 chopped Tomato",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3fa2bffc-c6ba-587f-bee7-209580d4459a",
+          "ingredient_id": "96cc0c2b-795a-53be-a503-05d14e92b236",
+          "name": "extra virgin olive oil",
+          "display_text": "Splash Extra Virgin Olive Oil",
+          "quantity": 1,
+          "unit": "splash",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "f41a7511-73fc-5dcf-83a1-2a1eb6e2c195",
+          "ingredient_id": "9ffd51ab-918f-5fa2-838e-51c491b97dd2",
+          "name": "sea salt",
+          "display_text": "To taste Sea Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Toast the bread slices -- either in a toaster, or by baking them in the oven at 400°F -- until crispy and golden.  (Toasting/baking time will totally depend on the type and thickness of your bread.)",
+      "temperature": {
+        "value": 400,
+        "unit": "fahrenheit"
+      },
+      "ingredients_used": [
+        "97c92845-7af4-5723-842d-73636060bcb8"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Take a clove of garlic and rub it cut-side-down all over the top of a slice of bread.",
+      "ingredients_used": [
+        "97c92845-7af4-5723-842d-73636060bcb8",
+        "a977aa76-0548-572c-ba40-7716560aab04"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Take a tomato half and rub it cut-side-down all over the top of the bread.",
+      "ingredients_used": [
+        "97c92845-7af4-5723-842d-73636060bcb8",
+        "486cdf39-b078-569c-a397-84fa389c5164"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Drizzle the bread evenly with a hint of olive oil.  Sprinkle with a pinch of salt.",
+      "ingredients_used": [
+        "97c92845-7af4-5723-842d-73636060bcb8",
+        "f41a7511-73fc-5dcf-83a1-2a1eb6e2c195"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Repeat with the remaining slices of bread.  Then serve immediately while they're nice and warm!",
+      "ingredients_used": [
+        "97c92845-7af4-5723-842d-73636060bcb8"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.gimmesomeoven.com/tomato-rubbed-bread-pa-amb-tomaquet-pan-con-tomate/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

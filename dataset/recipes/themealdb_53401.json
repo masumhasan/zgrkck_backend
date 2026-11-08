@@ -1,0 +1,231 @@
+{
+  "id": "56ce3965-4b2d-57ed-8e74-6ab05e947db5",
+  "version": "1.0.0",
+  "title": "Bolani with Potato Filling",
+  "slug": "bolani-with-potato-filling",
+  "summary": "Bolani is an Afghan stuffed flatbread filled with a seasoned mashed potato mixture. The dough is rolled thin and shallow-fried until golden and crispy.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:30:57Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53401"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/de0sns1779555283.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/de0sns1779555283.jpg/small",
+      "alt_text": "Photo of Bolani with Potato Filling",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=bvrUPtEs_Uk"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "e686c554-2e81-511f-b656-15ef0dcb3943",
+        "slug": "afghan",
+        "name": "Afghan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 25,
+    "cook_time_minutes": 25,
+    "marinating_time_minutes": 30,
+    "total_time_minutes": 80
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "pieces",
+    "serving_size_description": "1-2 bolani"
+  },
+  "allergens": {
+    "contains": [
+      "gluten"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "d58a7a43-8da0-5014-b527-09b16b2f91cc",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "40b16630-52fc-5f1c-ab72-4b26df3baf15",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "450g Plain Flour",
+          "quantity": 450.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "e650478b-7b22-5cc0-89d3-a8480461d652",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "225ml Water",
+          "quantity": 225.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 225.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "f36d6422-4de7-575d-a1ff-a083da5b7204",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "3 tsp Salt",
+          "quantity": 3.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "05c7c530-0fb8-5177-a707-ab547cab1e50",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "900g Potatoes",
+          "quantity": 900.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 900.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "5ff4d421-c4a5-5864-8e51-54a4bb6fb741",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "50g Spring Onions",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "9d2bf402-94e2-58b0-8edc-c200db03cc8b",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1 tsp Black Pepper",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "da40d60d-e500-5932-835d-386c67db2965",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "For frying Vegetable Oil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "for frying",
+          "is_optional": false,
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Put the flour and teaspoon of salt in a mixing bowl. Slowly adding as much water as is required. Mix to form a stiff dough.",
+      "ingredients_used": [
+        "e650478b-7b22-5cc0-89d3-a8480461d652",
+        "f36d6422-4de7-575d-a1ff-a083da5b7204"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Place the dough on a clean work surface and knead for about 5-10 minutes until the dough is elastic, smooth and shiny. Form the dough into a ball, cover with a damp cloth and set aside for at least half an hour.",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 3,
+      "instruction": "Peel and wash the potatoes and boil them in salted water until soft. Drain off the water and mash thoroughly. Add the spring onions, salt and black pepper.",
+      "ingredients_used": [
+        "e650478b-7b22-5cc0-89d3-a8480461d652",
+        "f36d6422-4de7-575d-a1ff-a083da5b7204",
+        "05c7c530-0fb8-5177-a707-ab547cab1e50",
+        "5ff4d421-c4a5-5864-8e51-54a4bb6fb741",
+        "9d2bf402-94e2-58b0-8edc-c200db03cc8b"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Divide the dough into 3 or 4 balls. Roll out each ball as thinly as possible on a lightly floured surface (the thickness should be no more than 1.5mm - if the dough is too thick the Bolani will be tough)"
+    },
+    {
+      "step_number": 5,
+      "instruction": "Take a round cutter of 13-15cm (I often use a pan lid or tid lid), and cut as many rounds as possible. On each round spread 1-2 tablespoons of the mashed potato. Moisten the edges of the dough, fold over and seal shut."
+    },
+    {
+      "step_number": 6,
+      "instruction": "The Bolani should be spread out on a lightly floured surface until ready to fry. Heat enough vegetable oil in a frying-pan and shallow fry one or two Bolani at a time, browning on both sides.",
+      "ingredients_used": [
+        "da40d60d-e500-5932-835d-386c67db2965"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Make sure to keep the fried Bolani warm until all are finished, and serve straight away."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.afghanaid.org.uk/brilliant-bolani-with-potato-filling"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

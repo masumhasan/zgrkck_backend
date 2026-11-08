@@ -1,0 +1,223 @@
+{
+  "id": "c9a9d016-b1df-57a6-ab10-b7780cf8b56a",
+  "version": "1.0.0",
+  "title": "Jamaican Banana Fritters",
+  "slug": "jamaican-banana-fritters",
+  "summary": "Sweet, spiced fritters made from mashed bananas and flour, fried until golden brown.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:26:39Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53351"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ul2uy31764794321.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ul2uy31764794321.jpg/small",
+      "alt_text": "Photo of Jamaican Banana Fritters",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/shorts/I3wZ04FgW0I"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "2dfec5c8-490a-551c-9d2f-e8e21f706bda",
+        "slug": "jamaican",
+        "name": "Jamaican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 25
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of fritters"
+  },
+  "allergens": {
+    "contains": [
+      "gluten"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "c55d9444-dee2-5452-a8ab-b76b7d921353",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "808f728e-c6f8-597f-afb3-3bc0dbe6ad4f",
+          "ingredient_id": "1c08a43f-9a80-5096-bd85-45ff68c9069c",
+          "name": "banana",
+          "display_text": "3 Medium Banana",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "89cc338f-8159-5318-be9d-a289e0d3e6a2",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1 tsp Vanilla Extract",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "d5071909-4f52-52ac-80cf-a8b229120630",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "1/2 tsp Cinnamon",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "974d0fbd-9d71-5498-bc37-80ae1693bc3f",
+          "ingredient_id": "9426e9cd-e7b2-540e-8ddb-187c01748931",
+          "name": "nutmeg",
+          "display_text": "1/4 tsp Nutmeg",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "7f596970-a346-5b54-a826-e4ae651f93f1",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "3  tablespoons Brown Sugar",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "65b3c9c4-36d2-591b-bbcc-2200afbf16ad",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "9836901d-427b-5a30-921a-37a446e76afc",
+          "ingredient_id": "d1e5ec78-b8c2-5649-962c-a9f67272ea92",
+          "name": "all purpose flour",
+          "display_text": "1 cup All purpose flour",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "d2e1ec1c-ecdd-5356-ba9e-d9fa77c3d53c",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "For frying Oil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "for frying",
+          "is_optional": false,
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Mash bananas with fork in bowl.",
+      "ingredients_used": [
+        "808f728e-c6f8-597f-afb3-3bc0dbe6ad4f"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add brown sugar, vanilla, extract, cinnamon, nutmeg and a pinch of salt. Sift in flour and stir with spoon until fully combined.",
+      "ingredients_used": [
+        "89cc338f-8159-5318-be9d-a289e0d3e6a2",
+        "d5071909-4f52-52ac-80cf-a8b229120630",
+        "974d0fbd-9d71-5498-bc37-80ae1693bc3f",
+        "7f596970-a346-5b54-a826-e4ae651f93f1",
+        "65b3c9c4-36d2-591b-bbcc-2200afbf16ad"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add oil to a 10 inch skillet over medium-high heat. Once oil is hot, drop banana fritter batter in oil by the spoonful. Once one side is golden and bubbles appear on the top, flip fritter and cook until the other side is browned as well.",
+      "ingredients_used": [
+        "808f728e-c6f8-597f-afb3-3bc0dbe6ad4f",
+        "d2e1ec1c-ecdd-5356-ba9e-d9fa77c3d53c"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Remove fritters and drain on paper towels. Enjoy"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.myforkinglife.com/banana-fritters/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

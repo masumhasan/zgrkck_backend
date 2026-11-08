@@ -1,0 +1,266 @@
+{
+  "id": "0e743d0d-c0fe-51c6-87ba-bc3f83d13afa",
+  "version": "1.0.0",
+  "title": "Hodge Podge",
+  "slug": "hodge-podge",
+  "summary": "A creamy Canadian vegetable soup made with potatoes, carrots, green beans, and peas simmered in a milk and cream base.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:25:35Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53340"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/xihv0c1764447887.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/xihv0c1764447887.jpg/small",
+      "alt_text": "Photo of Hodge Podge",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "54838e2c-2c59-558b-8932-e019f7cc6d0c",
+        "slug": "canadian",
+        "name": "Canadian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "soup"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of vegetable soup"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "9dbd044d-2404-5f87-9b81-90d8a2d82054",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "b9710a1c-a929-5006-a633-3e2dd44abf9d",
+          "ingredient_id": "41049e61-611a-545b-8a7c-13e15a6e843b",
+          "name": "new potatoes",
+          "display_text": "1 lb New Potatoes",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "cc9df6d1-da31-5ea2-b888-f30c7ee9374b",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "1 lb Carrots",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "22adcb5d-0a0e-5846-aaa5-c2e3aebd57fd",
+          "ingredient_id": "76e924de-1ab6-5ae5-94fc-70f3fd268a7d",
+          "name": "green beans",
+          "display_text": "1 cup Green Beans",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "7c2da151-3c76-55d7-b306-0ad0c8950e24",
+          "ingredient_id": "7073667e-84c6-57dc-a1f3-4bd704824318",
+          "name": "peas",
+          "display_text": "1/2 cup Peas",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "abc3982a-f14f-50fd-9ec5-efd59b547b6c",
+          "ingredient_id": "c20ef13e-7f52-5fce-847f-34f123e6392e",
+          "name": "dill",
+          "display_text": "1 tablespoon Dill",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "7dcc5c81-782b-5ed0-9a43-93f01f6f0477",
+          "ingredient_id": "85291054-0b21-5fc5-ac52-86bee20f4bbc",
+          "name": "chives",
+          "display_text": "1 tablespoon Chives",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "0d0bbb1f-fa65-5039-a5ca-be066a4c7d8d",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "3 Cups Milk",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "f440975f-5356-5f8c-a600-f4036cfcb8fd",
+          "ingredient_id": "cb8d5d02-f2f1-547b-b7e6-054d6629adc1",
+          "name": "heavy cream",
+          "display_text": "1/2 cup Heavy Cream",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "55db5f96-6dc8-51ff-aae2-97cd42ac5edb",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "1/2 cup Butter",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "ccbc4eab-f111-55a9-9e95-623360e741ba",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/2 tsp Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "dbdf1b54-af3b-5770-8ae6-61aa3d4219a8",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1/4 tsp Black Pepper",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "First, cook your vegetables. Bring a large pot of salted water to boil. Par-cook carrots and potatoes for five minutes until carrots and potatoes are fork tender, then blanch the peas and beans for about a minute in the same pot. Strain vegetables and set aside.",
+      "ingredients_used": [
+        "b9710a1c-a929-5006-a633-3e2dd44abf9d",
+        "cc9df6d1-da31-5ea2-b888-f30c7ee9374b",
+        "22adcb5d-0a0e-5846-aaa5-c2e3aebd57fd",
+        "7c2da151-3c76-55d7-b306-0ad0c8950e24",
+        "ccbc4eab-f111-55a9-9e95-623360e741ba"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a heavy-bottomed pot or Dutch oven, melt butter over medium heat, add vegetables, and cook to warm through.",
+      "ingredients_used": [
+        "55db5f96-6dc8-51ff-aae2-97cd42ac5edb"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add milk and cream and bring the soup to a boil. Turn the heat down to low and season with salt and pepper.",
+      "ingredients_used": [
+        "0d0bbb1f-fa65-5039-a5ca-be066a4c7d8d",
+        "ccbc4eab-f111-55a9-9e95-623360e741ba"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add dill and chives and let simmer for at least 10 minutes. Serve warm.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "abc3982a-f14f-50fd-9ec5-efd59b547b6c",
+        "7dcc5c81-782b-5ed0-9a43-93f01f6f0477"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://canadianfoodfocus.org/recipes/classic-canadian-dish-hodge-podge/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

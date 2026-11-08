@@ -1,0 +1,229 @@
+{
+  "id": "d357bb93-a6a6-58b4-bfdc-49663a2735c9",
+  "version": "1.0.0",
+  "title": "Clear Soup with Semolina Dumplings",
+  "slug": "clear-soup-with-semolina-dumplings",
+  "summary": "A traditional Austrian clear soup served with soft, handmade semolina dumplings. The dumplings are prepared from a dough of semolina, butter, and egg, then simmered until light and airy.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:34:47Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53446"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/qserum1780156275.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/qserum1780156275.jpg/small",
+      "alt_text": "Photo of Clear Soup with Semolina Dumplings",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "5ced9979-56b0-5063-8e7f-d2ba3c272045",
+        "slug": "austrian",
+        "name": "Austrian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "soup"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 15,
+    "marinating_time_minutes": 20,
+    "total_time_minutes": 50
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of soup with dumplings"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "e156a973-be29-5910-bf2c-aa4f5a132deb",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "47d80c0f-97d7-556e-934b-90bbcccaa351",
+          "ingredient_id": "7da61410-ac24-55ff-b82f-b5119bd9da58",
+          "name": "semolina",
+          "display_text": "120g Semolina",
+          "quantity": 120.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "27df9384-75e2-5bb5-b486-1cdaa7b306f2",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "60g Butter",
+          "quantity": 60.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "04d554b6-2efa-5fab-bbd8-1ddb0a4f3202",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "610a54cc-2c96-57dd-8ebb-c3d9a24e9d3b",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "8168bff0-9283-5c8d-87a7-83c6c443c7b1",
+          "ingredient_id": "9426e9cd-e7b2-540e-8ddb-187c01748931",
+          "name": "nutmeg",
+          "display_text": "Pinch Nutmeg",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "c38141f1-7e25-54b4-9322-e669b7512794",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "Splash Oil",
+          "quantity": 1,
+          "unit": "splash",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "66189dac-a745-5388-b4a6-25d7db538f8e",
+          "ingredient_id": "39a746ef-3300-5229-b0b2-3e03970ea60c",
+          "name": "beef stock",
+          "display_text": "1 L Beef Stock",
+          "quantity": 1.0,
+          "unit": "liter",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "liter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "5d8ca8e7-cf5c-5e4e-a59a-a70f6d15ca6b",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Chopped Parsley",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Allow butter to come to room temperature before beating in a bowl until creamed. Season with salt and a small, delicate pinch of nutmeg.",
+      "ingredients_used": [
+        "27df9384-75e2-5bb5-b486-1cdaa7b306f2",
+        "610a54cc-2c96-57dd-8ebb-c3d9a24e9d3b",
+        "8168bff0-9283-5c8d-87a7-83c6c443c7b1"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add in the egg, stirring vigorously. Sprinkle the semolina over this, and mix it in well until the surface is smooth. Cover with saran wrap and leave to rest for 15 – 20 minutes.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "47d80c0f-97d7-556e-934b-90bbcccaa351",
+        "04d554b6-2efa-5fab-bbd8-1ddb0a4f3202"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Use two spoons, dipped regularly into hot water throughout, to press or shape dumplings from the paste. You can also place these on a lightly oiled board or plate and again leave them to stand for a short while (this allows the dumplings to rise even more)."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Heat a generous quantity of salted water in a large pan. Place the dumplings into the water and bring them back to a boil before turning down the heat and leaving to simmer gently for 10 – 15 minutes (do not boil). Carefully turn the dumplings occasionally.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "610a54cc-2c96-57dd-8ebb-c3d9a24e9d3b"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Remove the semolina dumplings carefully and put them in the heated soup. Serve promptly, with a garnish of sprinkled parsley or chives.",
+      "ingredients_used": [
+        "47d80c0f-97d7-556e-934b-90bbcccaa351",
+        "5d8ca8e7-cf5c-5e4e-a59a-a70f6d15ca6b"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "The semolina dumplings can also be cooked in the beef broth, but this causes the soup to take on a slightly dull appearance. The cooked dumplings should never be left standing in the soup for too long, as they will “soak up” the soup and become softened.",
+      "ingredients_used": [
+        "47d80c0f-97d7-556e-934b-90bbcccaa351"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.austria.info/en-gb/recipes/clear-soup-with-semolina-dumplings/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "id": "0f3cdffb-ccd0-5b84-9740-2182ba69d918",
+  "version": "1.0.0",
+  "title": "Red onion pickle",
+  "slug": "red-onion-pickle",
+  "summary": "A Norwegian-style pickled red onion condiment made with cider vinegar, sugar, and bay leaves. The onions are brined in salt before being submerged in a warm vinegar syrup.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:05:37Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53115"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ppodrp1762325183.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ppodrp1762325183.jpg/small",
+      "alt_text": "Photo of Red onion pickle",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=3z2jTcsL28g"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "56e78dbc-276d-5104-bca5-2bb213b93a49",
+        "slug": "norwegian",
+        "name": "Norwegian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "breakfast"
+    ],
+    "courses": [
+      "side_dish",
+      "condiment"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "lunchbox",
+      "picnic"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 5,
+    "marinating_time_minutes": 60,
+    "total_time_minutes": 80
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a spoonful of pickled onions"
+  },
+  "allergens": {
+    "contains": [
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "3c1beb35-b9da-5450-9627-149288f99e5f",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "2190fa56-d6b4-595e-8518-1532de267c2a",
+          "ingredient_id": "716f7639-3b59-56a7-9146-1819649ebdad",
+          "name": "red onions",
+          "display_text": "3 Large Red Onions",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "5bfa3f3c-f57d-5a29-83e9-4ddb0a4996be",
+          "ingredient_id": "9ffd51ab-918f-5fa2-838e-51c491b97dd2",
+          "name": "sea salt",
+          "display_text": "2 tsp Sea Salt",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "1ece8f6a-f3fc-5221-800b-c7b2bbafd198",
+          "ingredient_id": "13e89dcd-0f80-5590-a3e8-c9a80c8fa688",
+          "name": "cider vinegar",
+          "display_text": "200ml Cider Vinegar",
+          "quantity": 200.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "221cce6e-644e-50f7-b05b-59e08150b19a",
+          "ingredient_id": "585e8c07-6f6b-5618-a220-3f1795eaa043",
+          "name": "granulated sugar",
+          "display_text": "50g Granulated Sugar",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "aa1bf393-bfef-5fc4-9e0a-9190b697b9cd",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1 tsp Black Pepper",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "ab4da15c-bdd5-5b2a-a3f8-9bae5e0d1d76",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaves",
+          "display_text": "4 Bay Leaves",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Peel the onions, cut them in half from top to bottom and finely slice into half-moon pieces. Put in a colander placed over a bowl and sprinkle with salt, lightly turning over the onion pieces with your hands so the surfaces are all covered. Set aside for an hour or so to brine.",
+      "ingredients_used": [
+        "2190fa56-d6b4-595e-8518-1532de267c2a",
+        "5bfa3f3c-f57d-5a29-83e9-4ddb0a4996be"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Meanwhile put the vinegar, 50ml/2fl oz water and the sugar in a saucepan. Bring to a simmer, stirring to help the sugar dissolve, and cook for a couple of minutes. Set aside."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Pack the onions into the sterilized jars, sprinkling in a little pepper as you go. Cover with the warm vinegar and finish by tucking a couple of bay leaves down the side of the jars. Seal. The onions are best kept in the fridge and used within to 4 weeks.",
+      "ingredients_used": [
+        "2190fa56-d6b4-595e-8518-1532de267c2a",
+        "ab4da15c-bdd5-5b2a-a3f8-9bae5e0d1d76"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbc.co.uk/food/recipes/red_onion_pickle_98165"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "id": "47e0d641-7147-5d08-9cdb-28d507edd383",
+  "version": "1.0.0",
+  "title": "Simple heart of palm & tomato salad",
+  "slug": "simple-heart-of-palm-tomato-salad",
+  "summary": "A refreshing Brazilian salad featuring sliced hearts of palm, cherry tomatoes, and spring onions dressed in a sherry vinegar and olive oil vinaigrette.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:38:16Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53484"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/7whfgi1782678933.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/7whfgi1782678933.jpg/small",
+      "alt_text": "Photo of Simple heart of palm & tomato salad",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6675856e-6919-5ea9-9f7a-8bf7f195e27f",
+        "slug": "brazilian",
+        "name": "Brazilian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "starter"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "summer_refreshment"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 10
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "a bowl of salad"
+  },
+  "allergens": {
+    "contains": [
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "9b9e6880-90aa-5ca2-b432-449f3e7a6a6f",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "2d7a6777-1bf4-5b9c-9f20-bd6d949a5291",
+          "ingredient_id": "d8674be4-549e-5ec0-bde5-002090a1b8ea",
+          "name": "palm hearts",
+          "display_text": "400g Palm Hearts",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "825153a0-b83d-5363-8f3f-9898f9642801",
+          "ingredient_id": "041e90f7-87c0-5883-b651-a9f26dce39b7",
+          "name": "cherry tomatoes",
+          "display_text": "250g Cherry Tomatoes",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "9c9b72b0-5ee5-5f48-a6ad-3aaa7766148e",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "2 sliced Spring Onions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b0ef7203-ab56-5071-875f-21ad03509e87",
+          "ingredient_id": "284d3e0d-9e9f-56ee-95b4-7e7dc1b66214",
+          "name": "sherry vinegar",
+          "display_text": "1 tablespoon Sherry vinegar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "4c35eed0-7386-5678-a196-5d9330b80b41",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "3  tablespoons Olive Oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "82902db3-0ace-5d5f-959d-403d2ddeee9b",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Handful Parsley",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Mix together the hearts of palm, tomatoes and spring onions. Whisk together the sherry vinegar and olive oil.",
+      "ingredients_used": [
+        "2d7a6777-1bf4-5b9c-9f20-bd6d949a5291",
+        "825153a0-b83d-5363-8f3f-9898f9642801",
+        "9c9b72b0-5ee5-5f48-a6ad-3aaa7766148e",
+        "b0ef7203-ab56-5071-875f-21ad03509e87",
+        "4c35eed0-7386-5678-a196-5d9330b80b41"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Drizzle over the salad. Sprinkle with the parsley, toss everything together and serve.",
+      "ingredients_used": [
+        "82902db3-0ace-5d5f-959d-403d2ddeee9b"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/simple-heart-palm-tomato-salad"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

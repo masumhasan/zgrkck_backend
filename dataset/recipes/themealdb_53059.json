@@ -1,0 +1,248 @@
+{
+  "id": "974a47d7-1950-5e79-a61c-8927f16c1ded",
+  "version": "1.0.0",
+  "title": "Mushroom soup with buckwheat",
+  "slug": "mushroom-soup-with-buckwheat",
+  "summary": "A warming Croatian soup made with sautéed mushrooms, buckwheat, and a touch of sour cream.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:01:05Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53059"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/1ngcbf1628770793.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/1ngcbf1628770793.jpg/small",
+      "alt_text": "Photo of Mushroom soup with buckwheat",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=M1ok7mG9-Qc"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b5d05ee7-9bce-5691-809b-0e253d6b7ed2",
+        "slug": "croatian",
+        "name": "Croatian"
+      }
+    ],
+    "tags": [
+      "soup",
+      "warming"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish",
+      "soup"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 35
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of soup"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "f539cd46-81f4-577e-8921-487d2ffee7e9",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "437e8290-4cea-5b26-86c3-c1ffd4c5409d",
+          "ingredient_id": "5031dcf8-ef4a-588f-ae8f-de7c2790dfac",
+          "name": "mushrooms",
+          "display_text": "150g Mushrooms",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "935b68ee-a155-5454-870d-7d2a644d6e2b",
+          "ingredient_id": "b9641828-7c21-5ea1-a0b4-4f7034c05d38",
+          "name": "buckwheat",
+          "display_text": "50g Buckwheat",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "649d47fb-ba1a-5561-8d7a-5ed8f5f6ee9d",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "4 tbs Vegetable Oil",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "a1e91b40-421a-54f4-a77b-248bfeb6031e",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "40g Onion",
+          "quantity": 40.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 40.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "49fe4aee-ed6a-576e-934a-dac47894b36c",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b1e22a04-ce9a-5fc9-9397-cec3c76d60b7",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "1 Bay Leaf",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "cb1e02d2-76db-5bc7-9e06-6ced3700c362",
+          "ingredient_id": "7987b479-6a71-5b57-9ff9-daff64e561ca",
+          "name": "vegetable stock cube",
+          "display_text": "1tbsp Vegetable Stock Cube",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "5ada411d-61c0-5417-9ad5-2222c81cf1f8",
+          "ingredient_id": "6ca777b1-4e80-5a4b-8ffe-88c954e2cc8a",
+          "name": "sour cream",
+          "display_text": "50 ml Sour Cream",
+          "quantity": 50.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "a749eb87-56af-5853-8ccf-ac999f96a895",
+          "ingredient_id": "fa7445fe-6dac-523d-9bc7-0bdbcf354913",
+          "name": "white wine vinegar",
+          "display_text": "Dash White Wine Vinegar",
+          "quantity": 1,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "condiments"
+        },
+        {
+          "id": "d8dd0d02-b786-52e9-b28c-ca371637f3e6",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Top Parsley",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "top",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Chop the onion and garlic, slice the mushrooms and wash the buckwheat. Heat the oil and lightly sauté the onion.",
+      "ingredients_used": [
+        "437e8290-4cea-5b26-86c3-c1ffd4c5409d",
+        "935b68ee-a155-5454-870d-7d2a644d6e2b",
+        "a1e91b40-421a-54f4-a77b-248bfeb6031e",
+        "49fe4aee-ed6a-576e-934a-dac47894b36c"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the mushrooms and the garlic and continue to sauté. Add the salt, vegetable seasoning, buckwheat and the bay leaf and cover with water.",
+      "ingredients_used": [
+        "437e8290-4cea-5b26-86c3-c1ffd4c5409d",
+        "935b68ee-a155-5454-870d-7d2a644d6e2b",
+        "49fe4aee-ed6a-576e-934a-dac47894b36c",
+        "b1e22a04-ce9a-5fc9-9397-cec3c76d60b7"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Simmer gently and just before it is completely cooked, add pepper, sour cream mixed with flour, the chopped parsley and vinegar to taste.",
+      "ingredients_used": [
+        "5ada411d-61c0-5417-9ad5-2222c81cf1f8",
+        "d8dd0d02-b786-52e9-b28c-ca371637f3e6"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.visit-croatia.co.uk/croatian-cuisine/croatian-recipes/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

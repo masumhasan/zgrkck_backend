@@ -1,0 +1,315 @@
+{
+  "id": "641b7ff1-6795-5872-b822-4187a2d727c7",
+  "version": "1.0.0",
+  "title": "Roast fennel and aubergine paella",
+  "slug": "roast-fennel-and-aubergine-paella",
+  "summary": "A vegan Spanish rice dish featuring roasted fennel, aubergine, pepper, and courgette combined with saffron-infused paella rice.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:51:17Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52942"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/1520081754.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/1520081754.jpg/small",
+      "alt_text": "Photo of Roast fennel and aubergine paella",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=H5SmjR-fxUs"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [
+      "paella",
+      "vegan"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 55,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 75
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 portion of paella"
+  },
+  "allergens": {
+    "contains": [
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "87a43717-912a-5b94-9d13-4fd8cb0def75",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "1c039b74-487a-5ad5-a587-c529aa836449",
+          "ingredient_id": "b2b0f989-f942-5e09-bc15-44f04534d233",
+          "name": "baby aubergine",
+          "display_text": "6 small Baby Aubergine",
+          "quantity": 6.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "bc0c3cfe-8290-57ca-8e15-44622216579f",
+          "ingredient_id": "90f6a581-b68c-51b8-bbe5-4d91c3f1b0ce",
+          "name": "fennel",
+          "display_text": "4 small Fennel",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "a69b7c9a-c160-5d54-9de3-4cc8be83e858",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1 thinly sliced Red Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "thinly sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0ef01115-2d7c-55af-8e14-2d5d350ee25b",
+          "ingredient_id": "868972c7-da7a-5cf2-864d-fe1f7aada74b",
+          "name": "courgettes",
+          "display_text": "1 medium Courgettes",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2346ae5f-a0ce-5f6d-9545-497822b7fb9b",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 finely chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "93771164-62ef-5b10-b1a0-a23447a081cd",
+          "ingredient_id": "3d0a4168-db1b-589f-8473-5398078e1e51",
+          "name": "paella rice",
+          "display_text": "300g Paella Rice",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "023a687b-8a0a-5754-842c-5a23758441c3",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1 tsp Paprika",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "9c1d77ae-b344-5e06-ac3b-fcf734de40f3",
+          "ingredient_id": "6e4973c3-ed8a-5158-9a24-ca212d5e7092",
+          "name": "saffron",
+          "display_text": "pinch Saffron",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "adef6e92-2bff-5751-b3ef-a9dc75fe81e2",
+          "ingredient_id": "7dfa4179-cc08-5fb6-b4fc-aa52abc5f515",
+          "name": "white wine",
+          "display_text": "200ml White Wine",
+          "quantity": 200.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "c22e9e1c-8f71-5c90-aedc-1af2776559fd",
+          "ingredient_id": "2d490c0b-0744-5be5-a104-641c87b13636",
+          "name": "vegetable stock",
+          "display_text": "700ml Vegetable Stock",
+          "quantity": 700.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 700.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "888918b4-0ee7-55b9-bd5a-9b275d071b34",
+          "ingredient_id": "a3bbc4af-d0ec-5323-ac86-907a6f17bdb2",
+          "name": "frozen peas",
+          "display_text": "100g Frozen Peas",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "frozen_foods"
+        },
+        {
+          "id": "606d500d-d94e-5c6d-93a4-a732d700ab6e",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "1 chopped Lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4fb4b94a-a167-5fb4-872b-4a1176426af8",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Handful Parsley",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "bce72b7e-45cf-5e77-8f08-eeabc16baa5d",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "e3ef0bd3-c54b-5e2f-8190-856e1142010d",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "pinch Black Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "1 Put the fennel, aubergine, pepper and courgette in a roasting tray. Add a glug of olive oil, season with salt and pepper and toss around to coat the veggies in the oil. Roast in the oven for 20 minutes, turning a couple of times until the veg are pretty much cooked through and turning golden.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "1c039b74-487a-5ad5-a587-c529aa836449",
+        "bc0c3cfe-8290-57ca-8e15-44622216579f",
+        "bce72b7e-45cf-5e77-8f08-eeabc16baa5d"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "2 Meanwhile, heat a paella pan or large frying pan over a low– medium heat and add a glug of olive oil. Sauté the onion for 8–10 minutes until softened. Increase the heat to medium and stir in the rice, paprika and saffron. Cook for around 1 minute to start toasting the rice, then add the white wine. Reduce by about half before stirring in two-thirds of the stock. Reduce to a simmer and cook for 10 minutes without a lid, stirring a couple of times.",
+      "ingredients_used": [
+        "2346ae5f-a0ce-5f6d-9545-497822b7fb9b",
+        "93771164-62ef-5b10-b1a0-a23447a081cd",
+        "023a687b-8a0a-5754-842c-5a23758441c3",
+        "9c1d77ae-b344-5e06-ac3b-fcf734de40f3",
+        "adef6e92-2bff-5751-b3ef-a9dc75fe81e2"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "3 Stir in the peas, add some seasoning, then gently mix in the roasted veg. Pour over the remaining stock, arrange the lemon wedges on top and cover with a lid or some aluminum foil. Cook for a further 10 minutes.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "888918b4-0ee7-55b9-bd5a-9b275d071b34",
+        "606d500d-d94e-5c6d-93a4-a732d700ab6e"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "4 To ensure you get the classic layer of toasted rice at the bottom of the pan, increase the heat to high until you hear a slight crackle. Remove from the heat and sit for 5 minutes before sprinkling over the parsley and serving.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "93771164-62ef-5b10-b1a0-a23447a081cd",
+        "4fb4b94a-a167-5fb4-872b-4a1176426af8"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.homestylemag.co.uk/recipe/517/main-courses/roast-fennel-and-aubergine-paella"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

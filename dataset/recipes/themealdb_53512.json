@@ -1,0 +1,292 @@
+{
+  "id": "2f7fbecb-fc0f-55ea-9f65-29a0a8ef915a",
+  "version": "1.0.0",
+  "title": "Conch Stew",
+  "slug": "conch-stew",
+  "summary": "A traditional Caymanian seafood stew featuring tenderized conch simmered in a coconut-based broth with peppers and onions.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:40:43Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53512"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/mlkjeu1782775816.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/mlkjeu1782775816.jpg/small",
+      "alt_text": "Photo of Conch Stew",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c09eb408-33f5-5580-b0b4-cd787ea520ba",
+        "slug": "caymanian",
+        "name": "Caymanian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 190,
+    "rest_time_minutes": 30,
+    "total_time_minutes": 250
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of stew with sea pie pieces"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "fish",
+      "shellfish"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "b0f1b387-92c7-5888-864c-8d39b366d4cb",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "4ed42293-bd8c-535d-b57a-455d3f341387",
+          "ingredient_id": "ee57ba25-fe66-506d-b18f-e152b13d9083",
+          "name": "conchs",
+          "display_text": "2 Lbs Conchs",
+          "quantity": 2.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 907.2,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "e85abad7-1712-5501-8d68-11c5aa3e177b",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c6f1b6c2-1f41-58be-a23a-7f0a228199db",
+          "ingredient_id": "f86b83d4-879d-54bb-a883-73bbfa9228ba",
+          "name": "green pepper",
+          "display_text": "1/2 Green Pepper",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "928a3e8f-3cec-57e1-9a09-660397f8dcd1",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1/2 Red Pepper",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c0238657-e015-5775-a23b-57df4fb49314",
+          "ingredient_id": "24cbab0a-29d3-5e28-b361-77f90e93af9c",
+          "name": "scallions",
+          "display_text": "2 Scallions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ffc16dfa-7784-5911-8713-bf62ed433164",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "bad3099e-011f-5c8e-b653-384db2d7c747",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1/4 tsp Black Pepper",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "ae89392f-c0f4-5f9d-b45f-cd7f4b889e8d",
+          "ingredient_id": "81f2c99c-58d4-59e1-b130-0490a7b582f1",
+          "name": "seasoning",
+          "display_text": "1/4 tsp Seasoning",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "7beca41b-445b-586b-b708-7b9d57f361b6",
+          "ingredient_id": "739769d2-a7f0-5fac-98c1-26e2aa7ce44e",
+          "name": "coconut",
+          "display_text": "1 Coconut",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7f9f3615-d0cd-5b10-80c4-9fb643136574",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "1 tablespoon Flour",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "ec6fe592-27ac-5ba6-92e0-1d030340ec4e",
+          "ingredient_id": "3deb6c1f-bd27-560b-a63b-f2b3eaf9e82e",
+          "name": "chilli",
+          "display_text": "To taste Chilli",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b767de0c-007c-5a95-8e6b-97d4810eeb43",
+          "ingredient_id": "d1e5ec78-b8c2-5649-962c-a9f67272ea92",
+          "name": "all purpose flour",
+          "display_text": "1 cup All purpose flour",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "dcf236cf-c08e-5c6d-bd9b-ccb1014cf215",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "1/2 tbs Vegetable Oil",
+          "quantity": 0.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "38f1c4d5-a947-52bd-8ac5-71e89ecce0d7",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Dash Salt",
+          "quantity": 1,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "ec8be3ed-a6c3-5b92-a80d-5b7b593bea64",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "Splash Water",
+          "quantity": 1,
+          "unit": "splash",
+          "is_optional": false,
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Conch Stew Cooking Directions"
+    },
+    {
+      "step_number": 2,
+      "instruction": "Clean conch meat and pound to tenderize. Boil conch for 2 - 3 hours or until tender. Make Sea Pie while conch cooks (instructions below). Once cool, cut conch in bite size pieces and season. Add all ingredients, except flour, to pan and simmer for 10 to 20 minutes. Mix flour with 1 cup water and pour into pan to thicken. Add Sea Pie pieces and continue to cook for an additional 10 minutes.",
+      "ingredients_used": [
+        "7f9f3615-d0cd-5b10-80c4-9fb643136574",
+        "ec8be3ed-a6c3-5b92-a80d-5b7b593bea64"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Sea Pie Cooking Directions"
+    },
+    {
+      "step_number": 4,
+      "instruction": "Make dough with flour, pinch of salt and water so that you can roll out as thin as possible, then cut into 2 ½” x 2 ½” squares. Let set for 30 minutes then stretch squares to thin them out and add to conch stew mixture.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "ffc16dfa-7784-5911-8713-bf62ed433164",
+        "7f9f3615-d0cd-5b10-80c4-9fb643136574",
+        "38f1c4d5-a947-52bd-8ac5-71e89ecce0d7",
+        "ec8be3ed-a6c3-5b92-a80d-5b7b593bea64"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Serve with white rice, plantain, breadfruit or your choice of vegetables."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.ourcayman.ky/en-us/about/more-about-cayman/recipes"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

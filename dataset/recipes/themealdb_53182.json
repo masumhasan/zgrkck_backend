@@ -1,0 +1,251 @@
+{
+  "id": "5aa19996-ab36-5dfa-9cc0-d4ee34e245f5",
+  "version": "1.0.0",
+  "title": "Spanish seafood rice",
+  "slug": "spanish-seafood-rice",
+  "summary": "A traditional Spanish rice dish cooked with saffron, peppers, and a variety of seafood in a vegetable stock base.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:11:29Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53182"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/c6ghxm1763335584.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/c6ghxm1763335584.jpg/small",
+      "alt_text": "Photo of Spanish seafood rice",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=jA-G6k1wT9M"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 32,
+    "total_time_minutes": 47
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of seafood rice"
+  },
+  "allergens": {
+    "contains": [
+      "fish",
+      "shellfish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "510c6f3c-89f8-569a-b417-4d7c22e64b09",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "8ac6fe64-bb7b-55ae-96fe-026b027b63e0",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 tblsp Olive Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "a2d158fb-4ee0-5f7a-b75e-1e7dda8edb78",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "89046ba9-8129-59d9-9267-ccfdc46385d5",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1 Red Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1601d0cc-6f7c-5e52-bacf-c24e7c7ca34e",
+          "ingredient_id": "ca16fa3e-7db9-5c18-acf7-0540f4e86a4d",
+          "name": "yellow pepper",
+          "display_text": "1 Yellow Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "631b3fbf-6e07-5044-b78e-77106e0b7fbf",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "2 sliced Garlic Clove",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "61873a2e-0dc4-54b5-8ebe-5204db014044",
+          "ingredient_id": "3d0a4168-db1b-589f-8473-5398078e1e51",
+          "name": "paella rice",
+          "display_text": "250g Paella Rice",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "69b1d4d8-018b-510a-9d04-3a119bd32425",
+          "ingredient_id": "2d490c0b-0744-5be5-a104-641c87b13636",
+          "name": "vegetable stock",
+          "display_text": "800ml Vegetable Stock",
+          "quantity": 800.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 800.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "7ef9d01f-1c67-508e-bb1a-e9b0d348106e",
+          "ingredient_id": "6e4973c3-ed8a-5158-9a24-ca212d5e7092",
+          "name": "saffron",
+          "display_text": "Pinch Saffron",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "8b196114-85ef-50a3-8a50-5d4632f5695f",
+          "ingredient_id": "a5c5a8c6-96b4-51d6-8b8a-a212378f6046",
+          "name": "frozen seafood mix",
+          "display_text": "400g Frozen Seafood mix",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "frozen_foods"
+        },
+        {
+          "id": "0e9ef1c1-6714-5f9f-82ed-e532057f8a68",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "Juice of 1/2 Lemon",
+          "quantity": 0.5,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4e262edb-6c57-5e57-ae82-015322fd1a36",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Handful Parsley",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oil in a large saucepan and soften the onion for 6-7 mins. Add the pepper and garlic, cook for 2 mins more, then stir in the paella rice and cook for 1 min, stirring to coat.",
+      "ingredients_used": [
+        "a2d158fb-4ee0-5f7a-b75e-1e7dda8edb78",
+        "61873a2e-0dc4-54b5-8ebe-5204db014044"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Pour in the stock, add the saffron and bring to the boil. Cook, uncovered, at a gentle bubble, for 20 mins, stirring occasionally until the rice is tender.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "61873a2e-0dc4-54b5-8ebe-5204db014044",
+        "7ef9d01f-1c67-508e-bb1a-e9b0d348106e"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Stir in the seafood and lemon juice and cook for 2 mins or until piping hot and completely cooked through. Serve in warm bowls scattered with the parsley.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "0e9ef1c1-6714-5f9f-82ed-e532057f8a68",
+        "4e262edb-6c57-5e57-ae82-015322fd1a36"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/spanish-seafood-rice"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "id": "6b1610f6-36c9-560b-85de-a7165e407610",
+  "version": "1.0.0",
+  "title": "Jamaican Instant Pot Rice and Beans",
+  "slug": "jamaican-instant-pot-rice-and-beans",
+  "summary": "A Jamaican-style rice and beans dish prepared in an Instant Pot or on the stovetop using coconut milk and kidney beans.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:26:40Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53352"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/11bvtm1764795135.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/11bvtm1764795135.jpg/small",
+      "alt_text": "Photo of Jamaican Instant Pot Rice and Beans",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=iJm1F-TE8Sk"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "2dfec5c8-490a-551c-9d2f-e8e21f706bda",
+        "slug": "jamaican",
+        "name": "Jamaican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course",
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 16,
+    "rest_time_minutes": 10,
+    "total_time_minutes": 36
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of rice and beans"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "8d46dd6e-6b86-558a-a5e2-3e5407c67127",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "63bd29d7-5d72-5ccc-955e-15a9e824e804",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 tablespoon Olive Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "217c5707-4890-5bad-8eb3-3690db81253f",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e7b412cd-4069-5e5f-878e-f624e893a4c3",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove finely chopped Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0913111b-7385-54d5-9531-80eea3d5ca3c",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "2 chopped Spring Onions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d157be5a-2526-56c4-a6dd-9310079120e5",
+          "ingredient_id": "025b8433-c498-5b37-813a-ec00ac6c2ae5",
+          "name": "rice",
+          "display_text": "2 cups Rice",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "fef00e72-c533-5c53-9e72-447f1a68e51a",
+          "ingredient_id": "0435e55e-84f6-566c-ac81-37617bbab91c",
+          "name": "coconut milk",
+          "display_text": "3/4 cup Coconut Milk",
+          "quantity": 0.75,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 180.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "fcbb5f25-c253-5874-80e6-aa8729bc83c3",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "3/4 cup Water",
+          "quantity": 0.75,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 180.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "cc2059c7-6bfd-5e02-80a7-5ec867696a01",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 1/2 tsp Salt",
+          "quantity": 1.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "0112b36c-269a-5bb5-944d-38090239f2d6",
+          "ingredient_id": "38dedce7-9a7f-57ee-8e46-5162ab60eba8",
+          "name": "allspice",
+          "display_text": "1/2 tsp Allspice",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "46b07827-c692-50a9-8536-cfdcee02ad63",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1/4 tsp Black Pepper",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "ad57fb8d-70ad-57c9-bd73-6ff16507de05",
+          "ingredient_id": "ba890946-fbb1-5386-9394-aa912a5bb5a0",
+          "name": "kidney beans",
+          "display_text": "450g Kidney Beans",
+          "quantity": 450.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "3f46eca1-c071-53fe-9019-4def4423f0fb",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "2 sprigs Thyme",
+          "quantity": 2.0,
+          "unit": "sprig",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Instructions"
+    },
+    {
+      "step_number": 2,
+      "instruction": "Set Instant Pot to \"Sauté.\" Once Hot, add olive oil. Then add yellow onion and stir until softened, about 3 minutes. Add garlic and green onions and stir for about 30 more seconds.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "63bd29d7-5d72-5ccc-955e-15a9e824e804",
+        "217c5707-4890-5bad-8eb3-3690db81253f",
+        "e7b412cd-4069-5e5f-878e-f624e893a4c3",
+        "0913111b-7385-54d5-9531-80eea3d5ca3c"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Press “Cancel” on the Instant Pot. Add rice, coconut milk, water, salt, allspice, and black pepper and stir.",
+      "ingredients_used": [
+        "d157be5a-2526-56c4-a6dd-9310079120e5",
+        "fef00e72-c533-5c53-9e72-447f1a68e51a",
+        "fcbb5f25-c253-5874-80e6-aa8729bc83c3",
+        "cc2059c7-6bfd-5e02-80a7-5ec867696a01",
+        "0112b36c-269a-5bb5-944d-38090239f2d6",
+        "46b07827-c692-50a9-8536-cfdcee02ad63"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Pour undrained kidney beans on top of the rice mixture. Do not stir. Lay sprigs of thyme on top. Cover the Instant Pot, ensuring the valve is set to “Sealing.”",
+      "ingredients_used": [
+        "d157be5a-2526-56c4-a6dd-9310079120e5",
+        "ad57fb8d-70ad-57c9-bd73-6ff16507de05",
+        "3f46eca1-c071-53fe-9019-4def4423f0fb"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Press “Manual” or “Pressure Cook” on the Instant Pot and set for High pressure for 6 minutes.",
+      "timer_seconds": 360
+    },
+    {
+      "step_number": 6,
+      "instruction": "Once the pressure cooking time is done, allow it to natural release for 10 minutes, then quick release any remaining pressure by moving valve to \"Venting\"",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 7,
+      "instruction": "Open lid and remove thyme sprigs. Fluff rice with fork and Enjoy!",
+      "ingredients_used": [
+        "d157be5a-2526-56c4-a6dd-9310079120e5",
+        "3f46eca1-c071-53fe-9019-4def4423f0fb"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Stove Top Instructions"
+    },
+    {
+      "step_number": 9,
+      "instruction": "Heat olive oil in a large pot over medium heat. Add yellow onion and stir until softened, about 3 minutes. Add garlic and green onions and stir for about 30 more seconds.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "63bd29d7-5d72-5ccc-955e-15a9e824e804",
+        "217c5707-4890-5bad-8eb3-3690db81253f",
+        "e7b412cd-4069-5e5f-878e-f624e893a4c3",
+        "0913111b-7385-54d5-9531-80eea3d5ca3c"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "Add rice, undrained kidney beans, coconut milk, water, salt, allspice, and black pepper and stir until combined. Lay thyme on top. Bring mixture to a simmer.",
+      "ingredients_used": [
+        "d157be5a-2526-56c4-a6dd-9310079120e5",
+        "fef00e72-c533-5c53-9e72-447f1a68e51a",
+        "fcbb5f25-c253-5874-80e6-aa8729bc83c3",
+        "cc2059c7-6bfd-5e02-80a7-5ec867696a01",
+        "0112b36c-269a-5bb5-944d-38090239f2d6",
+        "46b07827-c692-50a9-8536-cfdcee02ad63",
+        "ad57fb8d-70ad-57c9-bd73-6ff16507de05",
+        "3f46eca1-c071-53fe-9019-4def4423f0fb"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Cover with a lid and reduce heat to low. Allow to cook for 18 minutes over low heat, then remove from heat. Leave the lid on for an additional 5 minutes."
+    },
+    {
+      "step_number": 12,
+      "instruction": "Open the lid and remove the thyme. Fluff rice with fork. Enjoy.",
+      "ingredients_used": [
+        "d157be5a-2526-56c4-a6dd-9310079120e5",
+        "3f46eca1-c071-53fe-9019-4def4423f0fb"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.myforkinglife.com/jamaican-instant-pot-rice-and-beans/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

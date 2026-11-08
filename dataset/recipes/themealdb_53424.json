@@ -1,0 +1,167 @@
+{
+  "id": "7f247eae-4816-58b7-95da-735875d5fb39",
+  "version": "1.0.0",
+  "title": "Laos Plantain Coconut Bake (Flourless Muffin)",
+  "slug": "laos-plantain-coconut-bake-flourless-muffin",
+  "summary": "A Laotian-inspired dessert made by mashing plantains and mixing them with coconut cream and sugar, then baking in muffin tins.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:32:53Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53424"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/x7cbsp1779811798.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/x7cbsp1779811798.jpg/small",
+      "alt_text": "Photo of Laos Plantain Coconut Bake (Flourless Muffin)",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "576ac435-ec21-5e8d-85c2-e8d8a2c9dd6d",
+        "slug": "laotian",
+        "name": "Laotian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "afternoon_snack"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 55
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1 muffin"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "85772bce-cdac-5028-a7e5-d4005335aac2",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "267b77e1-784e-5c88-b2a0-0c5ed742e800",
+          "ingredient_id": "0f3e4fb6-2462-5ac9-9904-fadac99ad6a7",
+          "name": "coconut cream",
+          "display_text": "450ml Coconut Cream",
+          "quantity": 450.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "f4fa2929-8d07-57df-9617-fcfc626a37e7",
+          "ingredient_id": "a3d2e3eb-8e72-5f6f-9a52-c0cdb0bdc45a",
+          "name": "plantain",
+          "display_text": "4 large Plantain",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d87e05ea-b624-5e27-8919-7365af830a2c",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "4 tablespoons Sugar",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat oven to 350 degrees."
+    },
+    {
+      "step_number": 2,
+      "instruction": "Mash the plantains until it has a paste consistency.",
+      "ingredients_used": [
+        "f4fa2929-8d07-57df-9617-fcfc626a37e7"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Mix togher the coconut cream and granulated sugar. Mix well.",
+      "ingredients_used": [
+        "267b77e1-784e-5c88-b2a0-0c5ed742e800",
+        "d87e05ea-b624-5e27-8919-7365af830a2c"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add muffin liners to muffin pan."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Fill the mixture into muffin pan."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Bake for 45 minutes until baked all the way through.",
+      "timer_seconds": 2700
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://cookingwithlane.com/laos-plantain-coconut-bake/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

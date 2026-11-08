@@ -1,0 +1,164 @@
+{
+  "id": "adb4c6ab-7401-59d2-9abf-7e14a1fa34fe",
+  "version": "1.0.0",
+  "title": "Japanese gohan rice",
+  "slug": "japanese-gohan-rice",
+  "summary": "A staple Japanese steamed rice dish prepared with sushi rice and seasoned with mirin. It is typically served as a base for various meals or as a side dish.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:58:38Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53033"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/kw92t41604181871.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/kw92t41604181871.jpg/small",
+      "alt_text": "Photo of Japanese gohan rice",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=rZO86_-MIp0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "56a9f85e-d404-5cf3-b90f-babb495ba40f",
+        "slug": "japanese",
+        "name": "Japanese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "rest_time_minutes": 15,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of cooked rice"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "ad815546-9c86-5799-8522-0f33f0965a93",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "a2df11bb-47b5-57d3-8a50-934acd0531c9",
+          "ingredient_id": "1713ec53-fbc1-529e-90c6-f0803ae6912e",
+          "name": "sushi rice",
+          "display_text": "300g Sushi Rice",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "9e5f07cc-0b43-532f-a34b-d2458df06125",
+          "ingredient_id": "df1f505e-69c3-53b3-b692-0e447812c941",
+          "name": "mirin",
+          "display_text": "1 tbs Mirin",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "3b055785-5399-5379-9835-fd64af4fb5e9",
+          "ingredient_id": "6b7f3319-2721-5bad-8f34-000a78ad7ad5",
+          "name": "pickle juice",
+          "display_text": "Garnish Pickle Juice",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "garnish",
+          "is_optional": false,
+          "category": "beverages"
+        },
+        {
+          "id": "a6d42708-7a5e-51b8-aaaf-137beaec16d5",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "Garnish Spring Onions",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "garnish",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Rinsing and soaking your rice is key to achieving the perfect texture. Measure the rice into a bowl, cover with cold water, then use your fingers to massage the grains of rice – the water will become cloudy. Drain and rinse again with fresh water. Repeat five more times until the water stays clear.",
+      "ingredients_used": [
+        "a2df11bb-47b5-57d3-8a50-934acd0531c9"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Tip the rinsed rice into a saucepan with 400ml water, or 200ml dashi and 200ml water, bring to the boil, then turn down the heat to a low simmer, cover with a tight-fitting lid with a steam hole and cook for 15 mins. Remove from the heat and leave to sit for another 15 mins, then stir through the mirin. Remove the lid and give it a good stir. Serve with any or all of the optional toppings.",
+      "ingredients_used": [
+        "a2df11bb-47b5-57d3-8a50-934acd0531c9",
+        "9e5f07cc-0b43-532f-a34b-d2458df06125"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/japanese-rice-gohan"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

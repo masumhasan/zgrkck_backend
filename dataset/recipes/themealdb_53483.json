@@ -1,0 +1,346 @@
+{
+  "id": "2ea4d970-3b91-575a-ba31-3e7b7adecd57",
+  "version": "1.0.0",
+  "title": "Acaraje black-eyed pea fritters with shrimp filling",
+  "slug": "acaraje-black-eyed-pea-fritters-with-shrimp-filling",
+  "summary": "A traditional Brazilian dish consisting of deep-fried black-eyed pea fritters stuffed with a savory shrimp and tomato filling.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:38:15Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53483"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/dxs5t71782678369.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/dxs5t71782678369.jpg/small",
+      "alt_text": "Photo of Acaraje black-eyed pea fritters with shrimp filling",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6675856e-6919-5ea9-9f7a-8bf7f195e27f",
+        "slug": "brazilian",
+        "name": "Brazilian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course",
+      "appetizer"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 55
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "4 fritters with shrimp filling"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "fish",
+      "shellfish"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "115eebbb-8baa-5b0c-9652-58533a0cea26",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "0ef6d01d-412c-535a-be4b-5bd186e46d3a",
+          "ingredient_id": "cac458b5-b1be-5959-8de2-38f6f6637394",
+          "name": "black eyed peas",
+          "display_text": "800g Black Eyed Peas",
+          "quantity": 800.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 800.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "6dd6a028-86cb-581b-9bf0-611a0a54f674",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3b8fdaa3-7d57-5b87-bbc3-6cd547f21451",
+          "ingredient_id": "091f7fa6-975c-516e-a354-2a31e6503580",
+          "name": "green chilli",
+          "display_text": "1 Green Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3df11774-9c4f-59bc-b469-3442cf9d39f1",
+          "ingredient_id": "716f7639-3b59-56a7-9146-1819649ebdad",
+          "name": "red onions",
+          "display_text": "1 small finely diced Red Onions",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "small finely diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e4d91727-aa5e-5b88-aa70-e4713e0c0563",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "2 tablespoons Plain Flour",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "2d80a48c-7092-5d07-aaba-a4074a51e353",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "41187469-a39a-5376-88e0-8319898361c8",
+          "ingredient_id": "6fab3ead-b910-5c38-a787-4d74e606a7e1",
+          "name": "chilli powder",
+          "display_text": "1 tsp Chilli Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "af96c796-8903-52fe-8f7c-63b891964258",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 tsp Baking Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "041a7503-1627-520b-85eb-680dfac35a75",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "For frying Vegetable Oil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "for frying",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "e13abe7f-2064-5696-833c-1fded23fc1c6",
+          "ingredient_id": "716f7639-3b59-56a7-9146-1819649ebdad",
+          "name": "red onions",
+          "display_text": "1 sliced Red Onions",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7f3bdff7-ca5f-58c6-9e82-8a850ed54274",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "1 tablespoon chopped Ginger",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "b31e2c84-ee6f-54c5-8bb9-2c75b970d36b",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1910bb50-e2a6-5451-aae6-fd410c10cbba",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "1 chopped Red Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "158c0609-212b-5b10-854f-5fbec7dbdf58",
+          "ingredient_id": "0093f11b-b123-575d-9a40-af8831db7065",
+          "name": "raw tiger prawns",
+          "display_text": "150g Raw tiger prawns",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "7e7a4bc8-2728-5c3d-a713-19b724f4a5fa",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "1 tablespoon Vegetable Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "44e9fbf1-8dc4-577a-a6cf-c01256e67ea6",
+          "ingredient_id": "eef09ba5-f0a8-5d2e-a676-6a71ab7f1fab",
+          "name": "plum tomatoes",
+          "display_text": "2 Plum Tomatoes",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "78ac1484-155b-58df-b68a-7244e4420429",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "1 tablespoon chopped Coriander",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d2dfcc42-3fed-5750-9ff6-8450816e96f2",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "Juice of 1 Lime",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Make the filling by placing the onion, ginger, garlic, chilli, and some salt into food processor. Purée until smooth. Heat the oil in a frying pan and pour the purée into it. Fry for 5 mins or until cooked through. Add the prawns, tomatoes and chopped coriander. Squeeze in the lime and add salt to taste. Cook for 3 mins, or until the prawns have cooked through. Remove from the heat.",
+      "ingredients_used": [
+        "6dd6a028-86cb-581b-9bf0-611a0a54f674",
+        "3b8fdaa3-7d57-5b87-bbc3-6cd547f21451",
+        "2d80a48c-7092-5d07-aaba-a4074a51e353",
+        "7f3bdff7-ca5f-58c6-9e82-8a850ed54274",
+        "b31e2c84-ee6f-54c5-8bb9-2c75b970d36b",
+        "1910bb50-e2a6-5451-aae6-fd410c10cbba",
+        "158c0609-212b-5b10-854f-5fbec7dbdf58",
+        "44e9fbf1-8dc4-577a-a6cf-c01256e67ea6",
+        "78ac1484-155b-58df-b68a-7244e4420429",
+        "d2dfcc42-3fed-5750-9ff6-8450816e96f2"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Drain and rinse the black-eyed peas. Pour into a food processor with the garlic and chili. Purée until smooth. Scrape into a bowl and add the onion, flour, salt, chilli powder and baking powder. Mix and roll into 16 balls.",
+      "ingredients_used": [
+        "0ef6d01d-412c-535a-be4b-5bd186e46d3a",
+        "6dd6a028-86cb-581b-9bf0-611a0a54f674",
+        "3b8fdaa3-7d57-5b87-bbc3-6cd547f21451",
+        "2d80a48c-7092-5d07-aaba-a4074a51e353",
+        "41187469-a39a-5376-88e0-8319898361c8",
+        "af96c796-8903-52fe-8f7c-63b891964258",
+        "b31e2c84-ee6f-54c5-8bb9-2c75b970d36b",
+        "1910bb50-e2a6-5451-aae6-fd410c10cbba"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Heat the oven to 190C/170C fan/gas 5. Heat 8cm of the palm or vegetable oil in a wok or small heavy pan. When a small piece of bread sizzles, drop 4-5 balls into the oil. Fry until golden and crisp, about 4-5 mins. Drain on kitchen paper and repeat until they are all finished. You can keep them warm in the oven while you finish. Slice the fritters open down the center and spoon the prawn filling in. Serve with hot sauce.",
+      "timer_seconds": 300,
+      "temperature": {
+        "value": 190,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "041a7503-1627-520b-85eb-680dfac35a75",
+        "7e7a4bc8-2728-5c3d-a713-19b724f4a5fa"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/caraje-black-eyed-pea-fritters-shrimp-filling"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "id": "5b3d8250-18a2-5d35-b68c-cb66dad351ca",
+  "version": "1.0.0",
+  "title": "Soy-Glazed Meatloaves with Wasabi Mashed Potatoes & Roasted Carrots",
+  "slug": "soy-glazed-meatloaves-with-wasabi-mashed-potatoes-roasted-carrots",
+  "summary": "Beef meatloaves glazed with a soy-ketchup sauce, served alongside creamy wasabi mashed potatoes and roasted carrots.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:55:19Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52992"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/o2wb6p1581005243.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/o2wb6p1581005243.jpg/small",
+      "alt_text": "Photo of Soy-Glazed Meatloaves with Wasabi Mashed Potatoes & Roasted Carrots",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b95bb9d4-1e18-5623-a50f-942c7d140e82",
+        "slug": "american",
+        "name": "American"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 45
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 meatloaf with mashed potatoes and carrots"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "c91c665f-beeb-5245-b82c-c5a45987b69a",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "abc4d9e6-ab7c-557f-a0d3-9408521cb12c",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "5 Potatoes",
+          "quantity": 5.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ddbe0e5c-3f6d-54c4-a469-8778a4420e5f",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "12 ounces Carrots",
+          "quantity": 12.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 340.2,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "1115a0ac-3427-582b-89f5-772799e17e9b",
+          "ingredient_id": "24cbab0a-29d3-5e28-b361-77f90e93af9c",
+          "name": "scallions",
+          "display_text": "1 Scallions",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2927f331-612f-50cc-b964-679da32e1d1d",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "68173350-7942-5115-a8e4-cdb719d14bec",
+          "ingredient_id": "95128a6e-6409-5797-b33b-a94a27c5951f",
+          "name": "bread",
+          "display_text": "1 Slice Bread",
+          "quantity": 1.0,
+          "unit": "slice",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "608d0240-b08d-54c4-9029-18db46482d78",
+          "ingredient_id": "856e47ab-bcee-5e44-bc03-f1ba0c6859b1",
+          "name": "garlic powder",
+          "display_text": "1 Garlic Powder",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "38de1750-fabb-5178-b207-94a77f59ab0f",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "2 Soy Sauce",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "condiments"
+        },
+        {
+          "id": "2e84db62-2bcd-5049-9ee9-492adac547a5",
+          "ingredient_id": "daceaafa-62e0-5268-ab7d-62934c564c72",
+          "name": "ground beef",
+          "display_text": "1 Ground Beef",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "f7f5dd73-be2a-580d-a473-2f9cd62d4acf",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "1 tsp Vegetable Oil",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "73bd315a-14a4-5580-a975-0929ca97fc59",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "2 tsp Sugar",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "80df0fd5-7ee5-5e99-be15-71ff8ba378b2",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "2 tbsp Butter",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat oven to 425 degrees. Wash and dry all produce. Dice potatoes into 1/2-inch pieces. Trim, peel, and cut carrots on a diagonal into 1/2-inch-thick pieces. Trim and thinly slice scallions, separating whites from greens; finely chop whites. Peel and finely chop garlic.",
+      "ingredients_used": [
+        "abc4d9e6-ab7c-557f-a0d3-9408521cb12c",
+        "ddbe0e5c-3f6d-54c4-a469-8778a4420e5f",
+        "1115a0ac-3427-582b-89f5-772799e17e9b",
+        "2927f331-612f-50cc-b964-679da32e1d1d"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a medium bowl, soak bread with 2 TBSP water (4 TBSP for 4 servings); break up with your hands until pasty. Stir in beef, sriracha, scallion whites, half the garlic, salt (we used 3/4 tsp kosher salt; 11/2 tsp for 4), and pepper. Form into two 1-inch-tall loaves (four loaves for 4). Place on one side of a baking sheet. Toss carrots on empty side of same sheet with a drizzle of oil, salt, and pepper. (For 4, spread meatloaves out across whole sheet and add carrots to a second sheet.) Bake for 20 minutes (we'll glaze the meatloaves then).",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "ddbe0e5c-3f6d-54c4-a469-8778a4420e5f",
+        "2927f331-612f-50cc-b964-679da32e1d1d",
+        "68173350-7942-5115-a8e4-cdb719d14bec",
+        "2e84db62-2bcd-5049-9ee9-492adac547a5"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Meanwhile, place potatoes in a medium pot with enough salted water to cover by 2 inches. Bring to a boil and cook until very",
+      "ingredients_used": [
+        "abc4d9e6-ab7c-557f-a0d3-9408521cb12c"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "tender, 12-15 minutes. Reserve 1/2 cup potato cooking liquid, then drain. While potatoes cook, in a small bowl, combine soy sauce, garlic powder, 1/4 cup ketchup (1/2 cup for 4 servings), and 2 tsp sugar (4 tsp for 4).",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "abc4d9e6-ab7c-557f-a0d3-9408521cb12c",
+        "2927f331-612f-50cc-b964-679da32e1d1d",
+        "608d0240-b08d-54c4-9029-18db46482d78",
+        "38de1750-fabb-5178-b207-94a77f59ab0f",
+        "73bd315a-14a4-5580-a975-0929ca97fc59"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Once meatloaves and carrots have baked 20 minutes, remove from oven. Spoon half the ketchup glaze over meatloaves (save",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "ddbe0e5c-3f6d-54c4-a469-8778a4420e5f"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "the rest for serving); return to oven until carrots are browned and tender, meatloaves are cooked through, and glaze is tacky, 4-5 minutes more.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "ddbe0e5c-3f6d-54c4-a469-8778a4420e5f"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Meanwhile, melt 2 TBSP butter (4 TBSP for 4 servings) in pot used for potatoes over medium heat. Add remaining garlic and cook",
+      "ingredients_used": [
+        "abc4d9e6-ab7c-557f-a0d3-9408521cb12c",
+        "2927f331-612f-50cc-b964-679da32e1d1d",
+        "80df0fd5-7ee5-5e99-be15-71ff8ba378b2"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "until fragrant, 30 seconds. Add potatoes and 1/4 tsp wasabi. Mash, adding splashes of reserved potato cooking liquid as necessary until smooth. Season with salt and pepper. (If you like things spicy, stir in more wasabi!)",
+      "timer_seconds": 30,
+      "ingredients_used": [
+        "abc4d9e6-ab7c-557f-a0d3-9408521cb12c"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Divide meatloaves, mashed potatoes, and roasted carrots between plates. Sprinkle with scallion greens and serve with remaining ketchup glaze on the side for dipping.",
+      "ingredients_used": [
+        "abc4d9e6-ab7c-557f-a0d3-9408521cb12c",
+        "ddbe0e5c-3f6d-54c4-a469-8778a4420e5f"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

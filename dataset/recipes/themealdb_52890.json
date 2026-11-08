@@ -1,0 +1,211 @@
+{
+  "id": "b87b9510-1ee1-5723-a049-78e4de57c92e",
+  "version": "1.0.0",
+  "title": "Jam Roly-Poly",
+  "slug": "jam-roly-poly",
+  "summary": "A traditional British steamed pudding made from a suet pastry rolled with raspberry jam.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:46:36Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52890"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ysqupp1511640538.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ysqupp1511640538.jpg/small",
+      "alt_text": "Photo of Jam Roly-Poly",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=5ZYWVQ8imVA"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 60,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 80
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1 thick slice"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "22e15b67-4ec9-5fe5-b26e-613e26ff0874",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "96e69dfd-03b9-5150-a093-4f2b09a65d18",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "50g Butter",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "6cad01dc-a3ed-580d-a20d-cb10b90410cc",
+          "ingredient_id": "d923f6bd-1129-51bf-ba9e-32b3305fa65e",
+          "name": "self-raising flour",
+          "display_text": "250g Self-raising Flour",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "eeaaab97-101d-5b36-8475-7f912efa265d",
+          "ingredient_id": "1ad32b47-90dc-570b-9ae6-d231b0342095",
+          "name": "vanilla",
+          "display_text": "1 small Vanilla",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "cfe90504-0774-5ccb-b66b-a96888b28a36",
+          "ingredient_id": "1edeb27c-52bb-5931-8068-92f5bb6715ee",
+          "name": "suet",
+          "display_text": "50g Suet",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "oils_fats"
+        },
+        {
+          "id": "0e30532c-0983-509e-8e64-7aaa9238a65e",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "150ml Milk",
+          "quantity": 150.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "1318e01e-2117-5b79-9816-b7f71270db95",
+          "ingredient_id": "4d0afb14-18ce-5822-8665-7e4ee7dd5ad0",
+          "name": "raspberry jam",
+          "display_text": "100g Raspberry Jam",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "condiments"
+        },
+        {
+          "id": "1b5d9553-0501-5dbc-be30-6f264225f569",
+          "ingredient_id": "57a7ebfe-8a5f-517b-9c50-20c587612d4a",
+          "name": "custard",
+          "display_text": "to serve Custard",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Put a deep roasting tin onto the bottom shelf of the oven, and make sure that there’s another shelf directly above it. Pull the roasting tin out on its shelf, fill two-thirds with boiling water from the kettle, then carefully slide it back in. Heat oven to 180C/160C fan/gas 4. Tear off a large sheet of foil and greaseproof paper (about 30 x 40cm). Sit the greaseproof on top of the foil and butter it.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "96e69dfd-03b9-5150-a093-4f2b09a65d18"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Tip butter, flour and vanilla seeds into a food processor; pulse until the butter has disappeared. Tip into a mixing bowl. Stir through the suet, pour in the milk and work together with a cutlery knife until you get a sticky dough. You may need a drop more milk, depending on your flour.",
+      "ingredients_used": [
+        "96e69dfd-03b9-5150-a093-4f2b09a65d18",
+        "eeaaab97-101d-5b36-8475-7f912efa265d",
+        "cfe90504-0774-5ccb-b66b-a96888b28a36",
+        "0e30532c-0983-509e-8e64-7aaa9238a65e"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Tip the dough out onto a floured surface, quickly pat together to smooth, then roll out to a square roughly 25 x 25cm. Spread the jam all over, leaving a gap along one edge, then roll up from the opposite edge. Pinch the jam-free edge into the dough where it meets, and pinch the ends roughly, too. Carefully lift onto the greased paper, join-side down (you might find a flat baking sheet helpful for this), loosely bring up the paper and foil around it, then scrunch together along the edges and ends to seal. The roly-poly will puff quite a bit during cooking so don’t wrap it tightly. Lift the parcel directly onto the rack above the tin and cook for 1 hr.",
+      "timer_seconds": 3600
+    },
+    {
+      "step_number": 4,
+      "instruction": "Let the pudding sit for 5 mins before unwrapping, then carefully open the foil and paper, and thickly slice to serve.",
+      "timer_seconds": 300
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/13354/jam-rolypoly"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

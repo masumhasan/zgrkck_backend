@@ -1,0 +1,310 @@
+{
+  "id": "89da5454-a5d6-5462-bd61-acaf5c496fbd",
+  "version": "1.0.0",
+  "title": "Thai rice noodle salad",
+  "slug": "thai-rice-noodle-salad",
+  "summary": "A refreshing Thai-style salad featuring rice vermicelli noodles, bean sprouts, and lime dressing. This recipe offers two protein variations: savory minced pork or sesame-crusted sirloin steak.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:13:23Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53203"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/6g3rso1763486069.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/6g3rso1763486069.jpg/small",
+      "alt_text": "Photo of Thai rice noodle salad",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "724b7c6a-f254-57d4-9729-335a2b2d93b1",
+        "slug": "thai",
+        "name": "Thai"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 15,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 35
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of noodle salad with protein"
+  },
+  "allergens": {
+    "contains": [
+      "fish",
+      "sesame"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "b3df1db6-65ca-53fc-9743-96845fcddb2f",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "30fc6a39-5a5c-522a-8ef6-e1d12b246d07",
+          "ingredient_id": "ff478cc2-4208-5323-b914-2b4f2b3a8e96",
+          "name": "vermicelli rice noodles",
+          "display_text": "1/2 bag Vermicelli Rice Noodles",
+          "quantity": 0.5,
+          "unit": "bag",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "206a3b83-4032-5047-96ae-b580432844bb",
+          "ingredient_id": "2ac15386-42dc-5765-807a-4b4cf4edfcba",
+          "name": "bean sprouts",
+          "display_text": "200g Bean Sprouts",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "66fbf1c9-1f35-5b7f-88ec-ad3058eebe0c",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "Zest and juice of 2 Lime",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "zest and juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7c413f24-4776-51e5-99a9-1d10b08dc12c",
+          "ingredient_id": "de927c20-fdfa-5b98-8ee9-7840fa951a2f",
+          "name": "fish sauce",
+          "display_text": "2-3 tbsp Fish Sauce",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "53c278cf-7e69-55db-8ef8-242024c051a3",
+          "ingredient_id": "74d4f663-2935-561e-b6ec-45f204542152",
+          "name": "muscovado sugar",
+          "display_text": "1 tsp Muscovado Sugar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "169176bf-efd8-5ee6-a403-d611da898d43",
+          "ingredient_id": "716f7639-3b59-56a7-9146-1819649ebdad",
+          "name": "red onions",
+          "display_text": "1 sliced Red Onions",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ce95c6d8-3ca1-5fc9-98fc-bcae2609a389",
+          "ingredient_id": "0777cda5-7472-55c6-bfb1-6a88f7678f6d",
+          "name": "lettuce",
+          "display_text": "2 small Lettuce",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "81ec9582-6efc-58c1-95a4-a8aba8e6eef1",
+          "ingredient_id": "129e9d71-a5d6-5673-b00e-1cc058330b03",
+          "name": "minced pork",
+          "display_text": "500g Minced Pork",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "4d23e0a7-f2d8-5f08-a4e2-b12cc7b903c2",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "Knob Ginger",
+          "quantity": 1,
+          "unit": "knob",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4b622d50-2f4a-5251-856d-555d155d9443",
+          "ingredient_id": "97dd86b9-4ad7-5a3a-bc6c-86485409c325",
+          "name": "cayenne pepper",
+          "display_text": "Pinch Cayenne Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "c1df708e-9516-5f69-b1e6-f2e4d5d22866",
+          "ingredient_id": "aa561384-0d26-5008-a25e-3ba9db4b2a3f",
+          "name": "sunflower oil",
+          "display_text": "1 tsp Sunflower Oil",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "fba7f163-4d83-5a93-be56-dfef34b1a9c1",
+          "ingredient_id": "d5403c00-b586-53a5-a77f-fac320f14278",
+          "name": "sesame seed",
+          "display_text": "2 tblsp Sesame Seed",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "f334d703-b1c2-560b-abc8-6b5f652f541d",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "1 tsp Oil",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "0cf7b536-abb5-5fc0-8a74-e2d6f168a5d4",
+          "ingredient_id": "febc81fb-5cd0-554c-b824-0241486907eb",
+          "name": "sirloin steak",
+          "display_text": "4 Sirloin steak",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "4c4b40ca-e925-5db2-b245-115e0e9ea066",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "1 sliced Red Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Place the noodles and beansprouts in a heatproof bowl and cover with boiling water. Leave for 4 mins, or until the noodles are tender. Drain, then cool under cold running water and drain again. Return to the bowl.",
+      "timer_seconds": 240,
+      "ingredients_used": [
+        "30fc6a39-5a5c-522a-8ef6-e1d12b246d07"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Stir together the lime zest and juice, fish or soy sauce and sugar. Stir into the noodles with the red onion and lettuce.",
+      "ingredients_used": [
+        "30fc6a39-5a5c-522a-8ef6-e1d12b246d07",
+        "66fbf1c9-1f35-5b7f-88ec-ad3058eebe0c",
+        "ce95c6d8-3ca1-5fc9-98fc-bcae2609a389"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "To make with mince, heat a little oil in a non-stick frying pan and stir-fry 500g minced pork, a small knob of grated ginger and pinch cayenne pepper or chilli powder for 10 mins, until the mince is browned and cooked through. Mix into the noodles, divide between four bowls and serve warm.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "30fc6a39-5a5c-522a-8ef6-e1d12b246d07",
+        "81ec9582-6efc-58c1-95a4-a8aba8e6eef1",
+        "4d23e0a7-f2d8-5f08-a4e2-b12cc7b903c2",
+        "4b622d50-2f4a-5251-856d-555d155d9443",
+        "f334d703-b1c2-560b-abc8-6b5f652f541d",
+        "4c4b40ca-e925-5db2-b245-115e0e9ea066"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "To make with steak, make the rice noodle salad. Heat 1 tsp sunflower oil in a frying pan. Tip 2 tbsp sesame seeds onto a plate. Rub 1 tsp oil into 4 x 175g sirloin steaks and press into sesame seeds. Fry for 5 mins for medium rare, turning halfway. Leave to rest for 5 mins, then thinly slice. Toss 1 deseeded and shredded red chilli, and a handful mint leaves into noodles. Top with steak to serve.",
+      "ingredients_used": [
+        "30fc6a39-5a5c-522a-8ef6-e1d12b246d07",
+        "c1df708e-9516-5f69-b1e6-f2e4d5d22866",
+        "fba7f163-4d83-5a93-be56-dfef34b1a9c1",
+        "f334d703-b1c2-560b-abc8-6b5f652f541d",
+        "0cf7b536-abb5-5fc0-8a74-e2d6f168a5d4",
+        "4c4b40ca-e925-5db2-b245-115e0e9ea066"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/thai-rice-noodle-salad"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

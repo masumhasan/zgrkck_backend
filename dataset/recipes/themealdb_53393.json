@@ -1,0 +1,185 @@
+{
+  "id": "30891ce4-e2be-5f40-8276-d885a5abaefa",
+  "version": "1.0.0",
+  "title": "Dutch doughnuts",
+  "slug": "dutch-doughnuts",
+  "summary": "Dutch doughnuts are deep-fried dough balls made from a yeast-based batter, resulting in a golden-brown exterior and a soft interior.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:30:10Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53393"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/cz1d6v1777627421.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/cz1d6v1777627421.jpg/small",
+      "alt_text": "Photo of Dutch doughnuts",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "74c070cf-0c42-573b-9e5c-54db497f25a3",
+        "slug": "dutch",
+        "name": "Dutch"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 15,
+    "rest_time_minutes": 60,
+    "total_time_minutes": 90
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of doughnuts"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "ad228acf-f3ce-5b83-a1a2-ebb737de0df5",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "bf452de5-1c7d-5f66-8a0a-5840776e858c",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "500g Flour",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "0589a5d0-05a9-5934-bd46-560c446738d8",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "500ml Milk",
+          "quantity": 500.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "5b08f96b-74c3-5ef0-8091-046934b77c37",
+          "ingredient_id": "bcf92c24-98f5-5008-9313-143efe51268b",
+          "name": "instant yeast",
+          "display_text": "10g Instant Yeast",
+          "quantity": 10.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "28156994-4f32-5c2f-a126-2f7fcf5681fb",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "10g Salt",
+          "quantity": 10.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "gram",
+          "category": "seasoning"
+        },
+        {
+          "id": "bdf4b52a-6ed2-52a8-9b40-17a8c957f5f6",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "25g Sugar",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Place the flour in a large bowl and add the yeast and sugar. If the milk is cold make sure to heat it to lukewarm. Mix your flour mixture bit by bit with the milk until you have a smooth batter. Add the salt and mix with a wooden spoon till the batter is smooth and liquidy.",
+      "ingredients_used": [
+        "bf452de5-1c7d-5f66-8a0a-5840776e858c",
+        "0589a5d0-05a9-5934-bd46-560c446738d8",
+        "5b08f96b-74c3-5ef0-8091-046934b77c37",
+        "28156994-4f32-5c2f-a126-2f7fcf5681fb",
+        "bdf4b52a-6ed2-52a8-9b40-17a8c957f5f6"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Cover with a clean tea towel and leave in a warm spot for about an hour to rise."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Heat your deep fryer or add the oil to a large pot. The oil should be a t 180˚C (350˚F) for best results."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Before starting stir your batter through and scoop the batter with two spoons or with an ice cream scoop. Let it drop into the oil carefully. It is easiest to do this if you dip your spoons or scoop into the oil before dipping into the batter. That way it will slide of the spoons easily. Don't over crowd the fryer to prevent the oil cooling down too quickly and everything sticking together. Once one side is golden brown it usually turns around to the other side automatically. If not help it along with two forks."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Take the balls out once golden brown and leave to drain on a piece of kitchen paper."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://insimoneskitchen.com/dutch-doughnuts/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

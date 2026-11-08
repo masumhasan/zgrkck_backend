@@ -1,0 +1,312 @@
+{
+  "id": "fa991b82-52ed-590f-87af-a7e8b5ab8f75",
+  "version": "1.0.0",
+  "title": "Classic Tourtière",
+  "slug": "classic-tourtiere",
+  "summary": "A traditional Canadian meat pie filled with a spiced mixture of ground beef, pork, and potatoes encased in a shortcrust pastry.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:25:52Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53343"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/0sd7ac1764787957.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/0sd7ac1764787957.jpg/small",
+      "alt_text": "Photo of Classic Tourtière",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=PM9TZPUJTiU"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "54838e2c-2c59-558b-8932-e019f7cc6d0c",
+        "slug": "canadian",
+        "name": "Canadian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": [
+      "easter"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 65,
+    "rest_time_minutes": 15,
+    "total_time_minutes": 100
+  },
+  "yield": {
+    "servings": 10,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 slice of pie"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "af5ff6c6-5160-5a66-a406-e8db2c2261f5",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "ed2e6a9a-99ea-5600-aafb-37fef0ca950f",
+          "ingredient_id": "a2b10768-5e5c-5fab-80bc-cf7fbc51f362",
+          "name": "canola oil",
+          "display_text": "2 tablespoons Canola Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "76b0c842-28d6-5a73-9eea-c83dac8a0066",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2ef7007c-80b1-5f60-99e7-6bc90a6bc673",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves minced Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "minced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4c2db12a-e813-5d5f-a98e-f1e9d147bb33",
+          "ingredient_id": "daceaafa-62e0-5268-ab7d-62934c564c72",
+          "name": "ground beef",
+          "display_text": "1 lb Ground Beef",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "65f29ed6-7e78-5c34-a7aa-0beb7d2825c3",
+          "ingredient_id": "43eb0e54-4681-5c1a-b0f7-d686895d5f7a",
+          "name": "ground pork",
+          "display_text": "1 lb Ground Pork",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "e8cb2871-f229-5e8d-9652-c77a91a27e4f",
+          "ingredient_id": "45568f23-a82b-5e69-ab00-49e5fd725b6d",
+          "name": "dried leaves of summer savory",
+          "display_text": "1 tsp Dried Leaves Of Summer Savory",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "6eba3f00-f91a-52e5-89c1-ffcb10bb7b78",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "444b6957-5bae-56c8-8db2-bcf33b524b10",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "To taste Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "63cac9a6-1f3b-5c5d-9456-2b8ea155a295",
+          "ingredient_id": "d64811b1-6728-5fc6-a570-f549062b0737",
+          "name": "ground clove",
+          "display_text": "1/2 tsp Ground Clove",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "472008d8-b005-5216-9214-7ccd9fe2dc96",
+          "ingredient_id": "43fdd2fd-26e3-5e32-af4b-0c63a027d37c",
+          "name": "ground nutmeg",
+          "display_text": "1/2 tsp Ground Nutmeg",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1500c304-516c-515f-a8d3-38b53f2ab9c4",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "1 Bay Leaf",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "841c05f5-73c4-5804-b8ff-9f246486837f",
+          "ingredient_id": "39a746ef-3300-5229-b0b2-3e03970ea60c",
+          "name": "beef stock",
+          "display_text": "1 cup Beef Stock",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "bf46378f-ef25-5af2-9b2a-cef1ecf02ed8",
+          "ingredient_id": "dd855601-7333-53ea-84e3-5bbe01eea027",
+          "name": "russet potato",
+          "display_text": "1 small Russet Potato",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "90d069dd-489b-58d6-8d71-d73003545b2f",
+          "ingredient_id": "046360a3-7aab-5675-9fe2-646f97878a5d",
+          "name": "shortcrust pastry",
+          "display_text": "4 Shortcrust Pastry",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "f2b74298-db26-5846-b85c-e08ce31d570b",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 beaten Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "beaten",
+          "is_optional": false,
+          "category": "eggs"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oil on medium-high heat in a large sauté pan or skillet, then sauté the onion and garlic until softened, about 5 minutes. Add the ground beef, pork, and spices and cook until the meat is browned.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "76b0c842-28d6-5a73-9eea-c83dac8a0066",
+        "2ef7007c-80b1-5f60-99e7-6bc90a6bc673",
+        "4c2db12a-e813-5d5f-a98e-f1e9d147bb33",
+        "65f29ed6-7e78-5c34-a7aa-0beb7d2825c3"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the beef broth and bring it up to a simmer then reduce heat to medium low. Add the grated potato and stir it in. Cook until liquid is almost absorbed, about 15 min. Remove the bay leaves and add salt to taste. Remove the pan from the heat and let the mixture cool completely — it bakes best if the filling is chilled.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "4c2db12a-e813-5d5f-a98e-f1e9d147bb33",
+        "6eba3f00-f91a-52e5-89c1-ffcb10bb7b78",
+        "bf46378f-ef25-5af2-9b2a-cef1ecf02ed8"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Preheat the oven to 375 °F (190 °C). On a lightly floured surface, roll out one disc of the pie dough to less than the 1/4-inch thickness and line the 9-inch pie plate. Fill this with the cooled tourtière mixture and spread out evenly. Roll out the remaining dough to the same thickness, cut a hole in the center (for steam to escape) and place on top of the filling. Trim the dough to 1/2-inch beyond the edge of the pie plate and pinch the edges of the crust together. Brush the crust with the egg wash.",
+      "temperature": {
+        "value": 375,
+        "unit": "fahrenheit"
+      },
+      "ingredients_used": [
+        "f2b74298-db26-5846-b85c-e08ce31d570b"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Bake tourtière for about 45 minutes or until the pastry is a rich golden brown. Let cool for 15 minutes before slicing to serve.",
+      "ingredients_used": [
+        "90d069dd-489b-58d6-8d71-d73003545b2f"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Serves: 8-10 (makes 2 9-inch pies)"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://canadianfoodfocus.org/recipes/classic-canadian-dish-classic-tourtiere/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

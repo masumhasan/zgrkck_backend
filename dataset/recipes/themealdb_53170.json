@@ -1,0 +1,289 @@
+{
+  "id": "628e5ccd-8661-5932-945b-0746dff2e8ed",
+  "version": "1.0.0",
+  "title": "Chocolate churros with chocolate & salted caramel sauce",
+  "slug": "chocolate-churros-with-chocolate-salted-caramel-sauce",
+  "summary": "Chocolate churros are deep-fried dough pastries coated in cinnamon sugar, served with a rich sauce made from dark chocolate, salted caramel, and cream.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:10:23Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53170"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/erzs951763296201.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/erzs951763296201.jpg/small",
+      "alt_text": "Photo of Chocolate churros with chocolate & salted caramel sauce",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=J45Y5olZCuo"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 15,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 35
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of churros with sauce and ice cream"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "soy",
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "85ff82b9-3947-5105-8144-3adab01857a7",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "c34cf411-3b72-5d7e-89b6-e20f37b9d205",
+          "ingredient_id": "aa561384-0d26-5008-a25e-3ba9db4b2a3f",
+          "name": "sunflower oil",
+          "display_text": "For frying Sunflower Oil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "for frying",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "61dd24ae-2e78-592e-b152-a3c37ec5f029",
+          "ingredient_id": "66def360-0119-50c9-80d5-048ee2af3184",
+          "name": "ice cream",
+          "display_text": "To serve Ice Cream",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "frozen_foods"
+        },
+        {
+          "id": "528a33b5-7cc3-5779-89e8-d5f1ac571fa4",
+          "ingredient_id": "74d4f663-2935-561e-b6ec-45f204542152",
+          "name": "muscovado sugar",
+          "display_text": "120g Muscovado Sugar",
+          "quantity": 120.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "c8157263-54d8-53a1-8f60-f5e8a035ef24",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "60g Butter",
+          "quantity": 60.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "5036d3f1-8b86-5fc3-9f88-d960f79e45c1",
+          "ingredient_id": "81b5723b-47de-5017-987f-cdcc95dd362b",
+          "name": "double cream",
+          "display_text": "250ml Double Cream",
+          "quantity": 250.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "9da5ad83-b3ff-5375-be13-a2dda887bb60",
+          "ingredient_id": "f553aca9-844a-5f4f-ba77-363733c03112",
+          "name": "dark chocolate",
+          "display_text": "100g Dark Chocolate",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "9dbc83bd-f3a7-55dd-9db8-18ee0226037e",
+          "ingredient_id": "327ade60-00f4-537f-920f-f35c82b0b4ac",
+          "name": "golden caster sugar",
+          "display_text": "100g Golden Caster Sugar",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "5fcff350-c7fb-5de4-9585-71f570820d83",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "2 teaspoon Cinnamon",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "124d338d-6b06-59cc-bb19-7c146511a506",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "200g Plain Flour",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "ed0e6758-815c-5a62-9e8b-942745db6d3d",
+          "ingredient_id": "6c64db5e-ca58-5d5d-9518-d41d949dd540",
+          "name": "cocoa powder",
+          "display_text": "50g Cocoa Powder",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "9148b147-82c4-5b74-9913-f504852edf9a",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 teaspoon Baking Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "7ebffc95-0ea3-55d7-abc4-9319ead30eaa",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1 teaspoon Vanilla Extract",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "b949b123-dba1-5832-b967-455154b50621",
+          "ingredient_id": "824a7073-84ed-52c2-97ef-4d532cabeb6d",
+          "name": "melted butter",
+          "display_text": "50g Melted Butter",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "To make the sauce, tip the sugar and butter into a saucepan and bring to a simmer until the sugar has melted, then stir in the cream and simmer until you have a smooth sauce, about 2-3 mins. Remove from the heat, stir through a pinch of sea salt and the chocolate, and continue to stir for 2-3 mins, or until it has completely melted. Keep warm or leave to cool for reheating later. For the coating, mix the sugar with the cinnamon and a small pinch of fine sea salt and set aside.",
+      "ingredients_used": [
+        "c8157263-54d8-53a1-8f60-f5e8a035ef24",
+        "9da5ad83-b3ff-5375-be13-a2dda887bb60",
+        "5fcff350-c7fb-5de4-9585-71f570820d83",
+        "b949b123-dba1-5832-b967-455154b50621"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "For the churros, tip the flour, cocoa, baking powder and a large pinch of salt into a bowl. Add the vanilla extract and melted butter, then carefully pour in 250-300ml boiling water and whisk to make a smooth, very thick batter. Leave to cool for a few minutes, then scrape the mixture into a piping bag fitted with a medium star nozzle.",
+      "ingredients_used": [
+        "c8157263-54d8-53a1-8f60-f5e8a035ef24",
+        "9148b147-82c4-5b74-9913-f504852edf9a",
+        "7ebffc95-0ea3-55d7-abc4-9319ead30eaa",
+        "b949b123-dba1-5832-b967-455154b50621"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Tip sunflower oil into a deep-fat fryer following the manufacturer’s instructions, or a heavy-based pan, ensuring it is no more than a third full. Heat to 170C, or until a cube of bread dropped in browns in 30 seconds. Pipe 12-15cm lengths of dough into the oil, snipping off the end of each one with a pair of scissors as you go. Pipe four or five at a time and cook for around 4 mins, or until golden and crisp, turning them with tongs or a slotted spoon as they cook. Remove from the oil and place on a wire rack. Repeat with the rest of the dough. Leave to cool if reheating later, otherwise roll the churros in the cinnamon sugar and serve immediately with the warm chocolate sauce and ice cream. To reheat the churros, put on a tray and bake for 5-8 mins, then roll in the sugar coating. Meanwhile, warm the sauce in a pan and serve alongside for dipping.",
+      "temperature": {
+        "value": 170,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "c34cf411-3b72-5d7e-89b6-e20f37b9d205",
+        "61dd24ae-2e78-592e-b152-a3c37ec5f029",
+        "9da5ad83-b3ff-5375-be13-a2dda887bb60",
+        "5fcff350-c7fb-5de4-9585-71f570820d83"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/chocolate-churros-with-chocolate-salted-caramel-sauce"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

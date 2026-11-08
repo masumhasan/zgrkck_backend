@@ -1,0 +1,362 @@
+{
+  "id": "1d501933-9976-52f9-92cc-34b4571920c4",
+  "version": "1.0.0",
+  "title": "Dominica mastiff bread",
+  "slug": "dominica-mastiff-bread",
+  "summary": "A traditional Dominican bread made with flour, sugar, and yeast, characterized by a dense yet soft texture achieved through thorough kneading.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:45:19Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53563"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/u1996p1784670686.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/u1996p1784670686.jpg/small",
+      "alt_text": "Photo of Dominica mastiff bread",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4da88d96-f05f-5f73-a14b-c5e37ee2541e",
+        "slug": "dominican",
+        "name": "Dominican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "snack"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 25,
+    "rest_time_minutes": 70,
+    "total_time_minutes": 115
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 bread roll"
+  },
+  "allergens": {
+    "contains": [
+      "gluten"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "13d23c07-b46c-50c0-8da5-23e18d1b176b",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "5002a910-18a7-5546-bd99-5c744ef8324d",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "3 Lbs Flour",
+          "quantity": 3.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 1360.8,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "39ad0386-3074-5601-a9b8-9125b1177bac",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "1 ½ tbsp Brown Sugar",
+          "quantity": 1.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 22.5,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "1a772c28-7ff2-5553-8671-e30cc04cc46c",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 ½ tbsp Salt",
+          "quantity": 1.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 22.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "5d1eff0f-b0f7-54bb-bf70-d4f58787fcc5",
+          "ingredient_id": "bcf92c24-98f5-5008-9313-143efe51268b",
+          "name": "instant yeast",
+          "display_text": "2 tablespoons Instant Yeast",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "ec0c1f57-e81f-5e58-ab05-bc60193838c2",
+          "ingredient_id": "cf50c57a-f58a-5262-9fc9-cdfb406e4c9d",
+          "name": "shortening",
+          "display_text": "1/2 cup Shortening",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "5ba5701d-c605-5ad6-84d9-cfaf629f903a",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "3 cups Water",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "50e492ec-5eb4-53dd-ba25-c3d80b126bd0",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "Dusting Flour",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "dusting",
+          "is_optional": false,
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Mix all dry ingredients in a large bowl (sugar, salt and instant yeast)",
+      "ingredients_used": [
+        "1a772c28-7ff2-5553-8671-e30cc04cc46c",
+        "5d1eff0f-b0f7-54bb-bf70-d4f58787fcc5"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Mix with a large wooden spoon"
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add shortening or lard and mix",
+      "ingredients_used": [
+        "ec0c1f57-e81f-5e58-ab05-bc60193838c2"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Mix thoroughly with your hand"
+    },
+    {
+      "step_number": 5,
+      "instruction": "Add warm water and mix the dough until stiff",
+      "ingredients_used": [
+        "5ba5701d-c605-5ad6-84d9-cfaf629f903a"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Add more flour so that dough doesn't stick",
+      "ingredients_used": [
+        "5002a910-18a7-5546-bd99-5c744ef8324d",
+        "50e492ec-5eb4-53dd-ba25-c3d80b126bd0"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "You can add dough onto a floured board to make sure that it's properly kneaded"
+    },
+    {
+      "step_number": 8,
+      "instruction": "Knead for approximately 8-10 minutes",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 9,
+      "instruction": "Shape dough into a large round shape and cover to rest for 45 minutes",
+      "timer_seconds": 2700
+    },
+    {
+      "step_number": 10,
+      "instruction": "Knead dough again on a lightly floured surface (kneading is the most critical part of this recipe process."
+    },
+    {
+      "step_number": 11,
+      "instruction": "Shape dough into your desired bread designs and place on a baking sheet or bread pan"
+    },
+    {
+      "step_number": 12,
+      "instruction": "Let the breads rest for 25 minutes",
+      "timer_seconds": 1500
+    },
+    {
+      "step_number": 13,
+      "instruction": "Preheat oven at 375°F",
+      "temperature": {
+        "value": 375,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 14,
+      "instruction": "Bake until golden brown"
+    },
+    {
+      "step_number": 15,
+      "instruction": "Instructions when using active yeast",
+      "ingredients_used": [
+        "5d1eff0f-b0f7-54bb-bf70-d4f58787fcc5"
+      ]
+    },
+    {
+      "step_number": 16,
+      "instruction": "Mix 3½ cups of warm water (115°F to 120°F), yeast and sugar",
+      "temperature": {
+        "value": 115,
+        "unit": "fahrenheit"
+      },
+      "ingredients_used": [
+        "5d1eff0f-b0f7-54bb-bf70-d4f58787fcc5",
+        "5ba5701d-c605-5ad6-84d9-cfaf629f903a"
+      ]
+    },
+    {
+      "step_number": 17,
+      "instruction": "Add a pinch of salt and ½lb of sifted flour to the mixture",
+      "ingredients_used": [
+        "5002a910-18a7-5546-bd99-5c744ef8324d",
+        "1a772c28-7ff2-5553-8671-e30cc04cc46c",
+        "50e492ec-5eb4-53dd-ba25-c3d80b126bd0"
+      ]
+    },
+    {
+      "step_number": 18,
+      "instruction": "Stir the mixture with a wooden spoon"
+    },
+    {
+      "step_number": 19,
+      "instruction": "Set in a warm place for approximately one hour"
+    },
+    {
+      "step_number": 20,
+      "instruction": "Mixture should look foamy with bubbles"
+    },
+    {
+      "step_number": 21,
+      "instruction": "Sift the rest of the flour in a large bowl",
+      "ingredients_used": [
+        "5002a910-18a7-5546-bd99-5c744ef8324d",
+        "50e492ec-5eb4-53dd-ba25-c3d80b126bd0"
+      ]
+    },
+    {
+      "step_number": 22,
+      "instruction": "Pour yeast mixture into the large bowl over the flour",
+      "ingredients_used": [
+        "5002a910-18a7-5546-bd99-5c744ef8324d",
+        "5d1eff0f-b0f7-54bb-bf70-d4f58787fcc5",
+        "50e492ec-5eb4-53dd-ba25-c3d80b126bd0"
+      ]
+    },
+    {
+      "step_number": 23,
+      "instruction": "Add shortening or lard and mix",
+      "ingredients_used": [
+        "ec0c1f57-e81f-5e58-ab05-bc60193838c2"
+      ]
+    },
+    {
+      "step_number": 24,
+      "instruction": "Add more flour so that dough doesn't stick",
+      "ingredients_used": [
+        "5002a910-18a7-5546-bd99-5c744ef8324d",
+        "50e492ec-5eb4-53dd-ba25-c3d80b126bd0"
+      ]
+    },
+    {
+      "step_number": 25,
+      "instruction": "You can add dough onto a floured board to make sure that it's properly kneaded"
+    },
+    {
+      "step_number": 26,
+      "instruction": "Knead for approximately 8-10 minutes",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 27,
+      "instruction": "Shape dough into a large round shape and cover to rest for 45 minutes",
+      "timer_seconds": 2700
+    },
+    {
+      "step_number": 28,
+      "instruction": "Let the breads rest for 25 minutes",
+      "timer_seconds": 1500
+    },
+    {
+      "step_number": 29,
+      "instruction": "Preheat oven at 375°F",
+      "temperature": {
+        "value": 375,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 30,
+      "instruction": "Bake until golden brown"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://dominicagourmet.com/dominica-mastiff-bread-recipe/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

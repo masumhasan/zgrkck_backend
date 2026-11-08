@@ -1,0 +1,321 @@
+{
+  "id": "21445e93-0cda-52a6-8ce1-c5e2d774e10b",
+  "version": "1.0.0",
+  "title": "Cuban Sandwich",
+  "slug": "cuban-sandwich",
+  "summary": "A traditional Cuban sandwich featuring roasted pork chops marinated in citrus and spices, layered with ham, Swiss cheese, and pickles on toasted Cuban bread.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:43:55Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53547"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/djdg8l1784578885.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/djdg8l1784578885.jpg/small",
+      "alt_text": "Photo of Cuban Sandwich",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "bd3047f5-b3e1-53bc-b58b-9c7b54443734",
+        "slug": "cuban",
+        "name": "Cuban"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 35,
+    "marinating_time_minutes": 15,
+    "total_time_minutes": 70
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 sandwich"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs",
+      "mustard"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "24bd9b57-7f05-5a16-b52f-6dbf31d4ef91",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "940627f1-ca7a-5eb7-82b7-b4a7fdb41cc8",
+          "ingredient_id": "b0ed5e14-8c68-5f17-8716-0154f1badecf",
+          "name": "pork chops",
+          "display_text": "1 lb Pork Chops",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "2f1470c4-e236-5b84-82f5-917dbe2aa938",
+          "ingredient_id": "f60d2962-95b1-5ff5-80ec-2e8902992bc9",
+          "name": "kosher salt",
+          "display_text": "Pinch Kosher Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "5d5bb3ac-2c63-5f2e-8f8f-d2c151b842ba",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "2 tablespoons Vegetable Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "3244aea4-3bc2-59ec-8ec3-e0ca4779970f",
+          "ingredient_id": "4f3b3c33-6392-5e5a-ac51-d269b68aa6e4",
+          "name": "orange",
+          "display_text": "Juice/zest of one Orange",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "juice/zest of one",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2dc0e74b-ed18-5a18-9204-de263c323d80",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "Juice/zest of one Lime",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "juice/zest of one",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7487e4eb-174f-5a15-912a-fafc144ca2d5",
+          "ingredient_id": "23e1101c-9b20-575b-81cd-037dfd7bf307",
+          "name": "dried oregano",
+          "display_text": "2 tsp Dried Oregano",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3e6c86b1-e3be-52c9-940f-66ce60f1d9cc",
+          "ingredient_id": "49e87b98-0472-5544-890c-195803881226",
+          "name": "ground black pepper",
+          "display_text": "1 tsp Ground Black Pepper",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "f12f2697-0fc7-566b-a167-dff21c3972b6",
+          "ingredient_id": "856e47ab-bcee-5e44-bc03-f1ba0c6859b1",
+          "name": "garlic powder",
+          "display_text": "1 tsp Garlic Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "00435304-8dd9-5d29-a902-512f1be0bc7b",
+          "ingredient_id": "ca633897-45c5-5885-985b-5fbe25d58c8d",
+          "name": "dijon mustard",
+          "display_text": "2 tablespoons Dijon Mustard",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "5681f668-49ba-561b-8118-d51ffafa5771",
+          "ingredient_id": "6a3a5ec7-7840-5eff-a3ce-0e3aafbaa822",
+          "name": "mayonnaise",
+          "display_text": "2 tablespoons Mayonnaise",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "047c74e3-516f-57fc-9afd-7790806eb605",
+          "ingredient_id": "d15f88f9-6e0d-57f8-9216-b2973bea72e5",
+          "name": "cuban bread",
+          "display_text": "8 oz Cuban Bread",
+          "quantity": 8.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 226.8,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "53eac336-1716-53c7-88c8-2a26c606aa48",
+          "ingredient_id": "bc46b2a6-8a59-50ee-a044-ce38bddb125c",
+          "name": "unsalted butter",
+          "display_text": "1 tablespoon Unsalted Butter",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "8b5b61e9-38b4-58b6-92cb-a58d733daebe",
+          "ingredient_id": "cdda6323-8478-5086-8b58-1b3406cd49ee",
+          "name": "swiss cheese",
+          "display_text": "4 oz Swiss Cheese",
+          "quantity": 4.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 113.4,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "d8184f88-9703-5436-84e5-a873b772347f",
+          "ingredient_id": "0ab6c559-a032-526e-9c58-2c67aea54f29",
+          "name": "deli ham",
+          "display_text": "8 oz Deli Ham",
+          "quantity": 8.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 226.8,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "b58a8cf4-8c02-5e03-8c2d-a68242d01521",
+          "ingredient_id": "e7ef9783-b3f9-5639-b277-3e5953d9ffc4",
+          "name": "dill pickles",
+          "display_text": "2 Dill Pickles",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Place pork chops in a 3-qt. glass baking dish. Using a fork, poke holes into pork all over; season all over with 1 tsp. salt. Drizzle with oil and toss to coat.",
+      "ingredients_used": [
+        "940627f1-ca7a-5eb7-82b7-b4a7fdb41cc8",
+        "2f1470c4-e236-5b84-82f5-917dbe2aa938"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a small bowl, combine orange zest and juice, lime zest and juice, oregano, pepper, garlic powder, cumin, and onion powder. Add half of marinade to pork and let rest 10 to 15 minutes.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "3244aea4-3bc2-59ec-8ec3-e0ca4779970f",
+        "2dc0e74b-ed18-5a18-9204-de263c323d80",
+        "7487e4eb-174f-5a15-912a-fafc144ca2d5",
+        "f12f2697-0fc7-566b-a167-dff21c3972b6"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Meanwhile, arrange a rack in center of oven; preheat to 425°. Add mustard and mayonnaise to remaining marinade and stir until smooth.",
+      "ingredients_used": [
+        "00435304-8dd9-5d29-a902-512f1be0bc7b",
+        "5681f668-49ba-561b-8118-d51ffafa5771"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Transfer pork to oven and roast until an instant-read thermometer inserted into thickest part registers 140°, 15 to 20 minutes.",
+      "timer_seconds": 1200
+    },
+    {
+      "step_number": 5,
+      "instruction": "To build sandwiches, cut loaf in half crosswise, then cut each piece in half lengthwise for 4 pieces total. Spread butter on outside of bread on the top and bottom. Spread mustard mixture on cut sides of bread. On 2 bread pieces, layer each with 2 oz. cheese, 4 oz. ham, half of roast pork, 4 pickle slices, and remaining 2 oz. cheese. Close with remaining bread pieces and wrap each sandwich in foil.",
+      "ingredients_used": [
+        "00435304-8dd9-5d29-a902-512f1be0bc7b",
+        "047c74e3-516f-57fc-9afd-7790806eb605",
+        "53eac336-1716-53c7-88c8-2a26c606aa48"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Heat a large cast-iron skillet over medium heat. Place foil-wrapped sandwiches in skillet, then place another heavy skillet on top to create a homemade sandwich press. If you don’t have another heavy skillet, weigh the pan down with another lighter skillet or baking sheet, then top with couple of canned goods."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Grill sandwiches, turning halfway through, until toasted and cheese is melted, 3 to 4 minutes per side. Cut each sandwich in half and serve.",
+      "timer_seconds": 240
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.delish.com/cooking/recipe-ideas/a64854750/homemade-cuban-sandwiches-recipe/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

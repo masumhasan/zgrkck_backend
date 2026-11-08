@@ -1,0 +1,241 @@
+{
+  "id": "49a5a4d2-21aa-5788-a0b9-35a52fc60aa6",
+  "version": "1.0.0",
+  "title": "Gigantes Plaki",
+  "slug": "gigantes-plaki",
+  "summary": "Gigantes Plaki is a traditional Greek dish of large butter beans baked in a rich, spiced tomato sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:56:44Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53012"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/b79r6f1585566277.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/b79r6f1585566277.jpg/small",
+      "alt_text": "Photo of Gigantes Plaki",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=e-2K2iyPASA"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "de767d0c-ee8d-59a9-8d05-02b9ae12a1ac",
+        "slug": "greek",
+        "name": "Greek"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 123,
+    "total_time_minutes": 138
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "portions",
+    "serving_size_description": "a portion of beans and sauce"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "26e0b133-0996-503a-b1ff-2f9558c556f7",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "e376b7f7-4626-5bc9-a2c6-6bc63e8ba24c",
+          "ingredient_id": "9a828326-2a9a-5eaa-afb5-f6508a5d14e1",
+          "name": "butter beans",
+          "display_text": "400g Butter Beans",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "5cfd8796-2c84-58c9-ae83-b125187d4497",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "3 tbs Olive Oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "781d4cb6-189f-51a6-aa9e-cd9a74428741",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "9cd4e6ee-67fd-5b7a-b033-d0ef4522df93",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "2 chopped Garlic Clove",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "15b4d877-d864-5282-a22f-657e67af3834",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "2 tbs Tomato Puree",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "7ced9e4e-9d13-52cd-b699-0101d370dfb5",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomatoes",
+          "display_text": "800g Tomatoes",
+          "quantity": 800.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 800.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "793ef269-ed22-58d1-bf0f-50e3640da23f",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 tbs Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "058eca96-62e5-5012-a1cb-ceed4ab51696",
+          "ingredient_id": "23e1101c-9b20-575b-81cd-037dfd7bf307",
+          "name": "dried oregano",
+          "display_text": "1 tbs Dried Oregano",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "36046d07-2c2f-5b00-8e2b-de2a2ffd2907",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "Pinch Cinnamon",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "76168b00-6729-5a69-a11b-fb450403adad",
+          "ingredient_id": "3029588a-ffab-59b3-a77a-61dcd622662f",
+          "name": "chopped parsley",
+          "display_text": "2 tbs Chopped Parsley",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Soak the beans overnight in plenty of water. Drain, rinse, then place in a pan covered with water. Bring to the boil, reduce the heat, then simmer for approx 50 mins until slightly tender but not soft. Drain, then set aside.",
+      "timer_seconds": 3000,
+      "ingredients_used": [
+        "e376b7f7-4626-5bc9-a2c6-6bc63e8ba24c"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat oven to 180C/160C fan/gas 4. Heat the olive oil in a large frying pan, tip in the onion and garlic, then cook over a medium heat for 10 mins until softened but not browned. Add the tomato purée, cook for a further min, add remaining ingredients, then simmer for 2-3 mins. Season generously, then stir in the beans. Tip into a large ovenproof dish, then bake for approximately 1 hr, uncovered and without stirring, until the beans are tender. The beans will absorb all the fabulous flavors and the sauce will thicken. Allow to cool, then scatter with parsley and drizzle with a little more olive oil to serve.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "e376b7f7-4626-5bc9-a2c6-6bc63e8ba24c",
+        "5cfd8796-2c84-58c9-ae83-b125187d4497",
+        "781d4cb6-189f-51a6-aa9e-cd9a74428741",
+        "76168b00-6729-5a69-a11b-fb450403adad"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/gigantes-plaki"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

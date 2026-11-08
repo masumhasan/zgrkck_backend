@@ -1,0 +1,159 @@
+{
+  "id": "87db164b-120a-54dc-8dc7-d5bd19d3fca4",
+  "version": "1.0.0",
+  "title": "Fresh sardines",
+  "slug": "fresh-sardines",
+  "summary": "Fresh sardines are lightly coated in flour and deep-fried until crispy. This simple Croatian dish can be served hot or cold.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:01:16Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53061"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/nv5lf31628771380.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/nv5lf31628771380.jpg/small",
+      "alt_text": "Photo of Fresh sardines",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=DDaZoXP1Mdc"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b5d05ee7-9bce-5691-809b-0e253d6b7ed2",
+        "slug": "croatian",
+        "name": "Croatian"
+      }
+    ],
+    "tags": [
+      "fresh"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "lunchbox",
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 20
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "250g of sardines"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "b8e580be-776b-556d-b804-26241692bbe8",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "ddfac413-5e2c-5d94-92e2-928ea1586243",
+          "ingredient_id": "59314509-6435-5183-beda-4d13ac3acde5",
+          "name": "sardines",
+          "display_text": "500g Sardines",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "fish"
+        },
+        {
+          "id": "e0c55dbd-b5bd-55e8-9118-430545383d64",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "Dash Vegetable Oil",
+          "quantity": 1,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "5b23a50f-9ce7-5f7f-8962-6cc5f8e79468",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "To Glaze Flour",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to glaze",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "f90a9db6-a67f-5208-bc1a-9ac721a7d24f",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Dash Salt",
+          "quantity": 1,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Wash the fish under the cold tap. Roll in the flour and deep fry in oil until crispy.",
+      "ingredients_used": [
+        "5b23a50f-9ce7-5f7f-8962-6cc5f8e79468"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Lay on kitchen towel to get rid of the excess oil and serve hot or cold with a slice of lemon."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.visit-croatia.co.uk/croatian-cuisine/croatian-recipes/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

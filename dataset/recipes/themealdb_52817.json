@@ -1,0 +1,223 @@
+{
+  "id": "fc86669a-596e-5a09-bffd-35b6f75a1925",
+  "version": "1.0.0",
+  "title": "Stovetop Eggplant With Harissa, Chickpeas, and Cumin Yogurt",
+  "slug": "stovetop-eggplant-with-harissa-chickpeas-and-cumin-yogurt",
+  "summary": "Whole eggplants are pan-seared until tender and served with a spiced mixture of chickpeas, cherry tomatoes, and harissa, accompanied by cumin-infused Greek yogurt.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:40:08Z",
+  "updated_at": "2026-10-16T10:22:46Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52817"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/yqwtvu1487426027.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/yqwtvu1487426027.jpg/small",
+      "alt_text": "Photo of Stovetop Eggplant With Harissa, Chickpeas, and Cumin Yogurt",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=uYB-1xJp4lg"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b95bb9d4-1e18-5623-a50f-942c7d140e82",
+        "slug": "american",
+        "name": "American"
+      }
+    ],
+    "tags": [
+      "vegetarian"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 35
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 eggplant with chickpea mixture and yogurt"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "2b49f2f4-4da6-5c67-9a03-a6353b6f3a9b",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "72b4a5a1-2721-50f1-8438-e7db04c1b3f2",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "4 tablespoons Olive Oil",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "4465f0dd-90bc-522b-b987-6c33ccf979dd",
+          "ingredient_id": "08b505fe-2af9-5025-98f3-845df35333e6",
+          "name": "egg plants",
+          "display_text": "6 small Egg Plants",
+          "quantity": 6.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "044be126-de10-559a-9dfd-5b089d98f941",
+          "ingredient_id": "de3a4289-f9da-523e-971e-192a1995a29a",
+          "name": "harissa spice",
+          "display_text": "½ tablespoon Harissa Spice",
+          "quantity": 0.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "79c90bda-d925-5bbd-826e-290f50caaa11",
+          "ingredient_id": "ae979dd7-6a1e-5882-9ed5-e0b09554efd0",
+          "name": "chickpeas",
+          "display_text": "1 can Chickpeas",
+          "quantity": 1.0,
+          "unit": "can",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "79e6470d-ae4f-55cd-961c-8c3c6ff398e6",
+          "ingredient_id": "041e90f7-87c0-5883-b651-a9f26dce39b7",
+          "name": "cherry tomatoes",
+          "display_text": "2 cups halved Cherry Tomatoes",
+          "quantity": 2.0,
+          "unit": "cup",
+          "preparation": "halved",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "3165e724-63ad-55a6-8e1c-5aa8b0ceb43d",
+          "ingredient_id": "ba22b73d-e619-5bc7-a859-f65b683613fe",
+          "name": "greek yogurt",
+          "display_text": "1 1/2 cups Greek yogurt",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "ca683197-48d0-5424-aee3-5dd329f834ef",
+          "ingredient_id": "efa5be6a-3bc3-55ca-812f-22dd145ba53d",
+          "name": "ground cumin",
+          "display_text": "1 tablespoon Ground cumin",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "25938dff-90de-55cc-88b1-9b9c4c3a43c2",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "½ cup Parsley",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oil in a 12-inch skillet over high heat until shimmering. Add the eggplants and lower the heat to medium. Season with salt and pepper as you rotate the eggplants, browning them on all sides. Continue to cook, turning regularly, until a fork inserted into the eggplant meets no resistance (you may have to stand them up on their fat end to finish cooking the thickest parts), about 20 minutes, lowering the heat and sprinkling water into the pan as necessary if the eggplants threaten to burn or smoke excessively.",
+      "timer_seconds": 1200
+    },
+    {
+      "step_number": 2,
+      "instruction": "Mix the harissa, chickpeas and tomatoes together, then add to the eggplants. Cook until the tomatoes have blistered and broken down, about 5 minutes more. Season with salt and pepper and add water as necessary to thin to a saucy consistency. Meanwhile, combine the yogurt and cumin in a serving bowl. Season with salt and pepper.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "79c90bda-d925-5bbd-826e-290f50caaa11",
+        "79e6470d-ae4f-55cd-961c-8c3c6ff398e6",
+        "3165e724-63ad-55a6-8e1c-5aa8b0ceb43d",
+        "ca683197-48d0-5424-aee3-5dd329f834ef"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Top the eggplant mixture with the parsley, drizzle with more extra virgin olive oil, and serve with the yogurt on the side.",
+      "ingredients_used": [
+        "72b4a5a1-2721-50f1-8438-e7db04c1b3f2",
+        "3165e724-63ad-55a6-8e1c-5aa8b0ceb43d",
+        "25938dff-90de-55cc-88b1-9b9c4c3a43c2"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://www.seriouseats.com/2014/09/one-pot-wonders-stovetop-eggplant-harissa-chickpeas-cumin.html"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

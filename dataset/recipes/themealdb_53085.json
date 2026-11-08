@@ -1,0 +1,266 @@
+{
+  "id": "14ade9ce-3435-589d-8ac2-8198f1768acf",
+  "version": "1.0.0",
+  "title": "15-minute chicken & halloumi burgers",
+  "slug": "15-minute-chicken-halloumi-burgers",
+  "summary": "Chicken burgers topped with halloumi cheese, spicy sauce, and a creamy cabbage slaw.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:03:07Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53085"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/vdwloy1713225718.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/vdwloy1713225718.jpg/small",
+      "alt_text": "Photo of 15-minute chicken & halloumi burgers",
+      "width": 341,
+      "height": 341
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=k9Ez0bUbXKc"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b95bb9d4-1e18-5623-a50f-942c7d140e82",
+        "slug": "american",
+        "name": "American"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 25
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 burger"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "737a3636-51cf-51de-9d9e-9bc4a41694ca",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "d97fe041-f024-5360-a631-332e7751ff4b",
+          "ingredient_id": "e23191a1-4966-5b21-a6f1-8df6f50b79db",
+          "name": "chicken breasts",
+          "display_text": "2 Chicken Breasts",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "49d8370b-0de7-557d-8618-3a12f225ba74",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "1 tbsp Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "8c239c76-91f3-5b39-ae9a-080a2a3cf560",
+          "ingredient_id": "42d67342-d05a-512d-958a-1c2fdbf7a682",
+          "name": "hotsauce",
+          "display_text": "4 tbsp Hotsauce",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "f4d4bc17-bf4d-5e5a-82cf-5d4d99da1303",
+          "ingredient_id": "4020879e-a0a5-58e2-b093-33c7e85c8a08",
+          "name": "lemon juice",
+          "display_text": "½ Lemon Juice",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e0f64d93-871b-5cce-b070-c2c0ba908d4a",
+          "ingredient_id": "605473f1-9ac6-5c77-a578-0fd7c5d9899b",
+          "name": "buns",
+          "display_text": "2 Buns",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "2f2173de-0e68-5817-bb51-402d6f83d329",
+          "ingredient_id": "9492d127-f816-5ce2-956c-6fe8fdc731f2",
+          "name": "cheese",
+          "display_text": "250g Cheese",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "6637c1e3-d391-593e-b865-00c79ad735d4",
+          "ingredient_id": "8604c41c-a935-5634-b405-fed806fe806b",
+          "name": "cabbage",
+          "display_text": "¼ Cabbage",
+          "quantity": 0.25,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "fcad2c8b-e5f6-5d54-8dd0-1b628a66843b",
+          "ingredient_id": "6a3a5ec7-7840-5eff-a3ce-0e3aafbaa822",
+          "name": "mayonnaise",
+          "display_text": "2 tbsp Mayonnaise",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "6a9a1a83-39cb-52c9-87d8-7ac90adfb1ba",
+          "ingredient_id": "6ca777b1-4e80-5a4b-8ffe-88c954e2cc8a",
+          "name": "sour cream",
+          "display_text": "4 tbsp Sour Cream",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "355ec472-41b2-53f2-8251-c4e0a64e18ed",
+          "ingredient_id": "0777cda5-7472-55c6-bfb1-6a88f7678f6d",
+          "name": "lettuce",
+          "display_text": "4 leaves Lettuce",
+          "quantity": 4.0,
+          "unit": "leaf",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3f7e627d-1d93-5361-970c-81d5e0f0e978",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "2 Red Pepper",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Put the chicken breasts between two pieces of baking parchment and use a rolling pin to gently bash them until they are approximately 1cm thick. Cut each chicken breast into two even pieces.",
+      "ingredients_used": [
+        "d97fe041-f024-5360-a631-332e7751ff4b"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "If you're using a frying pan, heat two frying pans over medium-high heat, with one of them containing oil. Fry the chicken in the oiled pan for 3-4 mins on each side until they are cooked through. Season the chicken, reduce the heat, drizzle in the chilli sauce and half of the lemon juice, and cook for an additional 1-2 mins until the sauce is reduced. Remove the chicken from the heat.",
+      "ingredients_used": [
+        "49d8370b-0de7-557d-8618-3a12f225ba74",
+        "f4d4bc17-bf4d-5e5a-82cf-5d4d99da1303"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "If you're using an air-fryer, preheat it to 180C for 4 mins. Add the chicken to the air-fryer and cook for 12 mins. Drizzle over the chilli sauce and half the lemon juice and cook for an additional 1-2 mins until the chicken is cooked through and the sauce is reduced. Remove the chicken and keep it warm.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "f4d4bc17-bf4d-5e5a-82cf-5d4d99da1303"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "While the chicken is cooking, toast the buns in the dry frying pan for 30 seconds. Transfer them to a plate. If you're using an air fryer, put the buns in the air fryer for 1-2 mins until they are warm. Increase the air fryer temperature to 200C. Add the halloumi to the air fryer basket and cook for 10 mins, turning halfway through, until it's golden. Toss the cabbage with the mayo and the remaining lemon juice.",
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "f4d4bc17-bf4d-5e5a-82cf-5d4d99da1303",
+        "e0f64d93-871b-5cce-b070-c2c0ba908d4a",
+        "6637c1e3-d391-593e-b865-00c79ad735d4"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Spoon the hummus (or dip of your choice) into the toasted buns, then top with the rocket, chilli chicken, halloumi, and peppers. Drizzle with a little more chilli sauce, spoon over the cabbage, season with black pepper, and top with the bun lids. Serve with any extra cabbage on the side or a green salad.",
+      "ingredients_used": [
+        "e0f64d93-871b-5cce-b070-c2c0ba908d4a",
+        "6637c1e3-d391-593e-b865-00c79ad735d4"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/15-minute-chicken-halloumi-burgers"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

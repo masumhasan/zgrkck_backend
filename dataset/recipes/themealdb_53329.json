@@ -1,0 +1,288 @@
+{
+  "id": "3e4adea8-81e6-5fa1-b894-a504a97508c4",
+  "version": "1.0.0",
+  "title": "Arepa pelua",
+  "slug": "arepa-pelua",
+  "summary": "Arepa pelúa is a Venezuelan dish consisting of cornmeal cakes filled with shredded beef and cheese. The beef is slow-cooked and sautéed with aromatics like onion, garlic, and bell pepper.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:24:46Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53329"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/jgl9qq1764437635.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/jgl9qq1764437635.jpg/small",
+      "alt_text": "Photo of Arepa pelua",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=bSWoRyWI6Fo"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "7511fbbd-fbff-5fb1-ad48-c4a89d390e43",
+        "slug": "venezuelan",
+        "name": "Venezuelan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 125,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 150
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "portions",
+    "serving_size_description": "1 arepa filled with beef and cheese"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "3044b5b3-ecc6-5fc5-9bbe-2b10786fcb60",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "0e8eb6d5-ce6b-5c2c-941b-f1782fee681a",
+          "ingredient_id": "c2102b4e-a5b4-5bab-b7d5-bdfa5244ae7b",
+          "name": "beef",
+          "display_text": "500g Beef",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "8acd9643-05c1-5eba-8130-9aec32e92193",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "db13dd3c-edb0-54dc-83a6-ec993195be34",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1 Red Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b3c4b56a-cfab-59ae-8612-b5be8dd88ce9",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "5bb5def5-f049-5be9-a3f0-3b76ad640ce7",
+          "ingredient_id": "be79b3bd-bc90-5d15-aab2-4f95774b8de1",
+          "name": "cumin",
+          "display_text": "1 tsp Cumin",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "979ae828-2c98-5fbd-aa04-904b0932fa98",
+          "ingredient_id": "035f27db-b6ac-512c-a6e4-48e289cafefe",
+          "name": "oregano",
+          "display_text": "1 tsp Oregano",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "85ae1c3b-bd2a-5a6e-92f5-aa3d41ede251",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1 tsp Paprika",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "641c9180-e56e-5ebb-8b05-6e38f6c9e0f6",
+          "ingredient_id": "39a746ef-3300-5229-b0b2-3e03970ea60c",
+          "name": "beef stock",
+          "display_text": "1 L Beef Stock",
+          "quantity": 1.0,
+          "unit": "liter",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "liter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "ba6ec04c-70e9-59c6-9186-2e6e2a8a7b13",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "2 1/2 cups Water",
+          "quantity": 2.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 600.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "d05ba8cb-62aa-5ef3-9c97-ab0454b7ea82",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "b5232948-2ed7-5027-b973-971a9f3d7229",
+          "ingredient_id": "9492d127-f816-5ce2-956c-6fe8fdc731f2",
+          "name": "cheese",
+          "display_text": "200g Cheese",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "0b7d8912-2b96-514f-afc5-901e33e6f7e3",
+          "ingredient_id": "96cc0c2b-795a-53be-a503-05d14e92b236",
+          "name": "extra virgin olive oil",
+          "display_text": "Pinch Extra Virgin Olive Oil",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Cook the meat: Place the flank steak in a pot with broth or water and salt. Cook over low heat for about 2 hours, until tender and easy to shred.",
+      "timer_seconds": 7200,
+      "ingredients_used": [
+        "ba6ec04c-70e9-59c6-9186-2e6e2a8a7b13",
+        "d05ba8cb-62aa-5ef3-9c97-ab0454b7ea82"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Shred the meat: Once cooked, drain and shred the meat using two forks."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Prepare the vegetables: Sauté chopped onion, bell pepper, and garlic in a little oil. Add cumin, oregano, paprika, and salt. Stir in the meat and cook for a few minutes until the flavors are well combined.",
+      "ingredients_used": [
+        "8acd9643-05c1-5eba-8130-9aec32e92193",
+        "b3c4b56a-cfab-59ae-8612-b5be8dd88ce9",
+        "5bb5def5-f049-5be9-a3f0-3b76ad640ce7",
+        "979ae828-2c98-5fbd-aa04-904b0932fa98",
+        "85ae1c3b-bd2a-5a6e-92f5-aa3d41ede251",
+        "d05ba8cb-62aa-5ef3-9c97-ab0454b7ea82"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Make the dough: In a bowl, mix the cornmeal with warm water and salt until a soft dough forms. Let it rest for 5 minutes.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "ba6ec04c-70e9-59c6-9186-2e6e2a8a7b13",
+        "d05ba8cb-62aa-5ef3-9c97-ab0454b7ea82"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Form the arepas: Divide the dough into 6 portions, shape into balls, and flatten into thick discs."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Cook: Cook the arepas on a griddle or skillet over medium heat for 2–3 minutes on each side until golden. You can then bake them for a few minutes if you prefer them crispier.",
+      "timer_seconds": 180
+    },
+    {
+      "step_number": 7,
+      "instruction": "Fill: Slice the arepas open on one side, fill with the hot shredded beef, and top with grated cheese.",
+      "ingredients_used": [
+        "0e8eb6d5-ce6b-5c2c-941b-f1782fee681a",
+        "b5232948-2ed7-5027-b973-971a9f3d7229"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://goya.es/en/recipes/arepa-pelua"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

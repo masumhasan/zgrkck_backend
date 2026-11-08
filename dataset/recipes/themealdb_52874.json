@@ -1,0 +1,381 @@
+{
+  "id": "4be24863-a1ad-5edd-b483-767108e11518",
+  "version": "1.0.0",
+  "title": "Beef and Mustard Pie",
+  "slug": "beef-and-mustard-pie",
+  "summary": "A hearty British beef pie featuring tender beef slow-cooked in a mustard and red wine gravy, topped with a golden puff pastry crust and served with buttery green beans.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:45:11Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52874"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/sytuqu1511553755.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/sytuqu1511553755.jpg/small",
+      "alt_text": "Photo of Beef and Mustard Pie",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=nMyBC9staMU"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "meat",
+      "pie"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 155,
+    "total_time_minutes": 175
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a large spoonful of pie with green beans"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs",
+      "mustard",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "94a69c6c-e9df-5201-b406-4d0d57d6be86",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "8d771af3-a09f-5884-8cce-1dbfbeaa99eb",
+          "ingredient_id": "c2102b4e-a5b4-5bab-b7d5-bdfa5244ae7b",
+          "name": "beef",
+          "display_text": "1kg Beef",
+          "quantity": 1.0,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "kilogram",
+          "category": "meat"
+        },
+        {
+          "id": "6235dfec-7454-5cd9-a4ac-8e8371474cae",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "2 tbs Plain Flour",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "b0596c7a-c21a-5627-b8ee-46dcd6576a35",
+          "ingredient_id": "bf553a6e-4d85-50e4-a27c-bb7d90ec509c",
+          "name": "rapeseed oil",
+          "display_text": "2 tbs Rapeseed Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "b7b5c3d7-d358-5cb0-918d-47d33406f1a8",
+          "ingredient_id": "0b364d55-0a30-54fb-b1d4-422f720404e3",
+          "name": "red wine",
+          "display_text": "200ml Red Wine",
+          "quantity": 200.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "24604ce4-138f-5a72-a474-245111c501f8",
+          "ingredient_id": "39a746ef-3300-5229-b0b2-3e03970ea60c",
+          "name": "beef stock",
+          "display_text": "400ml Beef Stock",
+          "quantity": 400.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "25b69a5f-d98e-5e0e-a185-4fa535776d24",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 finely sliced Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "finely sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "adb68ec0-2736-529a-8d4f-76daab6663d0",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "2 chopped Carrots",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "48a9c1f2-c5d7-50e8-ad00-9ddd9f1d6145",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "3 sprigs Thyme",
+          "quantity": 3.0,
+          "unit": "sprig",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "36c33f9d-7e6b-5c2d-9a55-209e2253e9c3",
+          "ingredient_id": "b9e3afdc-e194-5f5e-bbae-5c3659d35a67",
+          "name": "mustard",
+          "display_text": "2 tbs Mustard",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "a55ae870-b283-5083-accd-d61e4415d4bc",
+          "ingredient_id": "051a3118-01a4-5366-a922-19ecf618e2f9",
+          "name": "egg yolks",
+          "display_text": "2 free-range Egg Yolks",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "free-range",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "df1efbcd-185d-5605-9f24-e6460d86fa70",
+          "ingredient_id": "a552ed18-91bb-59fa-a3c1-dad1308c6c3e",
+          "name": "puff pastry",
+          "display_text": "400g Puff Pastry",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "10637df9-920d-58ea-9bf2-ba975fa4cfd3",
+          "ingredient_id": "76e924de-1ab6-5ae5-94fc-70f3fd268a7d",
+          "name": "green beans",
+          "display_text": "300g Green Beans",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "eeace0cb-07a6-51cb-9a0d-1a72a576aa18",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "25g Butter",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "eb6c6b59-2bfd-5065-805b-e675370255fb",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "3d41aef4-245c-5dfa-ae03-09f1035aa9ca",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "pinch Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat the oven to 150C/300F/Gas 2.",
+      "temperature": {
+        "value": 150,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "Toss the beef and flour together in a bowl with some salt and black pepper.",
+      "ingredients_used": [
+        "8d771af3-a09f-5884-8cce-1dbfbeaa99eb",
+        "eb6c6b59-2bfd-5065-805b-e675370255fb",
+        "3d41aef4-245c-5dfa-ae03-09f1035aa9ca"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Heat a large casserole until hot, add half of the rapeseed oil and enough of the beef to just cover the bottom of the casserole.",
+      "ingredients_used": [
+        "8d771af3-a09f-5884-8cce-1dbfbeaa99eb",
+        "b0596c7a-c21a-5627-b8ee-46dcd6576a35"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Fry until browned on each side, then remove and set aside. Repeat with the remaining oil and beef.",
+      "ingredients_used": [
+        "8d771af3-a09f-5884-8cce-1dbfbeaa99eb"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Return the beef to the pan, add the wine and cook until the volume of liquid has reduced by half, then add the stock, onion, carrots, thyme and mustard, and season well with salt and pepper.",
+      "ingredients_used": [
+        "8d771af3-a09f-5884-8cce-1dbfbeaa99eb",
+        "b7b5c3d7-d358-5cb0-918d-47d33406f1a8",
+        "25b69a5f-d98e-5e0e-a185-4fa535776d24",
+        "adb68ec0-2736-529a-8d4f-76daab6663d0",
+        "48a9c1f2-c5d7-50e8-ad00-9ddd9f1d6145",
+        "36c33f9d-7e6b-5c2d-9a55-209e2253e9c3",
+        "eb6c6b59-2bfd-5065-805b-e675370255fb",
+        "3d41aef4-245c-5dfa-ae03-09f1035aa9ca"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Cover with a lid and place in the oven for two hours."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Remove from the oven, check the seasoning and set aside to cool. Remove the thyme.",
+      "ingredients_used": [
+        "48a9c1f2-c5d7-50e8-ad00-9ddd9f1d6145"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "When the beef is cool and you're ready to assemble the pie, preheat the oven to 200C/400F/Gas 6.",
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "8d771af3-a09f-5884-8cce-1dbfbeaa99eb"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Transfer the beef to a pie dish, brush the rim with the beaten egg yolks and lay the pastry over the top. Brush the top of the pastry with more beaten egg.",
+      "ingredients_used": [
+        "8d771af3-a09f-5884-8cce-1dbfbeaa99eb",
+        "a55ae870-b283-5083-accd-d61e4415d4bc",
+        "df1efbcd-185d-5605-9f24-e6460d86fa70"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "Trim the pastry so there is just enough excess to crimp the edges, then place in the oven and bake for 30 minutes, or until the pastry is golden-brown and cooked through.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "df1efbcd-185d-5605-9f24-e6460d86fa70"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "For the green beans, bring a saucepan of salted water to the boil, add the beans and cook for 4-5 minutes, or until just tender.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "10637df9-920d-58ea-9bf2-ba975fa4cfd3",
+        "eb6c6b59-2bfd-5065-805b-e675370255fb"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Drain and toss with the butter, then season with black pepper.",
+      "ingredients_used": [
+        "eeace0cb-07a6-51cb-9a0d-1a72a576aa18",
+        "3d41aef4-245c-5dfa-ae03-09f1035aa9ca"
+      ]
+    },
+    {
+      "step_number": 13,
+      "instruction": "To serve, place a large spoonful of pie onto each plate with some green beans alongside.",
+      "ingredients_used": [
+        "10637df9-920d-58ea-9bf2-ba975fa4cfd3"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbc.co.uk/food/recipes/beef_and_mustard_pie_58002"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

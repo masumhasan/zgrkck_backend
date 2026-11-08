@@ -1,0 +1,242 @@
+{
+  "id": "ecd7d455-5fd8-5828-8d22-36b74fbd5f63",
+  "version": "1.0.0",
+  "title": "Christmas Pudding Trifle",
+  "slug": "christmas-pudding-trifle",
+  "summary": "A festive British dessert featuring layers of crumbled Christmas pudding, orange slices soaked in Grand Marnier, and a creamy custard and mascarpone mixture topped with whipped cream, almonds, and chocolate.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:55:03Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52989"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/r33cud1576791081.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/r33cud1576791081.jpg/small",
+      "alt_text": "Photo of Christmas Pudding Trifle",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=jRfyNQs5qhU"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "christmas"
+    ],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "christmas"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 20
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1 large bowl portion"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "tree_nuts"
+    ],
+    "free_from": [
+      "peanuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery"
+    ],
+    "may_contain": [
+      "sulfites"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "ccc0c345-e3b7-5f9a-a7a0-e2957d01edbe",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "f5ff7425-7ec6-5378-9215-fc6584062ac8",
+          "ingredient_id": "4f3b3c33-6392-5e5a-ac51-d269b68aa6e4",
+          "name": "orange",
+          "display_text": "3 Orange",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "152d06c7-eb35-5728-b013-ffc8bf74ec67",
+          "ingredient_id": "83fd3f9f-e97c-579b-81d6-4d64808be32f",
+          "name": "demerara sugar",
+          "display_text": "1 tbs Demerara Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "47c18651-1655-5916-b264-0c3dd9020683",
+          "ingredient_id": "15164c87-2208-59f2-addd-9917b07678b6",
+          "name": "grand marnier",
+          "display_text": "2 tbs Grand Marnier",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "23b43875-6fef-53f4-8c53-960f82b7237d",
+          "ingredient_id": "1bdbcb65-6a49-5ea9-bdad-fa36344b050f",
+          "name": "christmas pudding",
+          "display_text": "300g Christmas Pudding",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "other"
+        },
+        {
+          "id": "e5e58931-8fb6-59ff-b7e4-29c0690f0140",
+          "ingredient_id": "57a7ebfe-8a5f-517b-9c50-20c587612d4a",
+          "name": "custard",
+          "display_text": "500g Custard",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "89b82ce9-7ef3-5480-9469-fbc2e5cd8478",
+          "ingredient_id": "46a7c18d-4f96-5454-b9fa-a262e8226782",
+          "name": "mascarpone",
+          "display_text": "250g Mascarpone",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "7d210dfd-4788-5b4b-a72d-aa7dffa31795",
+          "ingredient_id": "81b5723b-47de-5017-987f-cdcc95dd362b",
+          "name": "double cream",
+          "display_text": "284ml Double Cream",
+          "quantity": 284.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 284.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "1b541244-4918-57de-9267-d47f95a9be0c",
+          "ingredient_id": "a31e0742-002d-5418-8c74-ccc647e894b8",
+          "name": "flaked almonds",
+          "display_text": "Handful Flaked Almonds",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "16c95691-9b09-5817-b580-3458fb92b702",
+          "ingredient_id": "f553aca9-844a-5f4f-ba77-363733c03112",
+          "name": "dark chocolate",
+          "display_text": "Grated Dark Chocolate",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "grated",
+          "is_optional": false,
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Peel the oranges using a sharp knife, ensuring all the pith is removed. Slice as thinly as possible and arrange over a dinner plate. Sprinkle with the demerara sugar followed by the Grand Marnier and set aside.",
+      "ingredients_used": [
+        "f5ff7425-7ec6-5378-9215-fc6584062ac8",
+        "152d06c7-eb35-5728-b013-ffc8bf74ec67",
+        "47c18651-1655-5916-b264-0c3dd9020683"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Crumble the Christmas pudding into large pieces and scatter over the bottom of a trifle bowl. Lift the oranges onto the pudding in a layer and pour over any juices.",
+      "ingredients_used": [
+        "f5ff7425-7ec6-5378-9215-fc6584062ac8",
+        "23b43875-6fef-53f4-8c53-960f82b7237d"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Beat the mascarpone until smooth, then stir in the custard. Spoon the mixture over the top of the oranges.",
+      "ingredients_used": [
+        "f5ff7425-7ec6-5378-9215-fc6584062ac8",
+        "e5e58931-8fb6-59ff-b7e4-29c0690f0140",
+        "89b82ce9-7ef3-5480-9469-fbc2e5cd8478"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Lightly whip the cream and spoon over the custard. Sprinkle with the flaked almonds and grated chocolate. You can make this a day in advance if you like, chill until ready to serve.",
+      "ingredients_used": [
+        "e5e58931-8fb6-59ff-b7e4-29c0690f0140",
+        "1b541244-4918-57de-9267-d47f95a9be0c",
+        "16c95691-9b09-5817-b580-3458fb92b702"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/1826685/christmas-pudding-trifle"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "id": "5671324f-1064-562e-ad02-2d479a86d781",
+  "version": "1.0.0",
+  "title": "Vietnamese veg parcels",
+  "slug": "vietnamese-veg-parcels",
+  "summary": "Vietnamese-style rice paper rolls filled with rice noodles, vegetables, and chicken, served with a tangy dipping sauce and fresh herbs.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:16:43Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53241"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/f698g91763768731.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/f698g91763768731.jpg/small",
+      "alt_text": "Photo of Vietnamese veg parcels",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=k3ciVdNBuK0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "60481cf3-a7b7-5be4-a0dc-6b872c887e64",
+        "slug": "vietnamese",
+        "name": "Vietnamese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "snack"
+    ],
+    "courses": [
+      "appetizer"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 20
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of rolls with dipping sauce"
+  },
+  "allergens": {
+    "contains": [
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery",
+      "sulfites"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "4d9759d8-e8d1-5d20-af5c-2237f6b8725f",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "699e242b-cdd9-5d11-82b4-0aeabecbd99a",
+          "ingredient_id": "2d14c5e0-3a80-5fde-877c-3a238415647c",
+          "name": "rice flour pancakes",
+          "display_text": "100g Rice Flour Pancakes",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "60b59b52-ef2d-55d5-833a-700f8209ea79",
+          "ingredient_id": "26534aa9-d664-5446-96c6-a499ce56a3fe",
+          "name": "rice noodles",
+          "display_text": "50g Rice Noodles",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "0150637f-59b7-5cf8-af63-0af5192c0e4a",
+          "ingredient_id": "e23191a1-4966-5b21-a6f1-8df6f50b79db",
+          "name": "chicken breast",
+          "display_text": "1 Chicken Breast",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "afb83a25-20c2-5d9d-85a1-f1c4036b26c2",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "1 sliced Carrots",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3fcc6d01-ab31-52b1-942c-0b0ff5a87347",
+          "ingredient_id": "8f9e104a-822f-5bda-b376-eee34fc38609",
+          "name": "cucumber",
+          "display_text": "1 sliced Cucumber",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "12fffd24-acde-59e5-8746-4fb2b2afcd1d",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1 sliced Red Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1425bfcb-c2c5-5e04-bdb9-7abccac73e1e",
+          "ingredient_id": "0777cda5-7472-55c6-bfb1-6a88f7678f6d",
+          "name": "lettuce",
+          "display_text": "To serve Lettuce",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ee61259a-99a7-5677-851d-22bf7f1f0074",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "To serve Coriander",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "28c58f1e-67ee-5d18-b762-1c9992599ab4",
+          "ingredient_id": "0e838047-684d-55cb-884e-e7872e0e96c4",
+          "name": "mint",
+          "display_text": "To serve Mint",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "390b04d7-16af-5a78-a372-67428579143f",
+          "ingredient_id": "de927c20-fdfa-5b98-8ee9-7840fa951a2f",
+          "name": "fish sauce",
+          "display_text": "4 tablespoons Fish Sauce",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "fcb474c1-8334-5297-bcec-5be9c43f114d",
+          "ingredient_id": "cad15bc5-2770-5a5f-8572-c5ac5ad79569",
+          "name": "rice vinegar",
+          "display_text": "2 tablespoons Rice Vinegar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "f8c187fe-e3f8-5d47-a6aa-2e1f4c65c9d0",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "Juice of 1/2 Lime",
+          "quantity": 0.5,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "49f96381-c612-52a5-a811-d059a5eb445d",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "1 sliced Red Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Soak the rice fl our pancakes according to pack instructions or in boiling water for 30 secs. Remove and cool on kitchen paper. Soak the rice noodles according to pack instructions, then drain and cut them into 2cm strips.",
+      "timer_seconds": 30,
+      "ingredients_used": [
+        "699e242b-cdd9-5d11-82b4-0aeabecbd99a",
+        "60b59b52-ef2d-55d5-833a-700f8209ea79"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Lay a rice pancake on a board and arrange some rice noodles, chicken, vegetables and herb leaves about a third of the way up, leaving a 1cm edge at the side. Fold the sides over the vegetables and then roll up lengthways to make a cigar. Store in the fridge, covered with moist kitchen paper for up to 1 day.",
+      "ingredients_used": [
+        "60b59b52-ef2d-55d5-833a-700f8209ea79"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Mix together the ingredients for the dipping sauce and put into a bowl. To serve, arrange the rolls on a plate along with the leaves and herbs. To eat, wrap each roll in a piece of lettuce with a herb sprig and dunk into the sauce.",
+      "ingredients_used": [
+        "1425bfcb-c2c5-5e04-bdb9-7abccac73e1e"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/vietnamese-veg-parcels"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

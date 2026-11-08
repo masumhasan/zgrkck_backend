@@ -1,0 +1,219 @@
+{
+  "id": "bc3fd3b4-c2c0-54a6-bfe2-6576ade16698",
+  "version": "1.0.0",
+  "title": "Chocolate Avocado Mousse",
+  "slug": "chocolate-avocado-mousse",
+  "summary": "A creamy dessert made by blending ripe avocado and banana with cacao powder and honey. It is a nutrient-dense alternative to traditional chocolate mousse.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:43:17Z",
+  "updated_at": "2026-10-16T10:22:48Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52853"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/uttuxy1511382180.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/uttuxy1511382180.jpg/small",
+      "alt_text": "Photo of Chocolate Avocado Mousse",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=wuZffe60q4M"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 10
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 small cup of mousse"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "cc352772-3b7b-5647-9203-d629c41a478c",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "d3ec9130-e1f1-58c9-8cce-a24f62ce5d9e",
+          "ingredient_id": "1c08a43f-9a80-5096-bd85-45ff68c9069c",
+          "name": "banana",
+          "display_text": "1 Banana",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7680b3a9-a098-5688-bec7-ff95cd8dace0",
+          "ingredient_id": "0d51870a-299b-5182-96fa-cd72295ca251",
+          "name": "cacao",
+          "display_text": "3 tbsp Cacao",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "0b795195-337e-571f-b1f3-15ef1ac035ac",
+          "ingredient_id": "eb7e0cb5-be44-5074-93b2-98cbac9baf42",
+          "name": "avocado",
+          "display_text": "1 Avocado",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "5421c08d-0605-547f-a49e-f6f822d3277f",
+          "ingredient_id": "7ad11d6e-3134-5831-97df-4db2a67589f7",
+          "name": "honey",
+          "display_text": "2 tblsp Honey",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "782a85f0-de6b-5eb9-a4e0-006b024b4da7",
+          "ingredient_id": "4020879e-a0a5-58e2-b093-33c7e85c8a08",
+          "name": "lemon juice",
+          "display_text": "1 tsp Lemon Juice",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "7b93589c-e28f-5053-bef6-786b004dfe8d",
+          "ingredient_id": "1ad32b47-90dc-570b-9ae6-d231b0342095",
+          "name": "vanilla",
+          "display_text": "1 tsp Vanilla",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "be3837dc-655b-5d0f-a4ae-2bf04929e96f",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "2 tbsp Water",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "9efa32c9-caef-5217-8971-7e024083b035",
+          "ingredient_id": "9ffd51ab-918f-5fa2-838e-51c491b97dd2",
+          "name": "sea salt",
+          "display_text": "pinch Sea Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Blend all the mousse ingredients together in your food processor until smooth. Add the cacao powder first and, as you blend, have all the ingredients to hand in order to adjust the ratios slightly as the size of avocados and bananas varies so much. The perfect ratio in order to avoid the dish tasting too much of either is to use equal amounts of both.",
+      "ingredients_used": [
+        "d3ec9130-e1f1-58c9-8cce-a24f62ce5d9e",
+        "7680b3a9-a098-5688-bec7-ff95cd8dace0",
+        "0b795195-337e-571f-b1f3-15ef1ac035ac"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Taste and add a few drops of stevia if you feel you need more sweetness."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Fill little cups or shot glasses with the mousse, sprinkle with the cacao powder or nibs and serve.",
+      "ingredients_used": [
+        "7680b3a9-a098-5688-bec7-ff95cd8dace0"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Tip If you don’t have a frozen banana to hand you can just use a normal one and then chill the mousse before serving for a cooling dessert.",
+      "ingredients_used": [
+        "d3ec9130-e1f1-58c9-8cce-a24f62ce5d9e"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://www.hemsleyandhemsley.com/recipe/chocolate-avocado-mousse/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

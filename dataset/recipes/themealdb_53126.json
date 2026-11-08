@@ -1,0 +1,261 @@
+{
+  "id": "ed90969f-ff56-5fc5-9b07-7de60f9c8392",
+  "version": "1.0.0",
+  "title": "Brun Lapskaus (Norwegian Beef Vegetable Stew)",
+  "slug": "brun-lapskaus-norwegian-beef-vegetable-stew",
+  "summary": "A traditional Norwegian beef and vegetable stew made with beef, root vegetables, and leeks simmered in beef stock.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:06:35Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53126"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/6vi2cv1763075785.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/6vi2cv1763075785.jpg/small",
+      "alt_text": "Photo of Brun Lapskaus (Norwegian Beef Vegetable Stew)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=VuLnP0Yu84o"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "56e78dbc-276d-5104-bca5-2bb213b93a49",
+        "slug": "norwegian",
+        "name": "Norwegian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 80,
+    "total_time_minutes": 100
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of stew"
+  },
+  "allergens": {
+    "contains": [
+      "celery"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "d7f3cd06-a280-5a8e-8fa6-e38a6ff4fc96",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "28388036-2ccd-5cb4-87e8-7930730ea7f1",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tblsp Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "15f2d83f-b373-53b7-b540-8a60726c2246",
+          "ingredient_id": "c2102b4e-a5b4-5bab-b7d5-bdfa5244ae7b",
+          "name": "beef",
+          "display_text": "2 Lbs Beef",
+          "quantity": 2.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 907.2,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "d7b8f6e9-413c-5e39-850f-bd889851cdb9",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c31ef699-3286-5b0d-a881-95a9f6395517",
+          "ingredient_id": "39a746ef-3300-5229-b0b2-3e03970ea60c",
+          "name": "beef stock",
+          "display_text": "3 Cups Beef Stock",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "8fea734e-2c9c-50f4-bd2d-fbd18a979410",
+          "ingredient_id": "5d08caa9-b04f-5458-b5be-718012f0d133",
+          "name": "swede",
+          "display_text": "1 small Swede",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "a250c34a-306a-5be5-987e-3c311003818d",
+          "ingredient_id": "ed4951b3-26e6-5bb4-a5af-9c61a46687a0",
+          "name": "celery",
+          "display_text": "1 Celery",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3090a29f-1b3f-5a8d-97b7-14bd579e0300",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "4 Carrots",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "91f63c82-38c6-52d3-ab6b-009842b99f6a",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "4 Parsley",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d52f099e-960b-5d08-8f7c-907c20b2f099",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "1 lb Potatoes",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "a4ea9010-73a6-53b6-99d6-276fd445ee8b",
+          "ingredient_id": "ef5d99bc-384e-522a-8c0f-1c8501f6612c",
+          "name": "leek",
+          "display_text": "1/2 Leek",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "53af8d73-e5d8-519b-9322-e3816efa87e1",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Garnish Parsley",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "garnish",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat olive oil in a large pot. Cut beef into 1 inch (2.5 cm) cubes and brown in oil.",
+      "ingredients_used": [
+        "28388036-2ccd-5cb4-87e8-7930730ea7f1",
+        "15f2d83f-b373-53b7-b540-8a60726c2246"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Dice the onion and add to browning beef. Add the stock and bring to a boil, then lower the heat, cover, and let simmer for about 30 minutes.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "15f2d83f-b373-53b7-b540-8a60726c2246",
+        "d7b8f6e9-413c-5e39-850f-bd889851cdb9"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Peel and cut the rutabaga and celery root into 1 inch (2.5 cm) cubes. Add to the pot, cover, and continue simmering for another 30 minutes.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "a250c34a-306a-5be5-987e-3c311003818d"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Peel and chop the rest of the vegetables into 1 inch (2.5 cm) cubes and add to the pot. Slice the leek into rings. Cover and continue simmering for about 20 minutes. Stir as little as possible.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "a4ea9010-73a6-53b6-99d6-276fd445ee8b"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Top with fresh parsley.",
+      "ingredients_used": [
+        "91f63c82-38c6-52d3-ab6b-009842b99f6a",
+        "53af8d73-e5d8-519b-9322-e3816efa87e1"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://scandinaviancookbook.com/brun-lapskaus-norwegian-beef-vegetable-root-stew/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

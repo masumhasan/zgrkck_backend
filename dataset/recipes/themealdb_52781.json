@@ -1,0 +1,288 @@
+{
+  "id": "e01a3bc5-0f85-5037-aaa7-3dd4b294b70f",
+  "version": "1.0.0",
+  "title": "Irish stew",
+  "slug": "irish-stew",
+  "summary": "A traditional Irish stew made with lamb loin chops, root vegetables, and whole wheat, slow-cooked in a savory broth with white wine and herbs.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:37:24Z",
+  "updated_at": "2026-10-16T10:22:43Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52781"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/sxxpst1468569714.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/sxxpst1468569714.jpg/small",
+      "alt_text": "Photo of Irish stew",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=kYH2qJXnSMo"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9afcb22c-d4b3-58a6-981b-5d7f3acffbaf",
+        "slug": "irish",
+        "name": "Irish"
+      }
+    ],
+    "tags": [
+      "meat",
+      "stew"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 162,
+    "total_time_minutes": 192
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "a large bowl of stew"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "celery",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "be783a2d-8413-5e24-982d-48bf0d313fb5",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "ee19ae1c-d94d-51b8-ad97-31324485838c",
+          "ingredient_id": "c72f5459-7fcc-5fe6-81d5-9b540c2037af",
+          "name": "whole wheat",
+          "display_text": "300g soaked overnight in water whole wheat",
+          "quantity": 300.0,
+          "unit": "gram",
+          "preparation": "soaked overnight in water",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "72362b7c-3014-5719-8da7-447dfbc1c99e",
+          "ingredient_id": "cc64f359-1c01-53fe-aeea-f2968fe6e64c",
+          "name": "lamb loin chops",
+          "display_text": "2kg cut into 3cm cubes lamb loin chops",
+          "quantity": 2.0,
+          "unit": "kilogram",
+          "preparation": "cut into 3cm cubes",
+          "is_optional": false,
+          "metric_quantity": 2.0,
+          "metric_unit": "kilogram",
+          "category": "meat"
+        },
+        {
+          "id": "1acb3163-e07b-5586-b70c-f837b857cbde",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "120ml olive oil",
+          "quantity": 120.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "251a1dbd-c08a-51c3-85fa-5cdf8a6fb302",
+          "ingredient_id": "d22accc4-e562-59bf-9cbb-1ad38d461e99",
+          "name": "shallots",
+          "display_text": "24 Skinned shallots",
+          "quantity": 24.0,
+          "unit": "piece",
+          "preparation": "skinned",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1263de90-7099-5bb9-ba9e-b827f013a913",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "4 large Carrots",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "591db350-153c-5f4a-874c-d983c4e01195",
+          "ingredient_id": "f67eeee2-403f-5b6c-8fff-6c0b97cf53e0",
+          "name": "turnips",
+          "display_text": "2 turnips",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0331680e-0a0e-55fd-a253-f23904952b94",
+          "ingredient_id": "f44959de-0d13-52b9-bc9e-3608459350a4",
+          "name": "celeriac",
+          "display_text": "1 celeriac",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "87ccbe5f-f870-5446-b15d-e7e64a98db3f",
+          "ingredient_id": "29ad8e5f-2653-5214-9d43-fcd2a943ef6b",
+          "name": "charlotte potatoes",
+          "display_text": "350g charlotte potatoes",
+          "quantity": 350.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 350.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "29bfd06d-8512-5ece-8796-361edc92839a",
+          "ingredient_id": "7dfa4179-cc08-5fb6-b4fc-aa52abc5f515",
+          "name": "white wine",
+          "display_text": "150ml white wine",
+          "quantity": 150.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "d5783c66-1914-5038-b558-b34cbb2dd241",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "1 tsp caster sugar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "36b35695-9231-5020-b57e-dc7f4bd8918d",
+          "ingredient_id": "60bd0a86-fcd7-5b82-bf3a-36a24bb795e0",
+          "name": "fresh thyme",
+          "display_text": "4 sprigs fresh thyme",
+          "quantity": 4.0,
+          "unit": "sprig",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "2712aa03-f35c-5014-a501-5f862b7eb5d0",
+          "ingredient_id": "035f27db-b6ac-512c-a6e4-48e289cafefe",
+          "name": "oregano",
+          "display_text": "4 sprigs oregano",
+          "quantity": 4.0,
+          "unit": "sprig",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "6e35ddba-6d43-54b6-831b-676c0823c495",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "450ml chicken stock",
+          "quantity": 450.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oven to 180C/350F/gas mark 4. Drain and rinse the soaked wheat, put it in a medium pan with lots of water, bring to a boil and simmer for an hour, until cooked. Drain and set aside.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "ee19ae1c-d94d-51b8-ad97-31324485838c"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Season the lamb with a teaspoon of salt and some black pepper. Put one tablespoon of oil in a large, deep sauté pan for which you have a lid; place on a medium-high heat. Add some of the lamb – don't overcrowd the pan – and sear for four minutes on all sides. Transfer to a bowl, and repeat with the remaining lamb, adding oil as needed."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Lower the heat to medium and add a tablespoon of oil to the pan. Add the shallots and fry for four minutes, until caramelized. Tip these into the lamb bowl, and repeat with the remaining vegetables until they are all nice and brown, adding more oil as you need it.",
+      "ingredients_used": [
+        "251a1dbd-c08a-51c3-85fa-5cdf8a6fb302"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Once all the vegetables are seared and removed from the pan, add the wine along with the sugar, herbs, a teaspoon of salt and a good grind of black pepper. Boil on a high heat for about three minutes.",
+      "ingredients_used": [
+        "29bfd06d-8512-5ece-8796-361edc92839a"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Tip the lamb, vegetables and whole wheat back into the pot, and add the stock. Cover and boil for five minutes, then transfer to the oven for an hour and a half.",
+      "ingredients_used": [
+        "ee19ae1c-d94d-51b8-ad97-31324485838c"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Remove the stew from the oven and check the liquid; if there is a lot, remove the lid and boil for a few minutes."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://www.ottolenghi.co.uk/recipes/meat/irish-stew-shop"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

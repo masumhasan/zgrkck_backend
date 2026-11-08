@@ -1,0 +1,187 @@
+{
+  "id": "fbe86e89-aa1d-5631-8273-f4a03ca88302",
+  "version": "1.0.0",
+  "title": "Grilled corn with garlic mayo & grated cheese",
+  "slug": "grilled-corn-with-garlic-mayo-grated-cheese",
+  "summary": "Corn on the cob boiled and then grilled until charred, served with a garlic mayonnaise dressing, grated parmesan cheese, and fresh coriander.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:37:43Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53478"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/k1if4d1782589892.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/k1if4d1782589892.jpg/small",
+      "alt_text": "Photo of Grilled corn with garlic mayo & grated cheese",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6675856e-6919-5ea9-9f7a-8bf7f195e27f",
+        "slug": "brazilian",
+        "name": "Brazilian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 15
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 corn on the cob"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "eggs"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": [
+      "soy"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "c0b28f23-6c0f-58d9-a8d5-511995dcd6f3",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "db0b4314-3001-564a-8f4f-87922dee9e1b",
+          "ingredient_id": "55bc302f-50fd-538e-b133-9e1e0f302eff",
+          "name": "corn on the cob",
+          "display_text": "6 Corn On The Cob",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "3e3c3a4a-93d4-53c5-a88c-9c75fdb53f7e",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves minced Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "minced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "55289635-ebd5-5922-8c94-711c2abd383a",
+          "ingredient_id": "6a3a5ec7-7840-5eff-a3ce-0e3aafbaa822",
+          "name": "mayonnaise",
+          "display_text": "6 tablespoons Mayonnaise",
+          "quantity": 6.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 90.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "5b35d67b-78d1-5cd3-a839-d75a5cd06791",
+          "ingredient_id": "416df703-8cf7-5b6e-bc37-86ce7e3fd6da",
+          "name": "parmesan",
+          "display_text": "4 tablespoons Parmesan",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "477514f3-f5c4-59df-aab6-75d1e476f69b",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "2 tablespoons Coriander",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "b4b8de69-f128-5432-b9f5-be9a8e7f11bc",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "1 Lime",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Boil the corn cobs for 5 mins. Leave in the water until you’re ready to grill them. Mix the garlic and mayonnaise in a small bowl. Just before barbecuing, remove the cobs from the pan, pat dry and rub the mayonnaise into each one.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "3e3c3a4a-93d4-53c5-a88c-9c75fdb53f7e",
+        "55289635-ebd5-5922-8c94-711c2abd383a"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Season the cobs and grill them until marks appear, about 5 mins. Remove and scatter over the Parmesan and coriander. Squeeze lime over to serve.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "5b35d67b-78d1-5cd3-a839-d75a5cd06791",
+        "477514f3-f5c4-59df-aab6-75d1e476f69b",
+        "b4b8de69-f128-5432-b9f5-be9a8e7f11bc"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/grilled-corn-garlic-mayo-grated-cheese"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

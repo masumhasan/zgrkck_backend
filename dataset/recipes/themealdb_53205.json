@@ -1,0 +1,214 @@
+{
+  "id": "c6b56105-8fe5-583c-a7a7-1228ffe658d6",
+  "version": "1.0.0",
+  "title": "Thai prawn curry",
+  "slug": "thai-prawn-curry",
+  "summary": "A Thai-style red curry made with prawns, coconut cream, and tomatoes, served over rice.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:13:28Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53205"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/qqlwv91763501559.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/qqlwv91763501559.jpg/small",
+      "alt_text": "Photo of Thai prawn curry",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=dEMPVKQXSYA"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "724b7c6a-f254-57d4-9729-335a2b2d93b1",
+        "slug": "thai",
+        "name": "Thai"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 21,
+    "total_time_minutes": 31
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a bowl of curry with rice"
+  },
+  "allergens": {
+    "contains": [
+      "fish",
+      "shellfish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "10025683-eb55-5e59-81dc-c198ed0ea15e",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "13584ac1-3651-58c1-9f64-842d2091b814",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "1 tbls Vegetable Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "24da2ce6-2bba-5b9b-90fd-149f831a5abc",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "099451e5-60bc-501d-8929-93ab7c29690f",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "1 tsp Ginger",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "78d84546-628b-5fea-9c5d-8627926a0971",
+          "ingredient_id": "beb6cb16-691a-5cca-80dd-69a4020c3fa6",
+          "name": "thai red curry paste",
+          "display_text": "2 tsp Thai Red Curry Paste",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "e53f8cbe-a6bb-5d6f-a056-9ffc1e13a5ff",
+          "ingredient_id": "5cf11297-0a5b-55fb-85b2-ff239b80e4f4",
+          "name": "tinned tomatos",
+          "display_text": "400g Tinned Tomatos",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "23249444-43d6-5845-a579-0c06bdfc3831",
+          "ingredient_id": "0f3e4fb6-2462-5ac9-9904-fadac99ad6a7",
+          "name": "coconut cream",
+          "display_text": "50g Coconut Cream",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "a996e0d1-4861-5b2d-8809-dd7ff2c5d9be",
+          "ingredient_id": "d446771d-f232-50f0-b920-225f9664e86c",
+          "name": "raw frozen prawns",
+          "display_text": "400g Raw Frozen Prawns",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "84bb54da-df7d-594a-83cf-ac47964686ba",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "Chopped Coriander",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oil in a medium saucepan. Tip in the onion and ginger, then cook for a few mins until softened. Stir in the curry paste, then cook for 1 min more. Pour over the chopped tomatoes and coconut cream. Bring to the boil, then leave to simmer for 5 mins, adding a little boiling water if the mixture gets too thick.",
+      "ingredients_used": [
+        "24da2ce6-2bba-5b9b-90fd-149f831a5abc",
+        "099451e5-60bc-501d-8929-93ab7c29690f",
+        "23249444-43d6-5845-a579-0c06bdfc3831"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Tip in the prawns, then cook for 5-10 mins more, depending on how large they are. Serve alongside some plain rice and sprinkle with a little chopped coriander, if you like.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "a996e0d1-4861-5b2d-8809-dd7ff2c5d9be",
+        "84bb54da-df7d-594a-83cf-ac47964686ba"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/easy-thai-prawn-curry"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

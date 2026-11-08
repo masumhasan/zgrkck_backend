@@ -1,0 +1,219 @@
+{
+  "id": "615a94cd-0dbe-503e-8298-26046662bf7e",
+  "version": "1.0.0",
+  "title": "Roti john",
+  "slug": "roti-john",
+  "summary": "Roti John is a Malaysian street food sandwich consisting of a minced beef and egg mixture grilled inside an open-faced baguette.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:00:27Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53052"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/hx335q1619789561.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/hx335q1619789561.jpg/small",
+      "alt_text": "Photo of Roti john",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=cl4YH8wblRs"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "336a5cbb-5bdd-53e1-aca6-9d291720d97b",
+        "slug": "malaysian",
+        "name": "Malaysian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "breakfast"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 5,
+    "total_time_minutes": 15
+  },
+  "yield": {
+    "servings": 1,
+    "serving_unit": "servings",
+    "serving_size_description": "1 baguette sandwich"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "d576bf78-044e-522c-b000-00c222375142",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "34ab45e5-81f1-5a64-9a33-ade31669919e",
+          "ingredient_id": "32de35ba-e219-523e-a9c8-e8bef0b536c9",
+          "name": "minced beef",
+          "display_text": "1/4 lb Minced Beef",
+          "quantity": 0.25,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 113.4,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "365a0c11-6c5d-57dc-9971-2a59c2174eba",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "478cf81d-6a7c-5a15-a56f-9e8bea3b2ef9",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "3 Eggs",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "0776128b-b686-5019-9bd4-bad8a259aed2",
+          "ingredient_id": "3deb6c1f-bd27-560b-a63b-f2b3eaf9e82e",
+          "name": "chilli",
+          "display_text": "1 tbs Chilli",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "566559b0-c16c-57e4-9e07-87a096c0a862",
+          "ingredient_id": "43b5d3b2-0e2d-5ff1-9c0e-d047e896af5e",
+          "name": "baguette",
+          "display_text": "1/2 Baguette",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "aa864a62-460c-51c3-922a-a52517ccbe8e",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "83d09cb8-0e1f-5615-a475-7a684512d4b0",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "To taste Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3f8573cf-5d86-59e7-ba8b-5736321df743",
+          "ingredient_id": "6a3a5ec7-7840-5eff-a3ce-0e3aafbaa822",
+          "name": "mayonnaise",
+          "display_text": "Top Mayonnaise",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "top",
+          "is_optional": false,
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Mix all the ingredients in a bowl."
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat a pan or griddle with a little vegetable oil."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Pour the mixture onto the pan and place a piece of open-faced baguette on top.",
+      "ingredients_used": [
+        "566559b0-c16c-57e4-9e07-87a096c0a862"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Press on the bread with a spatula and grill for 2 minutes.",
+      "timer_seconds": 120
+    },
+    {
+      "step_number": 5,
+      "instruction": "Turn the bread over to make it a little crispy."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Remove from pan and cut the bread into small portions."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Add mayonnaise and/or Sambal before cutting the sandwich (optional).",
+      "ingredients_used": [
+        "3f8573cf-5d86-59e7-ba8b-5736321df743"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.196flavors.com/malaysia-roti-john/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

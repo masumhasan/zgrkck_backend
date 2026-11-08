@@ -1,0 +1,359 @@
+{
+  "id": "dc4fbfcb-cf64-5227-a75b-4bb6daf19615",
+  "version": "1.0.0",
+  "title": "Chorba Hamra bel Frik (Algerian Lamb, Tomato, and Freekeh Soup)",
+  "slug": "chorba-hamra-bel-frik-algerian-lamb-tomato-and-freekeh-soup",
+  "summary": "A traditional Algerian soup made with lamb, freekeh (cracked green wheat), and a variety of vegetables in a spiced tomato broth.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:21:01Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53289"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/p9tebp1764118792.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/p9tebp1764118792.jpg/small",
+      "alt_text": "Photo of Chorba Hamra bel Frik (Algerian Lamb, Tomato, and Freekeh Soup)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=2z6IldJl_lQ"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "44067efa-6d33-5eeb-9836-eb49ba7b3e31",
+        "slug": "algerian",
+        "name": "Algerian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "soup"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 65
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of soup"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "celery"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "97603c94-46e8-5bf2-9ba2-02e00a179a94",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "bfee2dbd-2728-50c3-adae-ef45dc0e8b86",
+          "ingredient_id": "4b84d9e8-462e-5cef-acf5-f9f015cf319f",
+          "name": "freekeh",
+          "display_text": "1 cup Freekeh",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "852ce078-b54d-5ba6-ac69-02e592b8e1c7",
+          "ingredient_id": "9d9a6681-e50b-5870-820c-5bf49172a394",
+          "name": "lamb",
+          "display_text": "12 ounces Lamb",
+          "quantity": 12.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 340.2,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "516c8586-6b23-509a-9885-40d723c05c7d",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 finely chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "10a0da59-e0d2-50ef-b160-3068bf026771",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1 tsp Black Pepper",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "e2865d72-7787-5111-b292-c1f41aa64933",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1 tsp Paprika",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "25b6cbbb-ea88-575a-ac7e-bb29e56fd881",
+          "ingredient_id": "7af3c207-3c37-5965-a096-bf34ac1db1f4",
+          "name": "ground cinnamon",
+          "display_text": "1 tsp Ground Cinnamon",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d576ae91-f793-5800-910d-375134b4b7ba",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "285997a0-0be8-57ef-8bab-aee269e471ce",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "3  tablespoons Vegetable Oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "35aca4b5-a70e-5270-b0c1-02832582ee06",
+          "ingredient_id": "1655ccbe-97a7-59b3-9245-ebc95a0ed6d0",
+          "name": "cilantro",
+          "display_text": "1  bunch Cilantro",
+          "quantity": 1.0,
+          "unit": "bunch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d2c313aa-7a55-5f30-a9df-989d57fff43e",
+          "ingredient_id": "0e838047-684d-55cb-884e-e7872e0e96c4",
+          "name": "mint",
+          "display_text": "1  bunch Mint",
+          "quantity": 1.0,
+          "unit": "bunch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "39c014ef-316c-5bd5-948f-00c6ddd1a36b",
+          "ingredient_id": "ed4951b3-26e6-5bb4-a5af-9c61a46687a0",
+          "name": "celery",
+          "display_text": "1 Celery",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b0b8890b-c7ea-5e83-9781-2f54ae8d5030",
+          "ingredient_id": "ae979dd7-6a1e-5882-9ed5-e0b09554efd0",
+          "name": "chickpeas",
+          "display_text": "14 oz jar Chickpeas",
+          "quantity": 14.0,
+          "unit": "ounce",
+          "preparation": "jar",
+          "is_optional": false,
+          "metric_quantity": 396.9,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "388c9d32-ce70-596b-b2c4-873c28dfb683",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "4 cups Water",
+          "quantity": 4.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 960.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "4b5aa5b7-2983-556e-93ca-5750fc457acc",
+          "ingredient_id": "008f50c5-b911-5eaa-ae64-9b4e3b127614",
+          "name": "zucchini",
+          "display_text": "1 Diced Zucchini",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e356ce22-7721-54a3-939f-eb3036082fb5",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "1 Diced Carrots",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "5de9c440-c7d6-5fbb-ba23-64f45a351d13",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "1 tablespoon Tomato Puree",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "045a1ec2-c450-599c-9e75-7dffca54b442",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "3 Medium Tomato",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ce29309e-7859-5ff2-b8de-e3ba3f9ab1fe",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "1 Diced Potatoes",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "diced",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Place freekeh in a small bowl and cover with cold water. Set aside.",
+      "ingredients_used": [
+        "bfee2dbd-2728-50c3-adae-ef45dc0e8b86",
+        "388c9d32-ce70-596b-b2c4-873c28dfb683"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Combine lamb, onion, black pepper, paprika, cinnamon, and salt in a pot. Stir in oil, 1/2 the cilantro, 1/2 the mint, and celery stalk until combined. Simmer over low heat for 15 minutes. Stir in chickpeas; pour in just enough water to cover, and return to a simmer. Stir in zucchini, carrot, and tomato paste.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "852ce078-b54d-5ba6-ac69-02e592b8e1c7",
+        "516c8586-6b23-509a-9885-40d723c05c7d",
+        "10a0da59-e0d2-50ef-b160-3068bf026771",
+        "e2865d72-7787-5111-b292-c1f41aa64933",
+        "25b6cbbb-ea88-575a-ac7e-bb29e56fd881",
+        "d576ae91-f793-5800-910d-375134b4b7ba",
+        "35aca4b5-a70e-5270-b0c1-02832582ee06",
+        "d2c313aa-7a55-5f30-a9df-989d57fff43e",
+        "39c014ef-316c-5bd5-948f-00c6ddd1a36b",
+        "b0b8890b-c7ea-5e83-9781-2f54ae8d5030",
+        "388c9d32-ce70-596b-b2c4-873c28dfb683",
+        "4b5aa5b7-2983-556e-93ca-5750fc457acc",
+        "045a1ec2-c450-599c-9e75-7dffca54b442"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Set a steamer over the pot; add tomatoes. Cover and steam tomatoes until soft, about 5 minutes. Crush tomatoes using a wooden spoon, so pulp drips into soup. Remove the steamer and discard leftover tomato peels.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "045a1ec2-c450-599c-9e75-7dffca54b442"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add potato to soup and just enough water to cover. Simmer until potato is soft, about 10 minutes.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "388c9d32-ce70-596b-b2c4-873c28dfb683"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Drain freekeh and add to soup. Simmer until soft, about 15 minutes. Remove celery stalk and discard. Sprinkle soup with remaining 1/2 cilantro and remaining 1/2 mint before serving.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "bfee2dbd-2728-50c3-adae-ef45dc0e8b86",
+        "35aca4b5-a70e-5270-b0c1-02832582ee06",
+        "d2c313aa-7a55-5f30-a9df-989d57fff43e",
+        "39c014ef-316c-5bd5-948f-00c6ddd1a36b"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.allrecipes.com/recipe/264552/chorba-hamra-bel-frik-algerian-lamb-tomato-and-freekeh-soup/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

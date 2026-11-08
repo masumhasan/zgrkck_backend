@@ -1,0 +1,216 @@
+{
+  "id": "7cd02172-6a3e-50d5-aa51-8a6d66975195",
+  "version": "1.0.0",
+  "title": "Moussaka",
+  "slug": "moussaka",
+  "summary": "A traditional Greek layered dish consisting of browned beef, potatoes, and tomatoes, topped with sliced aubergine and a creamy yogurt and egg mixture.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:56:12Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53006"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ctg8jd1585563097.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ctg8jd1585563097.jpg/small",
+      "alt_text": "Photo of Moussaka",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=8U_29i9Qp5U"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "de767d0c-ee8d-59a9-8d05-02b9ae12a1ac",
+        "slug": "greek",
+        "name": "Greek"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 portion of layered moussaka"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "eggs"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "c34d9802-9cfe-59ed-afcf-e49cfa38978c",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "370f3de8-c205-5446-be9f-5ef5afcceb4b",
+          "ingredient_id": "c2102b4e-a5b4-5bab-b7d5-bdfa5244ae7b",
+          "name": "beef",
+          "display_text": "500g Beef",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "7b61332a-9e40-5d72-a3c8-5f805330a278",
+          "ingredient_id": "0c13526c-c9d0-5c10-bc72-13ae3bf32c7e",
+          "name": "aubergine",
+          "display_text": "1 large Aubergine",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f10444f0-5e3b-5dcf-877c-142ad195083b",
+          "ingredient_id": "ba22b73d-e619-5bc7-a859-f65b683613fe",
+          "name": "greek yogurt",
+          "display_text": "150g Greek Yogurt",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "93b6d18f-2a86-5377-aeb9-e2983c92b8a5",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 beaten Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "beaten",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "f7be4207-92fd-513f-b6c2-35c3960d2d35",
+          "ingredient_id": "416df703-8cf7-5b6e-bc37-86ce7e3fd6da",
+          "name": "parmesan",
+          "display_text": "3 tbs Parmesan",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "7319d237-51bd-580b-a3c4-3c7744e316e8",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "400g Tomato",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "d0e06d2d-c5fd-5a42-8c92-5359e4c46016",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "4 tbs Tomato Puree",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "7f81f82b-6445-5c38-83ea-d95fd287e019",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "350g Potatoes",
+          "quantity": 350.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 350.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the grill to high. Brown the beef in a deep ovenproof frying pan over a high heat for 5 mins. Meanwhile, prick the aubergine with a fork, then microwave on High for 3-5 mins until soft. Mix the yogurt, egg and parmesan together, then add a little seasoning.",
+      "ingredients_used": [
+        "370f3de8-c205-5446-be9f-5ef5afcceb4b",
+        "7b61332a-9e40-5d72-a3c8-5f805330a278",
+        "f10444f0-5e3b-5dcf-877c-142ad195083b",
+        "93b6d18f-2a86-5377-aeb9-e2983c92b8a5",
+        "f7be4207-92fd-513f-b6c2-35c3960d2d35"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Stir the tomatoes, purée and potatoes in with the beef with some seasoning and heat through. Smooth the surface of the beef mixture with the back of a spoon, then slice the cooked aubergine and arrange on top. Pour the yogurt mixture over the aubergines, smooth out evenly, then grill until the topping has set and turned golden.",
+      "ingredients_used": [
+        "370f3de8-c205-5446-be9f-5ef5afcceb4b",
+        "7b61332a-9e40-5d72-a3c8-5f805330a278",
+        "f10444f0-5e3b-5dcf-877c-142ad195083b",
+        "7319d237-51bd-580b-a3c4-3c7744e316e8",
+        "7f81f82b-6445-5c38-83ea-d95fd287e019"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/must-make-moussaka"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

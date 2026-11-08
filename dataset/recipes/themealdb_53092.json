@@ -1,0 +1,179 @@
+{
+  "id": "c70043b8-4fd4-5a78-92a8-f4a0ce7e4475",
+  "version": "1.0.0",
+  "title": "Fasoliyyeh Bi Z-Zayt (Syrian Green Beans with Olive Oil)",
+  "slug": "fasoliyyeh-bi-z-zayt-syrian-green-beans-with-olive-oil",
+  "summary": "A traditional Syrian dish of green beans steamed in olive oil with garlic and cilantro. It is typically served as a main course with pita bread or as a side dish.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:03:31Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53092"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/21yc5s1760524759.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/21yc5s1760524759.jpg/small",
+      "alt_text": "Photo of Fasoliyyeh Bi Z-Zayt (Syrian Green Beans with Olive Oil)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=_EadiEPxQI0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "a8c10f43-1ba0-5839-9ba9-834872824efe",
+        "slug": "syrian",
+        "name": "Syrian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course",
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "weeknight_dinner"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of green beans"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "b9a4425f-cff2-5db9-abe3-9eaa1f67c6fa",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "49b5ad10-6075-5be1-82ba-decbc87b677c",
+          "ingredient_id": "76e924de-1ab6-5ae5-94fc-70f3fd268a7d",
+          "name": "green beans",
+          "display_text": "16 ounces Green Beans",
+          "quantity": 16.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "cc2c23fa-7696-5155-ba20-bbee973596e9",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1/4 cup Olive Oil",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "dea5f100-5341-5221-af24-e8fc940ea906",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Dash Salt",
+          "quantity": 1,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "1a357b95-45dd-53af-88bc-bd3a7e858b75",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "208b88b4-5bd8-5551-aa08-ae7c02064424",
+          "ingredient_id": "1655ccbe-97a7-59b3-9245-ebc95a0ed6d0",
+          "name": "cilantro",
+          "display_text": "1/4 cup Cilantro",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Place the green beans into a large pot, and drizzle with olive oil. Season with salt to taste, and put the lid on the pot. Cook over medium-high heat, stirring occasionally, until beans are cooked to your desired doneness. Syrians like it cooked until the green beans are turning brownish in color. The idea is not to saute them, but to let them steam in the moisture released by the ice crystals.",
+      "ingredients_used": [
+        "49b5ad10-6075-5be1-82ba-decbc87b677c",
+        "cc2c23fa-7696-5155-ba20-bbee973596e9",
+        "dea5f100-5341-5221-af24-e8fc940ea906"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add cilantro and garlic to the beans, and continue to cook just until the cilantro has started to wilt. Eat as a main course by scooping up with warm pita bread or serve as a side dish.",
+      "ingredients_used": [
+        "49b5ad10-6075-5be1-82ba-decbc87b677c",
+        "1a357b95-45dd-53af-88bc-bd3a7e858b75",
+        "208b88b4-5bd8-5551-aa08-ae7c02064424"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.allrecipes.com/recipe/56161/fasoliyyeh-bi-z-zayt-syrian-green-beans-with-olive-oil/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

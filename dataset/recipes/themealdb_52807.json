@@ -1,0 +1,367 @@
+{
+  "id": "ab415117-3d21-592e-8a86-fcf74c7bafd2",
+  "version": "1.0.0",
+  "title": "Baingan Bharta",
+  "slug": "baingan-bharta",
+  "summary": "A smoky Indian dish made from roasted, mashed aubergine sautéed with onions, tomatoes, garlic, and spices.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:39:04Z",
+  "updated_at": "2026-10-16T10:22:45Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52807"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg/small",
+      "alt_text": "Photo of Baingan Bharta",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=-84Zz2EP4h4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b2b4e1bc-3c1e-50ce-abf4-9015553e6a16",
+        "slug": "indian",
+        "name": "Indian"
+      }
+    ],
+    "tags": [
+      "bun",
+      "calorific",
+      "spicy"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 30,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 50
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of bharta"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "ce53deb6-3148-5239-8f42-618b5942d2f0",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "d2255460-5a1e-5b9a-8a3d-3a97723651c7",
+          "ingredient_id": "0c13526c-c9d0-5c10-bc72-13ae3bf32c7e",
+          "name": "aubergine",
+          "display_text": "1 large Aubergine",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c61ffb96-79c4-53da-b8ab-a0c490035830",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "½ cup Onion",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "4bd97609-bba3-5fad-ae72-b98633f1b817",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomatoes",
+          "display_text": "1 cup Tomatoes",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "109f7aaa-97ba-5977-af84-4a14cad328bd",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "6 cloves Garlic",
+          "quantity": 6.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "80fcbba6-600f-50e9-99ab-992f43d4ed59",
+          "ingredient_id": "091f7fa6-975c-516e-a354-2a31e6503580",
+          "name": "green chilli",
+          "display_text": "1 Green Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ca9ff241-8188-53b4-a4c0-9d4dea55d9c4",
+          "ingredient_id": "bb71ee64-6326-5658-8d92-ea9c83fdb5fc",
+          "name": "red chilli powder",
+          "display_text": "¼ teaspoon Red Chilli Powder",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "977c31ac-75be-50ab-9dfb-36cb00f53494",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "1.5 tablespoon Oil",
+          "quantity": 1.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 22.5,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "a77c0c34-5ecb-5a3b-ae1a-e2cae5a8560a",
+          "ingredient_id": "01f7246f-a615-5952-a55f-5bf9985723ad",
+          "name": "coriander leaves",
+          "display_text": "1 tablespoon chopped Coriander Leaves",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d144df40-4fe9-52d7-845c-3fe3a16b9411",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "as required salt",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "as required",
+          "is_optional": false,
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Rinse the baingan (eggplant or aubergine) in water. Pat dry with a kitchen napkin. Apply some oil all over and",
+      "ingredients_used": [
+        "d2255460-5a1e-5b9a-8a3d-3a97723651c7",
+        "977c31ac-75be-50ab-9dfb-36cb00f53494"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "keep it for roasting on an open flame. You can also grill the baingan or roast in the oven. But then you won't get"
+    },
+    {
+      "step_number": 3,
+      "instruction": "the smoky flavor of the baingan. Keep the eggplant turning after a 2 to 3 minutes on the flame, so that its evenly",
+      "timer_seconds": 180
+    },
+    {
+      "step_number": 4,
+      "instruction": "cooked. You could also embed some garlic cloves in the baingan and then roast it.",
+      "ingredients_used": [
+        "109f7aaa-97ba-5977-af84-4a14cad328bd"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Roast the aubergine till its completely cooked and tender. With a knife check the doneness. The knife should slid",
+      "ingredients_used": [
+        "d2255460-5a1e-5b9a-8a3d-3a97723651c7"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "easily in aubergines without any resistance. Remove the baingan and immerse in a bowl of water till it cools",
+      "ingredients_used": [
+        "d2255460-5a1e-5b9a-8a3d-3a97723651c7"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "down."
+    },
+    {
+      "step_number": 8,
+      "instruction": "You can also do the dhungar technique of infusing charcoal smoky flavor in the baingan. This is an optional step."
+    },
+    {
+      "step_number": 9,
+      "instruction": "Use natural charcoal for this method. Heat a small piece of charcoal on flame till it becomes smoking hot and red."
+    },
+    {
+      "step_number": 10,
+      "instruction": "Make small cuts on the baingan with a knife. Place the red hot charcoal in the same plate where the roasted"
+    },
+    {
+      "step_number": 11,
+      "instruction": "aubergine is kept. Add a few drops of oil on the charcoal. The charcoal would begin to smoke.",
+      "ingredients_used": [
+        "d2255460-5a1e-5b9a-8a3d-3a97723651c7",
+        "977c31ac-75be-50ab-9dfb-36cb00f53494"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "As soon as smoke begins to release from the charcoal, cover the entire plate tightly with a large bowl. Allow the"
+    },
+    {
+      "step_number": 13,
+      "instruction": "charcoal smoke to get infused for 1 to 2 minutes. The more you do, the more smoky the baingan bharta will",
+      "timer_seconds": 120
+    },
+    {
+      "step_number": 14,
+      "instruction": "become. I just keep for a minute. Alternatively, you can also do this dhungar method once the baingan bharta is"
+    },
+    {
+      "step_number": 15,
+      "instruction": "cooked, just like the way we do for Dal Tadka."
+    },
+    {
+      "step_number": 16,
+      "instruction": "Peel the skin from the roasted and smoked eggplant."
+    },
+    {
+      "step_number": 17,
+      "instruction": "Chop the cooked eggplant finely or you can even mash it."
+    },
+    {
+      "step_number": 18,
+      "instruction": "In a kadai or pan, heat oil. Then add finely chopped onions and garlic.",
+      "ingredients_used": [
+        "c61ffb96-79c4-53da-b8ab-a0c490035830",
+        "109f7aaa-97ba-5977-af84-4a14cad328bd",
+        "977c31ac-75be-50ab-9dfb-36cb00f53494"
+      ]
+    },
+    {
+      "step_number": 19,
+      "instruction": "Saute the onions till translucent. Don't brown them.",
+      "ingredients_used": [
+        "c61ffb96-79c4-53da-b8ab-a0c490035830"
+      ]
+    },
+    {
+      "step_number": 20,
+      "instruction": "Add chopped green chilies and saute for a minute."
+    },
+    {
+      "step_number": 21,
+      "instruction": "Add the chopped tomatoes and mix it well.",
+      "ingredients_used": [
+        "4bd97609-bba3-5fad-ae72-b98633f1b817"
+      ]
+    },
+    {
+      "step_number": 22,
+      "instruction": "Bhuno (saute) the tomatoes till the oil starts separating from the mixture.",
+      "ingredients_used": [
+        "4bd97609-bba3-5fad-ae72-b98633f1b817",
+        "977c31ac-75be-50ab-9dfb-36cb00f53494"
+      ]
+    },
+    {
+      "step_number": 23,
+      "instruction": "Now add the red chili powder. Stir and mix well."
+    },
+    {
+      "step_number": 24,
+      "instruction": "Add the chopped cooked baingan."
+    },
+    {
+      "step_number": 25,
+      "instruction": "Stir and mix the chopped baingan very well with the onion­tomato masala mixture.",
+      "ingredients_used": [
+        "c61ffb96-79c4-53da-b8ab-a0c490035830"
+      ]
+    },
+    {
+      "step_number": 26,
+      "instruction": "Season with salt. Stir and saute for some more 4 to 5 minutes more.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "d144df40-4fe9-52d7-845c-3fe3a16b9411"
+      ]
+    },
+    {
+      "step_number": 27,
+      "instruction": "Finally stir in the coriander leaves with the baingan bharta or garnish it with them. Serve Baingan Bharta with",
+      "ingredients_used": [
+        "a77c0c34-5ecb-5a3b-ae1a-e2cae5a8560a"
+      ]
+    },
+    {
+      "step_number": 28,
+      "instruction": "phulkas, rotis or chapatis. It goes well even with bread, toasted or grilled bread and plain rice or jeera rice."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://www.vegrecipesofindia.com/baingan-bharta-recipe-punjabi-baingan-bharta-recipe/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

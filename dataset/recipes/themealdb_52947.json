@@ -1,0 +1,382 @@
+{
+  "id": "a7b2f8f0-26a2-5705-928b-edff4a0942c0",
+  "version": "1.0.0",
+  "title": "Ma Po Tofu",
+  "slug": "ma-po-tofu",
+  "summary": "A classic Sichuan dish featuring soft tofu cubes and minced beef in a spicy, savory sauce made with fermented bean paste and Sichuan peppercorns.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:51:46Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52947"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/1525874812.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/1525874812.jpg/small",
+      "alt_text": "Photo of Ma Po Tofu",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=IhwPQL9dFYc"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6813a95e-62cf-55e7-9d4b-6f19ee1d7391",
+        "slug": "chinese",
+        "name": "Chinese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": [
+      "easter"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 35
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of tofu with beef and sauce"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "sesame"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "fish",
+      "shellfish",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "263001e0-5f35-5cb3-98ca-b6d57a0896f8",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "34c7a9c8-2b7c-5dfd-b660-e4d6f0ce85bb",
+          "ingredient_id": "c7df0777-fdda-55fe-977b-f7cb1e396954",
+          "name": "tofu",
+          "display_text": "450g Tofu",
+          "quantity": 450.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "f3bf49f0-eafd-5d50-979f-c70cf6c84b16",
+          "ingredient_id": "32de35ba-e219-523e-a9c8-e8bef0b536c9",
+          "name": "minced beef",
+          "display_text": "100g Minced Beef",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "2a3c3255-e18b-5364-88fc-9ad1d976c158",
+          "ingredient_id": "653731ca-07ee-57df-aa38-0f8f2b71ccc6",
+          "name": "sesame seed oil",
+          "display_text": "1/2 tbs Sesame Seed Oil",
+          "quantity": 0.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "4de80c89-4404-5cdc-8c12-e07aae6a52a6",
+          "ingredient_id": "79e46958-7993-54ee-bed5-cbb8c2ece7e7",
+          "name": "doubanjiang",
+          "display_text": "1 1/2 tsp Doubanjiang",
+          "quantity": 1.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "65f46325-a889-5038-8c7a-278b2646060c",
+          "ingredient_id": "85d1c978-903f-5898-adb6-f0520fd69495",
+          "name": "fermented black beans",
+          "display_text": "1/2 tsp Fermented Black Beans",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "4606edd6-5568-5709-8de8-4f5d1f157c3e",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "1 tbs Pepper",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "bd64be0a-63d4-5e52-b558-8add3813f937",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/2 tsp Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "dbfd89bb-53fa-5780-8c8c-5b99e5befefc",
+          "ingredient_id": "6c586470-2f1d-542b-90db-99f3ac836a31",
+          "name": "sichuan pepper",
+          "display_text": "1/2 tsp Sichuan pepper",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "2073c291-e991-50cc-b34b-45da39523ef8",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "1 tbs Soy Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "92d22e6b-4575-5338-b36c-8d4da2c31ae2",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "400ml Water",
+          "quantity": 400.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "6a7ad1dd-e6c5-50e7-91fc-f5c0091e0169",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tbs Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "038436c2-a47c-50ec-8796-53382a0262b1",
+          "ingredient_id": "24cbab0a-29d3-5e28-b361-77f90e93af9c",
+          "name": "scallions",
+          "display_text": "2 chopped Scallions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "16d7b808-f39f-5357-ae71-06b5075435cb",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "4 Spring Onions",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "cd9ed864-aedd-5eb4-b12e-c33470972e1d",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves chopped Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d8f652dd-c244-52f3-bb5a-5275c1a6120b",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "4 sliced Ginger",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3ccfc4d7-2acd-59ee-b317-ad9f7275417f",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "2 1/2 tbs Water",
+          "quantity": 2.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 37.5,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "3617532b-bf25-5a5a-9dde-af9bd2894475",
+          "ingredient_id": "4bdb1684-cdb6-5a8f-b220-c622cf2655cc",
+          "name": "cornstarch",
+          "display_text": "1 tbs Cornstarch",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Add a small pinch of salt and sesame oil to minced beef. Mix well and set aside.",
+      "ingredients_used": [
+        "f3bf49f0-eafd-5d50-979f-c70cf6c84b16",
+        "bd64be0a-63d4-5e52-b558-8add3813f937"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Mix 1 tablespoon of cornstarch with 2 and ½ tablespoons of water in a small bowl to make water starch.",
+      "ingredients_used": [
+        "92d22e6b-4575-5338-b36c-8d4da2c31ae2",
+        "3ccfc4d7-2acd-59ee-b317-ad9f7275417f",
+        "3617532b-bf25-5a5a-9dde-af9bd2894475"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Cut tofu into square cubes (around 2cms). Bring a large amount of water to a boil and then add a pinch of salt. Slide the tofu in and cook for 1 minute. Move out and drain.",
+      "timer_seconds": 60,
+      "ingredients_used": [
+        "34c7a9c8-2b7c-5dfd-b660-e4d6f0ce85bb",
+        "bd64be0a-63d4-5e52-b558-8add3813f937",
+        "92d22e6b-4575-5338-b36c-8d4da2c31ae2",
+        "3ccfc4d7-2acd-59ee-b317-ad9f7275417f"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Get a wok and heat up around 2 tablespoons of oil, fry the minced meat until crispy. Transfer out beef out and leave the oil in.",
+      "ingredients_used": [
+        "f3bf49f0-eafd-5d50-979f-c70cf6c84b16"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Fry doubanjiang for 1 minute over slow fire and then add garlic, scallion white, ginger and fermented black beans to cook for 30 seconds until aroma. Then mix pepper flakes in.",
+      "ingredients_used": [
+        "4de80c89-4404-5cdc-8c12-e07aae6a52a6",
+        "65f46325-a889-5038-8c7a-278b2646060c",
+        "4606edd6-5568-5709-8de8-4f5d1f157c3e",
+        "cd9ed864-aedd-5eb4-b12e-c33470972e1d",
+        "d8f652dd-c244-52f3-bb5a-5275c1a6120b"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Add water to the seasonings and bring to boil over high fire. Gently slide the tofu cubes. Add light soy sauce and beef.Slow the heat after boiling and then simmer for 6-8 minutes. Then add chopped garlic greens.",
+      "timer_seconds": 480,
+      "ingredients_used": [
+        "34c7a9c8-2b7c-5dfd-b660-e4d6f0ce85bb",
+        "f3bf49f0-eafd-5d50-979f-c70cf6c84b16",
+        "2073c291-e991-50cc-b34b-45da39523ef8",
+        "92d22e6b-4575-5338-b36c-8d4da2c31ae2",
+        "cd9ed864-aedd-5eb4-b12e-c33470972e1d",
+        "3ccfc4d7-2acd-59ee-b317-ad9f7275417f"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Stir the water starch and then pour half of the mixture to the simmering pot. Wait for around 30 seconds and then pour the other half. You can slightly taste the tofu and add pinch of salt if not salty enough. By the way, if you feel it is too spicy, add some sugar can milder the taste. But be carefully as the broth is very hot at this point.",
+      "timer_seconds": 30,
+      "ingredients_used": [
+        "34c7a9c8-2b7c-5dfd-b660-e4d6f0ce85bb",
+        "bd64be0a-63d4-5e52-b558-8add3813f937",
+        "92d22e6b-4575-5338-b36c-8d4da2c31ae2",
+        "3ccfc4d7-2acd-59ee-b317-ad9f7275417f"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Transfer out when almost all the seasonings stick to tofu cubes. Sprinkle Szechuan peppercorn powder (to taste)and chopped garlic greens if using.",
+      "ingredients_used": [
+        "34c7a9c8-2b7c-5dfd-b660-e4d6f0ce85bb",
+        "cd9ed864-aedd-5eb4-b12e-c33470972e1d"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Serve immediately with steamed rice."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.chinasichuanfood.com/mapo-tofu-recipe/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

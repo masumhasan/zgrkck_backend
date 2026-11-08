@@ -1,0 +1,346 @@
+{
+  "id": "e4392262-5dda-5c3a-84a2-926d3d985815",
+  "version": "1.0.0",
+  "title": "Chicken Mandi",
+  "slug": "chicken-mandi",
+  "summary": "Chicken Mandi is a fragrant rice dish made with basmati rice, chicken, and a blend of warm spices like cardamom, cloves, and cinnamon.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:27:12Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53358"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/er4d081765186828.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/er4d081765186828.jpg/small",
+      "alt_text": "Photo of Chicken Mandi",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b2b4e1bc-3c1e-50ce-abf4-9015553e6a16",
+        "slug": "indian",
+        "name": "Indian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 45,
+    "marinating_time_minutes": 5,
+    "rest_time_minutes": 10,
+    "total_time_minutes": 90
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 portion of chicken and rice"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "0079420a-f2e1-5b96-af92-ad77ee2796d7",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "0bc834e9-83b8-5705-b285-e936757342a4",
+          "ingredient_id": "96643234-56e3-5df9-9877-487e63d7cb8b",
+          "name": "chicken",
+          "display_text": "1 Chicken",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "0cd45159-6b51-59b2-854a-34690aabbd5e",
+          "ingredient_id": "83ffb65f-48c4-5295-bd29-b97975a1fcb1",
+          "name": "basmati rice",
+          "display_text": "2 cups Basmati Rice",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "9560a809-5f8a-561e-b77e-d2e00354bb50",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "4 cups Water",
+          "quantity": 4.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 960.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "e442a7de-19a8-5871-b3fc-b2af248d2380",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 large Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "62b6b96f-4028-5b25-8b2a-c4e6f9445ad6",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "4 cloves Garlic",
+          "quantity": 4.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d6c58aa7-9737-5526-a43d-e7ff72b3a241",
+          "ingredient_id": "091f7fa6-975c-516e-a354-2a31e6503580",
+          "name": "green chilli",
+          "display_text": "2 Green Chilli",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f6636c15-da8c-56f6-a638-d0737a980c62",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 ½ tsp Salt",
+          "quantity": 1.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "3808eee3-1c6c-53d4-9c4f-90ecb4cc3002",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "3 tablespoons Oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "e7fd5ce3-30dd-5244-a977-b48f6406a6f2",
+          "ingredient_id": "d7052b8e-8c12-518d-a621-f6264b1fdd78",
+          "name": "turmeric powder",
+          "display_text": "1 tablespoon Turmeric Powder",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d4d54dbc-7b90-5c53-898e-5bb429b1911a",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "1 teaspoon Coriander",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "653e8429-adc4-52e9-a357-1d38f92fc824",
+          "ingredient_id": "d72c12ae-5cbc-534c-bbd5-bc044d844d0a",
+          "name": "cardamom",
+          "display_text": "½ tbsp Cardamom",
+          "quantity": 0.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "f8d167bb-2aca-5c97-acd4-3c9e78bf70e4",
+          "ingredient_id": "73063cfc-1094-5f58-87bf-49227197f2a2",
+          "name": "cloves",
+          "display_text": "¼ teaspoon Cloves",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3da5b2b6-070c-57bb-bf4d-e3dee48449e9",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "1/2 tsp Cinnamon",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3f0fb61c-03cc-54b8-aa2e-c32f3ad7c960",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "1 tsp Pepper",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "b4755fe6-4943-546b-bdfa-1081dfca2fe7",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "2 Bay Leaf",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Clean and cut the chicken; marinate briefly with salt, turmeric and a little oil.",
+      "ingredients_used": [
+        "0bc834e9-83b8-5705-b285-e936757342a4",
+        "f6636c15-da8c-56f6-a638-d0737a980c62",
+        "3808eee3-1c6c-53d4-9c4f-90ecb4cc3002"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Rinse and soak basmati rice 20–30 minutes.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "0cd45159-6b51-59b2-854a-34690aabbd5e"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "In a large pot, heat ghee/oil. Fry chopped onion until golden. Add minced garlic and green chillies and fry 1–2 min.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "e442a7de-19a8-5871-b3fc-b2af248d2380",
+        "62b6b96f-4028-5b25-8b2a-c4e6f9445ad6",
+        "d6c58aa7-9737-5526-a43d-e7ff72b3a241",
+        "3808eee3-1c6c-53d4-9c4f-90ecb4cc3002"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add whole spices (cardamom, cloves, cinnamon, bay leaves) and ground spices (coriander, cumin). Stir until fragrant.",
+      "ingredients_used": [
+        "d4d54dbc-7b90-5c53-898e-5bb429b1911a",
+        "653e8429-adc4-52e9-a357-1d38f92fc824",
+        "f8d167bb-2aca-5c97-acd4-3c9e78bf70e4",
+        "3da5b2b6-070c-57bb-bf4d-e3dee48449e9"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Add chicken pieces, brown lightly and add enough water/chicken stock to cover. Simmer until chicken is nearly cooked.",
+      "ingredients_used": [
+        "0bc834e9-83b8-5705-b285-e936757342a4",
+        "9560a809-5f8a-561e-b77e-d2e00354bb50"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Remove chicken; measure remaining liquid and add soaked rice. Bring to a boil, then reduce heat, cover and cook rice until almost done.",
+      "ingredients_used": [
+        "0bc834e9-83b8-5705-b285-e936757342a4",
+        "0cd45159-6b51-59b2-854a-34690aabbd5e"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Return the chicken to the rice pot on top, cover tightly and steam on low for 10–15 min so flavors meld.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "0bc834e9-83b8-5705-b285-e936757342a4",
+        "0cd45159-6b51-59b2-854a-34690aabbd5e"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "(Optional) For authentic smoky aroma: heat a small charcoal until red hot, place it on a small foil cup in the center of the pot, add a tsp of butter/oil on the coal then cover immediately to trap smoke for 5–10 minutes. Remove coal.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "3808eee3-1c6c-53d4-9c4f-90ecb4cc3002"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Garnish with fried onions, chopped coriander and serve with chutney or raita.",
+      "ingredients_used": [
+        "e442a7de-19a8-5871-b3fc-b2af248d2380",
+        "d4d54dbc-7b90-5c53-898e-5bb429b1911a"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

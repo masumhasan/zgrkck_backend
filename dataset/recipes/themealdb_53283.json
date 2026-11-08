@@ -1,0 +1,269 @@
+{
+  "id": "45532cad-1e1d-5cf6-a137-dab61d37df72",
+  "version": "1.0.0",
+  "title": "Chtitha Batata (Algerian Potato Stew)",
+  "slug": "chtitha-batata-algerian-potato-stew",
+  "summary": "A traditional Algerian potato stew flavored with a spicy garlic and cumin paste known as dersa.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:20:29Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53283"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/q8pu1k1764114334.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/q8pu1k1764114334.jpg/small",
+      "alt_text": "Photo of Chtitha Batata (Algerian Potato Stew)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=kpsZQTVVjdk"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "44067efa-6d33-5eeb-9836-eb49ba7b3e31",
+        "slug": "algerian",
+        "name": "Algerian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 44,
+    "total_time_minutes": 59
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a bowl of potatoes with sauce"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "e6afc0a4-359c-5f47-a543-5642e810dbd7",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "8b00e8fe-faf5-5ce6-8310-d24a1770ee49",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "4 cloves Garlic",
+          "quantity": 4.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3aea9747-dfcf-50c7-be70-d712b529cdd2",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "1 small Red Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0a3db3c0-b6e2-5932-8290-e59beeab2729",
+          "ingredient_id": "efa5be6a-3bc3-55ca-812f-22dd145ba53d",
+          "name": "ground cumin",
+          "display_text": "1 tsp Ground Cumin",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "209cf141-5a6c-5ec1-aa9d-e628f45ef46a",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1 teaspoon Paprika",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "8ed8617e-c861-5da1-93e4-6a18c6606dc0",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1/2 teaspoon Black Pepper",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "d8faf106-a68a-5592-91fc-bd5c6ea5c41d",
+          "ingredient_id": "97dd86b9-4ad7-5a3a-bc6c-86485409c325",
+          "name": "cayenne pepper",
+          "display_text": "1/2 teaspoon Cayenne Pepper",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "32bcc718-0004-5f62-94fa-86c46cae970e",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/2 teaspoon Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "9997d295-4fcc-5ebd-bfdd-30122cd0461c",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tablespoons Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "82c0a89f-6316-585e-9065-5085df8d3e9d",
+          "ingredient_id": "41049e61-611a-545b-8a7c-13e15a6e843b",
+          "name": "new potatoes",
+          "display_text": "2 Lbs New Potatoes",
+          "quantity": 2.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 907.2,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "8e557e71-98f4-5c52-9b31-af636af01c68",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "1 tablespoon Tomato Puree",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "63eeb6ea-cd46-50a5-8dbf-f11e2be0c119",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "Boiled Water",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "boiled",
+          "is_optional": false,
+          "category": "beverages"
+        },
+        {
+          "id": "cb09e056-6902-58ad-9df0-8c023237b82b",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Combine garlic, chile pepper, cumin, paprika, black pepper, cayenne, and salt in a mortar; grind with a pestle until it forms a paste. Add olive oil and mix dersa well.",
+      "ingredients_used": [
+        "8b00e8fe-faf5-5ce6-8310-d24a1770ee49",
+        "0a3db3c0-b6e2-5932-8290-e59beeab2729",
+        "209cf141-5a6c-5ec1-aa9d-e628f45ef46a",
+        "8ed8617e-c861-5da1-93e4-6a18c6606dc0",
+        "32bcc718-0004-5f62-94fa-86c46cae970e",
+        "9997d295-4fcc-5ebd-bfdd-30122cd0461c",
+        "cb09e056-6902-58ad-9df0-8c023237b82b"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat a large saucepan over medium heat and stir-fry dersa until fragrant, 2 to 4 minutes. Add potato halves and stir to combine with the dersa. Stir in tomato paste. Pour in enough water to just cover the potatoes and bring to a boil. Reduce heat and simmer until potatoes are tender, about 40 minutes.",
+      "ingredients_used": [
+        "82c0a89f-6316-585e-9065-5085df8d3e9d",
+        "63eeb6ea-cd46-50a5-8dbf-f11e2be0c119"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Ladle potatoes into a serving bowl. Spoon any remaining sauce over the potatoes.",
+      "ingredients_used": [
+        "82c0a89f-6316-585e-9065-5085df8d3e9d"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.allrecipes.com/recipe/265319/chtitha-batata-algerian-potato-stew/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

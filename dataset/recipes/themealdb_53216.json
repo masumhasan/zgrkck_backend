@@ -1,0 +1,310 @@
+{
+  "id": "2fb97f7a-4997-5de1-83e5-aada0a63c503",
+  "version": "1.0.0",
+  "title": "Knafeh",
+  "slug": "knafeh",
+  "summary": "Knafeh is a traditional Middle Eastern dessert consisting of shredded pastry soaked in sweet syrup and layered with cheese.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:14:33Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53216"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/76nffj1763593933.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/76nffj1763593933.jpg/small",
+      "alt_text": "Photo of Knafeh",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=3EF_R7__xu4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "dadedf2a-1088-576c-834c-66ae61df3c2a",
+        "slug": "saudi-arabian",
+        "name": "Saudi Arabian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 45
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "portions",
+    "serving_size_description": "1 slice of knafeh"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "e47bff0e-8fd2-53e8-9b25-92d0c972d91e",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "8a73bb3f-80af-5121-befa-2f553cee33dc",
+          "ingredient_id": "d89f514f-54dd-51cb-a026-fa6909e942a2",
+          "name": "knafeh",
+          "display_text": "400g Knafeh",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "26b52108-a459-5ef2-85e8-15eb8ac43440",
+          "ingredient_id": "bc46b2a6-8a59-50ee-a044-ce38bddb125c",
+          "name": "unsalted butter",
+          "display_text": "6 tablespoons Unsalted Butter",
+          "quantity": 6.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 90.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "dde6c1b6-ff35-5201-ae98-c76b04e3d09b",
+          "ingredient_id": "afea8057-aaac-5973-b870-2011afe3071e",
+          "name": "yellow food coloring",
+          "display_text": "1 pinch Yellow Food Coloring",
+          "quantity": 1.0,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "2efe87ee-e7b9-558b-a299-5de2be536588",
+          "ingredient_id": "e33b865f-f35f-5c67-b930-10dc0e6899f1",
+          "name": "mozzarella",
+          "display_text": "1 cup Mozzarella",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "02d64c20-6720-53fb-aae5-1522599b4f57",
+          "ingredient_id": "0523a624-2afe-5b39-a3e8-a4588a68c1c2",
+          "name": "cream cheese",
+          "display_text": "1/4 cup Cream Cheese",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "0e12efcb-d561-50e4-bb75-8f84e4129159",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "1 1/2 cup Milk",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "cdb7df06-e633-5c81-b683-9ed631672216",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "4 tablespoons Sugar",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "c29ee687-cb93-5072-b2e4-83df52407d34",
+          "ingredient_id": "94f73465-e9e4-5ae0-8787-ee86687dbeb4",
+          "name": "corn flour",
+          "display_text": "2 tablespoons Corn Flour",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "5d7049f5-ef58-5d5f-a8fd-6799b3f13ed3",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 cup Sugar",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "406916aa-9093-5e6e-952a-8184741641b7",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1 cup Water",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "259fc1cc-55d2-558e-b4ef-f3f844c196c3",
+          "ingredient_id": "d356faa1-a066-5da6-86f3-1f5a0f184ca1",
+          "name": "rose water",
+          "display_text": "1 tsp Rose water",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "820d12e1-9371-5e13-930b-4a193d3a8af7",
+          "ingredient_id": "4020879e-a0a5-58e2-b093-33c7e85c8a08",
+          "name": "lemon juice",
+          "display_text": "1/2 teaspoon Lemon Juice",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Take kanfhe in a bowl and roughly cut them. Pour melted butter, yellow food color and mix well with your hands.",
+      "ingredients_used": [
+        "26b52108-a459-5ef2-85e8-15eb8ac43440"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a separate bowl mix milk, cream cheese, sugar, cornstarch well.",
+      "ingredients_used": [
+        "02d64c20-6720-53fb-aae5-1522599b4f57",
+        "0e12efcb-d561-50e4-bb75-8f84e4129159",
+        "cdb7df06-e633-5c81-b683-9ed631672216",
+        "5d7049f5-ef58-5d5f-a8fd-6799b3f13ed3"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Turn on the flame and boil the liquid, when it gets thick turn off the flame let it cool down a little bit."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add mozzarella in it and mix it well.",
+      "ingredients_used": [
+        "2efe87ee-e7b9-558b-a299-5de2be536588"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Now make a base with half of the kanfhe in a dish, gently press it to level the dough well."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Pour the cheese mixture on the top and level it with a spoon."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Cover it with the other half of the kanfhe."
+    },
+    {
+      "step_number": 8,
+      "instruction": "Put the dish in a preheated oven at 200 degree for about 20-25 minutes.",
+      "timer_seconds": 1500
+    },
+    {
+      "step_number": 9,
+      "instruction": "It's ready when kunafa is golden and crunchy in the surface."
+    },
+    {
+      "step_number": 10,
+      "instruction": "Boil water in a pan and dissolve sugar in it for 4–5 minutes. OR cook it until slightly thicken and keep on stirring. Add lemon juice with rose water, mix well.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "cdb7df06-e633-5c81-b683-9ed631672216",
+        "5d7049f5-ef58-5d5f-a8fd-6799b3f13ed3",
+        "406916aa-9093-5e6e-952a-8184741641b7",
+        "259fc1cc-55d2-558e-b4ef-f3f844c196c3",
+        "820d12e1-9371-5e13-930b-4a193d3a8af7"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Evenly pour the syrup over the kunafa as soon as it comes out of the oven."
+    },
+    {
+      "step_number": 12,
+      "instruction": "Your kunafa is ready to serve."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://cookpad.com/eng/recipes/24934496?ref=search&search_term=saudi+arabia"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "id": "26d44c12-b859-56ab-a543-fa7d9d92b2e1",
+  "version": "1.0.0",
+  "title": "Sweet and Sour Chicken",
+  "slug": "sweet-and-sour-chicken",
+  "summary": "A Chinese-style dish featuring stir-fried chicken thighs in a tangy sauce made from pineapple juice, vinegar, and ketchup, combined with bell peppers and pineapple chunks.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:28:50Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53376"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/arzs741766434335.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/arzs741766434335.jpg/small",
+      "alt_text": "Photo of Sweet and Sour Chicken",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=cblsP5S9PhU"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6813a95e-62cf-55e7-9d4b-6f19ee1d7391",
+        "slug": "chinese",
+        "name": "Chinese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "marinating_time_minutes": 15,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of chicken with sauce and vegetables"
+  },
+  "allergens": {
+    "contains": [
+      "eggs"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "08f32644-aa17-5d7c-a31b-1f4bde540b9b",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "f2b348f4-d6e6-5423-b33a-30fdba8048e8",
+          "ingredient_id": "e0e4d032-0f9f-5908-ab90-db9a8ec5b68c",
+          "name": "chicken thighs",
+          "display_text": "1 lb Chicken Thighs",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "poultry"
+        },
+        {
+          "id": "6332e7f2-5c98-5fb5-b63b-f0c936a5eb2a",
+          "ingredient_id": "87c4a7ca-7b0e-5143-aea3-d01ad00e4108",
+          "name": "egg white",
+          "display_text": "1 large Egg White",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "718cf065-4b5d-5339-a305-e8f85606e4d0",
+          "ingredient_id": "f60d2962-95b1-5ff5-80ec-2e8902992bc9",
+          "name": "kosher salt",
+          "display_text": "1 tsp Kosher Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "fff8dfc0-5f8b-52fd-a722-06f0ebce53cb",
+          "ingredient_id": "4bdb1684-cdb6-5a8f-b220-c622cf2655cc",
+          "name": "cornstarch",
+          "display_text": "2 tsp Cornstarch",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "636ab935-6111-53e8-8fe4-38b5a9d5f9a0",
+          "ingredient_id": "be521ebe-e6e4-5412-a9c6-c1e26f6b7551",
+          "name": "pineapple chunks",
+          "display_text": "10 oz Pineapple Chunks",
+          "quantity": 10.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 283.5,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "414e990c-aa56-57cd-aa0f-c67ad2bbb8ad",
+          "ingredient_id": "0873baad-e55c-5e4a-a389-a7e3707a175d",
+          "name": "pineapple juice",
+          "display_text": "1/4 cup Pineapple Juice",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "cd865775-991e-5a1a-a5db-4c51a194853d",
+          "ingredient_id": "b7b7e394-7e0b-5e0b-8f4c-19d0888f8705",
+          "name": "white vinegar",
+          "display_text": "1/4 cup White Vinegar",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "aba333ba-f8b9-51f9-bb7c-b952538a7d3e",
+          "ingredient_id": "a4357aa8-235c-57af-b089-15c2effbb92c",
+          "name": "tomato ketchup",
+          "display_text": "1/4 cup Tomato Ketchup",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "b020201d-f75f-5405-b9a5-be825ea31e65",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "3  tablespoons Brown Sugar",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "1a15ce8c-5164-576e-beba-402343cd8b6f",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "4 tsp Oil",
+          "quantity": 4.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 20.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "2734bbdb-3994-5d5b-9ae1-0a86379757f4",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1 chopped Red Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "68de56d5-c084-5bd2-8578-010deeee4216",
+          "ingredient_id": "ca16fa3e-7db9-5c18-acf7-0540f4e86a4d",
+          "name": "yellow pepper",
+          "display_text": "1 chopped Yellow Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2d29f92f-eef2-5926-a039-9330ea33abce",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "1 tsp Ginger",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Coat the chicken with egg white:",
+      "ingredients_used": [
+        "6332e7f2-5c98-5fb5-b63b-f0c936a5eb2a"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a bowl, combine the chicken with the egg white, 1/2 teaspoon kosher salt, and cornstarch. Stir to coat the chicken evenly. Let sit for 15 minutes at room temperature or up to overnight in the refrigerator.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "6332e7f2-5c98-5fb5-b63b-f0c936a5eb2a",
+        "718cf065-4b5d-5339-a305-e8f85606e4d0",
+        "fff8dfc0-5f8b-52fd-a722-06f0ebce53cb"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Make the sweet and sour sauce:"
+    },
+    {
+      "step_number": 4,
+      "instruction": "Whisk together the pineapple juice, vinegar, ketchup, 1/2 teaspoon kosher salt, and brown sugar.",
+      "ingredients_used": [
+        "718cf065-4b5d-5339-a305-e8f85606e4d0",
+        "414e990c-aa56-57cd-aa0f-c67ad2bbb8ad",
+        "aba333ba-f8b9-51f9-bb7c-b952538a7d3e",
+        "b020201d-f75f-5405-b9a5-be825ea31e65"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Stir-fry the chicken over high heat:"
+    },
+    {
+      "step_number": 6,
+      "instruction": "Heat a large frying pan or wok over high heat until a bead of water instantly sizzles and evaporates. Pour in 1 tablespoon of cooking oil and swirl to coat. It's important that the pan is very hot.",
+      "ingredients_used": [
+        "1a15ce8c-5164-576e-beba-402343cd8b6f"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Add the chicken and spread the pieces out in one layer. Let the chicken fry untouched for 1 minute, until the bottoms are browned.",
+      "timer_seconds": 60
+    },
+    {
+      "step_number": 8,
+      "instruction": "Flip and fry the other side for 1 minute. The chicken should still be pinkish in the middle. Dish out the chicken onto a clean plate, leaving as much oil in the pan as possible.",
+      "timer_seconds": 60,
+      "ingredients_used": [
+        "1a15ce8c-5164-576e-beba-402343cd8b6f"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Stir-fry the bell pepper and ginger:",
+      "ingredients_used": [
+        "2d29f92f-eef2-5926-a039-9330ea33abce"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "Reduce the heat to medium and add the remaining 1 teaspoon of cooking oil. Let the oil heat up before adding the bell pepper chunks and ginger. Fry for 1 minute.",
+      "timer_seconds": 60,
+      "ingredients_used": [
+        "636ab935-6111-53e8-8fe4-38b5a9d5f9a0",
+        "1a15ce8c-5164-576e-beba-402343cd8b6f",
+        "2d29f92f-eef2-5926-a039-9330ea33abce"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Add the pineapple, sauce, and then, the chicken:"
+    },
+    {
+      "step_number": 12,
+      "instruction": "Add the pineapple chunks and the sweet and sour sauce. Turn up the heat to high. When the sauce is simmering, add the chicken pieces back in.",
+      "ingredients_used": [
+        "636ab935-6111-53e8-8fe4-38b5a9d5f9a0"
+      ]
+    },
+    {
+      "step_number": 13,
+      "instruction": "Let simmer for 1 to 2 minutes, until the chicken is cooked through. Timing depends on how thick you've cut your chicken. The best way to tell if the chicken is done is to take a piece out and cut into it. If it's pink, add another minute to the cooking.",
+      "timer_seconds": 120
+    },
+    {
+      "step_number": 14,
+      "instruction": "Adjust the seasoning and serve:"
+    },
+    {
+      "step_number": 15,
+      "instruction": "Taste the sauce and add more brown sugar or vinegar to suit your tastes, if you’d like.",
+      "ingredients_used": [
+        "b020201d-f75f-5405-b9a5-be825ea31e65"
+      ]
+    },
+    {
+      "step_number": 16,
+      "instruction": "Serve hot with steamed white or brown rice.",
+      "ingredients_used": [
+        "6332e7f2-5c98-5fb5-b63b-f0c936a5eb2a"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.simplyrecipes.com/recipes/sweet_and_sour_chicken/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

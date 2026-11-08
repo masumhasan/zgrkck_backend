@@ -1,0 +1,281 @@
+{
+  "id": "bb93608c-0f82-517b-887f-6ee0b4c61877",
+  "version": "1.0.0",
+  "title": "Pierogi (Polish Dumplings)",
+  "slug": "pierogi-polish-dumplings",
+  "summary": "Pierogi are traditional Polish dumplings filled with savory ingredients like sauerkraut and potatoes. The dough is boiled and often served with sour cream.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:57:27Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53019"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/45xxr21593348847.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/45xxr21593348847.jpg/small",
+      "alt_text": "Photo of Pierogi (Polish Dumplings)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=lyqDmUroZrI"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d40b0607-0a3a-5f5d-8012-7eaf1b714fa5",
+        "slug": "polish",
+        "name": "Polish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "side_dish",
+      "main_course"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 55
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of pierogi"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "1f12aa8d-454d-52e5-ba61-c848889568fb",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "90e5381d-b546-57e6-8676-ddb97525f7fd",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "2 tbs Butter",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "60509a7d-bf9f-5d63-a6fb-0a6b5247bc87",
+          "ingredient_id": "41097fa9-3c91-5f11-a65d-ff127beff926",
+          "name": "chopped onion",
+          "display_text": "1/3 cup Chopped Onion",
+          "quantity": 0.3333,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 80.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "bce0b259-384d-597a-9e23-62cb14fe7704",
+          "ingredient_id": "3f420211-9c78-59f6-bedc-67dae51f7566",
+          "name": "sauerkraut",
+          "display_text": "1 1/2 cups Sauerkraut",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "193bea4f-5bc0-563a-826a-92ee2e0e0498",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "3 tbs Butter",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "cd026e2e-cf14-5ba2-bfa9-4f8cccc73266",
+          "ingredient_id": "41097fa9-3c91-5f11-a65d-ff127beff926",
+          "name": "chopped onion",
+          "display_text": "1/2 cup Chopped Onion",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "be79ccf2-343a-5782-97ab-cde641d8c6a1",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "2 cups Potatoes",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "504d94af-9f6c-5a1f-99ba-3eda468eb969",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "3 Eggs",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "24751ee2-6460-5536-aa38-ace0f483c5e9",
+          "ingredient_id": "6ca777b1-4e80-5a4b-8ffe-88c954e2cc8a",
+          "name": "sour cream",
+          "display_text": "1 pot Sour Cream",
+          "quantity": 1.0,
+          "unit": "pot",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "d328245f-8be6-521b-b49d-3560fd65c791",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "3 cups Flour",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "fb889bab-e49b-5cf5-907d-88ec04983267",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/4 tsp Salt",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "afec6d7c-c97e-57d0-ad41-eed951d644c8",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 tbs Baking Powder",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "To prepare the sauerkraut filling, melt the butter in a skillet over medium heat. Stir in the onion, and cook until translucent, about 5 minutes. Add the drained sauerkraut and cook for an additional 5 minutes. Season to taste with salt and pepper, then remove to a plate to cool.",
+      "ingredients_used": [
+        "90e5381d-b546-57e6-8676-ddb97525f7fd",
+        "60509a7d-bf9f-5d63-a6fb-0a6b5247bc87",
+        "bce0b259-384d-597a-9e23-62cb14fe7704",
+        "193bea4f-5bc0-563a-826a-92ee2e0e0498",
+        "cd026e2e-cf14-5ba2-bfa9-4f8cccc73266",
+        "fb889bab-e49b-5cf5-907d-88ec04983267"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "For the mashed potato filling, melt the butter in a skillet over medium heat. Stir in the onion, and cook until translucent, about 5 minutes. Stir into the mashed potatoes, and season with salt and white pepper.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "90e5381d-b546-57e6-8676-ddb97525f7fd",
+        "60509a7d-bf9f-5d63-a6fb-0a6b5247bc87",
+        "193bea4f-5bc0-563a-826a-92ee2e0e0498",
+        "cd026e2e-cf14-5ba2-bfa9-4f8cccc73266",
+        "be79ccf2-343a-5782-97ab-cde641d8c6a1",
+        "fb889bab-e49b-5cf5-907d-88ec04983267"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "To make the dough, beat together the eggs and sour cream until smooth. Sift together the flour, salt, and baking powder; stir into the sour cream mixture until dough comes together. Knead the dough on a lightly floured surface until firm and smooth. Divide the dough in half, then roll out one half to 1/8 inch thickness. Cut into 3 inch rounds using a biscuit cutter.",
+      "ingredients_used": [
+        "504d94af-9f6c-5a1f-99ba-3eda468eb969",
+        "24751ee2-6460-5536-aa38-ace0f483c5e9",
+        "d328245f-8be6-521b-b49d-3560fd65c791",
+        "fb889bab-e49b-5cf5-907d-88ec04983267",
+        "afec6d7c-c97e-57d0-ad41-eed951d644c8"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Place a small spoonful of the mashed potato filling into the center of each round. Moisten the edges with water, fold over, and press together with a fork to seal. Repeat procedure with the remaining dough and the sauerkraut filling.",
+      "ingredients_used": [
+        "bce0b259-384d-597a-9e23-62cb14fe7704"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Bring a large pot of lightly salted water to a boil. Add perogies and cook for 3 to 5 minutes or until pierogi float to the top. Remove with a slotted spoon.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "fb889bab-e49b-5cf5-907d-88ec04983267"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.allrecipes.com/recipe/109914/pierogi-polish-dumplings/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

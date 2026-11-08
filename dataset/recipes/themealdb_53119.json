@@ -1,0 +1,307 @@
+{
+  "id": "a1873d29-fde0-561d-aa7f-078312c7db06",
+  "version": "1.0.0",
+  "title": "Tall Skoleboller",
+  "slug": "tall-skoleboller",
+  "summary": "Tall Skoleboller are traditional Norwegian cardamom-spiced buns typically filled with custard and topped with coconut.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:05:56Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53119"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/xihiu41762773169.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/xihiu41762773169.jpg/small",
+      "alt_text": "Photo of Tall Skoleboller",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=3LvxDuZuPkU"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "56e78dbc-276d-5104-bca5-2bb213b93a49",
+        "slug": "norwegian",
+        "name": "Norwegian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "afternoon_snack"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 15,
+    "rest_time_minutes": 60,
+    "total_time_minutes": 95
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "bowls"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "70f5291a-e68d-5c04-be42-57dcea9b8548",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "befaf5b1-a1b6-5d31-88c3-a5d3c6b5ba89",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "1 cup Milk",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "1c6e9838-0aaa-5112-a910-7ce564c84219",
+          "ingredient_id": "bcf92c24-98f5-5008-9313-143efe51268b",
+          "name": "instant yeast",
+          "display_text": "3 tsp Instant Yeast",
+          "quantity": 3.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "b3ea83bb-2c9c-5607-97aa-2f1f637ea6d7",
+          "ingredient_id": "585e8c07-6f6b-5618-a220-3f1795eaa043",
+          "name": "granulated sugar",
+          "display_text": "1-⅓ cups Granulated Sugar",
+          "quantity": 1.3333,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 320.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "c3404001-34df-5b92-b802-83b6faecb359",
+          "ingredient_id": "d72c12ae-5cbc-534c-bbd5-bc044d844d0a",
+          "name": "cardamom",
+          "display_text": "1 tsp Cardamom",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d426e0e8-0216-5776-906b-1a9511008bc1",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1 teaspoon Vanilla Extract",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "079a4975-65d4-587f-9d72-3a4c53fa0d12",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "2 1/4 cups Flour",
+          "quantity": 2.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 540.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "c903b537-3b72-58f4-85e8-e941915b6d9c",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "5 tblsp Butter",
+          "quantity": 5.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "d0cc4eda-457b-5dd8-9e58-9b24973047df",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "1 1/4 cup Milk",
+          "quantity": 1.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "cf465f1e-7898-5cc7-a474-9b7ad6ce1f46",
+          "ingredient_id": "585e8c07-6f6b-5618-a220-3f1795eaa043",
+          "name": "granulated sugar",
+          "display_text": "1-⅓ cups Granulated Sugar",
+          "quantity": 1.3333,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 320.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "0b2d5906-2f9e-5da3-9996-f580ec976960",
+          "ingredient_id": "051a3118-01a4-5366-a922-19ecf618e2f9",
+          "name": "egg yolks",
+          "display_text": "3 Egg Yolks",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "e550aed4-83aa-5734-9e5b-6b82b3f224f1",
+          "ingredient_id": "4bdb1684-cdb6-5a8f-b220-c622cf2655cc",
+          "name": "cornstarch",
+          "display_text": "2 tblsp Cornstarch",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "21001f40-eb93-5ce7-a946-5bc0d5ece213",
+          "ingredient_id": "e649c677-18b1-5099-b2de-36904e7ffe2b",
+          "name": "vanilla pod",
+          "display_text": "1 vanilla pod",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "403ca149-6c87-5ad1-a640-448e269caf91",
+          "ingredient_id": "c644e242-4958-5575-8256-69e88b283feb",
+          "name": "powdered sugar",
+          "display_text": "2 cups Powdered Sugar",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "99efe108-4740-577f-98a6-9a9f0eddf1c5",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "3  tablespoons Water",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "386175de-1a9a-52fa-8177-79baab904635",
+          "ingredient_id": "d2c9b81e-cccd-5447-a0b7-21d76064362c",
+          "name": "shredded coconut",
+          "display_text": "1 cup Shredded Coconut",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the milk until it's lukewarm. Add the yeast and dissolve.",
+      "ingredients_used": [
+        "befaf5b1-a1b6-5d31-88c3-a5d3c6b5ba89",
+        "1c6e9838-0aaa-5112-a910-7ce564c84219",
+        "d0cc4eda-457b-5dd8-9e58-9b24973047df"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the sugar, cardamom, vanilla, and about 2/3 of the flour.",
+      "ingredients_used": [
+        "c3404001-34df-5b92-b802-83b6faecb359",
+        "079a4975-65d4-587f-9d72-3a4c53fa0d12"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Mix the dough together either by hand or in a mixer with a dough hook, slowly adding the rest of the flour. You might need a bit more or less flour to form dough that isn't too sticky to knead. When the dough forms a nice ball, add the softened butter and continue to knead the dough for about ten minutes.",
+      "ingredients_used": [
+        "079a4975-65d4-587f-9d72-3a4c53fa0d12",
+        "c903b537-3b72-58f4-85e8-e941915b6d9c"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Roll the dough into a cylinder and cut into six equal parts. Roll each piece into a round bun and set them in a greased muffin/cake tin. Cover and let rise until doubled in size (about an hour)."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://scandinaviancookbook.com/skoleboller-school-buns-from-lille-betong/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

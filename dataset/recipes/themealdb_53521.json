@@ -1,0 +1,222 @@
+{
+  "id": "befb32a9-9669-5872-9cb8-9e02dc533f82",
+  "version": "1.0.0",
+  "title": "Porotos Granados (Chilean Bean Stew)",
+  "slug": "porotos-granados-chilean-bean-stew",
+  "summary": "A traditional Chilean stew made with white beans, butternut squash, corn, and chicken stock.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:41:32Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53521"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/nimml81782855200.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/nimml81782855200.jpg/small",
+      "alt_text": "Photo of Porotos Granados (Chilean Bean Stew)",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "2681863c-dfb1-5347-8330-bcdf36e53ac6",
+        "slug": "chilean",
+        "name": "Chilean"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 60,
+    "total_time_minutes": 75
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of stew"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "3b739659-1135-5985-9a3d-76bd2df5c37e",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "3772b3ad-b4d0-5214-9425-99a6877eb839",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 tablespoon Olive Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "8914d9f4-b3b7-5482-ab72-75987715e2c5",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "bd7b047f-06ca-5f81-8bac-4feffb833d67",
+          "ingredient_id": "f2a5d81b-c148-52d1-96a6-c8d33709dafc",
+          "name": "butternut squash",
+          "display_text": "2 cups Butternut Squash",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "f8b46646-cbf3-5afa-9b2e-158b2f95b857",
+          "ingredient_id": "0647604e-5eb6-50eb-b4af-ff2dd09f447e",
+          "name": "great northern beans",
+          "display_text": "1 Can Great Northern Beans",
+          "quantity": 1.0,
+          "unit": "can",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "8931219e-6b14-5f0a-bbcb-000a7fc8102e",
+          "ingredient_id": "a72452ac-df83-5567-bff3-dcb667996ced",
+          "name": "lima beans",
+          "display_text": "1 cup Lima Beans",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "bfe76fcb-3a81-567d-b736-060c58d0b1f3",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "3 Cups Chicken Stock",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "627f32f8-6564-503a-a7df-5b7385b65240",
+          "ingredient_id": "92714bc1-780e-51dd-976e-bfbc04bc95a8",
+          "name": "sweetcorn",
+          "display_text": "2 cups Sweetcorn",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "93b7829d-282d-5899-9e19-392ad4cec862",
+          "ingredient_id": "fc6a825e-e02a-589c-91d6-b4e76ccc6354",
+          "name": "basil",
+          "display_text": "2 tbs chopped Basil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "4b55eb4f-187b-57fa-9474-fb2c9f2a7f36",
+          "ingredient_id": "b24ce47a-3e1a-5650-8440-9c72b85d28a4",
+          "name": "banana pepper",
+          "display_text": "1 Banana Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the olive oil in a stock pot over medium heat; add the onion and cover. Cook the onions until soft and translucent, about 5 minutes. Stir the squash, great Northern beans, and lima beans into the pot; pour the chicken stock over the mixture. Cover and cook until the squash is tender and beginning to break apart, 30 to 45 minutes.",
+      "ingredients_used": [
+        "3772b3ad-b4d0-5214-9425-99a6877eb839",
+        "8914d9f4-b3b7-5482-ab72-75987715e2c5",
+        "bd7b047f-06ca-5f81-8bac-4feffb833d67",
+        "f8b46646-cbf3-5afa-9b2e-158b2f95b857",
+        "8931219e-6b14-5f0a-bbcb-000a7fc8102e",
+        "bfe76fcb-3a81-567d-b736-060c58d0b1f3"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Stir the corn and basil into the stew; cook until the stew reaches the consistency of pancake batter, about 10 minutes more. Sprinkle the chopped banana pepper over individual portions to serve.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "93b7829d-282d-5899-9e19-392ad4cec862",
+        "4b55eb4f-187b-57fa-9474-fb2c9f2a7f36"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.allrecipes.com/recipe/188282/porotos-granados-chilean-bean-stew/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

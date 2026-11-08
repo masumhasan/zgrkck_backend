@@ -1,0 +1,174 @@
+{
+  "id": "516c0d3d-c2a7-5fbd-bee4-f1e3d2999638",
+  "version": "1.0.0",
+  "title": "Bean & Sausage Hotpot",
+  "slug": "bean-sausage-hotpot",
+  "summary": "A hearty British casserole featuring sausages simmered in a tomato-based sauce with butter beans, black treacle, and English mustard.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:42:50Z",
+  "updated_at": "2026-10-16T10:22:48Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52848"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/vxuyrx1511302687.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/vxuyrx1511302687.jpg/small",
+      "alt_text": "Photo of Bean & Sausage Hotpot",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=B0YX0yPX4Wo"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 0,
+    "cook_time_minutes": 40,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 portion of sausages and beans"
+  },
+  "allergens": {
+    "contains": [
+      "mustard"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame"
+    ],
+    "may_contain": [
+      "gluten",
+      "celery",
+      "sulfites"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "8947e487-e79e-5f69-abe7-4cce77a2e736",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "1880f3c7-8a69-5fbd-9b40-75bf5f67884f",
+          "ingredient_id": "0e53b5a4-2ff0-53fb-a8ef-b53dca6ce663",
+          "name": "sausages",
+          "display_text": "8 large Sausages",
+          "quantity": 8.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "5881e661-5a52-56a4-bccd-c21d025d2fa5",
+          "ingredient_id": "90e5122f-4f82-5545-8a35-7a3d959514b3",
+          "name": "tomato sauce",
+          "display_text": "1 Jar Tomato Sauce",
+          "quantity": 1.0,
+          "unit": "jar",
+          "is_optional": false,
+          "category": "condiments"
+        },
+        {
+          "id": "9dafd7d2-153e-5a99-a37b-5e9f58e9e29d",
+          "ingredient_id": "9a828326-2a9a-5eaa-afb5-f6508a5d14e1",
+          "name": "butter beans",
+          "display_text": "1200g Butter Beans",
+          "quantity": 1200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 1200.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "0d5f247e-f66c-57c3-a00b-a38944294524",
+          "ingredient_id": "27f76ed8-4a3b-5f26-906f-191a409613dc",
+          "name": "black treacle",
+          "display_text": "1 tbls Black Treacle",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "eef6bb3a-eea7-5ef4-8053-a55eeb0dd86e",
+          "ingredient_id": "3442e73c-2c01-58d5-ad72-6d20eeddcc9a",
+          "name": "english mustard",
+          "display_text": "1 tsp English Mustard",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "In a large casserole, fry the sausages until brown all over – about 10 mins.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "1880f3c7-8a69-5fbd-9b40-75bf5f67884f"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the tomato sauce, stirring well, then stir in the beans, treacle or sugar and mustard. Bring to the simmer, cover and cook for 30 mins. Great served with crusty bread or rice.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "5881e661-5a52-56a4-bccd-c21d025d2fa5",
+        "9dafd7d2-153e-5a99-a37b-5e9f58e9e29d",
+        "0d5f247e-f66c-57c3-a00b-a38944294524",
+        "eef6bb3a-eea7-5ef4-8053-a55eeb0dd86e"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/339607/bean-and-sausage-hotpot"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

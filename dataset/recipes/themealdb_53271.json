@@ -1,0 +1,241 @@
+{
+  "id": "8d098d59-4675-5f4d-9a1c-54ad320ff3e0",
+  "version": "1.0.0",
+  "title": "Walnut, date & honey cake",
+  "slug": "walnut-date-honey-cake",
+  "summary": "A Turkish-inspired loaf cake made with mashed bananas, chopped dates, and walnuts, sweetened with honey and muscovado sugar.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:19:25Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53271"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/towo9c1763814590.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/towo9c1763814590.jpg/small",
+      "alt_text": "Photo of Walnut, date & honey cake",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ivR-YRcQk08"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4c480df7-c067-5e9c-ac08-d8d49afa7f51",
+        "slug": "turkish",
+        "name": "Turkish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 60,
+    "rest_time_minutes": 15,
+    "total_time_minutes": 90
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "servings",
+    "serving_size_description": "1 thick slice"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "tree_nuts",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "7ccbd3c5-8efb-547d-b61d-82088dcf39ff",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "6f95b3c9-f2d2-5c1a-bed0-b020f1c22ba6",
+          "ingredient_id": "d923f6bd-1129-51bf-ba9e-32b3305fa65e",
+          "name": "self-raising flour",
+          "display_text": "225g Self-raising Flour",
+          "quantity": 225.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 225.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "a4c99335-14a6-51f0-a2df-60137f4615eb",
+          "ingredient_id": "7af3c207-3c37-5965-a096-bf34ac1db1f4",
+          "name": "ground cinnamon",
+          "display_text": "1/2 teaspoon Ground Cinnamon",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "31719991-86ff-5e90-b465-488964afca43",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "175g Butter",
+          "quantity": 175.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 175.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "66646631-3113-59cc-b212-5127c25578a9",
+          "ingredient_id": "74d4f663-2935-561e-b6ec-45f204542152",
+          "name": "muscovado sugar",
+          "display_text": "100g Muscovado Sugar",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "51c593eb-6ec1-5ffa-bbd2-986f63747798",
+          "ingredient_id": "590d0a0c-0a81-5fad-964b-7ade1eb4020d",
+          "name": "clear honey",
+          "display_text": "3  tablespoons Clear Honey",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "91ada5c4-6480-5355-a809-627913859c1b",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "2 Beaten Egg",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "beaten",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "2c086909-ff94-5988-90ab-dcdf3fd857c9",
+          "ingredient_id": "1c08a43f-9a80-5096-bd85-45ff68c9069c",
+          "name": "banana",
+          "display_text": "2 medium Banana",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b3f38fc1-29cf-545f-95ed-28eadfa9ca12",
+          "ingredient_id": "554c288f-4d7e-5363-a123-b8e27cae61ef",
+          "name": "stoned dates",
+          "display_text": "100g Stoned Dates",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "211f8995-d17a-5422-8561-0f65540c0e13",
+          "ingredient_id": "0ad40f09-76c2-5007-b9ca-38f3ecd4a51d",
+          "name": "walnuts",
+          "display_text": "50g Walnuts",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat the oven to 160C/Gas 3/fan oven 140C. Line the base and long sides of a 900g/2lb loaf tin with greaseproof paper, buttering the tin and paper.",
+      "temperature": {
+        "value": 160,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "31719991-86ff-5e90-b465-488964afca43"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Tip the flour, cinnamon, butter, sugar, 2 tablespoons of the honey and the eggs into a large mixing bowl. Mash the bananas and chop the dates (kitchen scissors are easiest for this) and add to the bowl. Beat the mixture for 2-3 minutes, using a wooden spoon or hand-held mixer, until well blended.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "a4c99335-14a6-51f0-a2df-60137f4615eb",
+        "31719991-86ff-5e90-b465-488964afca43",
+        "51c593eb-6ec1-5ffa-bbd2-986f63747798",
+        "2c086909-ff94-5988-90ab-dcdf3fd857c9",
+        "b3f38fc1-29cf-545f-95ed-28eadfa9ca12"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Spoon into the prepared tin and level the top. Scatter the walnut pieces over. Bake for 1 hour, then lightly press the top – it will feel firm if cooked. If not, bake for a further 10 minutes."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Cool for 15 minutes, then lift out of the tin using the paper. When cold, drizzle the remaining honey over. Cut into thick slices.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "51c593eb-6ec1-5ffa-bbd2-986f63747798"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/walnut-date-honey-cake"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

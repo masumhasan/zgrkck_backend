@@ -1,0 +1,259 @@
+{
+  "id": "22c667b0-d358-52ed-ae75-0d17b4a338c7",
+  "version": "1.0.0",
+  "title": "Patatas bravas",
+  "slug": "patatas-bravas",
+  "summary": "A classic Spanish tapas dish consisting of crispy roasted potato chunks topped with a savory, spiced tomato sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:10:32Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53172"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/bvg8sn1763298713.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/bvg8sn1763298713.jpg/small",
+      "alt_text": "Photo of Patatas bravas",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=2Hup2nypG2w"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "appetizer",
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "thanksgiving",
+      "party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 65,
+    "total_time_minutes": 80
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a bowl of potatoes with sauce"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "798fedfe-e950-5006-b6cd-768d10f19ad1",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "12d8f1a8-13b4-5393-9c56-c973ea393e2d",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "3  tablespoons Olive Oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "5a329b8c-b302-52cb-91ed-e2744621a35c",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 small finely diced Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "small finely diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e5bb42de-ab89-52e4-a3a0-cde511a68dde",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves chopped Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0a01667c-2e63-5cf8-87de-c01b3cd6399f",
+          "ingredient_id": "5cf11297-0a5b-55fb-85b2-ff239b80e4f4",
+          "name": "tinned tomatos",
+          "display_text": "225g Tinned Tomatos",
+          "quantity": 225.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 225.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "d04c5533-495e-5005-927c-163ba0bb09ae",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "1 tablespoon Tomato Puree",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "bbca4f37-f28e-5a1b-9ee8-ebe55282ce9d",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "2 teaspoon Paprika",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "0fead4cb-7e73-5b97-8fb9-2cec55014c0c",
+          "ingredient_id": "6fab3ead-b910-5c38-a787-4d74e606a7e1",
+          "name": "chilli powder",
+          "display_text": "Pinch Chilli Powder",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e8dddc07-fa2d-5a23-a5c8-303122e83834",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "Pinch Sugar",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "sweeteners"
+        },
+        {
+          "id": "2620ffef-4d07-5139-8a7e-7e07d72afc79",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Chopped Parsley",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "45471402-b724-5f3f-88a6-a7cd9a839dae",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "900g Potatoes",
+          "quantity": 900.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 900.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "7271a0da-0e47-5746-8060-cc04a2728e4c",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tbsp Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oil in a pan and fry the onion for about 5 mins until softened. Add the garlic, chopped tomatoes, tomato purée, sweet paprika, chilli powder, sugar and a pinch of salt, then bring to the boil, stirring occasionally. Lower to a simmer and cook for 10 mins until pulpy. Can be kept chilled for up to 24 hrs.",
+      "ingredients_used": [
+        "5a329b8c-b302-52cb-91ed-e2744621a35c",
+        "e5bb42de-ab89-52e4-a3a0-cde511a68dde",
+        "bbca4f37-f28e-5a1b-9ee8-ebe55282ce9d",
+        "0fead4cb-7e73-5b97-8fb9-2cec55014c0c",
+        "e8dddc07-fa2d-5a23-a5c8-303122e83834"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat oven to 200C/180C fan/gas 6. Pat the potatoes dry with kitchen paper, then tip into a roasting tin and toss in the olive oil and some seasoning. Roast for 40-50 mins until crisp and golden. Tip the potatoes into serving dishes and spoon over the tomato sauce. Sprinkle with some fresh parsley to serve.",
+      "timer_seconds": 3000,
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "12d8f1a8-13b4-5393-9c56-c973ea393e2d",
+        "2620ffef-4d07-5139-8a7e-7e07d72afc79",
+        "45471402-b724-5f3f-88a6-a7cd9a839dae",
+        "7271a0da-0e47-5746-8060-cc04a2728e4c"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/patatas-bravas-0"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

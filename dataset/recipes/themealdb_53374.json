@@ -1,0 +1,373 @@
+{
+  "id": "05d82859-6ee1-5ed3-9708-26b41cf9e659",
+  "version": "1.0.0",
+  "title": "Sichuan Eggplant",
+  "slug": "sichuan-eggplant",
+  "summary": "A classic Sichuan dish featuring tender eggplant sautéed with spicy chili bean paste, aromatics, and Sichuan peppercorns for a signature numbing sensation.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:28:34Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53374"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/1oz4nb1765687990.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/1oz4nb1765687990.jpg/small",
+      "alt_text": "Photo of Sichuan Eggplant",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=j54Af9gBmzo"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6813a95e-62cf-55e7-9d4b-6f19ee1d7391",
+        "slug": "chinese",
+        "name": "Chinese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 25
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of eggplant"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "peanuts",
+      "soy"
+    ],
+    "free_from": [
+      "dairy",
+      "tree_nuts",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "65621fcf-acaf-5b38-b78d-0f097ce332aa",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "68b02db1-a61e-547a-ba3d-ba975ae16576",
+          "ingredient_id": "08b505fe-2af9-5025-98f3-845df35333e6",
+          "name": "egg plants",
+          "display_text": "1.5 pounds sliced Egg Plants",
+          "quantity": 1.5,
+          "unit": "pound",
+          "preparation": "sliced",
+          "is_optional": false,
+          "metric_quantity": 680.4,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "a58e80f5-972b-528d-8fdc-a9927dde16a5",
+          "ingredient_id": "fcf01683-f48b-5ffc-bf64-b06f7405707c",
+          "name": "peanut oil",
+          "display_text": "2 tablespoons Peanut Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "7848fd0a-6e5f-5f6b-92e0-fa2eaa20c931",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "1/4 cup Chicken Stock",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "4883be85-0ee1-538c-9bce-04044df72347",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "2 tsp Sugar",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "f724bf6f-1153-5ddf-9cf9-e7f2ff4eee1e",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "1/2 tsp Soy Sauce",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "a7d7a894-ac62-53ea-ad58-8c58d5d12000",
+          "ingredient_id": "7c106984-26f2-59f2-9d80-9a697fa57918",
+          "name": "chilli bean paste",
+          "display_text": "1 ½ tbsp Chilli Bean Paste",
+          "quantity": 1.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 22.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "26de9dda-af18-5488-b69d-f57c30b91172",
+          "ingredient_id": "6c586470-2f1d-542b-90db-99f3ac836a31",
+          "name": "sichuan pepper",
+          "display_text": "2 tsp Sichuan Pepper",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "7e03fb8f-ad46-5d2d-9441-591814c8d62d",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "2 tsp Ginger",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "6c12a339-683b-5653-9552-b1e10c050553",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "5 cloves Garlic",
+          "quantity": 5.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "dd1435a0-f330-5a09-bb1c-093cd8cd27ea",
+          "ingredient_id": "4bdb1684-cdb6-5a8f-b220-c622cf2655cc",
+          "name": "cornstarch",
+          "display_text": "1 tsp Cornstarch",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "4e6d2867-5b58-56f1-b869-a40fc6b593a3",
+          "ingredient_id": "211a37f0-70a1-58ab-8de9-d0d3b232bc64",
+          "name": "apple cider vinegar",
+          "display_text": "2 tsp Apple Cider Vinegar",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "e7e140d4-2f1c-5f08-9f79-a764ec77a8a6",
+          "ingredient_id": "24cbab0a-29d3-5e28-b361-77f90e93af9c",
+          "name": "scallions",
+          "display_text": "4 Chopped Scallions",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "76a56283-76cc-5e8c-a722-bfa914383530",
+          "ingredient_id": "1655ccbe-97a7-59b3-9245-ebc95a0ed6d0",
+          "name": "cilantro",
+          "display_text": "Garnish Cilantro",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "garnish",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "This recipe calls for asian eggplants, or Japanese eggplants. They are long and thin compared to a European or globe eggplant, and much more tender and delicate. If you can't find them you can substitute globe eggplant, but the dish is really best with the asian eggplant."
+    },
+    {
+      "step_number": 2,
+      "instruction": "*A lot of grocery stores have Asian ingredient aisles now. You should be able to find chili-bean paste, a mixture of preserved chilies mixed with mashed soybeans, there or at any Asian market. (Do not confuse with black bean paste or chili-garlic paste.)",
+      "ingredients_used": [
+        "6c12a339-683b-5653-9552-b1e10c050553"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "**Sichuan peppercorns are available at some stores and online for quite cheap. They aren't spicy like other peppers but rather have a citrusy flavor and induce a tingly, numbing sensation like a carbonated drink."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Prep eggplant, chili sauce, cornstarch slurry, vinegar and scallions:",
+      "ingredients_used": [
+        "dd1435a0-f330-5a09-bb1c-093cd8cd27ea",
+        "e7e140d4-2f1c-5f08-9f79-a764ec77a8a6"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Begin your mise en place. Quarter the eggplant lengthwise and chop into large batons and set aside."
+    },
+    {
+      "step_number": 6,
+      "instruction": "In a small bowl, mix together the chicken stock, sugar, and soy sauce and set it aside.",
+      "ingredients_used": [
+        "7848fd0a-6e5f-5f6b-92e0-fa2eaa20c931",
+        "4883be85-0ee1-538c-9bce-04044df72347",
+        "f724bf6f-1153-5ddf-9cf9-e7f2ff4eee1e"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "In a second bowl, mix together the chili bean paste, garlic, ginger, and sichuan peppercorns and set it aside.",
+      "ingredients_used": [
+        "7e03fb8f-ad46-5d2d-9441-591814c8d62d",
+        "6c12a339-683b-5653-9552-b1e10c050553"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "In a third bowl, mix together the cornstarch with a tablespoon of water and set it aside.",
+      "ingredients_used": [
+        "dd1435a0-f330-5a09-bb1c-093cd8cd27ea"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Lastly, in a fourth bowl, mix together the scallions and vinegar and set it aside.",
+      "ingredients_used": [
+        "e7e140d4-2f1c-5f08-9f79-a764ec77a8a6"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "Sauté eggplant:"
+    },
+    {
+      "step_number": 11,
+      "instruction": "Place the oil in a wok or large sauté pan over medium-high heat until the oil is almost smoking. Add the eggplant and sauté, allowing it to sit for a few seconds each time you move it to allow it to brown and blister. If the eggplant absorbs all the oil and some pieces don't get any then add a little more oil."
+    },
+    {
+      "step_number": 12,
+      "instruction": "Add the chili bean paste, garlic, ginger, and sichuan peppercorns and sauté:",
+      "ingredients_used": [
+        "7e03fb8f-ad46-5d2d-9441-591814c8d62d",
+        "6c12a339-683b-5653-9552-b1e10c050553"
+      ]
+    },
+    {
+      "step_number": 13,
+      "instruction": "until fragrant, about 30 seconds.",
+      "timer_seconds": 30
+    },
+    {
+      "step_number": 14,
+      "instruction": "Add the chicken stock mixture:",
+      "ingredients_used": [
+        "7848fd0a-6e5f-5f6b-92e0-fa2eaa20c931"
+      ]
+    },
+    {
+      "step_number": 15,
+      "instruction": "turn the heat to medium-low and simmer for 90 seconds.",
+      "timer_seconds": 90
+    },
+    {
+      "step_number": 16,
+      "instruction": "Add the cornstarch mixture:",
+      "ingredients_used": [
+        "dd1435a0-f330-5a09-bb1c-093cd8cd27ea"
+      ]
+    },
+    {
+      "step_number": 17,
+      "instruction": "and stir together until the sauce thickens a bit."
+    },
+    {
+      "step_number": 18,
+      "instruction": "Add the scallions and vinegar:",
+      "ingredients_used": [
+        "e7e140d4-2f1c-5f08-9f79-a764ec77a8a6"
+      ]
+    },
+    {
+      "step_number": 19,
+      "instruction": "and cook for 15 seconds to diffuse their harsh flavors a bit.",
+      "timer_seconds": 15
+    },
+    {
+      "step_number": 20,
+      "instruction": "Garnish with cilantro and serve.",
+      "ingredients_used": [
+        "76a56283-76cc-5e8c-a722-bfa914383530"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.simplyrecipes.com/recipes/sichuan_eggplant/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

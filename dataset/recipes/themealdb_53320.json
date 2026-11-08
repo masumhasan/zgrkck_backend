@@ -1,0 +1,302 @@
+{
+  "id": "6c5dee10-0904-5242-8227-ebd817d36fb8",
+  "version": "1.0.0",
+  "title": "Chocolate alfajores",
+  "slug": "chocolate-alfajores",
+  "summary": "Chocolate alfajores are Uruguayan sandwich cookies filled with dulce de leche and coated in melted chocolate. The shortbread-style dough is flavored with cocoa and orange zest.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:23:58Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53320"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/k9o0xr1764373018.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/k9o0xr1764373018.jpg/small",
+      "alt_text": "Photo of Chocolate alfajores",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ucBoYab5tXY"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "bc928459-1cc9-56b4-a03c-a0518db62f83",
+        "slug": "uruguayan",
+        "name": "Uruguayan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "afternoon_snack",
+      "party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 10,
+    "marinating_time_minutes": 30,
+    "total_time_minutes": 60
+  },
+  "yield": {
+    "servings": 40,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 cookie"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": [
+      "soy"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "d9adf2b7-1df0-5a70-bbf5-a584bf83dad0",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "aa2eccbe-c8b5-5333-bf77-9d12679a871e",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "150g Butter",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "572852ea-10e1-56d1-92ca-5249688915a6",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "70g Sugar",
+          "quantity": 70.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 70.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "17abc933-6386-5606-8bc2-a4ab3fbfa2e3",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "0298f08c-3047-5fa5-8f4a-32b26105daf8",
+          "ingredient_id": "7ad11d6e-3134-5831-97df-4db2a67589f7",
+          "name": "honey",
+          "display_text": "25g Honey",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "9641d824-31d9-534b-a689-10c249e3caf4",
+          "ingredient_id": "d1e5ec78-b8c2-5649-962c-a9f67272ea92",
+          "name": "all purpose flour",
+          "display_text": "175g All purpose flour",
+          "quantity": 175.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 175.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "c938ab9c-c6d1-5c95-b6c0-c154cdd5bee7",
+          "ingredient_id": "4bdb1684-cdb6-5a8f-b220-c622cf2655cc",
+          "name": "cornstarch",
+          "display_text": "80g Cornstarch",
+          "quantity": 80.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 80.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "11e0ec6e-a9d0-5875-8494-05b989c66f26",
+          "ingredient_id": "1e6710fd-9e97-58e8-b0e6-fece2822bc61",
+          "name": "unsweetened cocoa",
+          "display_text": "30g Unsweetened Cocoa",
+          "quantity": 30.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "9dfd2d5c-c62f-5092-85f1-be69cc3edf66",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 tsp Baking Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "bec8d0f9-6353-510b-b660-32e24ff69deb",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 tsp Baking Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "f4266f1b-9091-5458-8021-62b7b70fb414",
+          "ingredient_id": "5d772d5e-0624-59e9-ac6b-e8bc1c4a6936",
+          "name": "dulce de leche",
+          "display_text": "400g Dulce de leche",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "condiments"
+        },
+        {
+          "id": "6b413cca-0d2e-5809-8792-bf76cb6a9942",
+          "ingredient_id": "60a3a7b2-b96d-5051-a537-0cc9e11770ca",
+          "name": "milk chocolate",
+          "display_text": "500g Milk Chocolate",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "5020e71d-2718-537e-a8ce-080644f739ab",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "100g Butter",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "0a6cc5df-b03e-5abe-a805-15665a056c41",
+          "ingredient_id": "4f3b3c33-6392-5e5a-ac51-d269b68aa6e4",
+          "name": "orange",
+          "display_text": "Zest of 1 Orange",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "zest",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "For the cookies cream the butter with the sugar for a few minutes. Then add the egg and honey and mix well. Add flour, cornstarch, cocoa, baking soda and baking powder and mix until you get a dough. Wrap in plastic wrap and chill for at least half an hour or overnight.",
+      "ingredients_used": [
+        "aa2eccbe-c8b5-5333-bf77-9d12679a871e",
+        "572852ea-10e1-56d1-92ca-5249688915a6",
+        "17abc933-6386-5606-8bc2-a4ab3fbfa2e3",
+        "0298f08c-3047-5fa5-8f4a-32b26105daf8",
+        "c938ab9c-c6d1-5c95-b6c0-c154cdd5bee7",
+        "11e0ec6e-a9d0-5875-8494-05b989c66f26",
+        "9dfd2d5c-c62f-5092-85f1-be69cc3edf66",
+        "bec8d0f9-6353-510b-b660-32e24ff69deb",
+        "5020e71d-2718-537e-a8ce-080644f739ab"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Line two baking sheets with parchment paper, preheat oven to 200 degrees Celsius.",
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 3,
+      "instruction": "Divide dough into two parts, put one part back in the fridge before using. Roll out second part to about 2 millimeters and cut out round cookies with 5-6 centimeters in diameter. This can be done with a cookie cutter or glass. You should get 30 cookies in total or even more, I get about 40. Bake one baking sheet at the time for about 8-10min. Let cookies cool.",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 4,
+      "instruction": "For the filling look for two cookies of the same size and place about one teaspoon of dulce de leche onto the bottom one before sandwiching together.",
+      "ingredients_used": [
+        "f4266f1b-9091-5458-8021-62b7b70fb414"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Chop semi-sweet chocolate and melt with butter and orange zest on low heat. Dunk each sandwich cookie into the chocolate and let cool off on parchment paper before serving.",
+      "ingredients_used": [
+        "aa2eccbe-c8b5-5333-bf77-9d12679a871e",
+        "6b413cca-0d2e-5809-8792-bf76cb6a9942",
+        "5020e71d-2718-537e-a8ce-080644f739ab",
+        "0a6cc5df-b03e-5abe-a805-15665a056c41"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://jennyisbaking.com/2018/07/02/alfajores-the-best-cookies-from-uruguay/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

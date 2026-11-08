@@ -1,0 +1,172 @@
+{
+  "id": "8c9b8bfc-b390-5d37-a6b3-1f74b920877d",
+  "version": "1.0.0",
+  "title": "Grape Nut Ice Cream",
+  "slug": "grape-nut-ice-cream",
+  "summary": "A simple no-churn ice cream made by folding grape nut cereal into whipped heavy cream and condensed milk.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:26:08Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53346"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/1xscby1764790242.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/1xscby1764790242.jpg/small",
+      "alt_text": "Photo of Grape Nut Ice Cream",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ZxKA2bGkIa8"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "2dfec5c8-490a-551c-9d2f-e8e21f706bda",
+        "slug": "jamaican",
+        "name": "Jamaican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 0,
+    "rest_time_minutes": 360,
+    "total_time_minutes": 370
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "ea0725e0-3afe-5e24-8a17-352f165e7a96",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "625ccb13-5d5d-5fc0-b392-491ddd8d37ed",
+          "ingredient_id": "cb8d5d02-f2f1-547b-b7e6-054d6629adc1",
+          "name": "heavy cream",
+          "display_text": "2 cups Heavy Cream",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "851b56dd-bb3b-5966-b15b-f368571d61e4",
+          "ingredient_id": "3fe531f9-aa92-5d4e-9940-e8eddf18456b",
+          "name": "condensed milk",
+          "display_text": "1 1/4 oz Condensed Milk",
+          "quantity": 1.25,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 35.4,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "f4aa6f6a-b980-500f-8808-218725456286",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1 tsp Vanilla Extract",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "6c5be2fa-a211-5495-a0d9-1c0efda90d62",
+          "ingredient_id": "145874fd-3312-59c6-86e9-9b702c0a2fb0",
+          "name": "grape nut cereal",
+          "display_text": "1 cup Grape Nut Cereal",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "In a large bowl, use an electric mixer to whip the cold heavy cream until stiff peaks form. Gently fold in the sweetened condensed milk and vanilla extract until well combined.",
+      "ingredients_used": [
+        "625ccb13-5d5d-5fc0-b392-491ddd8d37ed",
+        "851b56dd-bb3b-5966-b15b-f368571d61e4",
+        "f4aa6f6a-b980-500f-8808-218725456286"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Fold in the cereal and stir until evenly distributed throughout the mixture.",
+      "ingredients_used": [
+        "6c5be2fa-a211-5495-a0d9-1c0efda90d62"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Pour the mixture into a freezer-safe container (such as a loaf pan). Lay plastic wrap on top of the ice cream to avoid freezer burn. Cover the container and freeze for at least 6 hours or until solid.",
+      "timer_seconds": 21600
+    },
+    {
+      "step_number": 4,
+      "instruction": "Once frozen, let the ice cream sit at room temperature for a few minutes to soften slightly before scooping and serving."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.myforkinglife.com/grape-nut-ice-cream-recipe/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

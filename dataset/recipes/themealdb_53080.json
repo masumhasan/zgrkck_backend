@@ -1,0 +1,267 @@
+{
+  "id": "7861c6a1-9bc9-5972-b3f9-248c0f144573",
+  "version": "1.0.0",
+  "title": "Blini Pancakes",
+  "slug": "blini-pancakes",
+  "summary": "Traditional Russian pancakes made with a combination of buckwheat and all-purpose flour, leavened with yeast for a light texture.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:02:43Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53080"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/0206h11699013358.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/0206h11699013358.jpg/small",
+      "alt_text": "Photo of Blini Pancakes",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=GsB8ZI5vREA"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "89b023d7-b2bb-5d32-90aa-fbee4bddee90",
+        "slug": "russian",
+        "name": "Russian"
+      }
+    ],
+    "tags": [
+      "pancake"
+    ],
+    "meal_types": [
+      "breakfast",
+      "snack"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 15,
+    "marinating_time_minutes": 80,
+    "rest_time_minutes": 20,
+    "total_time_minutes": 130
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "a stack of small blini"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "8647d1da-3a4c-57af-9de4-f0a527752814",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "07f06636-585c-5826-83d0-a50c733b6057",
+          "ingredient_id": "b9641828-7c21-5ea1-a0b4-4f7034c05d38",
+          "name": "buckwheat",
+          "display_text": "1/2 cup Buckwheat",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "fa0112b7-50f2-5d73-a603-188680790be9",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "2/3 Cup Flour",
+          "quantity": 0.6667,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 160.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "96bcfe42-f535-5d55-933e-eb6546b1c97e",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/2 tsp Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "745ea9e3-2b04-54ae-9073-c9605dcd4398",
+          "ingredient_id": "28b21302-909b-59d3-a88f-a543e26ac34f",
+          "name": "yeast",
+          "display_text": "1 tsp Yeast",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "b2fd234f-3489-57f9-b468-3c4c264e8937",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "1 cup Milk",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "969205fd-5f44-5728-bd79-c827b908732c",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "2 tbs Butter",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "62c957cc-78fe-5de6-948d-46911363205e",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 Seperated Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "seperated",
+          "is_optional": false,
+          "category": "eggs"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "In a large bowl, whisk together 1/2 cup buckwheat flour, 2/3 cup all-purpose flour, 1/2 teaspoon salt, and 1 teaspoon yeast.",
+      "ingredients_used": [
+        "07f06636-585c-5826-83d0-a50c733b6057",
+        "fa0112b7-50f2-5d73-a603-188680790be9",
+        "96bcfe42-f535-5d55-933e-eb6546b1c97e",
+        "745ea9e3-2b04-54ae-9073-c9605dcd4398"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Make a well in the center and pour in 1 cup warm milk, whisking until the batter is smooth.",
+      "ingredients_used": [
+        "b2fd234f-3489-57f9-b468-3c4c264e8937"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Cover the bowl and let the batter rise until doubled, about 1 hour.",
+      "timer_seconds": 3600
+    },
+    {
+      "step_number": 4,
+      "instruction": "Enrich and Rest the Batter"
+    },
+    {
+      "step_number": 5,
+      "instruction": "Stir 2 tablespoons melted butter and 1 egg yolk into the batter.",
+      "ingredients_used": [
+        "969205fd-5f44-5728-bd79-c827b908732c",
+        "62c957cc-78fe-5de6-948d-46911363205e"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "In a separate bowl, whisk 1 egg white until stiff, but not dry.",
+      "ingredients_used": [
+        "62c957cc-78fe-5de6-948d-46911363205e"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Fold the whisked egg white into the batter.",
+      "ingredients_used": [
+        "62c957cc-78fe-5de6-948d-46911363205e"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Cover the bowl and let the batter stand 20 minutes.",
+      "timer_seconds": 1200
+    },
+    {
+      "step_number": 9,
+      "instruction": "Pan-Fry the Blini"
+    },
+    {
+      "step_number": 10,
+      "instruction": "Heat butter in a large nonstick skillet over medium heat.",
+      "ingredients_used": [
+        "969205fd-5f44-5728-bd79-c827b908732c"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Drop quarter-sized dollops of batter into the pan, being careful not to overcrowd the pan. Cook for about 1 minute or until bubbles form.",
+      "timer_seconds": 60
+    },
+    {
+      "step_number": 12,
+      "instruction": "Turn and cook for about 30 additional seconds."
+    },
+    {
+      "step_number": 13,
+      "instruction": "Remove the finished blini onto a plate and cover them with a clean kitchen towel to keep warm. Add more butter to the pan and repeat the frying process with the remaining batter.",
+      "ingredients_used": [
+        "969205fd-5f44-5728-bd79-c827b908732c"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.thespruceeats.com/russian-blini-recipe-buckwheat-pancakes-1136797"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "id": "56341400-eea9-5581-9f63-132d4e3464d0",
+  "version": "1.0.0",
+  "title": "Coconut quindim",
+  "slug": "coconut-quindim",
+  "summary": "A Brazilian coconut custard dessert made with egg yolks, sugar, and coconut milk, baked in a water bath.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:37:42Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53477"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/46uazv1782588877.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/46uazv1782588877.jpg/small",
+      "alt_text": "Photo of Coconut quindim",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6675856e-6919-5ea9-9f7a-8bf7f195e27f",
+        "slug": "brazilian",
+        "name": "Brazilian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 35,
+    "rest_time_minutes": 245,
+    "total_time_minutes": 295
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 ramekin"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "eggs"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "e824ee55-9ddb-5d20-8a1e-a136fbe6deb4",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "44a2f2b6-3cbd-5ed3-9e92-3faa0451462c",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "2 tablespoons Butter",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "62d75d74-ee83-56ec-afdd-7150729240f4",
+          "ingredient_id": "051a3118-01a4-5366-a922-19ecf618e2f9",
+          "name": "egg yolks",
+          "display_text": "10 Egg Yolks",
+          "quantity": 10.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "8e9c1583-4467-58b1-9407-dae979ddbd26",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "100g Caster Sugar",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "ad2e6313-921a-51d1-b43a-3f165afb7637",
+          "ingredient_id": "0435e55e-84f6-566c-ac81-37617bbab91c",
+          "name": "coconut milk",
+          "display_text": "300ml Coconut Milk",
+          "quantity": 300.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "4c83b068-9685-56b5-86e6-141a531515d1",
+          "ingredient_id": "4fa73e5a-853a-5513-bfa8-edb5e7f03cce",
+          "name": "desiccated coconut",
+          "display_text": "50g Desiccated Coconut",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "735f2272-fa2c-5cf3-9377-3a1437492259",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1 tsp Vanilla Extract",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 180C/160C fan/gas 4. Rub 4 ramekins, about 175ml capacity, or dariole molds liberally with the soft butter. Sprinkle with the caster sugar to coat.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "44a2f2b6-3cbd-5ed3-9e92-3faa0451462c",
+        "8e9c1583-4467-58b1-9407-dae979ddbd26"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a medium bowl, press the egg yolks through a wire sieve and mix with the coconut milk, sugar, coconut and vanilla. Pour into ramekins and place in a large roasting tin in the oven.",
+      "ingredients_used": [
+        "62d75d74-ee83-56ec-afdd-7150729240f4",
+        "ad2e6313-921a-51d1-b43a-3f165afb7637",
+        "4c83b068-9685-56b5-86e6-141a531515d1"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Pour water into the roasting tin to three-quarters up the ramekins so it acts like a bain marie or water bath for the quindim. Bake for 30-35 mins until the tops are golden. Take the ramekins out of the water and leave to cool for 5 mins."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Chill for 4 hrs and then run a knife around the edge. Place a plate on top and turn out the quindims to serve.",
+      "timer_seconds": 14400
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/coconut-quindim"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

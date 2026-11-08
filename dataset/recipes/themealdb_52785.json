@@ -1,0 +1,352 @@
+{
+  "id": "3edfe574-4828-5040-9fec-c78ad1a4bc3f",
+  "version": "1.0.0",
+  "title": "Dal fry",
+  "slug": "dal-fry",
+  "summary": "Dal fry is a flavorful Indian lentil dish made with toor dal, tempered with spices like cumin, mustard seeds, and ginger in ghee.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:37:43Z",
+  "updated_at": "2026-10-16T10:22:43Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52785"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/wuxrtu1483564410.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/wuxrtu1483564410.jpg/small",
+      "alt_text": "Photo of Dal fry",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=J4D855Q9-jg"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b2b4e1bc-3c1e-50ce-abf4-9015553e6a16",
+        "slug": "indian",
+        "name": "Indian"
+      }
+    ],
+    "tags": [
+      "cake",
+      "curry",
+      "vegetarian"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 35,
+    "marinating_time_minutes": 60,
+    "total_time_minutes": 105
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of dal"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "mustard"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "c2d77adb-de82-5102-894b-3f0586085715",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "991550bb-03bd-53f8-922d-e483340e1b94",
+          "ingredient_id": "2abb38a7-ffee-560e-940b-5fca28a7ca5a",
+          "name": "toor dal",
+          "display_text": "1 cup Toor dal",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "62f99361-f09b-5ddc-ac01-c420a36a29c1",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "2-1/2 cups Water",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "beverages"
+        },
+        {
+          "id": "c87ecc8b-4ad2-584d-86c6-148c1a5b9fc0",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "b6a4d27f-e294-54cb-a89f-c5f121a80b52",
+          "ingredient_id": "ab4d5e50-1105-53e2-be29-49b042b3d7fb",
+          "name": "turmeric",
+          "display_text": "1/4 tsp Turmeric",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e8d799b0-21e1-5ac5-a4e3-e8de8f00bcc6",
+          "ingredient_id": "b5453b15-d5e8-5682-b751-28eb4120fb90",
+          "name": "ghee",
+          "display_text": "3 tbs Ghee",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "d44f912b-fa17-580f-9637-41dc028acc16",
+          "ingredient_id": "f55fd16d-cf7d-508e-a734-bd6e6a65e05a",
+          "name": "chopped tomatoes",
+          "display_text": "1 cup Chopped tomatoes",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "27487dae-2a25-58ae-84ff-0d4e18ecfd6b",
+          "ingredient_id": "e03a9d77-1724-50c7-abdd-1b6af998189f",
+          "name": "cumin seeds",
+          "display_text": "1/2 tsp Cumin seeds",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "f4cf1ca0-e067-5359-bd6d-80233089f767",
+          "ingredient_id": "0d29d91e-ee7b-54db-bb93-dcfa05eb5d37",
+          "name": "mustard seeds",
+          "display_text": "1/2 tsp Mustard Seeds",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "2b9e6e0b-2e25-5b73-8d80-d7cd44f216dd",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "2 Bay Leaf",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "079a636d-a6dd-5362-8005-60c6c012e723",
+          "ingredient_id": "091f7fa6-975c-516e-a354-2a31e6503580",
+          "name": "green chilli",
+          "display_text": "1 tbs chopped Green Chilli",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "6891f408-57f8-5303-ad50-a9a75006b7b0",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "2 tsp shredded Ginger",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "preparation": "shredded",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "a4ef7728-51d9-5410-a78d-c09ef793d803",
+          "ingredient_id": "1655ccbe-97a7-59b3-9245-ebc95a0ed6d0",
+          "name": "cilantro",
+          "display_text": "2 tbs Cilantro",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "6ca8fa9c-cbf4-5d4c-9b6c-a5cc1bcd54c3",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1/2 tsp Red Pepper",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "82cf2b77-d5e7-5ead-9e40-61fd90b3eddb",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/2 tsp Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "ff96b7b8-d41f-57da-887e-a625bee274d1",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 tsp Sugar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "53ce1f3d-ff5a-544d-b0b7-b1a7e68c93e9",
+          "ingredient_id": "b3528dc3-f7f7-5d65-9903-d906fc4c30f0",
+          "name": "garam masala",
+          "display_text": "1/4 tsp Garam Masala",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Wash and soak toor dal in approx. 3 cups of water, for at least one hours. Dal will be double in volume after soaking. Drain the water.",
+      "ingredients_used": [
+        "991550bb-03bd-53f8-922d-e483340e1b94",
+        "62f99361-f09b-5ddc-ac01-c420a36a29c1"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Cook dal with 2-1/2 cups water and add salt, turmeric, on medium high heat, until soft in texture (approximately 30 mins) it should be like thick soup.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "62f99361-f09b-5ddc-ac01-c420a36a29c1",
+        "c87ecc8b-4ad2-584d-86c6-148c1a5b9fc0",
+        "b6a4d27f-e294-54cb-a89f-c5f121a80b52",
+        "82cf2b77-d5e7-5ead-9e40-61fd90b3eddb"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "In a frying pan, heat the ghee. Add cumin seeds, and mustard seeds. After the seeds crack, add bay leaves, green chili, ginger and chili powder. Stir for a few seconds.",
+      "ingredients_used": [
+        "e8d799b0-21e1-5ac5-a4e3-e8de8f00bcc6",
+        "27487dae-2a25-58ae-84ff-0d4e18ecfd6b",
+        "f4cf1ca0-e067-5359-bd6d-80233089f767",
+        "6891f408-57f8-5303-ad50-a9a75006b7b0"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add tomatoes, salt and sugar stir and cook until tomatoes are tender and mushy.",
+      "ingredients_used": [
+        "c87ecc8b-4ad2-584d-86c6-148c1a5b9fc0",
+        "d44f912b-fa17-580f-9637-41dc028acc16",
+        "82cf2b77-d5e7-5ead-9e40-61fd90b3eddb",
+        "ff96b7b8-d41f-57da-887e-a625bee274d1"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Add cilantro and garam masala cook for about one minute.",
+      "ingredients_used": [
+        "a4ef7728-51d9-5410-a78d-c09ef793d803",
+        "53ce1f3d-ff5a-544d-b0b7-b1a7e68c93e9"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Pour the seasoning over dal mix it well and cook for another minute."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Serve with Naan."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.instagram.com/p/BO21bpYD3Fu"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

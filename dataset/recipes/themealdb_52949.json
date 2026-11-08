@@ -1,0 +1,320 @@
+{
+  "id": "9cdf2e29-bd5d-57cd-9fdc-1228a8ebeb1f",
+  "version": "1.0.0",
+  "title": "Sweet and Sour Pork",
+  "slug": "sweet-and-sour-pork",
+  "summary": "A Chinese-style dish featuring pork strips marinated in egg and starch, fried until crispy, and tossed in a tangy tomato-based sweet and sour sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:51:54Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52949"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/1529442316.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/1529442316.jpg/small",
+      "alt_text": "Photo of Sweet and Sour Pork",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=mdaBIhgEAMo"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6813a95e-62cf-55e7-9d4b-6f19ee1d7391",
+        "slug": "chinese",
+        "name": "Chinese"
+      }
+    ],
+    "tags": [
+      "sweet"
+    ],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "marinating_time_minutes": 20,
+    "total_time_minutes": 45
+  },
+  "yield": {
+    "servings": 1,
+    "serving_unit": "servings",
+    "serving_size_description": "1 portion of pork strips with sauce"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "eggs"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "ea9800f6-2949-5037-b8cd-e065b241939d",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "d593c057-39b6-52fe-bca2-096dfda76341",
+          "ingredient_id": "f16b4344-55cf-5ee7-a3a2-d8f68550bd18",
+          "name": "pork",
+          "display_text": "200g Pork",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "920f7670-d2f0-55ab-8d45-dc671d8ca976",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "8fc1da60-1ccb-5dcf-8f85-83d011a64a5d",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "Dash Water",
+          "quantity": 1,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "beverages"
+        },
+        {
+          "id": "c51e65de-5eac-530d-86c0-eedbc9818e2b",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/2 tsp Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "673e64b7-e79c-5709-abad-112fe8af4ce7",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 tsp Sugar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "7315b573-db95-5785-881d-cea17e0c02bd",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "10g Soy Sauce",
+          "quantity": 10.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "gram",
+          "category": "condiments"
+        },
+        {
+          "id": "53d3073f-01fc-5288-9934-0a59e377235b",
+          "ingredient_id": "b3c5c45a-2d05-5ed4-91b1-a5aa3324e259",
+          "name": "starch",
+          "display_text": "10g Starch",
+          "quantity": 10.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "6a1d4bc9-700a-58e1-bdc8-cd98d38b5b0a",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "30g Tomato Puree",
+          "quantity": 30.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "274a1b31-1c83-57b1-baa9-10033f298e6d",
+          "ingredient_id": "ab5b1e5d-c74e-59bc-9caa-0009568a07cb",
+          "name": "vinegar",
+          "display_text": "10g Vinegar",
+          "quantity": 10.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "gram",
+          "category": "condiments"
+        },
+        {
+          "id": "72bf5993-838f-5cf9-9d35-fe1696c39b11",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "Dash Coriander",
+          "quantity": 1,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preparation"
+    },
+    {
+      "step_number": 2,
+      "instruction": "Crack the egg into a bowl. Separate the egg white and yolk.",
+      "ingredients_used": [
+        "920f7670-d2f0-55ab-8d45-dc671d8ca976"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Sweet and Sour Pork",
+      "ingredients_used": [
+        "d593c057-39b6-52fe-bca2-096dfda76341"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Slice the pork tenderloin into strips.",
+      "ingredients_used": [
+        "d593c057-39b6-52fe-bca2-096dfda76341"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Prepare the marinade using a pinch of salt, one teaspoon of starch, two teaspoons of light soy sauce, and an egg white.",
+      "ingredients_used": [
+        "920f7670-d2f0-55ab-8d45-dc671d8ca976",
+        "c51e65de-5eac-530d-86c0-eedbc9818e2b",
+        "7315b573-db95-5785-881d-cea17e0c02bd",
+        "53d3073f-01fc-5288-9934-0a59e377235b"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Marinade the pork strips for about 20 minutes.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "d593c057-39b6-52fe-bca2-096dfda76341"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Put the remaining starch in a bowl. Add some water and vinegar to make a starchy sauce.",
+      "ingredients_used": [
+        "8fc1da60-1ccb-5dcf-8f85-83d011a64a5d",
+        "53d3073f-01fc-5288-9934-0a59e377235b",
+        "274a1b31-1c83-57b1-baa9-10033f298e6d"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Sweet and Sour Pork",
+      "ingredients_used": [
+        "d593c057-39b6-52fe-bca2-096dfda76341"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Cooking Instructions"
+    },
+    {
+      "step_number": 10,
+      "instruction": "Pour the cooking oil into a wok and heat to 190°C (375°F). Add the marinated pork strips and fry them until they turn brown. Remove the cooked pork from the wok and place on a plate.",
+      "temperature": {
+        "value": 190,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "d593c057-39b6-52fe-bca2-096dfda76341"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Leave some oil in the wok. Put the tomato sauce and white sugar into the wok, and heat until the oil and sauce are fully combined.",
+      "ingredients_used": [
+        "673e64b7-e79c-5709-abad-112fe8af4ce7"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Add some water to the wok and thoroughly heat the sweet and sour sauce before adding the pork strips to it.",
+      "ingredients_used": [
+        "d593c057-39b6-52fe-bca2-096dfda76341",
+        "8fc1da60-1ccb-5dcf-8f85-83d011a64a5d"
+      ]
+    },
+    {
+      "step_number": 13,
+      "instruction": "Pour in the starchy sauce. Stir-fry all the ingredients until the pork and sauce are thoroughly mixed together.",
+      "ingredients_used": [
+        "d593c057-39b6-52fe-bca2-096dfda76341",
+        "53d3073f-01fc-5288-9934-0a59e377235b"
+      ]
+    },
+    {
+      "step_number": 14,
+      "instruction": "Serve on a plate and add some coriander for decoration.",
+      "ingredients_used": [
+        "72bf5993-838f-5cf9-9d35-fe1696c39b11"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.chinahighlights.com/travelguide/chinese-food/cooking/sweet-sour-pork.htm"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

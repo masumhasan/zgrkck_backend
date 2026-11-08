@@ -1,0 +1,429 @@
+{
+  "id": "295bdb9c-93c4-5682-88f1-5c51ad242a3f",
+  "version": "1.0.0",
+  "title": "Kelem dolmasi",
+  "slug": "kelem-dolmasi",
+  "summary": "Kelem dolmasi is an Azerbaijani dish consisting of cabbage leaves stuffed with a mixture of minced lamb, rice, chickpeas, and aromatic spices, then steamed in a tomato-based sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:35:04Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53449"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/7vdtqi1780160088.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/7vdtqi1780160088.jpg/small",
+      "alt_text": "Photo of Kelem dolmasi",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4009f6eb-c732-5ba2-99bc-1e7c9f7e30cb",
+        "slug": "azerbaijani",
+        "name": "Azerbaijani"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 75
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of stuffed cabbage rolls"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "c16cc0c0-4263-5ee1-916c-ff99d39b5f9a",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "f56e69db-ffe7-5050-bb0f-f38d582b53a7",
+          "ingredient_id": "4d40d67a-57b5-5c91-91d3-62eba5bf1b7e",
+          "name": "lamb mince",
+          "display_text": "500g Lamb Mince",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "764248ec-4db3-54ce-af00-2955b35d599d",
+          "ingredient_id": "8604c41c-a935-5634-b405-fed806fe806b",
+          "name": "cabbage",
+          "display_text": "1 large Cabbage",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c110b4ad-703d-5ece-8a4d-e0beb5b981b3",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "8 oz Onion",
+          "quantity": 8.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 226.8,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "d38558ec-982f-5e18-ba20-2a017c2d0f6e",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "bfeaf21f-0d3a-5d65-a1d2-3116c4c2fb82",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "Pinch Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "2c886f01-e5f5-5593-811e-af37e3004c3d",
+          "ingredient_id": "ab4d5e50-1105-53e2-be29-49b042b3d7fb",
+          "name": "turmeric",
+          "display_text": "1/2 tsp Turmeric",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "25d91e91-1dfc-5009-9b2e-5c5eeb920c69",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "1/2 tsp Cinnamon",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "739c1c2f-f4e0-55a7-bbfa-a5870dec80c2",
+          "ingredient_id": "1655ccbe-97a7-59b3-9245-ebc95a0ed6d0",
+          "name": "cilantro",
+          "display_text": "2 tablespoons Cilantro",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "383dae64-8ddb-56a8-9994-18095cabf6cf",
+          "ingredient_id": "c20ef13e-7f52-5fce-847f-34f123e6392e",
+          "name": "dill",
+          "display_text": "2 tablespoons Dill",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "260d9bb5-83a0-5480-9ab1-7397bd6e5eb7",
+          "ingredient_id": "025b8433-c498-5b37-813a-ec00ac6c2ae5",
+          "name": "rice",
+          "display_text": "2 oz Rice",
+          "quantity": 2.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 56.7,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "8afbe2e8-b4c6-5c6c-8f46-e02b79fcdb28",
+          "ingredient_id": "ae979dd7-6a1e-5882-9ed5-e0b09554efd0",
+          "name": "chickpeas",
+          "display_text": "2 oz Chickpeas",
+          "quantity": 2.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 56.7,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "67336835-6816-5d41-a1e5-0acca30b747c",
+          "ingredient_id": "68102275-e629-5ca4-908a-3db1efb9cca0",
+          "name": "lamb fat",
+          "display_text": "3 oz Lamb Fat",
+          "quantity": 3.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 85.1,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "6ee307df-0961-5d28-a7a1-35948ee89509",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "1 tablespoon Tomato Puree",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "ab1c758a-0a43-5847-98a4-004aec7351f6",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "3  tablespoons Water",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "First boil the rice for eight minutes. Meanwhile, peel and finely chop the onion. Then chop the herbs.",
+      "ingredients_used": [
+        "c110b4ad-703d-5ece-8a4d-e0beb5b981b3",
+        "260d9bb5-83a0-5480-9ab1-7397bd6e5eb7"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "The recipe didn't really say what to do with the chickpeas (also known of course as garbanzo beans), beyond soaking them overnight and rinsing them. I used canned chickpeas, since I've never actually seen them dried. I decided to chop/mash them slightly so they would better incorporate into the filling.",
+      "ingredients_used": [
+        "8afbe2e8-b4c6-5c6c-8f46-e02b79fcdb28"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Chickpeas (or garbanzo beans) roughly chopped",
+      "ingredients_used": [
+        "8afbe2e8-b4c6-5c6c-8f46-e02b79fcdb28"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Now mince the lamb (I used my mini food processor). Here's where I ran into another problem: what to do with the lamb fat this recipe calls for? Mince it? Melt it? Does lamb fat even melt? I decided to mince mine. Thankfully, my husband doesn't actually read this blog because he'd be horrified if he knew I put fat in the dolma on purpose.",
+      "ingredients_used": [
+        "f56e69db-ffe7-5050-bb0f-f38d582b53a7",
+        "67336835-6816-5d41-a1e5-0acca30b747c"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Minced lamb and its good friend, minced fat. Ew.",
+      "ingredients_used": [
+        "f56e69db-ffe7-5050-bb0f-f38d582b53a7"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "The ingredients for the dolma stuffing include onion, cilantro, chickpeas and turmeric.",
+      "ingredients_used": [
+        "c110b4ad-703d-5ece-8a4d-e0beb5b981b3",
+        "2c886f01-e5f5-5593-811e-af37e3004c3d",
+        "739c1c2f-f4e0-55a7-bbfa-a5870dec80c2",
+        "8afbe2e8-b4c6-5c6c-8f46-e02b79fcdb28"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Anyway, now get your hands into all that slimy raw meat and mix in the onion, spices, chickpeas, rice, chopped herbs and fat. Add a little salt and pepper for good measure. In fact, based on my results I would say to err on the side of a little extra salt and pepper.",
+      "ingredients_used": [
+        "c110b4ad-703d-5ece-8a4d-e0beb5b981b3",
+        "d38558ec-982f-5e18-ba20-2a017c2d0f6e",
+        "bfeaf21f-0d3a-5d65-a1d2-3116c4c2fb82",
+        "260d9bb5-83a0-5480-9ab1-7397bd6e5eb7",
+        "8afbe2e8-b4c6-5c6c-8f46-e02b79fcdb28"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Mix well with your hands until the stuffing looks something like this."
+    },
+    {
+      "step_number": 9,
+      "instruction": "Fill the biggest saucepan you own with salted water and bring it to a boil over high heat. Now pull the outer leaves off of the cabbage (save them) and drop the rest of it, whole, into the water. Let it boil for three or four minutes, turning it if the water level isn't quite high enough to completely cover it.",
+      "ingredients_used": [
+        "764248ec-4db3-54ce-af00-2955b35d599d",
+        "d38558ec-982f-5e18-ba20-2a017c2d0f6e",
+        "ab1c758a-0a43-5847-98a4-004aec7351f6"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "The reason you are doing this is because it's difficult to get whole cabbage leaves off of an American cabbage. The cabbages you typically buy in our supermarkets come in very tight round balls, and because the leaves are crispy they will snap and crack when you try to pull them off in an un-blanched state. Blanching them for a few minutes makes it so they will come right off without tearing.",
+      "ingredients_used": [
+        "764248ec-4db3-54ce-af00-2955b35d599d"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Now carefully take the cabbage out of the water (but keep the water boiling) and let it cool for a minute or two so you don't burn your fingers. Carefully pull the leaves off the cabbage, cutting them at the base if you have to do so to loosen them. Try to get them off in one piece. If the inner leaves are still crispy, return the cabbage to the boiling water for another three or four minutes. Repeat until all of the useable leaves are free.",
+      "ingredients_used": [
+        "764248ec-4db3-54ce-af00-2955b35d599d",
+        "ab1c758a-0a43-5847-98a4-004aec7351f6"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Blanched cabbage leaves",
+      "ingredients_used": [
+        "764248ec-4db3-54ce-af00-2955b35d599d"
+      ]
+    },
+    {
+      "step_number": 13,
+      "instruction": "Now put the leaves on a cutting board and cut out the tough stalks (save them). Cut the largest leaves in half."
+    },
+    {
+      "step_number": 14,
+      "instruction": "Remove the tough inner stalk and set aside. Cut larger leaves in two."
+    },
+    {
+      "step_number": 15,
+      "instruction": "Put a heaping tablespoon of the filling in the middle of each leaf, making a short cylinder shape. Fold the ends over the filling, then roll tightly (as if you are making a tiny burrito)."
+    },
+    {
+      "step_number": 16,
+      "instruction": "This is not much of a cylinder, but you get the idea."
+    },
+    {
+      "step_number": 17,
+      "instruction": "Fold the edges over ..."
+    },
+    {
+      "step_number": 18,
+      "instruction": "Then roll, as if you were making a really small burrito."
+    },
+    {
+      "step_number": 19,
+      "instruction": "Your finished dolma should look kind of like this, only without the hole in the middle."
+    },
+    {
+      "step_number": 20,
+      "instruction": "Put all of the discarded cabbage leaves, stalks etc. into the bottom of a stockpot. I know, this seems a little strange. What you're basically going to be doing is steaming the dolma, with the discarded cabbage pieces forming the base of your steamer. Carefully place the dolma on the bed of cabbage leaves.",
+      "ingredients_used": [
+        "764248ec-4db3-54ce-af00-2955b35d599d"
+      ]
+    },
+    {
+      "step_number": 21,
+      "instruction": "These dolma are resting on top of discarded cabbage leaves.",
+      "ingredients_used": [
+        "764248ec-4db3-54ce-af00-2955b35d599d"
+      ]
+    },
+    {
+      "step_number": 22,
+      "instruction": "Add water to the stockpot up to about the top of the discarded leaves. Don't cover the dolma.",
+      "ingredients_used": [
+        "ab1c758a-0a43-5847-98a4-004aec7351f6"
+      ]
+    },
+    {
+      "step_number": 23,
+      "instruction": "Now here's where you have to get a bit creative. The dolma needs to be weighted down so it doesn't unwrap during cooking. I used a metal pie pan, and then I put my mortar on top of it. You could also use a dessert plate with something heavy on top of it, but it would need to be an oven-safe one."
+    },
+    {
+      "step_number": 24,
+      "instruction": "The dolma need to be weighted down during cooking so they don't unwrap. Just improvise."
+    },
+    {
+      "step_number": 25,
+      "instruction": "Bring the water to a boil, then simmer for 25 minutes.You might have to use your ears to figure out if the water is actually boiling; I personally couldn't see what was in my pot after I weighted it down.",
+      "timer_seconds": 1500,
+      "ingredients_used": [
+        "ab1c758a-0a43-5847-98a4-004aec7351f6"
+      ]
+    },
+    {
+      "step_number": 26,
+      "instruction": "Meanwhile, make a simple tomato sauce out of the tomato paste and water. Heat it up for a few minutes over a medium flame. After the dolma have been cooking for 25 minutes, pour the sauce over them and cook for another five minutes.",
+      "timer_seconds": 1500,
+      "ingredients_used": [
+        "ab1c758a-0a43-5847-98a4-004aec7351f6"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://travelbystove.blogspot.com/2012/01/recipes-from-azerbaijani.html"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "id": "ecb0dea9-8ac4-5df2-85e1-e01fd287f12e",
+  "version": "1.0.0",
+  "title": "Avocado dip with new potatoes",
+  "slug": "avocado-dip-with-new-potatoes",
+  "summary": "A refreshing Australian-style appetizer featuring a creamy avocado dip served alongside roasted baby new potatoes and tortilla chips.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:04:52Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53107"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/flrajf1762341295.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/flrajf1762341295.jpg/small",
+      "alt_text": "Photo of Avocado dip with new potatoes",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6442c74c-e246-57a7-870b-9366b38050a8",
+        "slug": "australian",
+        "name": "Australian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "appetizer"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 36,
+    "rest_time_minutes": 30,
+    "total_time_minutes": 81
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of dip and potatoes"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "24f5217f-b51b-5679-8b1e-e5acaa59b2f7",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "fb118d1e-2649-50d4-8d5a-386b257b5277",
+          "ingredient_id": "eb7e0cb5-be44-5074-93b2-98cbac9baf42",
+          "name": "avocado",
+          "display_text": "3 Large Avocado",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "5782f761-d781-5554-8582-b45b6468186e",
+          "ingredient_id": "072d4dfe-558f-5fa8-a75c-16ed936deb19",
+          "name": "natural yogurt",
+          "display_text": "200g Natural Yogurt",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "6bd16c00-52f5-51f6-bbb3-266a4090bfa2",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "Zest and juice of 1 Lime",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "zest and juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f12a2a3c-7c77-5db9-ba8d-63e89216da7c",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "Juice of 1/2 Lemon",
+          "quantity": 0.5,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "011b5a40-12a1-50ac-9d7a-b0efd48b3411",
+          "ingredient_id": "c280b375-6294-519b-a161-a423752ba84d",
+          "name": "baby new potatoes",
+          "display_text": "1.25kg Baby New Potatoes",
+          "quantity": 1.25,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "kilogram",
+          "category": "produce"
+        },
+        {
+          "id": "cb58f379-3077-520e-a05f-0eb7c33dc8a0",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tablespoons Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "96f8fd5f-be7b-514a-9ecb-f915a11a695f",
+          "ingredient_id": "e1e0714b-b15e-5ad6-8153-985f2878f800",
+          "name": "hot chilli powder",
+          "display_text": "1 teaspoon Hot Chilli Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "01a353e6-936b-59a2-97a7-fcf4ef45c001",
+          "ingredient_id": "e03a9d77-1724-50c7-abdd-1b6af998189f",
+          "name": "cumin seeds",
+          "display_text": "1 teaspoon Cumin Seeds",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "623f7b72-7431-57b3-a8a9-dfed05a430d3",
+          "ingredient_id": "de59b79a-0b9b-50f5-961d-f7197c32f945",
+          "name": "tortillas",
+          "display_text": "200g Tortillas",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Whizz half the avocado flesh with the yogurt, lime and lemon juice and seasoning. Dice the remaining avocado, then gently stir into the whizzed mix with most of the lime zest. Cover, then chill until ready to serve.",
+      "ingredients_used": [
+        "fb118d1e-2649-50d4-8d5a-386b257b5277",
+        "6bd16c00-52f5-51f6-bbb3-266a4090bfa2",
+        "f12a2a3c-7c77-5db9-ba8d-63e89216da7c"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Boil potatoes for 6 mins, then drain well and toss with olive oil, chilli powder and cumin seeds. Now set aside until half an hour before your guests arrive.",
+      "timer_seconds": 360,
+      "ingredients_used": [
+        "011b5a40-12a1-50ac-9d7a-b0efd48b3411",
+        "cb58f379-3077-520e-a05f-0eb7c33dc8a0",
+        "01a353e6-936b-59a2-97a7-fcf4ef45c001"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Heat oven to 200C/180C fan/gas 6, then roast potatoes for about 30 mins, shaking the tray halfway, until golden and tender. Transfer the dip to one or two bowls, scatter with the remaining lime zest and serve with the hot potatoes, and tortilla chips for dipping.",
+      "timer_seconds": 1800,
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "6bd16c00-52f5-51f6-bbb3-266a4090bfa2",
+        "011b5a40-12a1-50ac-9d7a-b0efd48b3411"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/avocado-citrus-dip-spicy-spuds-tortilla-chips"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

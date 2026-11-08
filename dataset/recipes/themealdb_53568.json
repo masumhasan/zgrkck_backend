@@ -1,0 +1,423 @@
+{
+  "id": "377aa26c-c50c-5713-b6df-4f450f7dd81d",
+  "version": "1.0.0",
+  "title": "Apple pie pops",
+  "slug": "apple-pie-pops",
+  "summary": "Handheld apple pie treats on lollipop sticks, featuring a flaky pastry crust filled with spiced, sautéed apples.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:45:50Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53568"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ax643t1784731109.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ax643t1784731109.jpg/small",
+      "alt_text": "Photo of Apple pie pops",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4da88d96-f05f-5f73-a14b-c5e37ee2541e",
+        "slug": "dominican",
+        "name": "Dominican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 27,
+    "marinating_time_minutes": 60,
+    "total_time_minutes": 117
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 apple pie pop"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "179c35f6-b1d7-5806-8c8f-e180f525b2cd",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "65a65ae5-71a0-58cf-aa14-17e329c6c18b",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 tablespoon Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "b74b726b-f6ef-53be-9923-3f37a48c7fe4",
+          "ingredient_id": "d1e5ec78-b8c2-5649-962c-a9f67272ea92",
+          "name": "all purpose flour",
+          "display_text": "1 1/2 cups All purpose flour",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "0fa7eb6c-c10c-5614-9188-e16247ebfb7a",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "bcc651b4-ec8d-5fdc-841d-32aebd5e7d1b",
+          "ingredient_id": "bc46b2a6-8a59-50ee-a044-ce38bddb125c",
+          "name": "unsalted butter",
+          "display_text": "4 oz Unsalted Butter",
+          "quantity": 4.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 113.4,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "092f9ff3-8f77-5a0b-82fe-b261cac27f5e",
+          "ingredient_id": "cf50c57a-f58a-5262-9fc9-cdfb406e4c9d",
+          "name": "shortening",
+          "display_text": "1 tablespoon Shortening",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "55dd2b4f-c7a1-5a3f-a809-0706fdbb5783",
+          "ingredient_id": "e930e741-687b-5138-af0d-dad1cdfcffbe",
+          "name": "cold water",
+          "display_text": "1/4 cup Cold Water",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "b43a14ab-2479-5d4a-9918-a8143b5e0499",
+          "ingredient_id": "6a1dceb6-71ee-57ce-baf5-40c7434f83c8",
+          "name": "apples",
+          "display_text": "1 lb Apples",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "6e790509-aa92-56a9-9917-e3950cf19941",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "1/4 cup Brown Sugar",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "6d720226-d3c3-56bd-a6a7-cffbcc663063",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "1 tsp Cinnamon",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "de365b19-a3a7-5703-b621-f712b0bb95b0",
+          "ingredient_id": "bc46b2a6-8a59-50ee-a044-ce38bddb125c",
+          "name": "unsalted butter",
+          "display_text": "3  tablespoons Unsalted Butter",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "4bb89482-173c-53ad-ac08-aa29ed8674a4",
+          "ingredient_id": "43fdd2fd-26e3-5e32-af4b-0c63a027d37c",
+          "name": "ground nutmeg",
+          "display_text": "1/2 tsp Ground Nutmeg",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "82532872-fa60-58f6-b7ef-a528c6546ff2",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/2 tsp Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "fa873538-3d8e-5185-97c3-f9ca8a2a67f6",
+          "ingredient_id": "4020879e-a0a5-58e2-b093-33c7e85c8a08",
+          "name": "lemon juice",
+          "display_text": "3/4 teaspoon Lemon Juice",
+          "quantity": 0.75,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 3.8,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "15236341-fb69-5552-a7d0-01e007433893",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "Topping Sugar",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "topping",
+          "is_optional": false,
+          "category": "sweeteners"
+        },
+        {
+          "id": "892425ab-7138-5840-88cb-bfc52d5a4b68",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "bd622bed-d514-5dd6-9545-f7864f750594",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "2 tsp Water",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Need Lollipop sticks"
+    },
+    {
+      "step_number": 2,
+      "instruction": "Instructions for crust"
+    },
+    {
+      "step_number": 3,
+      "instruction": "Combine the flour, sugar, and salt to a food processor bowl. Mix using the pulse setting.",
+      "ingredients_used": [
+        "65a65ae5-71a0-58cf-aa14-17e329c6c18b",
+        "0fa7eb6c-c10c-5614-9188-e16247ebfb7a",
+        "82532872-fa60-58f6-b7ef-a528c6546ff2",
+        "15236341-fb69-5552-a7d0-01e007433893"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add butter and shortening and pulse about 10 -12 times until the texture is changed to small pebbles.",
+      "ingredients_used": [
+        "bcc651b4-ec8d-5fdc-841d-32aebd5e7d1b",
+        "092f9ff3-8f77-5a0b-82fe-b261cac27f5e",
+        "de365b19-a3a7-5703-b621-f712b0bb95b0"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Add ¾ of the ice water and pulse a few more times until the dough takes the shape of a ball. Add more water as needed. Don't overmix. Don't worry if the dough isn't completely blended. You will use your rolling pin to finish creating the crust.",
+      "ingredients_used": [
+        "bd622bed-d514-5dd6-9545-f7864f750594"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Place dough ball onto the counter and flatten into a flat disc. Wrap it in plastic wrap and refrigerate for at least an hour or overnight."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Instructions for pie filling"
+    },
+    {
+      "step_number": 8,
+      "instruction": "Heat butter over medium heat, until just golden brown",
+      "ingredients_used": [
+        "bcc651b4-ec8d-5fdc-841d-32aebd5e7d1b",
+        "de365b19-a3a7-5703-b621-f712b0bb95b0"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Add brown sugar, spices, salt and lemon juice. Stir to combine ingredients",
+      "ingredients_used": [
+        "65a65ae5-71a0-58cf-aa14-17e329c6c18b",
+        "0fa7eb6c-c10c-5614-9188-e16247ebfb7a",
+        "6e790509-aa92-56a9-9917-e3950cf19941",
+        "82532872-fa60-58f6-b7ef-a528c6546ff2",
+        "fa873538-3d8e-5185-97c3-f9ca8a2a67f6",
+        "15236341-fb69-5552-a7d0-01e007433893"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "Add diced apples and stir.",
+      "ingredients_used": [
+        "b43a14ab-2479-5d4a-9918-a8143b5e0499"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Allow apples to cook for about 5-7 minutes, over medium heat",
+      "timer_seconds": 420,
+      "ingredients_used": [
+        "b43a14ab-2479-5d4a-9918-a8143b5e0499"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Remove from heat and let the apple mixture cool. You can place apples in the refrigerator to speed up the process.",
+      "ingredients_used": [
+        "b43a14ab-2479-5d4a-9918-a8143b5e0499"
+      ]
+    },
+    {
+      "step_number": 13,
+      "instruction": "Mix egg and water for an egg wash.",
+      "ingredients_used": [
+        "892425ab-7138-5840-88cb-bfc52d5a4b68",
+        "bd622bed-d514-5dd6-9545-f7864f750594"
+      ]
+    },
+    {
+      "step_number": 14,
+      "instruction": "Roll out pie dough to 1/8 inch thickness."
+    },
+    {
+      "step_number": 15,
+      "instruction": "Cut out rounds of 2 ½ to 3 inches and place them on parchment paper. You will need to roll out the extra dough left over scraps from cutting."
+    },
+    {
+      "step_number": 16,
+      "instruction": "In half of the rounds, cut out shapes or holes for ventilation purposes"
+    },
+    {
+      "step_number": 17,
+      "instruction": "On the other half of the rounds, gently press one lollipop stick about halfway up each round."
+    },
+    {
+      "step_number": 18,
+      "instruction": "Place one tablespoon of apple mixture in the center of each round."
+    },
+    {
+      "step_number": 19,
+      "instruction": "Place each round on top of apples seal the edges.",
+      "ingredients_used": [
+        "b43a14ab-2479-5d4a-9918-a8143b5e0499"
+      ]
+    },
+    {
+      "step_number": 20,
+      "instruction": "Brush each pie pop with egg wash and sprinkle sugar on top.",
+      "ingredients_used": [
+        "65a65ae5-71a0-58cf-aa14-17e329c6c18b",
+        "15236341-fb69-5552-a7d0-01e007433893",
+        "892425ab-7138-5840-88cb-bfc52d5a4b68"
+      ]
+    },
+    {
+      "step_number": 21,
+      "instruction": "Bake 15-20 minutes or until golden brown.",
+      "timer_seconds": 1200
+    },
+    {
+      "step_number": 22,
+      "instruction": "Enjoy!"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://dominicagourmet.com/how-to-make-delicious-apple-pie-pops/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

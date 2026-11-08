@@ -1,0 +1,215 @@
+{
+  "id": "7f226a8a-95c6-5c38-b047-86628a4a65cf",
+  "version": "1.0.0",
+  "title": "Brazilian cheese bread (pão de queijo)",
+  "slug": "brazilian-cheese-bread-pao-de-queijo",
+  "summary": "Brazilian cheese bread is a traditional snack made from tapioca flour, eggs, and cheese, resulting in a chewy, airy texture.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:37:29Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53476"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/sl7cr91782588539.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/sl7cr91782588539.jpg/small",
+      "alt_text": "Photo of Brazilian cheese bread (pão de queijo)",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6675856e-6919-5ea9-9f7a-8bf7f195e27f",
+        "slug": "brazilian",
+        "name": "Brazilian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "snack"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "afternoon_snack"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 45
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "several cheese bread balls"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "eggs"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "17fc1add-7f5e-5275-9c36-ad5d1a8b49ef",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "a943ec71-e2d2-5361-8491-3dee9fe541f7",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "Drizzle Oil",
+          "quantity": 1,
+          "unit": "drizzle",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "217f17d6-922e-5548-a3bf-5141d1ce0d6f",
+          "ingredient_id": "cdd10399-e080-5794-bffb-7cf578edb5a5",
+          "name": "whole milk",
+          "display_text": "250ml Whole Milk",
+          "quantity": 250.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "fbc93b8f-a079-5cf1-98a4-1a255f419088",
+          "ingredient_id": "bc46b2a6-8a59-50ee-a044-ce38bddb125c",
+          "name": "unsalted butter",
+          "display_text": "125g Unsalted Butter",
+          "quantity": 125.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 125.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "a53afa7b-71e9-5fab-b2f7-f786587862bf",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "de841bd0-4ab2-5c96-8144-645e0620ba2f",
+          "ingredient_id": "481c81e7-2add-5db2-9b94-6c392c1f6eef",
+          "name": "tapioca",
+          "display_text": "300g Tapioca",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "abd0705c-26d0-5276-9208-d0bbf049c036",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "2 Eggs",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "94bfb66c-50e3-5b7f-aba7-1168ead3c3f9",
+          "ingredient_id": "416df703-8cf7-5b6e-bc37-86ce7e3fd6da",
+          "name": "parmesan",
+          "display_text": "100g Parmesan",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oven to 220C/200C fan/gas 7. Oil or butter a baking sheet and set aside.",
+      "temperature": {
+        "value": 220,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "a943ec71-e2d2-5361-8491-3dee9fe541f7",
+        "fbc93b8f-a079-5cf1-98a4-1a255f419088"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat the milk, butter and salt in a medium saucepan and bring to a boil. Remove from the heat and add the tapioca flour. Stir vigorously, then leave to cool a little.",
+      "ingredients_used": [
+        "217f17d6-922e-5548-a3bf-5141d1ce0d6f",
+        "fbc93b8f-a079-5cf1-98a4-1a255f419088",
+        "a53afa7b-71e9-5fab-b2f7-f786587862bf",
+        "de841bd0-4ab2-5c96-8144-645e0620ba2f"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Pour the dough into a standing mix to beat the dough until its cool, or use a wooden spoon and beat by hand. Beat the eggs in one at a time, waiting until each is completely incorporated before adding the next. When the dough is glossy and mixed, add the parmesan. Beat again until mixed.",
+      "ingredients_used": [
+        "abd0705c-26d0-5276-9208-d0bbf049c036",
+        "94bfb66c-50e3-5b7f-aba7-1168ead3c3f9"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Spoon the dough onto the baking sheet in 1 tbsp balls, 5cm apart. Bake for 30 mins until crisp and golden. Remove from the oven and eat while still warm.",
+      "timer_seconds": 1800
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/brazilian-cheese-bread-pao-de-queijo"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "id": "a2149ff6-bcc9-52b0-8409-711c6454671d",
+  "version": "1.0.0",
+  "title": "Pate Chinois",
+  "slug": "pate-chinois",
+  "summary": "A traditional Canadian comfort dish consisting of layers of seasoned minced beef, creamed corn, and mashed potatoes.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:50:10Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52930"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/yyrrxr1511816289.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/yyrrxr1511816289.jpg/small",
+      "alt_text": "Photo of Pate Chinois",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=QRFqnLkEv3I"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "54838e2c-2c59-558b-8932-e019f7cc6d0c",
+        "slug": "canadian",
+        "name": "Canadian"
+      }
+    ],
+    "tags": [
+      "alcoholic",
+      "mainmeal"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 45,
+    "rest_time_minutes": 10,
+    "total_time_minutes": 75
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "a square slice of casserole"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "94ca4d32-3190-593a-9541-60997447bf38",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "c51bf1b9-64ca-546e-a30f-1f1d90736f29",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "4 cups Potatoes",
+          "quantity": 4.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 960.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "3931c8ef-5d5f-5624-85fb-a8cf4ad75408",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "60ml Butter",
+          "quantity": 60.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "f8619a8e-6d24-5723-b7ec-ece361ad0729",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "½ cup Milk",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "765be6e1-bd61-5a42-8321-7d24c033aa40",
+          "ingredient_id": "32de35ba-e219-523e-a9c8-e8bef0b536c9",
+          "name": "minced beef",
+          "display_text": "450g Minced Beef",
+          "quantity": 450.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "39365949-ba7d-5d3d-95c4-d0e1b23402d5",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 finely chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f1edb928-d5c4-58cd-84b7-eb3c826761af",
+          "ingredient_id": "f3f9010d-a035-5f33-8502-521d4ae25202",
+          "name": "creamed corn",
+          "display_text": "500ml Creamed Corn",
+          "quantity": 500.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "88984898-272a-519f-ab7d-54342c29f03a",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "to taste Paprika",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "9eea213f-ff13-5bec-b5bc-b29fb368d4c0",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "to taste Parsley",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "eb80a77c-789c-5589-9244-e6c42aca2598",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Dash Salt",
+          "quantity": 1,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "6e0e4f16-3c9f-5c93-9b72-fce22bda7e45",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "Dash Pepper",
+          "quantity": 1,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "In a large pot of salted water, cook the potatoes until they are very tender. Drain.",
+      "ingredients_used": [
+        "c51bf1b9-64ca-546e-a30f-1f1d90736f29",
+        "eb80a77c-789c-5589-9244-e6c42aca2598"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "With a masher, coarsely crush the potatoes with at least 30 ml (2 tablespoons) of butter. With an electric mixer, purée with the milk. Season with salt and pepper. Set aside.",
+      "ingredients_used": [
+        "c51bf1b9-64ca-546e-a30f-1f1d90736f29",
+        "3931c8ef-5d5f-5624-85fb-a8cf4ad75408",
+        "f8619a8e-6d24-5723-b7ec-ece361ad0729",
+        "eb80a77c-789c-5589-9244-e6c42aca2598",
+        "6e0e4f16-3c9f-5c93-9b72-fce22bda7e45"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "With the rack in the middle position, preheat the oven to 190 °C (375 °F).",
+      "temperature": {
+        "value": 190,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 4,
+      "instruction": "In a large skillet, brown the onion in the remaining butter. Add the meat and cook until golden brown. Season with salt and pepper. Remove from the heat.",
+      "ingredients_used": [
+        "3931c8ef-5d5f-5624-85fb-a8cf4ad75408",
+        "39365949-ba7d-5d3d-95c4-d0e1b23402d5",
+        "eb80a77c-789c-5589-9244-e6c42aca2598",
+        "6e0e4f16-3c9f-5c93-9b72-fce22bda7e45"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Lightly press the meat at the bottom of a 20-cm (8-inch) square baking dish. Cover with the corn and the mashed potatoes. Sprinkle with paprika and parsley.",
+      "ingredients_used": [
+        "c51bf1b9-64ca-546e-a30f-1f1d90736f29",
+        "f1edb928-d5c4-58cd-84b7-eb3c826761af",
+        "88984898-272a-519f-ab7d-54342c29f03a",
+        "9eea213f-ff13-5bec-b5bc-b29fb368d4c0"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Bake for about 30 minutes. Finish cooking under the broiler. Let cool for 10 minutes."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.ricardocuisine.com/en/recipes/5541-pate-chinois-shepherd--s-pie-"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "id": "55e67e7a-9a4e-5688-a17e-8bf20bd07f49",
+  "version": "1.0.0",
+  "title": "Prawn stir-fry",
+  "slug": "prawn-stir-fry",
+  "summary": "A Thai-style seafood stir-fry featuring prawns marinated in a spicy lime and fish sauce mixture, served with vegetables and rice noodles.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:13:06Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53200"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/96lt871763480970.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/96lt871763480970.jpg/small",
+      "alt_text": "Photo of Prawn stir-fry",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=DddM8OGb4Jc"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "724b7c6a-f254-57d4-9729-335a2b2d93b1",
+        "slug": "thai",
+        "name": "Thai"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "marinating_time_minutes": 10,
+    "total_time_minutes": 35
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "prawn stir-fry with noodles"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "eggs",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "b886d4f0-3990-55bb-9e44-da740d9cefd6",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "6c071b79-bf0b-5438-ab07-ec70955c315c",
+          "ingredient_id": "0093f11b-b123-575d-9a40-af8831db7065",
+          "name": "raw tiger prawns",
+          "display_text": "200g Raw tiger prawns",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "15b9d21e-07b4-566d-85e4-c98a3e54ec7a",
+          "ingredient_id": "091f7fa6-975c-516e-a354-2a31e6503580",
+          "name": "green chilli",
+          "display_text": "1 chopped Green Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b386a093-a24d-50c2-89cc-ccc9925b98d6",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 Cloves Crushed Garlic",
+          "quantity": 3.0,
+          "unit": "clove",
+          "preparation": "crushed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c171e77a-1f4d-574e-93d3-e70a2d3d9315",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "1  bunch Coriander",
+          "quantity": 1.0,
+          "unit": "bunch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "2876fe86-f121-5e15-ac1a-57ecd82ecaf8",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "1 tblsp Caster Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "b189e884-c8ab-5d75-8afc-161b659b9adf",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "Juice of 1 Lime",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d3f45849-a157-55a6-9d2b-61137ace35c5",
+          "ingredient_id": "de927c20-fdfa-5b98-8ee9-7840fa951a2f",
+          "name": "fish sauce",
+          "display_text": "3 tbsp Fish Sauce",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "02a0ec5d-39eb-512c-abc1-492d6893c3de",
+          "ingredient_id": "91c1bd70-d7c7-5326-89ba-7c3530c157d5",
+          "name": "ground nut oil",
+          "display_text": "2 tablespoons Ground Nut Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "572662c4-9bd0-5038-bea6-62130c2346a8",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "3cm piece Ginger",
+          "quantity": 3.0,
+          "unit": "centimeter",
+          "preparation": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f8f17e87-807a-5fef-9e81-15972682d9ba",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "8 slices Spring Onions",
+          "quantity": 8.0,
+          "unit": "slice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "bb368518-a839-5032-b1d0-69064c4869d6",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1 sliced Red Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "39262acb-fcd0-55de-8b1c-68bd951e0bb9",
+          "ingredient_id": "8b4cb4df-7262-54b9-b650-855aeb595f72",
+          "name": "water chestnut",
+          "display_text": "85g Water Chestnut",
+          "quantity": 85.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 85.0,
+          "metric_unit": "gram",
+          "category": "beverages"
+        },
+        {
+          "id": "8f8156cf-1165-5856-976a-2b95d34aa8ba",
+          "ingredient_id": "2ac15386-42dc-5765-807a-4b4cf4edfcba",
+          "name": "bean sprouts",
+          "display_text": "100g Bean Sprouts",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "c6cbc32c-c93f-5580-ba7c-7bcf536f176d",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "1 tablespoon Soy Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "38129c35-7e82-55e9-a758-9cb73539168a",
+          "ingredient_id": "26534aa9-d664-5446-96c6-a499ce56a3fe",
+          "name": "rice noodles",
+          "display_text": "To serve Rice Noodles",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "475904bf-d71b-5415-88d7-d22f534d9277",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "To serve Lime",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Put the prawns in a bowl. Put the chilli, garlic, coriander stalks (snip these up using scissors first) and caster sugar in a spice grinder or small food processor and whizz together. Add half of the lime juice and the fish sauce, then pour this over the prawns.",
+      "ingredients_used": [
+        "6c071b79-bf0b-5438-ab07-ec70955c315c",
+        "15b9d21e-07b4-566d-85e4-c98a3e54ec7a",
+        "b386a093-a24d-50c2-89cc-ccc9925b98d6",
+        "c171e77a-1f4d-574e-93d3-e70a2d3d9315",
+        "2876fe86-f121-5e15-ac1a-57ecd82ecaf8",
+        "b189e884-c8ab-5d75-8afc-161b659b9adf",
+        "d3f45849-a157-55a6-9d2b-61137ace35c5",
+        "475904bf-d71b-5415-88d7-d22f534d9277"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat 1 tbsp oil in a wok, add the ginger and spring onions and fry for 1 min. Add the red pepper and fry for 1 min, until the pepper starts to soften. Add the water chestnuts and bean sprouts, and toss together until the bean sprouts start to wilt. Add the soy sauce and a really good grind of black pepper, then tip the lot into a serving dish.",
+      "ingredients_used": [
+        "572662c4-9bd0-5038-bea6-62130c2346a8",
+        "f8f17e87-807a-5fef-9e81-15972682d9ba",
+        "bb368518-a839-5032-b1d0-69064c4869d6",
+        "39262acb-fcd0-55de-8b1c-68bd951e0bb9",
+        "8f8156cf-1165-5856-976a-2b95d34aa8ba",
+        "c6cbc32c-c93f-5580-ba7c-7bcf536f176d"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Heat the remaining oil in the wok and add the prawns, lifting them out of their juices. Toss for 1-2 mins until they turn pink, add the marinade and swirl the wok quickly, then tip the lot onto the veg. Snip over the coriander leaves and sprinkle on the remaining lime. Serves over noodles with extra lime for squeezing over.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "6c071b79-bf0b-5438-ab07-ec70955c315c",
+        "c171e77a-1f4d-574e-93d3-e70a2d3d9315",
+        "b189e884-c8ab-5d75-8afc-161b659b9adf",
+        "38129c35-7e82-55e9-a758-9cb73539168a",
+        "475904bf-d71b-5415-88d7-d22f534d9277"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/thai-prawn-ginger-spring-onion-stir-fry"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

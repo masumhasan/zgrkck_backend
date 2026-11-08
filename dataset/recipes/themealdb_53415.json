@@ -1,0 +1,254 @@
+{
+  "id": "4f4c171d-fb9c-5a1e-9822-42b83a88cb0b",
+  "version": "1.0.0",
+  "title": "Torrijas",
+  "slug": "torrijas",
+  "summary": "Torrijas are a traditional Spanish-style sweet bread pudding made by soaking slices of baguette in a spiced milk and sherry mixture, then frying them in oil and serving with honey.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:32:04Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53415"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/927vvp1779732018.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/927vvp1779732018.jpg/small",
+      "alt_text": "Photo of Torrijas",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ympLYopSKow"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4ae69bee-e4d8-5b74-8959-5af11c0b3454",
+        "slug": "andorran",
+        "name": "Andorran"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 15,
+    "marinating_time_minutes": 10,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "servings",
+    "serving_size_description": "2 slices of bread"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "4fdcbace-a8d2-5821-85d0-a1dbe41722a9",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "f0220bbe-8144-59d1-a732-1e547f60c0ff",
+          "ingredient_id": "4f3b3c33-6392-5e5a-ac51-d269b68aa6e4",
+          "name": "orange",
+          "display_text": "1 medium Orange",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "be994c0d-edb6-58a2-873e-513ebf914c0d",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "1 medium Lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "fcf929bd-eba1-5acf-9001-b083ad6a8625",
+          "ingredient_id": "cdd10399-e080-5794-bffb-7cf578edb5a5",
+          "name": "whole milk",
+          "display_text": "4 cups Whole Milk",
+          "quantity": 4.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 960.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "525735f9-80d4-5db5-8f07-866f8052ce69",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1/2 cup Sugar",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "8141179a-7dae-5317-afab-9b9e844d7346",
+          "ingredient_id": "815267d7-ad8f-543a-b885-c3fdabdc63fb",
+          "name": "cinnamon stick",
+          "display_text": "1 Cinnamon Stick",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "ca9f085b-542b-570c-83fd-79c2bc2bac4b",
+          "ingredient_id": "0878c803-3a75-5498-b12f-29ba3adbfea5",
+          "name": "dry sherry",
+          "display_text": "1/3 cup Dry sherry",
+          "quantity": 0.3333,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 80.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "d93d706f-3815-52cf-822c-feda6338ec5a",
+          "ingredient_id": "43b5d3b2-0e2d-5ff1-9c0e-d047e896af5e",
+          "name": "baguette",
+          "display_text": "1 Baguette",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "8067a818-fa28-543f-9785-132b5639e9b5",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 cup Olive Oil",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "218c0fa4-98a3-59e1-b114-4e604838f558",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "4 large Eggs",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "6ee0880c-cf52-5ef5-ae83-7f4a8e9d9a03",
+          "ingredient_id": "7ad11d6e-3134-5831-97df-4db2a67589f7",
+          "name": "honey",
+          "display_text": "To serve Honey",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "sweeteners"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Finely grate the zest of 1 medium orange (about 2 teaspoons) and 1 medium lemon (about 1 teaspoon) into a medium saucepan.",
+      "ingredients_used": [
+        "f0220bbe-8144-59d1-a732-1e547f60c0ff",
+        "be994c0d-edb6-58a2-873e-513ebf914c0d"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add 1 quart whole milk, 1/2 cup granulated sugar, and 1 (3-inch) cinnamon stick. Bring to a boil over medium heat. Remove the pan from the heat and add 1/3 cup dry sherry. Let sit until cool enough to handle. Meanwhile, cut 1 (12-ounce) day-old baguette crosswise into 1-inch-thick slices (about 16). Arrange in a single layer on a rimmed baking sheet.",
+      "ingredients_used": [
+        "fcf929bd-eba1-5acf-9001-b083ad6a8625",
+        "525735f9-80d4-5db5-8f07-866f8052ce69",
+        "8141179a-7dae-5317-afab-9b9e844d7346",
+        "ca9f085b-542b-570c-83fd-79c2bc2bac4b",
+        "d93d706f-3815-52cf-822c-feda6338ec5a"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Pour the milk mixture over the bread and let it soak for 5 minutes. Flip each slice of bread. Let the bread sit until it absorbs most of the liquid but isn't falling apart, about 5 minutes more.",
+      "ingredients_used": [
+        "fcf929bd-eba1-5acf-9001-b083ad6a8625"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Heat 1 cup olive oil in a large frying pan over medium-high heat until shimmering. Meanwhile, whisk 4 eggs together in a medium bowl.",
+      "ingredients_used": [
+        "8067a818-fa28-543f-9785-132b5639e9b5",
+        "218c0fa4-98a3-59e1-b114-4e604838f558"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Working with 1 slice at a time, dip the bread in the egg mixture to coat. Let the excess drip off, then add to the pan. Repeat with as many slices as needed until the pan is filled with a single layer. Fry until golden-brown on the bottom, about 4 minutes. Flip the slices and fry until the second side until golden-brown, 3 to 4 minutes more. Transfer to a paper towel-lined plate or baking sheet. Repeat dipping and frying the remaining bread. Drizzle with honey to serve.",
+      "ingredients_used": [
+        "6ee0880c-cf52-5ef5-ae83-7f4a8e9d9a03"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.thekitchn.com/torrijas-recipe-23214033#post-recipe-286240303"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

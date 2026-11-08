@@ -1,0 +1,280 @@
+{
+  "id": "503edd9e-b03b-597d-803a-d77dbc4da445",
+  "version": "1.0.0",
+  "title": "Cabbage Soup (Shchi)",
+  "slug": "cabbage-soup-shchi",
+  "summary": "A traditional Russian cabbage soup made with sautéed vegetables, potatoes, and vegetable stock.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:02:26Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53077"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/60oc3k1699009846.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/60oc3k1699009846.jpg/small",
+      "alt_text": "Photo of Cabbage Soup (Shchi)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=lTjlbqGc_Y8"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "89b023d7-b2bb-5d32-90aa-fbee4bddee90",
+        "slug": "russian",
+        "name": "Russian"
+      }
+    ],
+    "tags": [
+      "soup"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "soup"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 33,
+    "total_time_minutes": 48
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of soup"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "celery"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "a7e0d954-d345-5d60-a371-bd6b9561d8ee",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "95ca9881-0019-585f-8bbc-dcfe2aee85cb",
+          "ingredient_id": "bc46b2a6-8a59-50ee-a044-ce38bddb125c",
+          "name": "unsalted butter",
+          "display_text": "3 tbs Unsalted Butter",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "78a7b769-0111-5fb9-952a-533c2aa9ea52",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 large Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "10ed26d5-6df6-5366-97a7-18a0dc030790",
+          "ingredient_id": "8604c41c-a935-5634-b405-fed806fe806b",
+          "name": "cabbage",
+          "display_text": "1 medium Cabbage",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "35307c35-e314-5899-8ac2-0007b46dc236",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "1 Carrots",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "8be06bdf-05d1-5ff8-aa81-cf91eba15c65",
+          "ingredient_id": "ed4951b3-26e6-5bb4-a5af-9c61a46687a0",
+          "name": "celery",
+          "display_text": "1 Celery",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3975f795-c1ad-5022-b4db-18bd32642403",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "1 Bay Leaf",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "9d5af913-ad9d-5cfe-a25f-776e5ef57129",
+          "ingredient_id": "2d490c0b-0744-5be5-a104-641c87b13636",
+          "name": "vegetable stock",
+          "display_text": "8 cups Vegetable Stock",
+          "quantity": 8.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 1920.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "11e73e02-5de6-5be8-9ec9-44b3ccc7d7f6",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "2 large Potatoes",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "adc1e128-79eb-5129-a07e-838c90f64de3",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomatoes",
+          "display_text": "2 large Tomatoes",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "dd9ecda2-5860-51d3-aa46-18f45404c242",
+          "ingredient_id": "6ca777b1-4e80-5a4b-8ffe-88c954e2cc8a",
+          "name": "sour cream",
+          "display_text": "Garnish Sour Cream",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "garnish",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "c7535b3f-50e0-506c-bd5f-887ca7022c3f",
+          "ingredient_id": "c20ef13e-7f52-5fce-847f-34f123e6392e",
+          "name": "dill",
+          "display_text": "Garnish Dill",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "garnish",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Add the butter to a large Dutch oven or other heavy-duty pot over medium heat. When the butter has melted, add the onion and sauté until translucent.",
+      "ingredients_used": [
+        "95ca9881-0019-585f-8bbc-dcfe2aee85cb",
+        "78a7b769-0111-5fb9-952a-533c2aa9ea52"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the cabbage, carrot, and celery. Sauté until the vegetables begin to soften, stirring frequently, about 3 minutes.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "10ed26d5-6df6-5366-97a7-18a0dc030790",
+        "8be06bdf-05d1-5ff8-aa81-cf91eba15c65"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the bay leaf and vegetable stock and bring to a boil over high heat. Reduce the heat to low and simmer, covered, until the vegetables are crisp-tender, about 15 minutes.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "3975f795-c1ad-5022-b4db-18bd32642403",
+        "9d5af913-ad9d-5cfe-a25f-776e5ef57129"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add the potatoes and bring it back to a boil over high heat. Reduce the heat to low and simmer, covered, until the potatoes are tender, about 10 minutes.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "11e73e02-5de6-5be8-9ec9-44b3ccc7d7f6"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Add the tomatoes (or undrained canned tomatoes) and bring the soup back to a boil over high heat. Reduce the heat to low and simmer, uncovered, for 5 minutes. Season to taste with salt and pepper.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "adc1e128-79eb-5129-a07e-838c90f64de3"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "emove and discard the bay leaf from the pot.",
+      "ingredients_used": [
+        "3975f795-c1ad-5022-b4db-18bd32642403"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Serve topped with fresh sour cream and fresh dill.",
+      "ingredients_used": [
+        "dd9ecda2-5860-51d3-aa46-18f45404c242",
+        "c7535b3f-50e0-506c-bd5f-887ca7022c3f"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.thespruceeats.com/traditional-russian-cabbage-soup-shchi-recipe-1135534"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

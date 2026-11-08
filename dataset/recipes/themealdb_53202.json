@@ -1,0 +1,191 @@
+{
+  "id": "332db4cf-3129-5a2c-8315-baa66d1da2f8",
+  "version": "1.0.0",
+  "title": "Thai-style steamed fish",
+  "slug": "thai-style-steamed-fish",
+  "summary": "Trout fillets steamed in foil with ginger, garlic, chili, lime, and pak choi, seasoned with soy sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:13:13Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53202"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/yx8j1i1763484612.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/yx8j1i1763484612.jpg/small",
+      "alt_text": "Photo of Thai-style steamed fish",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=KQ-dl8fuBlQ"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "724b7c6a-f254-57d4-9729-335a2b2d93b1",
+        "slug": "thai",
+        "name": "Thai"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 25
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 trout fillet with pak choi"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "f74227ce-2a82-5cc3-8311-9004da6f34fe",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "14995661-f50f-5617-85a3-7540762e1e52",
+          "ingredient_id": "f8fbdb2c-f24f-5d7d-b3a7-ed7635212d1a",
+          "name": "trout",
+          "display_text": "2 Trout",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "fish"
+        },
+        {
+          "id": "19c2880c-c178-5ba7-b6f4-a2a9961ef061",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "Knob Ginger",
+          "quantity": 1,
+          "unit": "knob",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "db19b1e6-65c0-56d0-8899-cd578a841a3c",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "1 small finely diced Garlic Clove",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "small finely diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b6c9b748-b081-5598-9818-04cc4e125421",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "1 small finely diced Red Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "small finely diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c25ac148-e889-53c7-ad6b-30a8404c9360",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "Juice/zest of one Lime",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "juice/zest of one",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7e47e7cc-7c57-59bd-96c4-69821e1cd97d",
+          "ingredient_id": "cf330693-ef7c-53b8-b06b-090db3d4ad58",
+          "name": "baby pak koi",
+          "display_text": "3 Baby Pak Koi",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "86993e9d-47da-5903-a5fd-ad3a3fd3d8c2",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "2 tblsp Soy Sauce",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Nestle the fish fillets side by side on a large square of foil and scatter the ginger, garlic, chilli and lime zest over them. Drizzle the lime juice on top and then scatter the pieces of pak choi around and on top of the fish. Pour the soy sauce over the pak choi and loosely seal the foil to make a package, making sure you leave space at the top for the steam to circulate as the fish cooks.",
+      "ingredients_used": [
+        "19c2880c-c178-5ba7-b6f4-a2a9961ef061",
+        "b6c9b748-b081-5598-9818-04cc4e125421",
+        "c25ac148-e889-53c7-ad6b-30a8404c9360",
+        "86993e9d-47da-5903-a5fd-ad3a3fd3d8c2"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Steam for 15 minutes. (If you haven’t got a steamer, put the parcel on a heatproof plate over a pan of gently simmering water, cover with a lid and steam.)",
+      "timer_seconds": 900
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/thai-style-steamed-fish"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "id": "7bc51e99-3bfc-579a-801f-3327027b2c7c",
+  "version": "1.0.0",
+  "title": "Seafood rice",
+  "slug": "seafood-rice",
+  "summary": "A Spanish-style seafood rice dish featuring chorizo, peas, and a frozen seafood mix cooked in turmeric-infused fish stock.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:10:15Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53167"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/5r5rvx1763287943.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/5r5rvx1763287943.jpg/small",
+      "alt_text": "Photo of Seafood rice",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Dr8Nsod20yg"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 28,
+    "total_time_minutes": 38
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of seafood rice"
+  },
+  "allergens": {
+    "contains": [
+      "fish",
+      "shellfish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "819b822e-6761-5051-9811-e5b9afb1d999",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "8179c76a-cc58-5fc3-b462-9f583d7501c1",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 tbsp Olive Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "93285a69-c2ab-5f57-9169-6cdef5d85b8f",
+          "ingredient_id": "ef5d99bc-384e-522a-8c0f-1c8501f6612c",
+          "name": "leek",
+          "display_text": "1 sliced Leek",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "39f8523a-270b-5473-91de-005584e6c217",
+          "ingredient_id": "d4235a95-0bb4-579b-8855-bbb8f4efeb46",
+          "name": "chorizo",
+          "display_text": "110g Chorizo",
+          "quantity": 110.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 110.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "e1a96f4a-5da6-5cc3-8c9a-01e53f1768df",
+          "ingredient_id": "ab4d5e50-1105-53e2-be29-49b042b3d7fb",
+          "name": "turmeric",
+          "display_text": "1 teaspoon Turmeric",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e0a8cdd1-8400-54d8-87e5-6b118f5ffd62",
+          "ingredient_id": "025b8433-c498-5b37-813a-ec00ac6c2ae5",
+          "name": "rice",
+          "display_text": "300g Rice",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "f91f39bb-8fd9-530c-be95-580356868905",
+          "ingredient_id": "c118d44d-de17-5a99-9978-c0acc2b19a6e",
+          "name": "fish stock",
+          "display_text": "1 L Fish Stock",
+          "quantity": 1.0,
+          "unit": "liter",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "liter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "7f46dd37-c223-54fb-83fc-3e731e0bb03e",
+          "ingredient_id": "7073667e-84c6-57dc-a1f3-4bd704824318",
+          "name": "peas",
+          "display_text": "200g Peas",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "b5f7ecc7-44ea-5919-ad04-c30ac6ac9e08",
+          "ingredient_id": "a5c5a8c6-96b4-51d6-8b8a-a212378f6046",
+          "name": "frozen seafood mix",
+          "display_text": "400g Frozen Seafood mix",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "frozen_foods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oil in a deep frying pan, then soften the leek for 5 mins without browning. Add the chorizo and fry until it releases its oils. Stir in the turmeric and rice until coated by the oils, then pour in the stock. Bring to the boil, then simmer for 15 mins, stirring occasionally.",
+      "ingredients_used": [
+        "93285a69-c2ab-5f57-9169-6cdef5d85b8f",
+        "39f8523a-270b-5473-91de-005584e6c217",
+        "e1a96f4a-5da6-5cc3-8c9a-01e53f1768df",
+        "e0a8cdd1-8400-54d8-87e5-6b118f5ffd62"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Tip in the peas and cook for 5 mins, then stir in the seafood to heat through for a final 1-2 mins cooking or until rice is cooked. Check for seasoning and serve immediately with lemon wedges.",
+      "ingredients_used": [
+        "e0a8cdd1-8400-54d8-87e5-6b118f5ffd62",
+        "7f46dd37-c223-54fb-83fc-3e731e0bb03e"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/easiest-ever-paella"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

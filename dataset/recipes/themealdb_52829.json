@@ -1,0 +1,399 @@
+{
+  "id": "98f656ab-22bc-5649-b799-da845d803802",
+  "version": "1.0.0",
+  "title": "Grilled Mac and Cheese Sandwich",
+  "slug": "grilled-mac-and-cheese-sandwich",
+  "summary": "A decadent sandwich featuring chilled, firm macaroni and cheese pressed between slices of bread and grilled with garlic butter and extra cheese.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:41:03Z",
+  "updated_at": "2026-10-16T10:22:47Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52829"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/xutquv1505330523.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/xutquv1505330523.jpg/small",
+      "alt_text": "Photo of Grilled Mac and Cheese Sandwich",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=PYq31xLj-DY"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b95bb9d4-1e18-5623-a50f-942c7d140e82",
+        "slug": "american",
+        "name": "American"
+      }
+    ],
+    "tags": [
+      "cheesy"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "comfort_food"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 25,
+    "rest_time_minutes": 60,
+    "total_time_minutes": 105
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 sandwich"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "mustard"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "914fda2b-5dc7-5292-9fcc-9ffac070d254",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "7f6da7c5-09fe-568a-b8ce-f14aec143015",
+          "ingredient_id": "0ec71036-cad4-57f1-81a8-9396827c3785",
+          "name": "macaroni",
+          "display_text": "8 ounces (230 grams) Macaroni",
+          "quantity": 8.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 226.8,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "cad1c5ca-7fdd-53df-92b9-20707748a8b6",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "1/3 cup Plain Flour",
+          "quantity": 0.3333,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 80.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "f7344938-6f41-5344-aed7-d40e1c3c2e14",
+          "ingredient_id": "d359ecfb-a1ce-5f43-b904-6b077bf752ea",
+          "name": "mustard powder",
+          "display_text": "3/4 teaspoon Mustard Powder",
+          "quantity": 0.75,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 3.8,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "6ed6c053-8896-5a83-bf8a-26cc1b7b205e",
+          "ingredient_id": "856e47ab-bcee-5e44-bc03-f1ba0c6859b1",
+          "name": "garlic powder",
+          "display_text": "1/2 teaspoon Garlic powder",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "f6c4fe4e-71cd-5ce5-8cee-8635e4d13f3f",
+          "ingredient_id": "f60d2962-95b1-5ff5-80ec-2e8902992bc9",
+          "name": "kosher salt",
+          "display_text": "1/2 teaspoon Kosher salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "4b496503-0f72-5c02-9d62-4bc26d3eac26",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1/2 teaspoon Black pepper",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "7421a2fc-e71f-5d24-b676-fd34d5500e5c",
+          "ingredient_id": "97dd86b9-4ad7-5a3a-bc6c-86485409c325",
+          "name": "cayenne pepper",
+          "display_text": "1/8 teaspoon Cayenne pepper",
+          "quantity": 0.125,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 0.6,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "504db9cd-0665-5c67-b058-3191fa64b88e",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "6 tablespoons (85 grams) Butter",
+          "quantity": 6.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 90.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "b9275a55-e2c8-5fff-950f-d197797ef16c",
+          "ingredient_id": "cdd10399-e080-5794-bffb-7cf578edb5a5",
+          "name": "whole milk",
+          "display_text": "1 1/2 cups (360 milliliters) Whole Milk",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "e639ccba-abb5-52fd-961f-0201324cfd19",
+          "ingredient_id": "cb8d5d02-f2f1-547b-b7e6-054d6629adc1",
+          "name": "heavy cream",
+          "display_text": "1 cup (240 milliliters) Heavy Cream",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "50983ac4-3f7f-5fb2-a0a2-312f13fd65cc",
+          "ingredient_id": "d8366179-5fb4-5e5d-9024-855f2e0d0df4",
+          "name": "monterey jack cheese",
+          "display_text": "1 pound (455 grams) Monterey Jack Cheese",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "a95d521d-5bdb-54b9-a15b-e6dc901d966f",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "4 tablespoons (55 grams) Butter",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "aacc8db4-aa4c-5902-bbe6-c11f936935c0",
+          "ingredient_id": "856e47ab-bcee-5e44-bc03-f1ba0c6859b1",
+          "name": "garlic powder",
+          "display_text": "1 teaspoon garlic powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "2d483012-c4ac-5032-ac9c-bc1ee3edd95c",
+          "ingredient_id": "95128a6e-6409-5797-b33b-a94a27c5951f",
+          "name": "bread",
+          "display_text": "16 slices square Bread",
+          "quantity": 16.0,
+          "unit": "slice",
+          "preparation": "square",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "bb6efe89-4476-576e-9135-7e4ffc0b96d7",
+          "ingredient_id": "fe9682db-38d4-56f5-81fb-f846056c2505",
+          "name": "cheddar cheese",
+          "display_text": "8 slices mild Cheddar Cheese",
+          "quantity": 8.0,
+          "unit": "slice",
+          "preparation": "mild",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "ccdb3e91-a9ae-5218-84b0-fe75201d89e7",
+          "ingredient_id": "6606b52c-7071-5387-a3cf-e6ca94b8cfaf",
+          "name": "colby jack cheese",
+          "display_text": "8 slices Colby Jack Cheese",
+          "quantity": 8.0,
+          "unit": "slice",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "1a06fb17-e2bc-5356-9b18-6182a4f16e69",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "4 tablespoons (55 grams) Butter",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Make the mac and cheese"
+    },
+    {
+      "step_number": 2,
+      "instruction": "Bring a medium saucepan of generously salted water (you want it to taste like seawater) to a boil. Add the pasta and cook, stirring occasionally, until al dente, 8 to 10 minutes, or according to the package directions. The pasta should be tender but still chewy.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "f6c4fe4e-71cd-5ce5-8cee-8635e4d13f3f"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "While the pasta is cooking, in a small bowl, whisk together the flour, mustard powder, garlic powder, salt, black pepper, and cayenne pepper.",
+      "ingredients_used": [
+        "f7344938-6f41-5344-aed7-d40e1c3c2e14",
+        "6ed6c053-8896-5a83-bf8a-26cc1b7b205e",
+        "f6c4fe4e-71cd-5ce5-8cee-8635e4d13f3f",
+        "4b496503-0f72-5c02-9d62-4bc26d3eac26",
+        "7421a2fc-e71f-5d24-b676-fd34d5500e5c",
+        "aacc8db4-aa4c-5902-bbe6-c11f936935c0"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Drain the pasta in a colander. Place the empty pasta pan (no need to wash it) over low heat and add the butter. When the butter has melted, whisk in the flour mixture and continue to cook, whisking frequently, until the mixture is beginning to brown and has a pleasant, nutty aroma, about 1 minute. Watch carefully so it does not scorch on the bottom of the pan.",
+      "timer_seconds": 60,
+      "ingredients_used": [
+        "504db9cd-0665-5c67-b058-3191fa64b88e",
+        "a95d521d-5bdb-54b9-a15b-e6dc901d966f",
+        "1a06fb17-e2bc-5356-9b18-6182a4f16e69"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Slowly whisk the milk and cream into the flour mixture until everything is really well combined. Cook, whisking constantly, until the sauce is heated through and just begins to thicken, about 2 minutes. Remove from the heat. Gradually add the cheese while stirring constantly with a wooden spoon or silicone spatula and keep stirring until the cheese has melted into the sauce. Then stir in the drained cooked pasta.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "b9275a55-e2c8-5fff-950f-d197797ef16c"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Line a 9-by-13-inch (23-by-33-centimeter) rimmed baking sheet with parchment paper or aluminum foil. Coat the paper or foil with nonstick cooking spray or slick it with butter. Pour the warm mac and cheese onto the prepared baking sheet and spread it evenly with a spatula. Coat another piece of parchment paper with cooking spray or butter and place it, oiled or buttered side down, directly on the surface of the mac and cheese. Refrigerate until cool and firm, about 1 hour.",
+      "timer_seconds": 3600,
+      "ingredients_used": [
+        "504db9cd-0665-5c67-b058-3191fa64b88e",
+        "a95d521d-5bdb-54b9-a15b-e6dc901d966f",
+        "1a06fb17-e2bc-5356-9b18-6182a4f16e69"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Make the grilled cheese"
+    },
+    {
+      "step_number": 8,
+      "instruction": "Heat a large cast-iron or nonstick skillet over medium-low heat."
+    },
+    {
+      "step_number": 9,
+      "instruction": "In a small bowl, stir together the 4 tablespoons (55 grams) butter and garlic powder until well blended.",
+      "ingredients_used": [
+        "6ed6c053-8896-5a83-bf8a-26cc1b7b205e",
+        "504db9cd-0665-5c67-b058-3191fa64b88e",
+        "a95d521d-5bdb-54b9-a15b-e6dc901d966f",
+        "aacc8db4-aa4c-5902-bbe6-c11f936935c0",
+        "1a06fb17-e2bc-5356-9b18-6182a4f16e69"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "Remove the mac and cheese from the refrigerator and peel off the top layer of parchment paper. Carefully cut into 8 equal pieces. Each piece will make 1 grilled mac and cheese sandwich. (You can stash each individual portion in a double layer of resealable plastic bags and refrigerate for up to 3 days or freeze it for up to 1 month.)"
+    },
+    {
+      "step_number": 11,
+      "instruction": "Spread 3/4 teaspoon garlic butter on one side of each bread slice. Place half of the slices, buttered-side down, on a clean cutting board. Top each with one slice of Cheddar, then 1 piece of the mac and cheese. (Transfer from the baking sheet by scooting your hand or a spatula under each piece of mac and cheese and then flipping it over onto a sandwich.) Place 1 slice of Jack on top of each. Finish with the remaining bread slices, buttered-side up.",
+      "ingredients_used": [
+        "504db9cd-0665-5c67-b058-3191fa64b88e",
+        "a95d521d-5bdb-54b9-a15b-e6dc901d966f",
+        "2d483012-c4ac-5032-ac9c-bc1ee3edd95c",
+        "1a06fb17-e2bc-5356-9b18-6182a4f16e69"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Using a wide spatula, place as many sandwiches in the pan as will fit without crowding it. Cover and cook until the bottoms are nicely browned, about 4 minutes. Turn and cook until the second sides are browned, the cheese is melted, and the mac and cheese is heated through, about 4 minutes more."
+    },
+    {
+      "step_number": 13,
+      "instruction": "Repeat with the remaining ingredients. Cut the sandwiches in half, if desired, and serve."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://leitesculinaria.com/103647/recipes-grilled-mac-and-cheese-sandwich.html"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "id": "cf153cd1-1a10-508a-90cd-cc5703e1d82e",
+  "version": "1.0.0",
+  "title": "Crispy Sausages and Greens",
+  "slug": "crispy-sausages-and-greens",
+  "summary": "A hearty Irish-style dish featuring roasted greens, cabbage, and mushrooms served with browned Italian fennel sausages.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:55:56Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52999"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/st1ifa1583267248.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/st1ifa1583267248.jpg/small",
+      "alt_text": "Photo of Crispy Sausages and Greens",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9afcb22c-d4b3-58a6-981b-5d7f3acffbaf",
+        "slug": "irish",
+        "name": "Irish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 42,
+    "total_time_minutes": 57
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "2 sausages with a portion of greens"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery",
+      "sulfites"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "37e7edc2-b560-5ada-a75e-ff7bbf7d4661",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "e179f05a-1d9c-538f-bcae-49f87bdbd163",
+          "ingredient_id": "ea2b5188-1104-5240-b077-b8eaf2c3aed9",
+          "name": "kale",
+          "display_text": "1  bunch Kale",
+          "quantity": 1.0,
+          "unit": "bunch",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "6470e760-d4e6-54bd-a76a-493b3bd81938",
+          "ingredient_id": "f68fad14-8516-520e-b56f-1c50a68165c2",
+          "name": "italian fennel sausages",
+          "display_text": "8 Italian Fennel Sausages",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "a89191f0-81d0-5c42-af71-f4633efd9238",
+          "ingredient_id": "8604c41c-a935-5634-b405-fed806fe806b",
+          "name": "cabbage",
+          "display_text": "1 Head chopped Cabbage",
+          "quantity": 1.0,
+          "unit": "head",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b0c0aab9-18d1-5e34-8203-bb91adf81ff8",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "8 Garlic Clove",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "10293048-cf17-5105-8cce-70c034d03321",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "Sliced Onion",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "af0ea86d-e9a5-5c45-9085-3fbd3d98414f",
+          "ingredient_id": "b1799df6-0136-5c15-b8f4-d13b39bf63d3",
+          "name": "shiitake mushrooms",
+          "display_text": "Sliced Shiitake Mushrooms",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "88f5938f-a4f3-5410-b1d8-cb4b5b62421a",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "1 cup Chicken Stock",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "4106b8d9-000a-57de-b18a-0295ac3ca418",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Salt",
+          "quantity": 0,
+          "unit": "as_needed",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "1d6f1ce1-ac17-50ea-ad34-943f1e23aa41",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "Pepper",
+          "quantity": 0,
+          "unit": "as_needed",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat the oven to 350°. Remove the stems from one bunch of Tuscan kale and tear the leaves into 1\" pieces (mustard greens, collards, spinach, and chard are great, too). Coarsely chop half a head of green cabbage. Combine the greens in a large baking dish and add 4 cloves of thinly sliced garlic. Adding some sliced onions and shiitake mushrooms at this point is optional, but highly recommended (I'll sauté the onions and mushrooms in a cast iron baking dish right on the stove before adding to the greens). Coat the greens with some olive oil and pour ½ cup chicken stock or broth over everything. Cover the dish with foil and bake until the greens are wilted, about 15 minutes. Remove foil and season with salt and pepper. Continue to bake until cabbage is tender, about 20-25 minutes more.",
+      "ingredients_used": [
+        "e179f05a-1d9c-538f-bcae-49f87bdbd163",
+        "a89191f0-81d0-5c42-af71-f4633efd9238",
+        "b0c0aab9-18d1-5e34-8203-bb91adf81ff8",
+        "10293048-cf17-5105-8cce-70c034d03321",
+        "af0ea86d-e9a5-5c45-9085-3fbd3d98414f",
+        "88f5938f-a4f3-5410-b1d8-cb4b5b62421a",
+        "4106b8d9-000a-57de-b18a-0295ac3ca418",
+        "1d6f1ce1-ac17-50ea-ad34-943f1e23aa41"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Meanwhile, heat a little olive oil in a large skillet over medium-high. Prick four sweet Italian sausages with a fork and cook until browned on all sides and cooked through, 10 to 12 minutes. When the greens are done, slice the sausage and toss into the greens with a splash of your favorite vinegar (I like sherry or red wine).",
+      "timer_seconds": 720,
+      "ingredients_used": [
+        "6470e760-d4e6-54bd-a76a-493b3bd81938"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bonappetit.com/columns/cooking-without-recipes/article/kale-cabbage-sausage-weeknight-dinner"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

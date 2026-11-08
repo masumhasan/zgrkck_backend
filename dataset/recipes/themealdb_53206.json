@@ -1,0 +1,248 @@
+{
+  "id": "453cac9d-60cc-54f2-a07c-22181da7add4",
+  "version": "1.0.0",
+  "title": "Thai chicken cakes with sweet chilli sauce",
+  "slug": "thai-chicken-cakes-with-sweet-chilli-sauce",
+  "summary": "These Thai-inspired chicken cakes are made by blitzing chicken breast with aromatics like ginger, garlic, and chili, then pan-frying until golden. They are served with sweet chili sauce and fresh lime.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:13:39Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53206"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/6s3i3p1763488540.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/6s3i3p1763488540.jpg/small",
+      "alt_text": "Photo of Thai chicken cakes with sweet chilli sauce",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=pT0WoqUZXw0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "724b7c6a-f254-57d4-9729-335a2b2d93b1",
+        "slug": "thai",
+        "name": "Thai"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 8,
+    "total_time_minutes": 23
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "3 chicken cakes with sauce and lime"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "ad3cf48d-0633-52a9-80d5-f77e864c5a90",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "dfb5f8b3-c607-5c3a-9759-505be1934557",
+          "ingredient_id": "e23191a1-4966-5b21-a6f1-8df6f50b79db",
+          "name": "chicken breast",
+          "display_text": "2 large Chicken Breast",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "214a6d2e-a328-5d88-95b9-b698f860717f",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0980d073-8a45-559f-be18-f9bb2f0d31d3",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "1 small Ginger",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7096865e-fc80-5a9f-ab24-ac8795f2c20f",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7362a3ca-32ef-55ce-a154-85aaf2f6c252",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "4 tbs Coriander",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "bd3a14c6-f35c-5acf-a260-3d9bd73a27b3",
+          "ingredient_id": "091f7fa6-975c-516e-a354-2a31e6503580",
+          "name": "green chilli",
+          "display_text": "1 chopped Green Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "18bc2c33-164d-5141-a9c3-3a8cb1222693",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tblsp Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "03f36211-2315-5939-96f8-417dc4227449",
+          "ingredient_id": "971d8347-9290-5103-a357-dc6438aa5ef3",
+          "name": "sweet chilli sauce",
+          "display_text": "To serve sweet chilli sauce",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "condiments"
+        },
+        {
+          "id": "2ad8218c-2b73-5154-8e37-2bfe6cbe61d2",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "To serve Lime",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0a5d4e61-de12-5e35-8bae-34b95ee83d16",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "Chopped Spring Onions",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "a26435f0-8fc6-56ee-8fd8-60ece1bca14f",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "Chopped Red Chilli",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Toss the chicken, garlic, ginger, onion, coriander and chilli into a food processor and season well. Blitz until the chicken is finely ground and everything is well mixed. Use your hands to shape six small cakes.",
+      "ingredients_used": [
+        "214a6d2e-a328-5d88-95b9-b698f860717f",
+        "0980d073-8a45-559f-be18-f9bb2f0d31d3",
+        "7096865e-fc80-5a9f-ab24-ac8795f2c20f",
+        "7362a3ca-32ef-55ce-a154-85aaf2f6c252",
+        "bd3a14c6-f35c-5acf-a260-3d9bd73a27b3",
+        "a26435f0-8fc6-56ee-8fd8-60ece1bca14f"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat the oil in a frying pan, then fry the cakes over a medium heat for about 6-8 mins, turning once. Serve hot, with sweet chilli sauce, lime wedges, coriander, shredded spring onion and red chilli.",
+      "timer_seconds": 480,
+      "ingredients_used": [
+        "7096865e-fc80-5a9f-ab24-ac8795f2c20f",
+        "7362a3ca-32ef-55ce-a154-85aaf2f6c252",
+        "bd3a14c6-f35c-5acf-a260-3d9bd73a27b3",
+        "03f36211-2315-5939-96f8-417dc4227449",
+        "2ad8218c-2b73-5154-8e37-2bfe6cbe61d2",
+        "a26435f0-8fc6-56ee-8fd8-60ece1bca14f"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/thai-chicken-cakes-sweet-chilli-sauce"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

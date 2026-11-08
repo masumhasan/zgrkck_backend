@@ -1,0 +1,252 @@
+{
+  "id": "98afde92-5fcc-51a3-9ec3-b41deeae168e",
+  "version": "1.0.0",
+  "title": "Honey Yogurt Cheesecake",
+  "slug": "honey-yogurt-cheesecake",
+  "summary": "A Greek-inspired cheesecake featuring a biscuit and almond crust topped with a creamy mixture of Greek yogurt, mascarpone, and honey.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:56:23Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53007"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/y2irzl1585563479.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/y2irzl1585563479.jpg/small",
+      "alt_text": "Photo of Honey Yogurt Cheesecake",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=JE8crtueXs8"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "de767d0c-ee8d-59a9-8d05-02b9ae12a1ac",
+        "slug": "greek",
+        "name": "Greek"
+      }
+    ],
+    "tags": [
+      "sweet"
+    ],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 85,
+    "total_time_minutes": 105
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "portions",
+    "serving_size_description": "1 slice of cheesecake"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "tree_nuts",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "ae9c6746-e482-52ac-a1fd-025e77c9880d",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "1b1bcc57-be37-567f-8773-743719f1ef8a",
+          "ingredient_id": "42f8f655-c997-50ed-870f-09babd4cc947",
+          "name": "digestive biscuits",
+          "display_text": "100g Digestive Biscuits",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "824e6778-37ec-5435-8437-2133a7fa900e",
+          "ingredient_id": "1f65be5f-ad9d-5713-aca2-600f7b2a1ee8",
+          "name": "almonds",
+          "display_text": "85g Almonds",
+          "quantity": 85.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 85.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "44f12a8a-099c-56ba-9958-2bdee139df6d",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "85g Butter",
+          "quantity": 85.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 85.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "3bcb7f45-6125-5180-98ae-67109528d69d",
+          "ingredient_id": "ba22b73d-e619-5bc7-a859-f65b683613fe",
+          "name": "greek yogurt",
+          "display_text": "250ml Greek Yogurt",
+          "quantity": 250.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "25e6495d-1c88-5b8e-9cd6-737a91154a67",
+          "ingredient_id": "46a7c18d-4f96-5454-b9fa-a262e8226782",
+          "name": "mascarpone",
+          "display_text": "750g Mascarpone",
+          "quantity": 750.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 750.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "af581e80-10cc-562e-88fa-f3acc17d7903",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "2 Eggs",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "c0fcf14b-e84d-58f9-a357-2d657b39afc4",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "Zest of 1 Lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "zest",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "dc6c5e59-d515-511b-8262-7cc701d7403e",
+          "ingredient_id": "4f3b3c33-6392-5e5a-ac51-d269b68aa6e4",
+          "name": "orange",
+          "display_text": "Zest of 1 Orange",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "zest",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7ff612d9-6cb4-5822-94d7-e16f0a619fbd",
+          "ingredient_id": "7ad11d6e-3134-5831-97df-4db2a67589f7",
+          "name": "honey",
+          "display_text": "250ml Honey",
+          "quantity": 250.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "e221d5e2-56b4-5d62-b39d-c81da1b1ad65",
+          "ingredient_id": "c9fb3c8f-8d32-5a74-b0bd-23bcec1bec91",
+          "name": "fruit mix",
+          "display_text": "To serve Fruit Mix",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 160C/140C fan/gas 3. Crush the biscuits and most of the almonds inside a plastic food bag using a rolling pin. Mix with the butter, then press into the bottom of a deep, oval, 23cm dish (or something similar in size – a roasting tin, baking dish or cake tin will work). Bake for 10 mins until crisp.",
+      "timer_seconds": 600,
+      "temperature": {
+        "value": 160,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "1b1bcc57-be37-567f-8773-743719f1ef8a",
+        "824e6778-37ec-5435-8437-2133a7fa900e",
+        "44f12a8a-099c-56ba-9958-2bdee139df6d"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Stir or mash together the yogurt and mascarpone, then whisk in the eggs, one at a time. Stir in the lemon and orange zests, then stir in most of the honey, reserving about 3 tbsp. Spread over the biscuit base, cover loosely with foil and cook for 1 hr. Remove the foil and cook for 15 mins more until lightly golden and the top is firm with just the slightest wobble in the middle. Leave to cool. Can be kept in the fridge for up to 2 days.",
+      "ingredients_used": [
+        "3bcb7f45-6125-5180-98ae-67109528d69d",
+        "25e6495d-1c88-5b8e-9cd6-737a91154a67",
+        "af581e80-10cc-562e-88fa-f3acc17d7903",
+        "c0fcf14b-e84d-58f9-a357-2d657b39afc4",
+        "dc6c5e59-d515-511b-8262-7cc701d7403e",
+        "7ff612d9-6cb4-5822-94d7-e16f0a619fbd"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "To serve, scatter with almonds, drizzle over the remaining honey, and hand around fresh fruit to go with it.",
+      "ingredients_used": [
+        "824e6778-37ec-5435-8437-2133a7fa900e",
+        "7ff612d9-6cb4-5822-94d7-e16f0a619fbd"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/honey-yogurt-cheesecake"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,438 @@
+{
+  "id": "d1dd1f0a-1f95-584f-84ab-16210ef1293a",
+  "version": "1.0.0",
+  "title": "Lamb Biryani",
+  "slug": "lamb-biryani",
+  "summary": "A fragrant Indian rice dish made with tender lamb, aromatic spices, and layered with saffron-infused milk and fried onions.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:30:40Z",
+  "updated_at": "2026-10-16T10:22:44Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52805"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/xrttsx1487339558.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/xrttsx1487339558.jpg/small",
+      "alt_text": "Photo of Lamb Biryani",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=r7SYVSG5nxo"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b2b4e1bc-3c1e-50ce-abf4-9015553e6a16",
+        "slug": "indian",
+        "name": "Indian"
+      }
+    ],
+    "tags": [
+      "curry",
+      "meat"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "advanced",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 84,
+    "total_time_minutes": 114
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of biryani"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "tree_nuts"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "960a4caa-2a39-5b05-a102-ab929958c884",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "352d8551-e12d-5b04-9c93-21264c40e9b2",
+          "ingredient_id": "873621ea-cb8e-53d6-8f4a-02133aa3e39e",
+          "name": "cashew nuts",
+          "display_text": "12 Cashew nuts",
+          "quantity": 12.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "79719d91-bab1-5209-93cb-891db6b5e597",
+          "ingredient_id": "5ef7ab21-533d-5e5f-b9e3-5875b07d2383",
+          "name": "khus khus",
+          "display_text": "½ tbsp Khus khus",
+          "quantity": 0.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "48d58636-d2e0-5eac-ac2d-8d05296b883e",
+          "ingredient_id": "e03a9d77-1724-50c7-abdd-1b6af998189f",
+          "name": "cumin seeds",
+          "display_text": "½ tbsp Cumin seeds",
+          "quantity": 0.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "2786d9d7-87ae-5a30-97e8-ea4c644c9c4e",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onions",
+          "display_text": "3 sliced thinly Onions",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "sliced thinly",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "58600376-7de7-5c58-b46b-8991e3e7abda",
+          "ingredient_id": "0c0ed4ee-e866-54fc-a5ac-ed0d2cf94046",
+          "name": "ginger garlic paste",
+          "display_text": "2 tsp Ginger garlic paste",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "10dbd240-68ac-54cc-ab51-ef1cb78e0b03",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "4 whole Garlic",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "whole",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "bfdd02bd-a25f-5b35-bd7b-d8835ba224e4",
+          "ingredient_id": "0e838047-684d-55cb-884e-e7872e0e96c4",
+          "name": "mint",
+          "display_text": "Leaves Mint",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "leaves",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "af4f69cf-85a5-51ca-af0f-412391ac7eaf",
+          "ingredient_id": "1655ccbe-97a7-59b3-9245-ebc95a0ed6d0",
+          "name": "cilantro",
+          "display_text": "Leaves Cilantro",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "leaves",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e2753220-f943-56f0-a151-5f78ae4049aa",
+          "ingredient_id": "6e4973c3-ed8a-5158-9a24-ca212d5e7092",
+          "name": "saffron",
+          "display_text": "½ tsp dissolved in ½ cup warm milk Saffron",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "preparation": "dissolved in 1/2 cup warm milk",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "206ef487-db75-5278-8d3b-3bd40b1026cb",
+          "ingredient_id": "b5453b15-d5e8-5682-b751-28eb4120fb90",
+          "name": "ghee",
+          "display_text": "2 tbsp Ghee",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "9fa75cbd-c6a3-5b01-be18-99634bcd9689",
+          "ingredient_id": "83ffb65f-48c4-5295-bd29-b97975a1fcb1",
+          "name": "basmati rice",
+          "display_text": "2 Cups Basmati rice",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "886f9eee-8cda-5472-b2dd-c4c126ddcf04",
+          "ingredient_id": "4d8215a9-1fac-55ea-920f-637e74a15876",
+          "name": "full fat yogurt",
+          "display_text": "½ cup Full fat yogurt",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "f6e273d2-0a6f-5bd8-b691-59f552aa6d22",
+          "ingredient_id": "e03a9d77-1724-50c7-abdd-1b6af998189f",
+          "name": "cumin seeds",
+          "display_text": "1 tbsp Cumin Seeds",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "b559ad46-6e0f-5ba5-b248-151fc1f235bc",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "½ Bay leaf",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "21b6c6a1-0b38-500b-97b3-bfc5009e6e88",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "1 thin piece Cinnamon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "thin",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "05da33bd-9895-518b-a4df-da2418c936a9",
+          "ingredient_id": "73063cfc-1094-5f58-87bf-49227197f2a2",
+          "name": "cloves",
+          "display_text": "3 Cloves",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "4412077d-8486-555b-b61e-bf1219c6fb83",
+          "ingredient_id": "d72c12ae-5cbc-534c-bbd5-bc044d844d0a",
+          "name": "cardamom",
+          "display_text": "2 Cardamom",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3f552489-6117-58c8-ae42-5c8e0463d23c",
+          "ingredient_id": "9d9a6681-e50b-5870-820c-5bf49172a394",
+          "name": "lamb",
+          "display_text": "1 lb Lamb",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "df75df45-1c73-5251-bf24-ddc51696c1a4",
+          "ingredient_id": "bb71ee64-6326-5658-8d92-ea9c83fdb5fc",
+          "name": "red chilli powder",
+          "display_text": "1 tsp Red Chilli powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "c42d3dc2-b7ef-59b8-983c-a53bcd2684bd",
+          "ingredient_id": "a8f33046-4eaf-523f-8e1c-a788cc9d4f8b",
+          "name": "biryani masala",
+          "display_text": "1 tbsp Biryani masala",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Grind the cashew, poppy seeds and cumin seeds into a smooth paste, using as little water as possible. Set aside.",
+      "ingredients_used": [
+        "48d58636-d2e0-5eac-ac2d-8d05296b883e",
+        "f6e273d2-0a6f-5bd8-b691-59f552aa6d22"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Deep fry the sliced onions when it is hot. Don’t overcrowd the oil. When the onions turn light brown, remove from oil and drain on paper towel. The fried onion will crisp up as it drains. Also fry the cashewnuts till golden brown. Set aside.",
+      "ingredients_used": [
+        "2786d9d7-87ae-5a30-97e8-ea4c644c9c4e"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Wash the rice and soak in water for twenty minutes.",
+      "ingredients_used": [
+        "9fa75cbd-c6a3-5b01-be18-99634bcd9689"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Meanwhile, take a big wide pan, add oil in medium heat, add the sliced onions, add the blended paste, to it add the green chillies, ginger garlic paste and garlic and fry for a minute.",
+      "ingredients_used": [
+        "2786d9d7-87ae-5a30-97e8-ea4c644c9c4e",
+        "58600376-7de7-5c58-b46b-8991e3e7abda",
+        "10dbd240-68ac-54cc-ab51-ef1cb78e0b03"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Then add the tomatoes and sauté them well till they are cooked and not mushy."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Then to it add the red chilli powder, biryani powder, mint, coriander leaves and sauté them well.",
+      "ingredients_used": [
+        "bfdd02bd-a25f-5b35-bd7b-d8835ba224e4",
+        "df75df45-1c73-5251-bf24-ddc51696c1a4"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Add the yogurt and mix well. I always move the skillet away from the heat when adding yogurt which prevents it from curdling.",
+      "ingredients_used": [
+        "886f9eee-8cda-5472-b2dd-c4c126ddcf04"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Now after returning the skillet back to the stove, add the washed lamb and salt and ½ cup water and mix well. Cook for 1 hour and cook it covered in medium low heat or put it in a pressure cooker for 6 whistles. If the water is not drained totally, heat it by keeping it open.",
+      "timer_seconds": 3600,
+      "ingredients_used": [
+        "3f552489-6117-58c8-ae42-5c8e0463d23c"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Take another big pan, add thrice the cup of rice you use, and boil it. When it is boiling high, add the rice, salt and jeera and mix well. After 7 minutes exact or when the rice is 80% done. Switch off and drain the rice.",
+      "timer_seconds": 420,
+      "ingredients_used": [
+        "9fa75cbd-c6a3-5b01-be18-99634bcd9689"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "Now, the layering starts. To the lamb, pat and level it. Add the drained hot rice on the top of it. Garnish with fried onions, ghee, mint, coriander leaves and saffron dissolved in milk.",
+      "ingredients_used": [
+        "2786d9d7-87ae-5a30-97e8-ea4c644c9c4e",
+        "bfdd02bd-a25f-5b35-bd7b-d8835ba224e4",
+        "e2753220-f943-56f0-a151-5f78ae4049aa",
+        "206ef487-db75-5278-8d3b-3bd40b1026cb",
+        "9fa75cbd-c6a3-5b01-be18-99634bcd9689",
+        "3f552489-6117-58c8-ae42-5c8e0463d23c"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Cover the dish and bake in a 350f oven for 15 minutes or till the cooked but not mushy. Or cook in the stove medium heat for 12 minutes and lowest heat for 5 minutes. And switch off. Mix and serve hot!",
+      "temperature": {
+        "value": 350,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 12,
+      "instruction": "Notes"
+    },
+    {
+      "step_number": 13,
+      "instruction": "If you are cooking in oven, do make sure to cook in a big oven safe pan and cover it tight and then keep in oven for the final step."
+    },
+    {
+      "step_number": 14,
+      "instruction": "You can skip biryani masala if you don’t have and add just garam masala (1 tsp and red chilli powder – 3 tsp instead of 1 tsp)",
+      "ingredients_used": [
+        "df75df45-1c73-5251-bf24-ddc51696c1a4",
+        "c42d3dc2-b7ef-59b8-983c-a53bcd2684bd"
+      ]
+    },
+    {
+      "step_number": 15,
+      "instruction": "If it is spicy in the end, squeeze some lemon, it will reduce the heat and enhance the flavors also."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://www.relishthebite.com/restaurant-style-lamb-biryani/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

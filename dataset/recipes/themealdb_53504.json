@@ -1,0 +1,249 @@
+{
+  "id": "962933d0-f8d3-5a14-8e43-b1422ad0a19e",
+  "version": "1.0.0",
+  "title": "Macaroni Pudding",
+  "slug": "macaroni-pudding",
+  "summary": "A traditional Caymanian baked pasta dish made with macaroni, evaporated milk, eggs, and spices, resulting in a custard-like texture.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:40:09Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53504"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/hbte551782770868.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/hbte551782770868.jpg/small",
+      "alt_text": "Photo of Macaroni Pudding",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c09eb408-33f5-5580-b0b4-cd787ea520ba",
+        "slug": "caymanian",
+        "name": "Caymanian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course",
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "holiday"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 90,
+    "total_time_minutes": 105
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "servings",
+    "serving_size_description": "1 large scoop of pudding"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "26fcfc90-5fd5-5290-88f6-402043844ba4",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "c43e2974-adbc-50fe-858f-0988c0ce2f63",
+          "ingredient_id": "0ec71036-cad4-57f1-81a8-9396827c3785",
+          "name": "macaroni",
+          "display_text": "4 cups Macaroni",
+          "quantity": 4.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 960.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "c6251acc-1483-521a-991c-a734a3582f71",
+          "ingredient_id": "3f3e98f3-1d35-5574-824d-3f8addf32c81",
+          "name": "evaporated milk",
+          "display_text": "4 cups Evaporated Milk",
+          "quantity": 4.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 960.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "8024df39-feeb-5afc-a23d-3661e4d7a4b5",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1 cup Water",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "55712212-2080-5675-ad89-7b8161db2cb8",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "3 Cups Sugar",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "940c041f-2297-5978-9af6-c2074ad5bad9",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "2 tsp Salt",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "c01a6a63-c98e-5b1c-8fd2-7848d0838eae",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "4 Eggs",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "08bfb2a9-5c31-5041-931b-d4302fa39cde",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "1/4 cup Butter",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "7890f22a-fd1c-5a88-adf5-e71a4cb7ef44",
+          "ingredient_id": "8d52ad34-1aea-57a9-8e92-aabab5116059",
+          "name": "raisins",
+          "display_text": "1 cup Raisins",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "1d96f9c1-06ee-539b-b729-8f68b61363a1",
+          "ingredient_id": "9426e9cd-e7b2-540e-8ddb-187c01748931",
+          "name": "nutmeg",
+          "display_text": "2 1/2 Tsp Nutmeg",
+          "quantity": 2.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 12.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "0d139531-262f-5065-888f-469075164351",
+          "ingredient_id": "1ad32b47-90dc-570b-9ae6-d231b0342095",
+          "name": "vanilla",
+          "display_text": "2 tablespoons Vanilla",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Add macaroni to large pan with sufficient water to cover (approximately 4 cups). Add salt and bring to boil until tender (approximately 25 -30 minutes). Meanwhile, beat eggs and sugar together, then add vanilla and nutmeg. Mix well and set aside. In a separate medium sauce pan, heat evaporated milk plus 1 cup of water and butter to almost a boiling point. Remove from heat and add to sugar mixture. Drain cooked macaroni. Add macaroni and raisins to the milk mixture and stir well. (This mixture will have quite a bit of liquid, but this will form a nice custard textured pudding once baked.)",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "c43e2974-adbc-50fe-858f-0988c0ce2f63",
+        "c6251acc-1483-521a-991c-a734a3582f71",
+        "8024df39-feeb-5afc-a23d-3661e4d7a4b5",
+        "55712212-2080-5675-ad89-7b8161db2cb8",
+        "940c041f-2297-5978-9af6-c2074ad5bad9",
+        "c01a6a63-c98e-5b1c-8fd2-7848d0838eae",
+        "08bfb2a9-5c31-5041-931b-d4302fa39cde",
+        "7890f22a-fd1c-5a88-adf5-e71a4cb7ef44",
+        "1d96f9c1-06ee-539b-b729-8f68b61363a1",
+        "0d139531-262f-5065-888f-469075164351"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Grease a large baking dish with butter or margarine, add the macaroni mixture and sprinkle with additional nutmeg. Bake at 350° F for 1 hour or until golden brown. (Pudding should be firm enough to cut, but moist and not dry).",
+      "timer_seconds": 3600,
+      "temperature": {
+        "value": 350,
+        "unit": "fahrenheit"
+      },
+      "ingredients_used": [
+        "c43e2974-adbc-50fe-858f-0988c0ce2f63",
+        "08bfb2a9-5c31-5041-931b-d4302fa39cde",
+        "1d96f9c1-06ee-539b-b729-8f68b61363a1"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.ourcayman.ky/en-us/about/more-about-cayman/recipes"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "id": "ffc62e2a-c34d-5cf5-92f2-3e75ad23dcc2",
+  "version": "1.0.0",
+  "title": "Kentucky Fried Chicken",
+  "slug": "kentucky-fried-chicken",
+  "summary": "A crispy, deep-fried American chicken dish seasoned with a blend of eleven herbs and spices.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:39:36Z",
+  "updated_at": "2026-10-16T10:22:45Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52813"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/40r49m1763197022.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/40r49m1763197022.jpg/small",
+      "alt_text": "Photo of Kentucky Fried Chicken",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=PTUxCvCz8Bc"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b95bb9d4-1e18-5623-a50f-942c7d140e82",
+        "slug": "american",
+        "name": "American"
+      }
+    ],
+    "tags": [
+      "meat",
+      "spicy"
+    ],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 25,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 50
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "several pieces of fried chicken"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "eggs",
+      "celery"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "5f9766ba-2546-5859-b798-fb4a561395dd",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "196d0de0-7c61-5071-b089-861b88b18bfc",
+          "ingredient_id": "96643234-56e3-5df9-9877-487e63d7cb8b",
+          "name": "chicken",
+          "display_text": "1 whole Chicken",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "whole",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "d87a6878-68f7-5caf-90a5-4cd7e6761b84",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "2 quarts neutral frying Oil",
+          "quantity": 2.0,
+          "unit": "quart",
+          "preparation": "neutral frying",
+          "is_optional": false,
+          "metric_quantity": 1892.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "27c13047-e9c1-53b4-b732-16ce3e739e90",
+          "ingredient_id": "87c4a7ca-7b0e-5143-aea3-d01ad00e4108",
+          "name": "egg white",
+          "display_text": "1 Egg White",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "4dc5d734-276c-56ce-b1fe-1e8b3e9fe194",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "1 1/2 cups Flour",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "8eb39fc9-dc9d-5714-83d5-d77e5d0250b6",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "1 tablespoon Brown Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "f92c54c8-354e-5a76-a848-7cf45e73fab3",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tablespoon Salt",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "23feac29-94c5-5a5e-b562-ec4d95288dd5",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1 tablespoon paprika",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "abd57a1d-cd2b-523d-b4fd-5a287b900868",
+          "ingredient_id": "dcd79b01-f131-5462-9251-61d00494b73d",
+          "name": "onion salt",
+          "display_text": "2 teaspoons onion salt",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "237790d4-476f-5ce3-89dc-40ab729c3dae",
+          "ingredient_id": "82355d68-cedc-5a32-8a70-51eb80680771",
+          "name": "chili powder",
+          "display_text": "1 teaspoon chili powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "60222243-d430-59bc-855f-84eb4e7e7cd7",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1 teaspoon black pepper",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "0f66ea3d-51d4-542d-a134-8ad649a91a94",
+          "ingredient_id": "4f7cbde9-b895-5798-a448-39acd7d23bde",
+          "name": "celery salt",
+          "display_text": "1/2 teaspoon celery salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "1f72579c-17d7-5523-bb4e-68ecc8ebcdcb",
+          "ingredient_id": "d01f0def-bca6-5c7e-990e-4032fdf6f4c4",
+          "name": "sage",
+          "display_text": "1/2 teaspoon sage",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "fca44e8a-aa2d-5751-ad72-48f572020896",
+          "ingredient_id": "856e47ab-bcee-5e44-bc03-f1ba0c6859b1",
+          "name": "garlic powder",
+          "display_text": "1/2 teaspoon garlic powder",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "00386968-ecc4-5b40-b890-4d4b36bb451c",
+          "ingredient_id": "38dedce7-9a7f-57ee-8e46-5162ab60eba8",
+          "name": "allspice",
+          "display_text": "1/2 teaspoon allspice",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "20f7a413-2ffe-5625-8621-11979855602a",
+          "ingredient_id": "035f27db-b6ac-512c-a6e4-48e289cafefe",
+          "name": "oregano",
+          "display_text": "1/2 teaspoon oregano",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "00249675-2aa1-5fa9-b870-3b5dc46dfa32",
+          "ingredient_id": "fc6a825e-e02a-589c-91d6-b4e76ccc6354",
+          "name": "basil",
+          "display_text": "1/2 teaspoon basil",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "70f2711d-6aeb-56f1-8637-13eeb2cc6c6f",
+          "ingredient_id": "6ce49d7a-5bca-5a22-a57c-2838ecf815f4",
+          "name": "marjoram",
+          "display_text": "1/2 teaspoon marjoram",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat fryer to 350°F. Thoroughly mix together all the spice mix ingredients.",
+      "temperature": {
+        "value": 350,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "Combine spice mix with flour, brown sugar and salt.",
+      "ingredients_used": [
+        "4dc5d734-276c-56ce-b1fe-1e8b3e9fe194",
+        "8eb39fc9-dc9d-5714-83d5-d77e5d0250b6",
+        "f92c54c8-354e-5a76-a848-7cf45e73fab3",
+        "abd57a1d-cd2b-523d-b4fd-5a287b900868",
+        "0f66ea3d-51d4-542d-a134-8ad649a91a94"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Dip chicken pieces in egg white to lightly coat them, then transfer to flour mixture. Turn a few times and make sure the flour mix is really stuck to the chicken. Repeat with all the chicken pieces.",
+      "ingredients_used": [
+        "196d0de0-7c61-5071-b089-861b88b18bfc",
+        "27c13047-e9c1-53b4-b732-16ce3e739e90",
+        "4dc5d734-276c-56ce-b1fe-1e8b3e9fe194"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Let chicken pieces rest for 5 minutes so crust has a chance to dry a bit.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "196d0de0-7c61-5071-b089-861b88b18bfc"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Fry chicken in batches. Breasts and wings should take 12-14 minutes, and legs and thighs will need a few more minutes. Chicken pieces are done when a meat thermometer inserted into the thickest part reads 165°F.",
+      "timer_seconds": 840,
+      "temperature": {
+        "value": 165,
+        "unit": "fahrenheit"
+      },
+      "ingredients_used": [
+        "196d0de0-7c61-5071-b089-861b88b18bfc"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Let chicken drain on a few paper towels when it comes out of the fryer. Serve hot.",
+      "ingredients_used": [
+        "196d0de0-7c61-5071-b089-861b88b18bfc"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://www.tablespoon.com/recipes/copycat-kfc-original-style-chicken/97c93d14-9d8c-4bc7-96dc-1e0b37e4fcaa"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

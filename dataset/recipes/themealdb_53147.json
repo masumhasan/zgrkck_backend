@@ -1,0 +1,245 @@
+{
+  "id": "53b8e175-8f9c-5ddc-b924-e8d8471056e8",
+  "version": "1.0.0",
+  "title": "Arroz con gambas y calamar",
+  "slug": "arroz-con-gambas-y-calamar",
+  "summary": "A traditional Spanish seafood rice dish featuring king prawns, squid, and saffron-infused paella rice.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:08:29Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53147"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/jc6oub1763196663.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/jc6oub1763196663.jpg/small",
+      "alt_text": "Photo of Arroz con gambas y calamar",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=nFFp0ebOlOo"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 30,
+    "rest_time_minutes": 2,
+    "total_time_minutes": 47
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a generous portion of seafood rice"
+  },
+  "allergens": {
+    "contains": [
+      "fish",
+      "shellfish",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "c32ce58b-064f-5174-a448-fbdefa13cc74",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "317998c5-4171-524c-be48-f7f0db7fbfb5",
+          "ingredient_id": "c25c2a5c-b6b1-56c4-b863-457dc879b0df",
+          "name": "raw king prawns",
+          "display_text": "24 Raw King Prawns",
+          "quantity": 24.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "seafood"
+        },
+        {
+          "id": "4b5457b0-4e9b-58d1-9071-aa8d605e7d5a",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tbsp Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "08b1ec59-c478-561d-b459-f3c4751d6c91",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 small Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "007978a4-dbb6-5398-b330-c394f12308b8",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "1 Bay Leaf",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "c8fc8fce-0935-5352-89f7-b0fd11e61732",
+          "ingredient_id": "6e4973c3-ed8a-5158-9a24-ca212d5e7092",
+          "name": "saffron",
+          "display_text": "1 pinch Saffron",
+          "quantity": 1.0,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "56e20b22-1da8-5205-855f-ea1b14eaa6bc",
+          "ingredient_id": "3d0a4168-db1b-589f-8473-5398078e1e51",
+          "name": "paella rice",
+          "display_text": "450g Paella Rice",
+          "quantity": 450.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "e147d6cf-4b39-5f32-a78c-3257e4697e2f",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "2 teaspoons Tomato Puree",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "f6fd73ab-e959-57cc-9a12-c48e47d491ea",
+          "ingredient_id": "7dfa4179-cc08-5fb6-b4fc-aa52abc5f515",
+          "name": "white wine",
+          "display_text": "200ml White Wine",
+          "quantity": 200.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "f1f51cb5-5a1e-5da8-aaae-9c07901a8e86",
+          "ingredient_id": "27e065da-bef5-523f-9716-6d567dc7fe2b",
+          "name": "seafood stock",
+          "display_text": "650ml Seafood stock",
+          "quantity": 650.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 650.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "a478fb17-f872-5082-a622-f4bf20f44441",
+          "ingredient_id": "99692f34-e6c0-5343-b562-9ea531589faa",
+          "name": "squid",
+          "display_text": "3 Medium Squid",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "seafood"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Peel and devein most of the prawns (a fishmonger should be able to do this for you), keeping a few whole for decoration, if you like. Heat the olive oil in a large frying pan or shallow flameproof casserole over a medium-low heat and fry the onion for 5 mins until softened. Add the bay leaf, saffron, rice and tomato purée, and cook for 1-2 mins more, stirring.",
+      "ingredients_used": [
+        "317998c5-4171-524c-be48-f7f0db7fbfb5",
+        "4b5457b0-4e9b-58d1-9071-aa8d605e7d5a",
+        "08b1ec59-c478-561d-b459-f3c4751d6c91",
+        "007978a4-dbb6-5398-b330-c394f12308b8",
+        "c8fc8fce-0935-5352-89f7-b0fd11e61732",
+        "56e20b22-1da8-5205-855f-ea1b14eaa6bc"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Pour in the wine and bubble for 1-2 mins, then pour in the seafood stock and 150ml water. Cook for 5 mins, then add the squid, season well and stir to combine. Bring to the boil, then cover and reduce the heat to a gentle simmer. Cook for 12 mins more, adding a little more water if the mixture starts to look dry.",
+      "ingredients_used": [
+        "f6fd73ab-e959-57cc-9a12-c48e47d491ea",
+        "f1f51cb5-5a1e-5da8-aaae-9c07901a8e86",
+        "a478fb17-f872-5082-a622-f4bf20f44441"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Uncover the pan and stir through the peeled prawns, then arrange any whole prawns on top of the rice mixture. Cover again and simmer for a further 5-6 mins until the prawns are pink and cooked through. Leave to stand for a couple of minutes before serving from the pan.",
+      "timer_seconds": 360,
+      "ingredients_used": [
+        "317998c5-4171-524c-be48-f7f0db7fbfb5",
+        "56e20b22-1da8-5205-855f-ea1b14eaa6bc"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/arroz-con-gambas-y-calamar"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

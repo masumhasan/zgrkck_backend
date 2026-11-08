@@ -1,0 +1,216 @@
+{
+  "id": "128d2986-0c5f-5992-b80c-0d32d13d9291",
+  "version": "1.0.0",
+  "title": "Tarte Tatin",
+  "slug": "tarte-tatin",
+  "summary": "A classic French upside-down tart featuring caramelized apples nestled under a crisp layer of puff pastry.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:48:15Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52909"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ryspuw1511786688.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ryspuw1511786688.jpg/small",
+      "alt_text": "Photo of Tarte Tatin",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=8xDM8U6h9Pw"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "fe8f07a1-591f-5711-ae5b-f3c9afcc3e60",
+        "slug": "french",
+        "name": "French"
+      }
+    ],
+    "tags": [
+      "desert",
+      "dinnerparty",
+      "tart",
+      "treat"
+    ],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 82,
+    "rest_time_minutes": 60,
+    "total_time_minutes": 162
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "portions",
+    "serving_size_description": "1 slice of tart"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "73bd55cb-b4a2-5e43-8987-774f5b2db76d",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "90c037c1-3fe0-5d08-a2cb-8816df8c1d16",
+          "ingredient_id": "a552ed18-91bb-59fa-a3c1-dad1308c6c3e",
+          "name": "puff pastry",
+          "display_text": "300g Puff Pastry",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "9a3f7d2e-734e-5d2a-be4a-e325d62b555b",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "Dusting Plain Flour",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "dusting",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "b1935b84-b025-596d-a9b4-b3edd72e7904",
+          "ingredient_id": "8c09da59-a4dd-5a31-b3a3-f7bbf9218a17",
+          "name": "braeburn apples",
+          "display_text": "6 Braeburn Apples",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b959f154-2a55-5897-8624-3a66a5da5a6d",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "100g Caster Sugar",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "a12dc65b-856a-5578-902a-a4e06e04723d",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "85g Butter",
+          "quantity": 85.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 85.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "d8789a52-beb9-50e6-b12a-4b4cb37c3001",
+          "ingredient_id": "5a0201c7-6447-5098-baf7-57a2595f11ba",
+          "name": "creme fraiche",
+          "display_text": "to serve Creme Fraiche",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Roll the pastry to a 3mm-thick round on a lightly floured surface and cut a 24cm circle, using a plate as a guide. Lightly prick all over with a fork, wrap in cling film on a baking sheet and freeze while preparing the apples.",
+      "ingredients_used": [
+        "90c037c1-3fe0-5d08-a2cb-8816df8c1d16",
+        "b1935b84-b025-596d-a9b4-b3edd72e7904"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat oven to 180C/160C fan/gas 4. Peel, quarter and core the apples. Put the sugar in a flameproof 20cm ceramic Tatin dish or a 20cm ovenproof heavy-based frying pan and place over a medium-high heat. Cook the sugar for 5-7 mins to a dark amber caramel syrup that’s starting to smoke, then turn off the heat and stir in the 60g diced chilled butter.",
+      "timer_seconds": 420,
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "b1935b84-b025-596d-a9b4-b3edd72e7904",
+        "a12dc65b-856a-5578-902a-a4e06e04723d"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "To assemble the Tarte Tatin, arrange the apple quarters very tightly in a circle around the edge of the dish first, rounded-side down, then fill in the middle in a similar fashion. Gently press with your hands to ensure there are no gaps. Brush the fruit with the melted butter.",
+      "ingredients_used": [
+        "a12dc65b-856a-5578-902a-a4e06e04723d"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Bake in the oven for 30 mins, then remove and place the disc of frozen puff pastry on top – it will quickly defrost. Tuck the edges down the inside of the dish and, with a knife, prick a few holes in the pastry to allow steam to escape. Bake for a further 40-45 mins until the pastry is golden brown and crisp.",
+      "ingredients_used": [
+        "90c037c1-3fe0-5d08-a2cb-8816df8c1d16"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Allow to cool to room temperature for 1 hr before running a knife around the edge of the dish and inverting it onto a large serving plate that is deep enough to contain the juices. Serve with crème fraîche or vanilla ice cream.",
+      "timer_seconds": 3600
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/tarte-tatin"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

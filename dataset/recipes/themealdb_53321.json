@@ -1,0 +1,272 @@
+{
+  "id": "29c9b2d8-3056-59d4-b5d9-2e7e797058b4",
+  "version": "1.0.0",
+  "title": "Vanilla alfajores",
+  "slug": "vanilla-alfajores",
+  "summary": "Vanilla alfajores are Uruguayan sandwich cookies filled with dulce de leche and coated in coconut flakes.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:23:57Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53321"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/3wnyvh1764373818.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/3wnyvh1764373818.jpg/small",
+      "alt_text": "Photo of Vanilla alfajores",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=9MncGG2cH_g"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "bc928459-1cc9-56b4-a03c-a0518db62f83",
+        "slug": "uruguayan",
+        "name": "Uruguayan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "marinating_time_minutes": 30,
+    "total_time_minutes": 55
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "pieces",
+    "serving_size_description": "2 cookies"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "dafda3df-0358-5a24-a971-897f7fb55eb7",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "1fa6e99b-2752-504b-b6ce-611a607e1424",
+          "ingredient_id": "5d772d5e-0624-59e9-ac6b-e8bc1c4a6936",
+          "name": "dulce de leche",
+          "display_text": "150g Dulce de leche",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "condiments"
+        },
+        {
+          "id": "378cd0e9-cc2b-598d-92cc-6bd4d06502f5",
+          "ingredient_id": "6a6ab8f8-b3d8-54dd-b93f-d2466538e2f8",
+          "name": "coconut flakes",
+          "display_text": "50g Coconut Flakes",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "e860f4a0-b446-5be6-9c7f-aa3270b76f96",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "100g Butter",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "f1002000-5228-5fda-87bb-e92c03a95563",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "100g Sugar",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "d317aa18-08c3-533a-9951-3792cf086406",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "f05ff8fc-0fed-517f-a097-ad7ff4545ecf",
+          "ingredient_id": "051a3118-01a4-5366-a922-19ecf618e2f9",
+          "name": "egg yolks",
+          "display_text": "1 Egg Yolks",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "54d4b6eb-e6a1-5125-aaa2-b64b94c60a2f",
+          "ingredient_id": "4bdb1684-cdb6-5a8f-b220-c622cf2655cc",
+          "name": "cornstarch",
+          "display_text": "200g Cornstarch",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "4bea6355-3af0-507f-b48d-2af6dc75779c",
+          "ingredient_id": "d1e5ec78-b8c2-5649-962c-a9f67272ea92",
+          "name": "all purpose flour",
+          "display_text": "100g All purpose flour",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "62e60d84-3a4c-51d3-a5cc-bf134ba35656",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 tsp Baking Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "21a13b02-9dc7-5cf3-8c48-22a0f9d72eed",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1 tsp Vanilla Extract",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "b97ecea3-5e73-5c0f-844c-64057749d45c",
+          "ingredient_id": "5d772d5e-0624-59e9-ac6b-e8bc1c4a6936",
+          "name": "dulce de leche",
+          "display_text": "150g Dulce de leche",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "condiments"
+        },
+        {
+          "id": "fd1e0636-67c9-5cd7-b7f6-b5e780a37e81",
+          "ingredient_id": "6a6ab8f8-b3d8-54dd-b93f-d2466538e2f8",
+          "name": "coconut flakes",
+          "display_text": "50g Coconut Flakes",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "For the sandwich cookie cream the soft butter for about a minute, then add the sugar and cream for another two minutes. Incorporate the egg fully before mixing in the egg yolk. Once everything is nicely combined, add all remaining ingredients and mix one more time. Form dough into a ball and wrap in plastic wrap. Chill for at least half an hour or overnight.",
+      "ingredients_used": [
+        "e860f4a0-b446-5be6-9c7f-aa3270b76f96",
+        "f1002000-5228-5fda-87bb-e92c03a95563",
+        "d317aa18-08c3-533a-9951-3792cf086406"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Preheat oven to 180 degrees Celsius and line two baking sheets with parchment paper.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 3,
+      "instruction": "Divide dough in half, put one back in the fridge and roll out the other thickly on a lightly floured surface. Cut out cookies with either the bottom of a glass or a cookie cutter around 6cm in diameter. Repeat with all the dough."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Bake for about 8-10min, the cookies will look very pale. Let cool off before filling half with each a teaspoon of dulce de leche. Place other half of cookies on top and roll the sides of each cookie in the coconut flakes (it helps if the dulce de leche was pressed down to the sides of the cookie). Enjoy.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "1fa6e99b-2752-504b-b6ce-611a607e1424",
+        "378cd0e9-cc2b-598d-92cc-6bd4d06502f5",
+        "b97ecea3-5e73-5c0f-844c-64057749d45c",
+        "fd1e0636-67c9-5cd7-b7f6-b5e780a37e81"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://jennyisbaking.com/2019/05/17/classic-alfajores-from-uruguay/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "id": "5d78f61f-8099-5242-84bd-27eff82d1e16",
+  "version": "1.0.0",
+  "title": "Mutabbaq",
+  "slug": "mutabbaq",
+  "summary": "Mutabbaq is a savory Saudi Arabian dish consisting of spiced minced meat, vegetables, and egg wrapped in thin, crispy pastry.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:15:05Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53223"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/i5o2b61763739053.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/i5o2b61763739053.jpg/small",
+      "alt_text": "Photo of Mutabbaq",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=xzu8XswXqcs"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "dadedf2a-1088-576c-834c-66ae61df3c2a",
+        "slug": "saudi-arabian",
+        "name": "Saudi Arabian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "snack"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 35
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "pieces",
+    "serving_size_description": "3 parcels"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "7455cf4b-e8e0-5f0e-8066-053d66107cc7",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "96ae0df5-9aa1-5cbc-b7fc-ab98495d107f",
+          "ingredient_id": "1bac3d32-87a7-5e51-ac63-b09b6ce20c71",
+          "name": "mincemeat",
+          "display_text": "500g Mincemeat",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "33314601-c09e-5c3a-bd11-605792d00006",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1.5 tbs minced Garlic",
+          "quantity": 1.5,
+          "unit": "tablespoon",
+          "preparation": "minced",
+          "is_optional": false,
+          "metric_quantity": 22.5,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "ddbffdf4-d97e-57b4-abbf-653376504183",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "1.5 tbs minced Ginger",
+          "quantity": 1.5,
+          "unit": "tablespoon",
+          "preparation": "minced",
+          "is_optional": false,
+          "metric_quantity": 22.5,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "9f130c5d-f0e9-5731-b766-cb24a9cda2f3",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "cc70929b-2ce9-5ec4-87ff-8ec41d887b87",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "1 large Tomato",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "8d3575da-f05c-54e2-9f5c-bd2744d86554",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "4 Spring Onions",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e9ded461-e4c3-5cb6-b721-a56b50411537",
+          "ingredient_id": "62dcf130-9a4f-5feb-a1df-0a2b3719d3a8",
+          "name": "filo pastry",
+          "display_text": "12 Filo Pastry",
+          "quantity": 12.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "96bb53b4-f68f-56b5-bfbb-e7e7b3a0ff5f",
+          "ingredient_id": "824a7073-84ed-52c2-97ef-4d532cabeb6d",
+          "name": "melted butter",
+          "display_text": "1 1/2 cups Melted Butter",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "6427d5de-21b0-5e25-bcd1-c23f18b92b07",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "446b8444-05d7-525b-9731-50ed0009bf61",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1 tsp Paprika",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "a90dda94-5a41-589e-a93b-3be0a88c6746",
+          "ingredient_id": "be79b3bd-bc90-5d15-aab2-4f95774b8de1",
+          "name": "cumin",
+          "display_text": "1 tsp Cumin",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "98e88843-fccb-578f-b315-be3283825db9",
+          "ingredient_id": "38dedce7-9a7f-57ee-8e46-5162ab60eba8",
+          "name": "allspice",
+          "display_text": "1 tsp Allspice",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d049cb1d-9629-5898-b4a8-df02f792face",
+          "ingredient_id": "ab4d5e50-1105-53e2-be29-49b042b3d7fb",
+          "name": "turmeric",
+          "display_text": "1 tsp Turmeric",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "cbe489e8-04fa-5dca-8fff-56a61d597273",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1 tsp Black Pepper",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "89c91943-97fa-5e37-9e2e-c3a6923d4ebb",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 tsp Sugar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the frying pan and add in some oil. Fry the mashed garlic and ginger first and then add in the minced meat and all seasoning. When the meat is cooked, set aside to cool down.",
+      "ingredients_used": [
+        "33314601-c09e-5c3a-bd11-605792d00006",
+        "ddbffdf4-d97e-57b4-abbf-653376504183"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Get another big bowl. Add in egg, chopped tomato, chopped spring onion and minced meat.",
+      "ingredients_used": [
+        "9f130c5d-f0e9-5731-b766-cb24a9cda2f3",
+        "cc70929b-2ce9-5ec4-87ff-8ec41d887b87"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Get one 2 sheets of filo pastry or 1 sheet spring roll wrap. Brush it with some butter and then put some filling in the middle. Fold the pastry and brush more butter on the seal part.",
+      "ingredients_used": [
+        "e9ded461-e4c3-5cb6-b721-a56b50411537",
+        "96bb53b4-f68f-56b5-bfbb-e7e7b3a0ff5f"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Heat a frying pan and add in some oil to cook the parcel until its both sides and 4 edges all turn into golden brown. (Or brush melted butter all over the parcel and bake it in 180°C oven for 10-15 minutes)",
+      "timer_seconds": 900,
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "96bb53b4-f68f-56b5-bfbb-e7e7b3a0ff5f"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Enjoy"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://cookpad.com/eng/recipes/14701273?ref=search&search_term=saudi+arabia"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

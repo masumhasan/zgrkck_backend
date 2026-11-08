@@ -1,0 +1,313 @@
+{
+  "id": "62406e0f-2ecb-52b8-a7d8-1a2dc2ab1a05",
+  "version": "1.0.0",
+  "title": "Belgian Stoemp",
+  "slug": "belgian-stoemp",
+  "summary": "A traditional Belgian dish consisting of mashed potatoes mixed with sautéed cabbage, served with sausages and a beer-based onion sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:36:54Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53468"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/byolko1782500400.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/byolko1782500400.jpg/small",
+      "alt_text": "Photo of Belgian Stoemp",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "be40c58d-b0e2-5e0f-99bc-6d79e9a5a5f5",
+        "slug": "belgian",
+        "name": "Belgian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of cabbage mash with sausages and sauce"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "139e1ce5-4bf9-5c7e-8ca5-5001d3424acf",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "eb90f0ec-aa2f-5b61-89cb-7d1bc917825a",
+          "ingredient_id": "0e53b5a4-2ff0-53fb-a8ef-b53dca6ce663",
+          "name": "sausages",
+          "display_text": "2 Sausages",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "684018e4-124b-521a-92a4-dbd3130ccabe",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "450g Potatoes",
+          "quantity": 450.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "5b79ce0f-25e9-50b6-b63e-100935d45d9a",
+          "ingredient_id": "655d0b9d-0b82-506e-938d-30fefbf49957",
+          "name": "savoy cabbage",
+          "display_text": "200g Savoy Cabbage",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "3021dab6-df9f-55bc-9ff8-a4d887ee6a42",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 cloves Garlic",
+          "quantity": 3.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "630132f8-4cd1-5ca8-bdc1-5b949ea3d261",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "1 Handfull Parsley",
+          "quantity": 1.0,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "6c8001ec-02f6-5438-ad66-ebd0d2d2fd3a",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 small finely diced Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "small finely diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b998440e-62f5-508e-8dae-c096d71a3bbd",
+          "ingredient_id": "bc46b2a6-8a59-50ee-a044-ce38bddb125c",
+          "name": "unsalted butter",
+          "display_text": "3  tablespoons Unsalted Butter",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "634e4c15-ac63-525b-82bf-e2b4b2fc4d00",
+          "ingredient_id": "880e6911-dc96-5b78-a270-40551bc02f04",
+          "name": "beer",
+          "display_text": "1 cup Beer",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "647acb34-b3b5-5a8d-a57c-22f881b9d4e9",
+          "ingredient_id": "cdd10399-e080-5794-bffb-7cf578edb5a5",
+          "name": "whole milk",
+          "display_text": "60ml Whole Milk",
+          "quantity": 60.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "e30809c9-761a-5b5c-b704-ccc08ce54b69",
+          "ingredient_id": "9426e9cd-e7b2-540e-8ddb-187c01748931",
+          "name": "nutmeg",
+          "display_text": "Pinch Nutmeg",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "4e70aaa6-d198-5790-ba55-ecba8e3a42f1",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "Pinch Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "4e0ed723-c6fb-51e3-97e9-35b14fd2bbac",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Add the chopped potatoes and garlic to a high pan and fill it with tap water until the potatoes are fully submerged.",
+      "ingredients_used": [
+        "684018e4-124b-521a-92a4-dbd3130ccabe",
+        "3021dab6-df9f-55bc-9ff8-a4d887ee6a42"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add some salt. Then place the pan over high heat and bring the potatoes to a boil. Cook them until tender. In the meantime rinse and drain the savoy cabbage. Slice it up finely.",
+      "ingredients_used": [
+        "684018e4-124b-521a-92a4-dbd3130ccabe",
+        "5b79ce0f-25e9-50b6-b63e-100935d45d9a",
+        "4e0ed723-c6fb-51e3-97e9-35b14fd2bbac"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add a tablespoon of butter to a large non-stick pan. Place it over medium-high heat. Once melted, add the savoy cabbage. Season with a pinch of pepper and salt.",
+      "ingredients_used": [
+        "5b79ce0f-25e9-50b6-b63e-100935d45d9a",
+        "b998440e-62f5-508e-8dae-c096d71a3bbd",
+        "4e70aaa6-d198-5790-ba55-ecba8e3a42f1",
+        "4e0ed723-c6fb-51e3-97e9-35b14fd2bbac"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Stir fry the cabbage for 15 to 20 minutes or until the cabbage is soft and tender. Then turn the heat off and take the cabbage off the heat. In the meantime, pan fry the sausages (or sliced bacon if you are using both) in a non-stick pan in a tablespoon of butter or oil until golden brown and cooked through.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "eb90f0ec-aa2f-5b61-89cb-7d1bc917825a",
+        "5b79ce0f-25e9-50b6-b63e-100935d45d9a",
+        "b998440e-62f5-508e-8dae-c096d71a3bbd"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Transfer the sausages (and bacon) to a plate and cover with a lid or tinfoil to keep the meat warm. In the same greasy pan, add the sliced onion and extra butter and cook it gently over medium heat for 10 minutes until softened. (I often add diced bacon as well, if I only serve the stoemp with sausages.)",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "eb90f0ec-aa2f-5b61-89cb-7d1bc917825a",
+        "6c8001ec-02f6-5438-ad66-ebd0d2d2fd3a",
+        "b998440e-62f5-508e-8dae-c096d71a3bbd"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Then add the beer and turn the heat up. Let the beer reduce until you get a nice beer and onion sauce (you can add a little flour or sauce thickener if you like). Add the pan fried meat back to the pan and cover to keep warm.",
+      "ingredients_used": [
+        "6c8001ec-02f6-5438-ad66-ebd0d2d2fd3a",
+        "634e4c15-ac63-525b-82bf-e2b4b2fc4d00"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Drain the cooked potatoes and garlic, add them back to the pan you cooked them in together with the pan fried cabbage and chopped parsley. Sprinkle with some pepper, salt and nutmeg. Also add the milk and the rest of the unsalted butter.",
+      "ingredients_used": [
+        "684018e4-124b-521a-92a4-dbd3130ccabe",
+        "5b79ce0f-25e9-50b6-b63e-100935d45d9a",
+        "3021dab6-df9f-55bc-9ff8-a4d887ee6a42",
+        "630132f8-4cd1-5ca8-bdc1-5b949ea3d261",
+        "b998440e-62f5-508e-8dae-c096d71a3bbd",
+        "647acb34-b3b5-5a8d-a57c-22f881b9d4e9",
+        "e30809c9-761a-5b5c-b704-ccc08ce54b69",
+        "4e70aaa6-d198-5790-ba55-ecba8e3a42f1",
+        "4e0ed723-c6fb-51e3-97e9-35b14fd2bbac"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Mash the potatoes, parsley and cabbage up. Add extra butter or milk if necessary. Also check the seasoning and add extra pepper, nutmeg or salt to taste if necessary. Scoop the cabbage mash onto plates and top with the pan fried sausages (and bacon). Drizzle with the beer and onion sauce. Serve hot.",
+      "ingredients_used": [
+        "eb90f0ec-aa2f-5b61-89cb-7d1bc917825a",
+        "684018e4-124b-521a-92a4-dbd3130ccabe",
+        "5b79ce0f-25e9-50b6-b63e-100935d45d9a",
+        "630132f8-4cd1-5ca8-bdc1-5b949ea3d261",
+        "6c8001ec-02f6-5438-ad66-ebd0d2d2fd3a",
+        "b998440e-62f5-508e-8dae-c096d71a3bbd",
+        "634e4c15-ac63-525b-82bf-e2b4b2fc4d00",
+        "647acb34-b3b5-5a8d-a57c-22f881b9d4e9",
+        "e30809c9-761a-5b5c-b704-ccc08ce54b69",
+        "4e70aaa6-d198-5790-ba55-ecba8e3a42f1",
+        "4e0ed723-c6fb-51e3-97e9-35b14fd2bbac"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://junedarville.com/stoemp.html#wprm-recipe-container-131911"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

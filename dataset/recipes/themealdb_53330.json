@@ -1,0 +1,239 @@
+{
+  "id": "e1788f6e-8257-5d7e-9db2-ad7ac186ef0d",
+  "version": "1.0.0",
+  "title": "Cassava pizza",
+  "slug": "cassava-pizza",
+  "summary": "A Venezuelan-style pizza using casabe (cassava bread) as a gluten-free base, topped with tomato sauce, cheese, and various meats.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:24:47Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53330"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/lrfdwz1764438393.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/lrfdwz1764438393.jpg/small",
+      "alt_text": "Photo of Cassava pizza",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=3fK4zsa2AYM"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "7511fbbd-fbff-5fb1-ad48-c4a89d390e43",
+        "slug": "venezuelan",
+        "name": "Venezuelan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 20
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "portions",
+    "serving_size_description": "1 slice of casabe pizza"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "518b4417-b618-56ec-880b-22713c5462bf",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "bac6ea70-9c5e-559b-80f8-39809bcdb220",
+          "ingredient_id": "21e025ef-0798-5d3b-90ac-45cb8303dbf2",
+          "name": "casabe",
+          "display_text": "6 cut thick slices Casabe",
+          "quantity": 6.0,
+          "unit": "piece",
+          "preparation": "cut thick slices",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "c0d709b4-ca85-5558-abf6-3c5514a9614a",
+          "ingredient_id": "90e5122f-4f82-5545-8a35-7a3d959514b3",
+          "name": "tomato sauce",
+          "display_text": "450g Tomato Sauce",
+          "quantity": 450.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "gram",
+          "category": "condiments"
+        },
+        {
+          "id": "dc9b92e2-210a-59b5-9279-13f5ac10f9e1",
+          "ingredient_id": "d4235a95-0bb4-579b-8855-bbb8f4efeb46",
+          "name": "chorizo",
+          "display_text": "225g Chorizo",
+          "quantity": 225.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 225.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "bb5a8723-814e-58c2-9095-878696f12b4e",
+          "ingredient_id": "b0d178d7-10fa-5c87-bc88-8b43e435b130",
+          "name": "turkey ham",
+          "display_text": "225g Turkey Ham",
+          "quantity": 225.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 225.0,
+          "metric_unit": "gram",
+          "category": "poultry"
+        },
+        {
+          "id": "cd3d41d1-f338-5123-a43b-70d17866bfda",
+          "ingredient_id": "92714bc1-780e-51dd-976e-bfbc04bc95a8",
+          "name": "sweetcorn",
+          "display_text": "75g Sweetcorn",
+          "quantity": 75.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "59322b2f-3b9b-5a32-9448-8e2bff6bf3e3",
+          "ingredient_id": "d7e4a580-0a72-51fa-ae47-47633da37e45",
+          "name": "green olives",
+          "display_text": "40g Green Olives",
+          "quantity": 40.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 40.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "4549cc2f-c17f-5bd9-8d64-a6993dd7d377",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "55g Paprika",
+          "quantity": 55.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 55.0,
+          "metric_unit": "gram",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "734d5ab2-9232-5fbe-9665-e5f1e3d420f8",
+          "ingredient_id": "e33b865f-f35f-5c67-b930-10dc0e6899f1",
+          "name": "mozzarella",
+          "display_text": "50g Mozzarella",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat the oven to 200ºC.",
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "Cut the bacon or chorizo into medium pieces and the paprika into strips.",
+      "ingredients_used": [
+        "dc9b92e2-210a-59b5-9279-13f5ac10f9e1",
+        "4549cc2f-c17f-5bd9-8d64-a6993dd7d377"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Spread a little tomato sauce and mozzarella cheese on each portion of cassava.",
+      "ingredients_used": [
+        "c0d709b4-ca85-5558-abf6-3c5514a9614a",
+        "734d5ab2-9232-5fbe-9665-e5f1e3d420f8"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add the bacon or chorizo, corn, turkey ham, some olives and paprika.",
+      "ingredients_used": [
+        "dc9b92e2-210a-59b5-9279-13f5ac10f9e1",
+        "bb5a8723-814e-58c2-9095-878696f12b4e",
+        "59322b2f-3b9b-5a32-9448-8e2bff6bf3e3",
+        "4549cc2f-c17f-5bd9-8d64-a6993dd7d377"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Bake for 7 to 10 minutes.",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 6,
+      "instruction": "Remove from the oven and enjoy."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://goya.es/en/recipes/cassava-pizza"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "id": "93e852e7-cb14-5911-8dfe-bac0726cf98c",
+  "version": "1.0.0",
+  "title": "Sticky Toffee Pudding",
+  "slug": "sticky-toffee-pudding",
+  "summary": "A classic British dessert consisting of a moist sponge cake made with black treacle, served with a rich toffee sauce and cream.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:46:01Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52883"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/xqqqtu1511637379.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/xqqqtu1511637379.jpg/small",
+      "alt_text": "Photo of Sticky Toffee Pudding",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Wytv3bjqJII"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "cake",
+      "desert",
+      "pudding"
+    ],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 40,
+    "total_time_minutes": 55
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "portions",
+    "serving_size_description": "1 slice of pudding with sauce and cream"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "185d77a1-1e1c-54aa-bdd3-7aa689ab6fbd",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "f82a2f13-9ff3-5163-ae07-9c6b34c613d2",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "100g Butter",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "41d56b8e-f657-5967-8ddd-23c5d692ebd3",
+          "ingredient_id": "74d4f663-2935-561e-b6ec-45f204542152",
+          "name": "muscovado sugar",
+          "display_text": "175g Muscovado Sugar",
+          "quantity": 175.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 175.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "f0c66e09-ab2a-501d-a000-ac5ddcd48764",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "2 large Eggs",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "6bda4d33-ae50-5d4f-94de-aaa379f900d3",
+          "ingredient_id": "d923f6bd-1129-51bf-ba9e-32b3305fa65e",
+          "name": "self-raising flour",
+          "display_text": "225g Self-raising Flour",
+          "quantity": 225.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 225.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "30e32a45-a546-5d5c-9d06-f4ca9e1f8b7d",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 tsp Baking Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "1d3e1dc5-8127-53f3-828c-57c20f6bcb6a",
+          "ingredient_id": "5b3aa746-938c-5e92-be83-6710a36a51db",
+          "name": "bicarbonate of soda",
+          "display_text": "1 tsp Bicarbonate Of Soda",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "a5640cb2-ad8a-5ddb-b527-28aeef5323d9",
+          "ingredient_id": "27f76ed8-4a3b-5f26-906f-191a409613dc",
+          "name": "black treacle",
+          "display_text": "3 tbs Black Treacle",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "8d79afc5-6a5d-5e11-8f42-672cecc39a2e",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "275ml Milk",
+          "quantity": 275.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 275.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "354f2aab-0797-5e02-89c7-98f6103daaf6",
+          "ingredient_id": "81b5723b-47de-5017-987f-cdcc95dd362b",
+          "name": "double cream",
+          "display_text": "to serve Double Cream",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "cfaad2e5-d7e3-57a7-80d8-2dbd7235be90",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "100g Butter",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "6c799c90-72be-5753-a2f8-be19492066ab",
+          "ingredient_id": "74d4f663-2935-561e-b6ec-45f204542152",
+          "name": "muscovado sugar",
+          "display_text": "125g Muscovado Sugar",
+          "quantity": 125.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 125.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "61c21077-a349-571a-95a6-3482b97de948",
+          "ingredient_id": "27f76ed8-4a3b-5f26-906f-191a409613dc",
+          "name": "black treacle",
+          "display_text": "1 tbs Black Treacle",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "1a70aad4-2533-5a91-b075-df5d7bb91dfa",
+          "ingredient_id": "81b5723b-47de-5017-987f-cdcc95dd362b",
+          "name": "double cream",
+          "display_text": "300ml Double Cream",
+          "quantity": 300.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "cca921c2-3871-5241-b4f7-5537fea42fa1",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1 tsp Vanilla Extract",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat the oven to 180C/160C Fan/Gas 4. Butter a wide shallow 1.7-liter/3-pint ovenproof dish.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "f82a2f13-9ff3-5163-ae07-9c6b34c613d2",
+        "cfaad2e5-d7e3-57a7-80d8-2dbd7235be90"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Put the butter, sugar, eggs, flour, baking powder, bicarbonate of soda and treacle into a mixing bowl. Beat using an electric handheld whisk for about 30 seconds or until combined. Pour in the milk gradually and whisk again until smooth. Pour into the prepared dish. Bake for 35–40 minutes or until well risen and springy in the center.",
+      "ingredients_used": [
+        "f82a2f13-9ff3-5163-ae07-9c6b34c613d2",
+        "f0c66e09-ab2a-501d-a000-ac5ddcd48764",
+        "30e32a45-a546-5d5c-9d06-f4ca9e1f8b7d",
+        "1d3e1dc5-8127-53f3-828c-57c20f6bcb6a",
+        "a5640cb2-ad8a-5ddb-b527-28aeef5323d9",
+        "8d79afc5-6a5d-5e11-8f42-672cecc39a2e",
+        "cfaad2e5-d7e3-57a7-80d8-2dbd7235be90",
+        "61c21077-a349-571a-95a6-3482b97de948"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "To make the sauce, put all the ingredients into a saucepan and stir over a low heat until the sugar has dissolved and the butter has melted. Bring to the boil, stirring for a minute.",
+      "ingredients_used": [
+        "f82a2f13-9ff3-5163-ae07-9c6b34c613d2",
+        "cfaad2e5-d7e3-57a7-80d8-2dbd7235be90"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "To serve, pour half the sauce over the pudding in the baking dish. Serve with the cream or ice cream."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbc.co.uk/food/recipes/marys_sticky_toffee_41970"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

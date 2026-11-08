@@ -1,0 +1,253 @@
+{
+  "id": "ac9886cd-331f-5e4f-8681-513d72b36864",
+  "version": "1.0.0",
+  "title": "Tofu, greens & cashew stir-fry",
+  "slug": "tofu-greens-cashew-stir-fry",
+  "summary": "A quick Vietnamese-style stir-fry featuring marinated tofu, broccoli, pak choi, and soya beans, finished with a savory hoisin and soy sauce glaze and crunchy cashews.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:16:42Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53240"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/minfsc1763766806.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/minfsc1763766806.jpg/small",
+      "alt_text": "Photo of Tofu, greens & cashew stir-fry",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=l8wuWeNy3J4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "60481cf3-a7b7-5be4-a0dc-6b872c887e64",
+        "slug": "vietnamese",
+        "name": "Vietnamese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 9,
+    "total_time_minutes": 19
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 portion of stir-fry"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "tree_nuts",
+      "soy"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "be93e887-ca6f-59bc-b851-c069bbba5d7a",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "a3bad37a-2351-5846-b245-b29328dbf8f2",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "1 tablespoon Vegetable Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "228f4aa6-7d68-50b0-954a-2aa28a16ab23",
+          "ingredient_id": "31e88f63-2128-56b2-a28a-224d203ee96c",
+          "name": "broccoli",
+          "display_text": "1 head Broccoli",
+          "quantity": 1.0,
+          "unit": "head",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d20d47db-3eee-52f6-ac5e-22ea2613632c",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "4 sliced Garlic Clove",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "a5673673-34b7-5a94-a2ec-5f1180062347",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "1 sliced Red Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "8e81d135-c822-5791-9125-a428e48717d5",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "1  bunch Spring Onions",
+          "quantity": 1.0,
+          "unit": "bunch",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c8eeee9e-9a39-5547-8243-474807641f8d",
+          "ingredient_id": "b40159a8-fdb9-5393-831e-3372eb1518c0",
+          "name": "soya bean",
+          "display_text": "140g Soya Bean",
+          "quantity": 140.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 140.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "9f901956-80c9-50f5-8a47-e539d8439b2a",
+          "ingredient_id": "9d696147-e1f6-508e-ac82-2808fd1506bc",
+          "name": "pak choi",
+          "display_text": "2 heads Pak Choi",
+          "quantity": 2.0,
+          "unit": "head",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "500dc7a0-aab8-54a3-9bd4-85ee4cf6c416",
+          "ingredient_id": "0e5ba034-c372-5c6d-b07a-7583eea2f762",
+          "name": "marinated tofu",
+          "display_text": "300g Marinated Tofu",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "fc00ef56-4dca-5948-b5b8-1ef26f4268de",
+          "ingredient_id": "b65ee268-d519-5eec-9a7b-4f4b940f8ad9",
+          "name": "hoisin sauce",
+          "display_text": "1 ½ tbsp Hoisin Sauce",
+          "quantity": 1.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 22.5,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "65aa02d2-e9c4-5440-a471-dc9fb6c01b03",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "1 tablespoon Soy Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "62085cd9-f339-54fc-9b5a-518988dc1337",
+          "ingredient_id": "873621ea-cb8e-53d6-8f4a-02133aa3e39e",
+          "name": "cashew nuts",
+          "display_text": "25g Cashew Nuts",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oil in a non-stick wok. Add the broccoli, then fry on a high heat for 5 mins or until just tender, adding a little water if it begins to catch.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "228f4aa6-7d68-50b0-954a-2aa28a16ab23"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the garlic and chilli, fry for 1 min, then toss through the spring onions, soya beans, pak choi and tofu. Stir-fry for 2-3 mins.",
+      "ingredients_used": [
+        "a5673673-34b7-5a94-a2ec-5f1180062347",
+        "8e81d135-c822-5791-9125-a428e48717d5",
+        "c8eeee9e-9a39-5547-8243-474807641f8d",
+        "9f901956-80c9-50f5-8a47-e539d8439b2a",
+        "500dc7a0-aab8-54a3-9bd4-85ee4cf6c416"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the hoisin, soy and nuts to warm through.",
+      "ingredients_used": [
+        "62085cd9-f339-54fc-9b5a-518988dc1337"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/tofu-greens-cashew-stir-fry"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

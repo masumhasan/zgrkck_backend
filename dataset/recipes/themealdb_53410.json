@@ -1,0 +1,253 @@
+{
+  "id": "435ba0ab-7309-5e84-8275-bf96d99e01e0",
+  "version": "1.0.0",
+  "title": "Presh me Oriz Leek and Rice Bake",
+  "slug": "presh-me-oriz-leek-and-rice-bake",
+  "summary": "An Albanian-style baked dish consisting of minced lamb, leeks, and rice cooked in lamb stock.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:31:45Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53410"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/sjfgbc1779647169.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/sjfgbc1779647169.jpg/small",
+      "alt_text": "Photo of Presh me Oriz Leek and Rice Bake",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=se2DU0httvg"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "e7c6b7b1-e982-5d1b-96fc-1577c9153035",
+        "slug": "albanian",
+        "name": "Albanian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 72,
+    "rest_time_minutes": 10,
+    "total_time_minutes": 97
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 large portion of rice and lamb"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "19720d4b-b8b0-57e3-94d5-84f6805172dd",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "852cd83d-c70a-5c56-a6cc-9c1433a12382",
+          "ingredient_id": "ef5d99bc-384e-522a-8c0f-1c8501f6612c",
+          "name": "leek",
+          "display_text": "500g Leek",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "21484ff5-d988-5141-8321-588467298843",
+          "ingredient_id": "4d40d67a-57b5-5c91-91d3-62eba5bf1b7e",
+          "name": "lamb mince",
+          "display_text": "400g Lamb Mince",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "3a9b57f4-8b91-588f-8d67-5fecb11f5e22",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Diced Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "8b33dbc3-816e-5678-bcd5-c4e0fe11491f",
+          "ingredient_id": "025b8433-c498-5b37-813a-ec00ac6c2ae5",
+          "name": "rice",
+          "display_text": "200g Rice",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "27df05fc-1b48-52f6-84ea-82c93a8c1163",
+          "ingredient_id": "9879cab6-6792-528b-972b-49d2cbd22fc5",
+          "name": "lamb stock",
+          "display_text": "1 L Lamb Stock",
+          "quantity": 1.0,
+          "unit": "liter",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "liter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "ca3c3414-3341-58a6-b486-a1f35d973f79",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "c8aeb5bf-e968-5593-8530-5b8a7eadd288",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "Pinch Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "c216d88c-2c2b-59f4-9a06-8f7f54878bfa",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "Splash Olive Oil",
+          "quantity": 1,
+          "unit": "splash",
+          "is_optional": false,
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Cooking"
+    },
+    {
+      "step_number": 2,
+      "instruction": "Fry the leeks in a small dash of olive oil for a few minutes until they start to brown.",
+      "ingredients_used": [
+        "852cd83d-c70a-5c56-a6cc-9c1433a12382",
+        "c216d88c-2c2b-59f4-9a06-8f7f54878bfa"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the onions and mince and fry until everything is browned. Ensure you keep stirring to prevent the leeks catching and burning.",
+      "ingredients_used": [
+        "852cd83d-c70a-5c56-a6cc-9c1433a12382",
+        "21484ff5-d988-5141-8321-588467298843",
+        "3a9b57f4-8b91-588f-8d67-5fecb11f5e22"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add the rice and stir together for a few minutes ensuring the rice is well blended and coated in any juices.",
+      "ingredients_used": [
+        "8b33dbc3-816e-5678-bcd5-c4e0fe11491f"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Add the lamb stock, salt and pepper. Give it a good stir and leave it to come to the boil. Leave to boil for 2 minutes.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "27df05fc-1b48-52f6-84ea-82c93a8c1163",
+        "ca3c3414-3341-58a6-b486-a1f35d973f79",
+        "c8aeb5bf-e968-5593-8530-5b8a7eadd288"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Baking"
+    },
+    {
+      "step_number": 7,
+      "instruction": "Pour the mixture into a large baking tray, place on the bottom self of a preheated oven at 180 degrees. Leave to bake for up to 1 hour. The dish is ready when all the liquid is evaporated and the rice is soft.",
+      "timer_seconds": 3600,
+      "ingredients_used": [
+        "8b33dbc3-816e-5678-bcd5-c4e0fe11491f"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Serving"
+    },
+    {
+      "step_number": 9,
+      "instruction": "Once cooked turn off the oven and keeping the door open leave the leek and rice bake to cool for 10 minutes before serving.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "852cd83d-c70a-5c56-a6cc-9c1433a12382",
+        "8b33dbc3-816e-5678-bcd5-c4e0fe11491f"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.myalbanianfood.com/recipe/albanian-leek-and-rice-bake/#google_vignette"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

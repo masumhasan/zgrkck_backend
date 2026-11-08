@@ -1,0 +1,302 @@
+{
+  "id": "f2f48cb9-4dee-5c29-b35a-845154b5327e",
+  "version": "1.0.0",
+  "title": "Breadfruit in Butter Sauce",
+  "slug": "breadfruit-in-butter-sauce",
+  "summary": "A Barbadian side dish featuring boiled breadfruit slices smothered in a savory tomato and garlic butter sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:35:52Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53458"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/6utn1w1782237402.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/6utn1w1782237402.jpg/small",
+      "alt_text": "Photo of Breadfruit in Butter Sauce",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "71413a66-c12a-5aba-a038-e60b4b3fcacc",
+        "slug": "barbadian",
+        "name": "Barbadian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "slices of breadfruit with sauce"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "d66a9557-00f3-545e-b237-f91b563b2783",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "96ac02ed-815f-58dc-af38-db9ad2a9394e",
+          "ingredient_id": "3a71eccb-30f8-502f-9811-d0ce37985121",
+          "name": "breadfruit",
+          "display_text": "1/2 Breadfruit",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "ea638ef1-f01c-5cc2-a363-1c70ca78a21a",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1/2 Onion",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "25523c37-89ae-56cc-a2cf-fad7e7a92d25",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 tablespoon Olive Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "7d2f38f7-468e-54c0-aa62-5140eec53abd",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "125g Butter",
+          "quantity": 125.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 125.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "f46e908e-8ebc-5cbf-b081-4205794650e3",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onions",
+          "display_text": "3 Medium Onions",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "44752336-ed27-5b60-bb0f-e5ffd3977b0f",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 tablespoon chopped Garlic",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "224227ef-d18d-5084-944b-d2029e0f03c5",
+          "ingredient_id": "5cf11297-0a5b-55fb-85b2-ff239b80e4f4",
+          "name": "tinned tomatos",
+          "display_text": "500ml Tinned Tomatos",
+          "quantity": 500.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "de02f4f0-9849-5489-bf06-c910342654f0",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "3  tablespoons Parsley",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e86cf1d9-1f92-5bdb-80c8-b434630edfe3",
+          "ingredient_id": "36c0f276-68d5-5515-9abe-1ef57bc6eed7",
+          "name": "lime juice",
+          "display_text": "1 tablespoon Lime juice",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "e176bdea-4fce-5531-be9a-a44769c29bb5",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "d2f5a3f4-92fc-544f-804f-af8181c802fb",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "To taste Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "19b64ef2-254c-5e84-8ca4-28ea6a1ca87f",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "250ml Water",
+          "quantity": 250.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "0221a819-2b6d-5f57-8918-1514d5aff811",
+          "ingredient_id": "8722a3a6-0a58-52c0-ad88-76bb090e25b7",
+          "name": "red pepper sauce",
+          "display_text": "To taste Red Pepper Sauce",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "condiments"
+        },
+        {
+          "id": "0e25c254-77eb-5a5e-add2-80fe9d8a3128",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Garnish Parsley",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "garnish",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Cut the breadfruit, remove the seeds in the core, and peel. Boil in salted water with a little onion and oil, over high heat until tender and drain.",
+      "ingredients_used": [
+        "96ac02ed-815f-58dc-af38-db9ad2a9394e",
+        "ea638ef1-f01c-5cc2-a363-1c70ca78a21a",
+        "e176bdea-4fce-5531-be9a-a44769c29bb5",
+        "19b64ef2-254c-5e84-8ca4-28ea6a1ca87f"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Meanwhile, melt the butter in a frying pan and lightly brown the onion rings. Add the garlic, tomatoes, parsley, lime juice, salt, and pepper. Continue to sauté for a couple of minutes. Add the water, bring to the boil and simmer for 5-10 minutes.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "ea638ef1-f01c-5cc2-a363-1c70ca78a21a",
+        "7d2f38f7-468e-54c0-aa62-5140eec53abd",
+        "44752336-ed27-5b60-bb0f-e5ffd3977b0f",
+        "de02f4f0-9849-5489-bf06-c910342654f0",
+        "e86cf1d9-1f92-5bdb-80c8-b434630edfe3",
+        "e176bdea-4fce-5531-be9a-a44769c29bb5",
+        "d2f5a3f4-92fc-544f-804f-af8181c802fb",
+        "19b64ef2-254c-5e84-8ca4-28ea6a1ca87f",
+        "0e25c254-77eb-5a5e-add2-80fe9d8a3128"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Slice the cooled breadfruit and place it in a serving dish. Pour the butter sauce over the breadfruit.",
+      "ingredients_used": [
+        "96ac02ed-815f-58dc-af38-db9ad2a9394e",
+        "7d2f38f7-468e-54c0-aa62-5140eec53abd"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Garnish with chopped fresh parsley.",
+      "ingredients_used": [
+        "de02f4f0-9849-5489-bf06-c910342654f0",
+        "0e25c254-77eb-5a5e-add2-80fe9d8a3128"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Serves 4"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.totallybarbados.com/articles/barbados-recipes/breadfruit-butter-sauce-recipe/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "id": "0624bc82-7776-5f7a-8450-f3ae7840ff41",
+  "version": "1.0.0",
+  "title": "Jam jam cookies",
+  "slug": "jam-jam-cookies",
+  "summary": "Canadian jam jam cookies are soft, spiced sandwich cookies filled with fruit jam. They are made using a molasses-based dough flavored with cinnamon and vanilla.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:25:35Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53339"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/sktequ1764447186.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/sktequ1764447186.jpg/small",
+      "alt_text": "Photo of Jam jam cookies",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=8dh7HmkBLCI"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "54838e2c-2c59-558b-8932-e019f7cc6d0c",
+        "slug": "canadian",
+        "name": "Canadian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 12,
+    "rest_time_minutes": 10,
+    "total_time_minutes": 37
+  },
+  "yield": {
+    "servings": 24,
+    "serving_unit": "pieces",
+    "serving_size_description": "2 cookies"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "796a6523-5823-5ca7-b978-f5f2286929e3",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "9b556829-9f4d-5375-ab44-e50a5753de77",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "0234221d-7642-5218-9ea6-33544adc94e6",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "1 cup Butter",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "5c836ca0-8968-51cf-8cb3-9ea315dc1fe5",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 cup Sugar",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "ab3c0a5e-5e88-5139-9eb0-e90c6ad77908",
+          "ingredient_id": "4ae02ffd-0fb5-5622-a6e3-c92ad19d7675",
+          "name": "molasses",
+          "display_text": "1/2 cup Molasses",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "027ba3f4-172e-5928-b014-3320b9a8e783",
+          "ingredient_id": "1ad32b47-90dc-570b-9ae6-d231b0342095",
+          "name": "vanilla",
+          "display_text": "1 tsp Vanilla",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "cdfa5a2b-a86e-5321-922f-bef93c255db3",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "2 tsp Baking Powder",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "3ab11918-02eb-56ef-bdad-7a108cb3408c",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "3  tablespoons Water",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "390e222f-75b7-5a01-92df-8e51df6ce80c",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "2 tablespoons Baking Powder",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "88a0a273-ced0-5777-a10a-5ae08baefd08",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "1 tsp Cinnamon",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1cd12b91-0ed1-53be-902c-40d16e812724",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "2 tsp Salt",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "59d51e5f-e282-5478-bfdd-b8f9bd070d1f",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "4 cups Flour",
+          "quantity": 4.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 960.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "ef15297c-922c-5a1f-992b-3ec71f158f31",
+          "ingredient_id": "0db24971-f1c6-5bf8-994e-61a8358d553c",
+          "name": "jam",
+          "display_text": "2 cups Jam",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat the oven to 350 °F (180 °C) and line a large baking sheet with parchment paper.",
+      "temperature": {
+        "value": 350,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a stand mixer with the paddle attachment, cream the butter, white sugar and egg until combined, then add the molasses and vanilla and mix until smooth.",
+      "ingredients_used": [
+        "9b556829-9f4d-5375-ab44-e50a5753de77",
+        "0234221d-7642-5218-9ea6-33544adc94e6",
+        "5c836ca0-8968-51cf-8cb3-9ea315dc1fe5",
+        "ab3c0a5e-5e88-5139-9eb0-e90c6ad77908",
+        "027ba3f4-172e-5928-b014-3320b9a8e783"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Once combined, add the baking soda water mixture and mix for another minute to combine.",
+      "ingredients_used": [
+        "3ab11918-02eb-56ef-bdad-7a108cb3408c"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Combine dry ingredients; mix baking powder, cinnamon, flour and salt in a separate bowl then add to the wet ingredients a little at a time, mixing on low until fully combined and scraping down the sides to ensure everything is incorporated. The dough should be easily shaped.",
+      "ingredients_used": [
+        "cdfa5a2b-a86e-5321-922f-bef93c255db3",
+        "390e222f-75b7-5a01-92df-8e51df6ce80c",
+        "88a0a273-ced0-5777-a10a-5ae08baefd08",
+        "1cd12b91-0ed1-53be-902c-40d16e812724",
+        "59d51e5f-e282-5478-bfdd-b8f9bd070d1f"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Portion dough with a small spoon, roll them into balls and place them on the lined cookie sheet, press them into flat discs using a floured glass or your moistened palm."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Place cookies on parchment-lined baking sheets and bake for 10-12 mins. Remove from the oven and let them cool for at least 10 minutes."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Once cooled the cookie sandwiches by spreading at least two teaspoons of your favorite jam between the two cookies. Repeat and enjoy with a cup of tea.",
+      "ingredients_used": [
+        "ef15297c-922c-5a1f-992b-3ec71f158f31"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://canadianfoodfocus.org/recipes/jam-jam-cookies/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

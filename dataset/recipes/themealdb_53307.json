@@ -1,0 +1,186 @@
+{
+  "id": "1f1a97b8-2c58-535a-951a-483df4f0f593",
+  "version": "1.0.0",
+  "title": "Beetroot & red cabbage sauerkraut",
+  "slug": "beetroot-red-cabbage-sauerkraut",
+  "summary": "A fermented vegetable side dish made from beetroot and red cabbage seasoned with caraway seeds and salt.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:22:36Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53307"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ra2k8a1764365055.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ra2k8a1764365055.jpg/small",
+      "alt_text": "Photo of Beetroot & red cabbage sauerkraut",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ly1UeAjydEg"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d40b0607-0a3a-5f5d-8012-7eaf1b714fa5",
+        "slug": "polish",
+        "name": "Polish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 0,
+    "rest_time_minutes": 720,
+    "total_time_minutes": 730
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "portions",
+    "serving_size_description": "a small portion of sauerkraut"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "63c50ddf-9c4b-5459-b99b-221869ab6b11",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "1715c119-7ae7-57fd-9189-50e75a3e4e2b",
+          "ingredient_id": "5eb26a00-afde-5f0c-84ea-6db9840afa2c",
+          "name": "beetroot",
+          "display_text": "320g Beetroot",
+          "quantity": 320.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 320.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "1d931bfb-6be9-5d50-a979-98700547de3e",
+          "ingredient_id": "93adfa8e-dfee-5a44-825f-075c81b606db",
+          "name": "red cabbage",
+          "display_text": "450g Red Cabbage",
+          "quantity": 450.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "a30099bc-8ae3-5ba4-819e-a48ef868d853",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 small Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "53886fa8-d5dd-52ca-a972-6c4925556e69",
+          "ingredient_id": "110599c9-bd03-5bad-84c6-a2e20655dd5b",
+          "name": "caraway seed",
+          "display_text": "2 tsp Caraway Seed",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "cee30076-0fb9-59f0-acb0-d64286219ad2",
+          "ingredient_id": "9ffd51ab-918f-5fa2-838e-51c491b97dd2",
+          "name": "sea salt",
+          "display_text": "1 tsp Sea Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Tip all the ingredients into a large bowl, add 1-1½ tsp freshly ground black pepper, then scrunch it all together with your hands for 5 mins. You might want to wear gloves to avoid staining your skin with the beetroot juices.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "1715c119-7ae7-57fd-9189-50e75a3e4e2b"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Press the veg down in the bowl with your hands, then cover the surface and up the side of the bowl with a large sheet of compostable cling film or something reusable like a beeswax wrap. Now place another similar-sized bowl on top. Press down hard and add anything heavy (packs of rice or cans work well) to weigh it down so the juices rise to cover the surface. Cover again."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Leave to ferment at room temperature for at least five days, but for maximum flavor, leave for one-five weeks (until the bubbling subsides)."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Check the sauerkraut. After a few days, you will see bubbles that have built up as it ferments. Give it a stir, then cover and weigh it down again as before. The cabbage will become increasingly sour the longer it’s fermented, so taste it now and again. When you like the flavor, transfer it to sterilized jars and keep chilled. Will keep chilled for up to six months.",
+      "ingredients_used": [
+        "1d931bfb-6be9-5d50-a979-98700547de3e"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/beetroot-red-cabbage-sauerkraut"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

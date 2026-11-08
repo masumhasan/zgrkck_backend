@@ -1,0 +1,273 @@
+{
+  "id": "115381e5-9fbd-515c-8dbd-0b65af254078",
+  "version": "1.0.0",
+  "title": "Liegeoise Salad",
+  "slug": "liegeoise-salad",
+  "summary": "A traditional Belgian salad consisting of boiled potatoes, green beans, bacon, and hard-boiled eggs tossed in a mustard vinaigrette.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:36:41Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53467"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ji3mho1782499823.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ji3mho1782499823.jpg/small",
+      "alt_text": "Photo of Liegeoise Salad",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "be40c58d-b0e2-5e0f-99bc-6d79e9a5a5f5",
+        "slug": "belgian",
+        "name": "Belgian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "salad"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 deep plate"
+  },
+  "allergens": {
+    "contains": [
+      "eggs",
+      "mustard",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "f084bcff-7d25-55e3-abb9-8a03773e9e96",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "74e5cc9a-a528-50de-af32-6a4249b19d83",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "350g Potatoes",
+          "quantity": 350.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 350.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "5e42e60d-df8a-53ec-9def-e3c0b5f82926",
+          "ingredient_id": "76e924de-1ab6-5ae5-94fc-70f3fd268a7d",
+          "name": "green beans",
+          "display_text": "200g Green Beans",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "b5cbad9c-c3fc-5bef-b025-18594a2a4db7",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "2 Eggs",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "3ba64168-58a0-57de-aebc-1cc7a889bf6b",
+          "ingredient_id": "956cfefc-d0f9-5c1f-9f20-d38a1e4dbdad",
+          "name": "bacon",
+          "display_text": "125g Bacon",
+          "quantity": 125.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 125.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "ac9cee91-f159-5224-8baf-ad2e646a99ec",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "2 tbs chopped Onion",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "5c481c3c-e9dc-53a4-a80a-b8fa618956bc",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "3  tablespoons Olive Oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "747fe20f-35da-5866-884b-057dde1bbd25",
+          "ingredient_id": "fa7445fe-6dac-523d-9bc7-0bdbcf354913",
+          "name": "white wine vinegar",
+          "display_text": "2 tablespoons White Wine Vinegar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "67021b49-d2c7-50f2-ad65-677cc16236c4",
+          "ingredient_id": "b9e3afdc-e194-5f5e-bbae-5c3659d35a67",
+          "name": "mustard",
+          "display_text": "1 tsp Mustard",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "10e0b668-468f-5d89-95a9-0a9075331053",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "2 tablespoons Parsley",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "93467acb-fdde-5bac-9637-deeabe0bd092",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "Pinch Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "b13eef61-bc83-53cc-89fd-0fc6d5eaacae",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Scrub the potatoes well but don't peel them. Cut them into bite-size pieces. Add them to a large pan water and a pinch of salt. Bring it to a good boil. Cook the potatoes until tender and then remove them using a slotted spoon. Keep the potatoes at room temperature.",
+      "ingredients_used": [
+        "74e5cc9a-a528-50de-af32-6a4249b19d83",
+        "b13eef61-bc83-53cc-89fd-0fc6d5eaacae"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Trim and clean the green beans. Add them to the pan of hot water you boiled the potatoes in. Cook the green beans until nearly tender (keep them crunchy). Strain and refresh them immediately under cold running tap water to stop the cooking process.",
+      "ingredients_used": [
+        "74e5cc9a-a528-50de-af32-6a4249b19d83",
+        "5e42e60d-df8a-53ec-9def-e3c0b5f82926"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the bacon to a large non-stick pan and place it over medium heat. Cook the bacon for a couple of minutes until cooked through. Then take the pan off the heat and let the bacon cool down a little.",
+      "ingredients_used": [
+        "3ba64168-58a0-57de-aebc-1cc7a889bf6b"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Combine the olive oil, vinegar and mustard. Transfer the cooked potatoes, green beans, bacon, chopped onion, parsley and vinaigrette. Season with pepper and salt.",
+      "ingredients_used": [
+        "74e5cc9a-a528-50de-af32-6a4249b19d83",
+        "5e42e60d-df8a-53ec-9def-e3c0b5f82926",
+        "3ba64168-58a0-57de-aebc-1cc7a889bf6b",
+        "ac9cee91-f159-5224-8baf-ad2e646a99ec",
+        "5c481c3c-e9dc-53a4-a80a-b8fa618956bc",
+        "67021b49-d2c7-50f2-ad65-677cc16236c4",
+        "10e0b668-468f-5d89-95a9-0a9075331053",
+        "93467acb-fdde-5bac-9637-deeabe0bd092",
+        "b13eef61-bc83-53cc-89fd-0fc6d5eaacae"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Stir well. Check the seasoning and add extra vinegar, pepper or salt to taste. Transfer the salad to a large serving bowl or 2 deep plates and garnish with the boiled eggs. Serve lukewarm.",
+      "ingredients_used": [
+        "b5cbad9c-c3fc-5bef-b025-18594a2a4db7",
+        "93467acb-fdde-5bac-9637-deeabe0bd092",
+        "b13eef61-bc83-53cc-89fd-0fc6d5eaacae"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://junedarville.com/salade-liegeoise.html"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

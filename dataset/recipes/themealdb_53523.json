@@ -1,0 +1,241 @@
+{
+  "id": "e55e4dc0-7f48-5fbc-af4b-83ccc95f7812",
+  "version": "1.0.0",
+  "title": "Colombian Buñuelos Recipe",
+  "slug": "colombian-bunuelos-recipe",
+  "summary": "Colombian buñuelos are traditional cheese fritters made from a dough of cornstarch, tapioca, and various cheeses, fried until golden brown.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:41:46Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53523"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/bza0g51782856541.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/bza0g51782856541.jpg/small",
+      "alt_text": "Photo of Colombian Buñuelos Recipe",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "50fefb0a-1f33-59b0-afdb-383ba2373950",
+        "slug": "colombian",
+        "name": "Colombian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "snack"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 4,
+    "total_time_minutes": 19
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "pieces",
+    "serving_size_description": "3-4 buñuelos"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "eggs"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "c8288576-9619-53e3-880c-193d35efa72e",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "cf9f0c04-1739-5940-99a9-ef8dc7696918",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "For frying Vegetable Oil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "for frying",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "0b0ec275-c7ea-5776-917e-b741024253fc",
+          "ingredient_id": "4bdb1684-cdb6-5a8f-b220-c622cf2655cc",
+          "name": "cornstarch",
+          "display_text": "1 1/2 cup Cornstarch",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "93ecdcae-867b-529d-8e31-08136de0db80",
+          "ingredient_id": "481c81e7-2add-5db2-9b94-6c392c1f6eef",
+          "name": "tapioca",
+          "display_text": "1/4 cup Tapioca",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "0fc56ba7-f331-5fd3-9b77-0bd92e93b0ae",
+          "ingredient_id": "c42909a9-37ca-5099-9618-3534369e4dc2",
+          "name": "feta",
+          "display_text": "1 cup Feta",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "7773eadb-d8cd-5e9d-8a8e-fa73ab471b22",
+          "ingredient_id": "c74dec41-0365-5eb3-965e-cf0fd502d84f",
+          "name": "farmers cheese",
+          "display_text": "1 cup Farmers Cheese",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "9d3c901b-fb97-51e5-8166-57d49c0487cc",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "18c5328c-3147-5dd5-856b-aeef5770570e",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1/2 tsp Baking Powder",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "620930f6-f236-50e4-8609-e3e1e5ab9e91",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "2 tablespoons Sugar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "3df01a6d-528b-573f-801a-7b0f4ccd10c8",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "bfc4bfaa-dd3e-5cd6-8fba-679b156ab121",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "5 tablespoons Milk",
+          "quantity": 5.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Place all the ingredients, except the oil in a medium bowl and mix well using your hands until soft and smooth dough is obtained."
+    },
+    {
+      "step_number": 2,
+      "instruction": "Form small balls using your hands."
+    },
+    {
+      "step_number": 3,
+      "instruction": "In a deep pot, heat the vegetable oil to 300°F (Warm, not very hot). Carefully drop the balls in the warm oil and fry for about 3 to 4 minutes or until gilden brown.",
+      "timer_seconds": 240,
+      "temperature": {
+        "value": 300,
+        "unit": "fahrenheit"
+      },
+      "ingredients_used": [
+        "cf9f0c04-1739-5940-99a9-ef8dc7696918"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Remove from the oil and drain on a plate lined with paper towels. Serve."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Frying Colombian buñuelos using the right temperature is very important. The oil can't be very hot or very cold. Be sure the oil is heated to 300 to 320 grades F."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.mycolombianrecipes.com/bunuelos-colombianos-colombian-bunuelos/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

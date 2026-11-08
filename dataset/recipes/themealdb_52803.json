@@ -1,0 +1,247 @@
+{
+  "id": "eee6e076-d5f6-57a0-b74e-4753ffcbd839",
+  "version": "1.0.0",
+  "title": "Beef Wellington",
+  "slug": "beef-wellington",
+  "summary": "A classic British dish consisting of a beef fillet coated in mushroom paste and parma ham, wrapped in puff pastry and baked.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:38:47Z",
+  "updated_at": "2026-10-16T10:22:44Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52803"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/vvpprx1487325699.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/vvpprx1487325699.jpg/small",
+      "alt_text": "Photo of Beef Wellington",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=FS8u1RBdf6I"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "meat",
+      "stew"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "advanced",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 45,
+    "rest_time_minutes": 35,
+    "total_time_minutes": 110
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 slice of beef Wellington"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "eggs",
+      "mustard"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "b084d2f2-0ded-548b-b198-652dbcc88512",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "bb638cc8-07e6-5c1f-970e-3cddf5e87225",
+          "ingredient_id": "5031dcf8-ef4a-588f-ae8f-de7c2790dfac",
+          "name": "mushrooms",
+          "display_text": "400g mushrooms",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "1900e7af-f261-5301-9e2d-15474f2527b3",
+          "ingredient_id": "3442e73c-2c01-58d5-ad72-6d20eeddcc9a",
+          "name": "english mustard",
+          "display_text": "1-2tbsp English Mustard",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "927dcf0f-1ae8-5b23-b52f-6d2b475da10b",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "Dash Olive Oil",
+          "quantity": 1,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "2c5977a9-6763-5f40-a3be-b5cc2454395d",
+          "ingredient_id": "d520ed56-24b8-5d5e-ba56-f31d734071eb",
+          "name": "beef fillet",
+          "display_text": "750g piece Beef Fillet",
+          "quantity": 750.0,
+          "unit": "gram",
+          "preparation": "piece",
+          "is_optional": false,
+          "metric_quantity": 750.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "8cc5b12a-78cb-57d3-ab32-0c91b5b4dbdb",
+          "ingredient_id": "5a1a88d7-b2ef-55ee-aab8-ec8ba2dc9f43",
+          "name": "parma ham",
+          "display_text": "6-8 slices Parma ham",
+          "quantity": 6.0,
+          "unit": "slice",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "64bda0d1-3a7b-5736-b819-30d60e419b92",
+          "ingredient_id": "a552ed18-91bb-59fa-a3c1-dad1308c6c3e",
+          "name": "puff pastry",
+          "display_text": "500g Puff Pastry",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "017d90a6-50e1-56a1-8ff1-265c202b4f06",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "Dusting Flour",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "dusting",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "1185c81f-ec38-574b-8e8e-86f9b3fc7860",
+          "ingredient_id": "051a3118-01a4-5366-a922-19ecf618e2f9",
+          "name": "egg yolks",
+          "display_text": "2 Beaten Egg Yolks",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "beaten",
+          "is_optional": false,
+          "category": "eggs"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Put the mushrooms into a food processor with some seasoning and pulse to a rough paste. Scrape the paste into a pan and cook over a high heat for about 10 mins, tossing frequently, to cook out the moisture from the mushrooms. Spread out on a plate to cool.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "bb638cc8-07e6-5c1f-970e-3cddf5e87225"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat in a frying pan and add a little olive oil. Season the beef and sear in the hot pan for 30 secs only on each side. (You don't want to cook it at this stage, just color it). Remove the beef from the pan and leave to cool, then brush all over with the mustard.",
+      "timer_seconds": 30,
+      "ingredients_used": [
+        "1900e7af-f261-5301-9e2d-15474f2527b3",
+        "927dcf0f-1ae8-5b23-b52f-6d2b475da10b"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Lay a sheet of cling film on a work surface and arrange the Parma ham slices on it, in slightly overlapping rows. With a palette knife, spread the mushroom paste over the ham, then place the seared beef fillet in the middle. Keeping a tight hold of the cling film from the edge, neatly roll the Parma ham and mushrooms around the beef to form a tight barrel shape. Twist the ends of the cling film to secure. Chill for 15-20 mins to allow the beef to set and keep its shape.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "bb638cc8-07e6-5c1f-970e-3cddf5e87225",
+        "2c5977a9-6763-5f40-a3be-b5cc2454395d",
+        "8cc5b12a-78cb-57d3-ab32-0c91b5b4dbdb"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Roll out the puff pastry on a floured surface to a large rectangle, the thickness of a £1 coin. Remove the cling film from the beef, then lay in the center. Brush the surrounding pastry with egg yolk. Fold the ends over, the wrap the pastry around the beef, cutting off any excess. Turn over, so the seam is underneath, and place on a baking sheet. Brush over all the pastry with egg and chill for about 15 mins to let the pastry rest.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "64bda0d1-3a7b-5736-b819-30d60e419b92"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Heat the oven to 200C, 400F, gas 6.",
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 6,
+      "instruction": "Lightly score the pastry at 1cm intervals and glaze again with beaten egg yolk. Bake for 20 minutes, then lower the oven setting to 180C, 350F, gas 4 and cook for another 15 mins. Allow to rest for 10-15 mins before slicing and serving with the side dishes of your choice. The beef should still be pink in the center when you serve it.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "64bda0d1-3a7b-5736-b819-30d60e419b92"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://www.goodtoknow.co.uk/recipes/164868/Gordon-Ramsay-s-beef-Wellington"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "id": "2739d156-6026-5432-810b-4d2bf29b119a",
+  "version": "1.0.0",
+  "title": "Red curry chicken kebabs",
+  "slug": "red-curry-chicken-kebabs",
+  "summary": "Chicken breast pieces marinated in Thai red curry paste and coconut milk, then skewered with vegetables and grilled.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:13:28Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53204"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/prjve31763486864.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/prjve31763486864.jpg/small",
+      "alt_text": "Photo of Red curry chicken kebabs",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=XJscdFRT8_8"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "724b7c6a-f254-57d4-9729-335a2b2d93b1",
+        "slug": "thai",
+        "name": "Thai"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 8,
+    "total_time_minutes": 23
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "2 skewers with rice and salad"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "fish",
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "6aab2906-ff24-5518-99d0-0e272158c385",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "b2ef3a9d-3053-56b0-9e80-04ca82a40a6e",
+          "ingredient_id": "e23191a1-4966-5b21-a6f1-8df6f50b79db",
+          "name": "chicken breasts",
+          "display_text": "2 Chicken Breasts",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "24f82a89-445f-580b-8d76-f07b8140da4d",
+          "ingredient_id": "beb6cb16-691a-5cca-80dd-69a4020c3fa6",
+          "name": "thai red curry paste",
+          "display_text": "2 tblsp Thai Red Curry Paste",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "f4322883-7587-5068-971b-f3ec30affb1a",
+          "ingredient_id": "0435e55e-84f6-566c-ac81-37617bbab91c",
+          "name": "coconut milk",
+          "display_text": "2 tblsp Coconut Milk",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "d8a18062-b2cc-52ba-82c9-6dafe5fc4505",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1 chopped Red Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "68436839-020c-5ca1-a76f-3c13b1afba51",
+          "ingredient_id": "868972c7-da7a-5cf2-864d-fe1f7aada74b",
+          "name": "courgettes",
+          "display_text": "1 chopped Courgettes",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3bf00557-7afc-511a-ae15-79cd7ebd8551",
+          "ingredient_id": "716f7639-3b59-56a7-9146-1819649ebdad",
+          "name": "red onions",
+          "display_text": "1 cut thin wedges Red Onions",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "cut thin wedges",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "be2a5832-1d93-5d26-91a7-63a860a8e282",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "To serve Lime",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Fire up the barbecue or heat a griddle pan to high. Tip chicken, curry paste and coconut milk into a bowl, then mix well until the chicken is evenly coated.",
+      "ingredients_used": [
+        "f4322883-7587-5068-971b-f3ec30affb1a"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Thread vegetables and chicken onto skewers. Cook the skewers on the barbecue or griddle for 5-8 mins, turning every so often, until the chicken is cooked through and charred.",
+      "timer_seconds": 480
+    },
+    {
+      "step_number": 3,
+      "instruction": "Serve with herby rice, salad and a lime half to squeeze over.",
+      "ingredients_used": [
+        "be2a5832-1d93-5d26-91a7-63a860a8e282"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/red-curry-chicken-kebabs"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

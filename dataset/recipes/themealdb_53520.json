@@ -1,0 +1,341 @@
+{
+  "id": "b2009206-8542-58cd-a3e9-137e735f1fc2",
+  "version": "1.0.0",
+  "title": "Pastel de Choclo",
+  "slug": "pastel-de-choclo",
+  "summary": "A traditional Chilean corn pie consisting of a savory meat base called pino, topped with a sweet and creamy corn paste.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:41:30Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53520"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/47abic1782854326.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/47abic1782854326.jpg/small",
+      "alt_text": "Photo of Pastel de Choclo",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "2681863c-dfb1-5347-8330-bcdf36e53ac6",
+        "slug": "chilean",
+        "name": "Chilean"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 47,
+    "total_time_minutes": 67
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1 large portion"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "eggs",
+      "sulfites"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "310a3140-77e3-590b-a14a-af3385480243",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "20cbb0c0-9a7f-5417-a626-5600dbd23fb2",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "2 Eggs",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "d4b5d3a2-4a3f-5e9d-883c-1eb50a4a59db",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onions",
+          "display_text": "2 chopped Onions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "37aed003-0699-551a-a878-a733ab9663ef",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves minced Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "minced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b54208ef-1c84-52ff-a749-362f929420ac",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "0cb326a7-e8d0-5d1d-80dc-d82e016fcec6",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1/2 tsp Paprika",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "170277d8-7c31-5a2b-9554-8df7185b605f",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "To taste Black Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "7bbd2aa4-0cf9-52c0-8dd8-d387f8a2d2f0",
+          "ingredient_id": "daceaafa-62e0-5268-ab7d-62934c564c72",
+          "name": "ground beef",
+          "display_text": "1 lb Ground Beef",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "b111efdd-3566-5508-bb07-9a42ac190aaf",
+          "ingredient_id": "96643234-56e3-5df9-9877-487e63d7cb8b",
+          "name": "chicken",
+          "display_text": "1/2 Chicken",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "2f704097-b51a-58f2-904a-c17116203989",
+          "ingredient_id": "8d52ad34-1aea-57a9-8e92-aabab5116059",
+          "name": "raisins",
+          "display_text": "2 tablespoons Raisins",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "d132eeac-90b4-526f-969b-e6b61d1f53e7",
+          "ingredient_id": "d7e4a580-0a72-51fa-ae47-47633da37e45",
+          "name": "green olives",
+          "display_text": "2 tablespoons Green Olives",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "ad63321e-32f8-5b77-8a0d-cd234fa6e0f4",
+          "ingredient_id": "92714bc1-780e-51dd-976e-bfbc04bc95a8",
+          "name": "sweetcorn",
+          "display_text": "3 cans Sweetcorn",
+          "quantity": 3.0,
+          "unit": "can",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "2350d49c-98f2-5b1b-bedb-ea6126f3ac5a",
+          "ingredient_id": "fc6a825e-e02a-589c-91d6-b4e76ccc6354",
+          "name": "basil",
+          "display_text": "2 tsp Basil",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "7c6c0599-c69b-58ce-a5fb-b6f97a0a8ed9",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "1 tablespoon Butter",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "7f1852c3-a0ea-573a-a252-c6eb1d4da338",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "1 cup Milk",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "3022eef1-db88-51f0-a09b-29bd36bf5f03",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "2 tsp Sugar",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "77ecdd1f-a795-5ee8-a1cb-6405b42d47cb",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Place eggs in a saucepan and cover with water. Bring to a boil, remove from heat, and let eggs stand in hot water for 15 minutes.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "20cbb0c0-9a7f-5417-a626-5600dbd23fb2"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Meanwhile, heat oil in a skillet over medium heat. Add onions, garlic, 1 pinch salt, ¼ teaspoon paprika, and black pepper; cook until fragrant, about 2 minutes. Add beef, remaining 1 teaspoon salt, remaining ¼ teaspoon paprika, and black pepper; cook and stir until beef mostly browned, about 5 minutes. Add chicken, raisins, and olives.",
+      "ingredients_used": [
+        "d4b5d3a2-4a3f-5e9d-883c-1eb50a4a59db",
+        "37aed003-0699-551a-a878-a733ab9663ef",
+        "b54208ef-1c84-52ff-a749-362f929420ac",
+        "0cb326a7-e8d0-5d1d-80dc-d82e016fcec6",
+        "170277d8-7c31-5a2b-9554-8df7185b605f",
+        "7bbd2aa4-0cf9-52c0-8dd8-d387f8a2d2f0",
+        "b111efdd-3566-5508-bb07-9a42ac190aaf",
+        "2f704097-b51a-58f2-904a-c17116203989",
+        "d132eeac-90b4-526f-969b-e6b61d1f53e7",
+        "77ecdd1f-a795-5ee8-a1cb-6405b42d47cb"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Remove eggs from hot water, cool under cold running water, and peel. Roughly chop; add to beef mixture. Keep pino warm.",
+      "ingredients_used": [
+        "20cbb0c0-9a7f-5417-a626-5600dbd23fb2",
+        "7bbd2aa4-0cf9-52c0-8dd8-d387f8a2d2f0"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Combine corn and basil in a blender or the bowl of a food processor; blend until smooth. Pour into a saucepan over medium heat. Add butter; cook and stir until thickened, 7 to 10 minutes. Stir in milk, 2 teaspoons sugar, and salt; cook until thickened to a paste, about 15 minutes more.",
+      "ingredients_used": [
+        "b54208ef-1c84-52ff-a749-362f929420ac",
+        "2350d49c-98f2-5b1b-bedb-ea6126f3ac5a",
+        "7c6c0599-c69b-58ce-a5fb-b6f97a0a8ed9",
+        "7f1852c3-a0ea-573a-a252-c6eb1d4da338",
+        "3022eef1-db88-51f0-a09b-29bd36bf5f03",
+        "77ecdd1f-a795-5ee8-a1cb-6405b42d47cb"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Preheat the oven to 350 degrees F (175 degrees C).",
+      "temperature": {
+        "value": 350,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 6,
+      "instruction": "Spread pino into a baking dish. Cover with corn paste; sprinkle a little sugar on top.",
+      "ingredients_used": [
+        "3022eef1-db88-51f0-a09b-29bd36bf5f03"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Bake in the preheated oven until golden brown on top, about 20 minutes.",
+      "timer_seconds": 1200
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.allrecipes.com/recipe/268354/pastel-de-choclo/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

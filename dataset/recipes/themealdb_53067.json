@@ -1,0 +1,324 @@
+{
+  "id": "bf39b3c7-89a5-548f-8dcb-880e4e72f6fe",
+  "version": "1.0.0",
+  "title": "Stuffed Bell Peppers with Quinoa and Black Beans",
+  "slug": "stuffed-bell-peppers-with-quinoa-and-black-beans",
+  "summary": "Bell peppers stuffed with a savory mixture of quinoa, black beans, corn, and Mexican cheese, seasoned with cumin and smoked paprika.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:01:39Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53067"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/b66myb1683207208.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/b66myb1683207208.jpg/small",
+      "alt_text": "Photo of Stuffed Bell Peppers with Quinoa and Black Beans",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d92b5023-5f76-56a5-b92d-341aaabd6a80",
+        "slug": "mexican",
+        "name": "Mexican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 65
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 stuffed pepper half"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "ab6be850-026c-51a7-9ccd-51f7bda8d6eb",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "6d4ebbe7-9e47-5f92-a1f2-4f93f141f3bd",
+          "ingredient_id": "f86b83d4-879d-54bb-a883-73bbfa9228ba",
+          "name": "green pepper",
+          "display_text": "4 whole Green Pepper",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "whole",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f8655b6f-6181-53fa-86bf-4b347a008132",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 tablespoon Olive Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "87eb5dd6-5784-5b84-8e09-f41527c5235e",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 small finely diced Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "small finely diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ec435fc6-f216-55f4-8427-6935b4b67051",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves minced Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "minced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "31f577b5-fae7-501b-a235-2bbe6482c5c0",
+          "ingredient_id": "aedecca6-4df3-5fc3-b84e-14a1b6433b77",
+          "name": "quinoa",
+          "display_text": "1 cups Quinoa",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "ff9b7be4-ec91-51af-8b69-1ed762409543",
+          "ingredient_id": "4958b57f-af77-572c-8240-fdfa5d5543c8",
+          "name": "black beans",
+          "display_text": "1 can Black Beans",
+          "quantity": 1.0,
+          "unit": "can",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "4ffc947f-1898-52af-b0f0-f1ccc29fb8c4",
+          "ingredient_id": "92714bc1-780e-51dd-976e-bfbc04bc95a8",
+          "name": "sweetcorn",
+          "display_text": "1 cup Sweetcorn",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "346b4567-e5f3-5196-99c9-c7b9b9836549",
+          "ingredient_id": "e3ca4b2a-435a-5f06-a406-9184cd1d1f47",
+          "name": "diced tomatoes",
+          "display_text": "1 can Diced Tomatoes",
+          "quantity": 1.0,
+          "unit": "can",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "1c0167fd-8bf5-503c-ade0-b244630b2d92",
+          "ingredient_id": "be79b3bd-bc90-5d15-aab2-4f95774b8de1",
+          "name": "cumin",
+          "display_text": "1 teaspoon Cumin",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e8cc3e49-96b0-50e4-a656-d5deb180b411",
+          "ingredient_id": "82355d68-cedc-5a32-8a70-51eb80680771",
+          "name": "chili powder",
+          "display_text": "½ tsp Chili Powder",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "7554a976-3392-5aa7-973d-9928df2b9f57",
+          "ingredient_id": "d8dee4f9-ce24-510b-a43d-b7968606921e",
+          "name": "smoked paprika",
+          "display_text": "½ tsp Smoked Paprika",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "76ed1d94-827f-5232-85ca-0f83fd0e383a",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "5a8e82b3-e1fe-57d3-a162-b4572f43988a",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "To taste Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1ef7bf96-1811-5a0f-a85f-071f1f130412",
+          "ingredient_id": "629b57e9-5d88-58bc-9c06-8841209b8168",
+          "name": "shredded mexican cheese",
+          "display_text": "1 1/2 cup Shredded Mexican Cheese",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "edfb2c2f-624d-5c8d-80cd-2d5763c21dfe",
+          "ingredient_id": "1655ccbe-97a7-59b3-9245-ebc95a0ed6d0",
+          "name": "cilantro",
+          "display_text": "Chopped Cilantro",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat your oven to 375°F (190°C). Lightly grease a 9x13-inch baking dish or a similar-sized casserole dish.",
+      "temperature": {
+        "value": 375,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "Place the bell pepper halves in the prepared baking dish, cut side up. Bake for 15-20 minutes, or until slightly softened.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "5a8e82b3-e1fe-57d3-a162-b4572f43988a"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "While the bell peppers are baking, prepare the filling. In a large skillet, heat the olive oil over medium heat. Add the chopped onion, and cook for 3-4 minutes, until softened. Add the garlic, and cook for another 1 minute, until fragrant.",
+      "ingredients_used": [
+        "f8655b6f-6181-53fa-86bf-4b347a008132",
+        "87eb5dd6-5784-5b84-8e09-f41527c5235e",
+        "ec435fc6-f216-55f4-8427-6935b4b67051"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Stir in the cooked quinoa, black beans, corn, diced tomatoes, ground cumin, chili powder, smoked paprika, salt, and pepper. Cook for 5-7 minutes, until heated through. Remove the skillet from heat, and stir in 1 cup of the shredded cheese, if using.",
+      "timer_seconds": 420,
+      "ingredients_used": [
+        "31f577b5-fae7-501b-a235-2bbe6482c5c0",
+        "ff9b7be4-ec91-51af-8b69-1ed762409543",
+        "346b4567-e5f3-5196-99c9-c7b9b9836549",
+        "1c0167fd-8bf5-503c-ade0-b244630b2d92",
+        "e8cc3e49-96b0-50e4-a656-d5deb180b411",
+        "7554a976-3392-5aa7-973d-9928df2b9f57",
+        "76ed1d94-827f-5232-85ca-0f83fd0e383a",
+        "5a8e82b3-e1fe-57d3-a162-b4572f43988a"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Remove the bell peppers from the oven, and carefully stuff each pepper half with the quinoa and black bean mixture. Top the stuffed peppers with the remaining 1/2 cup of shredded cheese, if using.",
+      "ingredients_used": [
+        "31f577b5-fae7-501b-a235-2bbe6482c5c0",
+        "5a8e82b3-e1fe-57d3-a162-b4572f43988a"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Return the stuffed peppers to the oven, and bake for another 15-20 minutes, until the cheese is melted and the peppers are tender.",
+      "timer_seconds": 1200
+    },
+    {
+      "step_number": 7,
+      "instruction": "Remove from the oven, and allow the stuffed peppers to cool for 5 minutes before serving. Garnish with fresh chopped cilantro.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "edfb2c2f-624d-5c8d-80cd-2d5763c21dfe"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

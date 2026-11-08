@@ -1,0 +1,220 @@
+{
+  "id": "498d31c0-923a-52d1-b39e-d836304f5e49",
+  "version": "1.0.0",
+  "title": "Split Pea Soup",
+  "slug": "split-pea-soup",
+  "summary": "A hearty Canadian-style soup made with split peas, ham, and vegetables, blended until smooth and served with shredded ham and bread.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:49:41Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52925"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/xxtsvx1511814083.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/xxtsvx1511814083.jpg/small",
+      "alt_text": "Photo of Split Pea Soup",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=qdhWz7qAaCU"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "54838e2c-2c59-558b-8932-e019f7cc6d0c",
+        "slug": "canadian",
+        "name": "Canadian"
+      }
+    ],
+    "tags": [
+      "soup",
+      "warm"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course",
+      "side_dish"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 150,
+    "total_time_minutes": 165
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of soup with ham"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "celery"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "c3bc9219-e283-589c-ba8e-918f2d977aa4",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "2a4c6421-821a-558a-aaa3-dd9961bc2d2b",
+          "ingredient_id": "c61b86c2-f691-51ef-9d76-0787f0d404f5",
+          "name": "ham",
+          "display_text": "1kg Ham",
+          "quantity": 1.0,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "kilogram",
+          "category": "meat"
+        },
+        {
+          "id": "6e5eb1d6-e466-5f13-aa01-6927f2c2fa6e",
+          "ingredient_id": "7073667e-84c6-57dc-a1f3-4bd704824318",
+          "name": "peas",
+          "display_text": "200g (soaked overnight) Peas",
+          "quantity": 200.0,
+          "unit": "gram",
+          "preparation": "soaked overnight",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "8bc65f1f-e2cc-5356-9f85-dcee44f21659",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onions",
+          "display_text": "2 chopped Onions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4b488521-90e1-57ed-8fc8-067ac6440c3c",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "2 chopped Carrots",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "638a8f74-aeea-5fd3-8d6a-1ab9f0148a93",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaves",
+          "display_text": "2 Bay Leaves",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "2165529a-5816-5f43-ae90-043999a72b97",
+          "ingredient_id": "ed4951b3-26e6-5bb4-a5af-9c61a46687a0",
+          "name": "celery",
+          "display_text": "1 chopped Celery",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4c963bb0-3bab-5813-822e-9edc47efd402",
+          "ingredient_id": "a3bbc4af-d0ec-5323-ac86-907a6f17bdb2",
+          "name": "frozen peas",
+          "display_text": "300g Frozen Peas",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "frozen_foods"
+        },
+        {
+          "id": "5589b4cc-46d9-52a3-abf5-b6452596e64f",
+          "ingredient_id": "95128a6e-6409-5797-b33b-a94a27c5951f",
+          "name": "bread",
+          "display_text": "to serve Bread",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "grains_pasta"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Put the gammon in a very large pan with 2 liters water and bring to the boil. Remove from the heat and drain off the water – this helps to get rid of some of the saltiness. Recover with 2 liters cold water and bring to the boil again. Put everything but the frozen peas into the pan and bring to the boil. Reduce to a simmer and cook for 1½-2½ hrs, topping up the water as and when you need to, to a similar level it started at. As the ham cooks and softens, you can halve it if you want, so it is all submerged under the liquid. When the ham is tender enough to pull into shreds, it is ready.",
+      "ingredients_used": [
+        "2a4c6421-821a-558a-aaa3-dd9961bc2d2b",
+        "6e5eb1d6-e466-5f13-aa01-6927f2c2fa6e",
+        "4c963bb0-3bab-5813-822e-9edc47efd402"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Lift out the ham, peel off and discard the skin. While it is still hot (wear a clean pair of rubber gloves), shred the meat. Remove bay from the soup and stir in the frozen peas. Simmer for 1 min, then blend until smooth. Add a splash of water if too thick, and return to the pan to heat through if it has cooled, or if you are making ahead.",
+      "timer_seconds": 60,
+      "ingredients_used": [
+        "2a4c6421-821a-558a-aaa3-dd9961bc2d2b",
+        "6e5eb1d6-e466-5f13-aa01-6927f2c2fa6e",
+        "4c963bb0-3bab-5813-822e-9edc47efd402"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "When you are ready to serve, mix the hot soup with most of the ham – gently reheat if made ahead. Serve in bowls with the remaining ham scattered on top, and eat with crusty bread and butter.",
+      "ingredients_used": [
+        "2a4c6421-821a-558a-aaa3-dd9961bc2d2b",
+        "5589b4cc-46d9-52a3-abf5-b6452596e64f"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/1022639/split-pea-and-green-pea-smoked-ham-soup"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

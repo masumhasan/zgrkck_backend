@@ -1,0 +1,227 @@
+{
+  "id": "2832d343-edc5-5b82-91c8-ecdac3947dd6",
+  "version": "1.0.0",
+  "title": "Rappie Pie",
+  "slug": "rappie-pie",
+  "summary": "A traditional Canadian dish consisting of layers of juiced potato flesh, caramelized onions, and cooked chicken breast, baked until golden.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:50:27Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52933"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ruwpww1511817242.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ruwpww1511817242.jpg/small",
+      "alt_text": "Photo of Rappie Pie",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Ys2kZnTVXAM"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "54838e2c-2c59-558b-8932-e019f7cc6d0c",
+        "slug": "canadian",
+        "name": "Canadian"
+      }
+    ],
+    "tags": [
+      "pie"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 115,
+    "total_time_minutes": 145
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "servings",
+    "serving_size_description": "a large portion of potato, chicken, and onion"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "99adf2c4-e6c5-5e63-ab51-0ff416089026",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "92807ef2-d040-563c-887d-be3c7f59f467",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "2 tbs Butter",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "a9cc03b5-355c-59f6-9d83-1b5a0c47ccde",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onions",
+          "display_text": "2 chopped Onions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "cd8576ef-d8de-5a10-8cff-cfa4d245950c",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "4 qt Chicken Stock",
+          "quantity": 4.0,
+          "unit": "quart",
+          "is_optional": false,
+          "metric_quantity": 3784.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "43670c2d-826b-53a7-848d-419ccc60b9cb",
+          "ingredient_id": "e23191a1-4966-5b21-a6f1-8df6f50b79db",
+          "name": "chicken breast",
+          "display_text": "1.5kg Chicken Breast",
+          "quantity": 1.5,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.5,
+          "metric_unit": "kilogram",
+          "category": "poultry"
+        },
+        {
+          "id": "bb84a173-a128-55bb-b23f-61de990a7b18",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "4kg Potatoes",
+          "quantity": 4.0,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 4.0,
+          "metric_unit": "kilogram",
+          "category": "produce"
+        },
+        {
+          "id": "cf022702-321b-503f-80aa-b937f52e7f50",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "2 tbs Salt",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "781318bd-82b2-5eeb-9ef3-98fd57bd058f",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1tbsp Black Pepper",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat oven to 400 degrees F (200 degrees C). Grease a 10x14x2-inch baking pan.",
+      "temperature": {
+        "value": 400,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat margarine in a skillet over medium heat; stir in onion. Cook and stir until onion has softened and turned translucent, about 5 minutes. Reduce heat to low and continue to cook and stir until onion is very tender and dark brown, about 40 minutes more."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Bring chicken broth to a boil in a large pot; stir in chicken breasts, reduce heat, and simmer until chicken is no longer pink at the center, about 20 minutes. Remove from heat. Remove chicken breasts to a plate using a slotted spoon; reserve broth.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "43670c2d-826b-53a7-848d-419ccc60b9cb"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Juice potatoes with an electric juicer; place dry potato flesh into a bowl and discard juice. Stir salt and pepper into potatoes; stir in enough reserved broth to make the mixture the consistency of oatmeal. Set remaining broth aside.",
+      "ingredients_used": [
+        "bb84a173-a128-55bb-b23f-61de990a7b18",
+        "cf022702-321b-503f-80aa-b937f52e7f50"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Spread half of potato mixture evenly into the prepared pan. Lay cooked chicken breast evenly over potatoes; scatter caramelized onion evenly over chicken. Spread remaining potato mixture over onions and chicken to cover.",
+      "ingredients_used": [
+        "a9cc03b5-355c-59f6-9d83-1b5a0c47ccde",
+        "43670c2d-826b-53a7-848d-419ccc60b9cb",
+        "bb84a173-a128-55bb-b23f-61de990a7b18"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Bake in the preheated oven until golden brown, about 1 hour. Reheat chicken broth; pour over individual servings as desired.",
+      "timer_seconds": 3600
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://allrecipes.com/recipe/234025/rappie-pie/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

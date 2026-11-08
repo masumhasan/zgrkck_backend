@@ -1,0 +1,282 @@
+{
+  "id": "b2decf19-61e4-59a8-8647-44293f2c231b",
+  "version": "1.0.0",
+  "title": "Callaloo Jamaican Style",
+  "slug": "callaloo-jamaican-style",
+  "summary": "A Jamaican-style dish featuring sautéed kale with bacon, aromatics, and spices, served alongside fried plantains.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:51:00Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52939"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ussyxw1515364536.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ussyxw1515364536.jpg/small",
+      "alt_text": "Photo of Callaloo Jamaican Style",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=bCr3GasJWwE"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "2dfec5c8-490a-551c-9d2f-e8e21f706bda",
+        "slug": "jamaican",
+        "name": "Jamaican"
+      }
+    ],
+    "tags": [
+      "savory"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course",
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of kale and plantains"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "e004fac7-268f-50b9-b459-618975aafd6b",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "ffe989c0-8724-56f4-a8b5-0916605a460b",
+          "ingredient_id": "ea2b5188-1104-5240-b077-b8eaf2c3aed9",
+          "name": "kale",
+          "display_text": "1  bunch Kale",
+          "quantity": 1.0,
+          "unit": "bunch",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3d788c64-de33-5178-98f0-5e64bd4bb243",
+          "ingredient_id": "956cfefc-d0f9-5c1f-9f20-d38a1e4dbdad",
+          "name": "bacon",
+          "display_text": "2 strips Bacon",
+          "quantity": 2.0,
+          "unit": "strip",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "4e0c9702-50ca-5323-966e-e28e44c4caa8",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 cloves Chopped Garlic",
+          "quantity": 3.0,
+          "unit": "clove",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ad102ca4-640f-57d8-86b9-629ae28c90f0",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 medium Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "96a62ca7-f7dc-5bdf-8e31-3b3008dcc4b9",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1/2 tsp Paprika",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "a3251b69-e847-559b-9215-fc49981c3bfc",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "1 Sprig Thyme",
+          "quantity": 1.0,
+          "unit": "sprig",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "dea196c0-9df8-591e-a0e6-e6b42e479ac4",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "1 Tomato",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "bbfaeeee-854a-52e7-8af1-c0e4556f5279",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1 Red Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "8f6c14d2-0dd6-5047-938d-f8d19452fb67",
+          "ingredient_id": "1c08a43f-9a80-5096-bd85-45ff68c9069c",
+          "name": "banana",
+          "display_text": "4 Banana",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "03d7afaf-fb82-5833-aa25-1588156424d0",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "Splash Vegetable Oil",
+          "quantity": 1,
+          "unit": "splash",
+          "is_optional": false,
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Cut leaves and soft stems from the kale branches, them soak in a bowl of cold water for about 5-10 minutes or until finish with prep.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "ffe989c0-8724-56f4-a8b5-0916605a460b"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Proceed to slicing the onions, mincing the garlic and dicing the tomatoes. Set aside",
+      "ingredients_used": [
+        "4e0c9702-50ca-5323-966e-e28e44c4caa8",
+        "ad102ca4-640f-57d8-86b9-629ae28c90f0",
+        "dea196c0-9df8-591e-a0e6-e6b42e479ac4"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Remove kale from water cut in chunks.",
+      "ingredients_used": [
+        "ffe989c0-8724-56f4-a8b5-0916605a460b"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Place bacon on saucepan and cook until crispy. Then add onions, garlic, thyme, stir for about a minute or more",
+      "ingredients_used": [
+        "3d788c64-de33-5178-98f0-5e64bd4bb243",
+        "4e0c9702-50ca-5323-966e-e28e44c4caa8",
+        "ad102ca4-640f-57d8-86b9-629ae28c90f0",
+        "a3251b69-e847-559b-9215-fc49981c3bfc"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Add tomatoes; scotch bonnet pepper, smoked paprika. Sauté for about 2-3 more minutes.",
+      "ingredients_used": [
+        "96a62ca7-f7dc-5bdf-8e31-3b3008dcc4b9",
+        "dea196c0-9df8-591e-a0e6-e6b42e479ac4"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Finally add vegetable, salt, mix well, and steamed for about 6-8 minutes or until leaves are tender. Add a tiny bit of water as needed. Adjust seasonings and turn off the heat.",
+      "timer_seconds": 480
+    },
+    {
+      "step_number": 7,
+      "instruction": "Using a sharp knife cut both ends off the plantain. This will make it easy to grab the skin of the plantains. Slit a shallow line down the long seam of the plantain; peel only as deep as the peel. Remove plantain peel by pulling it back."
+    },
+    {
+      "step_number": 8,
+      "instruction": "Slice the plantain into medium size lengthwise slices and set aside."
+    },
+    {
+      "step_number": 9,
+      "instruction": "Coat a large frying pan with cooking oil spray. Spray the tops of the plantains with a generous layer of oil spray and sprinkle with salt, freshly ground pepper."
+    },
+    {
+      "step_number": 10,
+      "instruction": "Let the plantains \"fry\" on medium heat, shaking the frying pan to redistribute them every few minutes."
+    },
+    {
+      "step_number": 11,
+      "instruction": "As the plantains brown, continue to add more cooking oil spray, salt and pepper (if needed) until they have reached the desired color and texture."
+    },
+    {
+      "step_number": 12,
+      "instruction": "Remove and serve with kale",
+      "ingredients_used": [
+        "ffe989c0-8724-56f4-a8b5-0916605a460b"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.africanbites.com/callaloo-jamaican-style/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

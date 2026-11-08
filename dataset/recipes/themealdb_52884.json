@@ -1,0 +1,244 @@
+{
+  "id": "c5cabbd1-e7d2-52ad-a301-294f93c2ffa2",
+  "version": "1.0.0",
+  "title": "Lancashire hotpot",
+  "slug": "lancashire-hotpot",
+  "summary": "A traditional British stew consisting of lamb and kidney layered with sliced potatoes and cooked in a savory broth.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:46:05Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52884"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/uttrxw1511637813.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/uttrxw1511637813.jpg/small",
+      "alt_text": "Photo of Lancashire hotpot",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=w6TS5J8YRA4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 100,
+    "total_time_minutes": 120
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1 hearty portion of stew and potatoes"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "fish"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "da81413e-c780-557b-8f86-73458cc0e772",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "bcd07bb9-049e-59f6-8128-42a85e88c512",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "100g Butter",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "c5fac441-1685-5cc7-9650-ef1d24778ff3",
+          "ingredient_id": "9d9a6681-e50b-5870-820c-5bf49172a394",
+          "name": "lamb",
+          "display_text": "900g Lamb",
+          "quantity": 900.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 900.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "586beb75-a834-54ac-a2c6-a95863b129d8",
+          "ingredient_id": "ad191fd8-feba-5c1f-8a55-f2bbb9892076",
+          "name": "lamb kidney",
+          "display_text": "3 Lamb Kidney",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "9ccb7a4f-43b7-5edd-b7e7-6e574ac56427",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onions",
+          "display_text": "2 medium Onions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e966f877-c357-5c6b-957a-429792708d00",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "4 sliced Carrots",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "6bdfd0bf-112e-5b8d-9dd5-f4c36512875e",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "25g Plain Flour",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "58b413e8-b1c0-5614-b8ae-b74dbdfaa43f",
+          "ingredient_id": "31e8f031-3e86-5406-8703-0e73554e2898",
+          "name": "worcestershire sauce",
+          "display_text": "2 tsp Worcestershire Sauce",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "2d4e1f25-4584-59d3-ad07-f8dbaa43e69a",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "500ml Chicken Stock",
+          "quantity": 500.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "5dd6d9ee-78d8-5164-aad8-c5c3bebec097",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaves",
+          "display_text": "2 Bay Leaves",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "809de88d-bb19-5847-9411-6b550886eab9",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "900g Potatoes",
+          "quantity": 900.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 900.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 160C/fan 140C/gas 3. Heat some dripping or butter in a large shallow casserole dish, brown the lamb in batches, lift to a plate, then repeat with the kidneys.",
+      "temperature": {
+        "value": 160,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "bcd07bb9-049e-59f6-8128-42a85e88c512",
+        "c5fac441-1685-5cc7-9650-ef1d24778ff3",
+        "586beb75-a834-54ac-a2c6-a95863b129d8"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Fry the onions and carrots in the pan with a little more dripping until golden. Sprinkle over the flour, allow to cook for a couple of mins, shake over the Worcestershire sauce, pour in the stock, then bring to the boil. Stir in the meat and bay leaves, then turn off the heat. Arrange the sliced potatoes on top of the meat, then drizzle with a little more dripping. Cover, then place in the oven for about 1½ hrs until the potatoes are cooked.",
+      "ingredients_used": [
+        "9ccb7a4f-43b7-5edd-b7e7-6e574ac56427",
+        "e966f877-c357-5c6b-957a-429792708d00",
+        "58b413e8-b1c0-5614-b8ae-b74dbdfaa43f",
+        "5dd6d9ee-78d8-5164-aad8-c5c3bebec097",
+        "809de88d-bb19-5847-9411-6b550886eab9"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Remove the lid, brush the potatoes with a little more dripping, then turn the oven up to brown the potatoes, or finish under the grill for 5-8 mins until brown.",
+      "timer_seconds": 480,
+      "ingredients_used": [
+        "809de88d-bb19-5847-9411-6b550886eab9"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/9099/lancashire-hotpot"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

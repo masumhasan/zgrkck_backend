@@ -1,0 +1,196 @@
+{
+  "id": "0c6ea618-09ad-51f6-b2d6-a6468dd475d2",
+  "version": "1.0.0",
+  "title": "Phaphatha Flatbreads",
+  "slug": "phaphatha-flatbreads",
+  "summary": "Phaphatha are traditional Botswanan flatbreads made from a simple dough of flour, milk, and leavening agents.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:37:10Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53471"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/um1phx1782504510.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/um1phx1782504510.jpg/small",
+      "alt_text": "Photo of Phaphatha Flatbreads",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "7eccd33d-bce1-55b8-8196-232aa305f7a3",
+        "slug": "botswanan",
+        "name": "Botswanan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "breakfast"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 5,
+    "rest_time_minutes": 30,
+    "total_time_minutes": 45
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 flatbread"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "2e5e5549-f38a-54c6-a3ca-bfab58ad58fd",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "345780d8-eaa3-5164-b3d8-065b2b324cbb",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "500g Flour",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "2ddc3ec2-3d8c-56d5-b806-3b24fc14d600",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 tablespoon Baking Powder",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "6e77d077-7d42-5727-bea0-45b7a1708053",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 1/2 tsp Salt",
+          "quantity": 1.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "76889285-135e-563b-8fb7-18ec49e1c982",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "2 tsp Sugar",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "cc12e637-d03b-5680-82ac-ee9e93f5b843",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "1 cup Milk",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "In a stand mixer bowl, combine the dry ingredients: flour, baking powder, salt, and sugar.",
+      "ingredients_used": [
+        "345780d8-eaa3-5164-b3d8-065b2b324cbb",
+        "2ddc3ec2-3d8c-56d5-b806-3b24fc14d600",
+        "6e77d077-7d42-5727-bea0-45b7a1708053",
+        "76889285-135e-563b-8fb7-18ec49e1c982"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "With the dough hook on low, drizzle in the milk.",
+      "ingredients_used": [
+        "cc12e637-d03b-5680-82ac-ee9e93f5b843"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Continue to knead until a small ball of dough is formed."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Remove the dough from the bowl, oil the bowl lightly, and return the ball of dough to the bowl. Cover and set aside to rest for 15-30 minutes.",
+      "timer_seconds": 1800
+    },
+    {
+      "step_number": 5,
+      "instruction": "Divide the ball of dough into 12 portions, in roughly even lumps."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Heat a small amount of oil in a large, flat skillet. Flatten a ball of dough with your palm and work it into a slightly larger round with the back of your hand, leaving it a thick round about 10cm (4\") in diameter. Place in the hot skillet. Repeat with as many rounds as will fit in your skillet."
+    },
+    {
+      "step_number": 7,
+      "instruction": "After 3-4 minutes, once the bottom is slightly browned in spots, flip and cook for another 1-2 minutes on the second side."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://kosherworldkitchen.com/phaphatha/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

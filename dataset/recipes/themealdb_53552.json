@@ -1,0 +1,252 @@
+{
+  "id": "28364f81-ea95-5c61-97f1-a420fa0b391c",
+  "version": "1.0.0",
+  "title": "Hveder - Danish Wheat Buns",
+  "slug": "hveder-danish-wheat-buns",
+  "summary": "Hveder are traditional Danish sweet yeast buns flavored with cardamom. They are often served warm with butter.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:44:27Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53552"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/xceagx1784662211.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/xceagx1784662211.jpg/small",
+      "alt_text": "Photo of Hveder - Danish Wheat Buns",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "11f008d8-4600-56c5-aaa2-cde07db70a5a",
+        "slug": "danish",
+        "name": "Danish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "snack"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 16,
+    "rest_time_minutes": 105,
+    "total_time_minutes": 141
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "bowls"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "71bb1da7-cb11-52f3-90ac-47b05d959bce",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "132e664a-acfa-5ff9-a2cf-ba933c1d5bbf",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "1 cup Milk",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "03a7aa00-79fb-5448-a3ac-b3b44ba1f808",
+          "ingredient_id": "28b21302-909b-59d3-a88f-a543e26ac34f",
+          "name": "yeast",
+          "display_text": "25g Yeast",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "6c2d0714-8cac-5262-94d0-d28926f58895",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "2 Eggs",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "3e3524f9-71f6-5c5c-b79e-54ed60b4a6d5",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "40g Sugar",
+          "quantity": 40.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 40.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "c763d53d-1031-5319-9608-547e99333333",
+          "ingredient_id": "3b50634b-78f8-5900-9eb4-3bc01f2a6f8c",
+          "name": "coarse salt",
+          "display_text": "1 tsp Coarse Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "117f4f31-a1b9-543c-af46-9b7831c704d7",
+          "ingredient_id": "3bca0ce2-1312-525a-a4c2-bee7bbeaa967",
+          "name": "ground cardomom",
+          "display_text": "2 tsp Ground Cardomom",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "5bc22582-452c-5439-90f2-85916a0531f2",
+          "ingredient_id": "d1e5ec78-b8c2-5649-962c-a9f67272ea92",
+          "name": "all purpose flour",
+          "display_text": "500g All purpose flour",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "893ae1b6-3ac8-514f-bc65-325fedb67f29",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "100g Butter",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "ec348f9c-379f-5f22-bde2-b9b6f8345697",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "For brushing Egg",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "for brushing",
+          "is_optional": false,
+          "category": "eggs"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat milk in a saucepan until warm to the touch (25°C / 77℉). Transfer milk to a mixing bowl and dissolve the yeast in the milk.",
+      "ingredients_used": [
+        "132e664a-acfa-5ff9-a2cf-ba933c1d5bbf",
+        "03a7aa00-79fb-5448-a3ac-b3b44ba1f808"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the remaining ingredients except for the butter and knead thoroughly. Use a kitchen mixer to knead the dough if you have one.",
+      "ingredients_used": [
+        "893ae1b6-3ac8-514f-bc65-325fedb67f29"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Cut the butter into cubes and add to the dough. Knead for 5 to 10 minutes until the dough is elastic and smooth.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "893ae1b6-3ac8-514f-bc65-325fedb67f29"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Cover the dough and let rise in a warm place for 45 minutes.",
+      "timer_seconds": 2700
+    },
+    {
+      "step_number": 5,
+      "instruction": "Transfer the dough to a counter sprinkled with flour and divide into 10-12 pieces of equal size. Roll each piece into a round bun and arrange the buns close to each other on a lined roasting pan or oven-proof dish (approximately 20 x 30 cm). Cover the buns and let rise for approximately 1 hour until they double in size.",
+      "timer_seconds": 3600
+    },
+    {
+      "step_number": 6,
+      "instruction": "Heat the oven to 180°C / 356℉ on fan setting.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 7,
+      "instruction": "Beat the egg in a small bowl and brush the tops of the buns with egg. Bake on the middle oven rack for 14 to 16 minutes until the buns develop a nice golden surface. Serve warm or toasted with butter.",
+      "timer_seconds": 960,
+      "ingredients_used": [
+        "893ae1b6-3ac8-514f-bc65-325fedb67f29",
+        "ec348f9c-379f-5f22-bde2-b9b6f8345697"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://denmark.dk/people-and-culture/recipes/danish-wheat-buns/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

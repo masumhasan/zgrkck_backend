@@ -1,0 +1,269 @@
+{
+  "id": "f83256d4-407a-589f-a1ad-e5101d7e42ec",
+  "version": "1.0.0",
+  "title": "Steak & Vietnamese noodle salad",
+  "slug": "steak-vietnamese-noodle-salad",
+  "summary": "A refreshing Vietnamese-style salad featuring sliced steak served over brown rice noodles, crunchy cabbage, and carrots with a zesty lime and fish sauce dressing.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:15:38Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53229"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/st9shl1763755808.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/st9shl1763755808.jpg/small",
+      "alt_text": "Photo of Steak & Vietnamese noodle salad",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Lo4_GdyetEU"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "60481cf3-a7b7-5be4-a0dc-6b872c887e64",
+        "slug": "vietnamese",
+        "name": "Vietnamese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 1,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of salad with steak"
+  },
+  "allergens": {
+    "contains": [
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "84e085e3-4415-52e4-84b6-d4603f8d6f54",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "bc217995-a5b3-5510-a72b-c566adac993c",
+          "ingredient_id": "5887340d-6b66-5c87-98e5-0a61bf1eda32",
+          "name": "brown rice noodle",
+          "display_text": "85g Brown Rice Noodle",
+          "quantity": 85.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 85.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "7e5c1169-e069-51a5-9385-c578687e924c",
+          "ingredient_id": "bf553a6e-4d85-50e4-a27c-bb7d90ec509c",
+          "name": "rapeseed oil",
+          "display_text": "1 tsp Rapeseed Oil",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "d86a8416-8118-5a62-a2c9-c5832e26945e",
+          "ingredient_id": "73466c9b-9658-514b-95f2-6156e47a0d8d",
+          "name": "fillet of steak",
+          "display_text": "250g Fillet Of Steak",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "e3ed6388-ec02-53d3-8cd1-f82dc3a7f1a7",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "2 Carrots",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "56cf8c42-7ff2-5fd2-b638-1168e0e4ad9b",
+          "ingredient_id": "aecd3958-7fd3-56b7-8d5d-96a38591fe78",
+          "name": "chinese cabbage",
+          "display_text": "1/2 Chinese Cabbage",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "5aa2e967-871c-5886-993c-d1225aaa8202",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "4 finely sliced Spring Onions",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "finely sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "47498730-d9dc-505b-be26-4de8d146351f",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "Handful Coriander",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "9b90ff16-35cf-5349-b86d-a7446566cf96",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "1 sliced Red Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "91a3e2e0-f180-5d74-9cd6-c9817e1134d6",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "Juice of 1 Lime",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "bb368259-1d7d-5350-b15b-2046d10e0cbe",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "2 tsp Brown Sugar",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "6dbb3027-ad85-52ad-9f66-b6bec8d3618f",
+          "ingredient_id": "cad15bc5-2770-5a5f-8572-c5ac5ad79569",
+          "name": "rice vinegar",
+          "display_text": "1 tsp Rice Vinegar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "ca329f45-c4a6-581d-80d4-c932dfd1d446",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "1 chopped Garlic Clove",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "cd986bef-c4cf-5bd7-aa92-048d1d7711b0",
+          "ingredient_id": "de927c20-fdfa-5b98-8ee9-7840fa951a2f",
+          "name": "fish sauce",
+          "display_text": "1/2 tbs Fish Sauce",
+          "quantity": 0.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Mix all the ingredients for the dressing together in a bowl with 1 tbsp water until the sugar has dissolved."
+    },
+    {
+      "step_number": 2,
+      "instruction": "Cook the noodles following pack instructions, then plunge into a bowl of cold water to cool completely. Drain the noodles, then add the carrot, cabbage, spring onion and dressing, and toss to combine.",
+      "ingredients_used": [
+        "bc217995-a5b3-5510-a72b-c566adac993c",
+        "56cf8c42-7ff2-5fd2-b638-1168e0e4ad9b"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Heat the oil in a frying pan over a high heat. Season the steak, then cook to your liking; 2-3 mins on each side for medium rare. Leave to rest for 5 mins, then slice. Divide the salad and steak slices between bowls and scatter over some coriander to serve.",
+      "ingredients_used": [
+        "d86a8416-8118-5a62-a2c9-c5832e26945e",
+        "47498730-d9dc-505b-be26-4de8d146351f"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/steak-vietnamese-noodle-salad"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "id": "a9eff847-989b-5805-94aa-9d1db68bc15a",
+  "version": "1.0.0",
+  "title": "Bolita di Keshi",
+  "slug": "bolita-di-keshi",
+  "summary": "A traditional Aruban snack consisting of fried cheese balls made from a mixture of cheddar and white cheese, bound with egg and cornstarch.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:34:11Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53438"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/skzd0x1780091674.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/skzd0x1780091674.jpg/small",
+      "alt_text": "Photo of Bolita di Keshi",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=WovQkxxrUeE"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "0582bdef-9340-5f24-b48f-1bf7f5f392ac",
+        "slug": "aruban",
+        "name": "Aruban"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack"
+    ],
+    "courses": [
+      "appetizer"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 25
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "pieces",
+    "serving_size_description": "several cheese balls"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "eggs"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "6e5be1b9-8880-5c5f-bd92-1a06d14a3012",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "2aafeff6-d716-536b-9a1d-e9b4a300cf4f",
+          "ingredient_id": "fe9682db-38d4-56f5-81fb-f846056c2505",
+          "name": "cheddar cheese",
+          "display_text": "1 lb Cheddar Cheese",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "bd0e5e3c-ad57-5cae-9108-b85b7f191c2a",
+          "ingredient_id": "c42909a9-37ca-5099-9618-3534369e4dc2",
+          "name": "feta",
+          "display_text": "1 lb Feta",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "42edbee5-dc30-5292-9295-ef86dddae5dd",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "1 beaten Eggs",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "beaten",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "1479e8d5-b7df-58b6-b1d5-40ae584737b1",
+          "ingredient_id": "4bdb1684-cdb6-5a8f-b220-c622cf2655cc",
+          "name": "cornstarch",
+          "display_text": "5 tablespoons Cornstarch",
+          "quantity": 5.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Grate finely and toss together."
+    },
+    {
+      "step_number": 2,
+      "instruction": "1 lb. sharp yellow cheese (cheddar or oude boerenkaas)"
+    },
+    {
+      "step_number": 3,
+      "instruction": "1 lb. keshi di buriko (or any white cheese such as fromage blanc, queso blanco, ricotto, feta etc.)",
+      "ingredients_used": [
+        "bd0e5e3c-ad57-5cae-9108-b85b7f191c2a"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Stir in:"
+    },
+    {
+      "step_number": 5,
+      "instruction": "6 eggs, beaten",
+      "ingredients_used": [
+        "42edbee5-dc30-5292-9295-ef86dddae5dd"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "5 Tbs. Cornstarch",
+      "ingredients_used": [
+        "1479e8d5-b7df-58b6-b1d5-40ae584737b1"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Shape the mixture into small balls. These may be kept indefinitely in the freezer. Drop the balls into deep, hot fat and fry until golden. Serve piping hot on toothpicks."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.visitaruba.com/aruba-recipes/bolita-di-keshi/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

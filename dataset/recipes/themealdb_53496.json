@@ -1,0 +1,329 @@
+{
+  "id": "94d85854-2acd-5051-a107-f57a8ac4c2e6",
+  "version": "1.0.0",
+  "title": "Bai Sach Chrouk – Grilled Pork with Rice",
+  "slug": "bai-sach-chrouk-grilled-pork-with-rice",
+  "summary": "A traditional Cambodian breakfast dish consisting of marinated grilled pork shoulder served alongside jasmine rice and fresh cucumber.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:39:20Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53496"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/f0cdwk1782688162.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/f0cdwk1782688162.jpg/small",
+      "alt_text": "Photo of Bai Sach Chrouk – Grilled Pork with Rice",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9366172c-dff3-589e-9436-4be7c7f595b3",
+        "slug": "cambodian",
+        "name": "Cambodian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 25,
+    "marinating_time_minutes": 30,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 75
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of grilled pork with rice and cucumber"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "fish",
+      "shellfish"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "af9c9c6a-01d7-5d8d-94fe-1f04a3308a51",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "b6d11fce-42a9-5107-bd11-9346cbbcf66c",
+          "ingredient_id": "d9ebfce1-d14a-5b53-afb1-816b0200e76b",
+          "name": "pork shoulder",
+          "display_text": "650g Pork Shoulder",
+          "quantity": 650.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 650.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "a3acf1bb-1492-50ff-974a-596a8d785fcf",
+          "ingredient_id": "0435e55e-84f6-566c-ac81-37617bbab91c",
+          "name": "coconut milk",
+          "display_text": "1/4 cup Coconut Milk",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "7cdd559f-89a0-5331-88c0-954ab82ecab4",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "3  tablespoons Soy Sauce",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "e0e6ca8c-ba8c-5eed-b0b5-419956b299c2",
+          "ingredient_id": "42972e00-9d00-55f1-8658-5357075be010",
+          "name": "oyster sauce",
+          "display_text": "2 tablespoons Oyster Sauce",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "943902cf-eb50-57d9-9b1a-140f22789dde",
+          "ingredient_id": "7ad11d6e-3134-5831-97df-4db2a67589f7",
+          "name": "honey",
+          "display_text": "2 tablespoons Honey",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "f5c2bd44-3154-5ead-9f56-2ac04f131284",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "4 cloves Garlic",
+          "quantity": 4.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b0815320-fefb-505c-ac09-4303297d5a6f",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1 tsp Black Pepper",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "345b7e76-0983-5a07-82b7-efdf86e0d3f7",
+          "ingredient_id": "5e15f536-69f0-5645-a107-7aef5fc85d55",
+          "name": "jasmine rice",
+          "display_text": "2 cups Jasmine Rice",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "7122120b-29d7-5178-a62f-b279114bb156",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "4 cups Water",
+          "quantity": 4.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 960.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "d88339c8-c5f9-572b-9c31-d9a0f0a57562",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "1 tablespoon Vegetable Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "9eb5817d-d0e1-530a-9e4f-dfc5b719fc2e",
+          "ingredient_id": "8f9e104a-822f-5bda-b376-eee34fc38609",
+          "name": "cucumber",
+          "display_text": "1 sliced Cucumber",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "54adaf22-a3e5-58a1-afd1-7db26566342b",
+          "ingredient_id": "c9d1de7b-7a65-598c-ac18-7860212efe0d",
+          "name": "cilantro leaves",
+          "display_text": "Garnish Cilantro Leaves",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "garnish",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "In a large bowl, combine the coconut milk, soy sauce, oyster sauce, honey, minced garlic, and black pepper to make the marinade.",
+      "ingredients_used": [
+        "a3acf1bb-1492-50ff-974a-596a8d785fcf",
+        "7cdd559f-89a0-5331-88c0-954ab82ecab4",
+        "e0e6ca8c-ba8c-5eed-b0b5-419956b299c2",
+        "943902cf-eb50-57d9-9b1a-140f22789dde",
+        "f5c2bd44-3154-5ead-9f56-2ac04f131284",
+        "b0815320-fefb-505c-ac09-4303297d5a6f"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the thinly sliced pork shoulder to the marinade, ensuring each piece is fully coated, then cover and refrigerate for at least 30 minutes to allow the flavors to penetrate.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "b6d11fce-42a9-5107-bd11-9346cbbcf66c"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "While the pork marinates, rinse the jasmine rice under cold water until the water runs clear to remove excess starch, which helps prevent clumping.",
+      "ingredients_used": [
+        "345b7e76-0983-5a07-82b7-efdf86e0d3f7",
+        "7122120b-29d7-5178-a62f-b279114bb156"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "In a medium pot, combine the rinsed rice and 4 cups of water, bring to a boil over high heat, then reduce to a simmer, cover, and cook for 15 minutes until the water is absorbed and the rice is tender.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "345b7e76-0983-5a07-82b7-efdf86e0d3f7",
+        "7122120b-29d7-5178-a62f-b279114bb156"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Heat a grill pan or outdoor grill to medium-high heat (about 400°F) and lightly brush with vegetable oil to prevent sticking.",
+      "temperature": {
+        "value": 400,
+        "unit": "fahrenheit"
+      },
+      "ingredients_used": [
+        "d88339c8-c5f9-572b-9c31-d9a0f0a57562"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Remove the pork from the marinade, shaking off any excess, and place it on the hot grill, cooking for 3-4 minutes per side until nicely charred and cooked through with an internal temperature of 145°F.",
+      "timer_seconds": 240,
+      "temperature": {
+        "value": 145,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 7,
+      "instruction": "Tip: Avoid overcrowding the grill pan to ensure even browning and proper caramelization of the marinade."
+    },
+    {
+      "step_number": 8,
+      "instruction": "Once the pork is grilled, let it rest for 5 minutes before slicing to retain its juices and tenderness.",
+      "timer_seconds": 300
+    },
+    {
+      "step_number": 9,
+      "instruction": "Tip: If you prefer a saucier dish, simmer the leftover marinade in a small saucepan for 5 minutes until slightly thickened and drizzle it over the pork.",
+      "timer_seconds": 300
+    },
+    {
+      "step_number": 10,
+      "instruction": "Fluff the cooked rice with a fork to separate the grains and serve it warm alongside the grilled pork slices.",
+      "ingredients_used": [
+        "345b7e76-0983-5a07-82b7-efdf86e0d3f7"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Arrange the thinly sliced cucumber and fresh cilantro leaves on top as a refreshing garnish.",
+      "ingredients_used": [
+        "9eb5817d-d0e1-530a-9e4f-dfc5b719fc2e",
+        "54adaf22-a3e5-58a1-afd1-7db26566342b"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Tip: For an extra kick, serve with a side of pickled vegetables or a squeeze of lime juice to balance the rich, savory flavors."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://recipes-for-life.com/cambodian-recipes/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

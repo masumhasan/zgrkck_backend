@@ -1,0 +1,241 @@
+{
+  "id": "022d48eb-9932-51c6-8dbb-8aa379232050",
+  "version": "1.0.0",
+  "title": "Black Beans Hotpot",
+  "slug": "black-beans-hotpot",
+  "summary": "A hearty Costa Rican-style black bean stew prepared in a pressure cooker with aromatic vegetables and spices.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:42:53Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53536"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/81ahfr1784394567.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/81ahfr1784394567.jpg/small",
+      "alt_text": "Photo of Black Beans Hotpot",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c34e726c-a17e-5cad-a035-3eaf9df4125f",
+        "slug": "costa-rican",
+        "name": "Costa Rican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 35,
+    "rest_time_minutes": 20,
+    "total_time_minutes": 65
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of black bean hotpot"
+  },
+  "allergens": {
+    "contains": [
+      "celery"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "551564f2-dae7-527f-bfc9-7cf86dac1ebe",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "c311530e-3bf8-5aeb-afb4-6095fb27a7b5",
+          "ingredient_id": "4958b57f-af77-572c-8240-fdfa5d5543c8",
+          "name": "black beans",
+          "display_text": "400g Black Beans",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "dda6c6ea-e1cb-51d4-b485-ca15c1a294c0",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 large Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "82f2f98a-999b-527c-8091-0558d12c9dce",
+          "ingredient_id": "f86b83d4-879d-54bb-a883-73bbfa9228ba",
+          "name": "green pepper",
+          "display_text": "1 Green Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7d17c74c-220e-51f8-a83f-97e43b050092",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1 Red Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4fb301c5-6595-59fe-93a1-991adadc7638",
+          "ingredient_id": "ed4951b3-26e6-5bb4-a5af-9c61a46687a0",
+          "name": "celery",
+          "display_text": "1/3 cup Celery",
+          "quantity": 0.3333,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 80.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "35149183-5713-547f-9e39-3067a49a1ad4",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "4 Cloves Crushed Garlic",
+          "quantity": 4.0,
+          "unit": "clove",
+          "preparation": "crushed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "48397521-ae48-56c1-a12e-f2d3556c4cf6",
+          "ingredient_id": "efa5be6a-3bc3-55ca-812f-22dd145ba53d",
+          "name": "ground cumin",
+          "display_text": "1 1/2 tsp Ground Cumin",
+          "quantity": 1.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3f049cdf-c934-5149-87f7-d5a80ed9502b",
+          "ingredient_id": "035f27db-b6ac-512c-a6e4-48e289cafefe",
+          "name": "oregano",
+          "display_text": "1 tablespoon Oregano",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "f3022a6d-e887-568a-8ff8-6c6653bc7a36",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 1/2 tsp Salt",
+          "quantity": 1.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "19566a88-e02b-55ec-bf03-339b155f7d20",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "2 tsp Black Pepper",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "a0812753-caba-501c-80da-8be61da6cc93",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "5 Cups Water",
+          "quantity": 5.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 1200.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Add all the ingredients in the Instant pot, Lock the lid on and set the Instant Pot to High Pressure for 35 minutes. Once the beans are done cooking, let the pressure release naturally for 20 minutes before releasing the remaining pressure. Open and serve!",
+      "ingredients_used": [
+        "c311530e-3bf8-5aeb-afb4-6095fb27a7b5"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Let the beans get cool completely before saving them in the fridge or freezer.",
+      "ingredients_used": [
+        "c311530e-3bf8-5aeb-afb4-6095fb27a7b5"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.recipesfromcostarica.com/recipes"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

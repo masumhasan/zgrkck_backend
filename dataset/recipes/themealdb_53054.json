@@ -1,0 +1,287 @@
+{
+  "id": "92d2f767-2afe-5453-ade7-07ed7cda5161",
+  "version": "1.0.0",
+  "title": "Seri muka kuih",
+  "slug": "seri-muka-kuih",
+  "summary": "A traditional Malaysian two-layered dessert consisting of a bottom layer of steamed glutinous rice and a top layer of sweet pandan custard.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:00:34Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53054"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/6ut2og1619790195.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/6ut2og1619790195.jpg/small",
+      "alt_text": "Photo of Seri muka kuih",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=_NJtCfqgaBo"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "336a5cbb-5bdd-53e1-aca6-9d291720d97b",
+        "slug": "malaysian",
+        "name": "Malaysian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 90,
+    "cook_time_minutes": 85,
+    "total_time_minutes": 175
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 rectangular slice"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "d134dd55-886e-52f8-a5ec-5d6b98b27353",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "06337beb-b6be-539a-badf-c5921d1853d5",
+          "ingredient_id": "025b8433-c498-5b37-813a-ec00ac6c2ae5",
+          "name": "rice",
+          "display_text": "400g Rice",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "fe18e0c0-b684-51f6-ab65-fba21a342843",
+          "ingredient_id": "0435e55e-84f6-566c-ac81-37617bbab91c",
+          "name": "coconut milk",
+          "display_text": "150ml Coconut Milk",
+          "quantity": 150.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "6c59fcec-a663-5e58-a154-c7bdb141cbee",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "100ml Water",
+          "quantity": 100.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "337d86f6-b0f5-5984-9252-92b92bddf727",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "4c275869-4124-5b42-8118-e89297368894",
+          "ingredient_id": "94f73465-e9e4-5ae0-8787-ee86687dbeb4",
+          "name": "corn flour",
+          "display_text": "5 tbs Corn Flour",
+          "quantity": 5.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "df9a3e9b-6c86-53ac-8fa4-cb71026dac96",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "3 tbs Flour",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "e1d444ea-b237-5c9a-9565-c9650c3c1a29",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "3 Eggs",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "1a5402b4-07ad-5ead-a666-eca5e4b8a857",
+          "ingredient_id": "0f3e4fb6-2462-5ac9-9904-fadac99ad6a7",
+          "name": "coconut cream",
+          "display_text": "200ml Coconut Cream",
+          "quantity": 200.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "ecaea8d0-3979-50ed-b47c-b4c9e6cefb31",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "140g Sugar",
+          "quantity": 140.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 140.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Soak glutinous rice with water for at least 1 ½ hours prior to using. Drain.",
+      "ingredients_used": [
+        "06337beb-b6be-539a-badf-c5921d1853d5",
+        "6c59fcec-a663-5e58-a154-c7bdb141cbee"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Prepare a 9-inch round or square cake pan and spray with cooking spray or line with plastic wrap."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Mix coconut milk, water, salt and the rice. Pour it into cake pan, topped with the pandan knots.",
+      "ingredients_used": [
+        "06337beb-b6be-539a-badf-c5921d1853d5",
+        "fe18e0c0-b684-51f6-ab65-fba21a342843",
+        "6c59fcec-a663-5e58-a154-c7bdb141cbee",
+        "337d86f6-b0f5-5984-9252-92b92bddf727"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Steam for 30 minutes.",
+      "timer_seconds": 1800
+    },
+    {
+      "step_number": 5,
+      "instruction": "After 30 minutes, fluff up the rice and remove pandan knots. Then, using a greased spatula, flatten the steamed rice. Make sure there are no holes/air bubbles and gaps in the rice, especially the sides.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "06337beb-b6be-539a-badf-c5921d1853d5"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Steam for another 10 minutes.",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 7,
+      "instruction": "Combine pandan juice, coconut milk, all purpose flour, cornflour, and sugar. Mix well.",
+      "ingredients_used": [
+        "fe18e0c0-b684-51f6-ab65-fba21a342843",
+        "df9a3e9b-6c86-53ac-8fa4-cb71026dac96",
+        "ecaea8d0-3979-50ed-b47c-b4c9e6cefb31"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Add eggs and whisk well then strain into a medium sized metal bowl or pot.",
+      "ingredients_used": [
+        "e1d444ea-b237-5c9a-9565-c9650c3c1a29"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Place pandan mixture over simmering water (double boiler or bain-marie)",
+      "ingredients_used": [
+        "6c59fcec-a663-5e58-a154-c7bdb141cbee"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "Stir continuously and cook till custard starts to thicken. (15 minutes)",
+      "timer_seconds": 900
+    },
+    {
+      "step_number": 11,
+      "instruction": "Pour pandan custard into glutinous rice layer, give it a little tap (for air bubbles) and continue to steam for 30 minutes.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "06337beb-b6be-539a-badf-c5921d1853d5"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Remove kuih seri muka from the steamer and allow to cool completely before cutting into rectangles or diamond shapes."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://makan.ch/recipe/kuih-seri-muka/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "id": "37fdfaa4-d97b-5232-9f2a-a4d82a8c27c4",
+  "version": "1.0.0",
+  "title": "Chicken Karaage",
+  "slug": "chicken-karaage",
+  "summary": "Chicken Karaage is a Japanese-style fried chicken marinated in a savory mixture of ginger, garlic, soy sauce, and sake, then coated in potato starch for a crispy texture.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:41:16Z",
+  "updated_at": "2026-10-16T10:22:47Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52831"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/tyywsw1505930373.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/tyywsw1505930373.jpg/small",
+      "alt_text": "Photo of Chicken Karaage",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=XivddFddthc"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "56a9f85e-d404-5cf3-b90f-babb495ba40f",
+        "slug": "japanese",
+        "name": "Japanese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 15,
+    "marinating_time_minutes": 60,
+    "total_time_minutes": 90
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of fried chicken pieces"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "4e1c9bac-15f0-5889-9aab-98c70450f390",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "aa8e9f57-78cd-508e-ab9b-0b016c870b5d",
+          "ingredient_id": "96643234-56e3-5df9-9877-487e63d7cb8b",
+          "name": "chicken",
+          "display_text": "450 grams Boneless skin Chicken",
+          "quantity": 450.0,
+          "unit": "gram",
+          "preparation": "boneless skin",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "gram",
+          "category": "poultry"
+        },
+        {
+          "id": "e915d386-183a-57bd-ab59-d66835b0c0f7",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "1 tablespoon Ginger",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "f8726444-eb4d-5b18-8ec9-9f41192f88eb",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3b8dce79-af27-5408-8001-22c91a9150d8",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "2 tablespoons Soy sauce",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "20ad1642-4900-57f2-b5b3-a809d0e210a5",
+          "ingredient_id": "e5beece9-b264-5da9-8a23-86aef5249963",
+          "name": "sake",
+          "display_text": "1 tablespoon Sake",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "d398297b-2139-5e44-b35b-ae988fe9ce49",
+          "ingredient_id": "585e8c07-6f6b-5618-a220-3f1795eaa043",
+          "name": "granulated sugar",
+          "display_text": "2 teaspoon Granulated sugar",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "74de57fd-3a9b-5a00-8ab9-ca293f32b6b3",
+          "ingredient_id": "f019243b-0caf-59fc-bb8e-29ddaeb36e37",
+          "name": "potato starch",
+          "display_text": "1/3 cup Potato starch",
+          "quantity": 0.3333,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 80.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "134a6a2d-6d20-5b14-96af-8473f36e2558",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "1/3 cup Vegetable oil",
+          "quantity": 0.3333,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 80.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "70025d51-be92-5ec7-979f-d6dfa179a082",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "1/3 cup Lemon",
+          "quantity": 0.3333,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 80.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Add the ginger, garlic, soy sauce, sake and sugar to a bowl and whisk to combine. Add the chicken, then stir to coat evenly. Cover and refrigerate for at least 1 hour.",
+      "timer_seconds": 3600,
+      "ingredients_used": [
+        "aa8e9f57-78cd-508e-ab9b-0b016c870b5d",
+        "e915d386-183a-57bd-ab59-d66835b0c0f7",
+        "f8726444-eb4d-5b18-8ec9-9f41192f88eb",
+        "3b8dce79-af27-5408-8001-22c91a9150d8",
+        "20ad1642-4900-57f2-b5b3-a809d0e210a5"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add 1 inch of vegetable oil to a heavy bottomed pot and heat until the oil reaches 360 degrees F. Line a wire rack with 2 sheets of paper towels and get your tongs out. Put the potato starch in a bowl",
+      "temperature": {
+        "value": 360,
+        "unit": "fahrenheit"
+      },
+      "ingredients_used": [
+        "74de57fd-3a9b-5a00-8ab9-ca293f32b6b3",
+        "134a6a2d-6d20-5b14-96af-8473f36e2558"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add a handful of chicken to the potato starch and toss to coat each piece evenly.",
+      "ingredients_used": [
+        "aa8e9f57-78cd-508e-ab9b-0b016c870b5d",
+        "74de57fd-3a9b-5a00-8ab9-ca293f32b6b3"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Fry the karaage in batches until the exterior is a medium brown and the chicken is cooked through. Transfer the fried chicken to the paper towel lined rack. If you want the karaage to stay crispy longer, you can fry the chicken a second time, until it's a darker color after it's cooled off once. Serve with lemon wedges.",
+      "ingredients_used": [
+        "aa8e9f57-78cd-508e-ab9b-0b016c870b5d",
+        "70025d51-be92-5ec7-979f-d6dfa179a082"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://norecipes.com/karaage-recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

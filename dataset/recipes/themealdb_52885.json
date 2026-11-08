@@ -1,0 +1,184 @@
+{
+  "id": "2a08958b-7ff1-534d-b1d4-c3a55f81ddd2",
+  "version": "1.0.0",
+  "title": "Bubble & Squeak",
+  "slug": "bubble-squeak",
+  "summary": "A traditional British side dish made by frying leftover vegetables, typically potatoes and cabbage or sprouts, until crispy.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:46:06Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52885"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/xusqvw1511638311.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/xusqvw1511638311.jpg/small",
+      "alt_text": "Photo of Bubble & Squeak",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=etbJ9ssgsWY"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "sidedish",
+      "speciality"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 25
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of fried vegetables"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "6846bccc-b5d2-5dd4-b7fa-58c27cdd914d",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "d91cc484-a2ba-548a-a111-e61eed7e326c",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "1 tbs Butter",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "a0ca69f5-0676-51ae-bcc8-eefd33d51bc7",
+          "ingredient_id": "956cfefc-d0f9-5c1f-9f20-d38a1e4dbdad",
+          "name": "bacon",
+          "display_text": "4 Bacon",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "673fb974-3238-54f7-bd86-12a5ff4c746e",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 finely sliced Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "finely sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "cffc32f0-d5da-5225-9ce2-04808d82f008",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "1 chopped Garlic Clove",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d0f09710-6def-5c19-8a37-695ee9f78444",
+          "ingredient_id": "8405c207-d617-59dc-857f-d6e8a221d018",
+          "name": "brussels sprouts",
+          "display_text": "20 Brussels Sprouts",
+          "quantity": 20.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "428151a0-f399-5eeb-8e9f-65cf37614ba4",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "400g Potatoes",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Melt the fat in a non-stick pan, allow it to get nice and hot, then add the bacon. As it begins to brown, add the onion and garlic. Next, add the sliced sprouts or cabbage and let it color slightly. All this will take 5-6 mins.",
+      "timer_seconds": 360,
+      "ingredients_used": [
+        "a0ca69f5-0676-51ae-bcc8-eefd33d51bc7",
+        "673fb974-3238-54f7-bd86-12a5ff4c746e",
+        "d0f09710-6def-5c19-8a37-695ee9f78444"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Next, add the potato. Work everything together in the pan and push it down so that the mixture covers the base of the pan – allow the mixture to catch slightly on the base of the pan before turning it over and doing the same again. It’s the bits of potato that catch in the pan that define the term ‘bubble and squeak’, so be brave and let the mixture color. Cut into wedges and serve."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/164622/bubble-and-squeak"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

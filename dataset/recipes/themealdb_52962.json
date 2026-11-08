@@ -1,0 +1,231 @@
+{
+  "id": "38a23134-d928-55f5-af7a-b64201c2ebf4",
+  "version": "1.0.0",
+  "title": "Salmon Eggs Eggs Benedict",
+  "slug": "salmon-eggs-eggs-benedict",
+  "summary": "A classic brunch dish consisting of poached eggs and smoked salmon served on toasted English muffins, topped with a rich, creamy Hollandaise sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:52:58Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52962"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/1550440197.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/1550440197.jpg/small",
+      "alt_text": "Photo of Salmon Eggs Eggs Benedict",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Woiiet4vQ58"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b95bb9d4-1e18-5623-a50f-942c7d140e82",
+        "slug": "american",
+        "name": "American"
+      }
+    ],
+    "tags": [
+      "brunch",
+      "bun"
+    ],
+    "meal_types": [
+      "breakfast",
+      "brunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "portions",
+    "serving_size_description": "1 muffin with 2 eggs and salmon"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs",
+      "fish",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "f10ff9aa-8570-50b7-8f32-0287a0f016ff",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "7c8a0d5e-8d51-53b9-b0a9-8ca5031f09af",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "4 Eggs",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "5613a7e6-8ab1-525a-864e-9a3960b58f84",
+          "ingredient_id": "fa7445fe-6dac-523d-9bc7-0bdbcf354913",
+          "name": "white wine vinegar",
+          "display_text": "2 tbs White Wine Vinegar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "23d7362b-7f10-5645-b8b6-40ec64294b9d",
+          "ingredient_id": "6da370a3-0477-5c22-b8dd-476a6eba8329",
+          "name": "english muffins",
+          "display_text": "2 English Muffins",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "b890a161-39ad-51f5-9ca5-17ac65d726aa",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "To serve Butter",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "7152b76f-04b7-58d0-992e-3670d7f646c2",
+          "ingredient_id": "a5baa003-522b-5d80-ab3f-9604d5c05163",
+          "name": "smoked salmon",
+          "display_text": "8 slices Smoked Salmon",
+          "quantity": 8.0,
+          "unit": "slice",
+          "is_optional": false,
+          "category": "fish"
+        },
+        {
+          "id": "58ecad22-7020-50cc-803d-2f23dad3b16a",
+          "ingredient_id": "4020879e-a0a5-58e2-b093-33c7e85c8a08",
+          "name": "lemon juice",
+          "display_text": "2 tsp Lemon Juice",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "a229f08b-c733-5607-99d2-d61cdcaa4e0d",
+          "ingredient_id": "fa7445fe-6dac-523d-9bc7-0bdbcf354913",
+          "name": "white wine vinegar",
+          "display_text": "2 tsp White Wine Vinegar",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "de0cd9ba-054c-50ab-8055-99a85181bf0d",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "3 Yolkes Egg",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "yolkes",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "2ce700c3-8379-5c9d-bb01-950ac6e825ec",
+          "ingredient_id": "bc46b2a6-8a59-50ee-a044-ce38bddb125c",
+          "name": "unsalted butter",
+          "display_text": "125g Unsalted Butter",
+          "quantity": 125.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 125.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "First make the Hollandaise sauce. Put the lemon juice and vinegar in a small bowl, add the egg yolks and whisk with a balloon whisk until light and frothy. Place the bowl over a pan of simmering water and whisk until mixture thickens. Gradually add the butter, whisking constantly until thick – if it looks like it might be splitting, then whisk off the heat for a few mins. Season and keep warm.",
+      "ingredients_used": [
+        "b890a161-39ad-51f5-9ca5-17ac65d726aa",
+        "58ecad22-7020-50cc-803d-2f23dad3b16a",
+        "de0cd9ba-054c-50ab-8055-99a85181bf0d",
+        "2ce700c3-8379-5c9d-bb01-950ac6e825ec"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "To poach the eggs, bring a large pan of water to the boil and add the vinegar. Lower the heat so that the water is simmering gently. Stir the water so you have a slight whirlpool, then slide in the eggs one by one. Cook each for about 4 mins, then remove with a slotted spoon.",
+      "timer_seconds": 240,
+      "ingredients_used": [
+        "7c8a0d5e-8d51-53b9-b0a9-8ca5031f09af"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Lightly toast and butter the muffins, then put a couple of slices of salmon on each half. Top each with an egg, spoon over some Hollandaise and garnish with chopped chives.",
+      "ingredients_used": [
+        "23d7362b-7f10-5645-b8b6-40ec64294b9d",
+        "b890a161-39ad-51f5-9ca5-17ac65d726aa",
+        "7152b76f-04b7-58d0-992e-3670d7f646c2",
+        "de0cd9ba-054c-50ab-8055-99a85181bf0d",
+        "2ce700c3-8379-5c9d-bb01-950ac6e825ec"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/73606/eggs-benedict-with-smoked-salmon-and-chives"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

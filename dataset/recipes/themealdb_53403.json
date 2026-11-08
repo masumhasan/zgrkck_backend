@@ -1,0 +1,196 @@
+{
+  "id": "7d4b338a-9f04-5f12-8fa3-42ebcf73c51c",
+  "version": "1.0.0",
+  "title": "Muraba-E-Kadu (Pumpkin Jam)",
+  "slug": "muraba-e-kadu-pumpkin-jam",
+  "summary": "A traditional Afghan sweet preserve made by simmering pumpkin cubes with orange juice, zest, sugar, and cardamom.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:30:59Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53403"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ug6bwk1779556566.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ug6bwk1779556566.jpg/small",
+      "alt_text": "Photo of Muraba-E-Kadu (Pumpkin Jam)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/shorts/0q1RvcqnVWA"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "e686c554-2e81-511f-b656-15ef0dcb3943",
+        "slug": "afghan",
+        "name": "Afghan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "snack"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 25,
+    "cook_time_minutes": 70,
+    "marinating_time_minutes": 600,
+    "total_time_minutes": 695
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "portions",
+    "serving_size_description": "a few spoonfuls of jam"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "a933f10a-a140-5584-a692-b995c396c08b",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "36ae15f0-0b1a-5c74-a4af-83d33ee7f181",
+          "ingredient_id": "e046e936-ea1f-5501-bc83-8d8341cc097c",
+          "name": "pumpkin",
+          "display_text": "1 kg Pumpkin",
+          "quantity": 1.0,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "kilogram",
+          "category": "produce"
+        },
+        {
+          "id": "045611ae-a61f-5609-9843-4c1a1ad0e27e",
+          "ingredient_id": "4f3b3c33-6392-5e5a-ac51-d269b68aa6e4",
+          "name": "orange",
+          "display_text": "1 kg Orange",
+          "quantity": 1.0,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "kilogram",
+          "category": "produce"
+        },
+        {
+          "id": "6296706e-cf0c-5e5b-b762-e1b08f1da4f0",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "750g Sugar",
+          "quantity": 750.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 750.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "98711b5f-a42a-5cb5-a1d5-1cd3736ca682",
+          "ingredient_id": "d72c12ae-5cbc-534c-bbd5-bc044d844d0a",
+          "name": "cardamom",
+          "display_text": "60g Cardamom",
+          "quantity": 60.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "gram",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Remove the skin of the pumpkin. Also remove the inner seeds.",
+      "ingredients_used": [
+        "36ae15f0-0b1a-5c74-a4af-83d33ee7f181"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Cut the flesh into 2cm cubes."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Take the zest off the oranges, with as little pith as possible, and cut into matchstick-sized strips.",
+      "ingredients_used": [
+        "045611ae-a61f-5609-9843-4c1a1ad0e27e"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Extract the juice from the oranges. Remove the seeds from the cardamom pods and reserve.",
+      "ingredients_used": [
+        "045611ae-a61f-5609-9843-4c1a1ad0e27e",
+        "98711b5f-a42a-5cb5-a1d5-1cd3736ca682"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Place the pumpkin, orange juice, orange strips, sugar and whole cardamom pod seeds in a large pan, mix well and leave to marinate for about 10 hours or overnight. Stir occasionally.",
+      "timer_seconds": 36000,
+      "ingredients_used": [
+        "36ae15f0-0b1a-5c74-a4af-83d33ee7f181",
+        "045611ae-a61f-5609-9843-4c1a1ad0e27e",
+        "6296706e-cf0c-5e5b-b762-e1b08f1da4f0",
+        "98711b5f-a42a-5cb5-a1d5-1cd3736ca682"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Bring the mixture to the boil, then reduce the heat and simmer until the liquid has thickened and become syrupy. This can take about an hour or a little bit longer."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Leave to cool then place in clean, dry jars. Enjoy!"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.afghanaid.org.uk/muraba-e-kadu-recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

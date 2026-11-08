@@ -1,0 +1,292 @@
+{
+  "id": "ec09a82b-0f3d-500c-8a05-625889b89529",
+  "version": "1.0.0",
+  "title": "Imam bayildi with BBQ lamb & tzatziki",
+  "slug": "imam-bayildi-with-bbq-lamb-tzatziki",
+  "summary": "A Turkish dish featuring roasted aubergines stuffed with a tomato and onion mixture, served alongside grilled lamb loin chops and a refreshing cucumber yogurt sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:17:49Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53253"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ampz9v1763787134.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ampz9v1763787134.jpg/small",
+      "alt_text": "Photo of Imam bayildi with BBQ lamb & tzatziki",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=k8ZMZtdu6Ac"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4c480df7-c067-5e9c-ac08-d8d49afa7f51",
+        "slug": "turkish",
+        "name": "Turkish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 60,
+    "total_time_minutes": 80
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "2 lamb chops with 1 stuffed aubergine and tzatziki"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "1882ad12-e434-5fe8-9a10-99134aadbb60",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "46c6d415-1e4c-5819-9c52-965feafb694b",
+          "ingredient_id": "0c13526c-c9d0-5c10-bc72-13ae3bf32c7e",
+          "name": "aubergine",
+          "display_text": "3 Aubergine",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0b23c725-ab1c-5486-9c7c-bd1c75124c95",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tablespoons Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "14c6632e-2f00-598f-ae03-fc5e227fe042",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "917918e6-40db-5979-abe3-0377ebcc4f97",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves chopped Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "cb1c6ac2-47ce-5b44-a136-865ee1dea183",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "1 tsp Cinnamon",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "0416dd9b-ea26-566a-9727-b15efde14a51",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "8 Tomato",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "5b9cb30b-bcfb-574e-820b-15a36162bcda",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Bunch Parsley",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "bunch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "16de2584-707a-551d-98cf-49c2a09525e8",
+          "ingredient_id": "cc64f359-1c01-53fe-aeea-f2968fe6e64c",
+          "name": "lamb loin chops",
+          "display_text": "12 Lamb Loin Chops",
+          "quantity": 12.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "0a24c1e9-76d4-5261-9fed-73bcfafe4921",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "Pinch Paprika",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "fa939ce1-7db1-5776-9d90-f2654d2e2977",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "1 Lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ab28126b-0684-5b32-84d5-40f0bcbae9f9",
+          "ingredient_id": "ba22b73d-e619-5bc7-a859-f65b683613fe",
+          "name": "greek yogurt",
+          "display_text": "150g Greek Yogurt",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "0763a50d-09d7-5cf6-ab9d-e2b423c02d17",
+          "ingredient_id": "8f9e104a-822f-5bda-b376-eee34fc38609",
+          "name": "cucumber",
+          "display_text": "1/2 Cucumber",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "88e8d448-2105-57a7-8ffc-fb3f556e6c56",
+          "ingredient_id": "0e838047-684d-55cb-884e-e7872e0e96c4",
+          "name": "mint",
+          "display_text": "2 tbs chopped Mint",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 190C/170C fan/gas 5. Halve the aubergines lengthways and score the flesh side deeply, brush with a good layer of olive oil and put on a baking sheet. Roast for 20 mins or until the flesh is soft enough to scoop out.",
+      "timer_seconds": 1200,
+      "temperature": {
+        "value": 190,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "46c6d415-1e4c-5819-9c52-965feafb694b",
+        "0b23c725-ab1c-5486-9c7c-bd1c75124c95"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Fry the onion in a little oil until soft, add the garlic and cinnamon and fry for 1 min. Once the aubergines are cool enough to handle, scoop out the centers. Roughly chop the flesh and add it to the onions. Halve the tomatoes, scoop the seeds and juice into a sieve set over a bowl, then chop the flesh. Add the chopped tomatoes to the pan and cook everything for 10 mins until nice and soft. Add a little more oil if you need to. Stir in the parsley, leaving a little for scattering at the end.",
+      "ingredients_used": [
+        "46c6d415-1e4c-5819-9c52-965feafb694b",
+        "14c6632e-2f00-598f-ae03-fc5e227fe042",
+        "917918e6-40db-5979-abe3-0377ebcc4f97",
+        "cb1c6ac2-47ce-5b44-a136-865ee1dea183",
+        "0416dd9b-ea26-566a-9727-b15efde14a51",
+        "5b9cb30b-bcfb-574e-820b-15a36162bcda"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Lay the aubergine halves in a baking dish and divide the tomato mixture between them. Pour over the juice from the tomatoes, drizzle with more olive oil and bake for 30 mins until the aubergines have collapsed.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "46c6d415-1e4c-5819-9c52-965feafb694b",
+        "0b23c725-ab1c-5486-9c7c-bd1c75124c95",
+        "0416dd9b-ea26-566a-9727-b15efde14a51"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Meanwhile, mix the tzatziki ingredients together and put in a small serving bowl."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Season the lamb with salt, black pepper and a pinch of paprika. Griddle, grill or barbecue for 3 mins on each side or until the fat is nicely browned, then put in a serving dish and squeeze over the lemon halves. Scatter the aubergines with parsley, then serve with the lamb and tzatziki.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "46c6d415-1e4c-5819-9c52-965feafb694b",
+        "5b9cb30b-bcfb-574e-820b-15a36162bcda",
+        "0a24c1e9-76d4-5261-9fed-73bcfafe4921",
+        "fa939ce1-7db1-5776-9d90-f2654d2e2977"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/imam-bayildi-bbq-lamb-tzatziki"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

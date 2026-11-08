@@ -1,0 +1,282 @@
+{
+  "id": "3c981bf7-9213-500b-bc51-caf205abf684",
+  "version": "1.0.0",
+  "title": "Tunisian Lamb Soup",
+  "slug": "tunisian-lamb-soup",
+  "summary": "A hearty Tunisian-style soup featuring minced lamb, chickpeas, and spinach simmered in a spiced tomato and chicken stock base with macaroni.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:53:56Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52972"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/t8mn9g1560460231.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/t8mn9g1560460231.jpg/small",
+      "alt_text": "Photo of Tunisian Lamb Soup",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=w1qgTQmLRe4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "23146f21-0265-5561-bbec-944b008fa0d1",
+        "slug": "tunisian",
+        "name": "Tunisian"
+      }
+    ],
+    "tags": [
+      "soup"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "soup"
+    ],
+    "dietary_flags": [],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 40,
+    "total_time_minutes": 55
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of soup"
+  },
+  "allergens": {
+    "contains": [
+      "gluten"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "346f792c-cbf7-5749-993d-590e01c8b896",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "9b3c6877-23f4-5772-8a62-6fe40a81d317",
+          "ingredient_id": "4d40d67a-57b5-5c91-91d3-62eba5bf1b7e",
+          "name": "lamb mince",
+          "display_text": "500g Lamb Mince",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "70a64f52-b4bc-5fa1-b0d5-897f01ac103c",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves minced Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "minced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "004e62df-f922-578f-98bd-15a0233c857a",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "6b6e8751-67cb-5305-a156-a85cbe0be518",
+          "ingredient_id": "d0dd13fa-8c7a-5af9-9e1d-3d7bfc0f68e8",
+          "name": "spinach",
+          "display_text": "300g Spinach",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "304139ea-de2f-5796-aff5-c8d7a19cc1c8",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "3 tbs Tomato Puree",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "942b621f-ea37-55ed-a3c3-f52815d8e6fd",
+          "ingredient_id": "be79b3bd-bc90-5d15-aab2-4f95774b8de1",
+          "name": "cumin",
+          "display_text": "1 tbs Cumin",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "c887a66f-c023-5290-93e0-24aaee9b32b7",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "1 Liter Chicken Stock",
+          "quantity": 1.0,
+          "unit": "liter",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "liter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "4adf7eec-ee1c-52d7-8e18-150d9def81d5",
+          "ingredient_id": "de3a4289-f9da-523e-971e-192a1995a29a",
+          "name": "harissa spice",
+          "display_text": "3 tsp Harissa Spice",
+          "quantity": 3.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "1dcec56a-4b6c-5cc9-ac09-e2061a96adf2",
+          "ingredient_id": "ae979dd7-6a1e-5882-9ed5-e0b09554efd0",
+          "name": "chickpeas",
+          "display_text": "400g Chickpeas",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "c81ef867-8e97-5c53-b2ed-316bf2a63cd9",
+          "ingredient_id": "4020879e-a0a5-58e2-b093-33c7e85c8a08",
+          "name": "lemon juice",
+          "display_text": "1/2 Lemon Juice",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d6210f6d-8c4d-549d-99d7-48d13158f053",
+          "ingredient_id": "0ec71036-cad4-57f1-81a8-9396827c3785",
+          "name": "macaroni",
+          "display_text": "150g Macaroni",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "b0870b66-5824-5851-a1d5-42c731810b3a",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "d8e4793e-ea0f-5686-ad67-3d4b21784f7e",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "Pinch Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Add the lamb to a casserole and cook over high heat. When browned, remove from the heat and set aside."
+    },
+    {
+      "step_number": 2,
+      "instruction": "Keep a tablespoon of fat in the casserole and discard the rest. Reduce to medium heat then add the garlic, onion and spinach and cook until the onion is translucent and the spinach wilted or about 5 minutes.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "70a64f52-b4bc-5fa1-b0d5-897f01ac103c",
+        "004e62df-f922-578f-98bd-15a0233c857a",
+        "6b6e8751-67cb-5305-a156-a85cbe0be518"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Return the lamb to the casserole with the onion-spinach mixture, add the tomato puree, cumin, harissa, chicken, chickpeas, lemon juice, salt and pepper in the pan. Simmer over low heat for about 20 minutes.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "004e62df-f922-578f-98bd-15a0233c857a",
+        "6b6e8751-67cb-5305-a156-a85cbe0be518",
+        "304139ea-de2f-5796-aff5-c8d7a19cc1c8",
+        "942b621f-ea37-55ed-a3c3-f52815d8e6fd",
+        "1dcec56a-4b6c-5cc9-ac09-e2061a96adf2",
+        "c81ef867-8e97-5c53-b2ed-316bf2a63cd9",
+        "b0870b66-5824-5851-a1d5-42c731810b3a",
+        "d8e4793e-ea0f-5686-ad67-3d4b21784f7e"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add the pasta and cook for 15 minutes or until pasta is cooked.",
+      "timer_seconds": 900
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://allrecipes.co.uk/recipe/16694/tunisian-lamb-soup.aspx"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

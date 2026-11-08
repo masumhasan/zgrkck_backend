@@ -1,0 +1,318 @@
+{
+  "id": "fc839431-4326-5728-8858-74eb49e5f70c",
+  "version": "1.0.0",
+  "title": "Roasted Eggplant With Tahini, Pine Nuts, and Lentils",
+  "slug": "roasted-eggplant-with-tahini-pine-nuts-and-lentils",
+  "summary": "Roasted eggplant halves served over a bed of savory lentils cooked with carrots, celery, and onion, topped with toasted pine nuts and tahini.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:39:52Z",
+  "updated_at": "2026-10-16T10:22:45Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52816"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ysqrus1487425681.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ysqrus1487425681.jpg/small",
+      "alt_text": "Photo of Roasted Eggplant With Tahini, Pine Nuts, and Lentils",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=HkywCtna9t0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b95bb9d4-1e18-5623-a50f-942c7d140e82",
+        "slug": "american",
+        "name": "American"
+      }
+    ],
+    "tags": [
+      "nutty",
+      "pulse",
+      "vegetarian"
+    ],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 40,
+    "total_time_minutes": 55
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 eggplant half with lentils and pine nuts"
+  },
+  "allergens": {
+    "contains": [
+      "tree_nuts",
+      "sesame",
+      "celery"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "1062e530-5305-57b8-95b2-db7ecf2b8cd0",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "a7b7c268-08ac-557a-8f26-4d696cfbe755",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tablespoons Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "693994b7-133d-5399-a135-96cd9ce0263b",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "2 small cut into chunks Carrots",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "small cut into chunks",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ff2db75b-afc5-5398-b144-bf9b2f110dec",
+          "ingredient_id": "ed4951b3-26e6-5bb4-a5af-9c61a46687a0",
+          "name": "celery",
+          "display_text": "2 small stalks Celery",
+          "quantity": 2.0,
+          "unit": "stalk",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2f248fe4-2d1a-5bbf-bf9e-e170e73dba95",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 medium finely diced Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "medium finely diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "5c5b7941-b021-5778-be8e-63de9a62822c",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "6 medium cloves sliced Garlic",
+          "quantity": 6.0,
+          "unit": "clove",
+          "preparation": "medium sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "a9ae542b-607d-5a1e-8dab-86c48c39f799",
+          "ingredient_id": "2afea6b9-5e0a-5f9e-b2f3-b4746a144116",
+          "name": "brown lentils",
+          "display_text": "12 ounces (340g) Brown Lentils",
+          "quantity": 12.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 340.2,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "84ce3ec2-15b1-57a8-9b31-c3fd19a3a37c",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaves",
+          "display_text": "2 Bay Leaves",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1f3addca-d93a-54ce-9c6e-2346af3af241",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "4 cups Water",
+          "quantity": 4.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 960.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "15f8f9b7-e10b-537d-b794-4618def9863d",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "5212d94e-802e-51b7-98fd-b7adfca525f1",
+          "ingredient_id": "211a37f0-70a1-58ab-8de9-d0d3b232bc64",
+          "name": "apple cider vinegar",
+          "display_text": "2 teaspoons (10ml) Apple Cider Vinegar",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "3d93c028-9abe-586b-9078-06d284dc8a21",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "Pinch Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "0b38a5f5-09bb-504d-958d-5552c0bd12a3",
+          "ingredient_id": "08b505fe-2af9-5025-98f3-845df35333e6",
+          "name": "egg plants",
+          "display_text": "2 large Egg Plants",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3c78a2bf-ad26-5986-aaff-0d3b961122eb",
+          "ingredient_id": "b0bbff87-223e-5a9c-aa07-1ee472617b84",
+          "name": "rosemary",
+          "display_text": "4 sprigs Rosemary",
+          "quantity": 4.0,
+          "unit": "sprig",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "48b2db96-f79f-5b11-8b4f-70a94c0380aa",
+          "ingredient_id": "d33b80af-1e5d-5fa5-a5a8-1cc1a925e2ee",
+          "name": "pine nuts",
+          "display_text": "1/4 cup Pine nuts",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "a7306c6b-39d8-568c-9168-f5746a05b1a1",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "2 tablespoons Parsley",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "For the Lentils: Adjust oven rack to center position and preheat oven to 450°F to prepare for roasting eggplant. Meanwhile, heat 2 tablespoons olive oil in a medium saucepan over medium heat until shimmering. Add carrots, celery, and onion and cook, stirring, until softened but not browned, about 4 minutes. Add garlic and cook, stirring, until fragrant, about 30 seconds. Add lentils, bay leaves, stock or water, and a pinch of salt. Bring to a simmer, cover with the lid partially ajar, and cook until lentils are tender, about 30 minutes. (Top up with water if lentils are at any point not fully submerged.) Remove lid, stir in vinegar, and reduce until lentils are moist but not soupy. Season to taste with salt and pepper, cover, and keep warm until ready to serve.",
+      "temperature": {
+        "value": 450,
+        "unit": "fahrenheit"
+      },
+      "ingredients_used": [
+        "a7b7c268-08ac-557a-8f26-4d696cfbe755",
+        "693994b7-133d-5399-a135-96cd9ce0263b",
+        "ff2db75b-afc5-5398-b144-bf9b2f110dec",
+        "2f248fe4-2d1a-5bbf-bf9e-e170e73dba95",
+        "5c5b7941-b021-5778-be8e-63de9a62822c",
+        "a9ae542b-607d-5a1e-8dab-86c48c39f799",
+        "84ce3ec2-15b1-57a8-9b31-c3fd19a3a37c",
+        "1f3addca-d93a-54ce-9c6e-2346af3af241",
+        "15f8f9b7-e10b-537d-b794-4618def9863d",
+        "3d93c028-9abe-586b-9078-06d284dc8a21"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "For the Eggplant: While lentils cook, cut each eggplant in half. Score flesh with the tip of a paring knife in a cross-hatch pattern at 1-inch intervals. Transfer to a foil-lined rimmed baking sheet, cut side up, and brush each eggplant half with 1 tablespoon oil, letting each brushstroke be fully absorbed before brushing with more. Season with salt and pepper. Place a rosemary sprig on top of each one. Transfer to oven and roast until completely tender and well charred, 25 to 35 minutes. Remove from oven and discard rosemary.",
+      "timer_seconds": 2100,
+      "ingredients_used": [
+        "a9ae542b-607d-5a1e-8dab-86c48c39f799",
+        "15f8f9b7-e10b-537d-b794-4618def9863d",
+        "3d93c028-9abe-586b-9078-06d284dc8a21",
+        "3c78a2bf-ad26-5986-aaff-0d3b961122eb"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "To Serve: Heat 2 tablespoons olive oil and pine nuts in a medium skillet set over medium heat. Cook, tossing nuts frequently, until golden brown and aromatic, about 4 minutes. Transfer to a bowl to halt cooking. Stir half of parsley and rosemary into lentils and transfer to a serving platter. Arrange eggplant halves on top. Spread a few tablespoons of tahini sauce over each eggplant half and sprinkle with pine nuts. Sprinkle with remaining parsley and rosemary, drizzle with additional olive oil, and serve.",
+      "timer_seconds": 240,
+      "ingredients_used": [
+        "a7b7c268-08ac-557a-8f26-4d696cfbe755",
+        "a9ae542b-607d-5a1e-8dab-86c48c39f799",
+        "3c78a2bf-ad26-5986-aaff-0d3b961122eb",
+        "48b2db96-f79f-5b11-8b4f-70a94c0380aa",
+        "a7306c6b-39d8-568c-9168-f5746a05b1a1"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://www.seriouseats.com/recipes/2016/03/roasted-eggplant-tahini-pine-nut-lentil-vegan-experience-recipe.html"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

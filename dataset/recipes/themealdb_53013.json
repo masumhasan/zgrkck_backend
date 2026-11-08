@@ -1,0 +1,295 @@
+{
+  "id": "2d073652-74f9-58b5-9217-187ce45ba245",
+  "version": "1.0.0",
+  "title": "Big Mac",
+  "slug": "big-mac",
+  "summary": "A multi-layered beef burger featuring a signature sauce, sesame seed buns, cheese, lettuce, onion, and pickles.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:56:55Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53013"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/urzj1d1587670726.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/urzj1d1587670726.jpg/small",
+      "alt_text": "Photo of Big Mac",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=C5J39YnnPsg"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b95bb9d4-1e18-5623-a50f-942c7d140e82",
+        "slug": "american",
+        "name": "American"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 10,
+    "rest_time_minutes": 30,
+    "total_time_minutes": 60
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 double-decker burger"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "351ff699-c4c8-54c4-a329-0099ba6df79e",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "10344f55-44fd-5497-b1a5-fd16757735a7",
+          "ingredient_id": "32de35ba-e219-523e-a9c8-e8bef0b536c9",
+          "name": "minced beef",
+          "display_text": "400g Minced Beef",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "c67991de-8b77-52cf-9ffd-55ea453ad23d",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tbs Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "26ce8c11-443e-594e-99f7-9d9e217fe847",
+          "ingredient_id": "dcfeacec-32e6-56ec-ba6a-97da3c4663d0",
+          "name": "sesame seed burger buns",
+          "display_text": "2 Sesame Seed Burger Buns",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "ae8085e6-ad12-5b7b-9b09-37b30f72fed9",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "Chopped Onion",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4096bf5f-4ba1-5672-b861-c42ff5e51690",
+          "ingredient_id": "54a856ce-5ed6-58fb-82c9-474191c2f968",
+          "name": "iceberg lettuce",
+          "display_text": "1/4 Iceberg Lettuce",
+          "quantity": 0.25,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "213a1e90-1f6a-5e29-ba09-b1f3e933667d",
+          "ingredient_id": "9492d127-f816-5ce2-956c-6fe8fdc731f2",
+          "name": "cheese",
+          "display_text": "2 sliced Cheese",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "9770814c-149f-5bc8-aa48-00ac9a63d381",
+          "ingredient_id": "e7ef9783-b3f9-5639-b277-3e5953d9ffc4",
+          "name": "dill pickles",
+          "display_text": "2 large Dill Pickles",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "0065f406-7a33-5362-a5b6-eb3cd6198c6c",
+          "ingredient_id": "6a3a5ec7-7840-5eff-a3ce-0e3aafbaa822",
+          "name": "mayonnaise",
+          "display_text": "1 cup Mayonnaise",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "3c18a097-026f-5074-a6ed-f942f1d196e6",
+          "ingredient_id": "fa7445fe-6dac-523d-9bc7-0bdbcf354913",
+          "name": "white wine vinegar",
+          "display_text": "2 tsp White Wine Vinegar",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "79ea7a8a-f048-5b81-a91f-30945413a8ba",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "Pinch Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "33d149f1-8561-5724-8e62-7adee3d528bc",
+          "ingredient_id": "b9e3afdc-e194-5f5e-bbae-5c3659d35a67",
+          "name": "mustard",
+          "display_text": "2 tsp Mustard",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "973792b0-ca08-5861-a032-0810f301b3d6",
+          "ingredient_id": "dcd79b01-f131-5462-9251-61d00494b73d",
+          "name": "onion salt",
+          "display_text": "1 1/2 tsp Onion Salt",
+          "quantity": 1.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "16c4a40e-d182-55ef-8454-c3a83ec942dd",
+          "ingredient_id": "856e47ab-bcee-5e44-bc03-f1ba0c6859b1",
+          "name": "garlic powder",
+          "display_text": "1 1/2 tsp Garlic Powder",
+          "quantity": 1.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3f5ada0a-e319-5c69-b205-ed4d8f315539",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1/2 tsp Paprika",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "For the Big Mac sauce, combine all the ingredients in a bowl, season with salt and chill until ready to use.",
+      "ingredients_used": [
+        "973792b0-ca08-5861-a032-0810f301b3d6"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "To make the patties, season the mince with salt and pepper and form into 4 balls using about 1/3 cup mince each. Place each onto a square of baking paper and flatten to form into four x 15cm circles. Heat oil in a large frypan over high heat. In 2 batches, cook beef patties for 1-2 minutes each side until lightly charred and cooked through. Remove from heat and keep warm. Repeat with remaining two patties.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "10344f55-44fd-5497-b1a5-fd16757735a7",
+        "79ea7a8a-f048-5b81-a91f-30945413a8ba",
+        "973792b0-ca08-5861-a032-0810f301b3d6"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Carefully slice each burger bun into three acrossways, then lightly toast."
+    },
+    {
+      "step_number": 4,
+      "instruction": "To assemble the burgers, spread a little Big Mac sauce over the bottom base. Top with some chopped onion, shredded lettuce, slice of cheese, beef patty and some pickle slices. Top with the middle bun layer, and spread with more Big Mac sauce, onion, lettuce, pickles, beef patty and then finish with more sauce. Top with burger lid to serve.",
+      "ingredients_used": [
+        "10344f55-44fd-5497-b1a5-fd16757735a7",
+        "ae8085e6-ad12-5b7b-9b09-37b30f72fed9",
+        "4096bf5f-4ba1-5672-b861-c42ff5e51690",
+        "213a1e90-1f6a-5e29-ba09-b1f3e933667d",
+        "9770814c-149f-5bc8-aa48-00ac9a63d381"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "After waiting half an hour for your food to settle, go for a jog."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.delicious.com.au/recipes/finally-recipe-worlds-top-selling-burger-big-mac/5221ee4a-279e-4a0b-8629-f442dc46822e"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "id": "6b8319d3-01de-5cf8-8eaa-154f7afce02d",
+  "version": "1.0.0",
+  "title": "Kidney Bean Curry",
+  "slug": "kidney-bean-curry",
+  "summary": "A simple Indian-style curry made with kidney beans, tomatoes, and aromatic spices. It is served alongside basmati rice.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:44:38Z",
+  "updated_at": "2026-10-16T10:22:49Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52868"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/sywrsu1511463066.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/sywrsu1511463066.jpg/small",
+      "alt_text": "Photo of Kidney Bean Curry",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Tp_PMWvIKzo"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b2b4e1bc-3c1e-50ce-abf4-9015553e6a16",
+        "slug": "indian",
+        "name": "Indian"
+      }
+    ],
+    "tags": [
+      "curry"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of curry with rice"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "3dd0a37a-5596-5126-8a7f-ff3fa0210922",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "277b6a4f-fbf0-540e-b0c1-c703b3a7f6c0",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "1 tbls Vegetable Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "4bacfc88-5d4a-5478-90d8-c2d751e32ba8",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 finely chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "6d55f95a-fb4b-5345-83bb-474f4187f1ef",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves chopped Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f9f4c6d8-602f-5f1a-9d80-b12650d4b59e",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "1 part Ginger",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "part",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b8bafd30-9824-59e8-88a9-e9ff5bfc3ee4",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "1 Packet Coriander",
+          "quantity": 1.0,
+          "unit": "packet",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "0d13b458-c7c9-5c18-b6c2-8473a0402121",
+          "ingredient_id": "be79b3bd-bc90-5d15-aab2-4f95774b8de1",
+          "name": "cumin",
+          "display_text": "1 tsp Cumin",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "7e6559c6-e9ec-517d-9c5b-3cf3440989b5",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1 tsp Paprika",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e88489a0-815f-554f-b0e7-2c322eaf7d91",
+          "ingredient_id": "b3528dc3-f7f7-5d65-9903-d906fc4c30f0",
+          "name": "garam masala",
+          "display_text": "2 tsp Garam Masala",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "368ca902-b627-55c3-93a3-448d1790e036",
+          "ingredient_id": "f55fd16d-cf7d-508e-a734-bd6e6a65e05a",
+          "name": "chopped tomatoes",
+          "display_text": "400g Chopped Tomatoes",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "6dc5b346-0529-5eac-859f-6075d0d388b6",
+          "ingredient_id": "ba890946-fbb1-5386-9394-aa912a5bb5a0",
+          "name": "kidney beans",
+          "display_text": "400g Kidney Beans",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "c3740710-e569-5ebb-b535-a448625476ae",
+          "ingredient_id": "83ffb65f-48c4-5295-bd29-b97975a1fcb1",
+          "name": "basmati rice",
+          "display_text": "to serve Basmati Rice",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "grains_pasta"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oil in a large frying pan over a low-medium heat. Add the onion and a pinch of salt and cook slowly, stirring occasionally, until softened and just starting to color. Add the garlic, ginger and coriander stalks and cook for a further 2 mins, until fragrant.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "4bacfc88-5d4a-5478-90d8-c2d751e32ba8",
+        "6d55f95a-fb4b-5345-83bb-474f4187f1ef",
+        "f9f4c6d8-602f-5f1a-9d80-b12650d4b59e",
+        "b8bafd30-9824-59e8-88a9-e9ff5bfc3ee4"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the spices to the pan and cook for another 1 min, by which point everything should smell aromatic. Tip in the chopped tomatoes and kidney beans in their water, then bring to the boil.",
+      "timer_seconds": 60,
+      "ingredients_used": [
+        "368ca902-b627-55c3-93a3-448d1790e036",
+        "6dc5b346-0529-5eac-859f-6075d0d388b6"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Turn down the heat and simmer for 15 mins until the curry is nice and thick. Season to taste, then serve with the basmati rice and the coriander leaves.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "b8bafd30-9824-59e8-88a9-e9ff5bfc3ee4",
+        "c3740710-e569-5ebb-b535-a448625476ae"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/kidney-bean-curry"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

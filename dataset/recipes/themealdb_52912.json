@@ -1,0 +1,300 @@
+{
+  "id": "f2cec5d5-cdfc-543b-9f08-6ee4c1b9a5bb",
+  "version": "1.0.0",
+  "title": "Three-cheese souffles",
+  "slug": "three-cheese-souffles",
+  "summary": "A classic French cheese soufflé made with a base of Gruyère, Parmesan, and goat's cheese, served with cream and spinach.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:48:32Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52912"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/sxwquu1511793428.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/sxwquu1511793428.jpg/small",
+      "alt_text": "Photo of Three-cheese souffles",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=mS_gbQpBvZo"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "fe8f07a1-591f-5711-ae5b-f3c9afcc3e60",
+        "slug": "french",
+        "name": "French"
+      }
+    ],
+    "tags": [
+      "baking"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "advanced",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 35,
+    "total_time_minutes": 55
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 soufflé"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs",
+      "mustard"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "654e0c84-3670-5821-a22b-a83acd0401be",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "e35ae650-fdaf-5407-9e62-e267b3edd722",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "50g Butter",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "c7f03a75-ff11-5971-9b7b-6cd2b99224ab",
+          "ingredient_id": "416df703-8cf7-5b6e-bc37-86ce7e3fd6da",
+          "name": "parmesan",
+          "display_text": "25g Parmesan",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "cfc0c85c-81e4-5a09-bc6e-7b487519d170",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "300ml Milk",
+          "quantity": 300.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "ddad3d32-b713-5d1a-92df-cadb4e75b732",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaves",
+          "display_text": "2 Bay Leaves",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "f99c40e4-3201-5d16-b989-247ae04d0863",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "5 tbs Plain Flour",
+          "quantity": 5.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "71be6334-9280-5468-9f01-c52e040ab6dd",
+          "ingredient_id": "3442e73c-2c01-58d5-ad72-6d20eeddcc9a",
+          "name": "english mustard",
+          "display_text": "½ tsp English Mustard",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "7fc07a09-15f0-5bfe-b9d9-0e54fe5a698a",
+          "ingredient_id": "97dd86b9-4ad7-5a3a-bc6c-86485409c325",
+          "name": "cayenne pepper",
+          "display_text": "Pod of Cayenne Pepper",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "pod of",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "0ca26e7d-0a42-5e70-a643-602989e1a9e2",
+          "ingredient_id": "7e2a902e-7ab4-5cdc-8b27-6bf2e8fa0437",
+          "name": "gruyère",
+          "display_text": "140g Gruyère",
+          "quantity": 140.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 140.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "259162d0-15a5-5b0f-8892-c371497ad335",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "3 Eggs",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "4079dd36-4b94-5658-a83b-fded13c91ff8",
+          "ingredient_id": "dfc0b05a-d6aa-5c97-90f3-2d4b682bcd78",
+          "name": "goats cheese",
+          "display_text": "8 slices Goats Cheese",
+          "quantity": 8.0,
+          "unit": "slice",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "eac921f4-e109-5a5f-82b1-4f5cf305d8d7",
+          "ingredient_id": "81b5723b-47de-5017-987f-cdcc95dd362b",
+          "name": "double cream",
+          "display_text": "150ml Double Cream",
+          "quantity": 150.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "ce0c4f6e-65e7-52d3-b876-570d28a0f0a2",
+          "ingredient_id": "d0dd13fa-8c7a-5af9-9e1d-3d7bfc0f68e8",
+          "name": "spinach",
+          "display_text": "to serve Spinach",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 200C/180C fan/ gas 6 and butter 4 small (about 200ml) ramekins. Sprinkle the Parmesan into the ramekins, turning until all sides are covered. Place the milk and bay leaves in a large saucepan over a gentle heat and bring to the boil. Turn off the heat and leave to infuse for 15 mins.",
+      "timer_seconds": 900,
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "e35ae650-fdaf-5407-9e62-e267b3edd722",
+        "c7f03a75-ff11-5971-9b7b-6cd2b99224ab",
+        "cfc0c85c-81e4-5a09-bc6e-7b487519d170",
+        "ddad3d32-b713-5d1a-92df-cadb4e75b732"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Discard the bay leaves, add the butter and flour, and return to a low heat. Very gently simmer, stirring continuously with a balloon whisk, for about 6 mins until you get a smooth, thick white sauce. Make sure that you get right into the corners of the pan to stop the sauce from catching or becoming lumpy.",
+      "timer_seconds": 360,
+      "ingredients_used": [
+        "e35ae650-fdaf-5407-9e62-e267b3edd722",
+        "ddad3d32-b713-5d1a-92df-cadb4e75b732"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Once thickened, transfer the sauce to a large bowl and stir in the mustard powder, cayenne pepper, Gruyère and egg yolks until fully combined.",
+      "ingredients_used": [
+        "71be6334-9280-5468-9f01-c52e040ab6dd",
+        "7fc07a09-15f0-5bfe-b9d9-0e54fe5a698a",
+        "0ca26e7d-0a42-5e70-a643-602989e1a9e2"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "In a spotlessly clean bowl and with a clean whisk, beat the egg whites just until peaks begin to form."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Carefully fold the egg whites into the cheese sauce in three stages making sure you fold, rather than stir, to keep the egg whites light and airy. Fill the prepared ramekins with the soufflé mix."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Top each soufflé with a slice of goat’s cheese, then place on a baking tray. Bake for 20-25 mins or until springy and well risen but cooked through.",
+      "timer_seconds": 1500
+    },
+    {
+      "step_number": 7,
+      "instruction": "Leave to cool, then run a knife around the edge of each dish and remove the soufflés. If preparing in advance, place soufflés upside down (for neat presentation), on a tray. Cover tray in cling film. Chill for a few days or freeze for up to 1 month."
+    },
+    {
+      "step_number": 8,
+      "instruction": "When ready to re-bake, heat oven to 200C/180C fan/gas 6. Place the upside-down soufflés in a shallow baking dish, top with the remaining goat’s cheese slices and pour over the cream (this stops them from drying out when baked for the second time). Cook for 8-10 mins until golden. Serve immediately alongside some simply dressed salad.",
+      "timer_seconds": 600,
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      }
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/3028701/threecheese-souffls"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

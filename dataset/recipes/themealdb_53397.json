@@ -1,0 +1,226 @@
+{
+  "id": "b70c0a88-aebd-5453-9aec-70b7725ebb88",
+  "version": "1.0.0",
+  "title": "Haft Mewa Recipe",
+  "slug": "haft-mewa-recipe",
+  "summary": "A traditional Afghan fruit and nut mixture featuring dried apricots, raisins, cherries, and various nuts soaked in rose water.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:30:27Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53397"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/io2u3z1779551885.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/io2u3z1779551885.jpg/small",
+      "alt_text": "Photo of Haft Mewa Recipe",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Mzv2JIg3TRA"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "e686c554-2e81-511f-b656-15ef0dcb3943",
+        "slug": "afghan",
+        "name": "Afghan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 0,
+    "marinating_time_minutes": 2880,
+    "total_time_minutes": 2900
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of fruit and nut mixture"
+  },
+  "allergens": {
+    "contains": [
+      "tree_nuts",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "0f7d7551-2f85-578f-b298-a47d1f320d02",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "4ebed544-2608-53d3-8995-5297d869d780",
+          "ingredient_id": "4e2337c2-e42a-5ed6-9e7b-4b439f982bd2",
+          "name": "dried apricots",
+          "display_text": "110g Dried Apricots",
+          "quantity": 110.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 110.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "309f9df3-eb25-5ae6-b293-1971a5a75068",
+          "ingredient_id": "87671609-85c2-530c-9e89-b05fbda0cfd1",
+          "name": "light raisins",
+          "display_text": "50g Light Raisins",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "0470a035-d65a-5c86-986f-693d078f1724",
+          "ingredient_id": "8d52ad34-1aea-57a9-8e92-aabab5116059",
+          "name": "raisins",
+          "display_text": "110g Raisins",
+          "quantity": 110.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 110.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "292260f7-202c-51fa-862c-98c05daa766c",
+          "ingredient_id": "0ad40f09-76c2-5007-b9ca-38f3ecd4a51d",
+          "name": "walnuts",
+          "display_text": "50g Walnuts",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "d4b56771-f04a-579c-bb87-7536462d1deb",
+          "ingredient_id": "1f65be5f-ad9d-5713-aca2-600f7b2a1ee8",
+          "name": "almonds",
+          "display_text": "50g Almonds",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "3165f235-b255-5bcb-8dff-eb0e15dca2ff",
+          "ingredient_id": "7a638ace-4c4a-53cc-a6d0-64e2c042f7ec",
+          "name": "pistachio",
+          "display_text": "50g Pistachio",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "605ca439-0a44-528e-9bff-f93b3e70ab32",
+          "ingredient_id": "40bfa712-00a4-5c5c-b982-4fb1f6c869fb",
+          "name": "cherry",
+          "display_text": "50g Cherry",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "a918c0a6-7848-5a0b-8dde-951c0b4b9aaa",
+          "ingredient_id": "d356faa1-a066-5da6-86f3-1f5a0f184ca1",
+          "name": "rose water",
+          "display_text": "Splash Rose water",
+          "quantity": 1,
+          "unit": "splash",
+          "is_optional": false,
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Wash the apricots and both raisins and place in a bowl - cover with cold water to 5cm above the fruit.",
+      "ingredients_used": [
+        "4ebed544-2608-53d3-8995-5297d869d780",
+        "309f9df3-eb25-5ae6-b293-1971a5a75068",
+        "0470a035-d65a-5c86-986f-693d078f1724"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Put the walnuts, pistachos and almonds in another bowl or pan and add boiling water. Leave to soak, and then peel off all the skins as they soften. This is a fiddly job and make take some time - but it's definitely worth the effort! Throw away the water.",
+      "ingredients_used": [
+        "292260f7-202c-51fa-862c-98c05daa766c",
+        "d4b56771-f04a-579c-bb87-7536462d1deb"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Combine the fruits with the nuts and cherries, including the juice they have been soaking in. Add the rose water, cover the mixture and leave in the fridge to rest for two days. When you leave the mix, the juice will become sweeter and syrupy, giving the dish a really unique consistency.",
+      "ingredients_used": [
+        "a918c0a6-7848-5a0b-8dde-951c0b4b9aaa"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "To serve, spoon the fruit, nuts and juice into individual bowls or cups, and enjoy!"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.afghanaid.org.uk/haft-mewa-recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "id": "46e7499d-840f-56d4-a89b-4accc2b4a4cd",
+  "version": "1.0.0",
+  "title": "Cambodian Stir-fried Morning Glory with Pork, Fermented Soybeans, and Garlic",
+  "slug": "cambodian-stir-fried-morning-glory-with-pork-fermented-soybeans-and-garlic",
+  "summary": "A Cambodian stir-fry featuring morning glory, minced pork, and fermented soybeans seasoned with garlic and fish sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:32:20Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53418"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/wympxc1779734808.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/wympxc1779734808.jpg/small",
+      "alt_text": "Photo of Cambodian Stir-fried Morning Glory with Pork, Fermented Soybeans, and Garlic",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=_LsP1TP4P9Q"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9366172c-dff3-589e-9436-4be7c7f595b3",
+        "slug": "cambodian",
+        "name": "Cambodian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 8,
+    "total_time_minutes": 13
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of stir-fry with rice"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "799c6ffa-a10e-5872-8df1-3c80a9deb86d",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "c19971f7-2741-5f1b-8ab9-7282835e2411",
+          "ingredient_id": "754dd685-e3f3-57ba-91a9-20f1c0cb6d9e",
+          "name": "morning glory",
+          "display_text": "1  bunch Morning Glory",
+          "quantity": 1.0,
+          "unit": "bunch",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "90676879-3546-506e-863f-241cd312e688",
+          "ingredient_id": "129e9d71-a5d6-5673-b00e-1cc058330b03",
+          "name": "minced pork",
+          "display_text": "150g Minced Pork",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "70060f02-3cf3-5869-8f21-7f659941e136",
+          "ingredient_id": "b40159a8-fdb9-5393-831e-3372eb1518c0",
+          "name": "soya bean",
+          "display_text": "2 tablespoons Soya Bean",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "201d1c31-0fb8-5d6f-83d8-314cf3471cf1",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "4 Cloves Chopped Garlic",
+          "quantity": 4.0,
+          "unit": "clove",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "40ba7b5c-da12-5174-98cf-c4281ecd110e",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "For frying Oil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "for frying",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "f2b6509c-228a-56cd-a6ed-e51e4f84bd56",
+          "ingredient_id": "de927c20-fdfa-5b98-8ee9-7840fa951a2f",
+          "name": "fish sauce",
+          "display_text": "Dash Fish Sauce",
+          "quantity": 1,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "condiments"
+        },
+        {
+          "id": "4751044a-1348-5716-bda7-8f9160780df9",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "Dash Sugar",
+          "quantity": 1,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "sweeteners"
+        },
+        {
+          "id": "df51d3af-a11c-5014-b70e-986214ae8d71",
+          "ingredient_id": "3deb6c1f-bd27-560b-a63b-f2b3eaf9e82e",
+          "name": "chilli",
+          "display_text": "Sprinkling Chilli",
+          "quantity": 1,
+          "unit": "sprinkling",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "In a wok or large pan, heat 1 tablespoon of vegetable oil over medium heat. Once the oil is hot, add the garlic and stir-fry for about 30 seconds, until fragrant but not burnt.",
+      "timer_seconds": 30,
+      "ingredients_used": [
+        "201d1c31-0fb8-5d6f-83d8-314cf3471cf1",
+        "40ba7b5c-da12-5174-98cf-c4281ecd110e"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the minced pork to the pan and break it up with a spatula. Stir-fry until the pork is fully cooked and browned, about 2-3 minutes.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "90676879-3546-506e-863f-241cd312e688"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Stir in the fermented soy beans and cook for another minute, mixing it thoroughly with the pork.",
+      "ingredients_used": [
+        "90676879-3546-506e-863f-241cd312e688",
+        "70060f02-3cf3-5869-8f21-7f659941e136"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Toss in the cut morning glory and stir-fry for 2-3 minutes to retain its bright green color and crisp texture.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "c19971f7-2741-5f1b-8ab9-7282835e2411"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Check the seasoning and adjust with fish sauce or sugar if needed. Transfer to a serving dish and serve immediately with steamed rice.",
+      "ingredients_used": [
+        "f2b6509c-228a-56cd-a6ed-e51e4f84bd56",
+        "4751044a-1348-5716-bda7-8f9160780df9"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://mitziemee.com/recipe-cambodian-stir-fried-morning-glory/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

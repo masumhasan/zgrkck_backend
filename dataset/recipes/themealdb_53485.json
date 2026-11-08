@@ -1,0 +1,232 @@
+{
+  "id": "a87637ce-7d64-55a2-97e9-d916cf364875",
+  "version": "1.0.0",
+  "title": "Brazilian carrot cake",
+  "slug": "brazilian-carrot-cake",
+  "summary": "A moist Brazilian-style carrot cake made by blending carrots with oil and eggs, topped with a chocolate milk drizzle.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:38:18Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53485"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/h68o161782679437.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/h68o161782679437.jpg/small",
+      "alt_text": "Photo of Brazilian carrot cake",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6675856e-6919-5ea9-9f7a-8bf7f195e27f",
+        "slug": "brazilian",
+        "name": "Brazilian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 60,
+    "rest_time_minutes": 10,
+    "total_time_minutes": 85
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 slice of cake"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "b7f062d4-4843-52e8-83fb-9f3850072463",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "4f3e41f1-da83-5bcf-9018-d70f84eec5c3",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "250ml Vegetable Oil",
+          "quantity": 250.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "19a6ea19-6543-5d30-9a43-eac779a06c14",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "260g Plain Flour",
+          "quantity": 260.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 260.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "be1d3e1b-ad6e-5fbc-abbf-94d0ce1184b6",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "400g Caster Sugar",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "d0efde23-0bc7-5661-b2f5-ad5ba7507f8a",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 tsp Baking Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "2114ada1-a194-5583-95ba-7ea0c193109a",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "2 medium Carrots",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "14ade14f-48a4-5d15-aa6f-d21d1e0e89a2",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "2 Eggs",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "2b509fb4-944d-5cc5-9442-3ab2883af312",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "250ml Milk",
+          "quantity": 250.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "69876810-893b-5cb6-9a0a-20bc8b9844ae",
+          "ingredient_id": "6c64db5e-ca58-5d5d-9518-d41d949dd540",
+          "name": "cocoa powder",
+          "display_text": "30g Cocoa Powder",
+          "quantity": 30.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "065da549-465c-5a09-ae44-8d9d25ae5982",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "60g Caster Sugar",
+          "quantity": 60.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oven to 180C/160C fan/ gas 4. Oil and line the base of a 20cm springform cake tin. Mix the flour, sugar and baking powder together in a large bowl and set aside. Tip the oil, carrots and eggs in a blender and blitz until smooth. Pour the wet ingredients into the dry, stirring until smooth.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "d0efde23-0bc7-5661-b2f5-ad5ba7507f8a",
+        "2114ada1-a194-5583-95ba-7ea0c193109a",
+        "14ade14f-48a4-5d15-aa6f-d21d1e0e89a2"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Pour the batter into the cake tin and give it a shake to get rid of air bubbles. Bake for 45 mins to 1 hr, until a clean knife or skewer inserted into the middle comes out clean. If the middle is sticky, put back in the oven for a further 5 mins. Remove from the oven and leave to cool in the tin."
+    },
+    {
+      "step_number": 3,
+      "instruction": "For the drizzle, heat the milk, cocoa and sugar in a saucepan over a low heat. Stir until the sugar dissolves (about 5 mins), creating a thick, shiny drizzle.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "2b509fb4-944d-5cc5-9442-3ab2883af312"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Remove the cake from the tin and level the top using a serrated knife, then flip so the bottom becomes the top. Pierce all over using a knife or toothpick and put on a wire rack with a tray or large bowl underneath. Pour the drizzle over the cake in batches until it’s all absorbed. You can reuse any drizzle caught in the tray or bowl. Most of the drizzle should be absorbed."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/brazilian-carrot-cake"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

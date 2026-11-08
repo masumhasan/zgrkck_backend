@@ -1,0 +1,446 @@
+{
+  "id": "b37b9dd7-9237-51c5-845c-41266e1c32f3",
+  "version": "1.0.0",
+  "title": "Potato Moussaka Recipe",
+  "slug": "potato-moussaka-recipe",
+  "summary": "A traditional Bulgarian casserole consisting of layers of potatoes and seasoned ground beef, topped with either a creamy béchamel or a yogurt-based topping.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:38:47Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53489"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/08ez421782683409.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/08ez421782683409.jpg/small",
+      "alt_text": "Photo of Potato Moussaka Recipe",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "66ab8d60-8573-56c2-94b7-8a8e8cc659da",
+        "slug": "bulgarian",
+        "name": "Bulgarian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 75,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 100
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1 slice of casserole"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "d7c0b039-298a-5e5e-a4a7-ec562fa1839f",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "56ae9fbf-18c1-56ee-86d3-cc3987bee288",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "1 tablespoon Vegetable Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "5134b8a5-332b-5896-b5ad-f907c188bc73",
+          "ingredient_id": "daceaafa-62e0-5268-ab7d-62934c564c72",
+          "name": "ground beef",
+          "display_text": "1 lb Ground Beef",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "05413749-3a82-593b-be26-506154fdb266",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1/3 cup Onion",
+          "quantity": 0.3333,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 80.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "3f19c114-fa74-54f3-9393-40698486087a",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove peeled crushed Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "preparation": "peeled crushed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "52b2e11a-4707-5fc6-8794-1e1cdd4e2876",
+          "ingredient_id": "90e5122f-4f82-5545-8a35-7a3d959514b3",
+          "name": "tomato sauce",
+          "display_text": "1/4 cup Tomato Sauce",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "34f12cfa-5f5b-53a8-a330-552c338a6d62",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "2 tablespoons Tomato Puree",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "ea355660-3c43-59ec-8894-631fdbafde53",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "1e4cbd0c-7757-5141-9a3e-65ba0394e649",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1/4 tsp Black Pepper",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "ab0718b3-329d-571b-9932-038680980ddd",
+          "ingredient_id": "cfea2393-4a63-5261-90b6-4dcecdb6babe",
+          "name": "summer savory",
+          "display_text": "1 tsp Summer Savory",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "7eb78c1b-13f5-5925-8b59-7f4330a349ef",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "2 cups Water",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "f0abc1eb-bd64-558f-878d-f16a79799f04",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "2 Lbs Potatoes",
+          "quantity": 2.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 907.2,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "226fe5b8-9e85-544e-97dc-170a1d11cbae",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "1/4 cup Carrots",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "d2aff00f-e85d-5001-be0d-14beebf231eb",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "2 cups Milk",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "f94dbe66-6bcc-53b5-b249-b4a4ebee237e",
+          "ingredient_id": "fdc4c2c2-c7f6-52bb-a4dd-06d8021062d2",
+          "name": "dried mint",
+          "display_text": "1/2 tsp Dried Mint",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "ec3b9eb2-e634-545f-8f4e-2ff862618050",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "6 tablespoons Butter",
+          "quantity": 6.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 90.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "e2b4458e-fa50-53c6-a015-62bfb2368271",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "1/2 cup Flour",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "7edbed31-f727-5776-a61f-b3e67b1faed2",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/2 tsp Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "9d55a833-e6f2-52fa-9396-38c7b121a346",
+          "ingredient_id": "051a3118-01a4-5366-a922-19ecf618e2f9",
+          "name": "egg yolks",
+          "display_text": "3 Egg Yolks",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "eba7eee8-f319-5b55-b9e9-2e7878313256",
+          "ingredient_id": "c42909a9-37ca-5099-9618-3534369e4dc2",
+          "name": "feta",
+          "display_text": "1/2 cup Feta",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "3c1f7df9-af6b-59e7-a7f8-329547952d97",
+          "ingredient_id": "43fdd2fd-26e3-5e32-af4b-0c63a027d37c",
+          "name": "ground nutmeg",
+          "display_text": "1/4 tsp Ground Nutmeg",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat oven to 350 F.",
+      "temperature": {
+        "value": 350,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat oil in a skillet. Add the ground meat and cook, breaking it down with a wooden spoon for 6-7 minutes, until browned. Add onion and garlic. Add carrots (optional).Add salt, black pepper, dried mint, summer savory, thyme (optional), tomato sauce and tomato paste. Cook for 2-3 minutes, stirring frequently.",
+      "ingredients_used": [
+        "05413749-3a82-593b-be26-506154fdb266",
+        "3f19c114-fa74-54f3-9393-40698486087a",
+        "52b2e11a-4707-5fc6-8794-1e1cdd4e2876",
+        "ea355660-3c43-59ec-8894-631fdbafde53",
+        "1e4cbd0c-7757-5141-9a3e-65ba0394e649",
+        "226fe5b8-9e85-544e-97dc-170a1d11cbae",
+        "f94dbe66-6bcc-53b5-b249-b4a4ebee237e",
+        "7edbed31-f727-5776-a61f-b3e67b1faed2"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Grease a 9×9 or 9×13 baking dish with oil."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add in the drained potatoes and meat mixture. Stir to evenly distribute the meat into the potatoes.",
+      "ingredients_used": [
+        "f0abc1eb-bd64-558f-878d-f16a79799f04"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Add cold water to the baking dish, so it just covers the top of the potatoes.",
+      "ingredients_used": [
+        "7eb78c1b-13f5-5925-8b59-7f4330a349ef",
+        "f0abc1eb-bd64-558f-878d-f16a79799f04"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Bake for 40-50 minutes, until the water is absorbed by the potatoes and they are fully cooked.",
+      "timer_seconds": 3000,
+      "ingredients_used": [
+        "7eb78c1b-13f5-5925-8b59-7f4330a349ef",
+        "f0abc1eb-bd64-558f-878d-f16a79799f04"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "In the mean time prepare the Bechamel sauce (or the Bulgarian Style Topping)."
+    },
+    {
+      "step_number": 8,
+      "instruction": "For the Bechamel:"
+    },
+    {
+      "step_number": 9,
+      "instruction": "In a bowl, swish egg yolks. Set aside.",
+      "ingredients_used": [
+        "9d55a833-e6f2-52fa-9396-38c7b121a346"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "Melt butter in a saucepan. add flour. Cook for 3 minutes on medium heat, stirring frequently.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "ec3b9eb2-e634-545f-8f4e-2ff862618050",
+        "e2b4458e-fa50-53c6-a015-62bfb2368271"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Slowly add the milk, whisking to incorporate. Add salt and nutmeg. Cook for 3 minutes, until thickened. Let the mixture cool for 5 minutes. Add in the egg yolks (with feta). Let the sauce stand at room temperature, while the potatoes and meat are cooking.",
+      "ingredients_used": [
+        "ea355660-3c43-59ec-8894-631fdbafde53",
+        "f0abc1eb-bd64-558f-878d-f16a79799f04",
+        "d2aff00f-e85d-5001-be0d-14beebf231eb",
+        "7edbed31-f727-5776-a61f-b3e67b1faed2",
+        "9d55a833-e6f2-52fa-9396-38c7b121a346",
+        "eba7eee8-f319-5b55-b9e9-2e7878313256",
+        "3c1f7df9-af6b-59e7-a7f8-329547952d97"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Pour the sauce over the cooked potatoes. Top with cheese. Bake for 15 minutes, until golden. You can broil for 1-2 minutes, if the top is not getting to the desired golden color.",
+      "ingredients_used": [
+        "f0abc1eb-bd64-558f-878d-f16a79799f04"
+      ]
+    },
+    {
+      "step_number": 13,
+      "instruction": "For the Bulgarian Moussaka topping:"
+    },
+    {
+      "step_number": 14,
+      "instruction": "In a bowl beat together eggs, yogurt, milk, flour, then add salt and baking soda.",
+      "ingredients_used": [
+        "ea355660-3c43-59ec-8894-631fdbafde53",
+        "d2aff00f-e85d-5001-be0d-14beebf231eb",
+        "e2b4458e-fa50-53c6-a015-62bfb2368271",
+        "7edbed31-f727-5776-a61f-b3e67b1faed2"
+      ]
+    },
+    {
+      "step_number": 15,
+      "instruction": "Pour over the moussaka . Top with cheese. Bake for 10-15 minutes, until golden.",
+      "timer_seconds": 900
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://cookinglsl.com/potato-moussaka-recipe-bulgarian/#wprm-recipe-container-38787"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

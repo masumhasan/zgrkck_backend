@@ -1,0 +1,257 @@
+{
+  "id": "e5f4d2b9-1639-5f98-a88c-0bfd80c50d5c",
+  "version": "1.0.0",
+  "title": "kabse",
+  "slug": "kabse",
+  "summary": "A traditional Saudi Arabian rice dish made with chicken, mixed vegetables, and aromatic spices.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:14:49Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53220"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/utqnjv1763598650.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/utqnjv1763598650.jpg/small",
+      "alt_text": "Photo of kabse",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=lrcUixJEPK0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "dadedf2a-1088-576c-834c-66ae61df3c2a",
+        "slug": "saudi-arabian",
+        "name": "Saudi Arabian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 portion of chicken and rice with vegetables"
+  },
+  "allergens": {
+    "contains": [
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "gluten",
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "93d6517f-ddb7-5b32-ac86-aed95215326a",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "1001dc88-057d-5df7-bcf4-20b17bf9c24d",
+          "ingredient_id": "96643234-56e3-5df9-9877-487e63d7cb8b",
+          "name": "chicken",
+          "display_text": "400g Chicken",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "poultry"
+        },
+        {
+          "id": "d100b518-c05f-53e6-8107-6307c3f0c262",
+          "ingredient_id": "025b8433-c498-5b37-813a-ec00ac6c2ae5",
+          "name": "rice",
+          "display_text": "1 cup Rice",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "b18ccd75-1357-5348-93b1-d31d3ff372ec",
+          "ingredient_id": "f86b83d4-879d-54bb-a883-73bbfa9228ba",
+          "name": "green pepper",
+          "display_text": "1 Green Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4257d119-2a86-57aa-b793-489634949640",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1 Red Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c22cb337-a36b-5dfd-8774-46f39ba55398",
+          "ingredient_id": "5031dcf8-ef4a-588f-ae8f-de7c2790dfac",
+          "name": "mushrooms",
+          "display_text": "2 Mushrooms",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "5e600196-0997-55c1-8270-3b510d473ba9",
+          "ingredient_id": "92714bc1-780e-51dd-976e-bfbc04bc95a8",
+          "name": "sweetcorn",
+          "display_text": "1 Sweetcorn",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "79f00c67-6673-52b8-b2a0-c649ca9a7d23",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "2 Carrots",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "48f1e571-5a56-58ab-acbf-932204b2e2dc",
+          "ingredient_id": "8d52ad34-1aea-57a9-8e92-aabab5116059",
+          "name": "raisins",
+          "display_text": "Handful Raisins",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "809532be-b907-5865-a39e-e08dc985a95d",
+          "ingredient_id": "ab4d5e50-1105-53e2-be29-49b042b3d7fb",
+          "name": "turmeric",
+          "display_text": "1 tsp Turmeric",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3c50d002-468f-54f7-85a0-7c23f240b7b3",
+          "ingredient_id": "49ab5be7-7fe8-5308-9c77-05bb8f0e6481",
+          "name": "kabse spice",
+          "display_text": "1 tsp Kabse Spice",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "d531609c-bbba-53a8-8217-e0cca7f04a7c",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "c100f0d9-42da-5f25-83c0-bdcbc2e3ea48",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "Pinch Black Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Caramelize the chicken with olive oil then add a maggi cube and boil it for around 30 minutes.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "1001dc88-057d-5df7-bcf4-20b17bf9c24d"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "In another pot, add all the veggies and caramelize them till they are soft."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Once everything is done, add the rice, raisins & spices to the veggies and add 2 and a half cups of water for the rice to cook.",
+      "ingredients_used": [
+        "d100b518-c05f-53e6-8107-6307c3f0c262",
+        "48f1e571-5a56-58ab-acbf-932204b2e2dc",
+        "3c50d002-468f-54f7-85a0-7c23f240b7b3"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Once the rice is done put everything in the oven.",
+      "ingredients_used": [
+        "d100b518-c05f-53e6-8107-6307c3f0c262"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://cookpad.com/eng/recipes/17108731?ref=search&search_term=saudi+arabia"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": "05585d33-3829-5823-8a65-21159530df15",
+  "version": "1.0.0",
+  "title": "Pomegranate salad",
+  "slug": "pomegranate-salad",
+  "summary": "A fresh salad composed of baby lettuce, cherry tomatoes, spring onions, and red chilli, topped with pomegranate seeds and feta cheese.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:21:48Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53297"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/fqpqml1764359125.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/fqpqml1764359125.jpg/small",
+      "alt_text": "Photo of Pomegranate salad",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=wTqashUAid8"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d40b0607-0a3a-5f5d-8012-7eaf1b714fa5",
+        "slug": "polish",
+        "name": "Polish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "salad"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 15
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "a bowl of salad"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "a0b50580-a162-511a-accd-22f61f650db4",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "c19b56a0-827b-5769-bddb-d9283d65595d",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "60 ml Olive Oil",
+          "quantity": 60.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "a2bde8ee-8b8c-5984-bb3c-b5f2b35308ee",
+          "ingredient_id": "4020879e-a0a5-58e2-b093-33c7e85c8a08",
+          "name": "lemon juice",
+          "display_text": "2 tablespoons Lemon Juice",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "56aa1048-2683-5a41-841a-c14a40c24b1c",
+          "ingredient_id": "7ad11d6e-3134-5831-97df-4db2a67589f7",
+          "name": "honey",
+          "display_text": "1 tablespoon Honey",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "954882a0-5a84-55cd-bdac-c7aeca4ca677",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "2 sprigs Thyme",
+          "quantity": 2.0,
+          "unit": "sprig",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e74e6084-b948-5bdf-82f1-86e352502d9f",
+          "ingredient_id": "fdfaf7d0-db0e-58c4-aef6-5a81bdbda6e2",
+          "name": "baby lettuce leaves",
+          "display_text": "100g Baby Lettuce Leaves",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "d8da7964-a52e-53a6-ada5-1ccd04711067",
+          "ingredient_id": "041e90f7-87c0-5883-b651-a9f26dce39b7",
+          "name": "cherry tomatoes",
+          "display_text": "250g Cherry Tomatoes",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "f816fc6e-ccf6-5e7c-aa96-91286c2f087b",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "3 chopped Spring Onions",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "5a3478ce-b012-585e-9233-0def469cd881",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "1 chopped Red Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2b126b47-2d28-5208-88a2-04d91f571424",
+          "ingredient_id": "5e5fb873-7108-5267-8025-2f7a663eb45e",
+          "name": "pomegranate",
+          "display_text": "1 Pomegranate",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "125e3230-e01b-55a3-91c9-421613b46d1f",
+          "ingredient_id": "c42909a9-37ca-5099-9618-3534369e4dc2",
+          "name": "feta",
+          "display_text": "50g Feta",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Combine the olive oil, lemon juice, honey and thyme leaves in a large bowl. Season well, then tip in the lettuce, tomatoes, spring onions and chilli, and toss to combine.",
+      "ingredients_used": [
+        "c19b56a0-827b-5769-bddb-d9283d65595d",
+        "a2bde8ee-8b8c-5984-bb3c-b5f2b35308ee",
+        "56aa1048-2683-5a41-841a-c14a40c24b1c",
+        "954882a0-5a84-55cd-bdac-c7aeca4ca677",
+        "d8da7964-a52e-53a6-ada5-1ccd04711067",
+        "f816fc6e-ccf6-5e7c-aa96-91286c2f087b",
+        "5a3478ce-b012-585e-9233-0def469cd881"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Scoop out the pomegranate seeds over a bowl and remove any white membrane. Arrange the dressed salad on a platter, then scatter over the pomegranate seeds and feta.",
+      "ingredients_used": [
+        "2b126b47-2d28-5208-88a2-04d91f571424",
+        "125e3230-e01b-55a3-91c9-421613b46d1f"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/pomegranate-salad"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

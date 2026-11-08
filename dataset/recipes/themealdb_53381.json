@@ -1,0 +1,262 @@
+{
+  "id": "27654dc5-4893-5acb-b86f-55bd80779a81",
+  "version": "1.0.0",
+  "title": "Gevulde speculaas",
+  "slug": "gevulde-speculaas",
+  "summary": "Gevulde speculaas is a traditional Dutch spiced cookie filled with a sweet almond paste. The dough is flavored with speculaas spice and rested before being layered with the almond filling and baked.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:29:21Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53381"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/rw64di1766595573.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/rw64di1766595573.jpg/small",
+      "alt_text": "Photo of Gevulde speculaas",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=1BYSZIkLOHc"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "74c070cf-0c42-573b-9e5c-54db497f25a3",
+        "slug": "dutch",
+        "name": "Dutch"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 40,
+    "rest_time_minutes": 1440,
+    "total_time_minutes": 1500
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 large filled cookie"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "tree_nuts",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "7c7f055b-9792-5eea-a501-72862bdf6230",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "3b524f1f-9ec5-52e2-9be4-e28d04041e0b",
+          "ingredient_id": "d923f6bd-1129-51bf-ba9e-32b3305fa65e",
+          "name": "self-raising flour",
+          "display_text": "300g Self-raising Flour",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "668e269e-18a3-5f56-991f-e1a5858e9a27",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "150g Brown Sugar",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "7e571110-c21e-5782-a467-df894dc0f497",
+          "ingredient_id": "2bc4c8b7-00c6-590b-9d58-27e4f8f4ad38",
+          "name": "speculaas spice mix",
+          "display_text": "10g Speculaas Spice Mix",
+          "quantity": 10.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "gram",
+          "category": "seasoning"
+        },
+        {
+          "id": "c5c15400-0443-5c26-a6b5-7c1eb14b7f21",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "fcfa0fd9-f507-5195-96e5-73b52ca20d27",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "125g Butter",
+          "quantity": 125.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 125.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "87bb0df1-9f19-5e5d-8968-0cf4b7b47a77",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "10 tblsp Milk",
+          "quantity": 10.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "6fe39ebc-e870-5874-8106-6266f93213cf",
+          "ingredient_id": "95e2d100-700c-553c-802c-d1f8ed79161b",
+          "name": "almond paste",
+          "display_text": "300g Almond Paste",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "57fda6d6-439b-5224-b9bf-bc6d5c175e2d",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "011ec7f2-cc1d-5eba-aaa8-16ec3ffecde7",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "For brushing Milk",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "for brushing",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "930982c0-2922-55fd-a686-919b168716e1",
+          "ingredient_id": "1f65be5f-ad9d-5713-aca2-600f7b2a1ee8",
+          "name": "almonds",
+          "display_text": "Garnish Almonds",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "garnish",
+          "is_optional": false,
+          "category": "nuts_seeds"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Mix the self-rising flour, sugar, speculaas spice mix and salt. Add the butter and milk and knead into a firm ball of dough. Start with 6 tablespoons of milk, if the dough is too stiff you can add more milk.",
+      "ingredients_used": [
+        "7e571110-c21e-5782-a467-df894dc0f497",
+        "c5c15400-0443-5c26-a6b5-7c1eb14b7f21",
+        "fcfa0fd9-f507-5195-96e5-73b52ca20d27",
+        "87bb0df1-9f19-5e5d-8968-0cf4b7b47a77",
+        "011ec7f2-cc1d-5eba-aaa8-16ec3ffecde7"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Wrap the dough in plastic wrap and refrigerate overnight. You can process and bake it immediately, but the flavor will be much better if you let it rest."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Mix the almond paste with half of the beaten egg and knead well. This makes it easier to work with and gives it a better and tastier texture.",
+      "ingredients_used": [
+        "6fe39ebc-e870-5874-8106-6266f93213cf",
+        "57fda6d6-439b-5224-b9bf-bc6d5c175e2d"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Take half of the dough and roll it out to 20 x 20 cm. Place in a baking pan lined with parchment paper. Spread the almond paste mixture evenly. Roll out the remaining dough and place on top of the almond paste.",
+      "ingredients_used": [
+        "6fe39ebc-e870-5874-8106-6266f93213cf"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Brush the top with the remaining beaten egg. Garnish with almonds and top with another layer of egg wash.",
+      "ingredients_used": [
+        "57fda6d6-439b-5224-b9bf-bc6d5c175e2d",
+        "930982c0-2922-55fd-a686-919b168716e1"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Bake the filled speculaas for 40 minutes at 180°C/350℉ (conventional oven) or until done.",
+      "timer_seconds": 2400,
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      }
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.inlaurasbakery.com/gevulde-speculaas-dutch-almond-paste-filled-spiced-cookies/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

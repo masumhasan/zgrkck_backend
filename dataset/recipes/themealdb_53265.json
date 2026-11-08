@@ -1,0 +1,200 @@
+{
+  "id": "37e7abd8-d3ea-57d8-ac15-5284bc51b23f",
+  "version": "1.0.0",
+  "title": "Chilli ginger lamb chops",
+  "slug": "chilli-ginger-lamb-chops",
+  "summary": "Lamb loin chops marinated in a blend of garlic, ginger, lemon, and spices, then grilled over a barbecue.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:18:53Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53265"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/8xuvhj1763794991.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/8xuvhj1763794991.jpg/small",
+      "alt_text": "Photo of Chilli ginger lamb chops",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=MNrNHToyvtI"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4c480df7-c067-5e9c-ac08-d8d49afa7f51",
+        "slug": "turkish",
+        "name": "Turkish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 6,
+    "marinating_time_minutes": 120,
+    "total_time_minutes": 136
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 lamb loin chop"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "b2892c5e-5d15-56d4-8831-c1ed625042e1",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "75756ddf-177f-5cb0-8c75-3950a04a8a1b",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "4 Cloves Crushed Garlic",
+          "quantity": 4.0,
+          "unit": "clove",
+          "preparation": "crushed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "688a2f7e-2ed8-5e6e-b7b2-4ff028fa22e4",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "1 tblsp Ginger",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "25263260-a38f-5a13-bea6-b94ab752edb8",
+          "ingredient_id": "4020879e-a0a5-58e2-b093-33c7e85c8a08",
+          "name": "lemon juice",
+          "display_text": "1 tblsp Lemon Juice",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "59d8ee48-7d47-5dab-80ac-6d50ead1132a",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 tblsp Olive Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "c31721ce-b069-5863-9ba9-3de556528772",
+          "ingredient_id": "82355d68-cedc-5a32-8a70-51eb80680771",
+          "name": "chili powder",
+          "display_text": "1/2 tsp Chili Powder",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "40b6afc1-2ec7-54b7-98d7-e43c61d8301b",
+          "ingredient_id": "be79b3bd-bc90-5d15-aab2-4f95774b8de1",
+          "name": "cumin",
+          "display_text": "1 tsp Cumin",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "4a72d20e-9856-59a3-ab50-d8f5040ab486",
+          "ingredient_id": "cc64f359-1c01-53fe-aeea-f2968fe6e64c",
+          "name": "lamb loin chops",
+          "display_text": "8 Lamb Loin Chops",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Put the garlic in a bowl with the ginger, lemon juice, oil, spices and seasoning. Blitz with a hand blender until smooth, then use to coat the lamb chops on both sides. Leave to marinate in the fridge for a couple of hours or overnight.",
+      "ingredients_used": [
+        "75756ddf-177f-5cb0-8c75-3950a04a8a1b",
+        "688a2f7e-2ed8-5e6e-b7b2-4ff028fa22e4",
+        "25263260-a38f-5a13-bea6-b94ab752edb8",
+        "4a72d20e-9856-59a3-ab50-d8f5040ab486"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat a barbecue until hot. Barbecue the chops over the coals for 3 mins on each side until cooked but still pink and juicy in the center.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "4a72d20e-9856-59a3-ab50-d8f5040ab486"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/chilli-ginger-lamb-chops"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

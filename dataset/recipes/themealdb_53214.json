@@ -1,0 +1,294 @@
+{
+  "id": "c6d28557-f2a7-5f13-ae81-289fbad8b00d",
+  "version": "1.0.0",
+  "title": "Thai green chicken soup",
+  "slug": "thai-green-chicken-soup",
+  "summary": "A fragrant Thai-style soup featuring chicken thighs simmered in a coconut milk and green curry paste broth with green beans and bamboo shoots.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:14:17Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53214"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/7kb44y1763589084.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/7kb44y1763589084.jpg/small",
+      "alt_text": "Photo of Thai green chicken soup",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=3s4Yitd546w"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "724b7c6a-f254-57d4-9729-335a2b2d93b1",
+        "slug": "thai",
+        "name": "Thai"
+      }
+    ],
+    "tags": [
+      "soup"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "soup"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 21,
+    "total_time_minutes": 36
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of soup"
+  },
+  "allergens": {
+    "contains": [
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "2c8fc505-610b-517e-b6db-75ab00241c44",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "6396f1d4-7284-5643-a146-59838b8522cd",
+          "ingredient_id": "aa561384-0d26-5008-a25e-3ba9db4b2a3f",
+          "name": "sunflower oil",
+          "display_text": "2 tblsp Sunflower Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "1f470082-7b89-5bab-9367-0c61c4139f21",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "a1fca535-e4a2-518c-b0fe-68ed32794a3b",
+          "ingredient_id": "e0e4d032-0f9f-5908-ab90-db9a8ec5b68c",
+          "name": "chicken thighs",
+          "display_text": "500g Chicken Thighs",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "poultry"
+        },
+        {
+          "id": "7ee54a21-0d77-590a-bc17-71591cabe09f",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "4 sliced Garlic Clove",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c14fd0da-0b35-5dca-8b52-2955cc020ba4",
+          "ingredient_id": "86397612-3e3c-5a11-a1ad-0607ff70527b",
+          "name": "thai green curry paste",
+          "display_text": "280g Thai Green Curry Paste",
+          "quantity": 280.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 280.0,
+          "metric_unit": "gram",
+          "category": "condiments"
+        },
+        {
+          "id": "ee4e2efb-11a5-5675-b5d1-9e93a7fa4962",
+          "ingredient_id": "0435e55e-84f6-566c-ac81-37617bbab91c",
+          "name": "coconut milk",
+          "display_text": "400ml Coconut Milk",
+          "quantity": 400.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "9a09ed5c-bbe3-5b24-a436-9cf97c42b0ab",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "2 Liters Chicken Stock",
+          "quantity": 2.0,
+          "unit": "liter",
+          "is_optional": false,
+          "metric_quantity": 2.0,
+          "metric_unit": "liter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "11cc9689-8fca-510a-a76f-c0ca3dc01ff4",
+          "ingredient_id": "02b53f79-483f-520f-b00e-f9ef9e9b6f9d",
+          "name": "lime leaves",
+          "display_text": "5 Lime Leaves",
+          "quantity": 5.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "8169b835-cadd-50ab-9eb7-1ec9cf467757",
+          "ingredient_id": "de927c20-fdfa-5b98-8ee9-7840fa951a2f",
+          "name": "fish sauce",
+          "display_text": "2 tblsp Fish Sauce",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "2fd64ef4-18c5-5a78-a74c-b41393068447",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "1  bunch Spring Onions",
+          "quantity": 1.0,
+          "unit": "bunch",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2efb5c2b-e892-5ebd-9768-4f86045f7e77",
+          "ingredient_id": "76e924de-1ab6-5ae5-94fc-70f3fd268a7d",
+          "name": "green beans",
+          "display_text": "280g Green Beans",
+          "quantity": 280.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 280.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "468abf05-0b37-5bdf-be8b-79c11d4871fd",
+          "ingredient_id": "1844db6b-910a-5526-9892-d245ad37b906",
+          "name": "bamboo shoot",
+          "display_text": "150g Bamboo Shoot",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "eba71f3d-daca-52e7-8017-a14d78bab97d",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "Juice of 2 Lime",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "54cd5867-8433-5367-a413-5e9d85bdfaf9",
+          "ingredient_id": "fc6a825e-e02a-589c-91d6-b4e76ccc6354",
+          "name": "basil",
+          "display_text": "Bunch Basil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "bunch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oil in your largest pan, add the onion and fry for 3 mins to soften. Add the chicken and garlic, and cook until the chicken changes color.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "1f470082-7b89-5bab-9367-0c61c4139f21"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the curry paste, coconut milk, stock, lime leaves and fish sauce, then simmer for 12 mins. Add the chopped onion tops, green beans and bamboo shoots and cook for 4-6 mins, until the beans are just tender.",
+      "ingredients_used": [
+        "1f470082-7b89-5bab-9367-0c61c4139f21",
+        "ee4e2efb-11a5-5675-b5d1-9e93a7fa4962",
+        "11cc9689-8fca-510a-a76f-c0ca3dc01ff4",
+        "8169b835-cadd-50ab-9eb7-1ec9cf467757",
+        "2efb5c2b-e892-5ebd-9768-4f86045f7e77",
+        "468abf05-0b37-5bdf-be8b-79c11d4871fd",
+        "eba71f3d-daca-52e7-8017-a14d78bab97d"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Meanwhile, put the lime juice and basil in a narrow jug and blitz with a hand blender to make a smooth green paste. Pour into the soup with the sliced spring onion and heat through. Serve with lime wedges for a light lunch or supper or as a make-ahead starter.",
+      "ingredients_used": [
+        "1f470082-7b89-5bab-9367-0c61c4139f21",
+        "eba71f3d-daca-52e7-8017-a14d78bab97d",
+        "54cd5867-8433-5367-a413-5e9d85bdfaf9"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/thai-green-chicken-soup"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "id": "173f12aa-684c-5aaf-917a-8b64c35d246c",
+  "version": "1.0.0",
+  "title": "Bakewell tart",
+  "slug": "bakewell-tart",
+  "summary": "A classic British dessert consisting of a shortcrust pastry shell filled with a sweet almond frangipane and a layer of raspberry jam.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:36:18Z",
+  "updated_at": "2026-10-16T10:22:42Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52767"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/wyrqqq1468233628.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/wyrqqq1468233628.jpg/small",
+      "alt_text": "Photo of Bakewell tart",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=1ahpSTf_Pvk"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "alcoholic",
+      "baking",
+      "tart"
+    ],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "afternoon_snack",
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 55,
+    "rest_time_minutes": 30,
+    "total_time_minutes": 105
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 slice of tart"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "tree_nuts",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "4f93ad7a-251e-54bb-939c-10ca3c09b819",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "1c702c53-c695-5781-9d36-2d8728aa8edb",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "175g/6oz plain flour",
+          "quantity": 175.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 175.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "d008797c-755c-533c-beb6-675c5557dd0d",
+          "ingredient_id": "f0218b9c-139e-51ec-869a-5a18d4067eef",
+          "name": "chilled butter",
+          "display_text": "75g/2½oz chilled butter",
+          "quantity": 75.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "06df778d-76ae-58a8-a8df-0bd89b42c514",
+          "ingredient_id": "e930e741-687b-5138-af0d-dad1cdfcffbe",
+          "name": "cold water",
+          "display_text": "2-3 tbsp cold water",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "b6e6c4d5-2908-5e87-a8bd-4da26ecfb45b",
+          "ingredient_id": "4d0afb14-18ce-5822-8665-7e4ee7dd5ad0",
+          "name": "raspberry jam",
+          "display_text": "1 tbsp raspberry jam",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "63f3f0f4-318d-50c0-b896-e0fe9eab3cb9",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "125g/4½oz butter",
+          "quantity": 125.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 125.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "e42fd68a-56a3-53a9-8bea-f2482f8787f3",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "125g/4½oz caster sugar",
+          "quantity": 125.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 125.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "877a7247-bb78-5645-a54a-4a53c2a9623d",
+          "ingredient_id": "41e42808-3e57-5cd0-b774-00a901be35d9",
+          "name": "ground almonds",
+          "display_text": "125g/4½oz ground almonds",
+          "quantity": 125.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 125.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "26651607-a12a-58c8-8700-f81b9d906d9e",
+          "ingredient_id": "7800b020-ce2c-5ce6-b2e3-c33751c69459",
+          "name": "free-range egg, beaten",
+          "display_text": "1 free-range egg, beaten",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "ff44a4f7-c367-5285-8a6f-464dd4307030",
+          "ingredient_id": "278d6272-cef1-5153-8ee2-6a0fb031c264",
+          "name": "almond extract",
+          "display_text": "½ tsp almond extract",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "18e5a576-0fb2-5892-8da3-899b38832b3c",
+          "ingredient_id": "a31e0742-002d-5418-8c74-ccc647e894b8",
+          "name": "flaked almonds",
+          "display_text": "50g/1¾oz flaked almonds",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "To make the pastry, measure the flour into a bowl and rub in the butter with your fingertips until the mixture resembles fine breadcrumbs. Add the water, mixing to form a soft dough.",
+      "ingredients_used": [
+        "d008797c-755c-533c-beb6-675c5557dd0d",
+        "63f3f0f4-318d-50c0-b896-e0fe9eab3cb9"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Roll out the dough on a lightly floured work surface and use to line a 20cm/8in flan tin. Leave in the fridge to chill for 30 minutes.",
+      "timer_seconds": 1800
+    },
+    {
+      "step_number": 3,
+      "instruction": "Preheat the oven to 200C/400F/Gas 6 (180C fan).",
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 4,
+      "instruction": "Line the pastry case with foil and fill with baking beans. Bake blind for about 15 minutes, then remove the beans and foil and cook for a further five minutes to dry out the base.",
+      "timer_seconds": 900
+    },
+    {
+      "step_number": 5,
+      "instruction": "For the filing, spread the base of the flan generously with raspberry jam.",
+      "ingredients_used": [
+        "b6e6c4d5-2908-5e87-a8bd-4da26ecfb45b"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Melt the butter in a pan, take off the heat and then stir in the sugar. Add ground almonds, egg and almond extract. Pour into the flan tin and sprinkle over the flaked almonds.",
+      "ingredients_used": [
+        "d008797c-755c-533c-beb6-675c5557dd0d",
+        "63f3f0f4-318d-50c0-b896-e0fe9eab3cb9",
+        "877a7247-bb78-5645-a54a-4a53c2a9623d",
+        "ff44a4f7-c367-5285-8a6f-464dd4307030",
+        "18e5a576-0fb2-5892-8da3-899b38832b3c"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Bake for about 35 minutes. If the almonds seem to be browning too quickly, cover the tart loosely with foil to prevent them burning.",
+      "timer_seconds": 2100,
+      "ingredients_used": [
+        "877a7247-bb78-5645-a54a-4a53c2a9623d",
+        "18e5a576-0fb2-5892-8da3-899b38832b3c"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

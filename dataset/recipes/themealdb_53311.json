@@ -1,0 +1,319 @@
+{
+  "id": "ad71178e-4bdc-54f3-b0a7-046af2776755",
+  "version": "1.0.0",
+  "title": "Borsch",
+  "slug": "borsch",
+  "summary": "A traditional Ukrainian beet soup made with beef shin, potatoes, cabbage, and kidney beans, often flavored with prunes and served with crème fraîche.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:23:08Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53311"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/804v1j1764367088.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/804v1j1764367088.jpg/small",
+      "alt_text": "Photo of Borsch",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=6CXgPVw_-0g"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "e00f83fa-fc1f-5fa7-b77b-c52fa0a57fe1",
+        "slug": "ukrainian",
+        "name": "Ukrainian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course",
+      "soup"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 215,
+    "total_time_minutes": 245
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of soup with a dollop of crème fraîche"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "6cd2624c-16e0-594d-bd84-454a32b2c242",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "1b86bb91-b9b7-569c-91e3-89e6a90a3867",
+          "ingredient_id": "d0127841-33ba-523b-a383-f717275f520b",
+          "name": "beef shin",
+          "display_text": "1kg Beef Shin",
+          "quantity": 1.0,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "kilogram",
+          "category": "meat"
+        },
+        {
+          "id": "6f70485e-8f76-5859-8081-841e124c8e0e",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "68b3c045-0176-5866-9a72-7f0207c6e9a9",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "1 Bay Leaf",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "0e55f60f-8e53-5a00-b2f1-ba0e96cf1fb3",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "2.5kg Potatoes",
+          "quantity": 2.5,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "kilogram",
+          "category": "produce"
+        },
+        {
+          "id": "07f7f5d7-8d5e-53e6-9794-4a6a81817788",
+          "ingredient_id": "aa561384-0d26-5008-a25e-3ba9db4b2a3f",
+          "name": "sunflower oil",
+          "display_text": "2 tablespoons Sunflower Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "9c2b0403-ac34-5d0d-93ea-c21c65227896",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Diced Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "5ccc2ed6-abf6-5aff-964e-656bada4f6ca",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "1 Carrots",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e028ae2a-4ff7-5977-9459-8bfbc5c00331",
+          "ingredient_id": "5eb26a00-afde-5f0c-84ea-6db9840afa2c",
+          "name": "beetroot",
+          "display_text": "200g Beetroot",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "eb0f6418-bdf2-5ce5-a653-d25dc45ae5c3",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1 chopped Red Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0e2ec8cb-b4f3-50ce-bbf4-2e6693bfd9ed",
+          "ingredient_id": "5cf11297-0a5b-55fb-85b2-ff239b80e4f4",
+          "name": "tinned tomatos",
+          "display_text": "200g Tinned Tomatos",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "e4274f51-0250-52dc-9c1d-5b18a6c3dee8",
+          "ingredient_id": "b3be8731-39ee-5597-a958-e79b3c474682",
+          "name": "prunes",
+          "display_text": "6 Prunes",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7bb3eefa-5406-58aa-8b7f-4889a3b83273",
+          "ingredient_id": "21b2d42b-5b38-5551-ac7b-75008ee144d3",
+          "name": "white cabbage",
+          "display_text": "1/2 White Cabbage",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ff6faf81-8062-5f6c-9c45-28023be5eaf4",
+          "ingredient_id": "ba890946-fbb1-5386-9394-aa912a5bb5a0",
+          "name": "kidney beans",
+          "display_text": "400g Kidney Beans",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "7ed1ccea-13c4-5695-aada-6c3b0795f94b",
+          "ingredient_id": "5a0201c7-6447-5098-baf7-57a2595f11ba",
+          "name": "creme fraiche",
+          "display_text": "100 ml Creme Fraiche",
+          "quantity": 100.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "57d4b569-b89a-59d3-bb36-2e020c09826f",
+          "ingredient_id": "c20ef13e-7f52-5fce-847f-34f123e6392e",
+          "name": "dill",
+          "display_text": "Bunch Dill",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "bunch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "919bdbc1-e9bc-535e-9c04-5508cb45535c",
+          "ingredient_id": "aea11f92-660c-5997-b6dd-1a0030c1bfef",
+          "name": "crusty bread",
+          "display_text": "To serve Crusty Bread",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "grains_pasta"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "To make the stock, put the meat, whole onion, bay leaf and 2 liters of lightly salted cold water in a large saucepan. Cook over a very low heat for 1 hr 30 mins or until the beef shin is soft and falls apart easily – this can take up to 3 hrs. Skim off the scum with a spoon from time to time. Break up any larger pieces of beef into the broth, remove the whole onion and discard.",
+      "ingredients_used": [
+        "1b86bb91-b9b7-569c-91e3-89e6a90a3867",
+        "6f70485e-8f76-5859-8081-841e124c8e0e",
+        "68b3c045-0176-5866-9a72-7f0207c6e9a9",
+        "9c2b0403-ac34-5d0d-93ea-c21c65227896"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the potatoes to the borscht, season well with salt and pepper and cook for 10-15 mins until tender. Meanwhile, heat the sunflower oil in a large, deep frying pan. Add the diced onion and carrot, and cook over a medium heat, stirring, until the carrot is soft and is about to start caramelizing.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "6f70485e-8f76-5859-8081-841e124c8e0e",
+        "0e55f60f-8e53-5a00-b2f1-ba0e96cf1fb3",
+        "07f7f5d7-8d5e-53e6-9794-4a6a81817788",
+        "9c2b0403-ac34-5d0d-93ea-c21c65227896"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the beetroot and cook for around 5 mins, stirring occasionally. Add the red pepper, if using, and cook for another 2 mins, then add the tomatoes and prunes, stir, then increase the heat and boil to reduce slightly, before adding everything to the borscht.",
+      "ingredients_used": [
+        "e028ae2a-4ff7-5977-9459-8bfbc5c00331",
+        "eb0f6418-bdf2-5ce5-a653-d25dc45ae5c3",
+        "e4274f51-0250-52dc-9c1d-5b18a6c3dee8"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add the shredded cabbage and the kidney beans, and cook for 7-10 mins or until tender. Serve with a dollop of sour cream or crème fraîche, lots of chopped dill and some crusty bread.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "7bb3eefa-5406-58aa-8b7f-4889a3b83273",
+        "ff6faf81-8062-5f6c-9c45-28023be5eaf4",
+        "57d4b569-b89a-59d3-bb36-2e020c09826f",
+        "919bdbc1-e9bc-535e-9c04-5508cb45535c"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/borsch"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

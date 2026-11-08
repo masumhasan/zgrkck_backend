@@ -1,0 +1,196 @@
+{
+  "id": "c1980315-2c0c-5fd7-8f46-be24c0d42f17",
+  "version": "1.0.0",
+  "title": "Jamaican Fried Dumplings",
+  "slug": "jamaican-fried-dumplings",
+  "summary": "Jamaican fried dumplings are soft, golden-brown dough balls made from a simple mixture of flour, baking powder, and milk, then deep-fried until crispy on the outside.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:27:10Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53356"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/dd7t4d1764877271.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/dd7t4d1764877271.jpg/small",
+      "alt_text": "Photo of Jamaican Fried Dumplings",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=W5AJhsW-X44"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "2dfec5c8-490a-551c-9d2f-e8e21f706bda",
+        "slug": "jamaican",
+        "name": "Jamaican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "snack"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 6,
+    "total_time_minutes": 16
+  },
+  "yield": {
+    "servings": 10,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 dumpling"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "7653477e-665c-5d15-96f6-b80e2af08265",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "ec45a0ac-3600-53d4-89ce-45ae9c777345",
+          "ingredient_id": "d1e5ec78-b8c2-5649-962c-a9f67272ea92",
+          "name": "all purpose flour",
+          "display_text": "2 cups All purpose flour",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "e4f99ea0-5d62-5efd-a1e1-18b78b271e0a",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "2 tsp Baking Powder",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "7e93e174-b149-5465-a8af-fabd45059dc6",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "aa437378-ff3e-5268-bcfb-99737e63d64a",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "3/4 cup Milk",
+          "quantity": 0.75,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 180.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "a76e4b3c-2b73-52c1-a793-490fc7401bfe",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "1 1/2 cup Oil",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Add flour, baking powder, and salt in a large bowl and stir to combine. Pour in the milk and stir until combined. Then roll the mixture into a ball and lightly knead until it comes together.",
+      "ingredients_used": [
+        "e4f99ea0-5d62-5efd-a1e1-18b78b271e0a",
+        "7e93e174-b149-5465-a8af-fabd45059dc6",
+        "aa437378-ff3e-5268-bcfb-99737e63d64a"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Break off about 10 pieces of dough and form them into balls. Set them aside."
+    },
+    {
+      "step_number": 3,
+      "instruction": "In a 10-inch skillet, heat enough oil over medium heat to fry the dumplings, until the oil is about 350 degrees.",
+      "ingredients_used": [
+        "a76e4b3c-2b73-52c1-a793-490fc7401bfe"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Once the dumplings are browned on one side, flip them and cook until both sides are browned, about 2-3 minutes each.",
+      "timer_seconds": 180
+    },
+    {
+      "step_number": 5,
+      "instruction": "Once done, remove the dumplings from the oil and place them on paper towels or a cooling rack to drain off any excess oil.",
+      "ingredients_used": [
+        "a76e4b3c-2b73-52c1-a793-490fc7401bfe"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Serve and enjoy."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.myforkinglife.com/jamaican-fried-dumplings/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

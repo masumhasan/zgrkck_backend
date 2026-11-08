@@ -1,0 +1,292 @@
+{
+  "id": "9b394d1b-5695-5186-9e1c-08da6c728fea",
+  "version": "1.0.0",
+  "title": "Classic Potato Salad",
+  "slug": "classic-potato-salad",
+  "summary": "A Danish-style potato salad featuring new potatoes, asparagus, and radish tossed in a creamy dressing of crème fraîche and mayonnaise.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:44:43Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53555"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/5q88l31784664151.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/5q88l31784664151.jpg/small",
+      "alt_text": "Photo of Classic Potato Salad",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "11f008d8-4600-56c5-aaa2-cde07db70a5a",
+        "slug": "danish",
+        "name": "Danish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 12,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 32
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of potato salad"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "eggs",
+      "mustard"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "31465620-e1e2-5ab9-962a-07949ee00fa9",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "0ee4a516-80f6-5dad-8a77-e103fce87ffb",
+          "ingredient_id": "41049e61-611a-545b-8a7c-13e15a6e843b",
+          "name": "new potatoes",
+          "display_text": "600g New Potatoes",
+          "quantity": 600.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 600.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "3ef803d4-b4e2-58b5-a0f1-c6754ddc357c",
+          "ingredient_id": "faad91f4-0f3a-5f4d-9327-7556f61b431c",
+          "name": "asparagus",
+          "display_text": "150g Asparagus",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "f04b871e-6945-578f-a095-084368df5eb0",
+          "ingredient_id": "85291054-0b21-5fc5-ac52-86bee20f4bbc",
+          "name": "chives",
+          "display_text": "Bunch Chives",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "bunch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "29bbe1b3-7bd5-57b4-add0-452af711da73",
+          "ingredient_id": "716f7639-3b59-56a7-9146-1819649ebdad",
+          "name": "red onions",
+          "display_text": "1 Red Onions",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "6c008444-4d38-5b12-af71-3983fdfdf8dd",
+          "ingredient_id": "192a2e29-7868-5826-aa10-77e29079b94b",
+          "name": "radish",
+          "display_text": "8 Radish",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "60f7c868-37d0-5141-8e03-0578488fe2ee",
+          "ingredient_id": "5a0201c7-6447-5098-baf7-57a2595f11ba",
+          "name": "creme fraiche",
+          "display_text": "1/2 cup Creme Fraiche",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "c8fbb9f7-c890-5fc3-b052-bf6e6730e00e",
+          "ingredient_id": "6a3a5ec7-7840-5eff-a3ce-0e3aafbaa822",
+          "name": "mayonnaise",
+          "display_text": "1/2 cup Mayonnaise",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "9b3f4023-4d91-54d3-b61d-4350572ce377",
+          "ingredient_id": "ca633897-45c5-5885-985b-5fbe25d58c8d",
+          "name": "dijon mustard",
+          "display_text": "2 tsp Dijon Mustard",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "bef87ec4-3549-51c0-85c3-d2404b70db6a",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 tsp Sugar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "d5920de3-5373-5247-a39c-3803c9fc4157",
+          "ingredient_id": "211a37f0-70a1-58ab-8de9-d0d3b232bc64",
+          "name": "apple cider vinegar",
+          "display_text": "1 tablespoon Apple Cider Vinegar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "0313bd6a-95b8-598c-a0aa-65eaea609128",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "2daeca62-343e-5891-ad73-73a4801ec2ca",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "Pinch Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Boil potatoes in lightly salted water for 10 to 12 minutes. Drain water when a potato speared with a fork and lifted out of the water easily glides off the fork and falls back into the pot. Let potatoes stand and cool.",
+      "timer_seconds": 720,
+      "ingredients_used": [
+        "0ee4a516-80f6-5dad-8a77-e103fce87ffb",
+        "0313bd6a-95b8-598c-a0aa-65eaea609128"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Break off and discard the stringy ends of the asparagus spears, then chop into small pieces. You can pour boiling water over the chopped asparagus and let it soak for 2 minutes if you prefer a less raw taste.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "3ef803d4-b4e2-58b5-a0f1-c6754ddc357c"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Finely chop chives, red onion and radish.",
+      "ingredients_used": [
+        "f04b871e-6945-578f-a095-084368df5eb0",
+        "6c008444-4d38-5b12-af71-3983fdfdf8dd"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Stir the dressing ingredients together and season with salt and pepper.",
+      "ingredients_used": [
+        "0313bd6a-95b8-598c-a0aa-65eaea609128",
+        "2daeca62-343e-5891-ad73-73a4801ec2ca"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Reserve some of the chives for garnish and combine the rest of the vegetables with the dressing.",
+      "ingredients_used": [
+        "f04b871e-6945-578f-a095-084368df5eb0"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Season with salt and pepper, garnish with chives and serve as a side dish.",
+      "ingredients_used": [
+        "f04b871e-6945-578f-a095-084368df5eb0",
+        "0313bd6a-95b8-598c-a0aa-65eaea609128",
+        "2daeca62-343e-5891-ad73-73a4801ec2ca"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Tip"
+    },
+    {
+      "step_number": 8,
+      "instruction": "When in season, you can add fresh peas to this potato salad"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://denmark.dk/people-and-culture/recipes/potato-salad/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

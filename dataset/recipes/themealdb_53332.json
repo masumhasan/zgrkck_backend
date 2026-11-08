@@ -1,0 +1,264 @@
+{
+  "id": "321557cb-d743-5168-ad4b-31661a6dd9c2",
+  "version": "1.0.0",
+  "title": "Venezuelan turnovers",
+  "slug": "venezuelan-turnovers",
+  "summary": "Venezuelan turnovers, also known as empanadas, are fried cornmeal pastries filled with a savory seasoned ground beef and vegetable mixture.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:25:02Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53332"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/zjtfp31764440795.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/zjtfp31764440795.jpg/small",
+      "alt_text": "Photo of Venezuelan turnovers",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=OfuQf6sCycU"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "7511fbbd-fbff-5fb1-ad48-c4a89d390e43",
+        "slug": "venezuelan",
+        "name": "Venezuelan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "breakfast"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 50
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "pieces",
+    "serving_size_description": "2 empanadas"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "4da0cff4-d03a-5973-9f2e-90559ab5d019",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "a44026a6-8a48-5a6d-bbda-03c4b525d9fa",
+          "ingredient_id": "daceaafa-62e0-5268-ab7d-62934c564c72",
+          "name": "ground beef",
+          "display_text": "450g Ground Beef",
+          "quantity": 450.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "c06f68b8-6259-56b0-ab34-6844900c85ca",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "Pinch Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "4ec64c7e-9ea1-5d90-b394-a5ef2ed24b91",
+          "ingredient_id": "efa5be6a-3bc3-55ca-812f-22dd145ba53d",
+          "name": "ground cumin",
+          "display_text": "Pinch Ground Cumin",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "6d1e9f63-990b-58ea-a612-8e35cc36ec93",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "1 tablespoon Vegetable Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "16933fb3-2d23-58cf-be9f-604e68a91719",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 cup Onion",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "1c34d109-fb13-5737-92f9-b79e829f1572",
+          "ingredient_id": "f86b83d4-879d-54bb-a883-73bbfa9228ba",
+          "name": "green pepper",
+          "display_text": "1/2 cup Green Pepper",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "dbbbdfdd-1277-535a-ab62-29c20bb2b6fc",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1/2 cup Red Pepper",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "6b41e739-dd9a-52fb-aad3-5490cf617c0f",
+          "ingredient_id": "856e47ab-bcee-5e44-bc03-f1ba0c6859b1",
+          "name": "garlic powder",
+          "display_text": "1 tsp Garlic Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "c1cea2cf-2ef4-58d5-83bd-cb4304a75ae2",
+          "ingredient_id": "36457c73-2562-5d44-b7a9-103c2cf3cd62",
+          "name": "capers",
+          "display_text": "1/4 cup Capers",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "938847a4-1012-5863-973a-5419f7e61b44",
+          "ingredient_id": "90e5122f-4f82-5545-8a35-7a3d959514b3",
+          "name": "tomato sauce",
+          "display_text": "1 Can Tomato Sauce",
+          "quantity": 1.0,
+          "unit": "can",
+          "is_optional": false,
+          "category": "condiments"
+        },
+        {
+          "id": "31b1adfc-0ab8-55b3-947a-678618b41ddf",
+          "ingredient_id": "81c26f23-5233-5b41-8eda-0d4dfb73de10",
+          "name": "sazon",
+          "display_text": "1 Can Sazon",
+          "quantity": 1.0,
+          "unit": "can",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "ff06c15f-150a-5c46-a5ef-f9584676fbf4",
+          "ingredient_id": "0129270e-d1e3-5a04-963a-39455a6df8cd",
+          "name": "yellow masarepa",
+          "display_text": "2 Yellow Masarepa",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "46e49bae-0d9b-5e61-9fab-227866ec16bf",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "For frying Vegetable Oil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "for frying",
+          "is_optional": false,
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Season meat with Adobo. In skillet, heat oil on medium high. Cook meat until pink is gone. Stir in onion, pepper, garlic, alcaparras, tomato sauce and Sazón. Cook, stirring often until most of the liquid has evaporated (about 20 minutes). Cool.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "c06f68b8-6259-56b0-ab34-6844900c85ca",
+        "16933fb3-2d23-58cf-be9f-604e68a91719",
+        "938847a4-1012-5863-973a-5419f7e61b44"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Prepared dough should be moist and should hold together, but it should not stick to your fingers. Start with about ½ cup of dough and roll into a ball between palms of your hands. Working on a sheet of non-stick parchment paper, form the ball into a 5-inch circle about ⅛ inch thick. Place a generous tbsp. of filling on one half of circle and using parchment paper close dough over to form a semi-circle. To seal and trim edges of the empanada, press lip of inverted bowl over semi-circle shaped patty. Repeat for all the Empanadas."
+    },
+    {
+      "step_number": 3,
+      "instruction": "In large skillet on medium high, heat ½ inch of oil until hot but not smoking. Cook empanadas in batches, turning once or twice until lightly browned. Drain on paper towel. Do not over crowd skillet or let oil get too hot."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://goya.es/en/recipes/venezuelan-turnovers"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

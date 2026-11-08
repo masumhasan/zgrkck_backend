@@ -1,0 +1,297 @@
+{
+  "id": "62fd8443-be2e-569f-8e84-ba89a42bcf84",
+  "version": "1.0.0",
+  "title": "Pork rib bortsch",
+  "slug": "pork-rib-bortsch",
+  "summary": "A hearty Polish-style beet soup made with pork back ribs, potatoes, cabbage, and vegetables.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:22:36Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53306"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/om5hsl1764364721.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/om5hsl1764364721.jpg/small",
+      "alt_text": "Photo of Pork rib bortsch",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=SqRP4xYS6wA"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d40b0607-0a3a-5f5d-8012-7eaf1b714fa5",
+        "slug": "polish",
+        "name": "Polish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 125,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 150
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 large bowl of soup with ribs"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "bc8de76e-cf59-5a08-81e2-fe1f540d385b",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "bc8cf709-87df-59aa-a622-76ca5a5669df",
+          "ingredient_id": "d68580e2-0915-51bf-b4ba-4604052b66d8",
+          "name": "pork back ribs",
+          "display_text": "1kg Pork Back Ribs",
+          "quantity": 1.0,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "kilogram",
+          "category": "meat"
+        },
+        {
+          "id": "0690f944-3bd9-5b0d-acb2-a18399376f80",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaves",
+          "display_text": "2 Bay Leaves",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3fcc5890-7188-5d54-a700-ddb0b5430256",
+          "ingredient_id": "03f8d34f-451d-5335-a7ee-645fe0c59427",
+          "name": "dried white beans",
+          "display_text": "1 tablespoon Dried white beans",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "4ac051b0-5404-5ec3-8e18-af6a6c224842",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "1 large Carrots",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "a480e81e-bbbe-56c7-b34f-7c2c42ad2189",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 sliced Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7857d030-66f1-50de-b690-ba7110ef574b",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "3 sliced thinly Garlic Clove",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "sliced thinly",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "6dd1e564-c8d2-5eba-a3b5-2fac4f99c713",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1 chopped Red Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "03d58964-c7a9-55ef-95ea-a23adebffcb5",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "2 chopped Red Chilli",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e2f42722-d809-5e5a-87d4-35c853c60561",
+          "ingredient_id": "5eb26a00-afde-5f0c-84ea-6db9840afa2c",
+          "name": "beetroot",
+          "display_text": "2 Beetroot",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "aa8d8092-882d-5a02-8d0a-fd1d98b30c89",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "3 chopped Potatoes",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b71d9ed0-8c6d-56be-84e7-de8e325cd1b9",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "3  tablespoons Tomato Puree",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "062746e2-1685-5d48-af50-e418e6c0d593",
+          "ingredient_id": "21b2d42b-5b38-5551-ac7b-75008ee144d3",
+          "name": "white cabbage",
+          "display_text": "1/2 White Cabbage",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "87fe0006-856d-5859-bb02-652ab4af1d9c",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Handful Parsley",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "ce640145-f511-5014-912b-43b54d409b09",
+          "ingredient_id": "c20ef13e-7f52-5fce-847f-34f123e6392e",
+          "name": "dill",
+          "display_text": "Handful Dill",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "91a4d7cd-6d2f-5f1a-bdf3-15be6176b4cd",
+          "ingredient_id": "6ca777b1-4e80-5a4b-8ffe-88c954e2cc8a",
+          "name": "sour cream",
+          "display_text": "300g Sour Cream",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Cut the meat into large pieces, put in your largest saucepan and cover with 5 liters water. Bring to the boil over a high heat, skimming away any foam that rises to the surface. Add the bay leaves. Season. Turn the heat down to a simmer and cook for 1 hr, or until the meat is soft and falls off the bone. Add the beans if using dried.",
+      "timer_seconds": 3600,
+      "ingredients_used": [
+        "0690f944-3bd9-5b0d-acb2-a18399376f80",
+        "3fcc5890-7188-5d54-a700-ddb0b5430256"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Turn the heat up. Bring back to the boil, then reduce the heat and simmer for another 20 mins – the beans should still be slightly raw. Add the carrots, onions, garlic and pepper. Stir well, then add the chillies, if using. Cook for 15 mins more.",
+      "ingredients_used": [
+        "3fcc5890-7188-5d54-a700-ddb0b5430256",
+        "4ac051b0-5404-5ec3-8e18-af6a6c224842",
+        "a480e81e-bbbe-56c7-b34f-7c2c42ad2189",
+        "03d58964-c7a9-55ef-95ea-a23adebffcb5"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Stir in the beetroot and cook for 10 mins before adding the potatoes. After 15 mins, add the tomato purée to taste and beans, if using canned, and bring to the boil. Cook for 5 mins, add the cabbage and cook for 5 mins more. Season, then garnish with the parsley and dill. Turn off the heat and leave to stand for 5 mins. Serve with soured cream on the side.",
+      "ingredients_used": [
+        "3fcc5890-7188-5d54-a700-ddb0b5430256",
+        "e2f42722-d809-5e5a-87d4-35c853c60561",
+        "aa8d8092-882d-5a02-8d0a-fd1d98b30c89",
+        "062746e2-1685-5d48-af50-e418e6c0d593",
+        "87fe0006-856d-5859-bb02-652ab4af1d9c",
+        "ce640145-f511-5014-912b-43b54d409b09"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/pork-rib-bortsch"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

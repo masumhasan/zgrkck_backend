@@ -1,0 +1,237 @@
+{
+  "id": "26306996-ceeb-51e8-9f9c-9436af8ede6a",
+  "version": "1.0.0",
+  "title": "Tangy cabbage slaw",
+  "slug": "tangy-cabbage-slaw",
+  "summary": "A tangy cabbage slaw featuring a mix of red and white cabbage, carrots, and celery tossed in a creamy mustard and lemon dressing.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:23:09Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53312"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/e2g2r21764367568.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/e2g2r21764367568.jpg/small",
+      "alt_text": "Photo of Tangy cabbage slaw",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=oVuAky9HTlM"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "e00f83fa-fc1f-5fa7-b77b-c52fa0a57fe1",
+        "slug": "ukrainian",
+        "name": "Ukrainian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "courses": [
+      "side_dish",
+      "salad"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 15
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of slaw"
+  },
+  "allergens": {
+    "contains": [
+      "eggs",
+      "mustard",
+      "celery"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "8dfc6975-1f78-5755-a047-4654d12470a4",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "5a38c12a-7de8-52c0-9bce-82afdba3cad0",
+          "ingredient_id": "6a3a5ec7-7840-5eff-a3ce-0e3aafbaa822",
+          "name": "mayonnaise",
+          "display_text": "250ml Mayonnaise",
+          "quantity": 250.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "c126dd61-a2da-5912-a9e3-89ee512a277d",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "Zest and juice of 1 Lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "zest and juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c29dc9c9-ea95-55d5-9d20-8264d19ae2e7",
+          "ingredient_id": "13e89dcd-0f80-5590-a3e8-c9a80c8fa688",
+          "name": "cider vinegar",
+          "display_text": "2 tablespoons Cider Vinegar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "494e3a3d-735d-546e-9a36-85f37a4f2a6a",
+          "ingredient_id": "5a42e453-488d-58a0-8332-d15100dce942",
+          "name": "wholegrain mustard",
+          "display_text": "2 tablespoons Wholegrain Mustard",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "5b8b936b-64f7-58af-a529-9d9295f6eff4",
+          "ingredient_id": "4f7cbde9-b895-5798-a448-39acd7d23bde",
+          "name": "celery salt",
+          "display_text": "1 tsp Celery Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "18b2b20e-eb58-5cdf-9539-07956dd9a4b7",
+          "ingredient_id": "21b2d42b-5b38-5551-ac7b-75008ee144d3",
+          "name": "white cabbage",
+          "display_text": "1/4 White Cabbage",
+          "quantity": 0.25,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "bbfe9bfc-c660-5ba5-839d-4785893a52f2",
+          "ingredient_id": "93adfa8e-dfee-5a44-825f-075c81b606db",
+          "name": "red cabbage",
+          "display_text": "1/4 Red Cabbage",
+          "quantity": 0.25,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "a2fa9fd4-a77c-5f0b-a92d-93da52148a39",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "2 Carrots",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "737633f9-675e-56e8-bcda-2870c9c845ac",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Diced Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1291b4c9-3b90-5425-8644-4ce15ea687ca",
+          "ingredient_id": "ed4951b3-26e6-5bb4-a5af-9c61a46687a0",
+          "name": "celery",
+          "display_text": "2 sliced Celery",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Whisk together mayonnaise, lemon zest and juice, vinegar, mustard and celery salt in a small bowl, then season generously.",
+      "ingredients_used": [
+        "5a38c12a-7de8-52c0-9bce-82afdba3cad0",
+        "c126dd61-a2da-5912-a9e3-89ee512a277d",
+        "494e3a3d-735d-546e-9a36-85f37a4f2a6a",
+        "5b8b936b-64f7-58af-a529-9d9295f6eff4",
+        "1291b4c9-3b90-5425-8644-4ce15ea687ca"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add cabbage, carrots, onion and celery. Mix well and refrigerate. Can be made up to 1 day ahead.",
+      "ingredients_used": [
+        "18b2b20e-eb58-5cdf-9539-07956dd9a4b7",
+        "bbfe9bfc-c660-5ba5-839d-4785893a52f2",
+        "a2fa9fd4-a77c-5f0b-a92d-93da52148a39",
+        "737633f9-675e-56e8-bcda-2870c9c845ac",
+        "1291b4c9-3b90-5425-8644-4ce15ea687ca"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/tangy-cabbage-slaw"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

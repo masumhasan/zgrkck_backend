@@ -1,0 +1,404 @@
+{
+  "id": "89e28e87-e93e-5442-b036-4c3085cb7e93",
+  "version": "1.0.0",
+  "title": "Osso Buco alla Milanese",
+  "slug": "osso-buco-alla-milanese",
+  "summary": "A classic Italian braised veal dish featuring meaty shanks cooked with aromatics, white wine, and tomatoes, finished with a bright lemon and parsley gremolata.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:39:20Z",
+  "updated_at": "2026-10-16T10:22:45Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52810"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/wwuqvt1487345467.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/wwuqvt1487345467.jpg/small",
+      "alt_text": "Photo of Osso Buco alla Milanese",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=9GUTC2Qwrf0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "5777da00-e671-5ded-9c46-d7577d65960f",
+        "slug": "italian",
+        "name": "Italian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 25,
+    "cook_time_minutes": 165,
+    "total_time_minutes": 190
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 veal shank"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "celery",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "d051f855-75cd-59e7-a003-fba49846f810",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "bccea02e-960c-5e67-8ef7-bec9c409aef1",
+          "ingredient_id": "90643356-9437-576b-99d4-0f16f331fa9d",
+          "name": "veal",
+          "display_text": "4 meaty shanks Veal",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "meaty shanks",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "d752f01f-ff4e-52ee-aa36-b6f86ba32206",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "½ cup Flour",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "2ab126ef-0edb-59c3-831c-3dd0bc20a154",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tablespoons Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "ba6159f7-7382-5b32-843f-e79b6baf0dbd",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "3 tablespoons Butter",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "902611f1-bdbd-5e86-8b75-32b7aedb375c",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 medium chopped into ½-inch pieces Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "medium chopped into 1/2-inch pieces",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c4fee0f1-7f1b-539f-b9d4-42686da6b7e1",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "1 chopped into ½-inch pieces Carrots",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped into 1/2-inch pieces",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "eec5a75a-1b44-5244-951f-10bb8f1fd50e",
+          "ingredient_id": "ed4951b3-26e6-5bb4-a5af-9c61a46687a0",
+          "name": "celery",
+          "display_text": "1 chopped into ½-inch pieces Celery",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped into 1/2-inch pieces",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b92019e5-8b85-5ff5-b10c-c51bafdd4fe7",
+          "ingredient_id": "90f6a581-b68c-51b8-bbe5-4d91c3f1b0ce",
+          "name": "fennel",
+          "display_text": "1 bulb chopped into ½-inch pieces Fennel",
+          "quantity": 1.0,
+          "unit": "bulb",
+          "preparation": "chopped into 1/2-inch pieces",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7ed33f9b-d78f-52c9-a774-504d1f95e22c",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 cloves Garlic",
+          "quantity": 3.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "450c390e-7fa5-5208-be68-2b8cf639fb99",
+          "ingredient_id": "25974102-33c7-534c-ac2b-40c689d1cd32",
+          "name": "orange zest",
+          "display_text": "2 strips Orange Zest",
+          "quantity": 2.0,
+          "unit": "strip",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "99d14aef-b7e4-5750-b93e-3660c8b456a7",
+          "ingredient_id": "6ce49d7a-5bca-5a22-a57c-2838ecf815f4",
+          "name": "marjoram",
+          "display_text": "1 ½ teaspoons Marjoram",
+          "quantity": 1.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "739377db-67a1-5e3a-aedf-35f3f5eb5573",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "1 Bay Leaf",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "6474b975-628f-5fd4-844d-4087efcccaa6",
+          "ingredient_id": "fda31c84-156d-52ae-9761-68b43f6d20f4",
+          "name": "dry white wine",
+          "display_text": "1 cup Dry White Wine",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "903d2483-030c-5d09-9880-43ec2b26a4aa",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "½ cup Chicken Stock",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "0101b014-17e4-568e-a3aa-ba5e0e0b31f6",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomatoes",
+          "display_text": "1 cup chopped with juice Tomatoes",
+          "quantity": 1.0,
+          "unit": "cup",
+          "preparation": "chopped with juice",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "2ff86a90-fe6f-5c3c-9a62-96f5109cc174",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "2 tablespoons chopped Parsley",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "6f45d735-cfcc-5e7f-a202-18ee4a65a359",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 teaspoon minced Garlic",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "preparation": "minced",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "4ea0182d-a22f-54f3-af05-0a2644ff4db6",
+          "ingredient_id": "9721c74d-1877-5622-a4ce-ba9fc1eaa562",
+          "name": "lemon zest",
+          "display_text": "1 teaspoon grated Lemon Zest",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "preparation": "grated",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oven to 300 degrees."
+    },
+    {
+      "step_number": 2,
+      "instruction": "Dredging the shanks: pour the flour into a shallow dish (a pie plate works nicely). Season the veal shanks on all sides with salt and pepper. One at a time, roll the shanks around in the flour coat, and shake and pat the shank to remove any excuses flour. Discard the remaining flour.",
+      "ingredients_used": [
+        "bccea02e-960c-5e67-8ef7-bec9c409aef1",
+        "d752f01f-ff4e-52ee-aa36-b6f86ba32206"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Browning the shanks: put the oil and 1 tablespoon of the butter in a wide Dutch oven or heavy braising pot (6 to 7 quart) and heat over medium-high heat. When the butter has melted and the oil is shimmering, lower the shanks into the pot, flat side down; if the shanks won’t fit without touching one another, do this in batches. Brown the shanks, turning once with tongs, until both flat sides are well caramelized, about 5 minutes per side. If the butter-oil mixture starts to burn, lower the heat just a bit. Transfer the shanks to a large platter or tray and set aside.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "ba6159f7-7382-5b32-843f-e79b6baf0dbd"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "The aromatics: pour off and discard the fat from the pot. Wipe out any burnt bits with a damp paper towel, being careful not to remove any delicious little caramelized bits. Ad the remaining 2 tablespoons butter to the pot and melt it over medium heat. When the butter has stopped foaming, add the onion, carrot, celery, and fennel. Season with salt and pepper, stir, and cook the vegetables until they begin to soften but do not brown, about 6 minutes. Stir in the garlic, orange zest, marjoram, and bay leaf, and stew for another minute or two.",
+      "timer_seconds": 360,
+      "ingredients_used": [
+        "ba6159f7-7382-5b32-843f-e79b6baf0dbd",
+        "902611f1-bdbd-5e86-8b75-32b7aedb375c",
+        "eec5a75a-1b44-5244-951f-10bb8f1fd50e",
+        "b92019e5-8b85-5ff5-b10c-c51bafdd4fe7",
+        "7ed33f9b-d78f-52c9-a774-504d1f95e22c",
+        "450c390e-7fa5-5208-be68-2b8cf639fb99",
+        "99d14aef-b7e4-5750-b93e-3660c8b456a7",
+        "739377db-67a1-5e3a-aedf-35f3f5eb5573",
+        "6f45d735-cfcc-5e7f-a202-18ee4a65a359",
+        "4ea0182d-a22f-54f3-af05-0a2644ff4db6"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "The braising liquid: add the wine, increase the heat to high, and bring to a boil. Boil, stirring occasionally, to reduce the wine by about half, 5 minutes. Add the stock and tomatoes, with their juice, and boil again to reduce the liquid to about 1 cup total, about 10 minutes.",
+      "ingredients_used": [
+        "6474b975-628f-5fd4-844d-4087efcccaa6",
+        "0101b014-17e4-568e-a3aa-ba5e0e0b31f6"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "The braise: Place the shanks in the pot so that they are sitting with the exposed bone facing up, and pour over any juices that accumulated as they sat. Cover with parchment paper, pressing down so the parchment nearly touches the veal and the edges hang over the sides of the pot by about an inch. Cover tightly with the lid, and slide into the lower part of the oven to braise at a gentle simmer. Check the pot after the first 15 minutes, and if the liquid is simmering too aggressively, lower the oven heat by 10 or 15 degrees. Continue braising, turning the shanks and spooning some pan juices over the top after the first 40 minutes, until the meat is completely tender and pulling away from the bone, about 2 hours.",
+      "ingredients_used": [
+        "bccea02e-960c-5e67-8ef7-bec9c409aef1"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "The gremolata: While the shanks are braising, stir together the garlic, parsley, and lemon zest in a small bowl. Cover with plastic wrap and set aside in a cool place (or the refrigerator, if your kitchen is very warm.)",
+      "ingredients_used": [
+        "7ed33f9b-d78f-52c9-a774-504d1f95e22c",
+        "450c390e-7fa5-5208-be68-2b8cf639fb99",
+        "2ff86a90-fe6f-5c3c-9a62-96f5109cc174",
+        "6f45d735-cfcc-5e7f-a202-18ee4a65a359",
+        "4ea0182d-a22f-54f3-af05-0a2644ff4db6"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "The finish: When the veal is fork-tender and falling away from the bone, remove the lid and sprinkle over half of the gremolata. Return the veal to the oven, uncovered, for another 15 minutes to caramelize it some.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "bccea02e-960c-5e67-8ef7-bec9c409aef1"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Using a slotted spatula or spoon, carefully lift the shanks from the braising liquid, doing your best to keep them intact. The shanks will be very tender and threatening to fall into pieces, and the marrow will be wobbly inside the bones, so this can be a bit tricky. But if they do break apart, don’t worry, the flavor won’t suffer at all. Arrange the shanks on a serving platter or other large plate, without stacking, and cover with foil to keep warm."
+    },
+    {
+      "step_number": 10,
+      "instruction": "Finishing the sauce: Set the braising pot on top of the stove and evaluate the sauce: if there is a visible layer of fat floating on the surface, use a large spoon to skim it off and discard it. Taste the sauce for concentration of flavor. If it tastes a bit weak or flat, bring it to a boil over high heat, and boil to reduce the volume and intensify the flavor for 5 to 10 minutes. Taste again for salt and pepper. If the sauce wants more zip, stir in a teaspoon or two of the remaining gremolata.",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 11,
+      "instruction": "Portioning the veal shanks: if the shanks are reasonably sized, serve one per person. If the shanks are gargantuan or you’re dealing with modest appetites, pull apart the larger shanks, separating them at their natural seams, and serve smaller amounts. Be sure to give the marrow bones to whomever prizes them most.",
+      "ingredients_used": [
+        "bccea02e-960c-5e67-8ef7-bec9c409aef1"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Serving: Arrange the veal shanks on warm dinner plates accompanied by the risotto, if serving. Just before carrying the plates to the table, sprinkle on the remaining gremolata and then spoon over a generous amount of sauce – the contact with the hot liquid will aromatize the gremolata and perk up everyone’s appetite with the whiff of garlic and lemon.",
+      "ingredients_used": [
+        "bccea02e-960c-5e67-8ef7-bec9c409aef1",
+        "7ed33f9b-d78f-52c9-a774-504d1f95e22c",
+        "6f45d735-cfcc-5e7f-a202-18ee4a65a359"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.cookstr.com/Meat/Osso-Buco-alla-Milanese"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

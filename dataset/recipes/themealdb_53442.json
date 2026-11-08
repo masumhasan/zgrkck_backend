@@ -1,0 +1,225 @@
+{
+  "id": "b9e9809c-4f73-5ee5-a099-52c660835777",
+  "version": "1.0.0",
+  "title": "Cheese Sticks",
+  "slug": "cheese-sticks",
+  "summary": "Cheese sticks are Aruban-style snacks consisting of mozzarella cheese strips wrapped in a simple dough and fried until golden.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:34:28Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53442"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/7i6csk1780094394.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/7i6csk1780094394.jpg/small",
+      "alt_text": "Photo of Cheese Sticks",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/shorts/_RC2m-VGdP0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "0582bdef-9340-5f24-b48f-1bf7f5f392ac",
+        "slug": "aruban",
+        "name": "Aruban"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "pieces",
+    "serving_size_description": "several cheese sticks"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "43885c5b-0c77-5152-b37d-f546b43ca8f3",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "f193e25a-205f-5542-919c-b75b91838e38",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "1 cup Flour",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "af1f1e23-4505-515a-90dd-55aa02b03441",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "1/2 cup Milk",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "904d16ea-deb1-5cd3-9275-5a6142fab686",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "Knob Butter",
+          "quantity": 1,
+          "unit": "knob",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "8894e1d4-b39d-51b1-9148-a580569e7361",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "45691286-fc23-5b07-9c5a-6e961d244ba2",
+          "ingredient_id": "e33b865f-f35f-5c67-b930-10dc0e6899f1",
+          "name": "mozzarella",
+          "display_text": "1 kg Mozzarella",
+          "quantity": 1.0,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "kilogram",
+          "category": "dairy"
+        },
+        {
+          "id": "a1d709c6-aed9-550c-809e-b68f84cf3610",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 tsp Sugar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "18ba7714-37e2-5092-8ec6-adbd8f8ad2aa",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "665a166f-10c0-59d5-848b-f9260b73dd7c",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 tsp Olive Oil",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "8a7b9d53-4685-5e28-b2f6-cf396ab664d4",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "For frying Oil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "for frying",
+          "is_optional": false,
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Cut the cheese and long strips and place in your fridge to prevent it becoming soft. Mix flour, butter and egg in a bowl, and add sugar, salt and olive oil to taste into the mix. Then gradually add milk and knead well for a suitable consistency.",
+      "ingredients_used": [
+        "f193e25a-205f-5542-919c-b75b91838e38",
+        "af1f1e23-4505-515a-90dd-55aa02b03441",
+        "904d16ea-deb1-5cd3-9275-5a6142fab686",
+        "8894e1d4-b39d-51b1-9148-a580569e7361",
+        "a1d709c6-aed9-550c-809e-b68f84cf3610",
+        "18ba7714-37e2-5092-8ec6-adbd8f8ad2aa",
+        "665a166f-10c0-59d5-848b-f9260b73dd7c",
+        "8a7b9d53-4685-5e28-b2f6-cf396ab664d4"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Stretch out the dough with a rolling pin and cut into long strips (2 to 3 cm) and then roll the strips of dough around the cheese strips forming a spiral. Make sure the dough covers the cheese fully so that it doesn't melt out while frying. Roll the cheese & dough strips through flour to prevent them from sticking while frying. Heat oil in a frying pan until hot before placing the cheese sticks, and fry until golden in color.",
+      "ingredients_used": [
+        "f193e25a-205f-5542-919c-b75b91838e38",
+        "8a7b9d53-4685-5e28-b2f6-cf396ab664d4"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.visitaruba.com/aruba-recipes/cheese-sticks/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

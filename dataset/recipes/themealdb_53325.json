@@ -1,0 +1,241 @@
+{
+  "id": "76c213a9-1843-5c0f-9799-913dda0a2e66",
+  "version": "1.0.0",
+  "title": "Venezuelan Arepas",
+  "slug": "venezuelan-arepas",
+  "summary": "Traditional Venezuelan cornmeal cakes that are grilled and then baked until puffy. They are typically used as a vessel for various fillings or served alongside stews.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:24:16Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53325"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/3hcy191764376285.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/3hcy191764376285.jpg/small",
+      "alt_text": "Photo of Venezuelan Arepas",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=kbvh5XaBpJk"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "7511fbbd-fbff-5fb1-ad48-c4a89d390e43",
+        "slug": "venezuelan",
+        "name": "Venezuelan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish",
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 20,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "pieces",
+    "serving_size_description": "2 arepas"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "39d06ef4-5b66-548c-89c1-fa3fb60ffcbf",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "4dab9184-fdb1-5283-87a2-1d25f6323791",
+          "ingredient_id": "56ea45f6-1a03-524b-a39f-e562bfef4dd1",
+          "name": "cornmeal",
+          "display_text": "2 cups Cornmeal",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "86763c93-987f-503f-84e0-6602e78c87d1",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "2 1/2 cups Water",
+          "quantity": 2.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 600.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "aead543a-9378-58d0-9e6f-c9e31afc0cdb",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "44a92abc-8ffd-5679-9f5f-65df0d6cba49",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "1 tablespoon Vegetable Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat oven to 410° F.",
+      "temperature": {
+        "value": 410,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "Pour the water into a large bowl. Make sure it is room temperature.",
+      "ingredients_used": [
+        "86763c93-987f-503f-84e0-6602e78c87d1"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the salt. Blend well with a mixer, fork or spatula to make sure it dissolves well.",
+      "ingredients_used": [
+        "aead543a-9378-58d0-9e6f-c9e31afc0cdb"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "While you continue to beat the mixture, slowly add the corn meal—a little bit at a time."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Once all the flour is added, keep mixing until the corn meal, water and salt are thoroughly blended and dissolved.",
+      "ingredients_used": [
+        "86763c93-987f-503f-84e0-6602e78c87d1",
+        "aead543a-9378-58d0-9e6f-c9e31afc0cdb"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Set aside the masa in its bowl. Let it rest for 5 minutes so that the flour is thoroughly hydrated. This type of corn flour does not have any gluten, so it doesn’t need to be kneaded. The masa should be smooth, firm yet malleable.",
+      "timer_seconds": 300
+    },
+    {
+      "step_number": 7,
+      "instruction": "While waiting for the 5 minutes’ rest, heat your budare (or comal, griddle, cast-iron pan or non-stick pan) over medium heat. Coat with a little bit of the oil.",
+      "timer_seconds": 300
+    },
+    {
+      "step_number": 8,
+      "instruction": "Fill a small bowl with water to wet your hands to make the arepas.",
+      "ingredients_used": [
+        "86763c93-987f-503f-84e0-6602e78c87d1"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Take about 2 Tbsp of the masa in your damp hands. The masa should fit easily in your palm so that it is easy to shape into a small ball."
+    },
+    {
+      "step_number": 10,
+      "instruction": "Cross your hands, so that one is on top of the other, with the masa ball between them. Rotate your right hand in a circle, so that you are at the same time both pressing the masa into a flat disc and keeping its round shape."
+    },
+    {
+      "step_number": 11,
+      "instruction": "arepa making"
+    },
+    {
+      "step_number": 12,
+      "instruction": "The last step in shaping your arepa is to quickly pass and lightly press the masa disc from one hand to the other until it is about ¾ of an inch thick and 4 inches wide. Smooth the edges with your fingertips (quickly dip them into the water bowl first) so that they stay as round as possible and without cracks.",
+      "ingredients_used": [
+        "86763c93-987f-503f-84e0-6602e78c87d1"
+      ]
+    },
+    {
+      "step_number": 13,
+      "instruction": "arepa making"
+    },
+    {
+      "step_number": 14,
+      "instruction": "Place your arepas in batches on the preheated surface of your budare griddle or nonstick pan. Let each side turn golden, about 4 to 5 minutes per side. Check them often so that they don’t burn.",
+      "timer_seconds": 300
+    },
+    {
+      "step_number": 15,
+      "instruction": "Once they are nicely browned on both sides, place the arepas on a baking sheet in your preheated oven for 10 minutes. They should be somewhat puffy, so that if you tap an arepa lightly on top, it will sound like you are tapping an empty box.",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 16,
+      "instruction": "Serve arepas hot, whether you stuff with them with your choice of fillings or serve solo to accompany your favorite Venezuelan guiso or stew."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://familiakitchen.com/how-to-make-arepas/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "id": "6753b307-c5a6-5847-ad5f-474c372f4d21",
+  "version": "1.0.0",
+  "title": "Lemongrass beef stew with noodles",
+  "slug": "lemongrass-beef-stew-with-noodles",
+  "summary": "A Thai-inspired beef stew infused with aromatic lemongrass, ginger, and garlic, served over rice noodles.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:14:01Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53211"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ntafxw1763586291.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ntafxw1763586291.jpg/small",
+      "alt_text": "Photo of Lemongrass beef stew with noodles",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "724b7c6a-f254-57d4-9729-335a2b2d93b1",
+        "slug": "thai",
+        "name": "Thai"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 95,
+    "total_time_minutes": 110
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of beef stew with noodles"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "fish",
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "d6ddc5f0-9f48-518f-b775-078376b0d6fd",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "65c18680-af2e-53d1-ac98-b5b0ba7803e7",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "1 tablespoon chopped Ginger",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "3fc349f1-4dd1-52d9-9651-635b8f17538c",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "2 chopped Garlic Clove",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e90b93b6-dd61-5a0c-bee6-22024ddd761e",
+          "ingredient_id": "a729805b-0ef1-5769-999e-6483e337b4a5",
+          "name": "lemongrass stalks",
+          "display_text": "3 Lemongrass Stalks",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "50b3a0cf-4740-5366-9299-f67ccc7b7255",
+          "ingredient_id": "01f7246f-a615-5952-a55f-5bf9985723ad",
+          "name": "coriander leaves",
+          "display_text": "2 tblsp Coriander Leaves",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "f1fb9df4-5b6a-5690-b4b9-19fd9c372f38",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "2 sliced Red Chilli",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7cf35e4a-6362-5764-a0e9-8ef7ad2fcd2b",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "2 tblsp Vegetable Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "c430bf73-48b3-59c0-8fd0-45a33590aae4",
+          "ingredient_id": "c2102b4e-a5b4-5bab-b7d5-bdfa5244ae7b",
+          "name": "beef",
+          "display_text": "250g Beef",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "3965c92c-8a2a-5cfe-bcbf-529e5a1b2294",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "2 tblsp Soy Sauce",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "c9099d85-cd24-571f-bd3d-da96eeb55eb4",
+          "ingredient_id": "e51f8e33-8a14-5ed8-b717-b552b1e13844",
+          "name": "five spice powder",
+          "display_text": "1 tsp Five Spice Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "0f4d1ac7-f6fe-50b5-88f9-6db7761696f8",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "1 tsp Brown Sugar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "a8231491-bd96-555c-a892-32f9c41fb2ed",
+          "ingredient_id": "39a746ef-3300-5229-b0b2-3e03970ea60c",
+          "name": "beef stock",
+          "display_text": "400ml Beef Stock",
+          "quantity": 400.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "6d866397-2b05-5d76-aca8-95eccfcee894",
+          "ingredient_id": "26534aa9-d664-5446-96c6-a499ce56a3fe",
+          "name": "rice noodles",
+          "display_text": "100g Rice Noodles",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "1541fb38-5a8c-5047-ba40-edff8d21cfc6",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "To serve Lime",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Put the ginger, garlic, lemongrass, coriander and 1 chilli in a food processor, then pulse until puréed. Heat the oil in a pan over a low heat. Add the purée and cook for 5 mins. Stir in the beef, soy, five-spice, sugar and stock. Put on a lid and bring to the boil, then lower heat and simmer for 1 hr 15 mins. Remove the lid and cook for a further 15 mins until the beef is tender.",
+      "ingredients_used": [
+        "65c18680-af2e-53d1-ac98-b5b0ba7803e7",
+        "f1fb9df4-5b6a-5690-b4b9-19fd9c372f38",
+        "c430bf73-48b3-59c0-8fd0-45a33590aae4"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Just before serving, prepare noodles following pack instructions. Drain well, then divide between 2 bowls and spoon over the beef stew. Serve sprinkled with the remaining chilli and coriander leaves, with lime wedges for squeezing over.",
+      "ingredients_used": [
+        "50b3a0cf-4740-5366-9299-f67ccc7b7255",
+        "f1fb9df4-5b6a-5690-b4b9-19fd9c372f38",
+        "c430bf73-48b3-59c0-8fd0-45a33590aae4",
+        "6d866397-2b05-5d76-aca8-95eccfcee894",
+        "1541fb38-5a8c-5047-ba40-edff8d21cfc6"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/lemongrass-beef-stew-noodles"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

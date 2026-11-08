@@ -1,0 +1,228 @@
+{
+  "id": "7dba0998-6f21-59de-8e84-248048616955",
+  "version": "1.0.0",
+  "title": "Rocky Road Fudge",
+  "slug": "rocky-road-fudge",
+  "summary": "A rich, no-bake chocolate fudge made with melted chocolate chips, peanut butter, marshmallows, and peanuts.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:37:54Z",
+  "updated_at": "2026-10-16T10:22:43Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52786"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/vtxyxv1483567157.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/vtxyxv1483567157.jpg/small",
+      "alt_text": "Photo of Rocky Road Fudge",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=N1aJ3nEYXyg"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b95bb9d4-1e18-5623-a50f-942c7d140e82",
+        "slug": "american",
+        "name": "American"
+      }
+    ],
+    "tags": [
+      "baking",
+      "chocolate",
+      "snack",
+      "sweet"
+    ],
+    "meal_types": [
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 5,
+    "rest_time_minutes": 240,
+    "total_time_minutes": 260
+  },
+  "yield": {
+    "servings": 16,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 bite-sized piece"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "peanuts"
+    ],
+    "free_from": [
+      "gluten",
+      "tree_nuts",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": [
+      "soy"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "c26a96ff-b4ff-59a0-9f06-bbe1ce067292",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "af836564-c138-52a7-ae50-1dec084cff19",
+          "ingredient_id": "89141a6d-4907-5cb2-81a1-3758ea2340cd",
+          "name": "miniature marshmallows",
+          "display_text": "2 cups Miniature Marshmallows",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "fc19dc01-91d7-532c-b22a-6719fbc1f602",
+          "ingredient_id": "57b0f0f3-9046-5bb1-a78b-0092062cf0a4",
+          "name": "chocolate chips",
+          "display_text": "3 cups Chocolate Chips",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "36dfe93c-ac95-5df2-85f9-2afb40821d2b",
+          "ingredient_id": "7d1aec85-0aaa-5080-9fc7-4d5396f799f9",
+          "name": "peanut butter",
+          "display_text": "½ cup Peanut Butter",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "c32289f7-26f5-5857-a882-6b8ee10da60a",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1 tsp Vanilla Extract",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "7cf9a054-8040-5ce3-a7c5-fe89ffc4bc1b",
+          "ingredient_id": "200b7141-d967-52ee-b154-4f8ed303ac02",
+          "name": "peanuts",
+          "display_text": "1 ¼ cups Peanuts",
+          "quantity": 1.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "nuts_seeds"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Line an 8-inch-square baking pan with wax paper or foil, and coat with non-stick spray."
+    },
+    {
+      "step_number": 2,
+      "instruction": "Pour ½ cup of the miniature marshmallows into the bottom of the lined baking dish.",
+      "ingredients_used": [
+        "af836564-c138-52a7-ae50-1dec084cff19"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "In a microwave-safe bowl, combine the chocolate chips and peanut butter. Microwave the chocolate mixture in 20-second intervals, stirring in between each interval, until the chocolate is melted.",
+      "ingredients_used": [
+        "fc19dc01-91d7-532c-b22a-6719fbc1f602",
+        "36dfe93c-ac95-5df2-85f9-2afb40821d2b"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add the vanilla extract and stir well, until smooth.",
+      "ingredients_used": [
+        "c32289f7-26f5-5857-a882-6b8ee10da60a"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Reserve 2 tablespoons of the chopped almonds or peanuts, and set aside.",
+      "ingredients_used": [
+        "7cf9a054-8040-5ce3-a7c5-fe89ffc4bc1b"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Fold 1 ½ cups of the miniature marshmallows and the remaining chopped nuts into the chocolate mixture.",
+      "ingredients_used": [
+        "af836564-c138-52a7-ae50-1dec084cff19"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Transfer the chocolate mixture into the prepared pan and spread into an even layer. Immediately top with the reserved chopped nuts and the mallow bits or additional miniature marshmallows, if using.",
+      "ingredients_used": [
+        "af836564-c138-52a7-ae50-1dec084cff19"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Refrigerate for 4 hours, or until set.",
+      "timer_seconds": 14400
+    },
+    {
+      "step_number": 9,
+      "instruction": "Remove the fudge and wax paper from the pan. Carefully peel all of wax paper from the fudge."
+    },
+    {
+      "step_number": 10,
+      "instruction": "Cut the fudge into bite-sized pieces and serve."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://tiphero.com/rocky-road-fudge/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "id": "c5d4ba55-65d2-5bc5-8154-b3a6387fb3e7",
+  "version": "1.0.0",
+  "title": "Lasagne",
+  "slug": "lasagne",
+  "summary": "A classic Italian-style baked pasta dish featuring a rich beef ragu layered with pasta sheets, topped with a creamy crème fraîche and melted cheese.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:42:29Z",
+  "updated_at": "2026-10-16T10:22:48Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52844"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg/small",
+      "alt_text": "Photo of Lasagne",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=gfhfsBPt46s"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "5777da00-e671-5ded-9c46-d7577d65960f",
+        "slug": "italian",
+        "name": "Italian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 55,
+    "total_time_minutes": 75
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "portions",
+    "serving_size_description": "a large slice of lasagne"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "celery"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "0e75a30a-d16b-5986-b1be-43c06bd5764c",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "de164b1e-2103-5736-bea0-220044f55d24",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 tblsp Olive Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "83ea6f67-b5c7-5a22-bb7a-25ba442f4ce9",
+          "ingredient_id": "956cfefc-d0f9-5c1f-9f20-d38a1e4dbdad",
+          "name": "bacon",
+          "display_text": "2 Bacon",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "620a2322-abba-5d04-b554-9cc96bc3700c",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 finely chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d69502f6-05e6-581c-93a6-99edcbbe77b4",
+          "ingredient_id": "ed4951b3-26e6-5bb4-a5af-9c61a46687a0",
+          "name": "celery",
+          "display_text": "1 Stick Celery",
+          "quantity": 1.0,
+          "unit": "stick",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "be6c94e2-73d0-58af-adcb-5ce08b350e8a",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "1 medium Carrots",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "561a3765-9ea2-52d1-aaba-32369b60195d",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves chopped Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0acff6af-b4ff-59bb-a554-7be062a45456",
+          "ingredient_id": "32de35ba-e219-523e-a9c8-e8bef0b536c9",
+          "name": "minced beef",
+          "display_text": "500g Minced Beef",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "d0056cd2-8ea3-5cd6-8d29-c6871e092d36",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "1 tbls Tomato Puree",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "ee0b5e98-ab9f-5086-88ed-b53b0a9a38cb",
+          "ingredient_id": "f55fd16d-cf7d-508e-a734-bd6e6a65e05a",
+          "name": "chopped tomatoes",
+          "display_text": "800g Chopped Tomatoes",
+          "quantity": 800.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 800.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "6bb1350b-136a-5397-82f1-7a90ffac7d91",
+          "ingredient_id": "7ad11d6e-3134-5831-97df-4db2a67589f7",
+          "name": "honey",
+          "display_text": "1 tblsp Honey",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "27f965d4-fa69-5ece-a9ea-ffb9894e891d",
+          "ingredient_id": "47cbe380-7207-5181-9d4f-60c7fab5f539",
+          "name": "lasagne sheets",
+          "display_text": "500g Lasagne Sheets",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "529ed3ab-4487-516d-a28c-17ca27d46523",
+          "ingredient_id": "5a0201c7-6447-5098-baf7-57a2595f11ba",
+          "name": "creme fraiche",
+          "display_text": "400ml Creme Fraiche",
+          "quantity": 400.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "6f109311-ed4a-599d-82df-9e832ce5bb11",
+          "ingredient_id": "9f7aa897-9bb3-57e7-a54c-7748ca788307",
+          "name": "mozzarella balls",
+          "display_text": "125g Mozzarella Balls",
+          "quantity": 125.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 125.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "88021c66-17a8-5e71-9f0f-6d1e0e76d306",
+          "ingredient_id": "7db471f0-9bfa-5aae-91f1-5642980cae0d",
+          "name": "parmesan cheese",
+          "display_text": "50g Parmesan Cheese",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "0514d656-8cd9-5f67-9251-572219c35f12",
+          "ingredient_id": "a1783c57-4793-5f4c-b52e-1ed99ab34832",
+          "name": "basil leaves",
+          "display_text": "Topping Basil Leaves",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "topping",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oil in a large saucepan. Use kitchen scissors to snip the bacon into small pieces, or use a sharp knife to chop it on a chopping board. Add the bacon to the pan and cook for just a few mins until starting to turn golden. Add the onion, celery and carrot, and cook over a medium heat for 5 mins, stirring occasionally, until softened.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "83ea6f67-b5c7-5a22-bb7a-25ba442f4ce9",
+        "620a2322-abba-5d04-b554-9cc96bc3700c",
+        "d69502f6-05e6-581c-93a6-99edcbbe77b4"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the garlic and cook for 1 min, then tip in the mince and cook, stirring and breaking it up with a wooden spoon, for about 6 mins until browned all over.",
+      "ingredients_used": [
+        "561a3765-9ea2-52d1-aaba-32369b60195d"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Stir in the tomato purée and cook for 1 min, mixing in well with the beef and vegetables. Tip in the chopped tomatoes. Fill each can half full with water to rinse out any tomatoes left in the can, and add to the pan. Add the honey and season to taste. Simmer for 20 mins.",
+      "ingredients_used": [
+        "0acff6af-b4ff-59bb-a554-7be062a45456",
+        "ee0b5e98-ab9f-5086-88ed-b53b0a9a38cb",
+        "6bb1350b-136a-5397-82f1-7a90ffac7d91"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Heat oven to 200C/180C fan/gas 6. To assemble the lasagne, ladle a little of the ragu sauce into the bottom of the roasting tin or casserole dish, spreading the sauce all over the base. Place 2 sheets of lasagne on top of the sauce overlapping to make it fit, then repeat with more sauce and another layer of pasta. Repeat with a further 2 layers of sauce and pasta, finishing with a layer of pasta.",
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "27f965d4-fa69-5ece-a9ea-ffb9894e891d"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Put the crème fraîche in a bowl and mix with 2 tbsp water to loosen it and make a smooth pourable sauce. Pour this over the top of the pasta, then top with the mozzarella. Sprinkle Parmesan over the top and bake for 25–30 mins until golden and bubbling. Serve scattered with basil, if you like.",
+      "timer_seconds": 1800
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/classic-lasagne"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

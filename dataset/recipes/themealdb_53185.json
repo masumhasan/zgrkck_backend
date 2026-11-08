@@ -1,0 +1,187 @@
+{
+  "id": "76b42474-62be-5c64-86da-6f32caefaad8",
+  "version": "1.0.0",
+  "title": "Chorizo & tomato salad",
+  "slug": "chorizo-tomato-salad",
+  "summary": "A Spanish-style salad featuring fresh beef tomatoes and red onions dressed in sherry vinegar and olive oil, topped with pan-fried chorizo slices.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:11:46Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53185"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/6cskio1763338156.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/6cskio1763338156.jpg/small",
+      "alt_text": "Photo of Chorizo & tomato salad",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=RFlENguMJNA"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "salad"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 5,
+    "marinating_time_minutes": 5,
+    "total_time_minutes": 20
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "a bowl of tomato salad with chorizo"
+  },
+  "allergens": {
+    "contains": [
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "13224fba-9cff-564a-81bc-5f8482f76092",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "e62ac5d0-75e2-557e-a944-a567fa41410b",
+          "ingredient_id": "8c5a7b3f-4bfe-5372-8d73-c959ad4d4aac",
+          "name": "beef tomatoes",
+          "display_text": "3 Beef tomatoes",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "0abaeff0-27c4-55ac-81d0-e12d17e3ad3d",
+          "ingredient_id": "716f7639-3b59-56a7-9146-1819649ebdad",
+          "name": "red onions",
+          "display_text": "1/2 Red Onions",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c79385f1-c72e-5c9a-9057-be0c6e7aa5d9",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "Sprigs of fresh Thyme",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "sprigs of fresh",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "2254ab29-a6da-53dc-802f-1ce91836836a",
+          "ingredient_id": "284d3e0d-9e9f-56ee-95b4-7e7dc1b66214",
+          "name": "sherry vinegar",
+          "display_text": "1 tablespoon Sherry vinegar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "8fecc1e1-68ed-5f8c-9942-1db3fb3e0926",
+          "ingredient_id": "96cc0c2b-795a-53be-a503-05d14e92b236",
+          "name": "extra virgin olive oil",
+          "display_text": "2 tblsp Extra Virgin Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "7583de89-0c8b-5703-b3bb-4adf90cd8b28",
+          "ingredient_id": "d4235a95-0bb4-579b-8855-bbb8f4efeb46",
+          "name": "chorizo",
+          "display_text": "100g Chorizo",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Put the tomatoes in a bowl with the onion and thyme. Season, then drizzle with the vinegar and oil. Let the flavors mingle while you cook the chorizo.",
+      "ingredients_used": [
+        "e62ac5d0-75e2-557e-a944-a567fa41410b",
+        "c79385f1-c72e-5c9a-9057-be0c6e7aa5d9",
+        "7583de89-0c8b-5703-b3bb-4adf90cd8b28"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a hot, dry pan, fry the chorizo slices until browned on both sides. Serve the tomatoes with the fried chorizo, drizzled with a little oil from the pan.",
+      "ingredients_used": [
+        "e62ac5d0-75e2-557e-a944-a567fa41410b",
+        "7583de89-0c8b-5703-b3bb-4adf90cd8b28"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/chorizo-tomato-salad"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

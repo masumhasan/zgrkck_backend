@@ -1,0 +1,235 @@
+{
+  "id": "6d807b99-e5cb-51b0-8d87-3803a286060c",
+  "version": "1.0.0",
+  "title": "Alfajores",
+  "slug": "alfajores",
+  "summary": "Alfajores are traditional Argentine sandwich cookies made with a delicate cornstarch-based dough and filled with dulce de leche.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:07:41Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53138"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/a4kgf21763075288.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/a4kgf21763075288.jpg/small",
+      "alt_text": "Photo of Alfajores",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=9WR40GHpsyo"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "52cab25e-aedf-58a6-a869-20df96a19448",
+        "slug": "argentine",
+        "name": "Argentine"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "afternoon_snack",
+      "party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 15,
+    "rest_time_minutes": 60,
+    "total_time_minutes": 95
+  },
+  "yield": {
+    "servings": 15,
+    "serving_unit": "pieces",
+    "serving_size_description": "2 cookies"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "7ee9b779-ff16-52ba-a5a9-300f5d93e4d5",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "a9853b23-0bc4-5591-a852-81ee0d2873a3",
+          "ingredient_id": "d1e5ec78-b8c2-5649-962c-a9f67272ea92",
+          "name": "all purpose flour",
+          "display_text": "300g All purpose flour",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "5ed66d91-88a5-51d4-a521-3e997a7ce0e5",
+          "ingredient_id": "4bdb1684-cdb6-5a8f-b220-c622cf2655cc",
+          "name": "cornstarch",
+          "display_text": "200g Cornstarch",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "d05d87bb-528a-5275-a7eb-fb9e086c6c0f",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "200g Butter",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "e3eae6a0-c287-54aa-a0fd-9a31d72a368f",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "100g Sugar",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "63ce9b70-5fdc-5fde-97b7-37e84da97c8f",
+          "ingredient_id": "051a3118-01a4-5366-a922-19ecf618e2f9",
+          "name": "egg yolks",
+          "display_text": "2 Egg Yolks",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "27c492c4-403d-512a-b432-d847de59db78",
+          "ingredient_id": "9721c74d-1877-5622-a4ce-ba9fc1eaa562",
+          "name": "lemon zest",
+          "display_text": "1 teaspoon Lemon Zest",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "8d761aa1-84bd-5bb6-8e3b-e80f750ebbf3",
+          "ingredient_id": "5d772d5e-0624-59e9-ac6b-e8bc1c4a6936",
+          "name": "dulce de leche",
+          "display_text": "Dulce de leche",
+          "quantity": 0,
+          "unit": "as_needed",
+          "is_optional": false,
+          "category": "condiments"
+        },
+        {
+          "id": "48abd91a-1804-5ccf-9317-a88519f6fd77",
+          "ingredient_id": "4fa73e5a-853a-5513-bfa8-edb5e7f03cce",
+          "name": "desiccated coconut",
+          "display_text": "Sprinkling Desiccated Coconut",
+          "quantity": 1,
+          "unit": "sprinkling",
+          "is_optional": false,
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Make the Dough: Cream butter and sugar. Add egg yolks and lemon zest. Gradually mix in flour and cornstarch to form a dough. Chill for 1 hour.",
+      "timer_seconds": 3600,
+      "ingredients_used": [
+        "5ed66d91-88a5-51d4-a521-3e997a7ce0e5",
+        "d05d87bb-528a-5275-a7eb-fb9e086c6c0f",
+        "e3eae6a0-c287-54aa-a0fd-9a31d72a368f",
+        "63ce9b70-5fdc-5fde-97b7-37e84da97c8f",
+        "27c492c4-403d-512a-b432-d847de59db78"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Bake the Cookies: Roll out the dough, cut into circles, and bake at 180°C (350°F) for 12-15 minutes. Let cool.",
+      "timer_seconds": 900,
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 3,
+      "instruction": "Assemble: Spread dulce de leche on one cookie, then sandwich with another. Roll the edges in coconut flakes.",
+      "ingredients_used": [
+        "8d761aa1-84bd-5bb6-8e3b-e80f750ebbf3",
+        "48abd91a-1804-5ccf-9317-a88519f6fd77"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Pro Tips:"
+    },
+    {
+      "step_number": 5,
+      "instruction": "Chill the dough before rolling it out to make it easier to handle and to prevent the cookies from spreading too much while baking."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Dip the alfajores in melted chocolate and let them set on a wire rack for an extra decadent treat."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.munchery.com/blog/the-ten-iconic-dishes-of-argentina-and-how-to-cook-them-at-home/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

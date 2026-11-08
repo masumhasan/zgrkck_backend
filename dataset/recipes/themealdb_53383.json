@@ -1,0 +1,222 @@
+{
+  "id": "458028ea-e59b-51aa-a2df-a3c8fe8bac3a",
+  "version": "1.0.0",
+  "title": "Ramen Noodles with Boiled Egg",
+  "slug": "ramen-noodles-with-boiled-egg",
+  "summary": "A simple noodle dish served with a soft-boiled egg and a seasoned broth.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:29:22Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53383"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ip5xtp1769779958.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ip5xtp1769779958.jpg/small",
+      "alt_text": "Photo of Ramen Noodles with Boiled Egg",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=AbJNVnkndS4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6813a95e-62cf-55e7-9d4b-6f19ee1d7391",
+        "slug": "chinese",
+        "name": "Chinese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 7,
+    "marinating_time_minutes": 240,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 257
+  },
+  "yield": {
+    "servings": 1,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of noodles with 1 egg"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "eggs"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery",
+      "sulfites"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "d0645799-bc10-568e-8616-bf396d436a50",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "aa342fce-dff9-50b8-8d13-87952571f6fd",
+          "ingredient_id": "146fea77-b9e6-5dfa-9b3e-8978c2ade654",
+          "name": "noodles",
+          "display_text": "1 Packet Noodles",
+          "quantity": 1.0,
+          "unit": "packet",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "d8d9ad04-4df5-5954-8146-22027589037d",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "2 cups Water",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "89c45fd9-876d-5e68-815a-c695599d0c81",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 large Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "6647be6e-796d-57e9-beab-5f2e4ba89bdc",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "1 tbsp Soy Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "1cbdf86d-4523-5819-84d9-194c73923c82",
+          "ingredient_id": "d61c9f0f-74f1-5e2e-89cd-b1fb8144b774",
+          "name": "chilli sauce",
+          "display_text": "1/2 tsp Chilli Sauce",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "84e8fcc9-7ee6-58f7-bed9-49c31267ca9a",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "1 tbls Spring Onions",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "0e21ef83-c677-5c2e-bde3-6ed905d4659e",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/2 tsp Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "11e7ff9d-28f5-597f-95a3-0a8a0bff866b",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "1/2 tbs Pepper",
+          "quantity": 0.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Boil: Bring water to a boil, gently add eggs, and cook for exactly 6½ to 7 minutes.",
+      "timer_seconds": 420,
+      "ingredients_used": [
+        "d8d9ad04-4df5-5954-8146-22027589037d"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Ice Bath: Immediately transfer the eggs to a bowl of ice water for 3–5 minutes to stop cooking.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "d8d9ad04-4df5-5954-8146-22027589037d"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Marinate (Optional but recommended): Peel the eggs and marinate in a mix of 2 tbsp soy sauce, 2 tbsp mirin, 1 tsp sugar, and 4 tbsp water for at least 4 hours (or overnight).",
+      "timer_seconds": 14400,
+      "ingredients_used": [
+        "d8d9ad04-4df5-5954-8146-22027589037d",
+        "6647be6e-796d-57e9-beab-5f2e4ba89bdc"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Serve: Slice in half, letting the yolk flow into the broth"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

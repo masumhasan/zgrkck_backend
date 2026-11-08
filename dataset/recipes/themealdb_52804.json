@@ -1,0 +1,182 @@
+{
+  "id": "7cd4037e-2350-5505-869e-04d100a19bfd",
+  "version": "1.0.0",
+  "title": "Poutine",
+  "slug": "poutine",
+  "summary": "A classic Canadian comfort food consisting of crispy fried potatoes topped with fresh cheese curds and warm beef gravy.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:39:03Z",
+  "updated_at": "2026-10-16T10:22:44Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52804"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/uuyrrx1487327597.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/uuyrrx1487327597.jpg/small",
+      "alt_text": "Photo of Poutine",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=UVAMAoA2_WU"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "54838e2c-2c59-558b-8932-e019f7cc6d0c",
+        "slug": "canadian",
+        "name": "Canadian"
+      }
+    ],
+    "tags": [
+      "hangoverfood",
+      "speciality",
+      "unhealthy"
+    ],
+    "meal_types": [
+      "snack",
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 5,
+    "total_time_minutes": 15
+  },
+  "yield": {
+    "servings": 1,
+    "serving_unit": "servings",
+    "serving_size_description": "1 plate of fries with gravy and cheese"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "e3a70c0b-7e12-5979-aa1f-1ecb300a49a8",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "f9b20477-268c-5c6b-9484-050549a29a04",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "Dash Vegetable Oil",
+          "quantity": 1,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "9bc80078-f253-5cae-ad3d-904f6cd2f89a",
+          "ingredient_id": "43f6fa6a-dc52-5cba-a187-0b267fc6c101",
+          "name": "beef gravy",
+          "display_text": "1 Can Beef Gravy",
+          "quantity": 1.0,
+          "unit": "can",
+          "is_optional": false,
+          "category": "condiments"
+        },
+        {
+          "id": "95535e87-48bf-5a80-9ac8-fc1106d6f9cc",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "5 thin cut Potatoes",
+          "quantity": 5.0,
+          "unit": "piece",
+          "preparation": "thin cut",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "08db653e-17d9-5817-a1e2-0e9dbc52d910",
+          "ingredient_id": "08e8e124-3ce7-5fdd-9cb1-5b459b40f75b",
+          "name": "cheese curds",
+          "display_text": "2 cups Cheese Curds",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oil in a deep fryer or deep heavy skillet to 365°F (185°C).",
+      "temperature": {
+        "value": 365,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "Warm gravy in saucepan or microwave.",
+      "ingredients_used": [
+        "9bc80078-f253-5cae-ad3d-904f6cd2f89a"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Place the fries into the hot oil, and cook until light brown, about 5 minutes.",
+      "timer_seconds": 300
+    },
+    {
+      "step_number": 4,
+      "instruction": "Remove to a paper towel lined plate to drain."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Place the fries on a serving platter, and sprinkle the cheese over them."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Ladle gravy over the fries and cheese, and serve immediately.",
+      "ingredients_used": [
+        "9bc80078-f253-5cae-ad3d-904f6cd2f89a"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://www.food.com/recipe/real-canadian-poutine-113388"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

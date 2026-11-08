@@ -1,0 +1,248 @@
+{
+  "id": "30780d3c-bd87-5b02-93fd-6f996d788c3b",
+  "version": "1.0.0",
+  "title": "Poulet Roti a l'Algerienne (Algerian Roast Chicken)",
+  "slug": "poulet-roti-a-l-algerienne-algerian-roast-chicken",
+  "summary": "A whole roasted chicken seasoned with a mixture of balsamic vinegar, Dijon mustard, and spices, cooked in an oven until tender.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:20:13Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53280"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/nlxald1764112200.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/nlxald1764112200.jpg/small",
+      "alt_text": "Photo of Poulet Roti a l'Algerienne (Algerian Roast Chicken)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=78O6Sv7HNO0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "44067efa-6d33-5eeb-9836-eb49ba7b3e31",
+        "slug": "algerian",
+        "name": "Algerian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 90,
+    "total_time_minutes": 100
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1/4 chicken"
+  },
+  "allergens": {
+    "contains": [
+      "mustard",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "4523ce72-4b67-565b-a8cf-18b4f4710f3c",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "89f83381-6be4-5644-ab65-d182608b920d",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1 cup Water",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "9711a531-c750-5154-95ea-1eb816bdfd83",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "38965f52-c944-538b-a1c0-cd87e413c288",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "5 tablespoons Olive Oil",
+          "quantity": 5.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "fe035d34-f7bb-57b1-9814-4721f7861905",
+          "ingredient_id": "63107704-a6f7-54e1-89ce-d8232f5288e9",
+          "name": "balsamic vinegar",
+          "display_text": "2 tablespoons Balsamic Vinegar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "716c503e-785a-5d04-a139-f48effbc5e2c",
+          "ingredient_id": "ca633897-45c5-5885-985b-5fbe25d58c8d",
+          "name": "dijon mustard",
+          "display_text": "1 tablespoon Dijon Mustard",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "937b3456-d896-5e23-b07b-f64571cc8977",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 Cloves Crushed Garlic",
+          "quantity": 3.0,
+          "unit": "clove",
+          "preparation": "crushed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1dc05359-ba6b-529a-b481-195a5e275ac6",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1 tsp Black Pepper",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "9fe98f21-1b5c-5220-bd41-db996dd42a43",
+          "ingredient_id": "97dd86b9-4ad7-5a3a-bc6c-86485409c325",
+          "name": "cayenne pepper",
+          "display_text": "1 tsp Cayenne Pepper",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "5f59f205-b19b-5a2f-bbc4-1c104e5165fd",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "5f93e44d-514a-5299-ad9d-9ae441bdc010",
+          "ingredient_id": "96643234-56e3-5df9-9877-487e63d7cb8b",
+          "name": "chicken",
+          "display_text": "1 Chicken",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "poultry"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat oven to 350 degrees F (175 degrees C).",
+      "temperature": {
+        "value": 350,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "Mix water, onion, olive oil, balsamic vinegar, Dijon mustard, garlic, black pepper, cayenne pepper, and salt together in a roasting dish. Add chicken; turn until well coated with mixture.",
+      "ingredients_used": [
+        "89f83381-6be4-5644-ab65-d182608b920d",
+        "9711a531-c750-5154-95ea-1eb816bdfd83",
+        "38965f52-c944-538b-a1c0-cd87e413c288",
+        "fe035d34-f7bb-57b1-9814-4721f7861905",
+        "716c503e-785a-5d04-a139-f48effbc5e2c",
+        "937b3456-d896-5e23-b07b-f64571cc8977",
+        "1dc05359-ba6b-529a-b481-195a5e275ac6",
+        "9fe98f21-1b5c-5220-bd41-db996dd42a43",
+        "5f59f205-b19b-5a2f-bbc4-1c104e5165fd",
+        "5f93e44d-514a-5299-ad9d-9ae441bdc010"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Bake in the preheated oven until an instant-read thermometer inserted into the thickest part of the thigh, near the bone, reads 165 degrees F (74 degrees C), about 1 hour 30 minutes.",
+      "temperature": {
+        "value": 165,
+        "unit": "fahrenheit"
+      }
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.allrecipes.com/recipe/258886/poulet-roti-a-lalgerienne-algerian-roast-chicken/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

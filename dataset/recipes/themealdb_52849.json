@@ -1,0 +1,308 @@
+{
+  "id": "b7d22c82-e8f3-536b-928c-9c1a749db286",
+  "version": "1.0.0",
+  "title": "Spinach & Ricotta Cannelloni",
+  "slug": "spinach-ricotta-cannelloni",
+  "summary": "A baked Italian pasta dish consisting of cannelloni tubes filled with a mixture of spinach, ricotta, and parmesan, topped with a tomato sauce and mascarpone cream.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:42:54Z",
+  "updated_at": "2026-10-16T10:22:48Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52849"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/wspuvp1511303478.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/wspuvp1511303478.jpg/small",
+      "alt_text": "Photo of Spinach & Ricotta Cannelloni",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=rYGaEJjyLQA"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "5777da00-e671-5ded-9c46-d7577d65960f",
+        "slug": "italian",
+        "name": "Italian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 55,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 90
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1 portion of cannelloni with sauce"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "c78ef4c4-0aec-5e55-b9c0-fd226021b6c4",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "6673c126-acfe-54c9-a538-ff5fea1b3ac8",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "3 tbsp Olive Oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "094ee04d-978d-580d-95ea-1dbf590e2102",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "8 cloves chopped Garlic",
+          "quantity": 8.0,
+          "unit": "clove",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ef621586-d55d-5a4b-a10f-5bb7139403cf",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "3 tbsp Caster Sugar",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "65381363-0730-584a-a29f-490c82be9ce9",
+          "ingredient_id": "38df984b-29a1-5431-8935-d850dfe8f8f7",
+          "name": "red wine vinegar",
+          "display_text": "2 tblsp Red Wine Vinegar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "15b05045-9d9c-5b91-819e-12e05d199ae8",
+          "ingredient_id": "f55fd16d-cf7d-508e-a734-bd6e6a65e05a",
+          "name": "chopped tomatoes",
+          "display_text": "3 400g Cans Chopped Tomatoes",
+          "quantity": 3.0,
+          "unit": "can",
+          "preparation": "400g",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "a81ff9a1-460d-5721-aae2-5a389c89fc37",
+          "ingredient_id": "a1783c57-4793-5f4c-b52e-1ed99ab34832",
+          "name": "basil leaves",
+          "display_text": "Bunch Basil Leaves",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "bunch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "6a25ca5f-84a4-5941-a916-613c3fddda4e",
+          "ingredient_id": "46a7c18d-4f96-5454-b9fa-a262e8226782",
+          "name": "mascarpone",
+          "display_text": "2 tubs Mascarpone",
+          "quantity": 2.0,
+          "unit": "tub",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "db27680a-235b-5cf4-942a-39e4c19dfb5a",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "3 tbsp Milk",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "e7013427-f707-5e43-ac41-0abc8b1b6f0f",
+          "ingredient_id": "416df703-8cf7-5b6e-bc37-86ce7e3fd6da",
+          "name": "parmesan",
+          "display_text": "85g Parmesan",
+          "quantity": 85.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 85.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "919e8aca-bd6b-595a-9a6d-729c9cee052e",
+          "ingredient_id": "e33b865f-f35f-5c67-b930-10dc0e6899f1",
+          "name": "mozzarella",
+          "display_text": "2 sliced Mozzarella",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "77d253aa-3900-5cea-be3e-ee3a54a7edde",
+          "ingredient_id": "d0dd13fa-8c7a-5af9-9e1d-3d7bfc0f68e8",
+          "name": "spinach",
+          "display_text": "1kg Spinach",
+          "quantity": 1.0,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "kilogram",
+          "category": "produce"
+        },
+        {
+          "id": "3f93c4d9-8090-59fc-8d9f-4bbc62937a4c",
+          "ingredient_id": "416df703-8cf7-5b6e-bc37-86ce7e3fd6da",
+          "name": "parmesan",
+          "display_text": "100g Parmesan",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "4493aaf0-7348-520d-ac93-f3933880ae88",
+          "ingredient_id": "8d0de567-62a1-52a2-bfda-c80f966ac532",
+          "name": "ricotta",
+          "display_text": "3 tubs Ricotta",
+          "quantity": 3.0,
+          "unit": "tub",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "d12d08f9-3e22-57b0-b18d-dc8852644017",
+          "ingredient_id": "9426e9cd-e7b2-540e-8ddb-187c01748931",
+          "name": "nutmeg",
+          "display_text": "pinch Nutmeg",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "a52137e2-e185-5768-9ad7-4198c9c16324",
+          "ingredient_id": "b2ff6357-5b66-5b44-8834-220365f1a90d",
+          "name": "cannellini beans",
+          "display_text": "400g Cannellini Beans",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "First make the tomato sauce. Heat the oil in a large pan and fry the garlic for 1 min. Add the sugar, vinegar, tomatoes and some seasoning and simmer for 20 mins, stirring occasionally, until thick. Add the basil and divide the sauce between 2 or more shallow ovenproof dishes (see Tips for freezing, below). Set aside. Make a sauce by beating the mascarpone with the milk until smooth, season, then set aside.",
+      "ingredients_used": [
+        "094ee04d-978d-580d-95ea-1dbf590e2102",
+        "15b05045-9d9c-5b91-819e-12e05d199ae8",
+        "6a25ca5f-84a4-5941-a916-613c3fddda4e",
+        "db27680a-235b-5cf4-942a-39e4c19dfb5a"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Put the spinach in a large colander and pour over a kettle of boiling water to wilt it (you may need to do this in batches). When cool enough to handle squeeze out the excess water. Roughly chop the spinach and mix in a large bowl with 100g Parmesan and ricotta. Season well with salt, pepper and the nutmeg.",
+      "ingredients_used": [
+        "e7013427-f707-5e43-ac41-0abc8b1b6f0f",
+        "77d253aa-3900-5cea-be3e-ee3a54a7edde",
+        "3f93c4d9-8090-59fc-8d9f-4bbc62937a4c",
+        "4493aaf0-7348-520d-ac93-f3933880ae88",
+        "d12d08f9-3e22-57b0-b18d-dc8852644017"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Heat oven to 200C/180C fan/gas 6. Using a piping bag or plastic food bag with the corner snipped off, squeeze the filling into the cannelloni tubes. Lay the tubes, side by side, on top of the tomato sauce and spoon over the mascarpone sauce. Top with Parmesan and mozzarella. You can now freeze the cannelloni, uncooked, or you can cook it first and then freeze. Bake for 30-35 mins until golden and bubbling. Remove from oven and let stand for 5 mins before serving.",
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "6a25ca5f-84a4-5941-a916-613c3fddda4e",
+        "e7013427-f707-5e43-ac41-0abc8b1b6f0f",
+        "919e8aca-bd6b-595a-9a6d-729c9cee052e",
+        "3f93c4d9-8090-59fc-8d9f-4bbc62937a4c"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/531632/spinach-and-ricotta-cannelloni"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

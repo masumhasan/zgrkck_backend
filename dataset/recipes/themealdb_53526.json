@@ -1,0 +1,403 @@
+{
+  "id": "bab648bf-e785-54d5-8c7d-91234c86ef5c",
+  "version": "1.0.0",
+  "title": "Colombian Style Stuffed Potatoes",
+  "slug": "colombian-style-stuffed-potatoes",
+  "summary": "Colombian-style stuffed potatoes consist of mashed potato balls filled with a savory beef, tomato, and onion mixture, then coated in batter and deep-fried until golden.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:42:03Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53526"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/zdyurx1783801146.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/zdyurx1783801146.jpg/small",
+      "alt_text": "Photo of Colombian Style Stuffed Potatoes",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "50fefb0a-1f33-59b0-afdb-383ba2373950",
+        "slug": "colombian",
+        "name": "Colombian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "starter"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": [
+      "easter",
+      "lunchbox"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 44,
+    "total_time_minutes": 64
+  },
+  "yield": {
+    "servings": 5,
+    "serving_unit": "portions",
+    "serving_size_description": "2 stuffed potatoes"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "6dd7ac13-1a31-5e61-8356-f819c27fa1dc",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "6d22ab92-3fd8-500e-b829-d2ab921b5c82",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "For frying Vegetable Oil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "for frying",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "ed3e545d-89b2-5f5b-9cb4-a1c8972f71c7",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "5 Potatoes",
+          "quantity": 5.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "091f9749-2107-525a-af2a-d8825fded08e",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/4 tsp Salt",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "c80323fc-c985-57c7-a520-73e4ae6710f5",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 tablespoon Olive Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "aecd58b9-2ada-50b3-8461-da813fa88898",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "1 cup Tomato",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "f23ac01c-b5fe-5ded-b43a-4a13052e1ab1",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1/3 cup Onion",
+          "quantity": 0.3333,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 80.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "bf3794bb-38cf-592a-b917-df476fa6ca1f",
+          "ingredient_id": "24cbab0a-29d3-5e28-b361-77f90e93af9c",
+          "name": "scallions",
+          "display_text": "1/3 cup Scallions",
+          "quantity": 0.3333,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 80.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "3c0544fe-85e4-5e5c-b009-ab07b62aa4a5",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove peeled crushed Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "preparation": "peeled crushed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c773c2e1-a040-58e8-8d4b-914af10db63c",
+          "ingredient_id": "efa5be6a-3bc3-55ca-812f-22dd145ba53d",
+          "name": "ground cumin",
+          "display_text": "1/2 tsp Ground Cumin",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "0dc1c836-0457-55e8-bc8c-bbadd460b9d8",
+          "ingredient_id": "df85794b-93a6-59fb-b739-7a04dd737eb2",
+          "name": "sazon goya with azafran",
+          "display_text": "1/2 tsp Sazon Goya With Azafran",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "8ea71e2a-ad8f-51ab-b075-a326e4bd11b5",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/4 tsp Salt",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "70275de5-50e8-5767-a9d4-bacf3583dd0f",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1/4 tsp Black Pepper",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "de3db087-13e7-5f84-b86a-9dc5e85bf859",
+          "ingredient_id": "daceaafa-62e0-5268-ab7d-62934c564c72",
+          "name": "ground beef",
+          "display_text": "1/2 lb Ground Beef",
+          "quantity": 0.5,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 226.8,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "bbe22281-1f8d-58ba-b95b-3d8de61ca2c6",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "4e91099d-52fe-5676-87ee-5d38f1eefbee",
+          "ingredient_id": "d1e5ec78-b8c2-5649-962c-a9f67272ea92",
+          "name": "all purpose flour",
+          "display_text": "1/4 cup All purpose flour",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "e93f9dfa-827e-5958-9a6f-2cb4413364c7",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "21b13a42-ea6c-5158-83fe-983d8dcac62f",
+          "ingredient_id": "df85794b-93a6-59fb-b739-7a04dd737eb2",
+          "name": "sazon goya with azafran",
+          "display_text": "1/2 tbs Sazon Goya With Azafran",
+          "quantity": 0.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "cac98652-8633-5995-8c3d-a690261ae1a8",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "1/4 cup Milk",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Peel the potatoes and cut them into chunks, put them in a medium pot and cover with water and ¼ teaspoon of salt.",
+      "ingredients_used": [
+        "ed3e545d-89b2-5f5b-9cb4-a1c8972f71c7",
+        "091f9749-2107-525a-af2a-d8825fded08e",
+        "8ea71e2a-ad8f-51ab-b075-a326e4bd11b5",
+        "e93f9dfa-827e-5958-9a6f-2cb4413364c7"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Bring the potatoes to a boil over medium high heat, then reduce the heat to medium and cook until fork tender about 20 minutes.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "ed3e545d-89b2-5f5b-9cb4-a1c8972f71c7"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Drain the potatoes and mash with a fork or masher and set aside.",
+      "ingredients_used": [
+        "ed3e545d-89b2-5f5b-9cb4-a1c8972f71c7"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Filling:"
+    },
+    {
+      "step_number": 5,
+      "instruction": "In a large sauce pan, heat 1 tablespoon olive oil over medium heat and add the onion, tomato, scallions, garlic, cumin, azafran, pepper and salt. Cook for 5 minutes or until the onions are translucent, add the beef and cook stirring occasionally about 10 – 15 minutes. Set aside to cool.",
+      "ingredients_used": [
+        "091f9749-2107-525a-af2a-d8825fded08e",
+        "c80323fc-c985-57c7-a520-73e4ae6710f5",
+        "aecd58b9-2ada-50b3-8461-da813fa88898",
+        "f23ac01c-b5fe-5ded-b43a-4a13052e1ab1",
+        "bf3794bb-38cf-592a-b917-df476fa6ca1f",
+        "3c0544fe-85e4-5e5c-b009-ab07b62aa4a5",
+        "c773c2e1-a040-58e8-8d4b-914af10db63c",
+        "0dc1c836-0457-55e8-bc8c-bbadd460b9d8",
+        "8ea71e2a-ad8f-51ab-b075-a326e4bd11b5",
+        "de3db087-13e7-5f84-b86a-9dc5e85bf859",
+        "e93f9dfa-827e-5958-9a6f-2cb4413364c7",
+        "21b13a42-ea6c-5158-83fe-983d8dcac62f"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "To make the batter:"
+    },
+    {
+      "step_number": 7,
+      "instruction": "In a medium bowl place all the batter ingredients and whisk until smooth and set aside."
+    },
+    {
+      "step_number": 8,
+      "instruction": "To Form the Stuffed Potatoes",
+      "ingredients_used": [
+        "ed3e545d-89b2-5f5b-9cb4-a1c8972f71c7"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Divide the potato mash into 10 equal sized portions, about ⅓ cup each, and form each portion into a ball by rolling between the palms of your hands. Flatten into patties and place 1 ½ tablespoons of the filling in the center of each one. Shape the potato mixture with the filling into balls to enclose the filling completely."
+    },
+    {
+      "step_number": 10,
+      "instruction": "Fill a large heavy pot with vegetable oil and heat over medium-high heat to 360° F.",
+      "temperature": {
+        "value": 360,
+        "unit": "fahrenheit"
+      },
+      "ingredients_used": [
+        "6d22ab92-3fd8-500e-b829-d2ab921b5c82"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Dip the stuffed potato into the batter and carefully place them in the hot oil and fry for about 4 minutes or until golden, turning over halfway through. Remove the potatoes from the oil using a slotted spoon and drain in a plate with paper towels. Transfer to a serving plate and serve with Ají.",
+      "timer_seconds": 240,
+      "ingredients_used": [
+        "ed3e545d-89b2-5f5b-9cb4-a1c8972f71c7"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Notes"
+    },
+    {
+      "step_number": 13,
+      "instruction": "For a vegetarian version:Use the same ingredients in the meat filling except the beef and add 1 cup frozen carrots and peas",
+      "ingredients_used": [
+        "de3db087-13e7-5f84-b86a-9dc5e85bf859"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.mycolombianrecipes.com/colombian-style-stuffed-potatoes-papas-rellenas-colombianas/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

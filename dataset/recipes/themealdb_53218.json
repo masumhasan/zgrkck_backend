@@ -1,0 +1,322 @@
+{
+  "id": "2317b55f-2a10-5a6b-97a3-0b7690cf12b6",
+  "version": "1.0.0",
+  "title": "Chicken Shawarma with homemade garlic herb yogurt sauce",
+  "slug": "chicken-shawarma-with-homemade-garlic-herb-yogurt-sauce",
+  "summary": "Spiced chicken breast marinated in garlic and Middle Eastern spices, served with a creamy garlic herb yogurt sauce and crispy fries.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:14:44Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53218"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/hcg6l91763596970.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/hcg6l91763596970.jpg/small",
+      "alt_text": "Photo of Chicken Shawarma with homemade garlic herb yogurt sauce",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=TROZvPHqP1g"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "dadedf2a-1088-576c-834c-66ae61df3c2a",
+        "slug": "saudi-arabian",
+        "name": "Saudi Arabian"
+      }
+    ],
+    "tags": [
+      "kebab"
+    ],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 23,
+    "marinating_time_minutes": 660,
+    "total_time_minutes": 703
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 flatbread with chicken, fries, and sauce"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "4c8da417-036d-51ff-a439-9481370bfac9",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "9029ada9-3e2e-5ac2-9f87-ae30e9c59cb7",
+          "ingredient_id": "e23191a1-4966-5b21-a6f1-8df6f50b79db",
+          "name": "chicken breast",
+          "display_text": "1kg Chicken Breast",
+          "quantity": 1.0,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "kilogram",
+          "category": "poultry"
+        },
+        {
+          "id": "132dca32-3365-5307-bf12-0f129c7f646c",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves minced Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "minced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "cb6c6f4b-a621-5ee8-9905-e9d3630d5fc3",
+          "ingredient_id": "81534384-b0e9-52fb-8b88-01288b93f32a",
+          "name": "ground coriander",
+          "display_text": "1 tblsp Ground Coriander",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "c82125bf-ef7c-5ad6-b5e7-fec106737011",
+          "ingredient_id": "efa5be6a-3bc3-55ca-812f-22dd145ba53d",
+          "name": "ground cumin",
+          "display_text": "1 tblsp Ground Cumin",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "59c7d77c-a83c-5255-b034-2c8301b8e36e",
+          "ingredient_id": "3bca0ce2-1312-525a-a4c2-bee7bbeaa967",
+          "name": "ground cardomom",
+          "display_text": "1 tblsp Ground Cardomom",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "39ec4968-a744-5cbc-9b33-45368344aed8",
+          "ingredient_id": "97dd86b9-4ad7-5a3a-bc6c-86485409c325",
+          "name": "cayenne pepper",
+          "display_text": "1 tsp Cayenne Pepper",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1c435822-a0da-5350-83d5-d5e7aaea67e5",
+          "ingredient_id": "d8dee4f9-ce24-510b-a43d-b7968606921e",
+          "name": "smoked paprika",
+          "display_text": "2 tsp Smoked Paprika",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "97c2e48a-145b-5a0a-9572-f704da64e60e",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "2 tsp Salt",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "17a93fca-bd32-57b6-ba15-3a4d1f8e9b01",
+          "ingredient_id": "4020879e-a0a5-58e2-b093-33c7e85c8a08",
+          "name": "lemon juice",
+          "display_text": "2 tblsp Lemon Juice",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "b7133932-0450-5f37-807a-f4da8d0ba7e1",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "3 tablespoons Olive Oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "a5e3723b-bf4b-5184-9952-03014091b69a",
+          "ingredient_id": "ba22b73d-e619-5bc7-a859-f65b683613fe",
+          "name": "greek yogurt",
+          "display_text": "1 cup Greek Yogurt",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "2042897e-d3db-59a2-8773-571187285591",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove peeled crushed Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "preparation": "peeled crushed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "28f97c30-021d-5125-a03c-f97a15871673",
+          "ingredient_id": "be79b3bd-bc90-5d15-aab2-4f95774b8de1",
+          "name": "cumin",
+          "display_text": "1 tsp Cumin",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "22607b53-95f6-54f9-bf0a-dae6cab20604",
+          "ingredient_id": "4020879e-a0a5-58e2-b093-33c7e85c8a08",
+          "name": "lemon juice",
+          "display_text": "Splash Lemon Juice",
+          "quantity": 1,
+          "unit": "splash",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Start by cutting your chicken up into reasonably small slices. Grab your ziplock bag and dump the freshly sliced chicken inside."
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add garlic, coriander, cumin, cardomom, cayenne pepper, paprika, salt, pepper, lemon juice and olive oil to the bag. Close the bag and mix thoroughly. Place in fridge for 10-12 hours (shorter is fine but longer is better).",
+      "timer_seconds": 43200,
+      "ingredients_used": [
+        "132dca32-3365-5307-bf12-0f129c7f646c",
+        "cb6c6f4b-a621-5ee8-9905-e9d3630d5fc3",
+        "c82125bf-ef7c-5ad6-b5e7-fec106737011",
+        "59c7d77c-a83c-5255-b034-2c8301b8e36e",
+        "39ec4968-a744-5cbc-9b33-45368344aed8",
+        "1c435822-a0da-5350-83d5-d5e7aaea67e5",
+        "97c2e48a-145b-5a0a-9572-f704da64e60e",
+        "17a93fca-bd32-57b6-ba15-3a4d1f8e9b01",
+        "b7133932-0450-5f37-807a-f4da8d0ba7e1",
+        "2042897e-d3db-59a2-8773-571187285591",
+        "28f97c30-021d-5125-a03c-f97a15871673",
+        "22607b53-95f6-54f9-bf0a-dae6cab20604"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Once ready to cook, heat your fry pan to medium-high and add a tiny bit of olive oil. Fry one side of all of your flatbreads until slightly toasty. Remove from pan, add enough oil to coat the fry pan. Put crumble fries into air fryer on 180 for 15 minutes shaking occasionally.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "b7133932-0450-5f37-807a-f4da8d0ba7e1"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "The pan should be pretty hot by now, add the chicken in 2 batches (unless you have a big fry pan) to avoid overcrowding. The chicken should get a nice sear and darker color which is perfect. Cook for a further 5-8 minutes or until cooked through. Repeat with next chicken batch.",
+      "timer_seconds": 480
+    },
+    {
+      "step_number": 5,
+      "instruction": "While chicken is cooking, place your Greek yogurt into a bowl. Combine garlic, finely chopped mint and parsley, squeeze or so of lemon and cumin. Combine and add salt to taste. In a small bowl, combine 1tsp garlic powder, paprika, cumin, onion powder, oregano, dried parsley, cayenne pepper (optional) mix and leave aside for fries.",
+      "ingredients_used": [
+        "132dca32-3365-5307-bf12-0f129c7f646c",
+        "c82125bf-ef7c-5ad6-b5e7-fec106737011",
+        "39ec4968-a744-5cbc-9b33-45368344aed8",
+        "1c435822-a0da-5350-83d5-d5e7aaea67e5",
+        "97c2e48a-145b-5a0a-9572-f704da64e60e",
+        "2042897e-d3db-59a2-8773-571187285591",
+        "28f97c30-021d-5125-a03c-f97a15871673"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Season fries immediately once cooked and add salt to taste. Once the chicken is complete, serve immediately by laying out your flatbread, spreading the sauce evenly over the bread, add lettuce, onion, tomato, fries, chicken, feta and more sauce on top. Serve immediately.",
+      "ingredients_used": [
+        "97c2e48a-145b-5a0a-9572-f704da64e60e"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://cookpad.com/eng/recipes/24343467?ref=search&search_term=saudi+arabia"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

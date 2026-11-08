@@ -1,0 +1,314 @@
+{
+  "id": "4fe444bc-38de-5d64-969d-7beab41478c1",
+  "version": "1.0.0",
+  "title": "Nom Banh Chok – Cambodian Noodle Soup",
+  "slug": "nom-banh-chok-cambodian-noodle-soup",
+  "summary": "A traditional Cambodian rice noodle soup featuring a savory chicken broth seasoned with fish sauce and served with fresh herbs and bean sprouts.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:39:22Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53497"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/6g9gif1782688663.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/6g9gif1782688663.jpg/small",
+      "alt_text": "Photo of Nom Banh Chok – Cambodian Noodle Soup",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9366172c-dff3-589e-9436-4be7c7f595b3",
+        "slug": "cambodian",
+        "name": "Cambodian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 36,
+    "total_time_minutes": 46
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of noodles with broth and chicken"
+  },
+  "allergens": {
+    "contains": [
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "a89f491c-e999-5f22-b9ce-ac2c20030ff1",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "bdcc1b14-128d-5be7-905b-23a20dc03a20",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "8 cups Water",
+          "quantity": 8.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 1920.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "23adfe88-573b-5844-84a2-d6cea10f0da4",
+          "ingredient_id": "e0e4d032-0f9f-5908-ab90-db9a8ec5b68c",
+          "name": "chicken thighs",
+          "display_text": "1lb Chicken Thighs",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "poultry"
+        },
+        {
+          "id": "6dc2dd07-6d46-5876-87e6-a8afa31492cb",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "4 Cloves Crushed Garlic",
+          "quantity": 4.0,
+          "unit": "clove",
+          "preparation": "crushed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b7b52906-cfb9-55bf-8dfc-2e1a9cafb44c",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "2 tablespoons Vegetable Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "fc176d85-af32-5e71-84dd-ebd769ff5870",
+          "ingredient_id": "de927c20-fdfa-5b98-8ee9-7840fa951a2f",
+          "name": "fish sauce",
+          "display_text": "1 tablespoon Fish Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "49282c0c-bec4-5430-b04f-e8b509828d4a",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "376167a0-b6ea-5bf6-8425-9b6cd815ea2c",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 tsp Sugar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "fd6b97cb-7f08-566a-8eae-01275d07a082",
+          "ingredient_id": "26534aa9-d664-5446-96c6-a499ce56a3fe",
+          "name": "rice noodles",
+          "display_text": "8 oz Rice Noodles",
+          "quantity": 8.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 226.8,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "59b80111-5dd7-5ba6-81df-f79d6b0890fd",
+          "ingredient_id": "2ac15386-42dc-5765-807a-4b4cf4edfcba",
+          "name": "bean sprouts",
+          "display_text": "2 cups Bean Sprouts",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "35b8a3c6-d7ff-5a7c-af71-34dab5b9e9d5",
+          "ingredient_id": "0e838047-684d-55cb-884e-e7872e0e96c4",
+          "name": "mint",
+          "display_text": "1 cup Mint",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "780de157-de15-521c-b39d-dfef61906010",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "1 Lime",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "6bd0d099-ddfc-56c1-a8f1-6d77e9d873de",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "1 Red Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the vegetable oil in a large pot over medium heat until it shimmers, about 2 minutes.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "b7b52906-cfb9-55bf-8dfc-2e1a9cafb44c"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the minced garlic and sauté until fragrant and lightly golden, about 1 minute, stirring constantly to prevent burning.",
+      "timer_seconds": 60,
+      "ingredients_used": [
+        "6dc2dd07-6d46-5876-87e6-a8afa31492cb"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the chicken pieces and cook until they turn opaque on all sides, about 5 minutes, stirring occasionally.",
+      "timer_seconds": 300
+    },
+    {
+      "step_number": 4,
+      "instruction": "Pour in the 8 cups of water and bring to a boil over high heat, which should take about 8 minutes.",
+      "timer_seconds": 480,
+      "ingredients_used": [
+        "bdcc1b14-128d-5be7-905b-23a20dc03a20"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Reduce the heat to low, stir in the fish sauce, salt, and sugar, and simmer uncovered for 20 minutes to develop the flavors.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "fc176d85-af32-5e71-84dd-ebd769ff5870",
+        "49282c0c-bec4-5430-b04f-e8b509828d4a",
+        "376167a0-b6ea-5bf6-8425-9b6cd815ea2c"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "While the broth simmers, cook the rice noodles according to package instructions until al dente, then drain and rinse under cold water to stop the cooking.",
+      "ingredients_used": [
+        "bdcc1b14-128d-5be7-905b-23a20dc03a20",
+        "fd6b97cb-7f08-566a-8eae-01275d07a082"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Divide the cooked noodles evenly among four bowls.",
+      "ingredients_used": [
+        "fd6b97cb-7f08-566a-8eae-01275d07a082"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Ladle the hot broth and chicken over the noodles in each bowl.",
+      "ingredients_used": [
+        "fd6b97cb-7f08-566a-8eae-01275d07a082"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Top each bowl with bean sprouts, chopped mint leaves, and optional red chili slices.",
+      "ingredients_used": [
+        "59b80111-5dd7-5ba6-81df-f79d6b0890fd",
+        "35b8a3c6-d7ff-5a7c-af71-34dab5b9e9d5"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "Serve immediately with lime wedges on the side for squeezing over the soup.",
+      "ingredients_used": [
+        "780de157-de15-521c-b39d-dfef61906010"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://recipes-for-life.com/cambodian-recipes/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

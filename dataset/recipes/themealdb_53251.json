@@ -1,0 +1,313 @@
+{
+  "id": "2f9e6c48-2c87-5588-a843-1db8cdcdbfcb",
+  "version": "1.0.0",
+  "title": "Turkish lahmacun",
+  "slug": "turkish-lahmacun",
+  "summary": "Turkish lahmacun is a thin, crispy flatbread topped with a savory mixture of minced beef, vegetables, and spices.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:17:43Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53251"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/tqd3ac1763786065.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/tqd3ac1763786065.jpg/small",
+      "alt_text": "Photo of Turkish lahmacun",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=8HTa64s8RK8"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "60481cf3-a7b7-5be4-a0dc-6b872c887e64",
+        "slug": "vietnamese",
+        "name": "Vietnamese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 15,
+    "rest_time_minutes": 45,
+    "total_time_minutes": 90
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 thin flatbread with meat topping"
+  },
+  "allergens": {
+    "contains": [
+      "gluten"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "dfc2509e-bd8f-5e1a-a0c6-482e53340e51",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "fb414eb2-806b-5e9b-8fea-f5797325a336",
+          "ingredient_id": "2792320f-e680-5b9e-9e82-1ae536ce731e",
+          "name": "strong white bread flour",
+          "display_text": "500g Strong white bread flour",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "36c25397-01eb-5b2f-9334-6f95510a22c5",
+          "ingredient_id": "da9a55de-8f1e-5823-b1b3-70b619c07c3a",
+          "name": "fast action yeast",
+          "display_text": "10g Fast action yeast",
+          "quantity": 10.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "3e35e71d-20df-52e1-87e1-2295a4990a6e",
+          "ingredient_id": "94f73465-e9e4-5ae0-8787-ee86687dbeb4",
+          "name": "corn flour",
+          "display_text": "Sprinkling Corn Flour",
+          "quantity": 1,
+          "unit": "sprinkling",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "0effae4d-68f7-5824-a4e1-df9f5497e965",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "2 Tomato",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "47b46abe-552c-5642-8d69-b02cce61e772",
+          "ingredient_id": "091f7fa6-975c-516e-a354-2a31e6503580",
+          "name": "green chilli",
+          "display_text": "2 Green Chilli",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "a220ec09-b418-5d1e-87a4-72d3aefb94d7",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "4 Chopped Spring Onions",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "33fef5f4-2395-5f32-a648-92e81d5101f8",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Bunch Parsley",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "bunch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "59a824c0-1cda-5676-902d-bfea19e405cd",
+          "ingredient_id": "daceaafa-62e0-5268-ab7d-62934c564c72",
+          "name": "ground beef",
+          "display_text": "250g Ground Beef",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "5325946c-fd24-59f0-988a-577a84f135e9",
+          "ingredient_id": "25e62537-6a4e-5945-adda-37c29baeffdd",
+          "name": "chilli flakes",
+          "display_text": "2 tsp Chilli Flakes",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "81cac8cc-c6fa-5312-ae6e-967b25948932",
+          "ingredient_id": "efa5be6a-3bc3-55ca-812f-22dd145ba53d",
+          "name": "ground cumin",
+          "display_text": "Pinch Ground Cumin",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e11bf4fc-4517-5dd8-a88c-27adc4a9d334",
+          "ingredient_id": "38dedce7-9a7f-57ee-8e46-5162ab60eba8",
+          "name": "allspice",
+          "display_text": "1 tsp Allspice",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "445cfa7d-4b0c-553f-a056-407ff77c02a4",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tablespoons Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "4f6741e8-f2ac-5646-a4e4-43a544b17ffd",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "1/2 Lemon",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "510ee3a0-afc2-593b-bf6b-9de564175e37",
+          "ingredient_id": "716f7639-3b59-56a7-9146-1819649ebdad",
+          "name": "red onions",
+          "display_text": "1 Red Onions",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Sift the flour into a large bowl, make a well in the middle and sprinkle in the yeast. Pour 125ml water over the yeast, then flick flour over the liquid to create a layer. Cover and leave to rise in a warm place for 15 mins until cracks appear on the surface of that layer.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "36c25397-01eb-5b2f-9334-6f95510a22c5"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Use your hands to mix in 250ml more water along with 1 tsp salt and knead the dough for about 10 mins until elastic and no longer sticky. Add a little more flour if you need to. Cover and leave to rise again in a warm place for 30 mins until doubled in size."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Heat the oven to as high as it will go (about 240C/220C fan/gas 9) and sprinkle one or two baking trays thinly with cornmeal.",
+      "temperature": {
+        "value": 240,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 4,
+      "instruction": "Pour boiling water from the kettle over the tomatoes, leave to stand briefly, then drain and slip off the skins. Cut the tomatoes in half, cut out the stalks, scoop out the seeds and discard, then chop the flesh.",
+      "ingredients_used": [
+        "0effae4d-68f7-5824-a4e1-df9f5497e965"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Halve the chillies lengthways, cut out the stalks, seeds and white inner membrane, then rinse. Cut lengthwise into fine strips, then crosswise into fine dice.",
+      "ingredients_used": [
+        "47b46abe-552c-5642-8d69-b02cce61e772"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Put the tomatoes, chillies, spring onions, finely chopped parsley, beef mince, spices, 1 tsp salt and ½ tsp freshly ground black pepper into a bowl and mix well.",
+      "ingredients_used": [
+        "0effae4d-68f7-5824-a4e1-df9f5497e965",
+        "47b46abe-552c-5642-8d69-b02cce61e772",
+        "a220ec09-b418-5d1e-87a4-72d3aefb94d7",
+        "33fef5f4-2395-5f32-a648-92e81d5101f8",
+        "59a824c0-1cda-5676-902d-bfea19e405cd",
+        "510ee3a0-afc2-593b-bf6b-9de564175e37"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Take the dough and knead it briefly, then divide into four pieces and shape each into a ball. Roll each ball into a thin circle, place on the prepared baking trays. Spread with a thin layer of the meat mixture."
+    },
+    {
+      "step_number": 8,
+      "instruction": "Bake each flatbread for 10-15 mins until the edges begin to darken. After removing from the oven, sprinkle the lahmacun with the roughly chopped parsley and sliced onion, then squeeze over a few drops of lemon juice. Serve straightaway.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "33fef5f4-2395-5f32-a648-92e81d5101f8",
+        "4f6741e8-f2ac-5646-a4e4-43a544b17ffd"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/lahmacun"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

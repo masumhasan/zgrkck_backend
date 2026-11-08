@@ -1,0 +1,290 @@
+{
+  "id": "df5079b9-9079-5eb4-880f-89c022a16187",
+  "version": "1.0.0",
+  "title": "Chocolate Souffle",
+  "slug": "chocolate-souffle",
+  "summary": "A classic French dessert consisting of light, airy chocolate soufflés served with a warm, rich chocolate sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:47:55Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52905"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/twspvx1511784937.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/twspvx1511784937.jpg/small",
+      "alt_text": "Photo of Chocolate Souffle",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=FWqfkUEWOTg"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "fe8f07a1-591f-5711-ae5b-f3c9afcc3e60",
+        "slug": "french",
+        "name": "French"
+      }
+    ],
+    "tags": [
+      "chocolate",
+      "desert",
+      "dinnerparty",
+      "pudding"
+    ],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "advanced",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1 soufflé with chocolate sauce"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "eggs"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "2a9dcab6-cec2-539d-b77b-df565cf93259",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "f5f42e34-9e3f-5375-b0b6-4b1c045819cd",
+          "ingredient_id": "e4d9d1f3-3605-503d-a864-c9eb8d0c7996",
+          "name": "single cream",
+          "display_text": "142ml Single Cream",
+          "quantity": 142.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 142.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "097decb7-7d11-55e9-b4fe-c1c06fe03387",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "25g Caster Sugar",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "d193efb4-b10b-5083-9619-28e7d110f5eb",
+          "ingredient_id": "f553aca9-844a-5f4f-ba77-363733c03112",
+          "name": "dark chocolate",
+          "display_text": "100g Dark Chocolate",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "73f0c11b-b8c9-5cf7-8bd3-aff81837a491",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "25g Butter",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "f5cefe5d-312a-5822-ab27-7b24b0c32759",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "drizzle Butter",
+          "quantity": 1,
+          "unit": "drizzle",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "dfd0f181-6615-5b80-84f8-567460d6e0b2",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "50g Caster Sugar",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "205a6cfa-9a16-5831-8868-48c0df854c6c",
+          "ingredient_id": "f553aca9-844a-5f4f-ba77-363733c03112",
+          "name": "dark chocolate",
+          "display_text": "175g Dark Chocolate",
+          "quantity": 175.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 175.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "4eea56fc-52ff-5707-af77-7f8f173a5809",
+          "ingredient_id": "81b5723b-47de-5017-987f-cdcc95dd362b",
+          "name": "double cream",
+          "display_text": "2 tbs Double Cream",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "274d12eb-c7c9-58a3-b8c0-22a71e4d2830",
+          "ingredient_id": "051a3118-01a4-5366-a922-19ecf618e2f9",
+          "name": "egg yolks",
+          "display_text": "4 Egg Yolks",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "90412912-d857-521a-9b52-1dcfb3305e76",
+          "ingredient_id": "87c4a7ca-7b0e-5143-aea3-d01ad00e4108",
+          "name": "egg white",
+          "display_text": "5 Egg White",
+          "quantity": 5.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "18d711bf-2c67-5b21-aa3b-acb0bd52de33",
+          "ingredient_id": "81b5723b-47de-5017-987f-cdcc95dd362b",
+          "name": "double cream",
+          "display_text": "2 tbs Double Cream",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "2385d2b7-925d-5550-b43e-9fb8c201a059",
+          "ingredient_id": "c3b952d9-9879-569e-a989-b29a9b7ec664",
+          "name": "icing sugar",
+          "display_text": "to serve Icing Sugar",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 220C/fan 200C/gas 7 and place a baking tray on the top shelf. For the sauce, heat the cream and sugar until boiling. Remove from the heat, stir in the chocolate and butter until melted, then keep warm.",
+      "temperature": {
+        "value": 220,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "d193efb4-b10b-5083-9619-28e7d110f5eb",
+        "73f0c11b-b8c9-5cf7-8bd3-aff81837a491",
+        "f5cefe5d-312a-5822-ab27-7b24b0c32759",
+        "205a6cfa-9a16-5831-8868-48c0df854c6c"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Brush 6 x 150ml ramekins with melted butter, sprinkle with the 2 tbsp caster sugar, then tip out any excess. Melt the chocolate and cream in a bowl over a pan of simmering water, cool, then mix in the egg yolks. Whisk the egg whites until they hold their shape, then add the sugar, 1 tbsp at a time, whisking back to the same consistency. Mix a spoonful into the chocolate, then gently fold in the rest.",
+      "ingredients_used": [
+        "097decb7-7d11-55e9-b4fe-c1c06fe03387",
+        "d193efb4-b10b-5083-9619-28e7d110f5eb",
+        "73f0c11b-b8c9-5cf7-8bd3-aff81837a491",
+        "f5cefe5d-312a-5822-ab27-7b24b0c32759",
+        "dfd0f181-6615-5b80-84f8-567460d6e0b2",
+        "205a6cfa-9a16-5831-8868-48c0df854c6c",
+        "274d12eb-c7c9-58a3-b8c0-22a71e4d2830",
+        "90412912-d857-521a-9b52-1dcfb3305e76"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Working quickly, fill the ramekins, wipe the rims clean and run your thumb around the edges. Turn oven down to 200C/fan 180C/gas 6, place the ramekins onto the baking tray, then bake for 8-10 mins until risen with a slight wobble. Don’t open the oven door too early as this may make them collapse.",
+      "timer_seconds": 600,
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 4,
+      "instruction": "Once the soufflés are ready, dust with icing sugar, scoop a small hole from their tops, then pour in some of the hot chocolate sauce. Replace the lids and serve straight away.",
+      "ingredients_used": [
+        "d193efb4-b10b-5083-9619-28e7d110f5eb",
+        "205a6cfa-9a16-5831-8868-48c0df854c6c",
+        "2385d2b7-925d-5550-b43e-9fb8c201a059"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/5816/hot-chocolate-souffls-with-chocolate-cream-sauce"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

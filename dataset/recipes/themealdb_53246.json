@@ -1,0 +1,232 @@
+{
+  "id": "b250152f-a6d9-5cf8-a35e-cc75b57ce5a6",
+  "version": "1.0.0",
+  "title": "Tangy carrot, cabbage & onion salad",
+  "slug": "tangy-carrot-cabbage-onion-salad",
+  "summary": "A refreshing Vietnamese-style salad featuring shredded carrots, red cabbage, and red onions tossed in a tangy lime dressing with fresh herbs and roasted peanuts.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:17:16Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53246"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/dbazbg1763779999.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/dbazbg1763779999.jpg/small",
+      "alt_text": "Photo of Tangy carrot, cabbage & onion salad",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=-BJWMkJMIns"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "60481cf3-a7b7-5be4-a0dc-6b872c887e64",
+        "slug": "vietnamese",
+        "name": "Vietnamese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "courses": [
+      "side_dish",
+      "salad"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "summer_refreshment"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 15
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of salad"
+  },
+  "allergens": {
+    "contains": [
+      "peanuts"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "9f100ee4-46b5-5ccc-b836-178815809266",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "18091ba1-bc14-5211-af9a-79abb80d5cdb",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "4 sliced Carrots",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "22e25655-c928-5c50-8202-b9e98ce64169",
+          "ingredient_id": "93adfa8e-dfee-5a44-825f-075c81b606db",
+          "name": "red cabbage",
+          "display_text": "1/2 Red Cabbage",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "17dc85e1-4549-5fa7-a943-9c199e8a6cfc",
+          "ingredient_id": "716f7639-3b59-56a7-9146-1819649ebdad",
+          "name": "red onions",
+          "display_text": "2 sliced Red Onions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4aeae911-6c00-5837-b3af-2b1ccfc98587",
+          "ingredient_id": "0e838047-684d-55cb-884e-e7872e0e96c4",
+          "name": "mint",
+          "display_text": "Handful Mint",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e2e87cbc-1daf-5b79-a7ab-416196c478a3",
+          "ingredient_id": "01f7246f-a615-5952-a55f-5bf9985723ad",
+          "name": "coriander leaves",
+          "display_text": "Handful Coriander Leaves",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "2390b173-ef3e-5770-a366-ca01010c4a97",
+          "ingredient_id": "3c49c19f-5aa2-5a05-94e6-3752afe853a0",
+          "name": "roasted peanut",
+          "display_text": "Handful Roasted Peanut",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "7148298e-15f4-5853-a7bd-9426a5228b48",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "Juice of 2 Lime",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "46949bf9-1978-50f8-ae70-e35c26a857bb",
+          "ingredient_id": "91c1bd70-d7c7-5326-89ba-7c3530c157d5",
+          "name": "ground nut oil",
+          "display_text": "1 tablespoon Ground Nut Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "9c030dcc-86b5-5399-9183-a09ba47b6d6e",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "1 chopped Red Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "9ee6455d-a1c2-525b-9016-caf677f34f21",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "1 tablespoon Brown Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Tip the carrots, cabbage and onions into a bowl. Make the dressing by stirring the ingredients together until the sugar has dissolved.",
+      "ingredients_used": [
+        "18091ba1-bc14-5211-af9a-79abb80d5cdb",
+        "22e25655-c928-5c50-8202-b9e98ce64169",
+        "17dc85e1-4549-5fa7-a943-9c199e8a6cfc"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Pour over salad, tossing the vegetables in the dressing. Add the herbs, toss again, then scatter over the peanuts.",
+      "ingredients_used": [
+        "2390b173-ef3e-5770-a366-ca01010c4a97"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/tangy-carrot-red-cabbage-onion-salad"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

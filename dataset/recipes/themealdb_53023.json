@@ -1,0 +1,206 @@
+{
+  "id": "e9de6955-acf2-5f26-ab3b-77d897608da4",
+  "version": "1.0.0",
+  "title": "Sledz w Oleju (Polish Herrings)",
+  "slug": "sledz-w-oleju-polish-herrings",
+  "summary": "Polish-style herring preserved in oil with aromatic spices. This traditional appetizer involves soaking the fish to control saltiness before marinating it with onion and spices.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:57:48Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53023"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/7ttta31593350374.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/7ttta31593350374.jpg/small",
+      "alt_text": "Photo of Sledz w Oleju (Polish Herrings)",
+      "width": 639,
+      "height": 639
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=v6I3GZlBkOM"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d40b0607-0a3a-5f5d-8012-7eaf1b714fa5",
+        "slug": "polish",
+        "name": "Polish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "appetizer"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 0,
+    "marinating_time_minutes": 2880,
+    "total_time_minutes": 2895
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces",
+    "serving_size_description": "a portion of sliced herring"
+  },
+  "allergens": {
+    "contains": [
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "6b24710b-1b73-5d35-9d76-2d5f0cd8e128",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "ada05523-479d-538f-95cb-511498f6e232",
+          "ingredient_id": "fa655c19-ab88-50bd-8c90-9fb4cc23ce68",
+          "name": "herring",
+          "display_text": "8 Herring",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "fish"
+        },
+        {
+          "id": "8b1bc6c0-9a95-5546-beb6-115d20d82be5",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 sliced Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "294577f2-1e86-5471-8f35-e2185d2961f7",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1/2 cup Olive Oil",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "48beb219-c942-5454-8055-66ba2ad29792",
+          "ingredient_id": "38dedce7-9a7f-57ee-8e46-5162ab60eba8",
+          "name": "allspice",
+          "display_text": "1 tsp Allspice",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "7a965a79-a099-571d-9106-3eeb8d1210bb",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "1 tsp Pepper",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "2465cd06-641a-5a73-a8ef-a12178938a3b",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "1 Bay Leaf",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Soak herring in cold water for at least 1 hour. If very salty, repeat, changing the water each time.",
+      "timer_seconds": 3600,
+      "ingredients_used": [
+        "ada05523-479d-538f-95cb-511498f6e232"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Drain thoroughly and slice herring into bite-size pieces.",
+      "ingredients_used": [
+        "ada05523-479d-538f-95cb-511498f6e232"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Place in a jar large enough to accommodate the pieces and cover with oil, allspice, peppercorns, and bay leaf. Close the jar.",
+      "ingredients_used": [
+        "48beb219-c942-5454-8055-66ba2ad29792",
+        "2465cd06-641a-5a73-a8ef-a12178938a3b"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Refrigerate for 2 to 3 days before eating. This will keep refrigerated up to 2 weeks."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Serve with finely chopped onion or onion slices, lemon, and parsley or dill.",
+      "ingredients_used": [
+        "8b1bc6c0-9a95-5546-beb6-115d20d82be5"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.thespruceeats.com/polish-herrings-in-oil-recipe-1135618"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

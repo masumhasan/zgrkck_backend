@@ -1,0 +1,222 @@
+{
+  "id": "580cc2e8-0c08-50e3-8cac-0a25cdd7b5f8",
+  "version": "1.0.0",
+  "title": "Chinon Apple Tarts",
+  "slug": "chinon-apple-tarts",
+  "summary": "French-style apple tarts featuring caramelized pastry bases topped with thinly sliced apples and a red wine jelly glaze, served with cardamom-infused crème fraîche.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:48:20Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52910"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/qtqwwu1511792650.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/qtqwwu1511792650.jpg/small",
+      "alt_text": "Photo of Chinon Apple Tarts",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=5dAW9HQgtCk"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "fe8f07a1-591f-5711-ae5b-f3c9afcc3e60",
+        "slug": "french",
+        "name": "French"
+      }
+    ],
+    "tags": [
+      "baking",
+      "tart"
+    ],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "afternoon_snack",
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 25,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 55
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "befae518-7312-5bfa-8d65-b24efc474de3",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "99389bbe-c740-5c8f-bdf0-6b251218c2cf",
+          "ingredient_id": "a552ed18-91bb-59fa-a3c1-dad1308c6c3e",
+          "name": "puff pastry",
+          "display_text": "320g Puff Pastry",
+          "quantity": 320.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 320.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "4a094d91-9c20-5d6c-b210-aa2ec3a3194a",
+          "ingredient_id": "eeea6f2e-c44d-5cbc-84ad-c3d0dd87d6f3",
+          "name": "dark brown soft sugar",
+          "display_text": "4 tbs Dark Brown Soft Sugar",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "d04fd3fe-585e-5a28-abf5-89082ce179a9",
+          "ingredient_id": "8c09da59-a4dd-5a31-b3a3-f7bbf9218a17",
+          "name": "braeburn apples",
+          "display_text": "3 Braeburn Apples",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ba6cdff4-7bbc-5d6c-8596-3c07161d383e",
+          "ingredient_id": "ca584064-0765-5bb0-befb-745a00e7faf3",
+          "name": "red wine jelly",
+          "display_text": "4 tbs Red Wine Jelly",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "e70c84d2-497d-5a99-8d4c-4b2c123b3f7f",
+          "ingredient_id": "5a0201c7-6447-5098-baf7-57a2595f11ba",
+          "name": "creme fraiche",
+          "display_text": "100ml Creme Fraiche",
+          "quantity": 100.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "11eb5cff-1c78-5085-82d7-3313d75f83af",
+          "ingredient_id": "c3b952d9-9879-569e-a989-b29a9b7ec664",
+          "name": "icing sugar",
+          "display_text": "1 tbs Icing Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "e0a00354-75d8-5be7-b513-5769afab40ce",
+          "ingredient_id": "d72c12ae-5cbc-534c-bbd5-bc044d844d0a",
+          "name": "cardamom",
+          "display_text": "3 Cardamom",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "To make the red wine jelly, put the red wine, jam sugar, star anise, clove, cinnamon stick, allspice, split vanilla pod and seeds in a medium saucepan. Stir together, then heat gently to dissolve the sugar. Turn up the heat and boil for 20 mins until reduced and syrupy. Strain into a small, sterilized jam jar and leave to cool completely. Will keep in the fridge for up to 1 month.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "ba6cdff4-7bbc-5d6c-8596-3c07161d383e"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Take the pastry out of the fridge and leave at room temperature for 10 mins, then unroll. Heat the grill to high and heat the oven to 180C/160C fan/gas 4. Cut out 2 x 13cm circles of pastry, using a plate as a guide, and place on a non-stick baking sheet. Sprinkle each circle with 1 tbsp sugar and grill for 5 mins to caramelize, watching carefully so that the sugar doesn’t burn. Remove from the grill. Can be done a few hours ahead, and left, covered, out of the fridge.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "99389bbe-c740-5c8f-bdf0-6b251218c2cf"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Peel, quarter and core the apples, cut into 2mm-thin slices and arrange on top of the pastry. Sprinkle over the remaining sugar and pop in the oven for 20-25 mins until the pastry is cooked through and golden, and the apples are softened. Remove and allow to cool slightly. Warm 3 tbsp of the red wine jelly in a small pan over a low heat with 1 tsp water to make it a little more runny, then brush over the top of the tarts.",
+      "timer_seconds": 1500,
+      "ingredients_used": [
+        "99389bbe-c740-5c8f-bdf0-6b251218c2cf",
+        "d04fd3fe-585e-5a28-abf5-89082ce179a9",
+        "ba6cdff4-7bbc-5d6c-8596-3c07161d383e"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Tip the crème fraîche into a bowl, sift over the icing sugar and cardamom, and mix together. Carefully lift the warm tarts onto serving plates and serve with the cardamom crème fraîche.",
+      "ingredients_used": [
+        "11eb5cff-1c78-5085-82d7-3313d75f83af",
+        "e0a00354-75d8-5be7-b513-5769afab40ce"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/chinon-apple-tarts"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

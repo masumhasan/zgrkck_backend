@@ -1,0 +1,258 @@
+{
+  "id": "18dd81e5-08be-5d10-b1b3-9c4da3f3a5f6",
+  "version": "1.0.0",
+  "title": "Dutch Apple Pie",
+  "slug": "dutch-apple-pie",
+  "summary": "A traditional Dutch dessert consisting of a buttery pastry crust filled with spiced apples and raisins, topped with a lattice of dough strips.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:29:38Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53386"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/zy4fs51777540384.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/zy4fs51777540384.jpg/small",
+      "alt_text": "Photo of Dutch Apple Pie",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=MgI-_e4R53Y"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "74c070cf-0c42-573b-9e5c-54db497f25a3",
+        "slug": "dutch",
+        "name": "Dutch"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 60,
+    "rest_time_minutes": 30,
+    "total_time_minutes": 120
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 slice of pie"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "46a6cde7-2cc2-5855-b79f-18e1633a7ee1",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "1786a9fe-979d-522e-8b64-cde47061ebb2",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "175g Butter",
+          "quantity": 175.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 175.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "5112102f-76d3-5399-b332-f2536c0723ef",
+          "ingredient_id": "051a3118-01a4-5366-a922-19ecf618e2f9",
+          "name": "egg yolks",
+          "display_text": "2 Egg Yolks",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "fbb767d2-ea50-54c8-9068-c38ced073a45",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "300g Flour",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "ca6ea591-80bd-542f-ab83-e14cff80fc80",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "200g Sugar",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "c8d370d7-d4d0-568e-82a6-8c49cc895da3",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "dc3df9a0-ca8c-554e-910f-7712d9dfa9fb",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "1 Cinnamon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "886a64d9-54fe-58b3-8432-6698389f6d80",
+          "ingredient_id": "8d52ad34-1aea-57a9-8e92-aabab5116059",
+          "name": "raisins",
+          "display_text": "100g Raisins",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "054045d0-fb89-5f3e-a66d-22fa1968a4aa",
+          "ingredient_id": "6a1dceb6-71ee-57ce-baf5-40c7434f83c8",
+          "name": "apples",
+          "display_text": "6 Apples",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "21cd6183-3a4f-599d-aa3e-304b267fb779",
+          "ingredient_id": "e930e741-687b-5138-af0d-dad1cdfcffbe",
+          "name": "cold water",
+          "display_text": "1 tablespoon Cold Water",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Add the flour, 150 gr of the sugar, pinch of salt and 1 egg yolk in the bowl of a food processor. Cut the butter into small cubes and add to the bowl. Turn this into a firm dough. Don't over process, you do not want the dough to turn warm. Check if it sticks by pinching it between your fingers.",
+      "ingredients_used": [
+        "1786a9fe-979d-522e-8b64-cde47061ebb2",
+        "fbb767d2-ea50-54c8-9068-c38ced073a45",
+        "ca6ea591-80bd-542f-ab83-e14cff80fc80",
+        "c8d370d7-d4d0-568e-82a6-8c49cc895da3"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Turn out onto a piece of plastic wrap. Make a round ball of it by using your hands and roll it into the plastic. Place into the fridge for half an hour to cool."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Take a round baking tin of 22 cm diameter and cover this with baking paper. Brush the sides with butter.",
+      "ingredients_used": [
+        "1786a9fe-979d-522e-8b64-cde47061ebb2"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Preheat the oven to 170˚C (340˚F)"
+    },
+    {
+      "step_number": 5,
+      "instruction": "Cut the apple into cubes and mix this with the raisins, the left over sugar and the cinnamon.",
+      "ingredients_used": [
+        "ca6ea591-80bd-542f-ab83-e14cff80fc80",
+        "dc3df9a0-ca8c-554e-910f-7712d9dfa9fb",
+        "886a64d9-54fe-58b3-8432-6698389f6d80"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Place the cooled dough on a flat surface sprinkled with flour and roll out into a thin sheet. Place this into the baking tin and cover the bottom and the sides well. I usually just press it into the tin without rolling it out. I find that the easiest way but it is less smooth. Just do whatever works for you.",
+      "ingredients_used": [
+        "fbb767d2-ea50-54c8-9068-c38ced073a45"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Make sure you keep 1/4 of the dough separate to form the strips on the top."
+    },
+    {
+      "step_number": 8,
+      "instruction": "Once the bottom and sides are covered with the dough, take the rusks and crumble them over the bottom. You can use breadcrumbs for this as well. Shake it a bit so it is divided equally across the bottom."
+    },
+    {
+      "step_number": 9,
+      "instruction": "Add the apple mixture and divide well over the tin. Rol out the rest of the dough and cut into strips. Place that over the top of the pie in a diamond shaped pattern. Brush the strokes and sides with the other egg yolk and place in the preaheated oven."
+    },
+    {
+      "step_number": 10,
+      "instruction": "Bake the apple pie for about 1 hour or until golden and cooked through. Leave to cool in the tin and make sure the sides are loose before opening the tin.",
+      "timer_seconds": 3600
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://insimoneskitchen.com/the-best-ever-apple-pie-recipe/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "id": "bcde6997-53ab-53b0-ba32-bcf81e6b52cb",
+  "version": "1.0.0",
+  "title": "Nordic smørrebrød with asparagus and horseradish cream",
+  "slug": "nordic-smrrebrd-with-asparagus-and-horseradish-cream",
+  "summary": "A Norwegian-style open sandwich featuring a combination of blanched and raw asparagus served on grilled rye bread with horseradish cream and crispy shallots.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:05:47Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53117"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/8a8fu01762772651.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/8a8fu01762772651.jpg/small",
+      "alt_text": "Photo of Nordic smørrebrød with asparagus and horseradish cream",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "56e78dbc-276d-5104-bca5-2bb213b93a49",
+        "slug": "norwegian",
+        "name": "Norwegian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "brunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 slice of rye bread with asparagus and cream"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "d2c61947-7d44-5d84-b49d-f42684655421",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "877241ea-aaf9-525b-a57e-2548d8bb6790",
+          "ingredient_id": "5a0201c7-6447-5098-baf7-57a2595f11ba",
+          "name": "creme fraiche",
+          "display_text": "150ml Creme Fraiche",
+          "quantity": 150.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "19b60225-b99f-5d93-a29e-79e26a1d1c7d",
+          "ingredient_id": "98ed021c-cb84-56c2-a367-98ab900b94e3",
+          "name": "horseradish",
+          "display_text": "2 tblsp Horseradish",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "c2889fbb-d9cc-5cd8-92df-642ba77bd17b",
+          "ingredient_id": "4020879e-a0a5-58e2-b093-33c7e85c8a08",
+          "name": "lemon juice",
+          "display_text": "1 teaspoon Lemon Juice",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "f4f15e6a-26f9-5c70-a674-0f29094cd283",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "ed8f0a97-7ba2-5a8e-9891-2a7f701440d3",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "Pinch Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d42628d5-46dc-5262-bf83-1f2db7147559",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "Dash Vegetable Oil",
+          "quantity": 1,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "75f7adf4-fbf4-505c-8d9b-37b63fb8e772",
+          "ingredient_id": "d22accc4-e562-59bf-9cbb-1ad38d461e99",
+          "name": "shallots",
+          "display_text": "2 Shallots",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0f42d7e1-4345-5ba7-962c-017db1957585",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "7ed1aca7-e852-5ba2-a054-6b447c429d91",
+          "ingredient_id": "adb266e4-253f-5bc0-95ce-c4966e96e470",
+          "name": "white asparagus",
+          "display_text": "8 White Asparagus",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "73d46235-58a0-5d0a-a000-494d6c11a7c4",
+          "ingredient_id": "faad91f4-0f3a-5f4d-9327-7556f61b431c",
+          "name": "asparagus",
+          "display_text": "8 Asparagus",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "a5b1dd1d-5a3c-5329-8f86-4a26480a64a8",
+          "ingredient_id": "3d79fabd-7fe0-5b24-b087-9ec7fd95037d",
+          "name": "rye bread",
+          "display_text": "4 slices Rye Bread",
+          "quantity": 4.0,
+          "unit": "slice",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "eb631f11-a09f-54db-a05b-49c14ec5328e",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "1 tblsp Butter",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "449bfc4e-6cff-54bc-b971-80f2a57146e6",
+          "ingredient_id": "b20797c6-2149-52ff-a887-573daa3717e3",
+          "name": "västerbottensost cheese",
+          "display_text": "100g västerbottensost cheese",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "87aff5ca-24ac-55f9-b78e-3d5d53471645",
+          "ingredient_id": "c20ef13e-7f52-5fce-847f-34f123e6392e",
+          "name": "dill",
+          "display_text": "Sprinking Dill",
+          "quantity": 1,
+          "unit": "sprinkling",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3a1b246c-4a63-52b6-9da9-c69c56274b79",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "4f9d5968-0ca7-5a78-ae65-55d3aabe2ae8",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "Pinch Black Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "To make the horseradish cream, mix the crème fraîche, grated horseradish, lemon juice, salt and white pepper in a bowl. Refrigerate until serving.",
+      "ingredients_used": [
+        "19b60225-b99f-5d93-a29e-79e26a1d1c7d",
+        "c2889fbb-d9cc-5cd8-92df-642ba77bd17b",
+        "f4f15e6a-26f9-5c70-a674-0f29094cd283",
+        "ed8f0a97-7ba2-5a8e-9891-2a7f701440d3",
+        "0f42d7e1-4345-5ba7-962c-017db1957585",
+        "3a1b246c-4a63-52b6-9da9-c69c56274b79"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "To make the crispy shallots, heat some vegetable oil in a frying pan over a medium heat. Add the sliced shallots and fry until golden brown and crispy.",
+      "ingredients_used": [
+        "d42628d5-46dc-5262-bf83-1f2db7147559",
+        "75f7adf4-fbf4-505c-8d9b-37b63fb8e772"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Remove with a slotted spoon and drain on a plate lined with kitchen paper. Season with a pinch of salt.",
+      "ingredients_used": [
+        "f4f15e6a-26f9-5c70-a674-0f29094cd283",
+        "0f42d7e1-4345-5ba7-962c-017db1957585",
+        "3a1b246c-4a63-52b6-9da9-c69c56274b79"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "To make the open sandwich, bring a large saucepan of salted water to the boil, then blanch half of the asparagus (four white and four green) until tender-crisp, about 2–3 minutes.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "f4f15e6a-26f9-5c70-a674-0f29094cd283",
+        "0f42d7e1-4345-5ba7-962c-017db1957585",
+        "7ed1aca7-e852-5ba2-a054-6b447c429d91",
+        "73d46235-58a0-5d0a-a000-494d6c11a7c4",
+        "3a1b246c-4a63-52b6-9da9-c69c56274b79"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Add ice to a bowl of cold water. Use a slotted spoon to remove the asparagus from the boiling water and immediately transfer to the iced water to stop cooking. Thinly slice the remaining asparagus lengthwise to serve raw.",
+      "ingredients_used": [
+        "7ed1aca7-e852-5ba2-a054-6b447c429d91",
+        "73d46235-58a0-5d0a-a000-494d6c11a7c4"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Pre-heat the grill until hot. Spread the rye bread with butter and grill until golden and crisp.",
+      "ingredients_used": [
+        "a5b1dd1d-5a3c-5329-8f86-4a26480a64a8",
+        "eb631f11-a09f-54db-a05b-49c14ec5328e"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "To serve, place the grilled bread slices on serving plates. Arrange both the blanched and raw asparagus on the bread. Drizzle with horseradish cream, then sprinkle grated cheese over the top. Garnish with the crispy shallots and some fresh dill to finish.",
+      "ingredients_used": [
+        "19b60225-b99f-5d93-a29e-79e26a1d1c7d",
+        "75f7adf4-fbf4-505c-8d9b-37b63fb8e772",
+        "7ed1aca7-e852-5ba2-a054-6b447c429d91",
+        "73d46235-58a0-5d0a-a000-494d6c11a7c4",
+        "a5b1dd1d-5a3c-5329-8f86-4a26480a64a8",
+        "87aff5ca-24ac-55f9-b78e-3d5d53471645"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbc.co.uk/food/recipes/nordic_smorrebrod_69435"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

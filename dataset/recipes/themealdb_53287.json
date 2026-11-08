@@ -1,0 +1,350 @@
+{
+  "id": "fbb637ac-dc53-5481-b5b5-18d50325b1ec",
+  "version": "1.0.0",
+  "title": "Tajine de Poulet aux Carottes et Patates Douces (Chicken and Sweet Potato Tagine)",
+  "slug": "tajine-de-poulet-aux-carottes-et-patates-douces-chicken-and-sweet-potato-tagine",
+  "summary": "An Algerian-style chicken tagine simmered with aromatic spices, carrots, and sweet potatoes, finished with sweet raisins and prunes.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:20:59Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53287"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/d8bfyg1764117503.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/d8bfyg1764117503.jpg/small",
+      "alt_text": "Photo of Tajine de Poulet aux Carottes et Patates Douces (Chicken and Sweet Potato Tagine)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=thf-JDXoTVg"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "44067efa-6d33-5eeb-9836-eb49ba7b3e31",
+        "slug": "algerian",
+        "name": "Algerian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 90,
+    "total_time_minutes": 110
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 chicken thigh with vegetables"
+  },
+  "allergens": {
+    "contains": [
+      "celery",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "1fe8ae4f-6e68-588e-aaf5-80641d9724ee",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "483c4461-f9a4-526f-ad2c-fff0a55cb25f",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "2 sliced Onion",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "916532d8-433d-5641-9b18-8cc839c65920",
+          "ingredient_id": "ed4951b3-26e6-5bb4-a5af-9c61a46687a0",
+          "name": "celery",
+          "display_text": "2 sliced Celery",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b3c36fea-71ec-536c-9030-09af592eb79d",
+          "ingredient_id": "1655ccbe-97a7-59b3-9245-ebc95a0ed6d0",
+          "name": "cilantro",
+          "display_text": "1/2 bag Cilantro",
+          "quantity": 0.5,
+          "unit": "bag",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "81ecdd9d-9b83-5a75-9ecf-64d8cc1556ec",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "1/2 bag Parsley",
+          "quantity": 0.5,
+          "unit": "bag",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "c157bb3c-282e-59ed-afe4-8ee843603182",
+          "ingredient_id": "ab4d5e50-1105-53e2-be29-49b042b3d7fb",
+          "name": "turmeric",
+          "display_text": "1/2 tsp Turmeric",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "85607c4d-c178-5374-8de7-0dc0036e7867",
+          "ingredient_id": "efa5be6a-3bc3-55ca-812f-22dd145ba53d",
+          "name": "ground cumin",
+          "display_text": "1/2 tsp Ground Cumin",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d2813e6f-ffa6-545b-9c36-70cb86536db9",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1/2 teaspoon Paprika",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "de0b7c62-067a-599c-9454-9bc16c81df48",
+          "ingredient_id": "9c72d0cf-8d9c-53f6-b4c6-5631779ba66b",
+          "name": "ground ginger",
+          "display_text": "1/4 tsp Ground Ginger",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "00d1c9a5-597b-54f3-9abc-c78fb71c9aff",
+          "ingredient_id": "97dd86b9-4ad7-5a3a-bc6c-86485409c325",
+          "name": "cayenne pepper",
+          "display_text": "1/4 tsp Cayenne Pepper",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "8cd035dc-6a9b-5df0-86d3-9c0fff17f59d",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "826d90e2-21c6-5c58-a854-fbb557abd9dc",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "To taste Black Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "ebf31596-79d7-57a8-9872-7c5ecc1b71c3",
+          "ingredient_id": "e0e4d032-0f9f-5908-ab90-db9a8ec5b68c",
+          "name": "chicken thighs",
+          "display_text": "4 Chicken Thighs",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "e055177a-9958-5b2d-86ee-05db115bb37e",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "Drizzle Olive Oil",
+          "quantity": 1,
+          "unit": "drizzle",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "660675b6-56bb-5b4d-930b-881ffa36d8b4",
+          "ingredient_id": "8d52ad34-1aea-57a9-8e92-aabab5116059",
+          "name": "raisins",
+          "display_text": "1/4 cup Raisins",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "77631614-4350-58f8-8db9-a32d06fc989c",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "1 cup Chicken Stock",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "67c5b5d3-32a2-5cea-8586-079f4072aaae",
+          "ingredient_id": "47da68fd-6de3-548e-856a-a2034af5866f",
+          "name": "sweet potatoes",
+          "display_text": "1 large Sweet Potatoes",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c9470e51-9d3c-5cae-b662-0ae4fad95b73",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "3 sliced thinly Carrots",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "sliced thinly",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "cd7f393f-d7d6-5ace-b736-9ad625c4dc3e",
+          "ingredient_id": "b3be8731-39ee-5597-a958-e79b3c474682",
+          "name": "prunes",
+          "display_text": "1/4 cup Prunes",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Combine onions, celery, cilantro, and parsley in a large pot. Stir in turmeric, cumin, paprika, ginger, cayenne pepper, salt, and pepper. Place chicken thighs on top. Drizzle olive oil over chicken. Cover and simmer over low heat until chicken is tender, about 40 minutes.",
+      "timer_seconds": 2400,
+      "ingredients_used": [
+        "483c4461-f9a4-526f-ad2c-fff0a55cb25f",
+        "916532d8-433d-5641-9b18-8cc839c65920",
+        "b3c36fea-71ec-536c-9030-09af592eb79d",
+        "81ecdd9d-9b83-5a75-9ecf-64d8cc1556ec",
+        "c157bb3c-282e-59ed-afe4-8ee843603182",
+        "85607c4d-c178-5374-8de7-0dc0036e7867",
+        "d2813e6f-ffa6-545b-9c36-70cb86536db9",
+        "de0b7c62-067a-599c-9454-9bc16c81df48",
+        "00d1c9a5-597b-54f3-9abc-c78fb71c9aff",
+        "8cd035dc-6a9b-5df0-86d3-9c0fff17f59d",
+        "ebf31596-79d7-57a8-9872-7c5ecc1b71c3",
+        "e055177a-9958-5b2d-86ee-05db115bb37e"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Place raisins in a small bowl and cover with hot water; let soak for 10 minutes. Drain.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "660675b6-56bb-5b4d-930b-881ffa36d8b4"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Preheat oven to 400 degrees F (200 degrees C).",
+      "temperature": {
+        "value": 400,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 4,
+      "instruction": "Transfer chicken mixture into an oven-safe tagine or casserole dish. Add sweet potato and carrots. Cover with lid or aluminum foil.",
+      "ingredients_used": [
+        "c9470e51-9d3c-5cae-b662-0ae4fad95b73"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Bake in the preheated oven until sweet potato is soft, about 40 minutes. Add drained raisins and prunes. Continue baking, covered, until raisins and prunes are heated through, about 10 minutes.",
+      "ingredients_used": [
+        "660675b6-56bb-5b4d-930b-881ffa36d8b4",
+        "cd7f393f-d7d6-5ace-b736-9ad625c4dc3e"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.allrecipes.com/recipe/258873/tajine-de-poulet-aux-carottes-et-patates-douces-chicken-and-sweet-potato-tagine/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

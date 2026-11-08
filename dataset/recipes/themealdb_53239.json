@@ -1,0 +1,216 @@
+{
+  "id": "97539d6b-4faa-5ffc-aea4-eed0eec38850",
+  "version": "1.0.0",
+  "title": "Bang bang prawn salad",
+  "slug": "bang-bang-prawn-salad",
+  "summary": "A refreshing Vietnamese-style salad featuring rice noodles, prawns, and crunchy vegetables tossed in a creamy peanut and coconut sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:16:39Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53239"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/4xcfai1763765676.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/4xcfai1763765676.jpg/small",
+      "alt_text": "Photo of Bang bang prawn salad",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Na-6-lzs2wU"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "60481cf3-a7b7-5be4-a0dc-6b872c887e64",
+        "slug": "vietnamese",
+        "name": "Vietnamese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 25
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "a bowl of noodles, prawns and vegetables"
+  },
+  "allergens": {
+    "contains": [
+      "peanuts",
+      "fish",
+      "shellfish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "25c2b0a9-f79c-568d-bd5f-f4b66a8f1e3e",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "a9eeece8-f95c-597d-b492-606eff10a299",
+          "ingredient_id": "26534aa9-d664-5446-96c6-a499ce56a3fe",
+          "name": "rice noodles",
+          "display_text": "140g Rice Noodles",
+          "quantity": 140.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 140.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "82304dee-64c1-593d-a059-5f2dba18d09f",
+          "ingredient_id": "7d1aec85-0aaa-5080-9fc7-4d5396f799f9",
+          "name": "peanut butter",
+          "display_text": "3 tablespoons Peanut Butter",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "62c8b05d-d754-513f-bb1c-2887de3d01ce",
+          "ingredient_id": "0435e55e-84f6-566c-ac81-37617bbab91c",
+          "name": "coconut milk",
+          "display_text": "4 tablespoons Coconut Milk",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "8ca91c4a-281f-55d7-ba10-60342d7c0e47",
+          "ingredient_id": "971d8347-9290-5103-a357-dc6438aa5ef3",
+          "name": "sweet chilli sauce",
+          "display_text": "3  tablespoons sweet chilli sauce",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "42739f9e-005b-5dd5-9f64-71719fb5aa95",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "3 sliced thinly Spring Onions",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "sliced thinly",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f335117d-604f-5d0f-ad59-5e659956fe13",
+          "ingredient_id": "8f9e104a-822f-5bda-b376-eee34fc38609",
+          "name": "cucumber",
+          "display_text": "1 sliced Cucumber",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ccf7bc9c-8c01-5b5c-a61b-692f3be1bb97",
+          "ingredient_id": "2ac15386-42dc-5765-807a-4b4cf4edfcba",
+          "name": "bean sprouts",
+          "display_text": "300g Bean Sprouts",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "ccece179-4e86-5147-a0ae-0cc4d80a3dc6",
+          "ingredient_id": "d2faf7d8-97cd-57b2-9aee-58261714f9d5",
+          "name": "prawns",
+          "display_text": "200g Prawns",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "seafood"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Cook the noodles following pack instructions, then rinse under cold water and drain thoroughly. In a small saucepan melt together the peanut butter, coconut milk, sweet chilli sauce and half the spring onions, adding 1-2 tbsp of water to loosen the mixture to a drizzling consistency.",
+      "ingredients_used": [
+        "a9eeece8-f95c-597d-b492-606eff10a299",
+        "82304dee-64c1-593d-a059-5f2dba18d09f",
+        "62c8b05d-d754-513f-bb1c-2887de3d01ce",
+        "8ca91c4a-281f-55d7-ba10-60342d7c0e47",
+        "42739f9e-005b-5dd5-9f64-71719fb5aa95"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Mix the noodles, cucumber and beansprouts in a serving dish. Top with the prawns, drizzle over the peanut sauce and scatter over the remaining spring onions.",
+      "ingredients_used": [
+        "a9eeece8-f95c-597d-b492-606eff10a299",
+        "42739f9e-005b-5dd5-9f64-71719fb5aa95",
+        "f335117d-604f-5d0f-ad59-5e659956fe13",
+        "ccece179-4e86-5147-a0ae-0cc4d80a3dc6"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/bang-bang-prawn-salad"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

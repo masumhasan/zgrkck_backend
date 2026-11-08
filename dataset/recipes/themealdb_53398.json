@@ -1,0 +1,260 @@
+{
+  "id": "e1828905-517a-5ef5-9db7-a792dc49416c",
+  "version": "1.0.0",
+  "title": "Kadu Borani",
+  "slug": "kadu-borani",
+  "summary": "A traditional Afghan dish consisting of fried squash layered with sautéed onions, garlic, and turmeric, topped with a creamy yogurt sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:30:40Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53398"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/walmi81779552709.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/walmi81779552709.jpg/small",
+      "alt_text": "Photo of Kadu Borani",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/shorts/DQmh54vl4LE"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "e686c554-2e81-511f-b656-15ef0dcb3943",
+        "slug": "afghan",
+        "name": "Afghan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 45
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of squash with yogurt"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "10c8a70d-e9c9-550a-b7d6-bda7b9d22bcd",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "72eebe7c-e943-5b63-9f9a-db3fb108ec92",
+          "ingredient_id": "79c59e5a-3279-54a0-905b-352cf130c268",
+          "name": "squash",
+          "display_text": "1 medium Squash",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "a0ba18db-32e4-54da-8053-a5d601ae03b7",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "5 chopped Onion",
+          "quantity": 5.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "986a3843-52cf-52a9-b1de-4d4d7a9dee8b",
+          "ingredient_id": "091f7fa6-975c-516e-a354-2a31e6503580",
+          "name": "green chilli",
+          "display_text": "To taste Green Chilli",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d087b86e-9d60-5073-994f-c2e41355b818",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "Splash Oil",
+          "quantity": 1,
+          "unit": "splash",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "f7596b62-bfc4-5b6f-8295-b493421bb72c",
+          "ingredient_id": "ab4d5e50-1105-53e2-be29-49b042b3d7fb",
+          "name": "turmeric",
+          "display_text": "1 tsp Turmeric",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "43b1744f-fc8f-5a33-9182-03635de1baf3",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 Bulb Garlic",
+          "quantity": 1.0,
+          "unit": "bulb",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "8a899dcd-397f-5d03-89f8-6a5e74cf854f",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "7 tablespoons Sugar",
+          "quantity": 7.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 105.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "f0f02213-834b-5327-bfaf-eeb2f4f0d71a",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/2 tsp Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "2f5a49c5-7067-5d6a-a5b7-01ece34cca74",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "2 cups Water",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "9da57f28-6b57-5c99-92b9-69110adde3e4",
+          "ingredient_id": "c2dfe217-47d5-5561-8ce3-2d7cb17fc75b",
+          "name": "yogurt",
+          "display_text": "4 tablespoons Yogurt",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Peel the squash and cut it into pieces 1cm wide. Deep fry it in oil until golden and set aside.",
+      "ingredients_used": [
+        "72eebe7c-e943-5b63-9f9a-db3fb108ec92",
+        "d087b86e-9d60-5073-994f-c2e41355b818"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Using the same pan and oil, deep fry the onions until golden. Remove the onions and grind with the garlic (if using garlic paste, mix it into the onions once ground).",
+      "ingredients_used": [
+        "a0ba18db-32e4-54da-8053-a5d601ae03b7",
+        "d087b86e-9d60-5073-994f-c2e41355b818",
+        "43b1744f-fc8f-5a33-9182-03635de1baf3"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add a small amount of oil to a pan on medium heat. Once hot, add the turmeric. Mix the salt into one cup of water and add it to the turmeric. Add a layer of squash, then a layer of onion and garlic. Repeat this step until the squash, onion and garlic have been used up.",
+      "ingredients_used": [
+        "72eebe7c-e943-5b63-9f9a-db3fb108ec92",
+        "a0ba18db-32e4-54da-8053-a5d601ae03b7",
+        "d087b86e-9d60-5073-994f-c2e41355b818",
+        "f7596b62-bfc4-5b6f-8295-b493421bb72c",
+        "43b1744f-fc8f-5a33-9182-03635de1baf3",
+        "f0f02213-834b-5327-bfaf-eeb2f4f0d71a",
+        "2f5a49c5-7067-5d6a-a5b7-01ece34cca74"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add the sugar and one cup of water. Turn the heat down and cook until the water has reduced.",
+      "ingredients_used": [
+        "8a899dcd-397f-5d03-89f8-6a5e74cf854f",
+        "2f5a49c5-7067-5d6a-a5b7-01ece34cca74"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Add 1-2 tablespoons of melted curd to a plate, add the squash on top with another layer of melted curd. At last, add some green chilli and serve!",
+      "ingredients_used": [
+        "72eebe7c-e943-5b63-9f9a-db3fb108ec92",
+        "986a3843-52cf-52a9-b1de-4d4d7a9dee8b"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.afghanaid.org.uk/kadu-borani-recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

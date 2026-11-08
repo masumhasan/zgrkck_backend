@@ -1,0 +1,292 @@
+{
+  "id": "ea6c3bc2-17b3-54b1-8f50-c12d1fa91021",
+  "version": "1.0.0",
+  "title": "Traditional Croatian Goulash",
+  "slug": "traditional-croatian-goulash",
+  "summary": "A traditional Croatian beef stew simmered with onions, carrots, garlic, and red wine. This hearty dish is typically served with fresh bread.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:00:50Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53057"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/n1hcou1628770088.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/n1hcou1628770088.jpg/small",
+      "alt_text": "Photo of Traditional Croatian Goulash",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ipEz5u2T7KM"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b5d05ee7-9bce-5691-809b-0e253d6b7ed2",
+        "slug": "croatian",
+        "name": "Croatian"
+      }
+    ],
+    "tags": [
+      "soup"
+    ],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 130,
+    "marinating_time_minutes": 60,
+    "total_time_minutes": 210
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "a bowl of stew with bread"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "mustard",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "d21aa5a5-1c94-59d5-ad4a-fd65648e7382",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "4b5769a8-c0e7-59f4-bf74-ab6e23b0ea04",
+          "ingredient_id": "c2102b4e-a5b4-5bab-b7d5-bdfa5244ae7b",
+          "name": "beef",
+          "display_text": "500g Beef",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "960be93d-1a2a-5ed7-a356-de96490dd339",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onions",
+          "display_text": "2 chopped Onions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2445575e-9cbb-5fa4-ab2d-08201fa29795",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "2 chopped Carrots",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f46580ae-4201-54a4-8f87-40f3bce8fb85",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "8c607813-10a9-5f38-8462-a196d44f3e17",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "2 Bay Leaf",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e4edbaa5-318b-55c2-97c4-585f3a1670c8",
+          "ingredient_id": "0b364d55-0a30-54fb-b1d4-422f720404e3",
+          "name": "red wine",
+          "display_text": "200ml Red Wine",
+          "quantity": 200.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "9ac934d3-6d61-5612-bc4c-3a1fab896a4c",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "2 Liters Water",
+          "quantity": 2.0,
+          "unit": "liter",
+          "is_optional": false,
+          "metric_quantity": 2.0,
+          "metric_unit": "liter",
+          "category": "beverages"
+        },
+        {
+          "id": "ab3ddae4-4252-53dd-bc53-15d8ea95baaa",
+          "ingredient_id": "b9e3afdc-e194-5f5e-bbae-5c3659d35a67",
+          "name": "mustard",
+          "display_text": "3 tbs Mustard",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "fc0b1254-1235-5623-a95a-89b6e0ff3697",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1tbsp Salt",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "2ea7be97-8f90-5e0a-8104-bca7afc37759",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "1/2 tsp Pepper",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "b9a14c17-8c11-54b3-93c6-95c22fa08f3d",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1/2 tsp Paprika",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1dacf114-8fcd-58a7-b105-8f9730c088d3",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "2 tbs Vegetable Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Clean the meat from the veins if there are some and cut it into smaller pieces, 3 × 3 cm. Marinate the meat in the mustard and spices and let it sit in the refrigerator for one hour",
+      "ingredients_used": [
+        "ab3ddae4-4252-53dd-bc53-15d8ea95baaa"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat one tablespoon of pork fat or vegetable oil in a pot and fry the meat on all sides until it gets browned. Once the meat is cooked, transfer it to a plate and add another tablespoon of fat to the pot",
+      "ingredients_used": [
+        "1dacf114-8fcd-58a7-b105-8f9730c088d3"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Cut the onions very fine, peel the carrots and shred it using a grater. Cook the onions and carrots over low heat for 15 minutes. You can salt the vegetables a little to make them soften faster",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "960be93d-1a2a-5ed7-a356-de96490dd339",
+        "2445575e-9cbb-5fa4-ab2d-08201fa29795",
+        "fc0b1254-1235-5623-a95a-89b6e0ff3697"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Once the vegetables have browned and become slightly mushy, add the meat and bay leaves and garlic. Pour over with wine and simmer for 10-15 minutes to allow the alcohol to evaporate. Now is the right time to add 2/3 the amount of liquid",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "f46580ae-4201-54a4-8f87-40f3bce8fb85",
+        "e4edbaa5-318b-55c2-97c4-585f3a1670c8"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Cover the pot and cook over low heat for an hour, stirring occasionally. After the first hour, pour over the rest of the water or stock and cook for another 30-45 minutes",
+      "timer_seconds": 2700,
+      "ingredients_used": [
+        "9ac934d3-6d61-5612-bc4c-3a1fab896a4c"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Allow the stew to cool slightly and serve it with a sprinkle of chopped parsley and few slices of fresh hot pepper if you like to spice it up a bit",
+      "ingredients_used": [
+        "2ea7be97-8f90-5e0a-8104-bca7afc37759"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Slice ​​some fresh bread, season the salad and simply enjoying these wonderful flavors"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.chasingthedonkey.com/croatian-recipes-traditional-croatian-goulash/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

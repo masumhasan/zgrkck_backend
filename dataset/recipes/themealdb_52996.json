@@ -1,0 +1,282 @@
+{
+  "id": "f11a1af6-7c98-5190-ad39-7d745a67096e",
+  "version": "1.0.0",
+  "title": "French Onion Chicken with Roasted Carrots & Mashed Potatoes",
+  "slug": "french-onion-chicken-with-roasted-carrots-mashed-potatoes",
+  "summary": "Chicken breasts topped with caramelized onions and melted mozzarella, served alongside roasted carrots and creamy mashed potatoes.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:55:40Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52996"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/b5ft861583188991.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/b5ft861583188991.jpg/small",
+      "alt_text": "Photo of French Onion Chicken with Roasted Carrots & Mashed Potatoes",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b95bb9d4-1e18-5623-a50f-942c7d140e82",
+        "slug": "american",
+        "name": "American"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "lunchbox",
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 35,
+    "total_time_minutes": 55
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 chicken breast with carrots and potatoes"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "5050cd12-3087-5ed8-94a1-52a057bb14e9",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "52b39e85-a12e-5a3d-bd6d-636e5e9e382f",
+          "ingredient_id": "e23191a1-4966-5b21-a6f1-8df6f50b79db",
+          "name": "chicken breasts",
+          "display_text": "2 Chicken Breasts",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "e1321bd5-ba7c-5f87-a1a1-c4b1584227a5",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "12 ounces Carrots",
+          "quantity": 12.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 340.2,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "cb105e6a-a049-57ac-9894-30a66b86d996",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "5 Potatoes",
+          "quantity": 5.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ad17234f-81d4-532a-a272-7551b5f7a014",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "a10fdc0f-4fd3-512c-af9c-0fd2a157c0ee",
+          "ingredient_id": "39a746ef-3300-5229-b0b2-3e03970ea60c",
+          "name": "beef stock",
+          "display_text": "1 Beef Stock",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "c2eef223-863c-59ea-9634-42c0a51992ba",
+          "ingredient_id": "e33b865f-f35f-5c67-b930-10dc0e6899f1",
+          "name": "mozzarella",
+          "display_text": "1 1/2 cup Mozzarella",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "12464c6f-069c-5ab0-9753-f6cbc204ffd1",
+          "ingredient_id": "6ca777b1-4e80-5a4b-8ffe-88c954e2cc8a",
+          "name": "sour cream",
+          "display_text": "2 tbsp Sour Cream",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "bc27d287-e636-572a-a02e-b0535fe6788a",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "Butter",
+          "quantity": 0,
+          "unit": "as_needed",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "13294062-d0d3-561c-9f9a-3cf5bf953e4f",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "Sugar",
+          "quantity": 0,
+          "unit": "as_needed",
+          "is_optional": false,
+          "category": "sweeteners"
+        },
+        {
+          "id": "e1d0109e-759f-5fbf-8351-288fc2e57527",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "Vegetable Oil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "64d511a8-b7a6-51a0-b0e6-cecdb58f041e",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Salt",
+          "quantity": 0,
+          "unit": "as_needed",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "1bd9688f-2031-5687-b898-fe664e7edd60",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "Pepper",
+          "quantity": 0,
+          "unit": "as_needed",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat oven to 425 degrees. Wash and dry all produce. Trim, peel, and cut carrots on a diagonal into ¼-inch-thick pieces. Dice potatoes into ½-inch pieces. Halve, peel, and thinly slice onion.",
+      "ingredients_used": [
+        "e1321bd5-ba7c-5f87-a1a1-c4b1584227a5",
+        "cb105e6a-a049-57ac-9894-30a66b86d996",
+        "ad17234f-81d4-532a-a272-7551b5f7a014"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Toss carrots on a baking sheet with a drizzle of oil, salt, and pepper. Roast until browned and tender, 15-20 minutes.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "e1321bd5-ba7c-5f87-a1a1-c4b1584227a5",
+        "64d511a8-b7a6-51a0-b0e6-cecdb58f041e",
+        "1bd9688f-2031-5687-b898-fe664e7edd60"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Meanwhile, place potatoes in a medium pot with enough salted water to cover by 2 inches. Bring to a boil and cook until tender, 12-15 minutes. Drain and return potatoes to pot; cover to keep warm.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "cb105e6a-a049-57ac-9894-30a66b86d996",
+        "64d511a8-b7a6-51a0-b0e6-cecdb58f041e"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "While potatoes cook, heat a drizzle of oil in a large pan over medium-high heat. Add onion and cook, stirring occasionally, until lightly browned and softened, 8-10 minutes. Sprinkle with 1 tsp sugar (2 tsp for 4 servings). Stir in stock concentrate and 2 TBSP water (¼ cup for 4); season with salt and pepper. Cook until jammy, 2-3 minutes more. Turn off heat; transfer to a small bowl. Wash out pan.",
+      "ingredients_used": [
+        "cb105e6a-a049-57ac-9894-30a66b86d996",
+        "ad17234f-81d4-532a-a272-7551b5f7a014",
+        "13294062-d0d3-561c-9f9a-3cf5bf953e4f",
+        "64d511a8-b7a6-51a0-b0e6-cecdb58f041e",
+        "1bd9688f-2031-5687-b898-fe664e7edd60"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Pat chicken dry with paper towels; season all over with salt and pepper. Heat a drizzle of oil in pan used for onion over medium-high heat. Add chicken and cook until browned and cooked through, 5-6 minutes per side. In the last 1-2 minutes of cooking, top with caramelized onion and cheese. Cover pan until cheese melts. (If your pan doesn’t have a lid, cover with a baking sheet!)",
+      "ingredients_used": [
+        "ad17234f-81d4-532a-a272-7551b5f7a014",
+        "64d511a8-b7a6-51a0-b0e6-cecdb58f041e",
+        "1bd9688f-2031-5687-b898-fe664e7edd60"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Heat pot with drained potatoes over low heat; mash with sour cream, 2 TBSP butter (4 TBSP for 4 servings), salt, pepper, and a splash of water (or milk, for extra richness) until smooth. Divide chicken, roasted carrots, and mashed potatoes between plates.",
+      "ingredients_used": [
+        "e1321bd5-ba7c-5f87-a1a1-c4b1584227a5",
+        "cb105e6a-a049-57ac-9894-30a66b86d996",
+        "12464c6f-069c-5ab0-9753-f6cbc204ffd1",
+        "bc27d287-e636-572a-a02e-b0535fe6788a",
+        "64d511a8-b7a6-51a0-b0e6-cecdb58f041e",
+        "1bd9688f-2031-5687-b898-fe664e7edd60"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

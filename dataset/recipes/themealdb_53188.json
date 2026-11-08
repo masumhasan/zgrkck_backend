@@ -1,0 +1,382 @@
+{
+  "id": "5f57d2b9-21ac-5dd3-bfd6-614d2789ef61",
+  "version": "1.0.0",
+  "title": "Fašírky",
+  "slug": "fasirky",
+  "summary": "Fašírky are traditional Slovak meat patties made from ground pork, seasoned with marjoram and garlic, and coated in breadcrumbs before frying.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:12:02Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53188"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/gtpvwp1763363947.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/gtpvwp1763363947.jpg/small",
+      "alt_text": "Photo of Fašírky",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ecBMVy3p6Ns"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "044b7bf3-e48a-565d-bf41-9893debca860",
+        "slug": "slovak",
+        "name": "Slovak"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "pieces",
+    "serving_size_description": "3-4 patties"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs",
+      "mustard"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "5362b1af-ac4b-56c6-8be6-9b1555d6e753",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "7978410a-eead-5089-910e-c98ab6000032",
+          "ingredient_id": "43eb0e54-4681-5c1a-b0f7-d686895d5f7a",
+          "name": "ground pork",
+          "display_text": "500g Ground Pork",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "0570bf3e-19c1-5520-94fa-a8fc6b95f9e1",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 medium chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "medium chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "63e09f81-ce4e-5b28-87d0-c9328eed8d5e",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves minced Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "minced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3f24be97-ca2f-5e8f-9c78-825a29930256",
+          "ingredient_id": "95128a6e-6409-5797-b33b-a94a27c5951f",
+          "name": "bread",
+          "display_text": "2 sliced Bread",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "487787d1-c3aa-5b51-ad24-9f20b33137e2",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "1 shot Milk",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "shot",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "f389caed-9dbf-5576-9642-b0273c5ee794",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "b159c8a9-65cb-504a-8e59-430ea81835b3",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 teaspoon Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "7233ae24-5fc3-5612-8179-97a81da048fd",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1/2 teaspoon Black Pepper",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "f24224f3-9100-5dd8-bafe-47ed83a0185e",
+          "ingredient_id": "6ce49d7a-5bca-5a22-a57c-2838ecf815f4",
+          "name": "marjoram",
+          "display_text": "1 teaspoon Marjoram",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "9ad791fe-6009-500b-94cb-451074eb1cc3",
+          "ingredient_id": "b9e3afdc-e194-5f5e-bbae-5c3659d35a67",
+          "name": "mustard",
+          "display_text": "1 tsp Mustard",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "abc2baa6-6c97-54c9-b424-1dd53ca0cc64",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "1 tablespoon chopped Parsley",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "2dbfc0cc-e68f-58e8-b771-219bfba6af56",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "1/2 cup Flour",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "3d8da212-eeb2-5d55-aa0e-803eb655fba0",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 beaten Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "beaten",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "03177068-0223-5c2e-8d48-1538f28aea06",
+          "ingredient_id": "00efa231-6d81-5c88-91fa-b330117cc5f4",
+          "name": "breadcrumbs",
+          "display_text": "1 cup Breadcrumbs",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "243018a9-113d-5082-95b2-f99c94119eee",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "For frying Vegetable Oil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "for frying",
+          "is_optional": false,
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Prepare the Bread Mixture",
+      "ingredients_used": [
+        "3f24be97-ca2f-5e8f-9c78-825a29930256"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Soak the bread slices in milk or water until soft.",
+      "ingredients_used": [
+        "3f24be97-ca2f-5e8f-9c78-825a29930256",
+        "487787d1-c3aa-5b51-ad24-9f20b33137e2"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Squeeze out excess liquid and mash into small crumbs."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Mix the Ingredients"
+    },
+    {
+      "step_number": 5,
+      "instruction": "In a large bowl, combine ground meat, chopped onions, garlic, soaked bread, egg, and seasonings.",
+      "ingredients_used": [
+        "0570bf3e-19c1-5520-94fa-a8fc6b95f9e1",
+        "63e09f81-ce4e-5b28-87d0-c9328eed8d5e",
+        "3f24be97-ca2f-5e8f-9c78-825a29930256",
+        "f389caed-9dbf-5576-9642-b0273c5ee794",
+        "3d8da212-eeb2-5d55-aa0e-803eb655fba0"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Mix well until evenly combined."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Shape the Meat Patties"
+    },
+    {
+      "step_number": 8,
+      "instruction": "Take portions of the mixture and shape them into palm-sized patties."
+    },
+    {
+      "step_number": 9,
+      "instruction": "Flatten slightly to help with even cooking."
+    },
+    {
+      "step_number": 10,
+      "instruction": "Coat the Patties"
+    },
+    {
+      "step_number": 11,
+      "instruction": "Lightly dust each patty with flour.",
+      "ingredients_used": [
+        "2dbfc0cc-e68f-58e8-b771-219bfba6af56"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Dip into beaten egg, then coat with breadcrumbs for a crispy finish.",
+      "ingredients_used": [
+        "3f24be97-ca2f-5e8f-9c78-825a29930256",
+        "f389caed-9dbf-5576-9642-b0273c5ee794",
+        "3d8da212-eeb2-5d55-aa0e-803eb655fba0",
+        "03177068-0223-5c2e-8d48-1538f28aea06"
+      ]
+    },
+    {
+      "step_number": 13,
+      "instruction": "Fry the Fašírky"
+    },
+    {
+      "step_number": 14,
+      "instruction": "Heat vegetable oil in a pan over medium heat.",
+      "ingredients_used": [
+        "243018a9-113d-5082-95b2-f99c94119eee"
+      ]
+    },
+    {
+      "step_number": 15,
+      "instruction": "Fry the patties for 4-5 minutes per side until golden brown and fully cooked.",
+      "timer_seconds": 300
+    },
+    {
+      "step_number": 16,
+      "instruction": "Transfer to a paper towel-lined plate to drain excess oil."
+    },
+    {
+      "step_number": 17,
+      "instruction": "Serve and Enjoy"
+    },
+    {
+      "step_number": 18,
+      "instruction": "Serve Fašírky hot with mashed potatoes, cabbage salad, or fresh bread.",
+      "ingredients_used": [
+        "3f24be97-ca2f-5e8f-9c78-825a29930256"
+      ]
+    },
+    {
+      "step_number": 19,
+      "instruction": "Enjoy with mustard, pickles, or garlic sauce for extra flavor.",
+      "ingredients_used": [
+        "63e09f81-ce4e-5b28-87d0-c9328eed8d5e",
+        "9ad791fe-6009-500b-94cb-451074eb1cc3"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.slovakia-foods.co.uk/blog/post/fasirky-recipe-how-to-make-authentic-slovak-meat-patties.html"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

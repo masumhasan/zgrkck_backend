@@ -1,0 +1,201 @@
+{
+  "id": "18cb5f12-8402-5bf2-91ac-63b2f1511f08",
+  "version": "1.0.0",
+  "title": "Burek",
+  "slug": "burek",
+  "summary": "A savory Croatian pastry made with layers of filo dough and a filling of minced beef and onions.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:01:07Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53060"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/tkxquw1628771028.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/tkxquw1628771028.jpg/small",
+      "alt_text": "Photo of Burek",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=YsJXZwE5pdY"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b5d05ee7-9bce-5691-809b-0e253d6b7ed2",
+        "slug": "croatian",
+        "name": "Croatian"
+      }
+    ],
+    "tags": [
+      "onthego",
+      "streetfood"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course",
+      "side_dish"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": [
+      "lunchbox",
+      "party",
+      "picnic"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 45
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1/4 of the baked burek"
+  },
+  "allergens": {
+    "contains": [
+      "gluten"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "5da286b0-442f-5d37-abfb-b4fcf9a007ab",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "0a335ed3-2a33-5519-86ee-d4bf17634215",
+          "ingredient_id": "62dcf130-9a4f-5feb-a1df-0a2b3719d3a8",
+          "name": "filo pastry",
+          "display_text": "1 Packet Filo Pastry",
+          "quantity": 1.0,
+          "unit": "packet",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "90639c41-e35f-5db9-a407-c286cbebead4",
+          "ingredient_id": "32de35ba-e219-523e-a9c8-e8bef0b536c9",
+          "name": "minced beef",
+          "display_text": "150g Minced Beef",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "76af492e-c653-597a-873b-dbe9d151f280",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "150g Onion",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "e2686915-b2ca-55c3-88ff-5174ccc747d0",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "40g Oil",
+          "quantity": 40.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 40.0,
+          "metric_unit": "gram",
+          "category": "oils_fats"
+        },
+        {
+          "id": "f0527d45-54d6-53c4-8a2c-23a06a568eb8",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Dash Salt",
+          "quantity": 1,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "c6639fc3-5ba0-58fd-9a35-fd05bd0bb11f",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "Dash Pepper",
+          "quantity": 1,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Fry the finely chopped onions and minced meat in oil. Add the salt and pepper.",
+      "ingredients_used": [
+        "76af492e-c653-597a-873b-dbe9d151f280",
+        "e2686915-b2ca-55c3-88ff-5174ccc747d0",
+        "f0527d45-54d6-53c4-8a2c-23a06a568eb8",
+        "c6639fc3-5ba0-58fd-9a35-fd05bd0bb11f"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Grease a round baking tray and put a layer of pastry in it. Cover with a thin layer of filling and cover this with another layer of filo pastry which must be well coated in oil.",
+      "ingredients_used": [
+        "0a335ed3-2a33-5519-86ee-d4bf17634215",
+        "e2686915-b2ca-55c3-88ff-5174ccc747d0"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Put another layer of filling and cover with pastry. When you have five or six layers, cover with filo pastry, bake at 200ºC/392ºF for half an hour and cut in quarters and serve.",
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "0a335ed3-2a33-5519-86ee-d4bf17634215"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.visit-croatia.co.uk/croatian-cuisine/croatian-recipes/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

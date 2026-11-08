@@ -1,0 +1,242 @@
+{
+  "id": "e50a2e2f-433a-5a30-a05c-10d40a5957d8",
+  "version": "1.0.0",
+  "title": "Broccoli & Stilton soup",
+  "slug": "broccoli-stilton-soup",
+  "summary": "A creamy British soup made with broccoli, leeks, and potatoes, finished with crumbled Stilton cheese.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:42:18Z",
+  "updated_at": "2026-10-16T10:22:48Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52842"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/tvvxpv1511191952.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/tvvxpv1511191952.jpg/small",
+      "alt_text": "Photo of Broccoli & Stilton soup",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=_HgVLpmNxTY"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "cheesy",
+      "soup"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "starter"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "lunchbox",
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of soup"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "celery"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "832e3503-5c20-5432-b0bc-76ed95c2805b",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "a4e897fa-7341-548e-ba38-3ffbc9f6c5a4",
+          "ingredient_id": "bf553a6e-4d85-50e4-a27c-bb7d90ec509c",
+          "name": "rapeseed oil",
+          "display_text": "2 tblsp Rapeseed Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "d273ea01-1083-5625-b607-8bb4a699ef29",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 finely chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4be26104-a522-5e34-a4fd-00544fc5061a",
+          "ingredient_id": "ed4951b3-26e6-5bb4-a5af-9c61a46687a0",
+          "name": "celery",
+          "display_text": "1 Celery",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "bda1f1f1-a362-5f85-ad50-966c7ff2bf8f",
+          "ingredient_id": "ef5d99bc-384e-522a-8c0f-1c8501f6612c",
+          "name": "leek",
+          "display_text": "1 sliced Leek",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e94a73c8-7457-516e-a6c2-4d1f41e16f2f",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "1 medium Potatoes",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c9d5eb30-42db-5af8-b962-4aecc1f2a3d4",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "1 knob Butter",
+          "quantity": 1.0,
+          "unit": "knob",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "0c723937-618f-5e7d-be75-d2104aaa3a7b",
+          "ingredient_id": "2d490c0b-0744-5be5-a104-641c87b13636",
+          "name": "vegetable stock",
+          "display_text": "1 liter hot Vegetable Stock",
+          "quantity": 1.0,
+          "unit": "liter",
+          "preparation": "hot",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "liter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "0e6f7ea7-db2b-5d99-9cb4-e68f150c98fb",
+          "ingredient_id": "31e88f63-2128-56b2-a28a-224d203ee96c",
+          "name": "broccoli",
+          "display_text": "1 Head chopped Broccoli",
+          "quantity": 1.0,
+          "unit": "head",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "fc315b46-1823-5cc5-b79c-dc6f2624dc16",
+          "ingredient_id": "14725154-13f0-5add-b6af-0a65da355576",
+          "name": "stilton cheese",
+          "display_text": "140g Stilton Cheese",
+          "quantity": 140.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 140.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the rapeseed oil in a large saucepan and then add the onions. Cook on a medium heat until soft. Add a splash of water if the onions start to catch.",
+      "ingredients_used": [
+        "a4e897fa-7341-548e-ba38-3ffbc9f6c5a4",
+        "d273ea01-1083-5625-b607-8bb4a699ef29"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the celery, leek, potato and a knob of butter. Stir until melted, then cover with a lid. Allow to sweat for 5 minutes. Remove the lid.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "4be26104-a522-5e34-a4fd-00544fc5061a",
+        "bda1f1f1-a362-5f85-ad50-966c7ff2bf8f",
+        "c9d5eb30-42db-5af8-b962-4aecc1f2a3d4"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Pour in the stock and add any chunky bits of broccoli stalk. Cook for 10 – 15 minutes until all the vegetables are soft.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "0e6f7ea7-db2b-5d99-9cb4-e68f150c98fb"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add the rest of the broccoli and cook for a further 5 minutes. Carefully transfer to a blender and blitz until smooth. Stir in the stilton, allowing a few lumps to remain. Season with black pepper and serve.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "0e6f7ea7-db2b-5d99-9cb4-e68f150c98fb"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/1940679/broccoli-and-stilton-soup"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "id": "52a0f007-bbb1-5c94-b918-4ab856b2fbd3",
+  "version": "1.0.0",
+  "title": "Napa Cabbage with Dried Shrimp",
+  "slug": "napa-cabbage-with-dried-shrimp",
+  "summary": "A Chinese stir-fry featuring napa cabbage rehydrated with dried shrimp for a savory umami flavor.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:28:51Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53377"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/9nh4dl1766435484.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/9nh4dl1766435484.jpg/small",
+      "alt_text": "Photo of Napa Cabbage with Dried Shrimp",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Fj0JALB4_5k"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6813a95e-62cf-55e7-9d4b-6f19ee1d7391",
+        "slug": "chinese",
+        "name": "Chinese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course",
+      "side_dish"
+    ],
+    "dietary_flags": [],
+    "difficulty": "beginner",
+    "occasions": [
+      "easter",
+      "summer_refreshment"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "marinating_time_minutes": 30,
+    "total_time_minutes": 55
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "peanuts",
+      "soy",
+      "fish",
+      "shellfish"
+    ],
+    "free_from": [
+      "dairy",
+      "tree_nuts",
+      "eggs",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "caec1c89-ca71-5ee9-94e2-dba9e7fe1a11",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "90659044-e728-5893-a44f-64405aade71f",
+          "ingredient_id": "58232491-198f-5605-ab49-380d567be55f",
+          "name": "dried shrimp",
+          "display_text": "2 tablespoons Dried Shrimp",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "seafood"
+        },
+        {
+          "id": "630f64a3-b4ea-5b11-ace2-5484df9f143f",
+          "ingredient_id": "40367a80-a6cc-5715-9d1d-b43689c0eec7",
+          "name": "boiling water",
+          "display_text": "3/4 cup Boiling Water",
+          "quantity": 0.75,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 180.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "a13a11ac-c08c-5887-b070-6422d87fbcba",
+          "ingredient_id": "83db8ba5-ebc1-5082-bce4-da570abb04bc",
+          "name": "napa cabbage",
+          "display_text": "1 head Napa Cabbage",
+          "quantity": 1.0,
+          "unit": "head",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7092197e-442a-533a-9465-6e05c347f5f3",
+          "ingredient_id": "fcf01683-f48b-5ffc-bf64-b06f7405707c",
+          "name": "peanut oil",
+          "display_text": "2 tablespoons Peanut Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "354d8c23-57f3-576e-b171-c6f1caffe06b",
+          "ingredient_id": "24cbab0a-29d3-5e28-b361-77f90e93af9c",
+          "name": "scallions",
+          "display_text": "4 Chopped Scallions",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f0043480-e416-5192-b14e-f54e5208969f",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "1 tablespoon Ginger",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "c6ac36a1-64f1-5a47-8de4-8611cc7973f0",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "1 tablespoon Soy Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "b0b72912-113a-556b-9670-3449a85af3ca",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1 tablespoon Water",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "321aa979-6471-50bf-aad7-e710182d45d1",
+          "ingredient_id": "4bdb1684-cdb6-5a8f-b220-c622cf2655cc",
+          "name": "cornstarch",
+          "display_text": "2 tsp Cornstarch",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "df16118b-2024-5825-930d-06d006e08ed5",
+          "ingredient_id": "f60d2962-95b1-5ff5-80ec-2e8902992bc9",
+          "name": "kosher salt",
+          "display_text": "1 tsp Kosher Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "5a690e72-0a4c-59fc-8e04-83ea763e8ba0",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "1/2 tsp Pepper",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Dried shrimp gives this Chinese dish a punch of salty umami flavor. You can find it at an Asian grocery store in the frozen or refrigerated section. Look for small-sized dried shrimp, about a 1/4-inch in size. If you use medium or large dried shrimp, hydrate the shrimp with more water (1 cup for medium-sized shrimp, 1 1/4 cup for large) and for longer time (45 to 60 minutes), then chop it up into smaller 1/4-inch chunks. To make this recipe vegetarian, omit the dried shrimp and use four or five dried shiitake mushrooms, rehydrated, and sliced thin.",
+      "timer_seconds": 3600,
+      "ingredients_used": [
+        "90659044-e728-5893-a44f-64405aade71f",
+        "b0b72912-113a-556b-9670-3449a85af3ca",
+        "df16118b-2024-5825-930d-06d006e08ed5"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Rehydrate the dried shrimp:",
+      "ingredients_used": [
+        "90659044-e728-5893-a44f-64405aade71f"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Place the dried shrimp in a small bowl and pour the boiling water over it. Cover with a small plate and let sit for 30 minutes so the shrimp can rehydrate. The shrimp will be lighter in color and plump up slightly.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "90659044-e728-5893-a44f-64405aade71f",
+        "630f64a3-b4ea-5b11-ace2-5484df9f143f",
+        "b0b72912-113a-556b-9670-3449a85af3ca"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Prep the cabbage:",
+      "ingredients_used": [
+        "a13a11ac-c08c-5887-b070-6422d87fbcba"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Meanwhile, split the napa cabbage in half lengthwise. Rinse the cabbage and shake it dry. Cut out the core of the cabbage and discard.",
+      "ingredients_used": [
+        "a13a11ac-c08c-5887-b070-6422d87fbcba"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Set out two large bowls. Cut the remaining cabbage into 1-inch pieces, putting the thicker white pieces at the bottom of the cabbage into one bowl and the top thinner leafy green pieces into the other bowl.",
+      "ingredients_used": [
+        "a13a11ac-c08c-5887-b070-6422d87fbcba"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Drain the shrimp:",
+      "ingredients_used": [
+        "90659044-e728-5893-a44f-64405aade71f"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Once the shrimp has rehydrated, drain it and discard the liquid.",
+      "ingredients_used": [
+        "90659044-e728-5893-a44f-64405aade71f"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Cook the shrimp and cabbage:",
+      "ingredients_used": [
+        "90659044-e728-5893-a44f-64405aade71f",
+        "a13a11ac-c08c-5887-b070-6422d87fbcba"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "In a large wok or skillet over high heat add the peanut oil, swirling it around to coat the pan.",
+      "ingredients_used": [
+        "7092197e-442a-533a-9465-6e05c347f5f3"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Heat until the oil looks shimmering hot, then carefully add the scallions, ginger, and rehydrated shrimp, paying specially attention as the wet ingredients may cause the hot oil to splatter. Toss with a spatula until the scallions are bright green and the entire mixture is fragrant, about 1 minute.",
+      "timer_seconds": 60,
+      "ingredients_used": [
+        "90659044-e728-5893-a44f-64405aade71f",
+        "354d8c23-57f3-576e-b171-c6f1caffe06b",
+        "f0043480-e416-5192-b14e-f54e5208969f"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Add the thicker white part of the napa cabbage to the pan and lower the heat to medium high. Continue to cook and stir for 3 to 4 minutes, or until the edges of the cabbage pieces start to look slightly translucent but the center of the cabbage pieces are still opaque white.",
+      "timer_seconds": 240,
+      "ingredients_used": [
+        "a13a11ac-c08c-5887-b070-6422d87fbcba"
+      ]
+    },
+    {
+      "step_number": 13,
+      "instruction": "Reduce the heat to medium low and add the leafy green pieces of cabbage into the pan. Cook until the leaves are wilted, about 2 minutes.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "a13a11ac-c08c-5887-b070-6422d87fbcba"
+      ]
+    },
+    {
+      "step_number": 14,
+      "instruction": "Make a cornstarch slurry:",
+      "ingredients_used": [
+        "321aa979-6471-50bf-aad7-e710182d45d1"
+      ]
+    },
+    {
+      "step_number": 15,
+      "instruction": "In a small bowl, combine the soy sauce, cold water, and cornstarch, stirring to make a slurry. Then pour over the cabbage and continue to cook and stir until a sauce has thickened slightly to the consistency of whole milk.",
+      "ingredients_used": [
+        "a13a11ac-c08c-5887-b070-6422d87fbcba",
+        "c6ac36a1-64f1-5a47-8de4-8611cc7973f0",
+        "b0b72912-113a-556b-9670-3449a85af3ca",
+        "321aa979-6471-50bf-aad7-e710182d45d1"
+      ]
+    },
+    {
+      "step_number": 16,
+      "instruction": "Season the stir fry:"
+    },
+    {
+      "step_number": 17,
+      "instruction": "Season the stir fry with salt and pepper, then taste and add more salt and pepper if you wish. The cabbage will be translucent and silky looking, with specks of dried shrimp all over.",
+      "ingredients_used": [
+        "90659044-e728-5893-a44f-64405aade71f",
+        "a13a11ac-c08c-5887-b070-6422d87fbcba",
+        "df16118b-2024-5825-930d-06d006e08ed5",
+        "5a690e72-0a4c-59fc-8e04-83ea763e8ba0"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.simplyrecipes.com/napa-cabbage-dried-shrimp-recipe-5208805"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

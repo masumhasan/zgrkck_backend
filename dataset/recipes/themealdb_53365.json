@@ -1,0 +1,417 @@
+{
+  "id": "69c96620-3abd-5d57-a395-f9ca3ba7909f",
+  "version": "1.0.0",
+  "title": "Chinese Orange Chicken",
+  "slug": "chinese-orange-chicken",
+  "summary": "Crispy fried chicken pieces tossed in a sweet and tangy orange-flavored sauce. This dish is served over rice and garnished with sesame seeds and scallions.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:27:59Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53365"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/s73ytv1765567838.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/s73ytv1765567838.jpg/small",
+      "alt_text": "Photo of Chinese Orange Chicken",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=-222Dutomek"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6813a95e-62cf-55e7-9d4b-6f19ee1d7391",
+        "slug": "chinese",
+        "name": "Chinese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 35
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of chicken over rice"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "eggs",
+      "sesame"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "fish",
+      "shellfish",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "c4c46bff-0523-58d3-9e69-0b41bccdf159",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "535a5ebf-54fa-5ff5-865f-9d575f3fa2b6",
+          "ingredient_id": "4f3b3c33-6392-5e5a-ac51-d269b68aa6e4",
+          "name": "orange",
+          "display_text": "Zest of 1 Orange",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "zest",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f196ee43-0032-5920-b88b-3a3e48424b4d",
+          "ingredient_id": "77e2c9f0-3777-523e-895f-e1cc9fa37997",
+          "name": "orange juice",
+          "display_text": "1/4 cup Orange Juice",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "efb34ac9-780e-519e-85c7-3270f846cadc",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "1/4 cup Soy Sauce",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "ce45997d-d567-575f-a5a6-f33a3e6f3cb1",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1/4 cup Water",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "320a65cc-bc04-5efc-9aab-159c9addea11",
+          "ingredient_id": "cad15bc5-2770-5a5f-8572-c5ac5ad79569",
+          "name": "rice vinegar",
+          "display_text": "1/3 cup Rice Vinegar",
+          "quantity": 0.3333,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 80.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "46212bd0-5683-546e-9239-b97463c7f784",
+          "ingredient_id": "4bdb1684-cdb6-5a8f-b220-c622cf2655cc",
+          "name": "cornstarch",
+          "display_text": "1 tablespoon Cornstarch",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "958dd62c-a302-5383-ad10-cbaf74f8424d",
+          "ingredient_id": "653731ca-07ee-57df-aa38-0f8f2b71ccc6",
+          "name": "sesame seed oil",
+          "display_text": "1 tablespoon Sesame Seed Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "11b22d96-1ceb-5d88-9f0a-c7a396c5648b",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1/2 cup Sugar",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "dae9c8db-f7df-57ce-86c6-fed964676636",
+          "ingredient_id": "e0e4d032-0f9f-5908-ab90-db9a8ec5b68c",
+          "name": "chicken thighs",
+          "display_text": "650g Chicken Thighs",
+          "quantity": 650.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 650.0,
+          "metric_unit": "gram",
+          "category": "poultry"
+        },
+        {
+          "id": "d1c86290-af20-5ed5-9766-db4e3ae7c44f",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "2 large Egg",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "95474b83-c82d-5045-ae8b-777f369c12ba",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "97569116-0535-558f-bd1f-1f4cdac5ddbe",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1/4 tsp Black Pepper",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "4733f8eb-e23f-5d5a-b697-9f657e9b1782",
+          "ingredient_id": "4bdb1684-cdb6-5a8f-b220-c622cf2655cc",
+          "name": "cornstarch",
+          "display_text": "1/2 cup Cornstarch",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "3b8b1686-14d9-5e4e-a344-6a17ecfb7fac",
+          "ingredient_id": "d1e5ec78-b8c2-5649-962c-a9f67272ea92",
+          "name": "all purpose flour",
+          "display_text": "1/2 cup All purpose flour",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "5a58103d-07de-58e3-b775-3d22a90f5893",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "2 cups Vegetable Oil",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "df20d168-ef3d-563f-9c08-bec992ff918f",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves chopped Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "5a336a00-aae8-52d4-92f5-d015016e65b9",
+          "ingredient_id": "d22accc4-e562-59bf-9cbb-1ad38d461e99",
+          "name": "shallots",
+          "display_text": "1 chopped Shallots",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c9e77474-eb6e-563e-a847-daebca05828c",
+          "ingredient_id": "24cbab0a-29d3-5e28-b361-77f90e93af9c",
+          "name": "scallions",
+          "display_text": "Sliced Scallions",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ab73146d-0f4b-51f4-b877-dc53807d98df",
+          "ingredient_id": "d5403c00-b586-53a5-a77f-fac320f14278",
+          "name": "sesame seed",
+          "display_text": "Garnish Sesame Seed",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "garnish",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1fa8ddab-29c6-5273-8eea-c6283abbcdad",
+          "ingredient_id": "025b8433-c498-5b37-813a-ec00ac6c2ae5",
+          "name": "rice",
+          "display_text": "To serve Rice",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "grains_pasta"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Make the orange sauce:",
+      "ingredients_used": [
+        "535a5ebf-54fa-5ff5-865f-9d575f3fa2b6"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Whisk together sauce ingredients in a medium bowl. Set aside."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Prep the chicken:"
+    },
+    {
+      "step_number": 4,
+      "instruction": "Cut chicken into about 1-inch cubes. Whisk eggs with salt and black pepper in a bowl and add chicken. Stir together.",
+      "ingredients_used": [
+        "95474b83-c82d-5045-ae8b-777f369c12ba",
+        "97569116-0535-558f-bd1f-1f4cdac5ddbe"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "In a separate bowl, whisk together flour and cornstarch. Remove chicken from eggs with a slotted spoon or tongs, letting excess egg drain off, then transfer to cornstarch mixture and coat well.",
+      "ingredients_used": [
+        "46212bd0-5683-546e-9239-b97463c7f784",
+        "d1c86290-af20-5ed5-9766-db4e3ae7c44f",
+        "4733f8eb-e23f-5d5a-b697-9f657e9b1782"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Fry the chicken:"
+    },
+    {
+      "step_number": 7,
+      "instruction": "Add oil to a large 10- to 12-inch skillet. Heat over medium-high heat until it reaches 350°F. If you don’t have a thermometer, you can also test the temperature by sprinkling in some flour. If the oil is hot enough, it should fizzle immediately.",
+      "temperature": {
+        "value": 350,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 8,
+      "instruction": "Once oil is hot, fry the chicken in two batches. The oil might not completely cover the chicken—that’s okay. Cook for 3 to 4 minutes. Flip the chicken pieces and cook until the chicken is cooked through, about 3 to 4 more minutes. Total cook time is about 6 to 8 minutes."
+    },
+    {
+      "step_number": 9,
+      "instruction": "Remove fried chicken cubes and transfer to a plate lined with paper towels, so the chicken can drain. Repeat until all the chicken is cooked."
+    },
+    {
+      "step_number": 10,
+      "instruction": "Simmer the chicken in the sauce:"
+    },
+    {
+      "step_number": 11,
+      "instruction": "Once chicken is done, pour out hot oil and wipe pan clean. Add a fresh tablespoon of oil along with chopped garlic and shallot. Cook for a minute and then add the sauce. Simmer the sauce until it starts to thicken.",
+      "ingredients_used": [
+        "df20d168-ef3d-563f-9c08-bec992ff918f"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Once the sauce is lightly bubbling, add fried chicken and toss together to coat. The sauce should continue to thicken and stick to the chicken. Let simmer for a minute or two more. Serve orange chicken over cooked white rice, garnished with sesame seeds and fresh scallions.",
+      "ingredients_used": [
+        "535a5ebf-54fa-5ff5-865f-9d575f3fa2b6",
+        "c9e77474-eb6e-563e-a847-daebca05828c",
+        "ab73146d-0f4b-51f4-b877-dc53807d98df",
+        "1fa8ddab-29c6-5273-8eea-c6283abbcdad"
+      ]
+    },
+    {
+      "step_number": 13,
+      "instruction": "Did you love this recipe? Let us know with a rating and review!"
+    },
+    {
+      "step_number": 14,
+      "instruction": "LEFTOVERS! The orange chicken keeps well in the fridge for 5 days. Reheat in a skillet with a splash of water over low heat. Freeze the orange chicken for up to 3 months, but be sure to thaw it before reheating so the chicken doesn’t clump together.",
+      "ingredients_used": [
+        "535a5ebf-54fa-5ff5-865f-9d575f3fa2b6",
+        "ce45997d-d567-575f-a5a6-f33a3e6f3cb1"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.simplyrecipes.com/recipes/chinese_orange_chicken/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

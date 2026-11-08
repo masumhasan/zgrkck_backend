@@ -1,0 +1,268 @@
+{
+  "id": "5512173e-70b5-5c52-8789-0bed60b47e00",
+  "version": "1.0.0",
+  "title": "Roasted chicken with creamy walnut sauce",
+  "slug": "roasted-chicken-with-creamy-walnut-sauce",
+  "summary": "Roasted chicken thighs served with a rich, creamy sauce made from toasted walnuts, soaked pita bread, and aromatics.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:19:09Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53268"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ro8mzj1763800655.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ro8mzj1763800655.jpg/small",
+      "alt_text": "Photo of Roasted chicken with creamy walnut sauce",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=e8Bn3V3kmpM"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4c480df7-c067-5e9c-ac08-d8d49afa7f51",
+        "slug": "turkish",
+        "name": "Turkish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 43,
+    "total_time_minutes": 58
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 chicken thigh with sauce and pita wedges"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "tree_nuts"
+    ],
+    "free_from": [
+      "peanuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "ee27e48a-d3ff-5c37-a058-79ffdbad5e11",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "29ed5b3b-8e17-5db8-89ae-6a00e24ec1be",
+          "ingredient_id": "e0e4d032-0f9f-5908-ab90-db9a8ec5b68c",
+          "name": "chicken thighs",
+          "display_text": "8 Chicken Thighs",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "5fb59b1d-317d-5caa-b874-d6e7f1447b43",
+          "ingredient_id": "be79b3bd-bc90-5d15-aab2-4f95774b8de1",
+          "name": "cumin",
+          "display_text": "1 tsp Cumin",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "20d4537a-5f7d-5fb5-ba42-92d85c9405ca",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1/2 tsp Paprika",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "89718993-285a-584b-905f-893b4a722c17",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tablespoons Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "bb0e2f51-7c31-575f-b65d-1b2ba3b6c990",
+          "ingredient_id": "3998084f-e7c2-5364-b223-62058fa4c0c9",
+          "name": "pita bread",
+          "display_text": "6 Pita Bread",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "d5362d56-0f77-5d63-b096-87a76d2ad440",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "150ml Chicken Stock",
+          "quantity": 150.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "04277f56-3a66-5d83-9378-31650892b977",
+          "ingredient_id": "0ad40f09-76c2-5007-b9ca-38f3ecd4a51d",
+          "name": "walnuts",
+          "display_text": "175g Walnuts",
+          "quantity": 175.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 175.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "375e7727-2f9e-5746-8b29-aa3237095702",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "5f598cd3-0e7d-5067-afc2-698cd4bf473f",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves chopped Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "145d93b3-e035-50ff-8a3c-18ef0a92a0ae",
+          "ingredient_id": "e4d9d1f3-3605-503d-a864-c9eb8d0c7996",
+          "name": "single cream",
+          "display_text": "50 ml Single Cream",
+          "quantity": 50.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "d9bf406c-4286-55ce-9010-3e994ee279f2",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "Juice of 1 Lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3c521ec5-f300-54bb-9b12-e9a1f011503a",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "Handful Coriander",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 200C/180C fan/gas 6. In a roasting tin, toss together the chicken, cumin, paprika, 1 tbsp olive oil and seasoning. Cook for 40 mins until the chicken is crisp and cooked through.",
+      "timer_seconds": 2400,
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "5fb59b1d-317d-5caa-b874-d6e7f1447b43",
+        "20d4537a-5f7d-5fb5-ba42-92d85c9405ca",
+        "89718993-285a-584b-905f-893b4a722c17"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Meanwhile, tear up 1 pitta bread and place in a small bowl. Pour over a couple of tbsp chicken stock and leave to soak. Dry-fry the walnuts in a frying pan for about 3 mins until golden and toasted. Set aside. Heat the remaining oil in the pan and cook the onion and garlic until softened. Place the softened pitta bread, onion mixture and most of the nuts into a blender. Pour over the rest of the chicken stock and whizz together until a rough paste forms. Return the mixture to the pan. Add the cream and lemon juice, season and keep warm.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "bb0e2f51-7c31-575f-b65d-1b2ba3b6c990",
+        "d5362d56-0f77-5d63-b096-87a76d2ad440",
+        "04277f56-3a66-5d83-9378-31650892b977",
+        "375e7727-2f9e-5746-8b29-aa3237095702",
+        "5f598cd3-0e7d-5067-afc2-698cd4bf473f",
+        "d9bf406c-4286-55ce-9010-3e994ee279f2"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "When the chicken is cooked, arrange on a platter. Stir the coriander through the sauce and spoon into a bowl. Roughly chop the remaining walnuts and scatter over the chicken. Toast the pittas, cut into wedges and serve alongside",
+      "ingredients_used": [
+        "04277f56-3a66-5d83-9378-31650892b977",
+        "3c521ec5-f300-54bb-9b12-e9a1f011503a"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/roasted-chicken-creamy-walnut-sauce"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

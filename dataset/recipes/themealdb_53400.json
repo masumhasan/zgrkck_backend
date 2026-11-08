@@ -1,0 +1,280 @@
+{
+  "id": "9519de3c-86c6-55db-ae3c-273d0906f67d",
+  "version": "1.0.0",
+  "title": "Mastawa Lamb and Rice",
+  "slug": "mastawa-lamb-and-rice",
+  "summary": "An Afghan lamb and rice dish cooked with turmeric, orange peel, and chickpeas, finished with yogurt and dill.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:30:43Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53400"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/4kzx4d1779554755.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/4kzx4d1779554755.jpg/small",
+      "alt_text": "Photo of Mastawa Lamb and Rice",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "e686c554-2e81-511f-b656-15ef0dcb3943",
+        "slug": "afghan",
+        "name": "Afghan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 90,
+    "rest_time_minutes": 30,
+    "total_time_minutes": 140
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a bowl of lamb and rice"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "gluten",
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "7f7589d0-68b7-58f1-a58b-429509400b34",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "91afafe7-d389-52d4-b36f-e77fc93e256d",
+          "ingredient_id": "9d9a6681-e50b-5870-820c-5bf49172a394",
+          "name": "lamb",
+          "display_text": "700g Lamb",
+          "quantity": 700.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 700.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "4c265c12-5ebb-5a74-b49d-54bc864a30ed",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "3 Medium Onion",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3cbb1d39-1913-52b4-8089-93d53f7b40e2",
+          "ingredient_id": "ab4d5e50-1105-53e2-be29-49b042b3d7fb",
+          "name": "turmeric",
+          "display_text": "1 tsp Turmeric",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "58f81565-e751-5f49-97e6-2974bf6e74fe",
+          "ingredient_id": "4f3b3c33-6392-5e5a-ac51-d269b68aa6e4",
+          "name": "orange",
+          "display_text": "1 large Orange",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f6832eba-8f2f-5316-9fbe-2bd53556c881",
+          "ingredient_id": "025b8433-c498-5b37-813a-ec00ac6c2ae5",
+          "name": "rice",
+          "display_text": "150g Rice",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "84fa76d8-6a8c-5c5e-9dad-105158f41738",
+          "ingredient_id": "072d4dfe-558f-5fa8-a75c-16ed936deb19",
+          "name": "natural yogurt",
+          "display_text": "500g Natural Yogurt",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "e9809cf6-6c39-515c-9e38-2e8d4f3ead68",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "4 Cloves Crushed Garlic Clove",
+          "quantity": 4.0,
+          "unit": "clove",
+          "preparation": "crushed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "dbb8b210-fb84-5e1a-8e41-925be8e5be1b",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "1 tblsp Vegetable Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "a0e4b1b5-85d3-5bf9-8a55-99b1b9b68a56",
+          "ingredient_id": "f61fd2a5-b839-57b0-b850-4be6cb3685c8",
+          "name": "dried dill",
+          "display_text": "1 tablespoon Dried Dill",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "388171c5-5e36-5a31-be7b-053f931bfead",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1 tablespoon Black Pepper",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "cda86302-97ab-52c5-9ab4-e2f050276713",
+          "ingredient_id": "ae979dd7-6a1e-5882-9ed5-e0b09554efd0",
+          "name": "chickpeas",
+          "display_text": "1 Can Chickpeas",
+          "quantity": 1.0,
+          "unit": "can",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "3333a038-8c8f-5978-afc2-5ca1bc19b9ce",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Place the meat cut into pieces, in a large pan with the onions. Add the turmeric and enough water to cover. Bring to the boil then cook gently until the meat is very tender and can easily be removed from the bones.",
+      "ingredients_used": [
+        "4c265c12-5ebb-5a74-b49d-54bc864a30ed",
+        "3cbb1d39-1913-52b4-8089-93d53f7b40e2"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "While the meat is cooking, cut the orange peel into thin match style pieces, removing as much pith as possible. Leave to soak in a bowl of water.",
+      "ingredients_used": [
+        "58f81565-e751-5f49-97e6-2974bf6e74fe"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "When the meat is tender, remove from the pan and when cool enough, remove the meat from the bones and shred the meat into strips with your hands. Return the meat to the pan."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Wash the short grain rice and then add to the pan with salt according to taste. The juices should cover the rice by about 2cm, add more water if necessary. Bring back to the boil, then reduce the heat to medium and cook with the lid off, stirring from time to time until the rice is \"al dente\" and the liquid is absorbed.",
+      "ingredients_used": [
+        "f6832eba-8f2f-5316-9fbe-2bd53556c881",
+        "3333a038-8c8f-5978-afc2-5ca1bc19b9ce"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Add the natural yogurt, and stir in well but carefully. Fry the crushed cloves of garlic in the oil and add to the dish along with the dill, black pepper, the chickpeas and extra salt to taste.",
+      "ingredients_used": [
+        "84fa76d8-6a8c-5c5e-9dad-105158f41738",
+        "e9809cf6-6c39-515c-9e38-2e8d4f3ead68",
+        "a0e4b1b5-85d3-5bf9-8a55-99b1b9b68a56",
+        "388171c5-5e36-5a31-be7b-053f931bfead",
+        "cda86302-97ab-52c5-9ab4-e2f050276713",
+        "3333a038-8c8f-5978-afc2-5ca1bc19b9ce"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Mix in well, then cover the top of the pan with a clean thick cloth and the lid. Leave on a low heat for about half an hour to allow the flavors to absorb."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Enjoy with some warm nan bread for extra comfort."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.afghanaid.org.uk/mastawa-recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

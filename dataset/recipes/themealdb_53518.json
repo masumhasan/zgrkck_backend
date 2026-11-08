@@ -1,0 +1,223 @@
+{
+  "id": "e0ea20b0-841e-5af4-96f4-24cc4e0906bb",
+  "version": "1.0.0",
+  "title": "Empanadas Fritas de Queso",
+  "slug": "empanadas-fritas-de-queso",
+  "summary": "Chilean-style cheese empanadas made with a dough of flour, lard, and milk, filled with Swiss cheese and either baked or deep-fried.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:41:16Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53518"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/9tllzd1782853513.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/9tllzd1782853513.jpg/small",
+      "alt_text": "Photo of Empanadas Fritas de Queso",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "2681863c-dfb1-5347-8330-bcdf36e53ac6",
+        "slug": "chilean",
+        "name": "Chilean"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "appetizer",
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 20,
+    "rest_time_minutes": 15,
+    "total_time_minutes": 55
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "pieces",
+    "serving_size_description": "2 empanadas"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "37c2ab7b-fe1f-56d7-9d78-d082d373e104",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "27651391-3e7a-54a5-8736-e7636dd72975",
+          "ingredient_id": "d1e5ec78-b8c2-5649-962c-a9f67272ea92",
+          "name": "all purpose flour",
+          "display_text": "3 Cups All purpose flour",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "6f159d42-ee1f-5d9a-8779-a7054d2613d5",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 tsp Baking Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "73b54cd4-4f8b-5402-b0b2-a6547f4ae09e",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/2 tsp Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "470ff652-3471-57dc-80bc-63ca0f04ec93",
+          "ingredient_id": "52a9e69e-4aca-513e-aee5-b38b82db2847",
+          "name": "lard",
+          "display_text": "2 tablespoons Lard",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "9bab214e-5ff4-5970-825d-5639cad15799",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "1 cup Milk",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "b8390089-9e91-54ca-8156-7c46ffd82def",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 beaten Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "beaten",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "9ddaafe1-c5ea-5d11-84f9-d3d268073035",
+          "ingredient_id": "cdda6323-8478-5086-8b58-1b3406cd49ee",
+          "name": "swiss cheese",
+          "display_text": "1 cup Swiss Cheese",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Sift the flour, baking powder, and salt into a large mixing bowl. Combine the lard and milk in a saucepan, and heat until the milk is hot. Pour the hot milk into the flour mixture, and stir until a dough forms. Turn out onto a floured surface, and knead until smooth and elastic. Cover, and allow to rest for 15 minutes.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "6f159d42-ee1f-5d9a-8779-a7054d2613d5",
+        "73b54cd4-4f8b-5402-b0b2-a6547f4ae09e",
+        "470ff652-3471-57dc-80bc-63ca0f04ec93",
+        "9bab214e-5ff4-5970-825d-5639cad15799"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Preheat oven to 375 degrees F (190 degrees C).",
+      "temperature": {
+        "value": 375,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 3,
+      "instruction": "Roll the dough out on a floured surface 1/4-inch thick. Cut into 4-inch rounds. Brush the outer edges of each circle with beaten egg, and fill with a small mound of cheese. Fold each circle in half to form a half-moon; press the edges with your fingers or a fork to seal. Place the empanadas onto a parchment paper-lined baking sheet. Brush the tops with remaining egg.",
+      "ingredients_used": [
+        "b8390089-9e91-54ca-8156-7c46ffd82def"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Bake in preheated oven until golden-brown, about 20 minutes.",
+      "timer_seconds": 1200
+    },
+    {
+      "step_number": 5,
+      "instruction": "Alternatively, the empanadas may be deep fried in 375 degrees F (190 degrees C) oil. If deep frying, do not brush the outsides of the empanadas with egg. Drain on paper towels.",
+      "temperature": {
+        "value": 375,
+        "unit": "fahrenheit"
+      },
+      "ingredients_used": [
+        "b8390089-9e91-54ca-8156-7c46ffd82def"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.allrecipes.com/recipe/134319/empanadas-fritas-de-queso/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

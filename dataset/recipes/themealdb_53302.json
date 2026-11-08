@@ -1,0 +1,220 @@
+{
+  "id": "ee293c82-9193-533e-8d53-5ab7e40c2250",
+  "version": "1.0.0",
+  "title": "Slow-roasted ham with lemon, garlic & sage",
+  "slug": "slow-roasted-ham-with-lemon-garlic-sage",
+  "summary": "A slow-roasted pork shoulder seasoned with a garlic, lemon, and sage paste, served with a reduced white wine pan sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:22:19Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53302"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/w36ets1764362474.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/w36ets1764362474.jpg/small",
+      "alt_text": "Photo of Slow-roasted ham with lemon, garlic & sage",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d40b0607-0a3a-5f5d-8012-7eaf1b714fa5",
+        "slug": "polish",
+        "name": "Polish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 300,
+    "rest_time_minutes": 20,
+    "total_time_minutes": 340
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "servings",
+    "serving_size_description": "a thick slice of pork with sauce"
+  },
+  "allergens": {
+    "contains": [
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "73dac81c-a813-538a-b2b8-cb8308466b28",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "95d0f946-3adf-544b-95b3-f1595b670005",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "5 chopped cloves Garlic",
+          "quantity": 5.0,
+          "unit": "piece",
+          "preparation": "chopped cloves",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "9710e766-5250-5544-8b75-0eb73fc726a8",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "Zest of 1 Lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "zest",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "bb135420-f944-502a-bc61-013bcf398c4f",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "15g Salt",
+          "quantity": 15.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "gram",
+          "category": "seasoning"
+        },
+        {
+          "id": "0d98c59e-c8ee-5b4f-87ca-7d15cbd1a033",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "10g Black Pepper",
+          "quantity": 10.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "gram",
+          "category": "seasoning"
+        },
+        {
+          "id": "e7f5e11c-0578-5281-abfd-fe27cf27a116",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "50 ml Vegetable Oil",
+          "quantity": 50.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "90e80a07-1ba7-51c4-bed8-6bc1e90ed226",
+          "ingredient_id": "d9ebfce1-d14a-5b53-afb1-816b0200e76b",
+          "name": "pork shoulder",
+          "display_text": "2kg Pork Shoulder",
+          "quantity": 2.0,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 2.0,
+          "metric_unit": "kilogram",
+          "category": "meat"
+        },
+        {
+          "id": "8d3581d8-a383-572f-8417-8a2b0ee32c04",
+          "ingredient_id": "fda31c84-156d-52ae-9761-68b43f6d20f4",
+          "name": "dry white wine",
+          "display_text": "500ml Dry White Wine",
+          "quantity": 500.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oven to 200C/180C fan/gas 6. Bash the garlic, sage, lemon zest, salt and pepper together using a pestle and mortar until the mixture becomes a paste. Stir in the oil, then spread the mixture over the pork shoulder, avoiding the skin on top. Score the skin using a sharp knife, then rub a large pinch of salt into the skin. Tie the pork together using kitchen string.",
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "95d0f946-3adf-544b-95b3-f1595b670005",
+        "9710e766-5250-5544-8b75-0eb73fc726a8",
+        "bb135420-f944-502a-bc61-013bcf398c4f",
+        "90e80a07-1ba7-51c4-bed8-6bc1e90ed226"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Line a large baking tray with a double layer of foil and put the pork on top, skin-side up. Bring the sides of the foil up around the pork to create a parcel, then pour the wine into the tray around the sides. Transfer to the oven and reduce the temperature to 140C/120C fan/gas 1. Roast for 4-5 hrs, or until a meat thermometer inserted into the thickest part of the pork reads 70C.",
+      "timer_seconds": 18000,
+      "temperature": {
+        "value": 140,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "8d3581d8-a383-572f-8417-8a2b0ee32c04"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Turn the oven up to 240C/220C fan/gas 9. Carefully spoon the pork roasting juices from the pan into a saucepan and cook over a medium heat for 10-15 mins, or until reduced by a third. Season to taste.",
+      "timer_seconds": 900,
+      "temperature": {
+        "value": 240,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 4,
+      "instruction": "Meanwhile, arrange the foil around the meat so only the skin is exposed, then return to the oven for 10-15 mins until the skin is puffed up and browned all over. Leave to rest for 20 mins before slicing. Serve with the sauce drizzled over."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/slow-roasted-ham-with-lemon-garlic-sage"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

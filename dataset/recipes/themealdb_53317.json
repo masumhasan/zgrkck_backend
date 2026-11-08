@@ -1,0 +1,353 @@
+{
+  "id": "a1221169-e577-5eca-9e86-dee6a0a41096",
+  "version": "1.0.0",
+  "title": "Beef Empanadas",
+  "slug": "beef-empanadas",
+  "summary": "Uruguayan-style beef empanadas consisting of a handmade dough filled with seasoned sirloin steak, onions, tomatoes, and boiled eggs.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:23:41Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53317"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/dxpc7j1764370714.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/dxpc7j1764370714.jpg/small",
+      "alt_text": "Photo of Beef Empanadas",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=RRNVLC6IAv4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "bc928459-1cc9-56b4-a03c-a0518db62f83",
+        "slug": "uruguayan",
+        "name": "Uruguayan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course",
+      "appetizer"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 45,
+    "cook_time_minutes": 40,
+    "rest_time_minutes": 30,
+    "total_time_minutes": 115
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces",
+    "serving_size_description": "2 empanadas"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "33c62d5c-fe6f-5c24-83f2-8e74022de1e4",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "614267dd-65c0-5556-a08e-2aa879597363",
+          "ingredient_id": "52a9e69e-4aca-513e-aee5-b38b82db2847",
+          "name": "lard",
+          "display_text": "60g Lard",
+          "quantity": 60.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "gram",
+          "category": "oils_fats"
+        },
+        {
+          "id": "a86ea7a8-2bca-5ede-a72c-30ebf3a1e957",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "340g Water",
+          "quantity": 340.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 340.0,
+          "metric_unit": "gram",
+          "category": "beverages"
+        },
+        {
+          "id": "aa641bf3-3f4e-5e02-baa6-929bb391cab0",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "9efb0f56-77ac-5c5f-a37c-962c1dc8a59d",
+          "ingredient_id": "d1e5ec78-b8c2-5649-962c-a9f67272ea92",
+          "name": "all purpose flour",
+          "display_text": "600g All purpose flour",
+          "quantity": 600.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 600.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "fe765b97-601b-548c-9e6b-bcba60caa6df",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "3 Tomato",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b40081cb-51b3-5228-949a-50fe47a52f36",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b9ec6d1e-c8da-5361-9347-70a8b4e6050d",
+          "ingredient_id": "716f7639-3b59-56a7-9146-1819649ebdad",
+          "name": "red onions",
+          "display_text": "1 large Red Onions",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b5eaf9a1-9511-58f8-ab7b-f938152704e6",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "Bunch Spring Onions",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "bunch",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d27b388f-7048-5b95-a3d4-67928f018b9a",
+          "ingredient_id": "febc81fb-5cd0-554c-b824-0241486907eb",
+          "name": "sirloin steak",
+          "display_text": "750g Sirloin steak",
+          "quantity": 750.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 750.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "3644a6d2-ef45-5eec-96cb-c03ab0b807bc",
+          "ingredient_id": "23e1101c-9b20-575b-81cd-037dfd7bf307",
+          "name": "dried oregano",
+          "display_text": "1 tablespoon Dried Oregano",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1402bc01-cd25-501a-8483-f396ec18cef5",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1 tsp Paprika",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "c7fbacd2-cded-5970-9476-480930d4992f",
+          "ingredient_id": "288d1261-262e-5a23-aa76-135a3c62df23",
+          "name": "red pepper flakes",
+          "display_text": "1 tsp Red Pepper Flakes",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d4b02b66-2060-54ca-9699-03da07692482",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "1 tsp Parsley",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "cf97fd9b-bdcf-52f5-a9bc-c1f23cd235d7",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "9e73749a-63d2-57d3-b854-fc2141e13c03",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "To taste Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "cbd1c9e2-2c64-5742-9fca-7be08366e5b3",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "3 Egg",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "dee0efdb-ee36-51c3-b578-bb4dd7c5d6ff",
+          "ingredient_id": "322aca25-e465-590d-a5bb-32ece53abc4f",
+          "name": "egg wash",
+          "display_text": "Splash Egg Wash",
+          "quantity": 1,
+          "unit": "splash",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "32a6331c-fa2a-5644-9dee-0d2c3381406b",
+          "ingredient_id": "bde0ef8f-dd37-53f3-a30b-48c3aaa0dca2",
+          "name": "chimichurri sauce",
+          "display_text": "Drizzle Chimichurri sauce",
+          "quantity": 1,
+          "unit": "drizzle",
+          "is_optional": false,
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "For the dough place lard, warm water and salt in a large kneading bowl and stir. Add flour and oregano and either knead five miutes by hand or with the kneading function of your machine. Let rest covered for at least half an hour or overnight in the fridge.",
+      "ingredients_used": [
+        "614267dd-65c0-5556-a08e-2aa879597363",
+        "a86ea7a8-2bca-5ede-a72c-30ebf3a1e957",
+        "aa641bf3-3f4e-5e02-baa6-929bb391cab0",
+        "3644a6d2-ef45-5eec-96cb-c03ab0b807bc",
+        "cf97fd9b-bdcf-52f5-a9bc-c1f23cd235d7"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "For the filling place tomatoes for about 30 seconds in boiling water, then cool with cold water and peel of skin and cut into cubes. Press garlic through garlic press, cut onions into cubes. Simmer garlic and onions in some olive oil until translucent. Take out onions and garlic and brown the meat at high heat from all sides. Season with all herbs and add the onions, garlic and tomatoes. Let simmer for a few minutes, add salt, pepper and additional spices to taste. You can prepare the meat the night before, chill in fridge if doing so. Boil eggs and also cut into cubes and mix with prepared meat.",
+      "timer_seconds": 30,
+      "ingredients_used": [
+        "a86ea7a8-2bca-5ede-a72c-30ebf3a1e957",
+        "aa641bf3-3f4e-5e02-baa6-929bb391cab0",
+        "fe765b97-601b-548c-9e6b-bcba60caa6df",
+        "b40081cb-51b3-5228-949a-50fe47a52f36",
+        "b9ec6d1e-c8da-5361-9347-70a8b4e6050d",
+        "b5eaf9a1-9511-58f8-ab7b-f938152704e6",
+        "cf97fd9b-bdcf-52f5-a9bc-c1f23cd235d7",
+        "9e73749a-63d2-57d3-b854-fc2141e13c03"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Cut dough into half and roll out one half thinnly on floured surface. Cut out circles about 12-15cm in diameter. Mine have a diameter of 12.5 cm. Place about 2-4 teaspoons of filling on one circle, put a bit of water all around the edges and fold over the other half so that you get half moons. Be sure to seal the edges with a fork. Repeat until you have no dough and filling left.",
+      "ingredients_used": [
+        "a86ea7a8-2bca-5ede-a72c-30ebf3a1e957"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Meanwhile preheat oven to 200 degrees Celsius. Brush empanadas with egg wash and bake about 8 empanadas on a baking sheet lined with parchment paper for about 25min or until golden. Serve warm with chimichurri sauce.",
+      "timer_seconds": 1500,
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "cbd1c9e2-2c64-5742-9fca-7be08366e5b3",
+        "dee0efdb-ee36-51c3-b578-bb4dd7c5d6ff",
+        "32a6331c-fa2a-5644-9dee-0d2c3381406b"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://jennyisbaking.com/2019/10/25/traditionelle-uruguayische-empanadas/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

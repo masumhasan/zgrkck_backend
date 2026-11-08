@@ -1,0 +1,259 @@
+{
+  "id": "3c9239e0-af4d-5ddf-ae3d-617c22172b76",
+  "version": "1.0.0",
+  "title": "Slagroomtaart",
+  "slug": "slagroomtaart",
+  "summary": "A Dutch dessert consisting of a light sponge cake layered with jam and whipped cream, topped with crunchy nougatine.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:30:24Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53395"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/wxfmk41777628643.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/wxfmk41777628643.jpg/small",
+      "alt_text": "Photo of Slagroomtaart",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=w6d3N2E_Vdo"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "74c070cf-0c42-573b-9e5c-54db497f25a3",
+        "slug": "dutch",
+        "name": "Dutch"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 30,
+    "rest_time_minutes": 60,
+    "total_time_minutes": 110
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 slice of cake"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "tree_nuts",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery"
+    ],
+    "may_contain": [
+      "sulfites"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "cc24f977-c82e-5a09-9264-e22fca2c7eb6",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "e2314824-a352-5321-85ba-3b5a838dc7b2",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "175g Eggs",
+          "quantity": 175.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 175.0,
+          "metric_unit": "gram",
+          "category": "eggs"
+        },
+        {
+          "id": "cc8cf643-4b6f-5d5f-b378-67d394177528",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "100g Sugar",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "b3b798e1-c023-5087-a6dd-36b1d197b187",
+          "ingredient_id": "4b4ddd1a-6b6d-5fc2-9fe6-71db9e48acd0",
+          "name": "vanilla sugar",
+          "display_text": "10g vanilla sugar",
+          "quantity": 10.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "73a56bd0-9a71-5e6a-aa2d-5498a8d8f7f6",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "75g Flour",
+          "quantity": 75.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "985e4b18-4fca-56d6-b0a4-7d00c9157b49",
+          "ingredient_id": "4bdb1684-cdb6-5a8f-b220-c622cf2655cc",
+          "name": "cornstarch",
+          "display_text": "25g Cornstarch",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "0f34fc84-5174-578b-b1be-7c24e09da3af",
+          "ingredient_id": "0db24971-f1c6-5bf8-994e-61a8358d553c",
+          "name": "jam",
+          "display_text": "6 tablespoons Jam",
+          "quantity": 6.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 90.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "3d013a69-4737-5113-97d4-67c32b0c26cd",
+          "ingredient_id": "44eda5a6-acbf-5491-ab66-2468b6324fff",
+          "name": "nougatine",
+          "display_text": "100g Nougatine",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "659709ab-ecf2-504c-b0af-cc1a2e19a1c1",
+          "ingredient_id": "ff546e66-3df1-5c50-bf15-42f51d91ab80",
+          "name": "whipping cream",
+          "display_text": "750 ml Whipping Cream",
+          "quantity": 750.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 750.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "c362ac50-4ac5-581a-9bba-598f13509663",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "6 tablespoons Sugar",
+          "quantity": 6.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 90.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "b3f5cba9-942c-51db-8e20-326fd465ed56",
+          "ingredient_id": "c9fb3c8f-8d32-5a74-b0bd-23bcec1bec91",
+          "name": "fruit mix",
+          "display_text": "5 Fruit Mix",
+          "quantity": 5.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Beat the eggs, sugar and vanilla sugar until light and fluffy. I beat this in a stand mixer on medium-high speed for about 10 minutes.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "e2314824-a352-5321-85ba-3b5a838dc7b2",
+        "cc8cf643-4b6f-5d5f-b378-67d394177528",
+        "b3b798e1-c023-5087-a6dd-36b1d197b187",
+        "c362ac50-4ac5-581a-9bba-598f13509663"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Sift the flour and cornstarch and add to the mixture. Fold this gently into the mixture; you don’t want all the air you whipped in to disappear.",
+      "ingredients_used": [
+        "73a56bd0-9a71-5e6a-aa2d-5498a8d8f7f6",
+        "985e4b18-4fca-56d6-b0a4-7d00c9157b49"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Pour the batter into a greased baking pan. Bake the cake base at 180°C/350°F (conventional oven) for 30 minutes. The cake is done when you press lightly on the top and it springs back. Allow the cake to cool in the pan for a few minutes before removing it to a cake rack.",
+      "timer_seconds": 1800,
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 4,
+      "instruction": "Meanwhile, prepare the nougatine and jam according to the recipe if you haven’t already.",
+      "ingredients_used": [
+        "0f34fc84-5174-578b-b1be-7c24e09da3af",
+        "3d013a69-4737-5113-97d4-67c32b0c26cd"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Let the cake cool completely before you cut it. If, like me, you used a 20 cm/8 inch spring form pan, cut the cake into three layers."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.inlaurasbakery.com/slagroomtaart-dutch-cream-cake/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

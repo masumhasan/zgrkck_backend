@@ -1,0 +1,266 @@
+{
+  "id": "a8b65275-3769-5424-9fc5-e3b705d27b78",
+  "version": "1.0.0",
+  "title": "Noodle bowl salad",
+  "slug": "noodle-bowl-salad",
+  "summary": "A refreshing Vietnamese-style noodle salad featuring rice noodles, sugar snap peas, and hot smoked salmon tossed in a sesame and soy dressing.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:17:11Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53245"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/zry07j1763779321.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/zry07j1763779321.jpg/small",
+      "alt_text": "Photo of Noodle bowl salad",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=7EAdKeikJ9o"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "60481cf3-a7b7-5be4-a0dc-6b872c887e64",
+        "slug": "vietnamese",
+        "name": "Vietnamese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 4,
+    "total_time_minutes": 14
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of noodle salad"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "fish",
+      "sesame"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "shellfish",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "e48db34a-4245-5c53-8bec-73e1bf83639f",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "a0a940fe-90b5-5460-8dec-f26539b149ef",
+          "ingredient_id": "26534aa9-d664-5446-96c6-a499ce56a3fe",
+          "name": "rice noodles",
+          "display_text": "125g Rice Noodles",
+          "quantity": 125.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 125.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "e8d4ec77-6553-5df2-909e-ae5ea29283e9",
+          "ingredient_id": "4fe1077c-d538-58e5-8e60-61a8ac0bdd93",
+          "name": "sugar snap peas",
+          "display_text": "200g Sugar Snap Peas",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "195ddf51-f4ca-55da-8988-8187181d2be8",
+          "ingredient_id": "653731ca-07ee-57df-aa38-0f8f2b71ccc6",
+          "name": "sesame seed oil",
+          "display_text": "2 tsp Sesame Seed Oil",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "93dcb1c4-0869-511f-a64a-401d7fa0b6d3",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "4 sliced Spring Onions",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "5eaae0d0-cfdc-55fe-a714-1e1423d6268f",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "Handful Coriander",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "6a0b2861-bec6-54e5-b8b8-f646ad966836",
+          "ingredient_id": "9c4d7197-03fb-5274-a775-0c6af76efc55",
+          "name": "hot smoked flaked salmon",
+          "display_text": "150g Hot Smoked Flaked Salmon",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "fish"
+        },
+        {
+          "id": "34479b17-be08-5ad1-aabf-94a2bd11f33a",
+          "ingredient_id": "d4568a42-37df-5831-a5ed-1e851e899444",
+          "name": "pretzels",
+          "display_text": "To serve Pretzels",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "54f04874-f030-5686-a0d2-5da9c23e66c5",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "3  tablespoons Soy Sauce",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "f8392e51-bcf6-5a82-ba86-f132c840634c",
+          "ingredient_id": "590d0a0c-0a81-5fad-964b-7ade1eb4020d",
+          "name": "clear honey",
+          "display_text": "1 tablespoon Clear Honey",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "13541f6b-ad82-574a-bdb1-04b82247acf3",
+          "ingredient_id": "4020879e-a0a5-58e2-b093-33c7e85c8a08",
+          "name": "lemon juice",
+          "display_text": "1 tablespoon Lemon Juice",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "203b7038-a306-54f1-a0e6-438744f27c7b",
+          "ingredient_id": "91c1bd70-d7c7-5326-89ba-7c3530c157d5",
+          "name": "ground nut oil",
+          "display_text": "1 tablespoon Ground Nut Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "70aa09f4-06a5-52ab-a8da-d636066592e2",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove finely chopped Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "49b5942b-97fd-5256-b9d6-1cb848c142f7",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "Knob Ginger",
+          "quantity": 1,
+          "unit": "knob",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Drop the noodles into a large bowl, then pour over enough boiling water to cover. Tip in the sliced sugar snaps and leave for 4 minutes. Drain in a colander, put under cold running water to cool off, then drain again. Tip into a bowl and toss in the sesame oil.",
+      "timer_seconds": 240,
+      "ingredients_used": [
+        "a0a940fe-90b5-5460-8dec-f26539b149ef"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Mix the dressing ingredients. Pile spring onions, coriander and salmon onto the noodles, pour over the dressing and toss everything together. Serve with a pretzel or bread roll.",
+      "ingredients_used": [
+        "a0a940fe-90b5-5460-8dec-f26539b149ef",
+        "93dcb1c4-0869-511f-a64a-401d7fa0b6d3",
+        "5eaae0d0-cfdc-55fe-a714-1e1423d6268f",
+        "6a0b2861-bec6-54e5-b8b8-f646ad966836"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/noodle-bowl-salad"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

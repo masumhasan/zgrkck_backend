@@ -1,0 +1,359 @@
+{
+  "id": "059b9055-e4fe-5ced-a616-810bfa1c86a9",
+  "version": "1.0.0",
+  "title": "Chicken Handi",
+  "slug": "chicken-handi",
+  "summary": "Chicken Handi is a creamy Indian chicken curry cooked in a rich gravy of tomatoes, yogurt, and cream, seasoned with aromatic spices like cumin, coriander, and fenugreek.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:38:31Z",
+  "updated_at": "2026-10-16T10:22:44Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52795"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg/small",
+      "alt_text": "Photo of Chicken Handi",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=IO0issT0Rmc"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b2b4e1bc-3c1e-50ce-abf4-9015553e6a16",
+        "slug": "indian",
+        "name": "Indian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 50
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a large portion of chicken with gravy"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "7093d2fc-c7fe-5491-b1e0-054865a93223",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "a6885e1c-e9a7-55a0-8462-974b28e07675",
+          "ingredient_id": "96643234-56e3-5df9-9877-487e63d7cb8b",
+          "name": "chicken",
+          "display_text": "1.2 kg Chicken",
+          "quantity": 1.2,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "kilogram",
+          "category": "poultry"
+        },
+        {
+          "id": "fde62220-2f5b-54c9-8a48-b76da25cd4fc",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "5 thinly sliced Onion",
+          "quantity": 5.0,
+          "unit": "piece",
+          "preparation": "thinly sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c39d3e80-0497-5097-a28e-cfea47e5762c",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomatoes",
+          "display_text": "2 finely chopped Tomatoes",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "08911c58-5032-5d9a-baca-5a3ab62c8087",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "8 cloves chopped Garlic",
+          "quantity": 8.0,
+          "unit": "clove",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "48b2766a-7213-5956-a39d-26c0512b2b10",
+          "ingredient_id": "3436a048-85c1-523a-ad78-889988538c06",
+          "name": "ginger paste",
+          "display_text": "1 tbsp Ginger paste",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "d1527787-96ab-5331-9784-154ba5b63f0c",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "¼ cup Vegetable oil",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "03be9a99-7513-5402-88ca-a2a934002110",
+          "ingredient_id": "e03a9d77-1724-50c7-abdd-1b6af998189f",
+          "name": "cumin seeds",
+          "display_text": "2 tsp Cumin seeds",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "5ce1c128-75b3-5673-8953-3ee6d1b7cc38",
+          "ingredient_id": "d7fa7566-db8c-5153-805f-cd48c44a5b58",
+          "name": "coriander seeds",
+          "display_text": "3 tsp Coriander seeds",
+          "quantity": 3.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "05db8e22-2576-5c20-9307-8854b1748682",
+          "ingredient_id": "d7052b8e-8c12-518d-a621-f6264b1fdd78",
+          "name": "turmeric powder",
+          "display_text": "1 tsp Turmeric powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "09032958-58f5-5dad-ab05-d6b515d1f009",
+          "ingredient_id": "6fab3ead-b910-5c38-a787-4d74e606a7e1",
+          "name": "chilli powder",
+          "display_text": "1 tsp Chilli powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d83d5916-1280-5364-a8e1-121843643390",
+          "ingredient_id": "091f7fa6-975c-516e-a354-2a31e6503580",
+          "name": "green chilli",
+          "display_text": "2 Green chilli",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "031dd3fa-09f0-593f-a528-db0c8bd64847",
+          "ingredient_id": "c2dfe217-47d5-5561-8ce3-2d7cb17fc75b",
+          "name": "yogurt",
+          "display_text": "1 cup Yogurt",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "fa950d6c-8e98-5576-8c52-385f38f6d4b8",
+          "ingredient_id": "43dddb7a-8e44-5264-87bc-a38406ffbb26",
+          "name": "cream",
+          "display_text": "¾ cup Cream",
+          "quantity": 0.75,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 180.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "147df405-63a2-54bc-a86a-fa5250ec4c8e",
+          "ingredient_id": "7095553a-8207-5ccc-bf91-58f8473d1bd0",
+          "name": "fenugreek",
+          "display_text": "3 tsp Dried fenugreek",
+          "quantity": 3.0,
+          "unit": "teaspoon",
+          "preparation": "dried",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "9047bd9f-fddd-5e2b-af77-25bc2c20f284",
+          "ingredient_id": "b3528dc3-f7f7-5d65-9903-d906fc4c30f0",
+          "name": "garam masala",
+          "display_text": "1 tsp Garam masala",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3e9c15e0-1eea-5426-b323-5805b515f57f",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Take a large pot or wok, big enough to cook all the chicken, and heat the oil in it. Once the oil is hot, add sliced onion and fry them until deep golden brown. Then take them out on a plate and set aside.",
+      "ingredients_used": [
+        "a6885e1c-e9a7-55a0-8462-974b28e07675",
+        "fde62220-2f5b-54c9-8a48-b76da25cd4fc"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "To the same pot, add the chopped garlic and sauté for a minute. Then add the chopped tomatoes and cook until tomatoes turn soft. This would take about 5 minutes.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "c39d3e80-0497-5097-a28e-cfea47e5762c",
+        "08911c58-5032-5d9a-baca-5a3ab62c8087"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Then return the fried onion to the pot and stir. Add ginger paste and sauté well.",
+      "ingredients_used": [
+        "fde62220-2f5b-54c9-8a48-b76da25cd4fc",
+        "48b2766a-7213-5956-a39d-26c0512b2b10"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Now add the cumin seeds, half of the coriander seeds and chopped green chillies. Give them a quick stir.",
+      "ingredients_used": [
+        "03be9a99-7513-5402-88ca-a2a934002110",
+        "5ce1c128-75b3-5673-8953-3ee6d1b7cc38",
+        "d83d5916-1280-5364-a8e1-121843643390"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Next goes in the spices – turmeric powder and red chilli powder. Sauté the spices well for couple of minutes.",
+      "ingredients_used": [
+        "05db8e22-2576-5c20-9307-8854b1748682",
+        "09032958-58f5-5dad-ab05-d6b515d1f009",
+        "d83d5916-1280-5364-a8e1-121843643390"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Add the chicken pieces to the wok, season it with salt to taste and cook the chicken covered on medium-low heat until the chicken is almost cooked through. This would take about 15 minutes. Slowly sautéing the chicken will enhance the flavor, so do not expedite this step by putting it on high heat.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "a6885e1c-e9a7-55a0-8462-974b28e07675",
+        "3e9c15e0-1eea-5426-b323-5805b515f57f"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "When the oil separates from the spices, add the beaten yogurt keeping the heat on lowest so that the yogurt doesn’t split. Sprinkle the remaining coriander seeds and add half of the dried fenugreek leaves. Mix well.",
+      "ingredients_used": [
+        "5ce1c128-75b3-5673-8953-3ee6d1b7cc38",
+        "031dd3fa-09f0-593f-a528-db0c8bd64847",
+        "147df405-63a2-54bc-a86a-fa5250ec4c8e"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Finally add the cream and give a final mix to combine everything well.",
+      "ingredients_used": [
+        "fa950d6c-8e98-5576-8c52-385f38f6d4b8"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Sprinkle the remaining kasuri methi and garam masala and serve the chicken handi hot with naan or rotis. Enjoy!",
+      "ingredients_used": [
+        "a6885e1c-e9a7-55a0-8462-974b28e07675",
+        "9047bd9f-fddd-5e2b-af77-25bc2c20f284"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

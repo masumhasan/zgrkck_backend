@@ -1,0 +1,297 @@
+{
+  "id": "e5d13fa5-6d34-5d83-8259-1538bd612865",
+  "version": "1.0.0",
+  "title": "Tavë me Presh ska Mish Meatless Leek Bake",
+  "slug": "tave-me-presh-ska-mish-meatless-leek-bake",
+  "summary": "A vegetarian Albanian-style baked dish featuring leeks, red peppers, and rice seasoned with aromatic herbs.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:31:14Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53405"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/p5m3w21779644533.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/p5m3w21779644533.jpg/small",
+      "alt_text": "Photo of Tavë me Presh ska Mish Meatless Leek Bake",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=uRAmHFjVMEA"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "e7c6b7b1-e982-5d1b-96fc-1577c9153035",
+        "slug": "albanian",
+        "name": "Albanian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 62,
+    "rest_time_minutes": 10,
+    "total_time_minutes": 82
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of leek and rice bake"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "1e62fc60-2f5f-57ad-9a5e-dda5d2ca7f99",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "ea82f869-a6e7-528b-9fa2-8dd2d1a3eae9",
+          "ingredient_id": "ef5d99bc-384e-522a-8c0f-1c8501f6612c",
+          "name": "leek",
+          "display_text": "500g Leek",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "496faada-36cc-5050-a8b7-262c71cedda5",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "3 diced Red Pepper",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f7a38c69-fe2f-5a55-9fa5-719e83057cdf",
+          "ingredient_id": "025b8433-c498-5b37-813a-ec00ac6c2ae5",
+          "name": "rice",
+          "display_text": "200g Rice",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "aaf27a07-a9cb-5cac-85d0-feb0f77f214c",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove finely chopped Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b20e5ef4-c6b3-5fee-b349-c334fb3bd139",
+          "ingredient_id": "2d490c0b-0744-5be5-a104-641c87b13636",
+          "name": "vegetable stock",
+          "display_text": "1 L Vegetable Stock",
+          "quantity": 1.0,
+          "unit": "liter",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "liter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "a08a1367-2719-5216-a56c-b435a30376ab",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1 tsp Paprika",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "9cc1855f-9f45-5823-8359-98e5f15c7b96",
+          "ingredient_id": "035f27db-b6ac-512c-a6e4-48e289cafefe",
+          "name": "oregano",
+          "display_text": "1 tsp Oregano",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "58e19dbd-0b0f-506d-b959-16af483a1ea0",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "1 tsp Parsley",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "0644790f-940c-5753-8108-f8636aacd9a8",
+          "ingredient_id": "fc6a825e-e02a-589c-91d6-b4e76ccc6354",
+          "name": "basil",
+          "display_text": "1 tsp Basil",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "22851b99-db2b-528d-ba1b-f0dca0818032",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "51fc2ef8-4482-5fc3-8453-9605c8cecf69",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "Pinch Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "95e184a2-ccf2-5987-b9f9-ecac22e7b254",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "Splash Olive Oil",
+          "quantity": 1,
+          "unit": "splash",
+          "is_optional": false,
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Prepare the dish"
+    },
+    {
+      "step_number": 2,
+      "instruction": "Fry the leeks in a small dash of olive oil for a few minutes until they start to brown.",
+      "ingredients_used": [
+        "ea82f869-a6e7-528b-9fa2-8dd2d1a3eae9",
+        "95e184a2-ccf2-5987-b9f9-ecac22e7b254"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Prepare the Dish"
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add the roasted red peppers, garlic, stock, herbs, salt, pepper and paprika. Give it a good stir, add the rice and stir again.",
+      "ingredients_used": [
+        "f7a38c69-fe2f-5a55-9fa5-719e83057cdf",
+        "aaf27a07-a9cb-5cac-85d0-feb0f77f214c",
+        "a08a1367-2719-5216-a56c-b435a30376ab",
+        "22851b99-db2b-528d-ba1b-f0dca0818032",
+        "51fc2ef8-4482-5fc3-8453-9605c8cecf69"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Leave it to come to the boil. Leave to simmer for 2 minutes.",
+      "timer_seconds": 120
+    },
+    {
+      "step_number": 6,
+      "instruction": "Pour the mixture into a baking tray with a depth of 2 inches or more. Mix thoroughly and ensure equally leveled out."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Cooking"
+    },
+    {
+      "step_number": 8,
+      "instruction": "Place on the bottom self of a preheated oven at 180 degrees. Leave to bake for 1 hour.",
+      "timer_seconds": 3600
+    },
+    {
+      "step_number": 9,
+      "instruction": "Serving"
+    },
+    {
+      "step_number": 10,
+      "instruction": "Once cooked turn off the oven and keeping the door open leave the leek bake to cool for 10 minutes before serving.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "ea82f869-a6e7-528b-9fa2-8dd2d1a3eae9"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.myalbanianfood.com/recipe/albanian-tave-presh-meatless-leek-bake/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

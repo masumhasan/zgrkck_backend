@@ -1,0 +1,253 @@
+{
+  "id": "c79ca148-0f1d-5491-9943-a0eadc8f06be",
+  "version": "1.0.0",
+  "title": "Kedgeree",
+  "slug": "kedgeree",
+  "summary": "A classic British breakfast dish consisting of flaked smoked haddock, boiled eggs, and spiced rice.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:46:20Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52887"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/utxqpt1511639216.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/utxqpt1511639216.jpg/small",
+      "alt_text": "Photo of Kedgeree",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=_Pw1I1-SItE"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 35,
+    "rest_time_minutes": 15,
+    "total_time_minutes": 65
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 portion of rice, fish, and eggs"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "eggs",
+      "fish"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "83193582-2ea2-574a-915e-e15a515d915b",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "004df742-1705-5534-bbb5-25360c2896dc",
+          "ingredient_id": "8a36d527-b02f-5ec9-8866-59950c2f55e6",
+          "name": "smoked haddock",
+          "display_text": "300g Smoked Haddock",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "fish"
+        },
+        {
+          "id": "ba081ecd-d227-5867-8387-8061e0393cf0",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaves",
+          "display_text": "2 Bay Leaves",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "a0a807d3-fd0f-56ee-bb21-699a070660bd",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "300ml Milk",
+          "quantity": 300.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "d247f74b-fd9b-5cdc-abe3-2837d75ef882",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "4 Eggs",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "28b1827e-48dc-5373-8e0a-8526c1d22884",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Handful Parsley",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "35b2e188-affc-53ca-8759-8c7f007ba2ae",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "Handful Coriander",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "67ace7f9-00fd-5779-8851-53db5dbc977e",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "2 tbs Vegetable Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "835b5e41-01e2-5639-8730-789dd73fbbd8",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "5bc4d95b-cbba-5c41-9113-a0cb3d963cbb",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "1 tsp Coriander",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e0828a43-a2dc-5084-a4cc-d4f1f14e23f9",
+          "ingredient_id": "bf1eedb9-f5db-509c-818c-63ceb74086c5",
+          "name": "curry powder",
+          "display_text": "2 tsp Curry Powder",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "a5fd6006-1094-532c-82dd-fed729a463f0",
+          "ingredient_id": "025b8433-c498-5b37-813a-ec00ac6c2ae5",
+          "name": "rice",
+          "display_text": "300g Rice",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "For the rice, heat the oil in a large, lidded pan, add the onion, then gently fry for 5 mins until softened but not colored. Add the spices, season with salt, then continue to fry until the mix start to go brown and fragrant; about 3 mins.",
+      "ingredients_used": [
+        "835b5e41-01e2-5639-8730-789dd73fbbd8",
+        "a5fd6006-1094-532c-82dd-fed729a463f0"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the rice and stir in well. Add 600ml water, stir, then bring to the boil. Reduce to a simmer, then cover for 10 mins. Take off the heat and leave to stand, covered, for 10-15 mins more. The rice will be perfectly cooked if you do not lift the lid before the end of the cooking.",
+      "ingredients_used": [
+        "a5fd6006-1094-532c-82dd-fed729a463f0"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Meanwhile, put the haddock and bay leaves in a frying pan, cover with the milk, then poach for 10 mins until the flesh flakes. Remove from the milk, peel away the skin, then flake the flesh into thumbsize pieces. Place the eggs in a pan, cover with water, bring to the boil, then reduce to a simmer. Leave for 4½-5 mins, plunge into cold water, then peel and cut the eggs into quarters. Gently mix the fish, eggs, parsley, coriander and rice together in the pan. Serve hot, sprinkled with a few extra herbs.",
+      "ingredients_used": [
+        "004df742-1705-5534-bbb5-25360c2896dc",
+        "ba081ecd-d227-5867-8387-8061e0393cf0",
+        "a0a807d3-fd0f-56ee-bb21-699a070660bd",
+        "d247f74b-fd9b-5cdc-abe3-2837d75ef882",
+        "28b1827e-48dc-5373-8e0a-8526c1d22884",
+        "35b2e188-affc-53ca-8759-8c7f007ba2ae",
+        "5bc4d95b-cbba-5c41-9113-a0cb3d963cbb",
+        "a5fd6006-1094-532c-82dd-fed729a463f0"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/10421/kedgeree"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

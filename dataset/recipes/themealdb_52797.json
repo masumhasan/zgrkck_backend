@@ -1,0 +1,291 @@
+{
+  "id": "6a70a95e-9f3b-53b4-b5e2-6ca3571be9b0",
+  "version": "1.0.0",
+  "title": "Spicy North African Potato Salad",
+  "slug": "spicy-north-african-potato-salad",
+  "summary": "A spicy Moroccan-inspired potato salad featuring boiled potatoes tossed in a harissa and lemon dressing, served over rocket with feta and pine nuts.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:38:47Z",
+  "updated_at": "2026-10-16T10:22:44Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52797"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/urtwux1486983078.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/urtwux1486983078.jpg/small",
+      "alt_text": "Photo of Spicy North African Potato Salad",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=zxBzwJvTK4g"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "118c0c07-e5c2-5a71-ac2b-49c1d77823aa",
+        "slug": "moroccan",
+        "name": "Moroccan"
+      }
+    ],
+    "tags": [
+      "spicy",
+      "vegetarian"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "salad",
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "lunchbox",
+      "picnic"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a bowl of potato salad"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "tree_nuts"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "eb681381-ae08-5ec9-8446-c954861bf9ff",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "40609ace-807b-5b48-a5c3-48ffe2e2a36b",
+          "ingredient_id": "0eb2f1c4-4fbc-595d-852b-7f1741436e12",
+          "name": "small potatoes",
+          "display_text": "650g/1lb 8 oz Small Potatoes",
+          "quantity": 650.0,
+          "unit": "gram",
+          "preparation": "small",
+          "is_optional": false,
+          "metric_quantity": 650.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "281fd6ac-6d25-52ee-8bb7-90317d619d4f",
+          "ingredient_id": "de3a4289-f9da-523e-971e-192a1995a29a",
+          "name": "harissa spice",
+          "display_text": "1 tsp Harissa Spice",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "4b101bf2-9fb6-5466-9584-c27bf2219c66",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tsp olive oil",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "9a076b15-8455-5239-89a9-5aadf848165c",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "juice of half Lemon",
+          "quantity": 0.5,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f17cdc1a-bdcc-5c45-9139-7ced9919d6a6",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "4 Spring onions",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c670d326-1b42-5f3d-ae34-7c8f342b070f",
+          "ingredient_id": "af2f1a8f-e30f-53b3-838a-093f52d0cd04",
+          "name": "rocket",
+          "display_text": "150g/6oz Rocket",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "127c20d1-749b-5aea-a362-d2e3e1110420",
+          "ingredient_id": "c42909a9-37ca-5099-9618-3534369e4dc2",
+          "name": "feta",
+          "display_text": "80g/3oz Feta",
+          "quantity": 80.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 80.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "47041e1d-433c-5b07-808e-480e4998975e",
+          "ingredient_id": "0e838047-684d-55cb-884e-e7872e0e96c4",
+          "name": "mint",
+          "display_text": "20 chopped Mint",
+          "quantity": 20.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3a72d960-7909-5ae3-96c5-e8e7999b6ac6",
+          "ingredient_id": "d33b80af-1e5d-5fa5-a5a8-1cc1a925e2ee",
+          "name": "pine nuts",
+          "display_text": "2 tablespoons Pine nuts",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "2fbe1951-c501-5adc-b859-0a6cb171bf7a",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "aa4a490a-b17c-59ba-88ec-778471c23b7a",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "Pinch Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Cook potatoes - place potatoes in a pot of cold water, and bring to the boil. Boil 20 minutes, or until potatoes are tender. You know they are cooked when you can stick a knife in them and the knife goes straight through.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "40609ace-807b-5b48-a5c3-48ffe2e2a36b"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Combine harissa spice, olive oil, salt and pepper and lemon juice in a small bowl and whisk until combined.",
+      "ingredients_used": [
+        "281fd6ac-6d25-52ee-8bb7-90317d619d4f",
+        "4b101bf2-9fb6-5466-9584-c27bf2219c66",
+        "9a076b15-8455-5239-89a9-5aadf848165c",
+        "2fbe1951-c501-5adc-b859-0a6cb171bf7a",
+        "aa4a490a-b17c-59ba-88ec-778471c23b7a"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Once potatoes are cooked, drain water and roughly chop potatoes in half.",
+      "ingredients_used": [
+        "40609ace-807b-5b48-a5c3-48ffe2e2a36b"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add harissa mix and spring onions/green onions to potatoes and stir.",
+      "ingredients_used": [
+        "40609ace-807b-5b48-a5c3-48ffe2e2a36b",
+        "f17cdc1a-bdcc-5c45-9139-7ced9919d6a6"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "In a large salad bowl, lay out arugula/rocket.",
+      "ingredients_used": [
+        "c670d326-1b42-5f3d-ae34-7c8f342b070f"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Top with potato mix and toss."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Add fetta, mint and sprinkle over pine nuts.",
+      "ingredients_used": [
+        "47041e1d-433c-5b07-808e-480e4998975e",
+        "3a72d960-7909-5ae3-96c5-e8e7999b6ac6"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Adjust salt and pepper to taste.",
+      "ingredients_used": [
+        "2fbe1951-c501-5adc-b859-0a6cb171bf7a",
+        "aa4a490a-b17c-59ba-88ec-778471c23b7a"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "id": "29f449df-bafb-53ec-9101-3639280beba9",
+  "version": "1.0.0",
+  "title": "Locro",
+  "slug": "locro",
+  "summary": "Locro is a traditional Argentine stew made with dried corn, beans, pumpkin, and various meats.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:08:23Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53146"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/5sgsob1763196284.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/5sgsob1763196284.jpg/small",
+      "alt_text": "Photo of Locro",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=vX0KYKAkBTU"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "52cab25e-aedf-58a6-a869-20df96a19448",
+        "slug": "argentine",
+        "name": "Argentine"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "holiday"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 180,
+    "total_time_minutes": 200
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of stew"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "gluten",
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "f2151a98-d9d2-5a8e-aad9-e53a730762bb",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "5bae50b0-f810-5bc8-a505-ab9f5feeb543",
+          "ingredient_id": "e1b5d6a8-36df-5614-9b9a-dd155dcaee65",
+          "name": "dried white corn",
+          "display_text": "500g Dried white corn",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "aa2bc72b-be2c-563b-bfe4-16af1f5d03c6",
+          "ingredient_id": "03f8d34f-451d-5335-a7ee-645fe0c59427",
+          "name": "dried white beans",
+          "display_text": "200g Dried white beans",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "0601e7c5-7512-597c-b09b-2a524cfeaee6",
+          "ingredient_id": "e046e936-ea1f-5501-bc83-8d8341cc097c",
+          "name": "pumpkin",
+          "display_text": "300g Pumpkin",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "16697b4d-4b47-5c5a-b326-03cd7f2e6099",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "200g Potatoes",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "9cab1838-4255-5709-948f-acc6d762abbe",
+          "ingredient_id": "c2102b4e-a5b4-5bab-b7d5-bdfa5244ae7b",
+          "name": "beef",
+          "display_text": "300g Beef",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "3ca4c5e8-8328-53ca-8adc-17eb11813f7d",
+          "ingredient_id": "f16b4344-55cf-5ee7-a3a2-d8f68550bd18",
+          "name": "pork",
+          "display_text": "200g Pork",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "b7f9c680-7d42-5e6c-91d8-31854a1994d5",
+          "ingredient_id": "d4235a95-0bb4-579b-8855-bbb8f4efeb46",
+          "name": "chorizo",
+          "display_text": "1 Chorizo",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "8262690a-fef3-555c-9df5-a46898413a02",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "53d49247-a88d-5d27-b7e2-6f3b858f0a7e",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "1 teaspoon Paprika",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3cb8e936-b8cf-5a83-a23a-542336a079b4",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "d769860a-6bd0-5464-9a09-4ba3fad1df91",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "To taste Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Soak: Soak corn and beans overnight in water.",
+      "ingredients_used": [
+        "5bae50b0-f810-5bc8-a505-ab9f5feeb543",
+        "aa2bc72b-be2c-563b-bfe4-16af1f5d03c6"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Cook Meats: In a large pot, brown the beef and pork. Add onions and spices, cooking until translucent.",
+      "ingredients_used": [
+        "9cab1838-4255-5709-948f-acc6d762abbe",
+        "3ca4c5e8-8328-53ca-8adc-17eb11813f7d",
+        "8262690a-fef3-555c-9df5-a46898413a02"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Simmer the Stew: Add soaked corn and beans, pumpkin, potato, and enough water to cover. Simmer for 2-3 hours, until thick.",
+      "timer_seconds": 10800,
+      "ingredients_used": [
+        "5bae50b0-f810-5bc8-a505-ab9f5feeb543",
+        "aa2bc72b-be2c-563b-bfe4-16af1f5d03c6",
+        "0601e7c5-7512-597c-b09b-2a524cfeaee6"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Serve: Enjoy hot, with bread on the side."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Pro Tips:"
+    },
+    {
+      "step_number": 6,
+      "instruction": "Toasting the corn slightly before adding it to the stew enhances its flavor.",
+      "ingredients_used": [
+        "5bae50b0-f810-5bc8-a505-ab9f5feeb543"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Add a spoonful of paprika or a dash of cumin for an extra layer of warmth and complexity",
+      "ingredients_used": [
+        "53d49247-a88d-5d27-b7e2-6f3b858f0a7e"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.munchery.com/blog/the-ten-iconic-dishes-of-argentina-and-how-to-cook-them-at-home/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

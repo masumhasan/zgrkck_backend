@@ -1,0 +1,189 @@
+{
+  "id": "95c8377e-850e-54f8-99e2-a0f4c2b0823b",
+  "version": "1.0.0",
+  "title": "Stuffed plantain cups",
+  "slug": "stuffed-plantain-cups",
+  "summary": "Plantain slices are fried, pressed into cup shapes, and fried again until golden brown to create vessels for various fillings.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:44:59Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53558"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/s5d8ha1784666032.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/s5d8ha1784666032.jpg/small",
+      "alt_text": "Photo of Stuffed plantain cups",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4da88d96-f05f-5f73-a14b-c5e37ee2541e",
+        "slug": "dominican",
+        "name": "Dominican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 3,
+    "serving_unit": "servings",
+    "serving_size_description": "3 plantain cups"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "ad923fc1-879f-59da-9efc-a0df04b5c468",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "1098d4fe-5088-5adb-bd6c-eb35abf89603",
+          "ingredient_id": "a3d2e3eb-8e72-5f6f-9a52-c0cdb0bdc45a",
+          "name": "plantain",
+          "display_text": "3 Plantain",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "82fa76d0-c3fb-5fdc-943c-4709c6e1bf20",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "3 Cups Vegetable Oil",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Peel and wash plantains",
+      "ingredients_used": [
+        "1098d4fe-5088-5adb-bd6c-eb35abf89603"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Pat them dry"
+    },
+    {
+      "step_number": 3,
+      "instruction": "Cut them into one and a half inch slices"
+    },
+    {
+      "step_number": 4,
+      "instruction": "Heat oil to deep fry plantains",
+      "ingredients_used": [
+        "1098d4fe-5088-5adb-bd6c-eb35abf89603"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Toss in plantains into hot oil so they are submerged",
+      "ingredients_used": [
+        "1098d4fe-5088-5adb-bd6c-eb35abf89603"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Fry them for about 7 minutes",
+      "timer_seconds": 420
+    },
+    {
+      "step_number": 7,
+      "instruction": "Place them on paper towel for about five minutes. You don't want them to be too dry"
+    },
+    {
+      "step_number": 8,
+      "instruction": "Using your citrus squeezer, press the plantain slices into cups",
+      "ingredients_used": [
+        "1098d4fe-5088-5adb-bd6c-eb35abf89603"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Place on paper towel or tray"
+    },
+    {
+      "step_number": 10,
+      "instruction": "Then place cups in the deep fryer or sauce pan with enough oil to submerge them"
+    },
+    {
+      "step_number": 11,
+      "instruction": "Remove when golden brown"
+    },
+    {
+      "step_number": 12,
+      "instruction": "Stuff with your favorite filling"
+    },
+    {
+      "step_number": 13,
+      "instruction": "Enjoy!"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://dominicagourmet.com/stuffed-plantain-cups/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

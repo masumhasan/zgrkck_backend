@@ -1,0 +1,189 @@
+{
+  "id": "3a9bba4a-8e47-5466-9df9-11e41b12e45b",
+  "version": "1.0.0",
+  "title": "Thai drumsticks",
+  "slug": "thai-drumsticks",
+  "summary": "Chicken drumsticks marinated in a sweet and spicy mixture of Thai red curry paste, orange, and sweet chili sauce, then roasted until tender.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:14:11Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53212"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ittake1763586925.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ittake1763586925.jpg/small",
+      "alt_text": "Photo of Thai drumsticks",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=lv1tj9FK3f0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "724b7c6a-f254-57d4-9729-335a2b2d93b1",
+        "slug": "thai",
+        "name": "Thai"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 40,
+    "total_time_minutes": 50
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "pieces",
+    "serving_size_description": "2 chicken drumsticks"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "fish",
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "27293bc8-036a-5d8c-8749-39f7bc1d32fa",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "1be28f6a-66bf-52e7-8f44-9400cb66dbbb",
+          "ingredient_id": "971d8347-9290-5103-a357-dc6438aa5ef3",
+          "name": "sweet chilli sauce",
+          "display_text": "2 tablespoons sweet chilli sauce",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "053ce86c-4060-5b5a-8df7-72903ec0fee1",
+          "ingredient_id": "4f3b3c33-6392-5e5a-ac51-d269b68aa6e4",
+          "name": "orange",
+          "display_text": "Zest of 1 Orange",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "zest",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "a64d6713-a002-5134-b5a9-f031a8301a29",
+          "ingredient_id": "4f3b3c33-6392-5e5a-ac51-d269b68aa6e4",
+          "name": "orange",
+          "display_text": "2 tblsp Orange",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "a2329806-b5a4-5a51-abb9-8b8ae819d726",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove peeled crushed Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "preparation": "peeled crushed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "9eee5b45-c1d9-538e-9d46-2c86eb3f2993",
+          "ingredient_id": "beb6cb16-691a-5cca-80dd-69a4020c3fa6",
+          "name": "thai red curry paste",
+          "display_text": "1 tblsp Thai Red Curry Paste",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "7cb16bc2-0f4f-5e6c-a9d1-229b190b3c37",
+          "ingredient_id": "ba244c01-3415-552e-9ba4-78cebfcd0c24",
+          "name": "chicken drumsticks",
+          "display_text": "8 Chicken drumsticks",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "poultry"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 200C/180C fan/gas 6 and line a baking tray with foil. Mix the chilli sauce with the orange zest and juice, garlic, curry paste and ¼ tsp salt. Add the chicken and coat really well.",
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "053ce86c-4060-5b5a-8df7-72903ec0fee1",
+        "a64d6713-a002-5134-b5a9-f031a8301a29",
+        "a2329806-b5a4-5a51-abb9-8b8ae819d726"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Arrange the drumsticks on the foil, spaced apart. Coat the chicken with any marinade left in the bowl, then roast for 35-40 mins until tender. Wrap in foil or pack into a food container.",
+      "timer_seconds": 2400,
+      "ingredients_used": [
+        "7cb16bc2-0f4f-5e6c-a9d1-229b190b3c37"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/fragrant-thai-drumsticks"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

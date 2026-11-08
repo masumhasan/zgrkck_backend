@@ -1,0 +1,173 @@
+{
+  "id": "25a98574-fb6b-571a-acf8-a11e09252ec9",
+  "version": "1.0.0",
+  "title": "Choripán",
+  "slug": "choripan",
+  "summary": "A traditional Argentine street food sandwich consisting of grilled chorizo sausage served in crusty bread with chimichurri sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:07:32Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53136"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/5i25sg1763075353.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/5i25sg1763075353.jpg/small",
+      "alt_text": "Photo of Choripán",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=FNrU5mQKFOE"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "52cab25e-aedf-58a6-a869-20df96a19448",
+        "slug": "argentine",
+        "name": "Argentine"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 20
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 chorizo sandwich"
+  },
+  "allergens": {
+    "contains": [
+      "gluten"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame"
+    ],
+    "may_contain": [
+      "mustard",
+      "celery",
+      "sulfites"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "9eac0d11-b8c5-5cec-8dab-63799d22ee8c",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "fbd8c8fd-ac3a-59b8-8f5a-4798a4a2cd68",
+          "ingredient_id": "d4235a95-0bb4-579b-8855-bbb8f4efeb46",
+          "name": "chorizo",
+          "display_text": "4 Chorizo",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "6edada94-1541-559d-a697-05aa5d3776c7",
+          "ingredient_id": "aea11f92-660c-5997-b6dd-1a0030c1bfef",
+          "name": "crusty bread",
+          "display_text": "4 Crusty Bread",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "8ee0e874-d875-5b60-8ea9-05f675ad9a4e",
+          "ingredient_id": "bde0ef8f-dd37-53f3-a30b-48c3aaa0dca2",
+          "name": "chimichurri sauce",
+          "display_text": "Drizzle Chimichurri sauce",
+          "quantity": 1,
+          "unit": "drizzle",
+          "is_optional": false,
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Grill the Chorizos: Cook the chorizos on a grill or pan until fully cooked, about 10-15 minutes.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "fbd8c8fd-ac3a-59b8-8f5a-4798a4a2cd68"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Prepare the Rolls: Slice the rolls and toast them lightly on the grill or in a pan."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Assemble: Slice each chorizo lengthwise and place in a roll. Top with a generous amount of chimichurri sauce.",
+      "ingredients_used": [
+        "fbd8c8fd-ac3a-59b8-8f5a-4798a4a2cd68",
+        "8ee0e874-d875-5b60-8ea9-05f675ad9a4e"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Serve: Enjoy immediately while hot."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Pro Tips:"
+    },
+    {
+      "step_number": 6,
+      "instruction": "Grill the chorizo slowly on medium heat to prevent the skin from bursting and to ensure it cooks evenly throughout.",
+      "ingredients_used": [
+        "fbd8c8fd-ac3a-59b8-8f5a-4798a4a2cd68"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Toast the bread on the grill to absorb some of the chorizo's flavors.",
+      "ingredients_used": [
+        "fbd8c8fd-ac3a-59b8-8f5a-4798a4a2cd68",
+        "6edada94-1541-559d-a697-05aa5d3776c7"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.munchery.com/blog/the-ten-iconic-dishes-of-argentina-and-how-to-cook-them-at-home/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

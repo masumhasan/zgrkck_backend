@@ -1,0 +1,223 @@
+{
+  "id": "ca0028ae-f123-5e3d-bf01-0848d9709a30",
+  "version": "1.0.0",
+  "title": "Budino Di Ricotta",
+  "slug": "budino-di-ricotta",
+  "summary": "A creamy Italian ricotta dessert flavored with lemon zest, cinnamon, and dark rum.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:52:53Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52961"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/1549542877.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/1549542877.jpg/small",
+      "alt_text": "Photo of Budino Di Ricotta",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=6dzd6Ra6sb4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "5777da00-e671-5ded-9c46-d7577d65960f",
+        "slug": "italian",
+        "name": "Italian"
+      }
+    ],
+    "tags": [
+      "alcoholic",
+      "baking",
+      "cake",
+      "calorific",
+      "desert",
+      "sweet"
+    ],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 40,
+    "total_time_minutes": 55
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "servings",
+    "serving_size_description": "1 slice of cake"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "aba6db3b-7509-54bf-8acb-6f72b6ebbe23",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "7276830c-e18c-5a5b-b8c7-7a5bd3194b08",
+          "ingredient_id": "8d0de567-62a1-52a2-bfda-c80f966ac532",
+          "name": "ricotta",
+          "display_text": "500g Ricotta",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "b08d536e-aa4e-5a5f-8a78-b0437f18c550",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "4 large Eggs",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "b39b0185-b006-5fde-b746-1a00387184eb",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "3 tbs Flour",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "cd8223d9-de82-5ef5-ad33-908bc5f1c49c",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "250g Sugar",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "a06fd6bf-526f-5b3c-928a-432190970761",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "1 tsp Cinnamon",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "fe92c75b-47e3-55c2-97b6-43dc13bfb5df",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemons",
+          "display_text": "Grated Zest of 2 Lemons",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "grated zest",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4b765a4b-2471-557a-810a-47ac9ae38fee",
+          "ingredient_id": "594e7cf1-3430-546d-8a0c-8a7ab49de9f6",
+          "name": "dark rum",
+          "display_text": "5 tbs Dark Rum",
+          "quantity": 5.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "d54b78c2-050a-50d9-ba5f-434a5d133fa2",
+          "ingredient_id": "c3b952d9-9879-569e-a989-b29a9b7ec664",
+          "name": "icing sugar",
+          "display_text": "sprinking Icing Sugar",
+          "quantity": 1,
+          "unit": "sprinkling",
+          "is_optional": false,
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Mash the ricotta and beat well with the egg yolks, stir in the flour, sugar, cinnamon, grated lemon rind and the rum and mix well. You can do this in a food processor. Beat the egg whites until stiff, fold in and pour into a buttered and floured 25cm cake tin. Bake in the oven at 180ºC/160ºC fan/gas 4 for about 40 minutes, or until it is firm.",
+      "timer_seconds": 2400,
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "7276830c-e18c-5a5b-b8c7-7a5bd3194b08",
+        "b39b0185-b006-5fde-b746-1a00387184eb",
+        "cd8223d9-de82-5ef5-ad33-908bc5f1c49c",
+        "a06fd6bf-526f-5b3c-928a-432190970761"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Serve hot or cold dusted with icing sugar.",
+      "ingredients_used": [
+        "cd8223d9-de82-5ef5-ad33-908bc5f1c49c",
+        "d54b78c2-050a-50d9-ba5f-434a5d133fa2"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://thehappyfoodie.co.uk/recipes/ricotta-cake-budino-di-ricotta"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

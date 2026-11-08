@@ -1,0 +1,215 @@
+{
+  "id": "ea9edfe3-5e59-5b00-aa2f-089d3a905d37",
+  "version": "1.0.0",
+  "title": "Spanish fig & almond balls",
+  "slug": "spanish-fig-almond-balls",
+  "summary": "A traditional Spanish dessert consisting of sweet balls made from a mixture of figs, almonds, dried fruits, and brandy, coated in sesame seeds.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:09:51Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53163"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/si2rty1763282314.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/si2rty1763282314.jpg/small",
+      "alt_text": "Photo of Spanish fig & almond balls",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "holiday"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 0,
+    "rest_time_minutes": 1008,
+    "total_time_minutes": 1023
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 fig ball"
+  },
+  "allergens": {
+    "contains": [
+      "tree_nuts",
+      "sesame",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "mustard",
+      "celery"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "311a9aff-7f46-5ee4-8e8a-f8f5e46ec690",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "36071de7-9e1b-5332-b28b-1b127e858bab",
+          "ingredient_id": "1f65be5f-ad9d-5713-aca2-600f7b2a1ee8",
+          "name": "almonds",
+          "display_text": "100g Almonds",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "312b7236-2b15-57bf-aec6-56e53471ae03",
+          "ingredient_id": "151b62b1-ab01-5e03-8c4f-e8a6ef95c83d",
+          "name": "figs",
+          "display_text": "500g Figs",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "504d313f-7012-5a14-b2d8-965ff8dd0a45",
+          "ingredient_id": "4e2337c2-e42a-5ed6-9e7b-4b439f982bd2",
+          "name": "dried apricots",
+          "display_text": "85g Dried Apricots",
+          "quantity": 85.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 85.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "15c2a209-5394-511f-81c7-04ff55d1d45c",
+          "ingredient_id": "845b3315-dccd-5650-b863-117794fcb888",
+          "name": "dried cranberries",
+          "display_text": "50g Dried cranberries",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "bf5b75b7-c766-5486-b16a-54801186e8cd",
+          "ingredient_id": "063ff6f2-ecba-5f08-abd6-0646882f3f1d",
+          "name": "brandy",
+          "display_text": "1 tablespoon Brandy",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "c8573bbe-d452-5ebc-b640-206059adf378",
+          "ingredient_id": "590d0a0c-0a81-5fad-964b-7ade1eb4020d",
+          "name": "clear honey",
+          "display_text": "1 tblsp Clear Honey",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "97dd2707-0289-53b6-ad11-b690b9e99a26",
+          "ingredient_id": "73063cfc-1094-5f58-87bf-49227197f2a2",
+          "name": "cloves",
+          "display_text": "1 teaspoon Cloves",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1ee5875e-edd8-5767-94ca-ebf7b1b5edb1",
+          "ingredient_id": "d5403c00-b586-53a5-a77f-fac320f14278",
+          "name": "sesame seed",
+          "display_text": "100g Sesame Seed",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Whizz the almonds in a food processor until most are finely chopped, then tip into a large bowl. Roughly chop the figs, then whizz to a smooth sticky paste. Scrape onto the almonds then, using your hands, mix together well with the dried fruit, brandy, honey and cloves.",
+      "ingredients_used": [
+        "36071de7-9e1b-5332-b28b-1b127e858bab",
+        "312b7236-2b15-57bf-aec6-56e53471ae03",
+        "bf5b75b7-c766-5486-b16a-54801186e8cd",
+        "c8573bbe-d452-5ebc-b640-206059adf378",
+        "97dd2707-0289-53b6-ad11-b690b9e99a26"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Divide the mixture into 6 and roll into balls. Tip the sesame seeds onto a tray, then roll the balls in them until covered. Cover the tray loosely with a clean tea towel, then leave the fig balls to dry for a week before packaging. Will keep in a cool place for 2 months.",
+      "ingredients_used": [
+        "1ee5875e-edd8-5767-94ca-ebf7b1b5edb1"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/spanish-fig-almond-balls"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "id": "a8d1e0d5-4906-51e0-9bf5-6094ca73e604",
+  "version": "1.0.0",
+  "title": "Venezuelan Shredded Beef",
+  "slug": "venezuelan-shredded-beef",
+  "summary": "A traditional Venezuelan dish consisting of tender, shredded beef simmered with onions, peppers, tomatoes, and savory seasonings.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:24:31Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53328"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/mq27gf1764436795.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/mq27gf1764436795.jpg/small",
+      "alt_text": "Photo of Venezuelan Shredded Beef",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=TPn1BKS5Eio"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "7511fbbd-fbff-5fb1-ad48-c4a89d390e43",
+        "slug": "venezuelan",
+        "name": "Venezuelan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 45
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of shredded beef with vegetables"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "fish",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "a6811dfb-0c11-5501-ad1f-67005eda24d0",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "15c9925b-b3a5-5e5e-b394-cb0cfaf52904",
+          "ingredient_id": "1efd27d4-d430-5cfc-90d8-4aef72f7b241",
+          "name": "skirty steak",
+          "display_text": "2 Lbs Skirty Steak",
+          "quantity": 2.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 907.2,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "1cfc65ff-6cf3-5d12-8700-1f453fcaa887",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves minced Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "minced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "69e42f86-e86f-529a-88a7-b6cb7f500f9e",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "effe6980-3529-5dd1-81c3-e8c6d87c1a97",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 sliced Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "00063ced-ceb5-55e3-a0b6-1473378422aa",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1 sliced Red Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0fad10ff-64e3-5d43-b051-0bb8ca6f6848",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "3 sliced thinly Tomato",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "sliced thinly",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "beaa045a-b0a1-5ea6-865d-c7fe6050b16d",
+          "ingredient_id": "39a746ef-3300-5229-b0b2-3e03970ea60c",
+          "name": "beef stock",
+          "display_text": "4 cups Beef Stock",
+          "quantity": 4.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 960.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "d9357769-7918-58c0-b6e4-ab90cff75c5d",
+          "ingredient_id": "31e8f031-3e86-5406-8703-0e73554e2898",
+          "name": "worcestershire sauce",
+          "display_text": "2 tsp Worcestershire Sauce",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "7a4a5441-ea29-5cd2-aeec-b00ba58afc39",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "1 tablespoon Tomato Puree",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "367a63bc-1482-5b79-a3eb-7ba8376d9a86",
+          "ingredient_id": "be79b3bd-bc90-5d15-aab2-4f95774b8de1",
+          "name": "cumin",
+          "display_text": "1 tsp Cumin",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "6d65290c-1816-555e-9b1f-65b07d0bbf49",
+          "ingredient_id": "a4357aa8-235c-57af-b089-15c2effbb92c",
+          "name": "tomato ketchup",
+          "display_text": "1/4 cup Tomato Ketchup",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "d0a9dcad-bd7e-53bd-aef9-b228eba33503",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "b3923397-0f53-52d5-a9ed-73f654785f83",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "To taste Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "b2e774f1-c39f-5cd8-981c-1913f8269f94",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 tablespoon Olive Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Season beef with salt, pepper and minced garlic",
+      "ingredients_used": [
+        "1cfc65ff-6cf3-5d12-8700-1f453fcaa887",
+        "d0a9dcad-bd7e-53bd-aef9-b228eba33503",
+        "b3923397-0f53-52d5-a9ed-73f654785f83"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Chop 1 onion in 4 big wedges",
+      "ingredients_used": [
+        "69e42f86-e86f-529a-88a7-b6cb7f500f9e",
+        "effe6980-3529-5dd1-81c3-e8c6d87c1a97"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Place in the beef pressure cooker with the 4 wedges of onion and the stock",
+      "ingredients_used": [
+        "69e42f86-e86f-529a-88a7-b6cb7f500f9e",
+        "effe6980-3529-5dd1-81c3-e8c6d87c1a97"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Pressure cook for 20 minutes",
+      "timer_seconds": 1200
+    },
+    {
+      "step_number": 5,
+      "instruction": "Release the pressure and open the lid"
+    },
+    {
+      "step_number": 6,
+      "instruction": "Remove the beef and SAVE 2 cups of stock in another container"
+    },
+    {
+      "step_number": 7,
+      "instruction": "With 2 forks, shred the beef. Beef should be tender enough to so easily. If not, cook for another 10 minutes",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 8,
+      "instruction": "Press the saute button of the Instant pot. Add the olive oil",
+      "ingredients_used": [
+        "b2e774f1-c39f-5cd8-981c-1913f8269f94"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "When the machine beeps, add the sliced onion, pepper and tomatoes. Cook until tender",
+      "ingredients_used": [
+        "69e42f86-e86f-529a-88a7-b6cb7f500f9e",
+        "effe6980-3529-5dd1-81c3-e8c6d87c1a97",
+        "0fad10ff-64e3-5d43-b051-0bb8ca6f6848",
+        "b3923397-0f53-52d5-a9ed-73f654785f83"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "Add the shredded beef back in the pot and mix"
+    },
+    {
+      "step_number": 11,
+      "instruction": "Pour in 1 1/2 cups of the saved stock, the Worcestershire sauce, tomato paste, ketchup and cumin. Mix",
+      "ingredients_used": [
+        "0fad10ff-64e3-5d43-b051-0bb8ca6f6848",
+        "d9357769-7918-58c0-b6e4-ab90cff75c5d",
+        "367a63bc-1482-5b79-a3eb-7ba8376d9a86",
+        "6d65290c-1816-555e-9b1f-65b07d0bbf49"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "If sauce seems to dry, add a tad more of stock"
+    },
+    {
+      "step_number": 13,
+      "instruction": "Season with salt and pepper",
+      "ingredients_used": [
+        "d0a9dcad-bd7e-53bd-aef9-b228eba33503",
+        "b3923397-0f53-52d5-a9ed-73f654785f83"
+      ]
+    },
+    {
+      "step_number": 14,
+      "instruction": "Serve!"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://livingsweetmoments.com/venezuelan-shredded-beef-made-instant-pot/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

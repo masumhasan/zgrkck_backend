@@ -1,0 +1,221 @@
+{
+  "id": "81038c22-1730-5b16-90c8-b63a4754ceb5",
+  "version": "1.0.0",
+  "title": "Leg of Lamb Armenian-Style",
+  "slug": "leg-of-lamb-armenian-style",
+  "summary": "A slow-marinated Armenian-style lamb leg seasoned with garlic, parsley, onion, and balsamic vinegar.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:33:58Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53437"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/vy6k391780090969.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/vy6k391780090969.jpg/small",
+      "alt_text": "Photo of Leg of Lamb Armenian-Style",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "2e3a53d2-b262-5dd0-b1a9-2ef277b88347",
+        "slug": "armenian",
+        "name": "Armenian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 90,
+    "marinating_time_minutes": 2880,
+    "total_time_minutes": 2985
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "servings",
+    "serving_size_description": "1 large slice of lamb leg"
+  },
+  "allergens": {
+    "contains": [
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "b77880e7-6afc-5f71-8d76-4f4b33d5e112",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "4e3dc661-948a-5cb5-b0d4-7f7ea27a980c",
+          "ingredient_id": "3e654cff-550d-5ae5-ae81-f532c48f2674",
+          "name": "lamb leg",
+          "display_text": "1 Lamb Leg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "6cef217b-0ddd-5979-9bef-6bbbb3342f90",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 Bulb Garlic",
+          "quantity": 1.0,
+          "unit": "bulb",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "8d96b710-da77-5235-907b-5f546350408d",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 Bulb Garlic",
+          "quantity": 1.0,
+          "unit": "bulb",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "fd0c94c0-ff27-5b0f-bb44-83a7b2d53625",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "1 1/2 cup Parsley",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "b09a1253-3519-52f7-bc36-7523487a6ff8",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 cup Onion",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "5602ef7e-d62f-5ad3-ad23-31a4ca6712db",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1 tablespoon Black Pepper",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "364c8b6a-dc7c-5796-87ae-611d11772dd4",
+          "ingredient_id": "63107704-a6f7-54e1-89ce-d8232f5288e9",
+          "name": "balsamic vinegar",
+          "display_text": "1 cup Balsamic Vinegar",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "e16f7fc9-ff3d-59ba-8c44-9ecb654d3d3f",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1/2 cup Olive Oil",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "0a34d450-c399-5d48-a615-e4b9178f9caa",
+          "ingredient_id": "0e838047-684d-55cb-884e-e7872e0e96c4",
+          "name": "mint",
+          "display_text": "1/4 cup Mint",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "04df782e-7e87-5545-bb4b-4dc17b6cade3",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Place all of the above ingredients into your roaster pan at least two days before you want to eat.  Stir occasionally throughout the days to distribute marinade evenly. Bake at a 350-degree oven for 1 hour to 1 1/2 hours or until meat is not red when sliced."
+    },
+    {
+      "step_number": 2,
+      "instruction": "You can also make these on skewers if you wish to go through the process of spearing the meat with other veggies to grill. Freezes well."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.armenianmuseum.org/armenian-recipes/leg-of-lamb-armenian-style"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

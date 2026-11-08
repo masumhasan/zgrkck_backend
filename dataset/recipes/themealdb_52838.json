@@ -1,0 +1,299 @@
+{
+  "id": "e365ca1d-6363-5549-8dcd-251d30884897",
+  "version": "1.0.0",
+  "title": "Venetian Duck Ragu",
+  "slug": "venetian-duck-ragu",
+  "summary": "A rich, slow-cooked Italian ragu featuring tender shredded duck meat in a spiced tomato and red wine sauce, served with paccheri pasta.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:41:57Z",
+  "updated_at": "2026-10-16T10:22:47Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52838"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/qvrwpt1511181864.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/qvrwpt1511181864.jpg/small",
+      "alt_text": "Photo of Venetian Duck Ragu",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=oWQDVgjB_Lw"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "5777da00-e671-5ded-9c46-d7577d65960f",
+        "slug": "italian",
+        "name": "Italian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 155,
+    "total_time_minutes": 170
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of pasta with duck ragu"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "ee88dc69-aec5-52c7-b1bb-ff71758c505a",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "a9d18c1a-e2e2-5731-9222-7811a2e3448e",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 tbls Olive Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "d1c9cfe5-104c-5caa-9076-7d2c545588ad",
+          "ingredient_id": "026a4da3-4e78-5919-b067-f6946baea67e",
+          "name": "duck legs",
+          "display_text": "4 Duck Legs",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "12f62e4d-5e59-52ab-9b1b-d0323fd4f95c",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onions",
+          "display_text": "2 finely chopped Onions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "49be788d-c479-5037-88d0-9488e0800069",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves minced Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "minced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d002d7e6-2480-5b99-be46-760aac1d5bf0",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "2 tsp ground Cinnamon",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "preparation": "ground",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "7f409db7-d0e7-5a38-a4a3-a9007473b194",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "2 tsp Plain Flour",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "d747b203-9d29-5f1e-883c-7b187bc4dc63",
+          "ingredient_id": "0b364d55-0a30-54fb-b1d4-422f720404e3",
+          "name": "red wine",
+          "display_text": "250ml Red Wine",
+          "quantity": 250.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "516fbf13-00ce-5f44-878a-5e40393c8af2",
+          "ingredient_id": "f55fd16d-cf7d-508e-a734-bd6e6a65e05a",
+          "name": "chopped tomatoes",
+          "display_text": "800g Chopped Tomatoes",
+          "quantity": 800.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 800.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "9fddb085-cc4f-5888-a394-f7d33d36d940",
+          "ingredient_id": "c51e6b59-c18d-5488-827d-6e870113c2e5",
+          "name": "chicken stock cube",
+          "display_text": "1 Chicken Stock Cube",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "7d0b85f5-d0bd-56eb-9170-0fdbfa8afd0d",
+          "ingredient_id": "b0bbff87-223e-5a9c-aa07-1ee472617b84",
+          "name": "rosemary",
+          "display_text": "3 sprigs Rosemary",
+          "quantity": 3.0,
+          "unit": "sprig",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1818bb78-748f-539d-aca3-e81c6885363a",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaves",
+          "display_text": "2 Bay Leaves",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "ca51edbf-5a4f-5a77-a1d6-a1ffeb03affa",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 tsp Sugar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "c0a8e259-2469-5e8e-af7b-9eefcdd91e71",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "2 tbs Milk",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "532ff219-5cbe-5428-a2da-c11d57af01b4",
+          "ingredient_id": "d94050a1-a78b-5ddb-a7b3-4e28bcd29ccc",
+          "name": "paccheri pasta",
+          "display_text": "600g Paccheri Pasta",
+          "quantity": 600.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 600.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "e3b838d6-6ed0-51e0-99de-9f082963a4c1",
+          "ingredient_id": "7db471f0-9bfa-5aae-91f1-5642980cae0d",
+          "name": "parmesan cheese",
+          "display_text": "Grated Parmesan Cheese",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "grated",
+          "is_optional": false,
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oil in a large pan. Add the duck legs and brown on all sides for about 10 mins. Remove to a plate and set aside. Add the onions to the pan and cook for 5 mins until softened. Add the garlic and cook for a further 1 min, then stir in the cinnamon and flour and cook for a further min. Return the duck to the pan, add the wine, tomatoes, stock, herbs, sugar and seasoning. Bring to a simmer, then lower the heat, cover with a lid and cook for 2 hrs, stirring every now and then.",
+      "ingredients_used": [
+        "d1c9cfe5-104c-5caa-9076-7d2c545588ad",
+        "12f62e4d-5e59-52ab-9b1b-d0323fd4f95c",
+        "49be788d-c479-5037-88d0-9488e0800069",
+        "d002d7e6-2480-5b99-be46-760aac1d5bf0",
+        "d747b203-9d29-5f1e-883c-7b187bc4dc63",
+        "516fbf13-00ce-5f44-878a-5e40393c8af2",
+        "ca51edbf-5a4f-5a77-a1d6-a1ffeb03affa"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Carefully lift the duck legs out of the sauce and place on a plate – they will be very tender so try not to lose any of the meat. Pull off and discard the fat, then shred the meat with 2 forks and discard the bones. Add the meat back to the sauce with the milk and simmer, uncovered, for a further 10-15 mins while you cook the pasta.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "d1c9cfe5-104c-5caa-9076-7d2c545588ad",
+        "c0a8e259-2469-5e8e-af7b-9eefcdd91e71",
+        "532ff219-5cbe-5428-a2da-c11d57af01b4"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Cook the pasta following pack instructions, then drain, reserving a cup of the pasta water, and add the pasta to the ragu. Stir to coat all the pasta in the sauce and cook for 1 min more, adding a splash of cooking liquid if it looks dry. Serve with grated Parmesan, if you like.",
+      "timer_seconds": 60,
+      "ingredients_used": [
+        "532ff219-5cbe-5428-a2da-c11d57af01b4"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/venetian-duck-ragu"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

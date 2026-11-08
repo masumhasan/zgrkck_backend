@@ -1,0 +1,205 @@
+{
+  "id": "b0849ef3-96f9-52c8-8989-c34a68c1dff2",
+  "version": "1.0.0",
+  "title": "Summer Pudding",
+  "slug": "summer-pudding",
+  "summary": "A classic British summer dessert made by layering fruit-soaked bread with a mixture of fresh berries and sugar.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:46:33Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52889"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/rsqwus1511640214.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/rsqwus1511640214.jpg/small",
+      "alt_text": "Photo of Summer Pudding",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=akJIO6UhXtA"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "summer"
+    ],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "summer_refreshment"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 25,
+    "cook_time_minutes": 5,
+    "rest_time_minutes": 360,
+    "total_time_minutes": 390
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "portions",
+    "serving_size_description": "1 slice of pudding with juice"
+  },
+  "allergens": {
+    "contains": [
+      "gluten"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "22f8ad38-d0f7-5fc3-b98a-7bdeae39ea35",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "ca72299d-8aff-5bcf-b018-3f00a9e9071a",
+          "ingredient_id": "8633a33a-dc11-5c17-a43b-c84d3669eb95",
+          "name": "strawberries",
+          "display_text": "300g Strawberries",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "b8676026-77ba-5a19-842b-02113769071d",
+          "ingredient_id": "6a077770-26c3-5b86-8e16-a2d03421b135",
+          "name": "blackberries",
+          "display_text": "250g Blackberries",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "ef71abec-7538-528a-a621-50b6d0bfbf70",
+          "ingredient_id": "275833b1-beb4-55c1-9045-16aee37180ec",
+          "name": "redcurrants",
+          "display_text": "100g Redcurrants",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "908e1d90-4c7d-5120-a27c-576e7cb8891f",
+          "ingredient_id": "51e91b52-f7fc-5c02-9971-241fdb8abe3c",
+          "name": "raspberries",
+          "display_text": "500g Raspberries",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "eca89401-82b2-53d7-b6e9-a222a90bedc3",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "175g Caster Sugar",
+          "quantity": 175.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 175.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "2ed8606d-ed82-5e35-a083-486c33790204",
+          "ingredient_id": "95128a6e-6409-5797-b33b-a94a27c5951f",
+          "name": "bread",
+          "display_text": "7 Slices Bread",
+          "quantity": 7.0,
+          "unit": "slice",
+          "is_optional": false,
+          "category": "grains_pasta"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Bring out the juices: Wash fruit and gently dry on kitchen paper – keep strawberries separate. Put sugar and 3 tbsp water into a large pan. Gently heat until sugar dissolves – stir a few times. Bring to a boil for 1 min, then tip in the fruit (not strawberries). Cook for 3 mins over a low heat, stirring 2-3 times. The fruit will be softened, mostly intact and surrounded by dark red juice. Put a sieve over a bowl and tip in the fruit and juice.",
+      "ingredients_used": [
+        "ca72299d-8aff-5bcf-b018-3f00a9e9071a"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Line the bowl with cling film and prepare the bread: Line the 1.25-liter basin with cling film as this will help you to turn out the pudding. Overlap two pieces of cling film in the middle of the bowl as it’s easier than trying to get one sheet to stick to all of the curves. Let the edges overhang by about 15cm. Cut the crusts off the bread. Cut 4 pieces of bread in half, a little on an angle, to give 2 lopsided rectangles per piece. Cut 2 slices into 4 triangles each and leave the final piece whole.",
+      "ingredients_used": [
+        "2ed8606d-ed82-5e35-a083-486c33790204"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Build the pud: Dip the whole piece of bread into the juice for a few secs just to coat. Push this into the bottom of the basin. Now dip the wonky rectangular pieces one at a time and press around the basin’s sides so that they fit together neatly, alternately placing wide and narrow ends up. If you can’t quite fit the last piece of bread in it doesn’t matter, just trim into a triangle, dip in juice and slot in. Now spoon in the softened fruit, adding the strawberries here and there as you go.",
+      "ingredients_used": [
+        "ca72299d-8aff-5bcf-b018-3f00a9e9071a",
+        "2ed8606d-ed82-5e35-a083-486c33790204"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Let flavors mingle then serve: Dip the bread triangles in juice and place on top – trim off overhang with scissors. Keep leftover juice for later. Bring cling film up and loosely seal. Put a side plate on top and weight down with cans. Chill for 6 hrs or overnight. To serve, open out cling film then put a serving plate upside-down on top and flip over. serve with leftover juice, any extra berries and cream.",
+      "timer_seconds": 21600,
+      "ingredients_used": [
+        "2ed8606d-ed82-5e35-a083-486c33790204"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/4516/summer-pudding"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

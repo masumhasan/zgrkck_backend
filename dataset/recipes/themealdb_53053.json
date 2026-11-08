@@ -1,0 +1,259 @@
+{
+  "id": "6acb1fbd-67c8-55bc-aa97-89ddd4358923",
+  "version": "1.0.0",
+  "title": "Beef Rendang",
+  "slug": "beef-rendang",
+  "summary": "A slow-cooked Malaysian beef dish simmered in coconut milk and spices until the gravy reduces to a rich, thick consistency.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:00:33Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53053"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/bc8v651619789840.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/bc8v651619789840.jpg/small",
+      "alt_text": "Photo of Beef Rendang",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Ot-dmfBaZrA"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "336a5cbb-5bdd-53e1-aca6-9d291720d97b",
+        "slug": "malaysian",
+        "name": "Malaysian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 90,
+    "total_time_minutes": 110
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of beef with gravy"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "bb443d2a-b50a-5393-ab40-b1a6a67cc831",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "615ae15b-caa8-5a29-8b6f-987a66fee585",
+          "ingredient_id": "c2102b4e-a5b4-5bab-b7d5-bdfa5244ae7b",
+          "name": "beef",
+          "display_text": "1lb Beef",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "99e9e495-82bd-5f90-ba72-4d36a6772653",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "5 tbs Vegetable Oil",
+          "quantity": 5.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "32655943-df7c-57b7-ae27-d86a4afef01c",
+          "ingredient_id": "815267d7-ad8f-543a-b885-c3fdabdc63fb",
+          "name": "cinnamon stick",
+          "display_text": "1 Cinnamon Stick",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "da2ac091-f034-5a2c-89c2-89f2677b65c1",
+          "ingredient_id": "73063cfc-1094-5f58-87bf-49227197f2a2",
+          "name": "cloves",
+          "display_text": "3 Cloves",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "086200ca-c73f-5909-931b-deb6d8deae9c",
+          "ingredient_id": "64157e8a-c6c6-55a2-a87b-181db452c2d2",
+          "name": "star anise",
+          "display_text": "3 Star Anise",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e0508b06-4f9d-5891-a63b-7626d1b5180b",
+          "ingredient_id": "d72c12ae-5cbc-534c-bbd5-bc044d844d0a",
+          "name": "cardamom",
+          "display_text": "3 Cardamom",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "c9f6a8af-7790-541c-95c0-b4d9d3793c3a",
+          "ingredient_id": "0f3e4fb6-2462-5ac9-9904-fadac99ad6a7",
+          "name": "coconut cream",
+          "display_text": "1 cup Coconut Cream",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "8a0b53a3-dd0a-5180-be73-f1b888fa34ce",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1 cup Water",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "aa5f7fb7-57b7-5218-a71a-7c3f4c298545",
+          "ingredient_id": "459ccfd6-d28f-544c-80d1-1b5a80bf5bed",
+          "name": "tamarind paste",
+          "display_text": "2 tbs Tamarind Paste",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "7cae46fa-f78b-5c7a-9bf8-0e9604e4f627",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "6 Lime",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "558ffe6d-bfcd-5dc7-b566-fa14ef3482dd",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 tbs Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "1e141a4b-92c9-54f4-a95b-97cc11206efd",
+          "ingredient_id": "b5be86c1-9338-59cc-924e-96de6771869c",
+          "name": "challots",
+          "display_text": "5 Challots",
+          "quantity": 5.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Chop the spice paste ingredients and then blend it in a food processor until fine."
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat the oil in a stew pot, add the spice paste, cinnamon, cloves, star anise, and cardamom and stir-fry until aromatic. Add the beef and the pounded lemongrass and stir for 1 minute. Add the coconut milk, tamarind juice, water, and simmer on medium heat, stirring frequently until the meat is almost cooked. Add the kaffir lime leaves, kerisik (toasted coconut), sugar or palm sugar, stirring to blend well with the meat.",
+      "timer_seconds": 60,
+      "ingredients_used": [
+        "615ae15b-caa8-5a29-8b6f-987a66fee585",
+        "da2ac091-f034-5a2c-89c2-89f2677b65c1",
+        "086200ca-c73f-5909-931b-deb6d8deae9c",
+        "e0508b06-4f9d-5891-a63b-7626d1b5180b",
+        "8a0b53a3-dd0a-5180-be73-f1b888fa34ce",
+        "7cae46fa-f78b-5c7a-9bf8-0e9604e4f627",
+        "558ffe6d-bfcd-5dc7-b566-fa14ef3482dd"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Lower the heat to low, cover the lid, and simmer for 1 to 1 1/2 hours or until the meat is really tender and the gravy has dried up. Add more salt and sugar to taste. Serve immediately with steamed rice and save some for overnight.",
+      "timer_seconds": 7200,
+      "ingredients_used": [
+        "558ffe6d-bfcd-5dc7-b566-fa14ef3482dd"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://rasamalaysia.com/beef-rendang-recipe-rendang-daging/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

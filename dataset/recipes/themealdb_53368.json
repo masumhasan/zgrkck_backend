@@ -1,0 +1,426 @@
+{
+  "id": "5e96868d-d57f-525d-88a6-c9617d6a27e7",
+  "version": "1.0.0",
+  "title": "Singapore Noodles with Shrimp",
+  "slug": "singapore-noodles-with-shrimp",
+  "summary": "A flavorful stir-fry featuring vermicelli rice noodles, shrimp, ham, and vegetables seasoned with curry powder.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:28:15Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53368"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/f3cxnc1765656994.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/f3cxnc1765656994.jpg/small",
+      "alt_text": "Photo of Singapore Noodles with Shrimp",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=DiFUyPAGoug"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6813a95e-62cf-55e7-9d4b-6f19ee1d7391",
+        "slug": "chinese",
+        "name": "Chinese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 plate of noodles"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame"
+    ],
+    "free_from": [
+      "dairy",
+      "tree_nuts",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": [
+      "peanuts"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "aef37bba-f667-5e90-bb07-1e9225c1b944",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "c2387dff-347d-520a-90e7-59e2e7d95431",
+          "ingredient_id": "653731ca-07ee-57df-aa38-0f8f2b71ccc6",
+          "name": "sesame seed oil",
+          "display_text": "2 tsp Sesame Seed Oil",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "64d3281c-faa0-555b-82bb-7c7b06bdaa8a",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "2 tablespoons Soy Sauce",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "02043458-4518-5345-b21f-49fdad11f4c1",
+          "ingredient_id": "606f4616-4f27-5b57-beb6-efc3f17cfc96",
+          "name": "seasoned rice vinegar",
+          "display_text": "2 tablespoons Seasoned Rice Vinegar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "5e102dc2-6567-561a-96cb-d24b467b6d82",
+          "ingredient_id": "ff478cc2-4208-5323-b914-2b4f2b3a8e96",
+          "name": "vermicelli rice noodles",
+          "display_text": "6 oz Vermicelli Rice Noodles",
+          "quantity": 6.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 170.1,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "2ffeed0a-8bb5-5806-a392-4c5e8f22314e",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "2 large Egg",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "b9aaac29-0525-529f-b624-3366a613952b",
+          "ingredient_id": "9c72d0cf-8d9c-53f6-b4c6-5631779ba66b",
+          "name": "ground ginger",
+          "display_text": "2 tblsp Ground Ginger",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "c9e224af-5022-54e9-a841-a0c6c9214f61",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove finely chopped Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "34585a4a-831c-5672-9e5f-2e885094b4a0",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "2 Carrots",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "6f098e2e-79b1-5dee-843a-1102843194f4",
+          "ingredient_id": "eef793c9-14cb-5fa6-bd09-7094600a8921",
+          "name": "jalapeno",
+          "display_text": "1 sliced Jalapeno",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "9a31ab05-17fb-51fb-a85b-4589eb632d0e",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1/2 Onion",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "8ee7dbd8-6f24-5143-a49e-7c7bfed98a7f",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/2 tsp Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "ee107431-03e1-5902-a1b2-f31c2988f7bb",
+          "ingredient_id": "c61b86c2-f691-51ef-9d76-0787f0d404f5",
+          "name": "ham",
+          "display_text": "4 oz Ham",
+          "quantity": 4.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 113.4,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "a91e3a4d-3f65-53d1-b58c-e12b8aa03035",
+          "ingredient_id": "83db8ba5-ebc1-5082-bce4-da570abb04bc",
+          "name": "napa cabbage",
+          "display_text": "1/2 Napa Cabbage",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "79272206-931d-53a4-ae5f-81b6b5a0c679",
+          "ingredient_id": "24cbab0a-29d3-5e28-b361-77f90e93af9c",
+          "name": "scallions",
+          "display_text": "4 Scallions",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0dcf3f65-de6c-5e08-89c6-0480d9cdbc73",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1/2 Red Pepper",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "126056aa-a12c-5829-9881-fe02243a33dd",
+          "ingredient_id": "bf1eedb9-f5db-509c-818c-63ceb74086c5",
+          "name": "curry powder",
+          "display_text": "2 tsp Curry Powder",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "863ae01a-2e3b-5bde-ae78-a8c55aa1e770",
+          "ingredient_id": "495feb0d-c0ab-535f-8cf6-cd706b58f4d5",
+          "name": "shrimp",
+          "display_text": "1/2 lb Shrimp",
+          "quantity": 0.5,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 226.8,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "edb5f341-5ecb-58cf-a805-7a1a8204f803",
+          "ingredient_id": "c9d1de7b-7a65-598c-ac18-7860212efe0d",
+          "name": "cilantro leaves",
+          "display_text": "2 tablespoons Cilantro Leaves",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "For the sweet onion, look for Vidalia, OSO Sweet, or Walla Walla. The super-sweet varieties are more suited to this stir-fry because at the end of cooking, the onion still has a slight crunch.",
+      "ingredients_used": [
+        "9a31ab05-17fb-51fb-a85b-4589eb632d0e"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Make the sauce:"
+    },
+    {
+      "step_number": 3,
+      "instruction": "In a bowl, combine the sesame oil, soy sauce, and rice vinegar.",
+      "ingredients_used": [
+        "64d3281c-faa0-555b-82bb-7c7b06bdaa8a"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Cook the rice noodles:",
+      "ingredients_used": [
+        "5e102dc2-6567-561a-96cb-d24b467b6d82"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Bring a large saucepan of water to a boil, add the noodles, and use tongs to turn them so they are submerged. Cook for 2 minutes, or until they are tender but still have some bite (they will cook a little more once you add them to the skillet).",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "5e102dc2-6567-561a-96cb-d24b467b6d82"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Drain, rinse with cold water, and use scissors to snip the noodles several times to break them up into shorter lengths.",
+      "ingredients_used": [
+        "5e102dc2-6567-561a-96cb-d24b467b6d82"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Scramble the eggs:"
+    },
+    {
+      "step_number": 8,
+      "instruction": "In a small bowl whisk together the eggs. Heat the skillet or Dutch oven over medium heat. Add 1 tablespoon of the peanut or canola oil. Add the eggs and scramble them for 2 minutes, or until they form large, soft curds. Transfer them from the pan to a plate or bowl.",
+      "timer_seconds": 120
+    },
+    {
+      "step_number": 9,
+      "instruction": "Cook the vegetables:"
+    },
+    {
+      "step_number": 10,
+      "instruction": "Add 1 tablespoon of the remaining oil to the pan. When it is hot, add the ginger, garlic, carrots, jalapeño, onion, and salt. Cook, stirring constantly, for 2 minutes or until the vegetables start to soften.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "b9aaac29-0525-529f-b624-3366a613952b",
+        "c9e224af-5022-54e9-a841-a0c6c9214f61",
+        "34585a4a-831c-5672-9e5f-2e885094b4a0",
+        "9a31ab05-17fb-51fb-a85b-4589eb632d0e",
+        "8ee7dbd8-6f24-5143-a49e-7c7bfed98a7f"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Add the remaining ingredients:"
+    },
+    {
+      "step_number": 12,
+      "instruction": "Sprinkle the vegetable mixture with the remaining 1 tablespoon peanut or canola oil. When the oil is hot, add the ham, cabbage, scallions, red pepper, and curry powder to the pan. Cook, stirring constantly, for 1 minute.",
+      "timer_seconds": 60,
+      "ingredients_used": [
+        "ee107431-03e1-5902-a1b2-f31c2988f7bb",
+        "a91e3a4d-3f65-53d1-b58c-e12b8aa03035",
+        "79272206-931d-53a4-ae5f-81b6b5a0c679",
+        "0dcf3f65-de6c-5e08-89c6-0480d9cdbc73",
+        "126056aa-a12c-5829-9881-fe02243a33dd"
+      ]
+    },
+    {
+      "step_number": 13,
+      "instruction": "Add the shrimp and cook, stirring, for 3 more minutes or until the shrimp are bright pink and cooked through.",
+      "ingredients_used": [
+        "863ae01a-2e3b-5bde-ae78-a8c55aa1e770"
+      ]
+    },
+    {
+      "step_number": 14,
+      "instruction": "Add the noodles in batches:",
+      "ingredients_used": [
+        "5e102dc2-6567-561a-96cb-d24b467b6d82"
+      ]
+    },
+    {
+      "step_number": 15,
+      "instruction": "Add the eggs, the sauce mixture, and half the noodles to the pan. Toss for 1 minute.",
+      "timer_seconds": 60,
+      "ingredients_used": [
+        "5e102dc2-6567-561a-96cb-d24b467b6d82"
+      ]
+    },
+    {
+      "step_number": 16,
+      "instruction": "Add the remaining noodles and continue tossing for 1 minute more until they are thoroughly combined and the mixture is heated through.",
+      "timer_seconds": 60,
+      "ingredients_used": [
+        "5e102dc2-6567-561a-96cb-d24b467b6d82"
+      ]
+    },
+    {
+      "step_number": 17,
+      "instruction": "Serve:"
+    },
+    {
+      "step_number": 18,
+      "instruction": "Taste for seasoning and add more salt or soy sauce, if you like. Sprinkle with cilantro leaves and serve.",
+      "ingredients_used": [
+        "64d3281c-faa0-555b-82bb-7c7b06bdaa8a",
+        "8ee7dbd8-6f24-5143-a49e-7c7bfed98a7f",
+        "edb5f341-5ecb-58cf-a805-7a1a8204f803"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.simplyrecipes.com/recipes/singapore_noodles_with_shrimp/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

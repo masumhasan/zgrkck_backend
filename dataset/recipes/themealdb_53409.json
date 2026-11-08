@@ -1,0 +1,272 @@
+{
+  "id": "7805152e-99bf-5aee-a4e0-771c6eda2c7e",
+  "version": "1.0.0",
+  "title": "Shendetlie Honey and Nut Cake",
+  "slug": "shendetlie-honey-and-nut-cake",
+  "summary": "A traditional Albanian dessert cake made with a honey and walnut dough that is soaked in a sweet sugar syrup.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:31:31Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53409"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/fx0exq1779646651.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/fx0exq1779646651.jpg/small",
+      "alt_text": "Photo of Shendetlie Honey and Nut Cake",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=LfeBW8ipt0w"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "e7c6b7b1-e982-5d1b-96fc-1577c9153035",
+        "slug": "albanian",
+        "name": "Albanian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 45,
+    "rest_time_minutes": 60,
+    "total_time_minutes": 125
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 diamond-shaped piece"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "tree_nuts",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "eec43af4-e989-5f75-9406-ae4bec5a201f",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "e20a3403-1306-5131-a513-863060fc0168",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "300g Sugar",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "f017c3b3-8864-5190-84d2-381eb58ba982",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "3 Eggs",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "e62e6fe0-bdff-56d6-a161-a9254cf02bc4",
+          "ingredient_id": "824a7073-84ed-52c2-97ef-4d532cabeb6d",
+          "name": "melted butter",
+          "display_text": "180g Melted Butter",
+          "quantity": 180.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 180.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "de49c132-d84d-5c43-8bea-d3db4f63ea32",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "700g Flour",
+          "quantity": 700.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 700.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "a6be4f78-cb83-564b-8942-a6c3ba1b1a96",
+          "ingredient_id": "0ad40f09-76c2-5007-b9ca-38f3ecd4a51d",
+          "name": "walnuts",
+          "display_text": "100g Walnuts",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "f6806c48-81a8-5dd3-9b76-a114dd43c453",
+          "ingredient_id": "7ad11d6e-3134-5831-97df-4db2a67589f7",
+          "name": "honey",
+          "display_text": "4 tablespoons Honey",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "93069fab-4e5a-5d6b-99ab-74a579756218",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 tsp Baking Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "ca191c60-2821-506a-90dc-21d2ba0c2624",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "220g Sugar",
+          "quantity": 220.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 220.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "ca9aabf6-9a26-5aeb-bbd5-253f3f951e33",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "450ml Water",
+          "quantity": 450.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Prepare"
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a mixing bowl cream together the eggs, sugar and cooled melted butter then add the honey and soda.",
+      "ingredients_used": [
+        "e20a3403-1306-5131-a513-863060fc0168",
+        "f017c3b3-8864-5190-84d2-381eb58ba982",
+        "e62e6fe0-bdff-56d6-a161-a9254cf02bc4",
+        "f6806c48-81a8-5dd3-9b76-a114dd43c453",
+        "ca191c60-2821-506a-90dc-21d2ba0c2624"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add half the flour and the walnuts (you can add the walnuts whole or ground them) and mix well.",
+      "ingredients_used": [
+        "de49c132-d84d-5c43-8bea-d3db4f63ea32",
+        "a6be4f78-cb83-564b-8942-a6c3ba1b1a96"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add the rest of the flour and using your hands kneed the mixture together until a firm dough is formed.",
+      "ingredients_used": [
+        "de49c132-d84d-5c43-8bea-d3db4f63ea32"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Coat a large baking tray (traditionally a circle tray is used about 30cm is best with a 2 - 3 inch height) with olive oil. Add the dough and press it down so that it fits the whole tray. Try and get the dough flat and equal in height all over."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Baking"
+    },
+    {
+      "step_number": 7,
+      "instruction": "Place on the bottom shelf of a cold oven and turn the temperture up to 180 degrees. Bake for 35 minutes and the dough has turned dark brown and is firm to touch.",
+      "timer_seconds": 2100
+    },
+    {
+      "step_number": 8,
+      "instruction": "Remove from the oven and leave to cool while making the syrup."
+    },
+    {
+      "step_number": 9,
+      "instruction": "Adding the Syrup"
+    },
+    {
+      "step_number": 10,
+      "instruction": "Add the sugar and water to a saucepan and bring to the boil. Leave boiling for 10 minutes, mixing occasionally. Remove from the heat.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "e20a3403-1306-5131-a513-863060fc0168",
+        "ca191c60-2821-506a-90dc-21d2ba0c2624",
+        "ca9aabf6-9a26-5aeb-bbd5-253f3f951e33"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Cut the Shendetlie into squares of diamond shapes and pour over the hot syrup. Use enough of the syrup to cover the cake plus 1 cm overflowing, sitting on top. This will soak into the cake while you leave it to cool for at least 1 hour before serving.",
+      "timer_seconds": 3600
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.myalbanianfood.com/recipe/albanian-shendetlie/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

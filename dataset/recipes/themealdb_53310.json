@@ -1,0 +1,210 @@
+{
+  "id": "906cd2a3-f48b-54cb-90bd-6dcfb2d2fa17",
+  "version": "1.0.0",
+  "title": "Challah",
+  "slug": "challah",
+  "summary": "Challah is a traditional braided bread often served during Jewish holidays. This version is enriched with eggs and oil, resulting in a soft, golden loaf topped with poppy seeds.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:22:53Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53310"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/fm01ky1764366365.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/fm01ky1764366365.jpg/small",
+      "alt_text": "Photo of Challah",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=RAYv3n4q-Wc"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d40b0607-0a3a-5f5d-8012-7eaf1b714fa5",
+        "slug": "polish",
+        "name": "Polish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "snack"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 30,
+    "rest_time_minutes": 100,
+    "total_time_minutes": 150
+  },
+  "yield": {
+    "servings": 1,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 braided loaf"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": [
+      "sesame"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "c085d59c-148f-508b-a86d-2c01c4adf8f3",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "2a08cc6f-4ad6-5e2e-a4b0-37d2c9bede58",
+          "ingredient_id": "2792320f-e680-5b9e-9e82-1ae536ce731e",
+          "name": "strong white bread flour",
+          "display_text": "500g Strong white bread flour",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "eba7ccd6-1557-505b-90ae-f2f1ef2d5591",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "70g Caster Sugar",
+          "quantity": 70.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 70.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "60a96684-35b4-5bdf-8d6a-aedc8b761b0c",
+          "ingredient_id": "28b21302-909b-59d3-a88f-a543e26ac34f",
+          "name": "yeast",
+          "display_text": "10g Yeast",
+          "quantity": 10.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "16dfc032-f7f6-58ba-a6c7-1222f9b2666a",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "2 Beaten Egg",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "beaten",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "13f738d4-f9ac-5c70-8d61-a484205c10c6",
+          "ingredient_id": "aa561384-0d26-5008-a25e-3ba9db4b2a3f",
+          "name": "sunflower oil",
+          "display_text": "70 ml Sunflower Oil",
+          "quantity": 70.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 70.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "e9716266-a489-5a90-a62d-f0e42c41f605",
+          "ingredient_id": "f4457ead-8545-546a-9caf-3192f0103aea",
+          "name": "poppy seeds",
+          "display_text": "1 tablespoon Poppy Seeds",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "nuts_seeds"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Combine the yeast, a pinch of the sugar and a couple tablespoons of lukewarm water in a small bowl. Stir to dissolve the yeast, then leave for 10 mins until foamy.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "60a96684-35b4-5bdf-8d6a-aedc8b761b0c"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Meanwhile, combine the flour, the remaining sugar and 2 tsp fine salt in a large bowl. Make a well in the center, then add half the beaten egg, the yeast mixture and the oil. Pour in 200ml lukewarm water (it should feel slightly warm to the touch) and stir with a spoon, then mix using one hand, keeping the other clean while you bring the dough together. If there are a lot of very dry bits, gradually add a little water to just bring it together – you don't want it to get too wet and sticky. The dough should be moist, but not soggy.",
+      "ingredients_used": [
+        "60a96684-35b4-5bdf-8d6a-aedc8b761b0c",
+        "16dfc032-f7f6-58ba-a6c7-1222f9b2666a"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Once the dough has come together, turn it out onto a lightly floured surface. Knead using both hands for 10 mins until smooth and a bit springy. If it gets very sticky, add a very small amount of flour – as little as possible. A dough scraper is useful if the dough is sticking to the work surface. Stretch the sides of the dough down and pull together to form a ball. Lightly oil a bowl, then lightly roll the dough ball around the bowl so it's coated in the oil. Cover with a clean tea towel and leave in a warm place for 1 hr, or until dough has doubled in size."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Line a baking sheet with baking parchment. Turn the dough out onto a clean work surface and divide into three equal pieces, weighing for accuracy, if you like. Roll each piece into a long sausage shape about 25cm long, tapering them slightly at both ends. Lay the pieces out in front of you, parallel to one another with a couple centimeters between each. Bring the sausages together at the top end, then plait them down the length, tucking in the ends when you reach the bottom. Carefully transfer the loaf to the prepared baking sheet and loosely cover with a clean tea towel. Leave to rise until puffy and billowy, about 40 mins.",
+      "timer_seconds": 2400
+    },
+    {
+      "step_number": 5,
+      "instruction": "Meanwhile, heat the oven to 200C/180C fan/gas 6. Gently brush the rest of the beaten egg all over the challah, getting it into all the crevices, and sprinkle with the poppy or sesame seeds, if using. Bake on a middle shelf of the oven for 25-30 mins, until the loaf is golden brown underneath and sounds hollow when tapped. Check after about 15 mins – if the top of the loaf has started to get too dark, cover it with foil. Leave to cool on a wire rack, then serve.",
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "16dfc032-f7f6-58ba-a6c7-1222f9b2666a"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/challah"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

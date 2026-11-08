@@ -1,0 +1,283 @@
+{
+  "id": "fd1ba89e-0111-5b84-8f56-b0c1e82f0379",
+  "version": "1.0.0",
+  "title": "Lakra me Mish Cabbage and Meat Stew",
+  "slug": "lakra-me-mish-cabbage-and-meat-stew",
+  "summary": "A hearty Albanian beef and cabbage stew simmered with red peppers, onions, and aromatic spices.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:31:47Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53412"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/mobh1l1779648766.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/mobh1l1779648766.jpg/small",
+      "alt_text": "Photo of Lakra me Mish Cabbage and Meat Stew",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=KAsoWvGbpGk"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "e7c6b7b1-e982-5d1b-96fc-1577c9153035",
+        "slug": "albanian",
+        "name": "Albanian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 155,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 175
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of stew"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "8b8a4b71-fc15-5d15-bc79-56c3bd8045f4",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "da0c1467-48a8-51c8-a61e-61ebccf9c0ff",
+          "ingredient_id": "c2102b4e-a5b4-5bab-b7d5-bdfa5244ae7b",
+          "name": "beef",
+          "display_text": "500g Beef",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "31ead592-7f35-57f6-ba05-8fb605d94e1e",
+          "ingredient_id": "8604c41c-a935-5634-b405-fed806fe806b",
+          "name": "cabbage",
+          "display_text": "1 Diced Cabbage",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7fa0ed68-c8a4-5b16-b7af-62ac56f84f11",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "2 tsp Paprika",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "a47c0eaf-56cd-5943-a8da-68f4cd67e529",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "3 tsp Tomato Puree",
+          "quantity": 3.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "d042c942-093c-5c4f-a193-d09ca77e4250",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "2 diced Red Pepper",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "95bc8933-c953-5afc-aff8-960b340e001a",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Diced Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "9a7e2ae2-3480-529d-93f7-d8105cba77d9",
+          "ingredient_id": "25e62537-6a4e-5945-adda-37c29baeffdd",
+          "name": "chilli flakes",
+          "display_text": "1/4 tsp Chilli Flakes",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3339f915-a71a-5932-9286-825194f63b8c",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "72e3a367-9b50-504f-9f03-f08156d1277d",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "Pinch Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "8e680217-4aeb-5e54-a168-7a6ed76b0eec",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "Splash Olive Oil",
+          "quantity": 1,
+          "unit": "splash",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "0dd9c826-bfb5-5f2a-bd7d-69b6ed3e5b16",
+          "ingredient_id": "40367a80-a6cc-5715-9d1d-b43689c0eec7",
+          "name": "boiling water",
+          "display_text": "1 L Boiling Water",
+          "quantity": 1.0,
+          "unit": "liter",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "liter",
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Cooking"
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add some olive oil to a saute pan or saucepan (one with a lid). One heated add in the onions, diced beef, red peppers and fry for 5 minutes stirring occasionally. The meat should be fully browned.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "da0c1467-48a8-51c8-a61e-61ebccf9c0ff",
+        "95bc8933-c953-5afc-aff8-960b340e001a",
+        "8e680217-4aeb-5e54-a168-7a6ed76b0eec"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the paprika, tomato puree, chilli flakes and season with salt and pepper. Mix together and continue to fry for 2 minutes.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "7fa0ed68-c8a4-5b16-b7af-62ac56f84f11",
+        "a47c0eaf-56cd-5943-a8da-68f4cd67e529",
+        "9a7e2ae2-3480-529d-93f7-d8105cba77d9",
+        "3339f915-a71a-5932-9286-825194f63b8c",
+        "72e3a367-9b50-504f-9f03-f08156d1277d"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add the cabbage and stir the mixture together. Fry the mixture while stirring occasionally for 3-5 minutes. Most of the oil should have burned away.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "31ead592-7f35-57f6-ba05-8fb605d94e1e"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Pour the boiling water into the pan, ensuring that the water level completely covers the cabbage, plus about 1 inch above it. Put on the lid and bring to the boil.",
+      "ingredients_used": [
+        "31ead592-7f35-57f6-ba05-8fb605d94e1e",
+        "0dd9c826-bfb5-5f2a-bd7d-69b6ed3e5b16"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Leave to simmer for 2.5 hours. The stew is ready when the cabbage is soft and meat tender.",
+      "timer_seconds": 9000,
+      "ingredients_used": [
+        "31ead592-7f35-57f6-ba05-8fb605d94e1e"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Serving"
+    },
+    {
+      "step_number": 8,
+      "instruction": "Serve into wide bowls and leave to cool for 5 minutes.",
+      "timer_seconds": 300
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.myalbanianfood.com/recipe/lakra-me-mish/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

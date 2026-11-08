@@ -1,0 +1,318 @@
+{
+  "id": "b1241d43-b586-59db-84be-c6ca211d9dec",
+  "version": "1.0.0",
+  "title": "Spanish meatballs with clams, chorizo & squid",
+  "slug": "spanish-meatballs-with-clams-chorizo-squid",
+  "summary": "Spanish-style meatballs made with pork and chorizo, served in a rich sauce with squid, clams, and tomatoes.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:11:37Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53183"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/2wt8721763334199.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/2wt8721763334199.jpg/small",
+      "alt_text": "Photo of Spanish meatballs with clams, chorizo & squid",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 45
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of meatballs with seafood and sauce"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "d083b6d7-b404-5037-a009-5ef57bab3716",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "c36987f0-c69b-5147-97f6-4b6721cde864",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "25g Butter",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "8c0b72a4-dd3c-5748-ae29-cd4449479d21",
+          "ingredient_id": "d22accc4-e562-59bf-9cbb-1ad38d461e99",
+          "name": "shallots",
+          "display_text": "3 diced Shallots",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1e1120ed-cd07-5aa6-ab23-e5e1846e86fc",
+          "ingredient_id": "d8dee4f9-ce24-510b-a43d-b7968606921e",
+          "name": "smoked paprika",
+          "display_text": "1 teaspoon Smoked Paprika",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e0b0f221-461a-57ba-89a9-752eac94cf99",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves minced Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "minced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c259f997-8dab-560b-b092-8b6cf5715c6f",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove finely chopped Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2fa22f2c-7b15-5e82-b469-cfd6a5e239ea",
+          "ingredient_id": "0878c803-3a75-5498-b12f-29ba3adbfea5",
+          "name": "dry sherry",
+          "display_text": "2 tblsp Dry sherry",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "f4c45f45-38e4-5ab6-b6a4-e545749b20ea",
+          "ingredient_id": "00efa231-6d81-5c88-91fa-b330117cc5f4",
+          "name": "breadcrumbs",
+          "display_text": "50g Breadcrumbs",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "341ca3b8-14af-5989-8859-275cb8b6d7c0",
+          "ingredient_id": "f16b4344-55cf-5ee7-a3a2-d8f68550bd18",
+          "name": "pork",
+          "display_text": "300g Pork",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "dcaa696f-4ecb-55ef-9f5c-dcbd32dbd945",
+          "ingredient_id": "051a3118-01a4-5366-a922-19ecf618e2f9",
+          "name": "egg yolks",
+          "display_text": "1 Egg Yolks",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "2b321758-938e-55ae-b83f-e101aba82c5d",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "50 ml Olive Oil",
+          "quantity": 50.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "9fdf6ca2-70ea-5dfc-a8a5-d5702213d6ea",
+          "ingredient_id": "d4235a95-0bb4-579b-8855-bbb8f4efeb46",
+          "name": "chorizo",
+          "display_text": "300g Chorizo",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "d1669842-bb45-54ea-a171-4788ddbbf114",
+          "ingredient_id": "99692f34-e6c0-5343-b562-9ea531589faa",
+          "name": "squid",
+          "display_text": "300g Squid",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "ef2eecd3-0a52-505a-93bd-33b8f81687e8",
+          "ingredient_id": "7dfa4179-cc08-5fb6-b4fc-aa52abc5f515",
+          "name": "white wine",
+          "display_text": "100 ml White Wine",
+          "quantity": 100.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "d0dd521a-a195-5642-8c5b-3c534b335198",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "300g Tomato",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "bc249574-75ac-5625-ae76-4c7106294fbe",
+          "ingredient_id": "ed56a766-8341-54bc-9a49-06a1d5eb42b6",
+          "name": "clams",
+          "display_text": "400g Clams",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "d2f8d033-2954-56a2-aa4f-7c64af54219c",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Handful Parsley",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "7fe1a44d-e588-5f69-92c6-8ee09184f8ad",
+          "ingredient_id": "96cc0c2b-795a-53be-a503-05d14e92b236",
+          "name": "extra virgin olive oil",
+          "display_text": "Drizzle Extra Virgin Olive Oil",
+          "quantity": 1,
+          "unit": "drizzle",
+          "is_optional": false,
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Melt the butter in a heavy-based casserole, then soften the shallots for 5 mins. Add the paprika and crushed garlic and cook for 1 min until the paprika becomes fragrant. Splash in the sherry, then pour the whole lot into a bowl with the breadcrumbs. Season and cool.",
+      "ingredients_used": [
+        "c36987f0-c69b-5147-97f6-4b6721cde864",
+        "8c0b72a4-dd3c-5748-ae29-cd4449479d21",
+        "1e1120ed-cd07-5aa6-ab23-e5e1846e86fc",
+        "e0b0f221-461a-57ba-89a9-752eac94cf99",
+        "c259f997-8dab-560b-b092-8b6cf5715c6f",
+        "2fa22f2c-7b15-5e82-b469-cfd6a5e239ea",
+        "f4c45f45-38e4-5ab6-b6a4-e545749b20ea"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the pork mince and the egg yolk to the bowl, then beat well. Shape into 18 small meatballs. Wipe the pan, put on a medium-high heat, then add the oil. Fry the meatballs for 5 mins, just to color, then lift onto a plate, but keep the oil in the pan. Sizzle the chorizo with the sliced garlic. Add the squid and fry to give a little color. Now tip in the white wine and bring to the boil, scraping the bottom. Stir in the pulped tomatoes, bring to the boil, then add the meatballs and the clams. Cover and cook for 5 mins until the clam shells open. Discard any that stay shut. Sprinkle with the chopped parsley, drizzle with the extra virgin oil, then serve with crusty bread.",
+      "ingredients_used": [
+        "e0b0f221-461a-57ba-89a9-752eac94cf99",
+        "c259f997-8dab-560b-b092-8b6cf5715c6f",
+        "341ca3b8-14af-5989-8859-275cb8b6d7c0",
+        "9fdf6ca2-70ea-5dfc-a8a5-d5702213d6ea",
+        "d1669842-bb45-54ea-a171-4788ddbbf114",
+        "ef2eecd3-0a52-505a-93bd-33b8f81687e8",
+        "d0dd521a-a195-5642-8c5b-3c534b335198",
+        "bc249574-75ac-5625-ae76-4c7106294fbe",
+        "d2f8d033-2954-56a2-aa4f-7c64af54219c"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/spanish-meatballs-clams-chorizo-squid"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

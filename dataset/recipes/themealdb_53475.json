@@ -1,0 +1,206 @@
+{
+  "id": "fb81249e-c879-5e89-9976-e385f4e71206",
+  "version": "1.0.0",
+  "title": "Brazilian chocolate truffles - brigadeiro",
+  "slug": "brazilian-chocolate-truffles-brigadeiro",
+  "summary": "A traditional Brazilian dessert made from a cooked mixture of condensed milk, cocoa powder, and butter, rolled into small balls and coated in various toppings.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:37:27Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53475"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/dg7tad1782588053.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/dg7tad1782588053.jpg/small",
+      "alt_text": "Photo of Brazilian chocolate truffles - brigadeiro",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6675856e-6919-5ea9-9f7a-8bf7f195e27f",
+        "slug": "brazilian",
+        "name": "Brazilian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 15,
+    "rest_time_minutes": 120,
+    "total_time_minutes": 150
+  },
+  "yield": {
+    "servings": 15,
+    "serving_unit": "pieces",
+    "serving_size_description": "2.5cm truffle ball"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "tree_nuts"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "868c8fe0-3b95-52ea-b6b9-ebf4489d4c20",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "942fa14d-b6fa-5e63-9691-f126db923cef",
+          "ingredient_id": "bc46b2a6-8a59-50ee-a044-ce38bddb125c",
+          "name": "unsalted butter",
+          "display_text": "3  tablespoons Unsalted Butter",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "a3c11686-d7fb-555b-805b-8a3ee0d8ea60",
+          "ingredient_id": "3fe531f9-aa92-5d4e-9940-e8eddf18456b",
+          "name": "condensed milk",
+          "display_text": "400g Condensed Milk",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "fe34da7b-dc4c-5251-af69-ebfe951e2afa",
+          "ingredient_id": "6c64db5e-ca58-5d5d-9518-d41d949dd540",
+          "name": "cocoa powder",
+          "display_text": "4 tablespoons Cocoa Powder",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "8f1910fb-aed9-5d05-81a7-f54eff5a7eed",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1 tsp Vanilla Extract",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "de3b502d-74d8-594d-90b6-7933cdf81bdf",
+          "ingredient_id": "7a638ace-4c4a-53cc-a6d0-64e2c042f7ec",
+          "name": "pistachio",
+          "display_text": "50g Pistachio",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "d0cc065d-29db-53c2-be17-fbdb2c825886",
+          "ingredient_id": "1f65be5f-ad9d-5713-aca2-600f7b2a1ee8",
+          "name": "almonds",
+          "display_text": "50g Almonds",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "86f2d3dd-123c-55bf-aaed-bb784f4705c7",
+          "ingredient_id": "4fa73e5a-853a-5513-bfa8-edb5e7f03cce",
+          "name": "desiccated coconut",
+          "display_text": "50g Desiccated Coconut",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "In a medium heavy-based saucepan, heat the butter, condensed milk, a pinch of salt and the cocoa, to boiling, stirring constantly with a wooden spoon. Reduce the heat to medium-low; cook for 10-15 mins, stirring constantly, until the mixture is thick and shiny and starts to pull away from the bottom.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "942fa14d-b6fa-5e63-9691-f126db923cef",
+        "a3c11686-d7fb-555b-805b-8a3ee0d8ea60"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Stir in the vanilla and vigorously mix again. Pour the mixture onto a buttered plate. Chill for at least 2 hrs.",
+      "timer_seconds": 7200,
+      "ingredients_used": [
+        "942fa14d-b6fa-5e63-9691-f126db923cef"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Butter your hands and pinch off some of the dough to make 2.5cm balls. Place your toppings into small bowls and roll the balls of one of the decorations. Place in mini paper baking cups or on a tray lined with non-stick baking paper",
+      "ingredients_used": [
+        "942fa14d-b6fa-5e63-9691-f126db923cef"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/brazilian-chocolate-truffles-brigadeiro"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

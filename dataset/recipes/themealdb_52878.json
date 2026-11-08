@@ -1,0 +1,337 @@
+{
+  "id": "9de2305e-7534-5805-b915-4b4588d8db6d",
+  "version": "1.0.0",
+  "title": "Beef and Oyster pie",
+  "slug": "beef-and-oyster-pie",
+  "summary": "A traditional British savory pie filled with tender beef, bacon, and oysters in a rich stout gravy, topped with a buttery pastry crust.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:45:33Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52878"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/wrssvt1511556563.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/wrssvt1511556563.jpg/small",
+      "alt_text": "Photo of Beef and Oyster pie",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ONX74yP6JnI"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "pie"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 150,
+    "total_time_minutes": 180
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1 large slice of pie"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "6ca7d196-56d3-5af9-a297-7b5275e9f3ac",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "36d1dd2f-875f-5bd8-ad54-26714937298d",
+          "ingredient_id": "c2102b4e-a5b4-5bab-b7d5-bdfa5244ae7b",
+          "name": "beef",
+          "display_text": "900g Beef",
+          "quantity": 900.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 900.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "78e1cc38-8193-5bfb-ae1a-27d66ca35542",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "3 tbs Olive Oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "0d55512d-75b5-5ce8-9280-128bb36f4b1c",
+          "ingredient_id": "d22accc4-e562-59bf-9cbb-1ad38d461e99",
+          "name": "shallots",
+          "display_text": "3 Shallots",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4ad767b2-4ae6-5d8f-9532-43c2009779ae",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves minced Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "minced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "9eb5046d-0481-5012-864c-f4b1e15e0706",
+          "ingredient_id": "956cfefc-d0f9-5c1f-9f20-d38a1e4dbdad",
+          "name": "bacon",
+          "display_text": "125g Bacon",
+          "quantity": 125.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 125.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "836de12c-479a-5a0e-a642-2183d9a60bd6",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "1 tbs chopped Thyme",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d5d46d16-5335-5888-a31c-92255cf6fef3",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "2 Bay Leaf",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "49503805-2819-58ad-ae81-fb93d7cbcda4",
+          "ingredient_id": "4553a0e0-e71e-5738-b91e-2b55be0b3dfd",
+          "name": "stout",
+          "display_text": "330ml Stout",
+          "quantity": 330.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 330.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "79d81ea6-ea4e-56a9-87aa-2b255b154de6",
+          "ingredient_id": "39a746ef-3300-5229-b0b2-3e03970ea60c",
+          "name": "beef stock",
+          "display_text": "400ml Beef Stock",
+          "quantity": 400.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "1c4c9aa4-5cf6-57b3-b0a1-9be9e8d30772",
+          "ingredient_id": "94f73465-e9e4-5ae0-8787-ee86687dbeb4",
+          "name": "corn flour",
+          "display_text": "2 tbs Corn Flour",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "c95f0364-8644-552f-b18b-62213baacc47",
+          "ingredient_id": "01ef6793-f23c-54a6-96a4-f3e4687d6d7d",
+          "name": "oysters",
+          "display_text": "8 Oysters",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "seafood"
+        },
+        {
+          "id": "75671686-7269-565b-9da5-e90ae391be76",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "400g Plain Flour",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "a5dc0c48-ebf1-57a0-8c68-c4f74436afcc",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "87b54090-1045-5e3e-ae7a-088fb1f87d9d",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "250g Butter",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "55ae916b-6b81-5a65-8291-0f0652e2a2b7",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "To Glaze Eggs",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to glaze",
+          "is_optional": false,
+          "category": "eggs"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Season the beef cubes with salt and black pepper. Heat a tablespoon of oil in the frying pan and fry the meat over a high heat. Do this in three batches so that you don’t overcrowd the pan, transferring the meat to a large flameproof casserole dish once it is browned all over. Add extra oil if the pan seems dry.",
+      "ingredients_used": [
+        "36d1dd2f-875f-5bd8-ad54-26714937298d",
+        "a5dc0c48-ebf1-57a0-8c68-c4f74436afcc"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "In the same pan, add another tablespoon of oil and cook the shallots for 4-5 minutes, then add the garlic and fry for 30 seconds. Add the bacon and fry until slightly browned. Transfer the onion and bacon mixture to the casserole dish and add the herbs.",
+      "ingredients_used": [
+        "0d55512d-75b5-5ce8-9280-128bb36f4b1c",
+        "4ad767b2-4ae6-5d8f-9532-43c2009779ae",
+        "9eb5046d-0481-5012-864c-f4b1e15e0706"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Preheat the oven to 180C/350F/Gas 4.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 4,
+      "instruction": "Pour the stout into the frying pan and bring to the boil, stirring to lift any stuck-on browned bits from the bottom of the pan. Pour the stout over the beef in the casserole dish and add the stock. Cover the casserole and place it in the oven for 1½-2 hours, or until the beef is tender and the sauce is reduced.",
+      "timer_seconds": 7200,
+      "ingredients_used": [
+        "36d1dd2f-875f-5bd8-ad54-26714937298d",
+        "49503805-2819-58ad-ae81-fb93d7cbcda4"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Skim off any surface fat, taste and add salt and pepper if necessary, then stir in the cornflour paste. Put the casserole dish on the hob – don’t forget that it will be hot – and simmer for 1-2 minutes, stirring, until thickened. Leave to cool.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "a5dc0c48-ebf1-57a0-8c68-c4f74436afcc"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Increase the oven to 200C/400F/Gas 6. To make the pastry, put the flour and salt in a very large bowl. Grate the butter and stir it into the flour in three batches. Gradually add 325ml/11fl oz cold water – you may not need it all – and stir with a round-bladed knife until the mixture just comes together. Knead the pastry lightly into a ball on a lightly floured surface and set aside 250g/9oz for the pie lid.",
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "a5dc0c48-ebf1-57a0-8c68-c4f74436afcc",
+        "87b54090-1045-5e3e-ae7a-088fb1f87d9d"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Roll the rest of the pastry out until about 2cm/¾in larger than the dish you’re using. Line the dish with the pastry then pile in the filling, tucking the oysters in as well. Brush the edge of the pastry with beaten egg.",
+      "ingredients_used": [
+        "c95f0364-8644-552f-b18b-62213baacc47"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Roll the remaining pastry until slightly larger than your dish and gently lift over the filling, pressing the edges firmly to seal, then trim with a sharp knife. Brush with beaten egg to glaze. Put the dish on a baking tray and bake for 25-30 minutes, or until the pastry is golden-brown and the filling is bubbling.",
+      "timer_seconds": 1800
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbc.co.uk/food/recipes/beef_and_oyster_pie_65230"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

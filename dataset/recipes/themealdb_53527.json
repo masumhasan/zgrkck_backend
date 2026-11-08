@@ -1,0 +1,137 @@
+{
+  "id": "d0e4f8c5-2e10-5ab3-bc3a-7e7684daa449",
+  "version": "1.0.0",
+  "title": "Achiote Oil (Aceite Achiotado) Recipe",
+  "slug": "achiote-oil-aceite-achiotado-recipe",
+  "summary": "A vibrant, reddish-colored oil infused with achiote seeds, commonly used in Colombian cuisine to add color and a subtle earthy flavor to rice and stews.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:42:04Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53527"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/iuws3q1783801530.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/iuws3q1783801530.jpg/small",
+      "alt_text": "Photo of Achiote Oil (Aceite Achiotado) Recipe",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "50fefb0a-1f33-59b0-afdb-383ba2373950",
+        "slug": "colombian",
+        "name": "Colombian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "condiment"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 0,
+    "cook_time_minutes": 3,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 8
+  },
+  "yield": {
+    "servings": 16,
+    "serving_unit": "servings",
+    "serving_size_description": "2 tablespoons of oil"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "0c1ef7c6-4f35-5519-b54d-adccdae6f5ff",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "7caa10b8-1785-5b2f-b5f0-3da0ae08ffcf",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "2 cups Vegetable Oil",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "986107be-2281-5df2-8bb5-45d8cc525ab4",
+          "ingredient_id": "c1b05a74-20f2-52c7-8f58-a0dbcd1f4402",
+          "name": "achiote seeds",
+          "display_text": "4 tablespoons Achiote Seeds",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the vegetable or olive oil and Achiote seeds in a small skillet over medium heat for about 2 to 3 minutes.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "986107be-2281-5df2-8bb5-45d8cc525ab4"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Don't let the seeds turn black. Remove the skillet from the heat and let stand for 5 minutes more. Strain the oil and store for up to 15 days at room temperature in a jar with a tight lid.",
+      "timer_seconds": 300
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.mycolombianrecipes.com/achiote-oil-aceite-de-achiote/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

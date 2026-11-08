@@ -1,0 +1,230 @@
+{
+  "id": "0089d40f-96c0-53e2-9f51-d05b90b9ead5",
+  "version": "1.0.0",
+  "title": "Breadfruit Tacos",
+  "slug": "breadfruit-tacos",
+  "summary": "Breadfruit slices are boiled, shaped into taco shells, and deep-fried until golden brown. They are served filled with a savory protein such as codfish.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:45:18Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53562"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/dk70uv1784670127.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/dk70uv1784670127.jpg/small",
+      "alt_text": "Photo of Breadfruit Tacos",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4da88d96-f05f-5f73-a14b-c5e37ee2541e",
+        "slug": "dominican",
+        "name": "Dominican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 30,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 50
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "2-3 breadfruit taco shells"
+  },
+  "allergens": {
+    "contains": [
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "d6f94a8f-ee47-562a-a72b-5a110603d5f4",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "9e712712-6ae5-51d0-abbb-ab72a61df528",
+          "ingredient_id": "3a71eccb-30f8-502f-9811-d0ce37985121",
+          "name": "breadfruit",
+          "display_text": "1 Breadfruit",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "fe5bc521-fd73-57a5-9b23-02b23182d6ce",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1 pot Water",
+          "quantity": 1.0,
+          "unit": "pot",
+          "is_optional": false,
+          "category": "beverages"
+        },
+        {
+          "id": "82e69cc5-0a33-5aed-90ae-a0c43314db2e",
+          "ingredient_id": "9d9fa904-c94d-500e-849d-81ff7e4ed04c",
+          "name": "codfish bulljaw",
+          "display_text": "As required Codfish Bulljaw",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "as required",
+          "is_optional": false,
+          "category": "fish"
+        },
+        {
+          "id": "3d5b6c33-b411-5c6a-89aa-0c5b4f42d964",
+          "ingredient_id": "0777cda5-7472-55c6-bfb1-6a88f7678f6d",
+          "name": "lettuce",
+          "display_text": "As required Lettuce",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "as required",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "08ee56d4-02de-556e-977c-9bab986288cd",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "For frying Oil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "for frying",
+          "is_optional": false,
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Place a large pot of water to boil, add breadfruit, and let it cook for around 30 minutes",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "9e712712-6ae5-51d0-abbb-ab72a61df528",
+        "fe5bc521-fd73-57a5-9b23-02b23182d6ce"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Remove breadfruit from pot and let it cool for a few minutes",
+      "ingredients_used": [
+        "9e712712-6ae5-51d0-abbb-ab72a61df528"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Hold the breadfruit firmly and using a large sharp knife slice into thin rounds",
+      "ingredients_used": [
+        "9e712712-6ae5-51d0-abbb-ab72a61df528"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Slice as many as you need"
+    },
+    {
+      "step_number": 5,
+      "instruction": "Then cut off skin and core (You may leave the core on if you like)"
+    },
+    {
+      "step_number": 6,
+      "instruction": "Gently fold to shape like a taco shell, use two toothpicks to hold it in place."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Place on a large plate or tray and repeat this process for all breadfruit slices",
+      "ingredients_used": [
+        "9e712712-6ae5-51d0-abbb-ab72a61df528"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Heat oil for deep frying, using a pair of tongs submerge breadfruit slices in pan,",
+      "ingredients_used": [
+        "9e712712-6ae5-51d0-abbb-ab72a61df528",
+        "08ee56d4-02de-556e-977c-9bab986288cd"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "You can guide slices with tongs if you need to"
+    },
+    {
+      "step_number": 10,
+      "instruction": "You can leave the small toothpicks in the taco shells and remove them after they're cooked. Or, you can do like I did. If your'e using larger toothpicks, you may need to remove them safely. Be very careful as you need to adjust it in the hot oil.",
+      "ingredients_used": [
+        "08ee56d4-02de-556e-977c-9bab986288cd"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Remove when golden brown"
+    },
+    {
+      "step_number": 12,
+      "instruction": "Set over tissue paper"
+    },
+    {
+      "step_number": 13,
+      "instruction": "Repeat this for the rest of the shells"
+    },
+    {
+      "step_number": 14,
+      "instruction": "Stuff the shell with your favorite filling. I chose codfish/ salt fish"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://dominicagourmet.com/breadfruit-tacos-recipe/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

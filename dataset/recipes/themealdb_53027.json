@@ -1,0 +1,255 @@
+{
+  "id": "824fab73-4ed5-5bef-8133-f265d6d9c92b",
+  "version": "1.0.0",
+  "title": "Koshari",
+  "slug": "koshari",
+  "summary": "Koshari is a popular Egyptian street food consisting of a hearty mixture of lentils, rice, and macaroni topped with crispy fried onions.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:58:05Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53027"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/4er7mj1598733193.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/4er7mj1598733193.jpg/small",
+      "alt_text": "Photo of Koshari",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=y0d2ZMZBW4Y"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "3586d868-9b83-5a6f-adb2-43d378fffcd2",
+        "slug": "egyptian",
+        "name": "Egyptian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 65
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a bowl of rice, lentils, and pasta topped with onions and chickpeas"
+  },
+  "allergens": {
+    "contains": [
+      "gluten"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "11eabf4e-7b34-541c-acb0-951fa2871a0f",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "335d6eb0-3977-55e0-ac09-1af8792d7157",
+          "ingredient_id": "2afea6b9-5e0a-5f9e-b2f3-b4746a144116",
+          "name": "brown lentils",
+          "display_text": "1 1/2 cups Brown Lentils",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "6e550de4-bf97-5dba-b0d8-ce89ce5694fa",
+          "ingredient_id": "025b8433-c498-5b37-813a-ec00ac6c2ae5",
+          "name": "rice",
+          "display_text": "1 1/2 cups Rice",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "3a5148da-70d1-5dce-a080-ae80f727c8ab",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "1/2 tsp Coriander",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "0699fb4f-99c8-5bda-869b-de185f10cb9a",
+          "ingredient_id": "0ec71036-cad4-57f1-81a8-9396827c3785",
+          "name": "macaroni",
+          "display_text": "2 cups Macaroni",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "89ddf89b-0ea4-5bc5-814d-8e49c6beaa4a",
+          "ingredient_id": "ae979dd7-6a1e-5882-9ed5-e0b09554efd0",
+          "name": "chickpeas",
+          "display_text": "Can Chickpeas",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "can",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "25375dab-8979-52d3-a541-fe63f0bfd718",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 large Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2bb6092c-2240-5428-9c0a-7f5cb41c9e2a",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Sprinking Salt",
+          "quantity": 1,
+          "unit": "sprinkling",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "c06e90bf-60ae-520e-9fa6-6d868681e615",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "1/2 cup Vegetable Oil",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Cook the lentils. Bring lentils and 4 cups of water to a boil in a medium pot or saucepan over high heat. Reduce the heat to low and cook until lentils are just tender (15-17 minutes). Drain from water and season with a little salt. (Note: when the lentils are ready, they should not be fully cooked. They should be only par-cooked and still have a bite to them as they need to finish cooking with the rice).",
+      "timer_seconds": 1020,
+      "ingredients_used": [
+        "335d6eb0-3977-55e0-ac09-1af8792d7157",
+        "6e550de4-bf97-5dba-b0d8-ce89ce5694fa",
+        "2bb6092c-2240-5428-9c0a-7f5cb41c9e2a"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Now, for the rice. Drain the rice from its soaking water. Combine the par-cooked lentils and the rice in the saucepan over medium-high heat with 1 tbsp cooking oil, salt, pepper, and coriander. Cook for 3 minutes, stirring regularly. Add warm water to cover the rice and lentil mixture by about 1 1/2 inches (you’ll probably use about 3 cups of water here). Bring to a boil; the water should reduce a bit. Now cover and cook until all the liquid has been absorbed and both the rice and lentils are well cooked through (about 20 minutes).  Keep covered and undisturbed for 5 minutes or so.",
+      "ingredients_used": [
+        "335d6eb0-3977-55e0-ac09-1af8792d7157",
+        "6e550de4-bf97-5dba-b0d8-ce89ce5694fa",
+        "3a5148da-70d1-5dce-a080-ae80f727c8ab",
+        "2bb6092c-2240-5428-9c0a-7f5cb41c9e2a"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Now make the pasta. While the rice and lentils are cooking, make the pasta according to package instructions by adding the elbow pasta to boiling water with a dash of salt and a little oil. Cook until the pasta is al dente. Drain.",
+      "ingredients_used": [
+        "335d6eb0-3977-55e0-ac09-1af8792d7157",
+        "6e550de4-bf97-5dba-b0d8-ce89ce5694fa",
+        "2bb6092c-2240-5428-9c0a-7f5cb41c9e2a"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Cover the chickpeas and warm in the microwave briefly before serving.",
+      "ingredients_used": [
+        "89ddf89b-0ea4-5bc5-814d-8e49c6beaa4a"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Make the crispy onion topping.",
+      "ingredients_used": [
+        "25375dab-8979-52d3-a541-fe63f0bfd718"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Sprinkle the onion rings with salt, then toss them in the flour to coat. Shake off excess flour.",
+      "ingredients_used": [
+        "25375dab-8979-52d3-a541-fe63f0bfd718",
+        "2bb6092c-2240-5428-9c0a-7f5cb41c9e2a"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "In a large skillet, heat the cooking oil over medium-high heat, cook the onion rings, stirring often, until they turn a nice caramelized brown. Onions must be crispy, but not burned (15-20 minutes).",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "25375dab-8979-52d3-a541-fe63f0bfd718"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.themediterraneandish.com/egyptian-koshari-recipe/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

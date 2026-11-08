@@ -1,0 +1,296 @@
+{
+  "id": "7adc61be-369c-59e7-a548-e59c4780b31b",
+  "version": "1.0.0",
+  "title": "Rosol (Polish Chicken Soup)",
+  "slug": "rosol-polish-chicken-soup",
+  "summary": "A traditional Polish chicken soup featuring a clear broth simmered with chicken legs, root vegetables, and aromatic spices.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:57:31Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53020"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/lx1kkj1593349302.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/lx1kkj1593349302.jpg/small",
+      "alt_text": "Photo of Rosol (Polish Chicken Soup)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=AU60fxyxXGw"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d40b0607-0a3a-5f5d-8012-7eaf1b714fa5",
+        "slug": "polish",
+        "name": "Polish"
+      }
+    ],
+    "tags": [
+      "soup"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "soup"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 150,
+    "total_time_minutes": 165
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of soup with chicken and vegetables"
+  },
+  "allergens": {
+    "contains": [
+      "celery"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "gluten"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "b7e3580d-693f-5a2b-bba3-3e3376525325",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "6d1f986c-963d-570c-99dd-602ddfe772ae",
+          "ingredient_id": "e023ae45-1d37-5ed8-bd41-426cd1a6688c",
+          "name": "chicken legs",
+          "display_text": "4 Chopped Chicken Legs",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "3c7e4593-559b-5e1c-b260-77406fe9aec4",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onions",
+          "display_text": "2 large Onions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "31dafd3f-6a5d-59e8-a8dd-cfde272878d9",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "5 chopped Carrots",
+          "quantity": 5.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f98ade9f-6a4c-56ba-a107-1a0ca8e70bea",
+          "ingredient_id": "ef5d99bc-384e-522a-8c0f-1c8501f6612c",
+          "name": "leek",
+          "display_text": "1 chopped Leek",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "a5deed09-90ad-5c1f-b1f9-e71e5ac9df88",
+          "ingredient_id": "ed4951b3-26e6-5bb4-a5af-9c61a46687a0",
+          "name": "celery",
+          "display_text": "1 small Celery",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "048a5bef-c459-5c71-bfa3-443f2e5fd76a",
+          "ingredient_id": "8604c41c-a935-5634-b405-fed806fe806b",
+          "name": "cabbage",
+          "display_text": "1/4 Cabbage",
+          "quantity": 0.25,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "527d3a57-bcbf-52ad-965d-47b6f7553427",
+          "ingredient_id": "73063cfc-1094-5f58-87bf-49227197f2a2",
+          "name": "cloves",
+          "display_text": "1 whole Cloves",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "whole",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "14efcb85-0281-5f2a-bb41-ad4f6c5df1dc",
+          "ingredient_id": "38dedce7-9a7f-57ee-8e46-5162ab60eba8",
+          "name": "allspice",
+          "display_text": "1tsp Allspice",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "62f02e5d-0789-502f-9734-8c2cc21ade7a",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "2 Bay Leaf",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "8a25869f-fb79-5e7c-a5e6-c0421751835c",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "4 sprigs Parsley",
+          "quantity": 4.0,
+          "unit": "sprig",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3a47ed5c-9b84-5586-8abd-d64e6941bd9a",
+          "ingredient_id": "c20ef13e-7f52-5fce-847f-34f123e6392e",
+          "name": "dill",
+          "display_text": "4 sprigs Dill",
+          "quantity": 4.0,
+          "unit": "sprig",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "0b6d7c67-c85c-54ce-918d-647ef84107eb",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "1 tsp Pepper",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "2963a876-1c92-5fd0-9bf9-7a5504b2a045",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tbs Salt",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Add chicken to a large Dutch oven or stock pot"
+    },
+    {
+      "step_number": 2,
+      "instruction": "Cover with water"
+    },
+    {
+      "step_number": 3,
+      "instruction": "Bring to a boil and simmer for 2 to 2 1/2 hours, skimming any impurities off the top to insure a clear broth",
+      "timer_seconds": 7200
+    },
+    {
+      "step_number": 4,
+      "instruction": "If your pot is big enough, add the vegetables and spices for the last hour of the cooking time"
+    },
+    {
+      "step_number": 5,
+      "instruction": "My Dutch oven wasn’t big enough to hold everything, just the chicken and other bones filled the pot, so I cooked the meat/bones for the full cooking time, then removed them, and cooked the vegetables and spices separately"
+    },
+    {
+      "step_number": 6,
+      "instruction": "Strain everything out of the broth"
+    },
+    {
+      "step_number": 7,
+      "instruction": "Bone the chicken, pulling the meat into large chunks"
+    },
+    {
+      "step_number": 8,
+      "instruction": "Slice the carrots",
+      "ingredients_used": [
+        "31dafd3f-6a5d-59e8-a8dd-cfde272878d9"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Return the chicken and carrots to the broth",
+      "ingredients_used": [
+        "31dafd3f-6a5d-59e8-a8dd-cfde272878d9"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "Cook noodles according to package instructions if you’re using them"
+    },
+    {
+      "step_number": 11,
+      "instruction": "Add noodles to bowl and then top with hot soup"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://polishhousewife.com/rosol-polish-chicken-soup/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

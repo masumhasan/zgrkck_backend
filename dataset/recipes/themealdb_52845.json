@@ -1,0 +1,270 @@
+{
+  "id": "ad1b5cf5-784f-5984-a912-376b2f5db3e0",
+  "version": "1.0.0",
+  "title": "Turkey Meatloaf",
+  "slug": "turkey-meatloaf",
+  "summary": "A savory turkey meatloaf served with a side of seasoned cannellini beans.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:42:34Z",
+  "updated_at": "2026-10-16T10:22:48Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52845"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ypuxtw1511297463.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ypuxtw1511297463.jpg/small",
+      "alt_text": "Photo of Turkey Meatloaf",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=mTvlmY4vCug"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "baking"
+    ],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 slice of meatloaf with beans"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "eggs",
+      "fish",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "e395ee01-e034-5b68-8601-d4368bbe9fe2",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "6b8de3aa-478c-55c8-8672-9a1370ccbd12",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 tblsp Olive Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "38469145-150c-5748-a762-81606b534770",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 large Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "5308ccb0-dbda-50fa-a33d-6e8f2ce43315",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove peeled crushed Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "preparation": "peeled crushed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "85f53e02-a2a6-5627-8783-82c41a352e36",
+          "ingredient_id": "31e8f031-3e86-5406-8703-0e73554e2898",
+          "name": "worcestershire sauce",
+          "display_text": "2 tblsp Worcestershire Sauce",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "156e8bba-097f-5053-bcd5-517a8569419a",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "3 tsp Tomato Puree",
+          "quantity": 3.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "be8b3904-0138-5f8f-98be-b06f370f4687",
+          "ingredient_id": "4e1de690-1e87-5c30-b34a-1270107a8df9",
+          "name": "turkey mince",
+          "display_text": "500g Turkey Mince",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "poultry"
+        },
+        {
+          "id": "2f3945bf-a27e-528b-ad10-69e3e9749cd1",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "1 large Eggs",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "d89184aa-6e48-51bc-98d1-74ed87e7cb59",
+          "ingredient_id": "00efa231-6d81-5c88-91fa-b330117cc5f4",
+          "name": "breadcrumbs",
+          "display_text": "85g Breadcrumbs",
+          "quantity": 85.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 85.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "34ec248c-9e8b-5224-99dc-9e37094a42ba",
+          "ingredient_id": "725e30b4-e363-56f2-9249-6cddd645a221",
+          "name": "barbeque sauce",
+          "display_text": "2 tblsp Barbeque Sauce",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "04d20e82-ca32-5f1c-b7bc-8e548212c99e",
+          "ingredient_id": "b2ff6357-5b66-5b44-8834-220365f1a90d",
+          "name": "cannellini beans",
+          "display_text": "800g Cannellini Beans",
+          "quantity": 800.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 800.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "e73f80fa-42f0-56c2-b798-a2ba70e52814",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "2 tblsp Parsley",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 180C/160C fan/gas 4. Heat the oil in a large frying pan and cook the onion for 8-10 mins until softened. Add the garlic, Worcestershire sauce and 2 tsp tomato purée, and stir until combined. Set aside to cool.",
+      "timer_seconds": 600,
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "38469145-150c-5748-a762-81606b534770",
+        "5308ccb0-dbda-50fa-a33d-6e8f2ce43315",
+        "85f53e02-a2a6-5627-8783-82c41a352e36"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Put the turkey mince, egg, breadcrumbs and cooled onion mix in a large bowl and season well. Mix everything to combine, then shape into a rectangular loaf and place in a large roasting tin. Spread 2 tbsp barbecue sauce over the meatloaf and bake for 30 mins.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "38469145-150c-5748-a762-81606b534770",
+        "be8b3904-0138-5f8f-98be-b06f370f4687",
+        "d89184aa-6e48-51bc-98d1-74ed87e7cb59"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Meanwhile, drain 1 can of beans only, then pour both cans into a large bowl. Add the remaining barbecue sauce and tomato purée. Season and set aside.",
+      "ingredients_used": [
+        "04d20e82-ca32-5f1c-b7bc-8e548212c99e"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "When the meatloaf has had its initial cooking time, scatter the beans around the outside and bake for 15 mins more until the meatloaf is cooked through and the beans are piping hot. Scatter over the parsley and serve the meatloaf in slices.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "04d20e82-ca32-5f1c-b7bc-8e548212c99e",
+        "e73f80fa-42f0-56c2-b798-a2ba70e52814"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/turkey-meatloaf"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

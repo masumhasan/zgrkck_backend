@@ -1,0 +1,253 @@
+{
+  "id": "ddae287f-cba9-5813-ad7b-7a28452b4f9e",
+  "version": "1.0.0",
+  "title": "Spanish Tortilla",
+  "slug": "spanish-tortilla",
+  "summary": "A traditional Spanish omelet made with sliced potatoes, onions, and eggs, typically served with tomato-rubbed bread.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:45:00Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52872"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/quuxsx1511476154.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/quuxsx1511476154.jpg/small",
+      "alt_text": "Photo of Spanish Tortilla",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=JceGMNG7rpU"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [
+      "egg",
+      "light"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "thanksgiving",
+      "christmas"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 55,
+    "total_time_minutes": 70
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1 thick slice of tortilla with bread"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "06d5008f-de77-5fc9-aa69-ca04eb721b0f",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "d4ccecef-d516-5ad2-bf3c-69a7f39e617f",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 sliced Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c6b876ca-94f8-5b86-bf01-c1a72e0ab713",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "4 tbsp Olive Oil",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "48dcc04b-cca9-5863-9689-b3594ec01ed8",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "25g Butter",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "f57c89ce-c306-510b-a906-4c20a6dece37",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "400g Potatoes",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "12ef5b18-b371-5240-88f5-92ae30c1dafc",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "6 cloves Garlic",
+          "quantity": 6.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "aa8da48a-b367-5539-b158-9d1b075b2493",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "8 Eggs",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "5d7c7323-e1da-5f1d-9bb4-3fa0f16ec4aa",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Handful Parsley",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "276e2b8f-3d15-50ff-95fc-c734dec6e515",
+          "ingredient_id": "43b5d3b2-0e2d-5ff1-9c0e-d047e896af5e",
+          "name": "baguette",
+          "display_text": "1 Baguette",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "c35d4685-3103-51e2-b34e-f48305d977bb",
+          "ingredient_id": "93790e80-b19e-552a-ad78-4d335691c154",
+          "name": "vine tomatoes",
+          "display_text": "4 Vine Tomatoes",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0cf5e3a1-cf38-5975-a858-bbf8321ccd8f",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "drizzle Olive Oil",
+          "quantity": 1,
+          "unit": "drizzle",
+          "is_optional": false,
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Put a large non-stick frying pan on a low heat. Cook the onion slowly in the oil and butter until soft but not brown – this should take about 15 mins. Add the potatoes, cover the pan and cook for a further 15-20 mins, stirring occasionally to make sure they fry evenly.",
+      "ingredients_used": [
+        "d4ccecef-d516-5ad2-bf3c-69a7f39e617f",
+        "48dcc04b-cca9-5863-9689-b3594ec01ed8",
+        "f57c89ce-c306-510b-a906-4c20a6dece37"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "When the potatoes are soft and the onion is shiny, crush 2 garlic cloves and stir in, followed by the beaten eggs.",
+      "ingredients_used": [
+        "d4ccecef-d516-5ad2-bf3c-69a7f39e617f",
+        "f57c89ce-c306-510b-a906-4c20a6dece37",
+        "12ef5b18-b371-5240-88f5-92ae30c1dafc",
+        "aa8da48a-b367-5539-b158-9d1b075b2493"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Put the lid back on the pan and leave the tortilla to cook gently. After 20 mins, the edges and base should be golden, the top set but the middle still a little wobbly. To turn it over, slide it onto a plate and put another plate on top, turn the whole thing over and slide it back into the pan to finish cooking. Once cooked, transfer to a plate and serve the tortilla warm or cold, scattered with the chopped parsley.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "5d7c7323-e1da-5f1d-9bb4-3fa0f16ec4aa"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "To accompany, take slices of warmed baguette, stab all over with a fork and rub with the remaining garlic, pile on grated tomatoes and season with sea salt and a drizzle of olive oil.",
+      "ingredients_used": [
+        "c6b876ca-94f8-5b86-bf01-c1a72e0ab713",
+        "12ef5b18-b371-5240-88f5-92ae30c1dafc",
+        "276e2b8f-3d15-50ff-95fc-c734dec6e515",
+        "c35d4685-3103-51e2-b34e-f48305d977bb",
+        "0cf5e3a1-cf38-5975-a858-bbf8321ccd8f"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/spanish-tortilla"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

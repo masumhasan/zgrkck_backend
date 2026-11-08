@@ -1,0 +1,253 @@
+{
+  "id": "be4863ab-6de3-5d10-97a2-987018e78493",
+  "version": "1.0.0",
+  "title": "Honey Balsamic Chicken with Crispy Broccoli & Potatoes",
+  "slug": "honey-balsamic-chicken-with-crispy-broccoli-potatoes",
+  "summary": "Chicken breasts served with a sweet and tangy honey balsamic glaze alongside roasted potatoes and crispy broccoli florets.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:55:23Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52993"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/kvbotn1581012881.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/kvbotn1581012881.jpg/small",
+      "alt_text": "Photo of Honey Balsamic Chicken with Crispy Broccoli & Potatoes",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b95bb9d4-1e18-5623-a50f-942c7d140e82",
+        "slug": "american",
+        "name": "American"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 31,
+    "total_time_minutes": 46
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 chicken breast with vegetables and glaze"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "sulfites"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "d8263f6c-9a34-5ebf-bb11-baf1c47e0a95",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "4e2d0036-7dfa-5f6b-9a8e-57cad09e8e7f",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "5 Potatoes",
+          "quantity": 5.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "384c5098-77ee-553f-893f-3b7d2d246633",
+          "ingredient_id": "31e88f63-2128-56b2-a28a-224d203ee96c",
+          "name": "broccoli",
+          "display_text": "1 Broccoli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "93dbad4b-7389-5da2-b16a-ce13e4e28bfc",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "37f3ad2d-53e7-5074-82cf-e444c0a80d89",
+          "ingredient_id": "e23191a1-4966-5b21-a6f1-8df6f50b79db",
+          "name": "chicken breast",
+          "display_text": "2 Chicken Breast",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "e9fea49a-71db-5870-b7e2-dbb33a7b889f",
+          "ingredient_id": "63107704-a6f7-54e1-89ce-d8232f5288e9",
+          "name": "balsamic vinegar",
+          "display_text": "Balsamic Vinegar",
+          "quantity": 0,
+          "unit": "as_needed",
+          "is_optional": false,
+          "category": "condiments"
+        },
+        {
+          "id": "174a5714-6546-59bd-b988-a6c7538b3a74",
+          "ingredient_id": "7ad11d6e-3134-5831-97df-4db2a67589f7",
+          "name": "honey",
+          "display_text": "Honey",
+          "quantity": 0,
+          "unit": "as_needed",
+          "is_optional": false,
+          "category": "sweeteners"
+        },
+        {
+          "id": "6f21c94b-746e-5ea6-880c-41710b1d5c95",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "Chicken Stock",
+          "quantity": 0,
+          "unit": "as_needed",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "2c1c6755-43e6-5e23-8716-70367ef142fb",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "1 tbsp Butter",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "7d9cce3d-1d4a-5eab-9627-7cf5bc9d6f67",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "1 tbsp Vegetable Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "a220440f-5b97-54c7-b34a-0c978b4b11c6",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 tbsp Olive Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "2 Servings"
+    },
+    {
+      "step_number": 2,
+      "instruction": "Preheat oven to 425 degrees. Wash and dry all produce. Cut potatoes into 1/2-inch-thick wedges. Toss on one side of a baking sheet with a drizzle of oil, salt, and pepper. (For 4 servings, spread potatoes out across entire sheet.) Roast on top rack for 5 minutes (we'll add the broccoli then).",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "4e2d0036-7dfa-5f6b-9a8e-57cad09e8e7f",
+        "384c5098-77ee-553f-893f-3b7d2d246633"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Meanwhile, cut broccoli florets into bite-size pieces, if necessary. Peel and finely chop garlic. In a small microwave-safe bowl, combine 1 TBSP olive oil (2 TBSP for 4 servings) and half the garlic. Microwave until garlic sizzles, 30 seconds.",
+      "timer_seconds": 30,
+      "ingredients_used": [
+        "384c5098-77ee-553f-893f-3b7d2d246633",
+        "93dbad4b-7389-5da2-b16a-ce13e4e28bfc",
+        "a220440f-5b97-54c7-b34a-0c978b4b11c6"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Once potatoes have roasted 5 minutes, remove sheet from oven and add broccoli to empty side; carefully toss with garlic oil, salt, and pepper. (For 4 servings, add broccoli to a second sheet.) Continue roasting until potatoes and broccoli are browned and crispy, 15-20 minutes more.",
+      "ingredients_used": [
+        "4e2d0036-7dfa-5f6b-9a8e-57cad09e8e7f",
+        "384c5098-77ee-553f-893f-3b7d2d246633",
+        "93dbad4b-7389-5da2-b16a-ce13e4e28bfc"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "While veggies roast, pat chicken dry with paper towels; season all over with salt and pepper. Heat a drizzle of oil in a large pan over medium-high heat. Add chicken and cook until browned and cooked through, 5-6 minutes per side. (If chicken browns too quickly, reduce heat to medium.) Turn off heat; set chicken aside to rest. Wash out pan.",
+      "timer_seconds": 360
+    },
+    {
+      "step_number": 6,
+      "instruction": "Heat pan used for chicken over medium-high heat. Add a drizzle of oil and remaining garlic; cook until fragrant, 30 seconds. Stir in vinegar, honey, stock concentrate, and 1/4 cup water (1/3 cup for 4 servings). Simmer until thick and glossy, 2-3 minutes. Remove from heat and stir in 1 TBSP butter (2 TBSP for 4). Season with salt and pepper.",
+      "ingredients_used": [
+        "93dbad4b-7389-5da2-b16a-ce13e4e28bfc",
+        "174a5714-6546-59bd-b988-a6c7538b3a74",
+        "2c1c6755-43e6-5e23-8716-70367ef142fb"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Return chicken to pan and turn to coat in glaze. Divide chicken, broccoli, and potatoes between plates. Spoon any remaining glaze over chicken and serve.",
+      "ingredients_used": [
+        "4e2d0036-7dfa-5f6b-9a8e-57cad09e8e7f",
+        "384c5098-77ee-553f-893f-3b7d2d246633"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "id": "8cf8befd-c222-5171-9cfe-f6bd718e42fb",
+  "version": "1.0.0",
+  "title": "Fettucine alfredo",
+  "slug": "fettucine-alfredo",
+  "summary": "A rich Italian pasta dish made with a creamy sauce of clotted cream, butter, and parmesan cheese, seasoned with nutmeg.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:41:40Z",
+  "updated_at": "2026-10-16T10:22:47Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52835"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/uquqtu1511178042.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/uquqtu1511178042.jpg/small",
+      "alt_text": "Photo of Fettucine alfredo",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=FLEnwZvGzOE"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "5777da00-e671-5ded-9c46-d7577d65960f",
+        "slug": "italian",
+        "name": "Italian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 15
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 portion of fettuccine with sauce"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "e632627a-777a-5f18-9489-3dc5b871441b",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "12639863-f5fa-5aa5-8138-611a7cc8e41a",
+          "ingredient_id": "75fda4c8-5908-5551-a6c6-1b0eb39bbec3",
+          "name": "clotted cream",
+          "display_text": "227g Clotted Cream",
+          "quantity": 227.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 227.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "09cdbb1b-b1f9-5a3e-a4af-804a0d744f22",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "25g Butter",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "0d3d3931-b8c7-5041-acc6-87821522b73e",
+          "ingredient_id": "94f73465-e9e4-5ae0-8787-ee86687dbeb4",
+          "name": "corn flour",
+          "display_text": "1 tsp Corn Flour",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "03e67276-3e06-50d1-9618-91ce8be1ae70",
+          "ingredient_id": "7db471f0-9bfa-5aae-91f1-5642980cae0d",
+          "name": "parmesan cheese",
+          "display_text": "100g Parmesan Cheese",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "39fed9c3-e8da-5c15-b4c2-e602981719a0",
+          "ingredient_id": "9426e9cd-e7b2-540e-8ddb-187c01748931",
+          "name": "nutmeg",
+          "display_text": "Grated Nutmeg",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "grated",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1c83ab74-3a36-5742-8047-fdf9c14670b8",
+          "ingredient_id": "6708b06c-9efa-5713-a821-9103765a23f7",
+          "name": "fettuccine",
+          "display_text": "250g Fettuccine",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "7e991acb-fb04-5bf0-b18f-531764f9bf87",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Chopped Parsley",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "In a medium saucepan, stir the clotted cream, butter and cornflour over a low-ish heat and bring to a low simmer. Turn off the heat and keep warm.",
+      "ingredients_used": [
+        "12639863-f5fa-5aa5-8138-611a7cc8e41a",
+        "09cdbb1b-b1f9-5a3e-a4af-804a0d744f22"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Meanwhile, put the cheese and nutmeg in a small bowl and add a good grinding of black pepper, then stir everything together (don’t add any salt at this stage).",
+      "ingredients_used": [
+        "39fed9c3-e8da-5c15-b4c2-e602981719a0"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Put the pasta in another pan with 2 tsp salt, pour over some boiling water and cook following pack instructions (usually 3-4 mins). When cooked, scoop some of the cooking water into a heatproof jug or mug and drain the pasta, but not too thoroughly.",
+      "timer_seconds": 240
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add the pasta to the pan with the clotted cream mixture, then sprinkle over the cheese and gently fold everything together over a low heat using a rubber spatula. When combined, splash in 3 tbsp of the cooking water. At first, the pasta will look wet and sloppy: keep stirring until the water is absorbed and the sauce is glossy. Check the seasoning before transferring to heated bowls. Sprinkle over some chives or parsley, then serve immediately.",
+      "ingredients_used": [
+        "12639863-f5fa-5aa5-8138-611a7cc8e41a",
+        "7e991acb-fb04-5bf0-b18f-531764f9bf87"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/fettucine-alfredo"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

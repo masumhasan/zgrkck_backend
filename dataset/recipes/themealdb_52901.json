@@ -1,0 +1,242 @@
+{
+  "id": "ba176d0e-2d5e-567a-adce-307ace50452f",
+  "version": "1.0.0",
+  "title": "Rock Cakes",
+  "slug": "rock-cakes",
+  "summary": "Rock cakes are a traditional British baked good made from a lumpy, textured dough containing dried fruit. They are characterized by their irregular, craggy shapes and sweet flavor.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:47:30Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52901"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/tqrrsq1511723764.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/tqrrsq1511723764.jpg/small",
+      "alt_text": "Photo of Rock Cakes",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=tY3taZO3Aro"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "baking",
+      "cake"
+    ],
+    "meal_types": [
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "afternoon_snack"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 20,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "pieces",
+    "serving_size_description": "2-3 rock cakes"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery"
+    ],
+    "may_contain": [
+      "sulfites"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "88a7fd24-afe2-54e8-ab15-cfe1771a6f1f",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "9e257ca2-ab83-555e-936f-ff562cb925b7",
+          "ingredient_id": "d923f6bd-1129-51bf-ba9e-32b3305fa65e",
+          "name": "self-raising flour",
+          "display_text": "225g Self-raising Flour",
+          "quantity": 225.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 225.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "0eb7509e-b386-5cd4-b8cd-1ac8df30dd73",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "75g Caster Sugar",
+          "quantity": 75.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "59d3528a-3851-5660-a5d5-0f392f86bb1e",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 tsp Baking Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "b2d6ab80-d663-5008-9c6c-779331956f08",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "125g Butter",
+          "quantity": 125.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 125.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "e6b2d2ff-9a1f-5212-bced-18bb1a59721d",
+          "ingredient_id": "33970a63-f64a-5f70-88ea-3a468c975ae6",
+          "name": "dried fruit",
+          "display_text": "150g Dried Fruit",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "abc4649d-784d-5819-ac83-07e8353a9eb3",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "1 Eggs",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "c44864e6-d501-580f-88b5-1ccb4f6153c5",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "1 tbs Milk",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "a036e88d-a907-5d65-94eb-eb0be0f57a50",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "2 tsp Vanilla Extract",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat oven to 180C/350F/Gas 4 and line a baking tray with baking parchment.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "Mix the flour, sugar and baking powder in a bowl and rub in the cubed butter until the mixture looks like breadcrumbs, then mix in the dried fruit.",
+      "ingredients_used": [
+        "59d3528a-3851-5660-a5d5-0f392f86bb1e",
+        "b2d6ab80-d663-5008-9c6c-779331956f08",
+        "e6b2d2ff-9a1f-5212-bced-18bb1a59721d"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "In a clean bowl, beat the egg and milk together with the vanilla extract.",
+      "ingredients_used": [
+        "c44864e6-d501-580f-88b5-1ccb4f6153c5",
+        "a036e88d-a907-5d65-94eb-eb0be0f57a50"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add the egg mixture to the dry ingredients and stir with a spoon until the mixture just comes together as a thick, lumpy dough. Add a teaspoon more milk if you really need it to make the mixture stick together.",
+      "ingredients_used": [
+        "c44864e6-d501-580f-88b5-1ccb4f6153c5"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Place golfball-sized spoons of the mixture onto the prepared baking tray. Leave space between them as they will flatten and spread out to double their size during baking."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Bake for 15-20 minutes, until golden-brown. Remove from the oven, allow to cool for a couple of minutes then turn them out onto a wire rack to cool.",
+      "timer_seconds": 1200
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbc.co.uk/food/recipes/rock_cakes_03094"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "id": "71f864a1-df5d-508f-bc6b-3162b8a9c07b",
+  "version": "1.0.0",
+  "title": "Beef Dumpling Stew",
+  "slug": "beef-dumpling-stew",
+  "summary": "A hearty British stew featuring tender beef and root vegetables topped with fluffy suet dumplings.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:45:02Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52873"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/uyqrrv1511553350.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/uyqrrv1511553350.jpg/small",
+      "alt_text": "Photo of Beef Dumpling Stew",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=6NgheY-r5t0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "baking",
+      "stew"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 140,
+    "total_time_minutes": 160
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a spoonful of mashed potato topped with stew and dumplings"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "fish",
+      "celery",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "94e763c3-d5ae-598f-bc2b-92aa14a47149",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "5b1ea3e4-55aa-5a87-89ce-9ebb2d90ecb0",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tbs Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "f89fdcac-09af-5b99-8a59-2767b9dced92",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "25g Butter",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "2c133131-2029-5376-a1af-96936efd1505",
+          "ingredient_id": "c2102b4e-a5b4-5bab-b7d5-bdfa5244ae7b",
+          "name": "beef",
+          "display_text": "750g Beef",
+          "quantity": 750.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 750.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "d6dd0362-6e2e-5c03-bee5-bac89e7c7ab3",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "2 tblsp Plain Flour",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "ef0bd4ed-23b3-5ffc-a793-96f9ef6dcaad",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves minced Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "minced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0141f6e9-07fe-5a53-b5a8-437000de5ca9",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onions",
+          "display_text": "175g Onions",
+          "quantity": 175.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 175.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "4982c2dc-2bec-5905-943e-ff8b4ce744f5",
+          "ingredient_id": "ed4951b3-26e6-5bb4-a5af-9c61a46687a0",
+          "name": "celery",
+          "display_text": "150g Celery",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "994c85ed-b973-51f3-9202-2d1d34277eee",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "150g Carrots",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "f233013d-4018-50f1-9afc-797a36377ffc",
+          "ingredient_id": "ef5d99bc-384e-522a-8c0f-1c8501f6612c",
+          "name": "leek",
+          "display_text": "2 chopped Leek",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "202b8d8b-618c-5052-bc28-f6b2155253bc",
+          "ingredient_id": "5d08caa9-b04f-5458-b5be-718012f0d133",
+          "name": "swede",
+          "display_text": "200g Swede",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "4b3b2717-7ae4-55c7-9a52-de5c9137f770",
+          "ingredient_id": "0b364d55-0a30-54fb-b1d4-422f720404e3",
+          "name": "red wine",
+          "display_text": "150ml Red Wine",
+          "quantity": 150.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "3387f9cd-81d6-55f7-b958-fd1392297912",
+          "ingredient_id": "39a746ef-3300-5229-b0b2-3e03970ea60c",
+          "name": "beef stock",
+          "display_text": "500g Beef Stock",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "e345dacf-b3ef-504b-820f-6769eb4896ad",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "2 Bay Leaf",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "10f1c5db-520e-5fda-b861-a79e19a4c34a",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "3 tbs Thyme",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "cce1ac33-3861-5d62-8e7c-5aa0d4a9eaa7",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "3 tblsp chopped Parsley",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "78df76a3-9972-5923-a1cd-7618ab20660e",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "125g Plain Flour",
+          "quantity": 125.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 125.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "4624f3ea-b88f-5880-b959-b0094b68e06b",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 tsp Baking Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "83a7e459-cfc5-591e-903c-4285893d7c91",
+          "ingredient_id": "1edeb27c-52bb-5931-8068-92f5bb6715ee",
+          "name": "suet",
+          "display_text": "60g Suet",
+          "quantity": 60.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "gram",
+          "category": "oils_fats"
+        },
+        {
+          "id": "e1218a76-fb42-5890-8b36-22d8a8c2177e",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "Splash Water",
+          "quantity": 1,
+          "unit": "splash",
+          "is_optional": false,
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat the oven to 180C/350F/Gas 4.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "For the beef stew, heat the oil and butter in an ovenproof casserole and fry the beef until browned on all sides.",
+      "ingredients_used": [
+        "f89fdcac-09af-5b99-8a59-2767b9dced92",
+        "2c133131-2029-5376-a1af-96936efd1505"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Sprinkle over the flour and cook for a further 2-3 minutes.",
+      "timer_seconds": 180
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add the garlic and all the vegetables and fry for 1-2 minutes.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "ef0bd4ed-23b3-5ffc-a793-96f9ef6dcaad"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Stir in the wine, stock and herbs, then add the Worcestershire sauce and balsamic vinegar, to taste. Season with salt and freshly ground black pepper.",
+      "ingredients_used": [
+        "4b3b2717-7ae4-55c7-9a52-de5c9137f770"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Cover with a lid, transfer to the oven and cook for about two hours, or until the meat is tender."
+    },
+    {
+      "step_number": 7,
+      "instruction": "For the dumplings, sift the flour, baking powder and salt into a bowl.",
+      "ingredients_used": [
+        "4624f3ea-b88f-5880-b959-b0094b68e06b"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Add the suet and enough water to form a thick dough.",
+      "ingredients_used": [
+        "83a7e459-cfc5-591e-903c-4285893d7c91",
+        "e1218a76-fb42-5890-8b36-22d8a8c2177e"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "With floured hands, roll spoonfuls of the dough into small balls."
+    },
+    {
+      "step_number": 10,
+      "instruction": "After two hours, remove the lid from the stew and place the balls on top of the stew. Cover, return to the oven and cook for a further 20 minutes, or until the dumplings have swollen and are tender. (If you prefer your dumplings with a golden top, leave the lid off when returning to the oven.)",
+      "timer_seconds": 1200
+    },
+    {
+      "step_number": 11,
+      "instruction": "To serve, place a spoonful of mashed potato onto each of four serving plates and top with the stew and dumplings. Sprinkle with chopped parsley.",
+      "ingredients_used": [
+        "cce1ac33-3861-5d62-8e7c-5aa0d4a9eaa7"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbc.co.uk/food/recipes/beefstewwithdumpling_87333"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "id": "547ecbdf-8587-5199-a087-7fbd6f6e103d",
+  "version": "1.0.0",
+  "title": "Prawns with Romesco sauce",
+  "slug": "prawns-with-romesco-sauce",
+  "summary": "A Spanish seafood dish featuring grilled tiger prawns served with a rich, smoky Romesco sauce made from roasted peppers, tomatoes, nuts, and bread.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:10:48Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53174"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/u03xhi1763308917.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/u03xhi1763308917.jpg/small",
+      "alt_text": "Photo of Prawns with Romesco sauce",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=miqfHkE6rJY"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of prawns with Romesco sauce"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "tree_nuts",
+      "shellfish",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "soy",
+      "eggs",
+      "fish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "e91261f5-e908-5c83-9173-562fa564a15e",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "61afb10f-8ebf-5136-81f3-a8d4b06ff092",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1 Red Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d4b84f5c-415e-5036-8f65-4bb76d70f17c",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "3 Large Garlic Clove",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d1833626-f218-5d73-aafd-7f009075470e",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "1 large Red Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "6dc31b03-b22f-553e-915b-b4a0378557bc",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "1 large Tomato",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c8b86fb6-1851-577a-a25d-9497fc336691",
+          "ingredient_id": "1d33950a-2866-53d9-b8e3-a6520b9e894f",
+          "name": "shelled hazelnuts",
+          "display_text": "10 Shelled Hazelnuts",
+          "quantity": 10.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "4c2b7cbd-cfbe-5894-acb2-73a714814538",
+          "ingredient_id": "1f65be5f-ad9d-5713-aca2-600f7b2a1ee8",
+          "name": "almonds",
+          "display_text": "10 Almonds",
+          "quantity": 10.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "ce8921dc-69d0-53c3-8594-9c8f884034dc",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "3 sprigs Parsley",
+          "quantity": 3.0,
+          "unit": "sprig",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "6c430667-fb7e-593f-8f56-5e537b4ed6c7",
+          "ingredient_id": "95128a6e-6409-5797-b33b-a94a27c5951f",
+          "name": "bread",
+          "display_text": "1 sliced Bread",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "2bff38f0-0b66-5c50-93c2-5336a3f652d9",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "120ml Olive Oil",
+          "quantity": 120.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "cf0f5447-e412-5909-a3c0-0e67b13cc8cc",
+          "ingredient_id": "38df984b-29a1-5431-8935-d850dfe8f8f7",
+          "name": "red wine vinegar",
+          "display_text": "2 tblsp Red Wine Vinegar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "13f99d0d-65bc-51ee-baec-3461c5852171",
+          "ingredient_id": "080461b7-c0c9-5c52-8869-2de338e27955",
+          "name": "tiger prawns",
+          "display_text": "400g Tiger Prawns",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "seafood"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Prepare ahead - halve the pepper lengthways and remove the seeds and stalk. Line a grill pan with foil and put the pepper halves, skin side up, on the grill pan with the whole garlic cloves, chilli and tomato. Grill for 2 minutes, turn the tomato, then grill for a further 2 minutes. Remove the tomato with a large spoon, then peel, quarter and remove the seeds. Then chop the tomato roughly.",
+      "ingredients_used": [
+        "d4b84f5c-415e-5036-8f65-4bb76d70f17c",
+        "d1833626-f218-5d73-aafd-7f009075470e",
+        "6dc31b03-b22f-553e-915b-b4a0378557bc"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Continue grilling the pepper, chilli and garlic for 4-5 minutes, until the pepper and chilli skins have blackened and the garlic is starting to soften (the garlic skin will start to split when it is ready). When cool enough to handle, peel and halve the chilli, and scrape out and discard the seeds. Peel the pepper and roughly chop both the pepper and chilli.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "d1833626-f218-5d73-aafd-7f009075470e"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Spread nuts over the foil and grill until toasted. Finely chop the nuts and parsley in a food processor. Tip into a small bowl.",
+      "ingredients_used": [
+        "ce8921dc-69d0-53c3-8594-9c8f884034dc"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Heat 3 tablespoons of oil in a frying pan, add the pepper, garlic and chilli and fry for 3 minutes. Tear up the bread and add to the pan, turning it in the oil until lightly browned. Pulse in food processor with the tomatoes, salt, vinegar and oil until roughly chopped. Tip into a bowl. Leave to cool and store in fridge for up to 3 days.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "d1833626-f218-5d73-aafd-7f009075470e",
+        "6dc31b03-b22f-553e-915b-b4a0378557bc",
+        "6c430667-fb7e-593f-8f56-5e537b4ed6c7"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "On the day add the nuts and parsley to the sauce and mix. Serve in a small bowl on a plate with the peeled prawns. Supply cocktail sticks for spearing the prawns.",
+      "ingredients_used": [
+        "ce8921dc-69d0-53c3-8594-9c8f884034dc",
+        "13f99d0d-65bc-51ee-baec-3461c5852171"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/prawns-romesco-sauce"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

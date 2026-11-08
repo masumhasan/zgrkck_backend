@@ -1,0 +1,224 @@
+{
+  "id": "b30341ba-b112-5042-9654-3e667661f106",
+  "version": "1.0.0",
+  "title": "Vietnamese caramel trout",
+  "slug": "vietnamese-caramel-trout",
+  "summary": "Rainbow trout fillets simmered in a sweet and savory caramel sauce made with fish sauce, ginger, and chili, served alongside wilted bok choi and steamed rice.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:15:37Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53228"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/p02vq41763754350.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/p02vq41763754350.jpg/small",
+      "alt_text": "Photo of Vietnamese caramel trout",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=3MBbvrUtn74"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "60481cf3-a7b7-5be4-a0dc-6b872c887e64",
+        "slug": "vietnamese",
+        "name": "Vietnamese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 20
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 trout fillet with bok choi and rice"
+  },
+  "allergens": {
+    "contains": [
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "d07fe573-835b-5c64-876c-23daaec03592",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "396e99cc-969c-5d3c-a6c5-1e2ad27cc21f",
+          "ingredient_id": "327ade60-00f4-537f-920f-f35c82b0b4ac",
+          "name": "golden caster sugar",
+          "display_text": "50g Golden Caster Sugar",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "a0bf3601-1c29-52d7-89c5-ecd9465209ba",
+          "ingredient_id": "de927c20-fdfa-5b98-8ee9-7840fa951a2f",
+          "name": "fish sauce",
+          "display_text": "1 tablespoon Fish Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "b72fcdca-0996-5956-9af5-73c573ed87eb",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "1 sliced Red Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "acc5cac0-b93e-54e5-b471-dfb9d49a84b6",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "large piece Ginger",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "large piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "6f2371ca-6b77-5ae9-9b91-673f95847734",
+          "ingredient_id": "f7410753-4bf7-5b32-92dc-638077b5635e",
+          "name": "rainbow trout",
+          "display_text": "2 Rainbow Trout",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "fish"
+        },
+        {
+          "id": "ee92cc1b-b727-51e4-a47d-49b30675012c",
+          "ingredient_id": "e1f144c4-71a9-5dac-b31d-d2fdfc8f6854",
+          "name": "bok choi",
+          "display_text": "2 heads Bok Choi",
+          "quantity": 2.0,
+          "unit": "head",
+          "is_optional": false,
+          "category": "fish"
+        },
+        {
+          "id": "9f335c12-ce25-5d48-ab9e-729df9bc7550",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "Juice of 1/2 Lemon",
+          "quantity": 0.5,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1817e3dd-bf92-5a90-92ad-69fff020082b",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "Sprigs of fresh Coriander",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "sprigs of fresh",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "9642d3fc-99d7-5742-81d5-f1b0ff98d5ca",
+          "ingredient_id": "025b8433-c498-5b37-813a-ec00ac6c2ae5",
+          "name": "rice",
+          "display_text": "Steamed Rice",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "steamed",
+          "is_optional": false,
+          "category": "grains_pasta"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Put the sugar in a large shallow pan, along with a small splash of water. Heat gently, swirling the pan, until the sugar has dissolved. Increase the heat and bubble the syrup until it turns a dark amber color. Add the fish sauce, most of the chilli and ginger, then splash in 1 tbsp water to dilute. Boil again until syrupy, then add the fish fillets, skin-side down, and the bok choi, cut-side down.",
+      "ingredients_used": [
+        "a0bf3601-1c29-52d7-89c5-ecd9465209ba",
+        "b72fcdca-0996-5956-9af5-73c573ed87eb",
+        "acc5cac0-b93e-54e5-b471-dfb9d49a84b6",
+        "ee92cc1b-b727-51e4-a47d-49b30675012c"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Cover the pan with a lid and simmer for 4-5 mins until the fish is cooked and the bok choi has wilted. Turn off the heat, squeeze over the lemon and scatter with the remaining chilli, ginger and the coriander sprigs. Serve with rice.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "b72fcdca-0996-5956-9af5-73c573ed87eb",
+        "acc5cac0-b93e-54e5-b471-dfb9d49a84b6",
+        "ee92cc1b-b727-51e4-a47d-49b30675012c",
+        "9f335c12-ce25-5d48-ab9e-729df9bc7550",
+        "1817e3dd-bf92-5a90-92ad-69fff020082b",
+        "9642d3fc-99d7-5742-81d5-f1b0ff98d5ca"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/vietnamese-caramel-trout"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "id": "8a64b22b-ae95-5e7d-a3b8-3fa6b46dc11b",
+  "version": "1.0.0",
+  "title": "Tom kha gai",
+  "slug": "tom-kha-gai",
+  "summary": "A classic Thai coconut soup featuring chicken, galangal, lemongrass, and lime leaves. It is characterized by its creamy texture and a balance of sour, salty, and spicy flavors.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:13:45Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53207"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ol2xxt1763582263.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ol2xxt1763582263.jpg/small",
+      "alt_text": "Photo of Tom kha gai",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=2BbIZwmIP7Q"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "724b7c6a-f254-57d4-9729-335a2b2d93b1",
+        "slug": "thai",
+        "name": "Thai"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "soup"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of soup with rice"
+  },
+  "allergens": {
+    "contains": [
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "df2be133-d870-5e38-a9b6-f8addd6d96f4",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "27ddcb30-bafd-51ad-8270-7375c2f6a7a0",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "800ml Chicken Stock",
+          "quantity": 800.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 800.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "7bc08f4f-d969-5fd8-8e05-3c14c2d49d7b",
+          "ingredient_id": "0435e55e-84f6-566c-ac81-37617bbab91c",
+          "name": "coconut milk",
+          "display_text": "800g Coconut Milk",
+          "quantity": 800.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 800.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "dd3b3dbd-f10f-5236-a6b3-2050993de089",
+          "ingredient_id": "a79a196d-80e0-5f08-ad45-437f667b7f7d",
+          "name": "galangal paste",
+          "display_text": "2 tablespoons Galangal Paste",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "fish"
+        },
+        {
+          "id": "f1ce044e-87de-5871-8150-c8a54d2cdcbf",
+          "ingredient_id": "a729805b-0ef1-5769-999e-6483e337b4a5",
+          "name": "lemongrass stalks",
+          "display_text": "2 Lemongrass Stalks",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "3d3acb06-4dbe-5314-aeda-a90b32ad4be3",
+          "ingredient_id": "02b53f79-483f-520f-b00e-f9ef9e9b6f9d",
+          "name": "lime leaves",
+          "display_text": "8 Lime Leaves",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "53679005-935b-5e8c-8095-102f409f47cf",
+          "ingredient_id": "e0e4d032-0f9f-5908-ab90-db9a8ec5b68c",
+          "name": "chicken thighs",
+          "display_text": "500g Chicken Thighs",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "poultry"
+        },
+        {
+          "id": "43523449-34d3-5593-8a9e-8153df83adee",
+          "ingredient_id": "92ff7125-15be-5025-8820-d0049bca6024",
+          "name": "oyster mushrooms",
+          "display_text": "300g Oyster Mushrooms",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "904dde68-12df-5f0b-8bd2-345ae6bda3be",
+          "ingredient_id": "c34401c7-b5ba-5c77-b08c-3f81a2f87c95",
+          "name": "birds-eye chillies",
+          "display_text": "6 Birds-eye Chillies",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "12c5a1de-d32e-55f0-945e-32d381920b42",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "1 tablespoon Caster Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "44264fd1-ac20-5fa7-af05-9f21ac05a831",
+          "ingredient_id": "de927c20-fdfa-5b98-8ee9-7840fa951a2f",
+          "name": "fish sauce",
+          "display_text": "5 tablespoons Fish Sauce",
+          "quantity": 5.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "d5dcf05e-dec7-5b0a-987c-9b5bc9d74784",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "Juice of 3 Lime",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "9c92e6b1-3085-5e48-8a42-78d4d09228df",
+          "ingredient_id": "01f7246f-a615-5952-a55f-5bf9985723ad",
+          "name": "coriander leaves",
+          "display_text": "To serve Coriander Leaves",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "de29cefd-57a5-5f82-b063-ecf2a4ee05bd",
+          "ingredient_id": "025b8433-c498-5b37-813a-ec00ac6c2ae5",
+          "name": "rice",
+          "display_text": "To serve Rice",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "grains_pasta"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Pour the chicken stock and coconut milk into a large saucepan set over a medium heat. Tip in the galangal, lemongrass and lime leaves, and bring to a gentle simmer, around 6-8 mins. Keeping at a gentle simmer, add the chicken. Cook for 8-10 mins until tender and cooked through.",
+      "ingredients_used": [
+        "27ddcb30-bafd-51ad-8270-7375c2f6a7a0",
+        "7bc08f4f-d969-5fd8-8e05-3c14c2d49d7b",
+        "3d3acb06-4dbe-5314-aeda-a90b32ad4be3",
+        "d5dcf05e-dec7-5b0a-987c-9b5bc9d74784"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Stir in the mushrooms and chillies, and simmer for a further 3-5 mins until everything is cooked through. Sprinkle in the sugar and 3 tbsp each of the fish sauce and lime juice. Taste and add the remaining if required.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "43523449-34d3-5593-8a9e-8153df83adee",
+        "904dde68-12df-5f0b-8bd2-345ae6bda3be",
+        "44264fd1-ac20-5fa7-af05-9f21ac05a831",
+        "d5dcf05e-dec7-5b0a-987c-9b5bc9d74784"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Remove the galangal, lemongrass and lime leaves before serving using a slotted spoon. Ladle into bowls and serve with coriander leaves sprinkled over and steamed rice on the side. Will keep chilled for up to three days. Leave to cool first.",
+      "ingredients_used": [
+        "3d3acb06-4dbe-5314-aeda-a90b32ad4be3",
+        "d5dcf05e-dec7-5b0a-987c-9b5bc9d74784",
+        "9c92e6b1-3085-5e48-8a42-78d4d09228df",
+        "de29cefd-57a5-5f82-b063-ecf2a4ee05bd"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/tom-kha-gai"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

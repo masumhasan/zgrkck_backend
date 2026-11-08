@@ -1,0 +1,176 @@
+{
+  "id": "a988462d-86bf-5a64-92d9-f46076774795",
+  "version": "1.0.0",
+  "title": "Peanut Butter Cookies",
+  "slug": "peanut-butter-cookies",
+  "summary": "A simple three-ingredient cookie made with peanut butter, sugar, and egg, featuring a classic criss-cross pattern.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:52:41Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52958"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/1544384070.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/1544384070.jpg/small",
+      "alt_text": "Photo of Peanut Butter Cookies",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b95bb9d4-1e18-5623-a50f-942c7d140e82",
+        "slug": "american",
+        "name": "American"
+      }
+    ],
+    "tags": [
+      "bbq",
+      "breakfast",
+      "unhealthy"
+    ],
+    "meal_types": [
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 25
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "pieces",
+    "serving_size_description": "2 cookies"
+  },
+  "allergens": {
+    "contains": [
+      "peanuts",
+      "eggs"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "0667c1ca-163f-51c0-986f-4cd93d244393",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "0e7f494d-aa1d-5b94-9d7a-ab61777245da",
+          "ingredient_id": "7d1aec85-0aaa-5080-9fc7-4d5396f799f9",
+          "name": "peanut butter",
+          "display_text": "1 cup Peanut Butter",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "67f14a81-c8a7-5075-8d50-292173f223a2",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1/2 cup Sugar",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "2f6c4477-5e03-5c36-8751-38623b33655f",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat oven to 350ºF (180ºC).",
+      "temperature": {
+        "value": 350,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a large bowl, mix together the peanut butter, sugar, and egg.",
+      "ingredients_used": [
+        "0e7f494d-aa1d-5b94-9d7a-ab61777245da",
+        "67f14a81-c8a7-5075-8d50-292173f223a2",
+        "2f6c4477-5e03-5c36-8751-38623b33655f"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Scoop out a spoonful of dough and roll it into a ball. Place the cookie balls onto a nonstick baking sheet."
+    },
+    {
+      "step_number": 4,
+      "instruction": "For extra decoration and to make them cook more evenly, flatten the cookie balls by pressing a fork down on top of them, then press it down again at a 90º angle to make a criss-cross pattern."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Bake for 8-10 minutes or until the bottom of the cookies are golden brown.",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 6,
+      "instruction": "Remove from baking sheet and cool."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Enjoy!"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://tasty.co/recipe/3-ingredient-peanut-butter-cookies"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

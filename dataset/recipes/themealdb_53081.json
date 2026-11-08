@@ -1,0 +1,282 @@
+{
+  "id": "54a9e12b-88ff-5866-95c2-a2491b32e6e3",
+  "version": "1.0.0",
+  "title": "Potato Salad (Olivier Salad)",
+  "slug": "potato-salad-olivier-salad",
+  "summary": "A classic Russian salad consisting of diced boiled potatoes, carrots, eggs, sausages, and peas, dressed in mayonnaise and fresh dill.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:02:52Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53081"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ebvuir1699013665.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ebvuir1699013665.jpg/small",
+      "alt_text": "Photo of Potato Salad (Olivier Salad)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=RnsWwHcpKiY"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "89b023d7-b2bb-5d32-90aa-fbee4bddee90",
+        "slug": "russian",
+        "name": "Russian"
+      }
+    ],
+    "tags": [
+      "salad"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "courses": [
+      "salad"
+    ],
+    "dietary_flags": [],
+    "difficulty": "beginner",
+    "occasions": [
+      "holiday"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 15,
+    "marinating_time_minutes": 60,
+    "total_time_minutes": 95
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of salad"
+  },
+  "allergens": {
+    "contains": [
+      "eggs",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "1e64b436-de5e-5113-9ab8-76cdceaf5d97",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "4c1dc99e-97a6-55a5-8ec6-badd999f770c",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "4 Potatoes",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "86ad2a4d-4921-5405-978a-50f428cc3c43",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "3 Carrots",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "8e0eac8c-c24b-51d2-a48f-cf7cb759c40e",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tbs Salt",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "c8b5accd-1948-51c1-a92d-47668cde6431",
+          "ingredient_id": "fa7445fe-6dac-523d-9bc7-0bdbcf354913",
+          "name": "white wine vinegar",
+          "display_text": "1/2 tbs White Wine Vinegar",
+          "quantity": 0.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "5c2339d1-49f1-542c-beb0-795a906a458a",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "4 Eggs",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "eea1f390-6b36-51df-b7cf-48c58d1cd1b1",
+          "ingredient_id": "0e53b5a4-2ff0-53fb-a8ef-b53dca6ce663",
+          "name": "sausages",
+          "display_text": "7 oz Sausages",
+          "quantity": 7.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 198.5,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "5edb1919-8a25-5fc9-9278-15ae30b901a8",
+          "ingredient_id": "c20ef13e-7f52-5fce-847f-34f123e6392e",
+          "name": "dill",
+          "display_text": "4 oz Dill",
+          "quantity": 4.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 113.4,
+          "metric_unit": "gram",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "ecbf3f98-6880-5bff-8013-769f7c19ada6",
+          "ingredient_id": "7073667e-84c6-57dc-a1f3-4bd704824318",
+          "name": "peas",
+          "display_text": "1 can Peas",
+          "quantity": 1.0,
+          "unit": "can",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ec2c7158-1bc6-5270-8a72-46295200348f",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onions",
+          "display_text": "4 Onions",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "efc628e7-4ada-5716-abf0-b86795b5649d",
+          "ingredient_id": "6a3a5ec7-7840-5eff-a3ce-0e3aafbaa822",
+          "name": "mayonnaise",
+          "display_text": "1 cup Mayonnaise",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Cut the potatoes and carrots into small uniform cubes.",
+      "ingredients_used": [
+        "4c1dc99e-97a6-55a5-8ec6-badd999f770c",
+        "86ad2a4d-4921-5405-978a-50f428cc3c43"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Place them in a large pot and fill with water."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add salt and vinegar. Bring it to a boil over medium high heat, and then reduce the heat to medium and continue to cook until the potatoes are cooked through, about 15 minutes. Drain the potatoes and let it cool to room temperature.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "4c1dc99e-97a6-55a5-8ec6-badd999f770c",
+        "8e0eac8c-c24b-51d2-a48f-cf7cb759c40e"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Meanwhile, cut the sausage and pickles into small cubes, and chop the green onions.",
+      "ingredients_used": [
+        "ec2c7158-1bc6-5270-8a72-46295200348f"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Cut the hard-boiled eggs into small cubes as well.",
+      "ingredients_used": [
+        "5c2339d1-49f1-542c-beb0-795a906a458a"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "If using fresh dill, chop them as well.",
+      "ingredients_used": [
+        "5edb1919-8a25-5fc9-9278-15ae30b901a8"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "In a large bowl, combine potatoes, carrots, sausage, pickles, peas and green onions.",
+      "ingredients_used": [
+        "4c1dc99e-97a6-55a5-8ec6-badd999f770c",
+        "86ad2a4d-4921-5405-978a-50f428cc3c43",
+        "ecbf3f98-6880-5bff-8013-769f7c19ada6",
+        "ec2c7158-1bc6-5270-8a72-46295200348f"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Add mayo and dill and mix until well combined.",
+      "ingredients_used": [
+        "5edb1919-8a25-5fc9-9278-15ae30b901a8"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Salt and pepper to taste. Cover with a plastic wrap and refrigerate for at least 1 hour before serving.",
+      "timer_seconds": 3600,
+      "ingredients_used": [
+        "8e0eac8c-c24b-51d2-a48f-cf7cb759c40e"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.sweetandsavorybyshinee.com/russian-potato-salad/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

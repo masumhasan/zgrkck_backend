@@ -1,0 +1,249 @@
+{
+  "id": "7da5f7f7-0ac8-58b0-a4de-c78ee02eb08b",
+  "version": "1.0.0",
+  "title": "Spring onion and prawn empanadas",
+  "slug": "spring-onion-and-prawn-empanadas",
+  "summary": "These Portuguese-style empanadas feature a savory filling of prawns, spring onions, garlic, and red chilli, topped with crumbled feta cheese.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:59:23Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53040"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/1c5oso1614347493.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/1c5oso1614347493.jpg/small",
+      "alt_text": "Photo of Spring onion and prawn empanadas",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Q24haJU-1dI"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d3317c07-1a34-51bf-a414-80251ba04fe2",
+        "slug": "portuguese",
+        "name": "Portuguese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 30,
+    "rest_time_minutes": 30,
+    "total_time_minutes": 80
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 empanada"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "b89dbf18-1b18-52ff-93cd-1c482be49122",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "dc10cf54-6298-579e-817c-80420dba1982",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "1  bunch Spring Onions",
+          "quantity": 1.0,
+          "unit": "bunch",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "893ba19d-0577-5467-a201-294517125e09",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "Dash Olive Oil",
+          "quantity": 1,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "276ec4ee-adb2-5f98-96e0-8447d81819eb",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "1 finely sliced Red Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "finely sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c57f9029-1760-5a0a-a456-6e6eb8f5a38d",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "007b1f05-61dd-5719-a53b-12be4cf9a924",
+          "ingredient_id": "d2faf7d8-97cd-57b2-9aee-58261714f9d5",
+          "name": "prawns",
+          "display_text": "350g Prawns",
+          "quantity": 350.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 350.0,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "0f7a3ab9-2b25-5e92-8e63-43b2778795d7",
+          "ingredient_id": "c42909a9-37ca-5099-9618-3534369e4dc2",
+          "name": "feta",
+          "display_text": "75g Feta",
+          "quantity": 75.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "8d3b7ad8-cb3e-5bf5-82aa-4cf0ee9c7f0f",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "15g Butter",
+          "quantity": 15.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "b8b674a0-5599-5159-b920-3cff4899c857",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "250g Plain Flour",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "df2f3766-69d4-5f7a-aae2-9b2205c3cf4d",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 Seperated Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "seperated",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "a2f55886-1003-5ac2-9bf5-f4e9959abd80",
+          "ingredient_id": "fa7445fe-6dac-523d-9bc7-0bdbcf354913",
+          "name": "white wine vinegar",
+          "display_text": "1/2 tsp White Wine Vinegar",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "To make the dough, rub the butter into the flour and then add the egg white and half the yolk (keep the rest), vinegar, a pinch of salt and enough cold water to make a soft dough. Knead on a floured surface until smooth and then wrap and rest for 30 minutes.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "8d3b7ad8-cb3e-5bf5-82aa-4cf0ee9c7f0f",
+        "df2f3766-69d4-5f7a-aae2-9b2205c3cf4d"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat the oven to 180c/fan 160c/gas 4. Trim the green ends of the spring onions and then finely slice the rest. Heat a little oil in a pan and fry them gently until soft but not browned. Add the chilli and garlic, stir and then add the prawns and cook until they are opaque. Season well. Scoop out the prawns and bubble the juices until they thicken, then add back the prawns.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "dc10cf54-6298-579e-817c-80420dba1982",
+        "276ec4ee-adb2-5f98-96e0-8447d81819eb",
+        "c57f9029-1760-5a0a-a456-6e6eb8f5a38d",
+        "007b1f05-61dd-5719-a53b-12be4cf9a924"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Divide the empanada dough into eight balls and roll out to thin circles on a floured surface. Put some filling on one half of the dough, sprinkle the feta on top and fold the other half over. Trim the edge and then fold and crimp the dough together so the empanada is tightly sealed, put it on an oiled baking sheet either on its side or sitting on its un-crimped edge like a cornish pasty. Repeat with the remaining dough and mixture. Mix the leftover egg yolk with a splash of water and brush the top of the empanadas.",
+      "ingredients_used": [
+        "0f7a3ab9-2b25-5e92-8e63-43b2778795d7",
+        "df2f3766-69d4-5f7a-aae2-9b2205c3cf4d"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Bake for 30 minutes or until golden and slightly crisp around the edges.",
+      "timer_seconds": 1800
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.olivemagazine.com/recipes/fish-and-seafood/spring-onion-and-prawn-empanadas/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

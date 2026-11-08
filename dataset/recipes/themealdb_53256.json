@@ -1,0 +1,201 @@
+{
+  "id": "7c3261b5-f261-590e-b762-536c3a61d848",
+  "version": "1.0.0",
+  "title": "Cacik",
+  "slug": "cacik",
+  "summary": "A traditional Turkish yogurt-based dip or side dish made with strained yogurt, grated cucumber, garlic, and dried mint.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:18:05Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53256"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/16zbeu1763789342.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/16zbeu1763789342.jpg/small",
+      "alt_text": "Photo of Cacik",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=eIDgcvpAvf8"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4c480df7-c067-5e9c-ac08-d8d49afa7f51",
+        "slug": "turkish",
+        "name": "Turkish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 0,
+    "rest_time_minutes": 720,
+    "total_time_minutes": 735
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of cacik"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "049366b5-7d46-5f10-bb90-b60005ddec02",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "2dc51916-3d5b-5aca-8aa6-64a5632ef5f1",
+          "ingredient_id": "072d4dfe-558f-5fa8-a75c-16ed936deb19",
+          "name": "natural yogurt",
+          "display_text": "500g Natural Yogurt",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "7c26c0f8-7b61-5a69-b120-5ee5686d445b",
+          "ingredient_id": "4020879e-a0a5-58e2-b093-33c7e85c8a08",
+          "name": "lemon juice",
+          "display_text": "2 tsp Lemon Juice",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "b44ba068-a96c-5c28-be29-90d0b5548c1c",
+          "ingredient_id": "96cc0c2b-795a-53be-a503-05d14e92b236",
+          "name": "extra virgin olive oil",
+          "display_text": "1 tablespoon Extra Virgin Olive Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "5bdd4be5-0c92-55b0-85a5-4dc22cc78cd9",
+          "ingredient_id": "fdc4c2c2-c7f6-52bb-a4dd-06d8021062d2",
+          "name": "dried mint",
+          "display_text": "1 tablespoon Dried Mint",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "b4595943-9a24-54b3-a675-98e72f7e73de",
+          "ingredient_id": "8f9e104a-822f-5bda-b376-eee34fc38609",
+          "name": "cucumber",
+          "display_text": "1 Cucumber",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ae09cefa-3744-52ba-bbeb-83d876b7fe88",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves minced Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "minced",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Put a sieve over a large bowl, line it with a thick sheet of non-dyed kitchen paper or a clean muslin cloth, and spoon in the yogurt. Cover with another sheet of kitchen paper and leave to strain in the fridge for a minimum of 12 hrs.",
+      "timer_seconds": 43200
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the lemon juice, most of the olive oil and the dried mint to a bowl and stir well for the dried mint to soften and soak up the juices. Mix in the strained yogurt, then pour away the strained yogurt liquid and leave that bowl to one side.",
+      "ingredients_used": [
+        "7c26c0f8-7b61-5a69-b120-5ee5686d445b",
+        "5bdd4be5-0c92-55b0-85a5-4dc22cc78cd9"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Halve the cucumber(s) lengthways and remove the seeds by running a teaspoon from the top to the bottom of the flesh, halve the cucumbers widthways to make them shorter and easier to handle, then coarsely grate each one into the bowl the yogurt was straining over. Using clean hands (or a clean muslin cloth), squeeze as much of the liquid out of the cucumber as possible.",
+      "ingredients_used": [
+        "b4595943-9a24-54b3-a675-98e72f7e73de"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add the strained, grated cucumber, garlic and ¾ tsp flaky salt to the rest of the ingredients and mix well. Garnish with a drizzle of extra virgin olive oil and a sprinkling of dried mint.",
+      "ingredients_used": [
+        "b44ba068-a96c-5c28-be29-90d0b5548c1c",
+        "5bdd4be5-0c92-55b0-85a5-4dc22cc78cd9",
+        "b4595943-9a24-54b3-a675-98e72f7e73de",
+        "ae09cefa-3744-52ba-bbeb-83d876b7fe88"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/cacik"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

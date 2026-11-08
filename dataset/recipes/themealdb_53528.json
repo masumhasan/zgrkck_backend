@@ -1,0 +1,247 @@
+{
+  "id": "ee5baa08-ecec-5ee4-8454-a269c97ee796",
+  "version": "1.0.0",
+  "title": "Chuletas de Cerdo a la Criolla (Pork Chops in Creole Sauce)",
+  "slug": "chuletas-de-cerdo-a-la-criolla-pork-chops-in-creole-sauce",
+  "summary": "Pork chops marinated in mustard and cumin, then simmered in a sautéed tomato and onion sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:42:18Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53528"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/087fu71783802698.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/087fu71783802698.jpg/small",
+      "alt_text": "Photo of Chuletas de Cerdo a la Criolla (Pork Chops in Creole Sauce)",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "50fefb0a-1f33-59b0-afdb-383ba2373950",
+        "slug": "colombian",
+        "name": "Colombian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 28,
+    "marinating_time_minutes": 60,
+    "total_time_minutes": 103
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "portions",
+    "serving_size_description": "1 pork chop with sauce"
+  },
+  "allergens": {
+    "contains": [
+      "mustard"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "6209a464-7c51-56f7-8b63-063ab8e22423",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "f7eb4e2a-6ea3-5f75-a151-062261af9fc7",
+          "ingredient_id": "b0ed5e14-8c68-5f17-8716-0154f1badecf",
+          "name": "pork chops",
+          "display_text": "4 Pork Chops",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "4df64bba-7d6a-5a10-b451-f05dba704ae4",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "2 tablespoons Vegetable Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "238899e6-07aa-5e3e-a8f8-42c0302700f9",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 Cloves Crushed Garlic",
+          "quantity": 3.0,
+          "unit": "clove",
+          "preparation": "crushed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "69b65ba8-22f1-50c6-ae82-ff73ff44b88b",
+          "ingredient_id": "b9e3afdc-e194-5f5e-bbae-5c3659d35a67",
+          "name": "mustard",
+          "display_text": "Melted Mustard",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "melted",
+          "is_optional": false,
+          "category": "condiments"
+        },
+        {
+          "id": "cfd4241c-8938-5b56-9890-05770ebfcfc6",
+          "ingredient_id": "efa5be6a-3bc3-55ca-812f-22dd145ba53d",
+          "name": "ground cumin",
+          "display_text": "1 tablespoon Ground Cumin",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "c73de139-6158-503f-aa37-7c8ca51b6bec",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "3 diced Tomato",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "diced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "5d098fc1-21e8-56d6-8a0e-dc1f50c636b7",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onions",
+          "display_text": "2 sliced Onions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "da2f2baa-6559-5439-9968-9ff3dce302af",
+          "ingredient_id": "1655ccbe-97a7-59b3-9245-ebc95a0ed6d0",
+          "name": "cilantro",
+          "display_text": "1/4 cup Cilantro",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "b4f25b31-6297-590d-96d6-ed3816af6b01",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "0a753318-8e74-5289-9a38-bf9e4adbd47a",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "To taste Black Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Place the pork chops in a zip lock plastic bag. Add the mustard, cumin, garlic, salt and pepper.",
+      "ingredients_used": [
+        "f7eb4e2a-6ea3-5f75-a151-062261af9fc7",
+        "238899e6-07aa-5e3e-a8f8-42c0302700f9",
+        "69b65ba8-22f1-50c6-ae82-ff73ff44b88b",
+        "cfd4241c-8938-5b56-9890-05770ebfcfc6",
+        "b4f25b31-6297-590d-96d6-ed3816af6b01"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Refrigerate for 1 hour or overnight. Be sure the pork chops are evenly covered.",
+      "timer_seconds": 3600,
+      "ingredients_used": [
+        "f7eb4e2a-6ea3-5f75-a151-062261af9fc7"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "In a large skillet, heat the oil over medium heat. Place the pork chops into the skillet and cook for 3 minutes per side. Remove the pork from the pan and keep aside on a warm plate.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "f7eb4e2a-6ea3-5f75-a151-062261af9fc7"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add the onions and tomatoes to the same skillet where the pork was browned, adding an additional tablespoon of oil if needed. Cook over high heat for about 5-7 minutes or until browned and softened, stirring frequently to avoid burning. Add the reserved cooked pork chops and cover, reduce the heat to medium-low and simmer until the pork is tender and barely pink in the center, about 15 minutes. Divide the chops among plates, spoon the sauce over the top, add the cilantro and serve immediately.",
+      "ingredients_used": [
+        "f7eb4e2a-6ea3-5f75-a151-062261af9fc7",
+        "c73de139-6158-503f-aa37-7c8ca51b6bec",
+        "5d098fc1-21e8-56d6-8a0e-dc1f50c636b7",
+        "da2f2baa-6559-5439-9968-9ff3dce302af"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.mycolombianrecipes.com/chuletas-de-cerdo-a-la-criolla-pork-chops-in-creole-sauce/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

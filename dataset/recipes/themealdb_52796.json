@@ -1,0 +1,421 @@
+{
+  "id": "aad898f7-50a6-5b96-a04c-451da39f2fd1",
+  "version": "1.0.0",
+  "title": "Chicken Alfredo Primavera",
+  "slug": "chicken-alfredo-primavera",
+  "summary": "A creamy pasta dish featuring sautéed chicken, bowtie pasta, and a variety of vegetables in a white wine and parmesan cream sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:38:31Z",
+  "updated_at": "2026-10-16T10:22:44Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52796"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/syqypv1486981727.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/syqypv1486981727.jpg/small",
+      "alt_text": "Photo of Chicken Alfredo Primavera",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=qCIbq8HywpQ"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "5777da00-e671-5ded-9c46-d7577d65960f",
+        "slug": "italian",
+        "name": "Italian"
+      }
+    ],
+    "tags": [
+      "dairy",
+      "meat",
+      "pasta"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 35,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 55
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of pasta with chicken and vegetables"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "0ab88d96-8021-54c3-a801-f5bf75ced1f1",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "b29a5dad-630e-542b-a758-df36cb4c3997",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "2 tablespoons Butter",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "5f4164cb-cb80-5389-a5ca-6bafd0d9694a",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "3 tablespoons Olive Oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "0e064464-9bea-54f5-9570-24bdb344e5cc",
+          "ingredient_id": "96643234-56e3-5df9-9877-487e63d7cb8b",
+          "name": "chicken",
+          "display_text": "5 boneless Chicken",
+          "quantity": 5.0,
+          "unit": "piece",
+          "preparation": "boneless",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "e0d8185d-cb64-57a4-a4ff-498d64dd6da5",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 teaspoon Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "356d2a39-3113-5a02-b31b-49254b12c593",
+          "ingredient_id": "79c59e5a-3279-54a0-905b-352cf130c268",
+          "name": "squash",
+          "display_text": "1 cut into 1/2-inch cubes Squash",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "cut into 1/2-inch cubes",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "81dae715-a084-5f59-b285-79576f3b5712",
+          "ingredient_id": "31e88f63-2128-56b2-a28a-224d203ee96c",
+          "name": "broccoli",
+          "display_text": "1 Head chopped Broccoli",
+          "quantity": 1.0,
+          "unit": "head",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ba274121-dbce-5ea3-a67f-e516f92868f0",
+          "ingredient_id": "5031dcf8-ef4a-588f-ae8f-de7c2790dfac",
+          "name": "mushrooms",
+          "display_text": "8-ounce sliced mushrooms",
+          "quantity": 8.0,
+          "unit": "piece",
+          "preparation": "ounce sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "5cf0ac77-5c3c-58e2-be3d-e59066e866c6",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "1 red Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "red",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "a2615743-a9b6-50ff-946c-a96173b3d280",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "fbd02c5a-d101-59ac-80e2-8249d7b33b7e",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 cloves garlic",
+          "quantity": 3.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "24e7a5ec-eab7-57b8-8231-65e7eae91908",
+          "ingredient_id": "288d1261-262e-5a23-aa76-135a3c62df23",
+          "name": "red pepper flakes",
+          "display_text": "1/2 teaspoon red pepper flakes",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "f9417f93-58c1-5d98-ac9f-15649ffc89d2",
+          "ingredient_id": "7dfa4179-cc08-5fb6-b4fc-aa52abc5f515",
+          "name": "white wine",
+          "display_text": "1/2 cup white wine",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "8c78df03-17e1-59da-a9c3-70e1038f527c",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "1/2 cup milk",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "e566464e-f28a-51e3-b4c0-ad68269ff572",
+          "ingredient_id": "cb8d5d02-f2f1-547b-b7e6-054d6629adc1",
+          "name": "heavy cream",
+          "display_text": "1/2 cup heavy cream",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "3aa31bf9-0d69-562d-8cd8-d1e39538c98a",
+          "ingredient_id": "7db471f0-9bfa-5aae-91f1-5642980cae0d",
+          "name": "parmesan cheese",
+          "display_text": "1 cup grated Parmesan cheese",
+          "quantity": 1.0,
+          "unit": "cup",
+          "preparation": "grated",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "66303611-3946-588d-9822-1be64b441a07",
+          "ingredient_id": "8fa7d037-6475-52cf-9c0b-cd920119dd38",
+          "name": "bowtie pasta",
+          "display_text": "16 ounces bowtie pasta",
+          "quantity": 16.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "08745ec8-bbf4-5a9c-9ab8-97e9b1c32155",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "23baf955-8349-577f-82dc-6c522ca8761e",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "pinch Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "72a9abb6-c763-57c6-8354-770424b3ac0f",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "chopped Parsley",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat 1 tablespoon of butter and 2 tablespoons of olive oil in a large skillet over medium-high heat. Season both sides of each chicken breast with seasoned salt and a pinch of pepper.",
+      "ingredients_used": [
+        "b29a5dad-630e-542b-a758-df36cb4c3997",
+        "5f4164cb-cb80-5389-a5ca-6bafd0d9694a",
+        "0e064464-9bea-54f5-9570-24bdb344e5cc",
+        "e0d8185d-cb64-57a4-a4ff-498d64dd6da5",
+        "5cf0ac77-5c3c-58e2-be3d-e59066e866c6",
+        "08745ec8-bbf4-5a9c-9ab8-97e9b1c32155",
+        "23baf955-8349-577f-82dc-6c522ca8761e"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the chicken to the skillet and cook for 5-7 minutes on each side, or until cooked through. While the chicken is cooking, bring a large pot of water to a boil.",
+      "timer_seconds": 420,
+      "ingredients_used": [
+        "0e064464-9bea-54f5-9570-24bdb344e5cc"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Season the boiling water with a few generous pinches of kosher salt. Add the pasta and give it a stir.",
+      "ingredients_used": [
+        "e0d8185d-cb64-57a4-a4ff-498d64dd6da5",
+        "66303611-3946-588d-9822-1be64b441a07",
+        "08745ec8-bbf4-5a9c-9ab8-97e9b1c32155"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Cook, stirring occasionally, until al dente, about 12 minutes. Reserve 1/2 cup of  pasta water before draining the pasta.",
+      "timer_seconds": 720,
+      "ingredients_used": [
+        "66303611-3946-588d-9822-1be64b441a07"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Remove the chicken from the pan and transfer it to a cutting board; allow it to rest. Turn the heat down to medium and dd the remaining 1 tablespoon of butter and olive oil to the same pan you used to cook the chicken.",
+      "ingredients_used": [
+        "b29a5dad-630e-542b-a758-df36cb4c3997",
+        "5f4164cb-cb80-5389-a5ca-6bafd0d9694a",
+        "0e064464-9bea-54f5-9570-24bdb344e5cc"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Add the veggies (minus the garlic) and red pepper flakes to the pan and stir to coat with the oil and butter (refrain from seasoning with salt until the veggies are finished browning). Cook, stirring often, until the veggies are tender, about 5 minutes.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "b29a5dad-630e-542b-a758-df36cb4c3997",
+        "e0d8185d-cb64-57a4-a4ff-498d64dd6da5",
+        "5cf0ac77-5c3c-58e2-be3d-e59066e866c6",
+        "fbd02c5a-d101-59ac-80e2-8249d7b33b7e",
+        "24e7a5ec-eab7-57b8-8231-65e7eae91908",
+        "08745ec8-bbf4-5a9c-9ab8-97e9b1c32155",
+        "23baf955-8349-577f-82dc-6c522ca8761e"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Add the garlic and a generous pinch of salt and pepper to the pan and cook for 1 minute. Deglaze the pan with the white wine.",
+      "timer_seconds": 60,
+      "ingredients_used": [
+        "e0d8185d-cb64-57a4-a4ff-498d64dd6da5",
+        "5cf0ac77-5c3c-58e2-be3d-e59066e866c6",
+        "fbd02c5a-d101-59ac-80e2-8249d7b33b7e",
+        "f9417f93-58c1-5d98-ac9f-15649ffc89d2",
+        "08745ec8-bbf4-5a9c-9ab8-97e9b1c32155",
+        "23baf955-8349-577f-82dc-6c522ca8761e"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Continue to cook until the wine has reduced by half, about 3 minutes. Stir in the milk, heavy cream, and reserved pasta water.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "f9417f93-58c1-5d98-ac9f-15649ffc89d2",
+        "8c78df03-17e1-59da-a9c3-70e1038f527c",
+        "e566464e-f28a-51e3-b4c0-ad68269ff572",
+        "66303611-3946-588d-9822-1be64b441a07"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Bring the mixture to a gentle boil and allow to simmer and reduce for 2-3 minutes. Turn off the heat and add the Parmesan cheese and cooked pasta.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "3aa31bf9-0d69-562d-8cd8-d1e39538c98a",
+        "66303611-3946-588d-9822-1be64b441a07"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "Season with salt and pepper to taste. Garnish with Parmesan cheese and chopped parsley, if desired.",
+      "ingredients_used": [
+        "e0d8185d-cb64-57a4-a4ff-498d64dd6da5",
+        "5cf0ac77-5c3c-58e2-be3d-e59066e866c6",
+        "3aa31bf9-0d69-562d-8cd8-d1e39538c98a",
+        "08745ec8-bbf4-5a9c-9ab8-97e9b1c32155",
+        "23baf955-8349-577f-82dc-6c522ca8761e",
+        "72a9abb6-c763-57c6-8354-770424b3ac0f"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

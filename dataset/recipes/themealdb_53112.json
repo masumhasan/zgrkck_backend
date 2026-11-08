@@ -1,0 +1,326 @@
+{
+  "id": "7191cb15-9968-5f87-9b12-98093bde829a",
+  "version": "1.0.0",
+  "title": "Kenyan Beef Curry",
+  "slug": "kenyan-beef-curry",
+  "summary": "A Kenyan-style beef curry featuring tender sirloin steak tips simmered in a spiced tomato and onion sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:05:20Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53112"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/lqampv1762325397.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/lqampv1762325397.jpg/small",
+      "alt_text": "Photo of Kenyan Beef Curry",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=NxrOueTLiqA"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "f2e3f346-83dd-52eb-ba4c-b2e29c50a479",
+        "slug": "kenyan",
+        "name": "Kenyan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 87,
+    "total_time_minutes": 102
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "a bowl of beef curry"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "b5b1f4a9-46fb-5443-a09b-a781f8ec94ac",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "807652c1-7115-54d0-94ac-f4db26e0fd26",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "4 cups Water",
+          "quantity": 4.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 960.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "af8919f9-e978-53ad-82e8-cc2758a355fb",
+          "ingredient_id": "175be084-27f1-58ab-8afa-b66e66b4a81b",
+          "name": "sirloin steak tips",
+          "display_text": "2 Lbs Sirloin Steak tips",
+          "quantity": 2.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 907.2,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "55111e93-65b0-541f-a78b-05c3bb87c466",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "4 Garlic Clove",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "5f95ae76-efda-5fae-9424-52fa216e2757",
+          "ingredient_id": "9c72d0cf-8d9c-53f6-b4c6-5631779ba66b",
+          "name": "ground ginger",
+          "display_text": "2 teaspoons Ground Ginger",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "686cd577-1d91-5194-893a-b7b1ba9b7c80",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "2 tblsp Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "77079b61-1f9c-57d8-8595-9e83af5bd787",
+          "ingredient_id": "716f7639-3b59-56a7-9146-1819649ebdad",
+          "name": "red onions",
+          "display_text": "2 medium Red Onions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e9de957d-314c-59a8-86d1-970ceeb8e7fc",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "4 Tomato",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3d686a50-f228-591d-bf07-85fd236fcde6",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "2 tblsp Paprika",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "0b4e62f6-f12d-5158-b2e6-c112e434f6f7",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1/2 teaspoon Black Pepper",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "e64ebe76-6db2-5a46-a9e3-1044c9f56934",
+          "ingredient_id": "bf1eedb9-f5db-509c-818c-63ceb74086c5",
+          "name": "curry powder",
+          "display_text": "2 teaspoons Curry Powder",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "171d5ae5-33a7-550b-b87b-928f7b319295",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "4 tablespoons Tomato Puree",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "6edf6969-3f98-53ba-8c8c-6655578fb945",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Dash Salt",
+          "quantity": 1,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "82644390-e9b6-5a8b-beec-00710aa394b0",
+          "ingredient_id": "3deb6c1f-bd27-560b-a63b-f2b3eaf9e82e",
+          "name": "chilli",
+          "display_text": "1 Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "a0a8369c-0df5-57bf-bdc3-fa91fc7bb24e",
+          "ingredient_id": "1655ccbe-97a7-59b3-9245-ebc95a0ed6d0",
+          "name": "cilantro",
+          "display_text": "Leaves Cilantro",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "leaves",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Bring the 4 cups of water to a boil in a Dutch oven or soup pot. Add the beef, garlic, and ginger, and stir well. Bring to a gentle simmer, cover, and cook, stirring occasionally, for 20 minutes. If you get any foamy scum on the top, not to worry, simply spoon it away or stir it back in.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "807652c1-7115-54d0-94ac-f4db26e0fd26",
+        "5f95ae76-efda-5fae-9424-52fa216e2757"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Remove from the heat, and drain, but reserve the excess water for later.",
+      "ingredients_used": [
+        "807652c1-7115-54d0-94ac-f4db26e0fd26"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Return the pot or Dutch oven to medium heat with the 2 tablespoons of cooking oil. Once the oil is shimmering, add the onions and cook, stirring occasionally, until softened, 5 to 7 minutes.",
+      "timer_seconds": 420,
+      "ingredients_used": [
+        "686cd577-1d91-5194-893a-b7b1ba9b7c80",
+        "77079b61-1f9c-57d8-8595-9e83af5bd787"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add the tomatoes to the onions, and continue cooking, stirring occasionally, until the tomatoes are falling apart, 3 to 5 minutes.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "77079b61-1f9c-57d8-8595-9e83af5bd787",
+        "e9de957d-314c-59a8-86d1-970ceeb8e7fc"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Add the drained beef to the tomato and onion mixture, and stir well. Continue cooking over medium heat for 5 minutes, stirring occasionally.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "e9de957d-314c-59a8-86d1-970ceeb8e7fc"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Add the paprika, pepper, curry powder, tomato paste, and salt to taste, and stir well.",
+      "ingredients_used": [
+        "e9de957d-314c-59a8-86d1-970ceeb8e7fc",
+        "3d686a50-f228-591d-bf07-85fd236fcde6",
+        "e64ebe76-6db2-5a46-a9e3-1044c9f56934",
+        "6edf6969-3f98-53ba-8c8c-6655578fb945"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Add back the excess water that was used for cooking the beef, along with enough extra water to cover. Bring to a boil, reduce heat, and simmer, uncovered, stirring occasionally, for about 1 hour, or until the meat is tender and the sauce is thickened. Add additional water if your beef curry begins to dry and stick, or if would like your curry to have more of a soupy consistency.",
+      "timer_seconds": 3600,
+      "ingredients_used": [
+        "807652c1-7115-54d0-94ac-f4db26e0fd26"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "When the beef curry is ready, remove from the heat, give it a taste, and adjust the seasonings as desired. Garnish with fresh chilis and cilantro.",
+      "ingredients_used": [
+        "a0a8369c-0df5-57bf-bdc3-fa91fc7bb24e"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://tasteoftheplace.com/kenyan-beef-curry/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

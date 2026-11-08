@@ -1,0 +1,317 @@
+{
+  "id": "490f0a5b-3a43-570c-b8c7-7eb1558acb80",
+  "version": "1.0.0",
+  "title": "Beef Mandi",
+  "slug": "beef-mandi",
+  "summary": "Beef Mandi is a traditional dish consisting of tender beef served over fragrant, spiced basmati rice. It is characterized by its aromatic spice blend and slow-cooked meat.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:27:27Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53359"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/1nalo51765188375.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/1nalo51765188375.jpg/small",
+      "alt_text": "Photo of Beef Mandi",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b2b4e1bc-3c1e-50ce-abf4-9015553e6a16",
+        "slug": "indian",
+        "name": "Indian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 135,
+    "rest_time_minutes": 10,
+    "total_time_minutes": 165
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "a large portion of rice with beef"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "a4d1f752-630a-58e5-8428-56e515f1da6f",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "cecb1cf0-3b82-530b-80a0-6ffa28cf9feb",
+          "ingredient_id": "83ffb65f-48c4-5295-bd29-b97975a1fcb1",
+          "name": "basmati rice",
+          "display_text": "1 kg Basmati Rice",
+          "quantity": 1.0,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "kilogram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "d7287cbb-535d-5f3b-b196-09f8d57aa771",
+          "ingredient_id": "39a746ef-3300-5229-b0b2-3e03970ea60c",
+          "name": "beef stock",
+          "display_text": "5 Cups Beef Stock",
+          "quantity": 5.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 1200.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "30f3a843-73fd-5670-9e4e-d98dc286eade",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "2 medium Onion",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0b998da7-c2e5-53cd-a9e0-8415e5f6b69d",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "5 chopped cloves Garlic",
+          "quantity": 5.0,
+          "unit": "piece",
+          "preparation": "chopped cloves",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "95acc1ff-e62a-5ba9-9a5b-5fe72c265c5d",
+          "ingredient_id": "091f7fa6-975c-516e-a354-2a31e6503580",
+          "name": "green chilli",
+          "display_text": "2 Green Chilli",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "cf7601a4-97ea-50e1-83cd-0b807eef7615",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "1 small Tomato",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "95fb8fe4-0a99-5a8b-96d1-5760b99dc017",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "2 1/2 Tsp Salt",
+          "quantity": 2.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 12.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "64d71266-dc15-550c-856b-d2569c3704c1",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "3  tablespoons Oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "7a9a98c4-b4eb-5b01-9ca9-b115bf4f3dbd",
+          "ingredient_id": "d7052b8e-8c12-518d-a621-f6264b1fdd78",
+          "name": "turmeric powder",
+          "display_text": "1 ½ tsp Turmeric Powder",
+          "quantity": 1.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "f5eab06f-6f63-552a-a94d-3bb1c5758484",
+          "ingredient_id": "d72c12ae-5cbc-534c-bbd5-bc044d844d0a",
+          "name": "cardamom",
+          "display_text": "1/2 tsp Cardamom",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "970b284e-50b9-5b8f-b411-f0c132c0234d",
+          "ingredient_id": "73063cfc-1094-5f58-87bf-49227197f2a2",
+          "name": "cloves",
+          "display_text": "1/2 tsp Cloves",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "53414f21-84a5-577e-932f-2a6e0b757b24",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "1/2 tsp Bay Leaf",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Wash the beef and cut into large pieces. Season lightly with salt and turmeric.",
+      "ingredients_used": [
+        "95fb8fe4-0a99-5a8b-96d1-5760b99dc017"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat ghee/oil in a large pot. Add sliced onions and sauté until light golden.",
+      "ingredients_used": [
+        "30f3a843-73fd-5670-9e4e-d98dc286eade",
+        "64d71266-dc15-550c-856b-d2569c3704c1"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add garlic, green chilies, and tomato; cook until softened.",
+      "ingredients_used": [
+        "0b998da7-c2e5-53cd-a9e0-8415e5f6b69d",
+        "cf7601a4-97ea-50e1-83cd-0b807eef7615"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add the mandi spice mix: coriander, cumin, black pepper, cinnamon, cardamom, cloves, and bay leaves.",
+      "ingredients_used": [
+        "f5eab06f-6f63-552a-a94d-3bb1c5758484",
+        "970b284e-50b9-5b8f-b411-f0c132c0234d"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Add beef pieces and stir on medium heat until the meat is well coated with spices."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Pour in water or beef stock. Cover and simmer until beef is tender (about 1.5–2 hours depending on cut).",
+      "timer_seconds": 7200,
+      "ingredients_used": [
+        "d7287cbb-535d-5f3b-b196-09f8d57aa771"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Remove beef carefully and set aside. Strain and measure the broth."
+    },
+    {
+      "step_number": 8,
+      "instruction": "Add washed, soaked basmati rice to the broth (usually 1 cup rice = 1.5–2 cups liquid). Adjust seasoning and bring to a boil.",
+      "ingredients_used": [
+        "cecb1cf0-3b82-530b-80a0-6ffa28cf9feb"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Lower heat, cover, and cook the rice until fluffy.",
+      "ingredients_used": [
+        "cecb1cf0-3b82-530b-80a0-6ffa28cf9feb"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "Place the beef pieces over the rice and steam on low heat for 10 minutes so flavors combine.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "cecb1cf0-3b82-530b-80a0-6ffa28cf9feb"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Optional: For smoky flavor, place a small hot charcoal on foil in the pot, add 1 tsp butter/oil, immediately cover for 5 minutes. Remove coal before serving.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "64d71266-dc15-550c-856b-d2569c3704c1"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Fluff rice and serve beef mandi with salad or chutney.",
+      "ingredients_used": [
+        "cecb1cf0-3b82-530b-80a0-6ffa28cf9feb"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

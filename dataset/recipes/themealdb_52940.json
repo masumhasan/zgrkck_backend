@@ -1,0 +1,301 @@
+{
+  "id": "ddd5d785-9d91-5c54-8c0a-2056447ca57f",
+  "version": "1.0.0",
+  "title": "Brown Stew Chicken",
+  "slug": "brown-stew-chicken",
+  "summary": "A classic Jamaican dish featuring chicken pieces braised in a savory, aromatic sauce made with soy sauce, allspice, and coconut milk.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:51:04Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52940"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/sypxpx1515365095.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/sypxpx1515365095.jpg/small",
+      "alt_text": "Photo of Brown Stew Chicken",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=_gFB1fkNhXs"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "2dfec5c8-490a-551c-9d2f-e8e21f706bda",
+        "slug": "jamaican",
+        "name": "Jamaican"
+      }
+    ],
+    "tags": [
+      "stew"
+    ],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 30,
+    "marinating_time_minutes": 60,
+    "total_time_minutes": 110
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 portion of chicken with sauce and vegetables"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "f4224fa9-ec7b-57d2-9d25-2886cfde1a52",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "ba9a41a9-c290-50cb-be11-d3bbfef456dc",
+          "ingredient_id": "96643234-56e3-5df9-9877-487e63d7cb8b",
+          "name": "chicken",
+          "display_text": "1 whole Chicken",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "whole",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "7f1c0a98-3631-5132-a9fd-c52007204a7d",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomato",
+          "display_text": "1 chopped Tomato",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b95cafd7-9f90-5cc3-a0dd-c39bf5c4dd99",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onions",
+          "display_text": "2 chopped Onions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4e6da376-dfaa-5e82-a21b-126860ae7362",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "2 chopped Garlic Clove",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c89ba373-34ac-5fa1-95fe-e0034501522c",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1 chopped Red Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "775956bc-703b-5232-a0b4-281cdea13234",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "1 chopped Carrots",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ba5c15a5-f2be-5092-b31f-9290c4ce9d0d",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "1 Lime",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "17b5f4fd-a212-597c-9d0b-81223e2d81e7",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "2 tsp Thyme",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d15fb0e1-5f78-5332-8be7-1dc5e9a7dd5b",
+          "ingredient_id": "38dedce7-9a7f-57ee-8e46-5162ab60eba8",
+          "name": "allspice",
+          "display_text": "1 tsp Allspice",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "62e8ba38-362b-5730-a252-785a70934966",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "2 tbs Soy Sauce",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "338320c9-8b64-599d-9816-37723506c33e",
+          "ingredient_id": "4bdb1684-cdb6-5a8f-b220-c622cf2655cc",
+          "name": "cornstarch",
+          "display_text": "2 tsp Cornstarch",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "7a6385be-38fe-533c-a708-962c54fa33ee",
+          "ingredient_id": "0435e55e-84f6-566c-ac81-37617bbab91c",
+          "name": "coconut milk",
+          "display_text": "2 cups Coconut Milk",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "49df308f-0425-5455-bb0e-a7bd6486c9d8",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "1 tbs Vegetable Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Squeeze lime over chicken and rub well. Drain off excess lime juice.",
+      "ingredients_used": [
+        "ba9a41a9-c290-50cb-be11-d3bbfef456dc",
+        "ba5c15a5-f2be-5092-b31f-9290c4ce9d0d"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Combine tomato, scallion, onion, garlic, pepper, thyme, pimento and soy sauce in a large bowl with the chicken pieces. Cover and marinate at least one hour.",
+      "ingredients_used": [
+        "ba9a41a9-c290-50cb-be11-d3bbfef456dc",
+        "7f1c0a98-3631-5132-a9fd-c52007204a7d",
+        "17b5f4fd-a212-597c-9d0b-81223e2d81e7",
+        "62e8ba38-362b-5730-a252-785a70934966"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Heat oil in a dutch pot or large saucepan. Shake off the seasonings as you remove each piece of chicken from the marinade. Reserve the marinade for sauce.",
+      "ingredients_used": [
+        "ba9a41a9-c290-50cb-be11-d3bbfef456dc"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Lightly brown the chicken a few pieces at a time in very hot oil. Place browned chicken pieces on a plate to rest while you brown the remaining pieces.",
+      "ingredients_used": [
+        "ba9a41a9-c290-50cb-be11-d3bbfef456dc"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Drain off excess oil and return the chicken to the pan. Pour the marinade over the chicken and add the carrots. Stir and cook over medium heat for 10 minutes.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "ba9a41a9-c290-50cb-be11-d3bbfef456dc",
+        "775956bc-703b-5232-a0b4-281cdea13234"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Mix flour and coconut milk and add to stew, stirring constantly. Turn heat down to minimum and cook another 20 minutes or until tender.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "7a6385be-38fe-533c-a708-962c54fa33ee"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://www.geniuskitchen.com/recipe/authentic-jamaican-brown-stew-chicken-347996"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

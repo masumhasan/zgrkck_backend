@@ -1,0 +1,241 @@
+{
+  "id": "4efac59d-052b-5d33-a1cc-01b7873abd9c",
+  "version": "1.0.0",
+  "title": "Mulukhiyah",
+  "slug": "mulukhiyah",
+  "summary": "A traditional Egyptian soup made with minced jute leaves (mulukhiyah) and beef, flavored with a garlic and olive oil tempering.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:58:21Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53029"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/x372ug1598733932.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/x372ug1598733932.jpg/small",
+      "alt_text": "Photo of Mulukhiyah",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=vWc5JzgAkIQ"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "3586d868-9b83-5a6f-adb2-43d378fffcd2",
+        "slug": "egyptian",
+        "name": "Egyptian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 55
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of soup with meat"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "gluten",
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "d7f91704-3284-58c7-86c6-e7a8fd87ade4",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "39002f39-f556-5f7f-a858-98705c335a99",
+          "ingredient_id": "b6ae8bbb-46ea-5aa8-8261-0c1e50f7a8b2",
+          "name": "mulukhiyah",
+          "display_text": "800g Mulukhiyah",
+          "quantity": 800.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 800.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "33e75884-510e-533a-ae6d-58cf12f2405a",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c350c6e5-6fb1-5099-8a8d-260f1a7d4834",
+          "ingredient_id": "c2102b4e-a5b4-5bab-b7d5-bdfa5244ae7b",
+          "name": "beef",
+          "display_text": "300g Beef",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "0406d78b-a820-5a77-b273-0c5ab81fa269",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "cc7371bc-60c6-56f8-8f39-7a8f8b98b776",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1 Liter Water",
+          "quantity": 1.0,
+          "unit": "liter",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "liter",
+          "category": "beverages"
+        },
+        {
+          "id": "5af22bd7-db4e-5f45-ac4c-ec6552c8875b",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "1 Garlic Clove",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "772ce0dd-84aa-5068-8fbe-1f18957b3ff8",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1/2 cup Olive Oil",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Saute the onions in the 3-4 tablespoons olive oil",
+      "ingredients_used": [
+        "33e75884-510e-533a-ae6d-58cf12f2405a",
+        "772ce0dd-84aa-5068-8fbe-1f18957b3ff8"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the beef cubes or the chicken cutlets, sear for 3-4 min on each side",
+      "timer_seconds": 240,
+      "ingredients_used": [
+        "c350c6e5-6fb1-5099-8a8d-260f1a7d4834"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add 1 liter of water or just enough to cover the meat",
+      "ingredients_used": [
+        "cc7371bc-60c6-56f8-8f39-7a8f8b98b776"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Cook over medium heat until the meat is done (I usually do this in the pressure cooker and press them for 5 min)",
+      "timer_seconds": 300
+    },
+    {
+      "step_number": 5,
+      "instruction": "Add the frozen mulukhyia and stir until it thaws completely and then comes to a boil"
+    },
+    {
+      "step_number": 6,
+      "instruction": "In another pan add the 1/4 to 1/2 cup of olive oil and the cloves of garlic and cook over medium low heat until you can smell the garlic (don’t brown it, it will become bitter)",
+      "ingredients_used": [
+        "5af22bd7-db4e-5f45-ac4c-ec6552c8875b",
+        "772ce0dd-84aa-5068-8fbe-1f18957b3ff8"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Add the oil and garlic to the mulukhyia and lower the heat and simmer for 5-10 minutes",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 8,
+      "instruction": "Add salt to taste",
+      "ingredients_used": [
+        "0406d78b-a820-5a77-b273-0c5ab81fa269"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Serve with a generous amount of lemon juice."
+    },
+    {
+      "step_number": 10,
+      "instruction": "You can serve it with some short grain rice or some pita bread"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://chefindisguise.com/2017/05/15/mulukhiyah-a-stew-fit-for-royals/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

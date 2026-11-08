@@ -1,0 +1,224 @@
+{
+  "id": "a8e659d8-c2e7-5446-8c3e-3f61dc418e34",
+  "version": "1.0.0",
+  "title": "Chocolate Raspberry Brownies",
+  "slug": "chocolate-raspberry-brownies",
+  "summary": "Rich chocolate brownies made with dark and milk chocolate, folded with fresh raspberries.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:43:53Z",
+  "updated_at": "2026-10-16T10:22:49Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52860"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/yypvst1511386427.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/yypvst1511386427.jpg/small",
+      "alt_text": "Photo of Chocolate Raspberry Brownies",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Pi89PqsAaAg"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b95bb9d4-1e18-5623-a50f-942c7d140e82",
+        "slug": "american",
+        "name": "American"
+      }
+    ],
+    "tags": [
+      "chocolate",
+      "desert",
+      "snack"
+    ],
+    "meal_types": [
+      "dessert",
+      "snack"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 35,
+    "total_time_minutes": 50
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 brownie square"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": [
+      "soy"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "53137228-9a0a-58d4-a47f-019a98ca97b8",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "a7903b85-d868-5551-aaf8-082f57088319",
+          "ingredient_id": "f553aca9-844a-5f4f-ba77-363733c03112",
+          "name": "dark chocolate",
+          "display_text": "200g Dark Chocolate",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "349905ba-9169-54b1-a45f-2b3635eecb30",
+          "ingredient_id": "60a3a7b2-b96d-5051-a537-0cc9e11770ca",
+          "name": "milk chocolate",
+          "display_text": "100g Milk Chocolate",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "013c0470-99d4-58cc-b702-20351e0545fd",
+          "ingredient_id": "61d59118-43ac-5ce0-8424-181c34200c44",
+          "name": "salted butter",
+          "display_text": "250g Salted Butter",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "f2ca1646-4de4-537b-be00-639cca2624ac",
+          "ingredient_id": "093150ba-8070-5416-a1d8-9cd088b9e3da",
+          "name": "light brown soft sugar",
+          "display_text": "400g Light Brown Soft Sugar",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "5e7a16b3-23d3-5ec9-9af3-9b3417c783e7",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "4 large Eggs",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "917c2472-e2d3-5ff6-9224-5a2f36c5206c",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "140g Plain Flour",
+          "quantity": 140.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 140.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "5e7a1a13-12d5-520c-b9de-4a3fec08e454",
+          "ingredient_id": "2193339a-3b86-589b-be11-3a28fcf5a95e",
+          "name": "cocoa",
+          "display_text": "50g Cocoa",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "4f71c334-ad1f-5673-b44d-c31ef6f8e3ca",
+          "ingredient_id": "51e91b52-f7fc-5c02-9971-241fdb8abe3c",
+          "name": "raspberries",
+          "display_text": "200g Raspberries",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 180C/160C fan/gas 4. Line a 20 x 30cm baking tray tin with baking parchment. Put the chocolate, butter and sugar in a pan and gently melt, stirring occasionally with a wooden spoon. Remove from the heat.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "a7903b85-d868-5551-aaf8-082f57088319",
+        "349905ba-9169-54b1-a45f-2b3635eecb30",
+        "013c0470-99d4-58cc-b702-20351e0545fd"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Stir the eggs, one by one, into the melted chocolate mixture. Sieve over the flour and cocoa, and stir in. Stir in half the raspberries, scrape into the tray, then scatter over the remaining raspberries. Bake on the middle shelf for 30 mins or, if you prefer a firmer texture, for 5 mins more. Cool before slicing into squares. Store in an airtight container for up to 3 days.",
+      "ingredients_used": [
+        "a7903b85-d868-5551-aaf8-082f57088319",
+        "349905ba-9169-54b1-a45f-2b3635eecb30",
+        "5e7a16b3-23d3-5ec9-9af3-9b3417c783e7",
+        "5e7a1a13-12d5-520c-b9de-4a3fec08e454",
+        "4f71c334-ad1f-5673-b44d-c31ef6f8e3ca"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/2121648/bestever-chocolate-raspberry-brownies"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

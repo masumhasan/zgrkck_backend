@@ -1,0 +1,279 @@
+{
+  "id": "5f569bf5-d1d1-5f64-ad88-406ad21ae5b0",
+  "version": "1.0.0",
+  "title": "Oxtail with broad beans",
+  "slug": "oxtail-with-broad-beans",
+  "summary": "A Jamaican-style braised oxtail dish cooked with broad beans and aromatic spices like ginger and scotch bonnet.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:51:20Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52943"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/1520083578.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/1520083578.jpg/small",
+      "alt_text": "Photo of Oxtail with broad beans",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=DIhxk-98Hz8"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "2dfec5c8-490a-551c-9d2f-e8e21f706bda",
+        "slug": "jamaican",
+        "name": "Jamaican"
+      }
+    ],
+    "tags": [
+      "heavy",
+      "mainmeal",
+      "speciality"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of oxtail with broad beans"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "095e66cb-9451-5b2f-80c8-6e736deda27d",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "bd8170cb-73e7-5724-b2d8-41d77625f055",
+          "ingredient_id": "de286315-2593-52a5-8564-e33c00254eef",
+          "name": "oxtail",
+          "display_text": "450g Oxtail",
+          "quantity": 450.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "98899814-3c30-55c6-bbf0-3f350e77a446",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d5e1d360-c0a3-5de2-b418-3f3b114a8224",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "1 Spring Onions",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "da7228ae-96f1-5266-890c-22f9d20684ab",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves minced Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "minced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "57ffb0ad-c890-544b-b1a1-5a7056eb343b",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "1 tsp Ginger",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "b0e0f398-06cb-5acc-8e7e-3cbeab52063b",
+          "ingredient_id": "cfe71375-907d-57ad-936c-b27b60946f4e",
+          "name": "scotch bonnet",
+          "display_text": "1 chopped Scotch Bonnet",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "a13a4f5e-74d9-56f9-baa4-a913e7b925c5",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "2 tbs Soy Sauce",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "9ef0b43e-d10e-53b6-b6d9-5e0858ea5211",
+          "ingredient_id": "60bd0a86-fcd7-5b82-bf3a-36a24bb795e0",
+          "name": "fresh thyme",
+          "display_text": "1 chopped Fresh Thyme",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "549e347e-ab66-52ea-852e-f14a57e08b4f",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "2 tbs Vegetable Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "bff47f1c-91e6-5773-a868-25dcc58923a4",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "350ml Water",
+          "quantity": 350.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 350.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "2bee37b1-51e2-56ed-a675-90a5c1a5dde0",
+          "ingredient_id": "62f1d397-f8eb-5c14-b2c3-48b7ced52406",
+          "name": "broad beans",
+          "display_text": "200g Broad Beans",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "63bded7c-d415-56e0-9195-4674abc597d3",
+          "ingredient_id": "94f73465-e9e4-5ae0-8787-ee86687dbeb4",
+          "name": "corn flour",
+          "display_text": "1 tbs Corn Flour",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "308006b9-28e6-50f9-897e-638104a4f592",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "2 tbs Water",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Toss the oxtail with the onion, spring onion, garlic, ginger, chilli, soy sauce, thyme, salt and pepper. Heat the vegetable oil in a large frying pan over medium-high heat. Brown the oxtail in the pan until browned all over, about 10 minutes. Place into a pressure cooker, and pour in 375ml water. Cook at pressure for 25 minutes, then remove from heat, and remove the lid according to manufacturer's directions.",
+      "ingredients_used": [
+        "bd8170cb-73e7-5724-b2d8-41d77625f055",
+        "98899814-3c30-55c6-bbf0-3f350e77a446",
+        "da7228ae-96f1-5266-890c-22f9d20684ab",
+        "57ffb0ad-c890-544b-b1a1-5a7056eb343b",
+        "a13a4f5e-74d9-56f9-baa4-a913e7b925c5",
+        "9ef0b43e-d10e-53b6-b6d9-5e0858ea5211",
+        "549e347e-ab66-52ea-852e-f14a57e08b4f",
+        "bff47f1c-91e6-5773-a868-25dcc58923a4",
+        "308006b9-28e6-50f9-897e-638104a4f592"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the broad beans and pimento berries, and bring to a simmer over medium-high heat. Dissolve the cornflour in 2 tablespoons water, and stir into the simmering oxtail. Cook and stir a few minutes until the sauce has thickened, and the broad beans are tender.",
+      "ingredients_used": [
+        "bd8170cb-73e7-5724-b2d8-41d77625f055",
+        "bff47f1c-91e6-5773-a868-25dcc58923a4",
+        "2bee37b1-51e2-56ed-a675-90a5c1a5dde0",
+        "308006b9-28e6-50f9-897e-638104a4f592"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://allrecipes.co.uk/recipe/5392/jamaican-oxtail-with-broad-beans.aspx"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

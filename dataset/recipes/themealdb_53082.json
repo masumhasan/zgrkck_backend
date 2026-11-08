@@ -1,0 +1,196 @@
+{
+  "id": "ff731b66-625d-5fa6-b371-3cb697637e5b",
+  "version": "1.0.0",
+  "title": "Strawberries Romanoff",
+  "slug": "strawberries-romanoff",
+  "summary": "A classic Russian dessert consisting of macerated strawberries folded into a rich, whipped cream and sour cream mixture.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:02:58Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53082"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/oe8rg51699014028.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/oe8rg51699014028.jpg/small",
+      "alt_text": "Photo of Strawberries Romanoff",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ybWHc4Vi-xU"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "89b023d7-b2bb-5d32-90aa-fbee4bddee90",
+        "slug": "russian",
+        "name": "Russian"
+      }
+    ],
+    "tags": [
+      "fruity"
+    ],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 0,
+    "marinating_time_minutes": 60,
+    "total_time_minutes": 75
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of strawberries with cream"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery"
+    ],
+    "may_contain": [
+      "sulfites"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "c653d6f9-6a88-567b-b2e8-e109a37cabc7",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "4c1f560c-779c-50be-8abc-1cebb5c78875",
+          "ingredient_id": "8633a33a-dc11-5c17-a43b-c84d3669eb95",
+          "name": "strawberries",
+          "display_text": "2 pint Strawberries",
+          "quantity": 2.0,
+          "unit": "pint",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "fa951aa4-807d-5e44-9be4-8e097c66ba14",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "4 tbs Sugar",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "0659bb17-10ee-5032-9abd-dc7c2d4831c1",
+          "ingredient_id": "15164c87-2208-59f2-addd-9917b07678b6",
+          "name": "grand marnier",
+          "display_text": "4 tbs Grand Marnier",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "9c074db3-107e-58f9-8a44-1933e3c7f0a7",
+          "ingredient_id": "43dddb7a-8e44-5264-87bc-a38406ffbb26",
+          "name": "cream",
+          "display_text": "1 cup Cream",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "f823ff3a-f973-5503-8fe2-185b017b38b7",
+          "ingredient_id": "6ca777b1-4e80-5a4b-8ffe-88c954e2cc8a",
+          "name": "sour cream",
+          "display_text": "1/4 cup Sour Cream",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "In a medium bowl, combine hulled and quartered strawberries, 4 Tbsp sugar and 4 Tbsp liqueur, stir to combine then cover and refrigerate at least 1 hour and up to 2 hours, stirring once or twice.",
+      "ingredients_used": [
+        "4c1f560c-779c-50be-8abc-1cebb5c78875",
+        "fa951aa4-807d-5e44-9be4-8e097c66ba14"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Two photos of cut strawberries in a bowl with one having sugar being added to the bowl Two photos of cut up strawberries for Strawberry Romanoff",
+      "ingredients_used": [
+        "4c1f560c-779c-50be-8abc-1cebb5c78875",
+        "fa951aa4-807d-5e44-9be4-8e097c66ba14"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Just before serving, in a large mixing bowl, combine 1 cup cold heavy cream and 1/4 cup powdered sugar, and beat with an electric mixer until stiff peaks form. Using a spatula, fold in 1/4 cup sour cream just until well blended.",
+      "ingredients_used": [
+        "fa951aa4-807d-5e44-9be4-8e097c66ba14",
+        "9c074db3-107e-58f9-8a44-1933e3c7f0a7",
+        "f823ff3a-f973-5503-8fe2-185b017b38b7"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "To serve, stir strawberries then divide between 6 serving glasses or bowls. You can spoon a little syrup over the berries if you like. You can also use this syrup to soak a cake. Spoon cream over strawberries, dividing evenly. You can also use an ice cream scoop with trigger release for a nice rounded puff of cream. Serve right away or chill and enjoy within 2 hours of assembly.",
+      "timer_seconds": 7200,
+      "ingredients_used": [
+        "4c1f560c-779c-50be-8abc-1cebb5c78875",
+        "9c074db3-107e-58f9-8a44-1933e3c7f0a7"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://natashaskitchen.com/strawberries-romanoff-recipe/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

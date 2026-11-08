@@ -1,0 +1,215 @@
+{
+  "id": "f789acca-a20e-513e-ad6c-40c1f6b6bf2b",
+  "version": "1.0.0",
+  "title": "Polskie Nalesniki (Polish Pancakes)",
+  "slug": "polskie-nalesniki-polish-pancakes",
+  "summary": "Traditional Polish thin pancakes made from a simple batter of flour, eggs, milk, and water. They are typically served warm with various sweet or savory fillings.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:57:44Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53022"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/58bkyo1593350017.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/58bkyo1593350017.jpg/small",
+      "alt_text": "Photo of Polskie Nalesniki (Polish Pancakes)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=EZS4ev2crHc"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d40b0607-0a3a-5f5d-8012-7eaf1b714fa5",
+        "slug": "polish",
+        "name": "Polish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "dessert"
+    ],
+    "courses": [
+      "main_course",
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "pieces",
+    "serving_size_description": "3-4 pancakes"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "14037772-5fde-588f-bb30-9d6be824b969",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "0928bc58-4176-5d8f-976e-9500d594b3af",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "1 cup Flour",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "49b941a9-dffa-5eda-bc6e-3fe38f9ac1cc",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "2 Eggs",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "1aba4f67-6749-5e02-806b-8aea562a0004",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "1 cup Milk",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "7e9bc0cf-625f-54cf-a0de-2ab451f92bd3",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "3/4 cup Water",
+          "quantity": 0.75,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 180.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "461cb477-bd1e-5001-a64b-c0ec9bd61c16",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "d01f038b-52b2-5cf9-9e6a-4f8cd0e508aa",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 tsp Sugar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "c00f2589-68a3-51b1-aa19-fb3bd754120a",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "3 tbs Butter",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Add flour, eggs, milk, water, and salt in a large bowl then mix with a hand mixer until you have a smooth, lump-free batter.",
+      "ingredients_used": [
+        "0928bc58-4176-5d8f-976e-9500d594b3af",
+        "49b941a9-dffa-5eda-bc6e-3fe38f9ac1cc",
+        "1aba4f67-6749-5e02-806b-8aea562a0004",
+        "7e9bc0cf-625f-54cf-a0de-2ab451f92bd3",
+        "461cb477-bd1e-5001-a64b-c0ec9bd61c16"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "At this point, mix in the butter or the vegetable oil. Alternatively, you can use them to grease the pan before frying each pancake.",
+      "ingredients_used": [
+        "c00f2589-68a3-51b1-aa19-fb3bd754120a"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Heat a non-stick pan over medium heat, then pour in the batter, swirling the pan to help it spread."
+    },
+    {
+      "step_number": 4,
+      "instruction": "When the pancake starts pulling away a bit from the sides, and the top is no longer wet, flip it and cook shortly on the other side as well."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Transfer to a plate. Cook the remaining batter until all used up."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Serve warm, with the filling of your choice."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.tasteatlas.com/nalesniki/recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

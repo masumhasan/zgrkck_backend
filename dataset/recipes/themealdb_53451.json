@@ -1,0 +1,297 @@
+{
+  "id": "544c61ec-504e-5908-9b6d-e07a1bd7bcc4",
+  "version": "1.0.0",
+  "title": "Bangladeshi fish curry with daikon",
+  "slug": "bangladeshi-fish-curry-with-daikon",
+  "summary": "A traditional Bangladeshi seafood dish featuring white fish simmered in a spiced gravy with sliced daikon radish.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:35:18Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53451"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/r7mcjm1780261264.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/r7mcjm1780261264.jpg/small",
+      "alt_text": "Photo of Bangladeshi fish curry with daikon",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "3fa2a93a-81b0-51e9-8da2-f5fc1192c36e",
+        "slug": "bangladeshi",
+        "name": "Bangladeshi"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 45,
+    "cook_time_minutes": 57,
+    "total_time_minutes": 102
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of fish and daikon with rice"
+  },
+  "allergens": {
+    "contains": [
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "f54d9ad3-d500-5132-9b9b-befba5750f8a",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "283b7bee-b0da-594f-bfc2-915dae241b3a",
+          "ingredient_id": "972eb44b-3c16-5b72-8b40-db05b898170c",
+          "name": "white fish",
+          "display_text": "450g White Fish",
+          "quantity": 450.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "gram",
+          "category": "fish"
+        },
+        {
+          "id": "e7f6397e-9fe2-5c62-b3f1-064a66420a1a",
+          "ingredient_id": "fa73193f-11af-5abb-92da-ec749c3b522b",
+          "name": "daikon radish",
+          "display_text": "450g Daikon Radish",
+          "quantity": 450.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "171e1fd1-0385-59f2-b6b2-e33a2ac6be59",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "4 tablespoons Vegetable Oil",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "19b956a1-bc5a-5ce1-bd7d-8a24cdbb556f",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "4 cloves Garlic",
+          "quantity": 4.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f1356a43-9529-5d4f-8341-80a217513473",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 medium Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "00c8e89f-8672-50f9-9737-8d0ae743d02a",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "2 tsp Salt",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "dfbcc425-63d3-500e-bb79-2d30899ce9a3",
+          "ingredient_id": "c2860364-0695-56cf-a2d1-331855605613",
+          "name": "ground turmeric",
+          "display_text": "1 tsp Ground Turmeric",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "28ddc48f-0aca-5c32-8d10-755aad848239",
+          "ingredient_id": "81534384-b0e9-52fb-8b88-01288b93f32a",
+          "name": "ground coriander",
+          "display_text": "2 tsp Ground Coriander",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "9dd95e5c-b0f4-552e-9e6b-d5e30348a6ba",
+          "ingredient_id": "6fab3ead-b910-5c38-a787-4d74e606a7e1",
+          "name": "chilli powder",
+          "display_text": "2 tsp Chilli Powder",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "38d61cfd-9def-566f-917d-fc4f0e1121e2",
+          "ingredient_id": "091f7fa6-975c-516e-a354-2a31e6503580",
+          "name": "green chilli",
+          "display_text": "2 Green Chilli",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1590bfbf-31fd-5b31-86ac-9f7ca3e57ee0",
+          "ingredient_id": "01f7246f-a615-5952-a55f-5bf9985723ad",
+          "name": "coriander leaves",
+          "display_text": "Handful Coriander Leaves",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "08828549-5a20-5a05-985c-ac6715ca349c",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "1 Lime",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "If you are using rohu fish it will usually be frozen. Soak it in cold water for 30-45 minutes to defrost and while still a little firm, descale and cut each steak into quarters and wash in cold saltwater a few times. Drain and set aside. If using an alternative such as cod, cut into 2 ½ inch chunks then rinse, drain and set aside",
+      "timer_seconds": 2700,
+      "ingredients_used": [
+        "283b7bee-b0da-594f-bfc2-915dae241b3a",
+        "00c8e89f-8672-50f9-9737-8d0ae743d02a"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Top and tail the daikon and peel using a potato peeler. Cut in half widthways then cut each half down the middle, lengthways. Now slice into 2cm-thick half-moon pieces. Rinse and set aside"
+    },
+    {
+      "step_number": 3,
+      "instruction": "Place a large, shallow saucepan over a medium heat and add the oil. When the oil is hot add the crushed garlic and stir for a minute until pale golden",
+      "ingredients_used": [
+        "19b956a1-bc5a-5ce1-bd7d-8a24cdbb556f"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add the onion paste and salt and cook for 3-5 minutes, until the onion softens and becomes translucent, stirring occasionally",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "f1356a43-9529-5d4f-8341-80a217513473",
+        "00c8e89f-8672-50f9-9737-8d0ae743d02a"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Pour in 200ml of water then cover and cook for 10 minutes, stirring once or twice",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 6,
+      "instruction": "After 10 minutes add the ground spices and stir for a couple of minutes so that the spices cook through. Cover and cook for 5 minutes over a low heat then stir in the daikon. After a minute or so add 200ml of water. Cover and cook for 10 minutes on a medium heat"
+    },
+    {
+      "step_number": 7,
+      "instruction": "Add the fish pieces to the pan and mix thoroughly so that the fish is coated in the spices. Gently shake the pan and cover and cook for 5 minutes on medium heat. It is very important not to stir the pot after this stage",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "283b7bee-b0da-594f-bfc2-915dae241b3a"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Meanwhile, boil some water. After the 5 minutes are over carefully pour 500ml hot water into the pan. When doing this pour into the sides of the pan so that you don’t pour boiling water directly onto the fish",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "283b7bee-b0da-594f-bfc2-915dae241b3a"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Give the pan a gentle shake then cover and simmer over high heat for 15 minutes. Add the chopped coriander and chillies and continue cooking for another 5 minutes then turn off the heat. Serve immediately with rice and the lime wedges",
+      "ingredients_used": [
+        "28ddc48f-0aca-5c32-8d10-755aad848239",
+        "38d61cfd-9def-566f-917d-fc4f0e1121e2",
+        "08828549-5a20-5a05-985c-ac6715ca349c"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.greatbritishchefs.com/recipes/bangladesh-fish-curry-recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

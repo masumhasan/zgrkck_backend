@@ -1,0 +1,187 @@
+{
+  "id": "ea66e1b6-6617-5ca9-aa42-b38d11310409",
+  "version": "1.0.0",
+  "title": "Tortang Talong",
+  "slug": "tortang-talong",
+  "summary": "A classic Filipino dish consisting of grilled eggplant dipped in beaten eggs and pan-fried.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:02:26Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53075"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/va668f1683209318.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/va668f1683209318.jpg/small",
+      "alt_text": "Photo of Tortang Talong",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=eLl8ekOu1MM"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "3e1a78f5-e83e-5b97-a090-8a1e2d2271a8",
+        "slug": "filipino",
+        "name": "Filipino"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 25
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 flattened eggplant with egg"
+  },
+  "allergens": {
+    "contains": [
+      "eggs"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "4c52c87d-c6db-5dfb-8064-0eb59cdb0280",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "625e7003-54e3-5ac1-ad29-074433344336",
+          "ingredient_id": "08b505fe-2af9-5025-98f3-845df35333e6",
+          "name": "egg plants",
+          "display_text": "4 Egg Plants",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d13802fa-4d84-56e6-95f8-0c7404d2bc41",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "2 Eggs",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "9663e371-8c3b-5b8d-baaf-e874af50a591",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "401aa5de-3ae1-5515-8751-fb5892808428",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "4 tsp Olive Oil",
+          "quantity": 4.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 20.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Grill the eggplant until the color of skin turns almost black"
+    },
+    {
+      "step_number": 2,
+      "instruction": "Let the eggplant cool for a while then peel off the skin. Set aside."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Crack the eggs and place in a bowl",
+      "ingredients_used": [
+        "d13802fa-4d84-56e6-95f8-0c7404d2bc41"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add salt and beat",
+      "ingredients_used": [
+        "9663e371-8c3b-5b8d-baaf-e874af50a591"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Place the eggplant on a flat surface and flatten using a fork."
+    },
+    {
+      "step_number": 6,
+      "instruction": "Dip the flattened eggplant in the beaten egg mixture"
+    },
+    {
+      "step_number": 7,
+      "instruction": "Heat the pan and pour the cooking oil"
+    },
+    {
+      "step_number": 8,
+      "instruction": "Fry the eggplant (that was dipped in the beaten mixture). Make sure that both sides are cooked. Frying time will take you about 3 to 4 minutes per side on medium heat.",
+      "timer_seconds": 240
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.sainsburysmagazine.co.uk/recipes/mains/tortang-talong"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

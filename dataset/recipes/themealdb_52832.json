@@ -1,0 +1,356 @@
+{
+  "id": "b73518ce-8b95-5425-888c-33eca16571ec",
+  "version": "1.0.0",
+  "title": "Coq au vin",
+  "slug": "coq-au-vin",
+  "summary": "A classic French stew featuring chicken braised in red wine with bacon, shallots, and mushrooms.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:41:24Z",
+  "updated_at": "2026-10-16T10:22:47Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52832"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/qstyvs1505931190.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/qstyvs1505931190.jpg/small",
+      "alt_text": "Photo of Coq au vin",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=_ise46LADBs"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "fe8f07a1-591f-5711-ae5b-f3c9afcc3e60",
+        "slug": "french",
+        "name": "French"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 70,
+    "total_time_minutes": 90
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1-2 pieces of chicken with sauce and mushrooms"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "tree_nuts",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "29dbe313-08be-5722-978d-5717ad33e4bd",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "362019bd-79d6-5b2f-97a8-215ac571bbc3",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1½ tbsp Olive Oil",
+          "quantity": 1.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 22.5,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "9bacfff8-c8fa-5f8a-bc66-728a9f30637a",
+          "ingredient_id": "956cfefc-d0f9-5c1f-9f20-d38a1e4dbdad",
+          "name": "bacon",
+          "display_text": "3 rashers (100g) chopped dry-cured Bacon",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "rashers  chopped dry-cured",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "80cc2379-8c06-574b-9e2e-e92cd2e5d655",
+          "ingredient_id": "d22accc4-e562-59bf-9cbb-1ad38d461e99",
+          "name": "shallots",
+          "display_text": "12 small Shallots",
+          "quantity": 12.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1fc4af04-22a2-5e35-9ec4-e27e6656a32b",
+          "ingredient_id": "e023ae45-1d37-5ed8-bd41-426cd1a6688c",
+          "name": "chicken legs",
+          "display_text": "2 (460g) Chicken Legs",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "460g",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "2cc1b77b-510a-5571-9711-b127ef56e3df",
+          "ingredient_id": "e0e4d032-0f9f-5908-ab90-db9a8ec5b68c",
+          "name": "chicken thighs",
+          "display_text": "4 (650g) Chicken Thighs",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "650g",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "9565cd98-cc99-5db4-aabb-84286f5aa1f9",
+          "ingredient_id": "e23191a1-4966-5b21-a6f1-8df6f50b79db",
+          "name": "chicken breasts",
+          "display_text": "2 (280g) Chicken Breasts",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "280g",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "1c4e81ea-4a14-5c86-a400-7194f0de31ee",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 finely chopped Garlic",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "6edb06ac-c506-5f03-8f0b-816ce6c1c5aa",
+          "ingredient_id": "063ff6f2-ecba-5f08-abd6-0646882f3f1d",
+          "name": "brandy",
+          "display_text": "3 tbsp Brandy",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "9b26401b-0525-59f8-8972-efaa7154ed2f",
+          "ingredient_id": "0b364d55-0a30-54fb-b1d4-422f720404e3",
+          "name": "red wine",
+          "display_text": "600ml Red Wine",
+          "quantity": 600.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 600.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "92b2f10f-c9a4-5c7a-8499-c6062159f057",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "150ml Chicken Stock",
+          "quantity": 150.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "b253050c-5fe5-5fe5-ba52-31022052415c",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "2 tsp tomato puree",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "083843d9-2447-533a-8890-4aed604d5a67",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "3 sprigs thyme",
+          "quantity": 3.0,
+          "unit": "sprig",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "606ab9e0-a8ac-5aa7-bf26-a90dcddbd31b",
+          "ingredient_id": "b0bbff87-223e-5a9c-aa07-1ee472617b84",
+          "name": "rosemary",
+          "display_text": "2 sprigs Rosemary",
+          "quantity": 2.0,
+          "unit": "sprig",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "67f93f00-37d1-5f2a-a4cf-68e090a048a2",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaves",
+          "display_text": "2 bay leaves",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "9da90e66-91c0-5df8-ab11-c826d2cfb706",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "garnish parsley",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "garnish",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1e04adf3-ee88-5f85-81a6-c6b200c27c15",
+          "ingredient_id": "1e7d71c6-14d3-56e2-a186-551ecf1a576c",
+          "name": "chestnut mushroom",
+          "display_text": "250g chestnut mushroom",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "d1569de5-2c1f-5530-9123-ebbd1bef548a",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "2 tbsp plain flour",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "e3e4f5d3-6150-5cc8-8ec2-7eb11fd5c45e",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "1 tsp butter",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat 1 tbsp of the oil in a large, heavy-based saucepan or flameproof dish. Tip in the bacon and fry until crisp. Remove and drain on kitchen paper. Add the shallots to the pan and fry, stirring or shaking the pan often, for 5-8 mins until well browned all over. Remove and set aside with the bacon.",
+      "timer_seconds": 480,
+      "ingredients_used": [
+        "9bacfff8-c8fa-5f8a-bc66-728a9f30637a",
+        "80cc2379-8c06-574b-9e2e-e92cd2e5d655"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Pat the chicken pieces dry with kitchen paper. Pour the remaining oil into the pan, then fry half the chicken pieces, turning regularly, for 5-8 mins until well browned. Remove, then repeat with the remaining chicken. Remove and set aside.",
+      "timer_seconds": 480
+    },
+    {
+      "step_number": 3,
+      "instruction": "Scatter in the garlic and fry briefly, then, with the heat medium-high, pour in the brandy or Cognac, stirring the bottom of the pan to deglaze. The alcohol should sizzle and start to evaporate so there is not much left.",
+      "ingredients_used": [
+        "1c4e81ea-4a14-5c86-a400-7194f0de31ee",
+        "6edb06ac-c506-5f03-8f0b-816ce6c1c5aa"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Return the chicken legs and thighs to the pan along with any juices, then pour in a little of the wine, stirring the bottom of the pan again. Stir in the rest of the wine, the stock and tomato purée, drop in the bouquet garni, season with pepper and a pinch of salt, then return the bacon and shallots to the pan. Cover, lower the heat to a gentle simmer, add the chicken breasts and cook for 50 mins-1hr.",
+      "ingredients_used": [
+        "9bacfff8-c8fa-5f8a-bc66-728a9f30637a",
+        "80cc2379-8c06-574b-9e2e-e92cd2e5d655",
+        "1fc4af04-22a2-5e35-9ec4-e27e6656a32b",
+        "2cc1b77b-510a-5571-9711-b127ef56e3df",
+        "9565cd98-cc99-5db4-aabb-84286f5aa1f9",
+        "9b26401b-0525-59f8-8972-efaa7154ed2f"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Just before ready to serve, heat the oil for the mushrooms in a large non-stick frying pan. Add the mushrooms and fry over a high heat for a few mins until golden. Remove and keep warm.",
+      "ingredients_used": [
+        "1e04adf3-ee88-5f85-81a6-c6b200c27c15"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Lift the chicken, shallots and bacon from the pan and transfer to a warmed serving dish. Remove the bouquet garni. To make the thickener, mix the flour, olive oil and butter in a small bowl using the back of a teaspoon. Bring the wine mixture to a gentle boil, then gradually drop in small pieces of the thickener, whisking each piece in using a wire whisk. Simmer for 1-2 mins. Scatter the mushrooms over the chicken, then pour over the wine sauce. Garnish with chopped parsley.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "362019bd-79d6-5b2f-97a8-215ac571bbc3",
+        "9bacfff8-c8fa-5f8a-bc66-728a9f30637a",
+        "80cc2379-8c06-574b-9e2e-e92cd2e5d655",
+        "9b26401b-0525-59f8-8972-efaa7154ed2f",
+        "9da90e66-91c0-5df8-ab11-c826d2cfb706",
+        "1e04adf3-ee88-5f85-81a6-c6b200c27c15",
+        "e3e4f5d3-6150-5cc8-8ec2-7eb11fd5c45e"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/1913655/coq-au-vin"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "id": "fa854ecb-075f-5320-a4f2-ad59fe2ddfd0",
+  "version": "1.0.0",
+  "title": "Milanesa",
+  "slug": "milanesa",
+  "summary": "Milanesa is a traditional Argentine dish consisting of thin beef cutlets coated in breadcrumbs and fried until golden.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:07:24Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53135"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/wdfa171763065079.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/wdfa171763065079.jpg/small",
+      "alt_text": "Photo of Milanesa",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=_G3cyucbB3o"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "52cab25e-aedf-58a6-a869-20df96a19448",
+        "slug": "argentine",
+        "name": "Argentine"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 8,
+    "total_time_minutes": 23
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 beef cutlet"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "231603de-7c5c-5f06-abe7-75f515c4d546",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "40c852b4-29f9-545b-9191-db13858a7d87",
+          "ingredient_id": "81dbf370-0645-5447-9afa-433d1b12a255",
+          "name": "beef cutlet",
+          "display_text": "4 Beef Cutlet",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "16026e59-a2a4-50bb-a249-c96cd9b1726c",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "2 Beaten Egg",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "beaten",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "fab1c47e-bdc4-547c-b588-2672530bc25e",
+          "ingredient_id": "00efa231-6d81-5c88-91fa-b330117cc5f4",
+          "name": "breadcrumbs",
+          "display_text": "200g Breadcrumbs",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "b44ff404-a1f4-5828-a7c6-7be753275112",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "2 tbs chopped Parsley",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "f54120e4-754e-5f0a-a6c9-bd4d05540a65",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves minced Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "minced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7366a41e-5928-5195-aee4-64cb11a27a55",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "c902158f-69c2-5ec2-8e1d-4c34b3f8c7af",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "To taste Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Season the Cutlets: Salt and pepper the cutlets.",
+      "ingredients_used": [
+        "40c852b4-29f9-545b-9191-db13858a7d87",
+        "7366a41e-5928-5195-aee4-64cb11a27a55",
+        "c902158f-69c2-5ec2-8e1d-4c34b3f8c7af"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Bread the Cutlets: Dip each cutlet in egg, then coat with a mixture of breadcrumbs, parsley, and garlic.",
+      "ingredients_used": [
+        "40c852b4-29f9-545b-9191-db13858a7d87",
+        "16026e59-a2a4-50bb-a249-c96cd9b1726c",
+        "fab1c47e-bdc4-547c-b588-2672530bc25e",
+        "b44ff404-a1f4-5828-a7c6-7be753275112",
+        "f54120e4-754e-5f0a-a6c9-bd4d05540a65"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Fry: Heat oil in a large pan over medium heat. Fry the cutlets until golden and cooked through, about 3-4 minutes per side.",
+      "timer_seconds": 240,
+      "ingredients_used": [
+        "40c852b4-29f9-545b-9191-db13858a7d87"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Serve: Serve hot with lemon wedges or a side salad."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Pro Tips:"
+    },
+    {
+      "step_number": 6,
+      "instruction": "For an extra crispy crust, use panko breadcrumbs mixed with finely grated Parmesan cheese.",
+      "ingredients_used": [
+        "fab1c47e-bdc4-547c-b588-2672530bc25e"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Gently pound the cutlets to an even thickness for uniform cooking.",
+      "ingredients_used": [
+        "40c852b4-29f9-545b-9191-db13858a7d87"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.munchery.com/blog/the-ten-iconic-dishes-of-argentina-and-how-to-cook-them-at-home/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

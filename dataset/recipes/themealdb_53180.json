@@ -1,0 +1,181 @@
+{
+  "id": "8dfdfb2f-292f-5cfe-b921-48313d75b0b5",
+  "version": "1.0.0",
+  "title": "Garlicky prawns with sherry",
+  "slug": "garlicky-prawns-with-sherry",
+  "summary": "A quick Spanish seafood dish featuring prawns sautéed with garlic and deglazed with dry sherry.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:11:21Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53180"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/u2lhqb1763331899.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/u2lhqb1763331899.jpg/small",
+      "alt_text": "Photo of Garlicky prawns with sherry",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=2hf2xltFbxQ"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "courses": [
+      "appetizer",
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 7,
+    "total_time_minutes": 12
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "200g prawns with sauce"
+  },
+  "allergens": {
+    "contains": [
+      "fish",
+      "shellfish",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "2839f9b4-5a8c-5994-879e-bae90109f973",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "e1f36e4e-5d4e-547c-b048-3c2f4050e229",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "3  tablespoons Olive Oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "3bc7e77f-afc1-5318-bae0-0cd6a6b36c30",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 cloves Chopped Garlic",
+          "quantity": 3.0,
+          "unit": "clove",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e8f2eea9-e981-5f74-b79b-c062b7af29f6",
+          "ingredient_id": "d2faf7d8-97cd-57b2-9aee-58261714f9d5",
+          "name": "prawns",
+          "display_text": "400g Prawns",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "6ecb74c9-8a0d-58e0-9fa8-a3c7113307a8",
+          "ingredient_id": "0878c803-3a75-5498-b12f-29ba3adbfea5",
+          "name": "dry sherry",
+          "display_text": "2 tbsp Dry sherry",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "933b2cab-af67-59a9-bac5-06c0548d511a",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Handful Parsley",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the olive oil in a large frying pan. Tip in the garlic slices and cook for a few secs. Then stir through the prawns and cook for a couple of mins until they start to turn pink.",
+      "ingredients_used": [
+        "e1f36e4e-5d4e-547c-b048-3c2f4050e229",
+        "3bc7e77f-afc1-5318-bae0-0cd6a6b36c30",
+        "e8f2eea9-e981-5f74-b79b-c062b7af29f6"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Pour over the sherry and cook for a few mins more, just until the prawns are cooked through. Sprinkle with parsley before serving.",
+      "ingredients_used": [
+        "e8f2eea9-e981-5f74-b79b-c062b7af29f6",
+        "6ecb74c9-8a0d-58e0-9fa8-a3c7113307a8",
+        "933b2cab-af67-59a9-bac5-06c0548d511a"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/garlicky-prawns-sherry"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

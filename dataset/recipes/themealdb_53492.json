@@ -1,0 +1,236 @@
+{
+  "id": "0352107b-66cf-513a-aec4-016db2acaad0",
+  "version": "1.0.0",
+  "title": "Bulgarian Green Salad",
+  "slug": "bulgarian-green-salad",
+  "summary": "A fresh Bulgarian salad consisting of lettuce, radish, cucumber, and scallions dressed with apple cider vinegar and olive oil.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:39:03Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53492"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/6awyvm1782685205.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/6awyvm1782685205.jpg/small",
+      "alt_text": "Photo of Bulgarian Green Salad",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "66ab8d60-8573-56c2-94b7-8a8e8cc659da",
+        "slug": "bulgarian",
+        "name": "Bulgarian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 15
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of salad"
+  },
+  "allergens": {
+    "contains": [
+      "eggs"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "96e31a2a-557f-57bc-90e0-d7a997d2214e",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "46d38404-8893-5926-95ac-f7882a80d4cb",
+          "ingredient_id": "0777cda5-7472-55c6-bfb1-6a88f7678f6d",
+          "name": "lettuce",
+          "display_text": "1/2 Lettuce",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ecba0366-6895-5381-8372-8ec55c7a6e7b",
+          "ingredient_id": "192a2e29-7868-5826-aa10-77e29079b94b",
+          "name": "radish",
+          "display_text": "7 Radish",
+          "quantity": 7.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "103250a7-9fee-581c-83dd-6453a160c3f4",
+          "ingredient_id": "8f9e104a-822f-5bda-b376-eee34fc38609",
+          "name": "cucumber",
+          "display_text": "1 sliced Cucumber",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "25fcf9de-6a8f-5e33-bb01-019aad9f534c",
+          "ingredient_id": "24cbab0a-29d3-5e28-b361-77f90e93af9c",
+          "name": "scallions",
+          "display_text": "4 Chopped Scallions",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "a7bd88b1-b695-5c35-bc31-a583d3aa8adf",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "22f3e123-f43a-5a17-95df-070268a865c4",
+          "ingredient_id": "211a37f0-70a1-58ab-8de9-d0d3b232bc64",
+          "name": "apple cider vinegar",
+          "display_text": "2 tablespoons Apple Cider Vinegar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "315170f9-fdd3-5108-b80f-7aaa052d42c3",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1/8 cup Olive Oil",
+          "quantity": 0.125,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "e7a5e4bb-377a-51e7-adce-72922b97795c",
+          "ingredient_id": "c20ef13e-7f52-5fce-847f-34f123e6392e",
+          "name": "dill",
+          "display_text": "Garnish Dill",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "garnish",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "7c58b8e9-a79d-5808-a174-a1c84a3e1170",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Garnish Parsley",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "garnish",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Place sliced lettuce in a large bowl.",
+      "ingredients_used": [
+        "46d38404-8893-5926-95ac-f7882a80d4cb"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add radishes, cucumber, and scallions.",
+      "ingredients_used": [
+        "ecba0366-6895-5381-8372-8ec55c7a6e7b",
+        "103250a7-9fee-581c-83dd-6453a160c3f4",
+        "25fcf9de-6a8f-5e33-bb01-019aad9f534c"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Drizzle with vinegar and olive oil.",
+      "ingredients_used": [
+        "315170f9-fdd3-5108-b80f-7aaa052d42c3"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Season with salt and gently toss to combine.",
+      "ingredients_used": [
+        "a7bd88b1-b695-5c35-bc31-a583d3aa8adf"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Top with sliced hard-boiled eggs, olives, dill and (or) parsley if using and serve immediately.",
+      "ingredients_used": [
+        "e7a5e4bb-377a-51e7-adce-72922b97795c",
+        "7c58b8e9-a79d-5808-a174-a1c84a3e1170"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://cookinglsl.com/bulgarian-green-salad-recipe/#wprm-recipe-container-24454"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

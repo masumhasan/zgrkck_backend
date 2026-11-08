@@ -1,0 +1,259 @@
+{
+  "id": "5d080923-17d4-518d-8fb5-63b0730d82b8",
+  "version": "1.0.0",
+  "title": "Molasses Baked Beans",
+  "slug": "molasses-baked-beans",
+  "summary": "A slow-baked Canadian-style dish featuring navy beans simmered with molasses, brown sugar, and bacon.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:25:19Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53336"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/9tddhg1764443699.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/9tddhg1764443699.jpg/small",
+      "alt_text": "Photo of Molasses Baked Beans",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=60tmFXd4uoI"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "54838e2c-2c59-558b-8932-e019f7cc6d0c",
+        "slug": "canadian",
+        "name": "Canadian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course",
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 330,
+    "total_time_minutes": 345
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of beans"
+  },
+  "allergens": {
+    "contains": [
+      "mustard"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "3ec2bd5c-6c59-5419-a671-a436ac3d7eef",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "348fbb92-eacd-59f3-904b-fa46d35a29a7",
+          "ingredient_id": "775081d6-f2ac-5703-bcc3-05eedcb39d84",
+          "name": "dried white navy beans",
+          "display_text": "2 cups Dried White Navy Beans",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "e07d32d4-9c0e-5b60-bd57-712baf350451",
+          "ingredient_id": "956cfefc-d0f9-5c1f-9f20-d38a1e4dbdad",
+          "name": "bacon",
+          "display_text": "1/2 lb Bacon",
+          "quantity": 0.5,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 226.8,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "322b5415-c374-5e64-a8bf-3b7113507617",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 medium Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ba34faa3-a722-528d-bec2-739eb33984b5",
+          "ingredient_id": "4ae02ffd-0fb5-5622-a6e3-c92ad19d7675",
+          "name": "molasses",
+          "display_text": "1/2 cup Molasses",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "8efd70d3-4089-5e3a-8216-3be2ecf70a61",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "1/4 cup Brown Sugar",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "5f9e3a6d-3793-55b1-ae79-8e8c3b34e837",
+          "ingredient_id": "13e89dcd-0f80-5590-a3e8-c9a80c8fa688",
+          "name": "cider vinegar",
+          "display_text": "2 tablespoons Cider Vinegar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "6c23e7c6-e791-5945-9ccd-142bcac59ee4",
+          "ingredient_id": "b9e3afdc-e194-5f5e-bbae-5c3659d35a67",
+          "name": "mustard",
+          "display_text": "Ground Mustard",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "ground",
+          "is_optional": false,
+          "category": "condiments"
+        },
+        {
+          "id": "dcc4378e-65b9-5e29-9e54-99dcc3910779",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "a5fd128d-f135-55f2-8867-ab63ab6e30f6",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "To taste Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Place the dried beans into a Dutch oven with 6 cups (1.5 L) of water. Soak overnight.",
+      "ingredients_used": [
+        "348fbb92-eacd-59f3-904b-fa46d35a29a7"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Drain and pour beans back into the pot with enough water to cover the beans by a couple of inches, cook for 30 minutes until they are tender but still firm. Drain beans, making sure to reserve cooking liquid, set aside.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "348fbb92-eacd-59f3-904b-fa46d35a29a7"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Preheat the oven to 325 °F (160 °C). While the oven is preheating, cook pork over medium-high heat in the Dutch Oven until fat is rendered and pork is beginning to brown, then add the onion cooking until tender.",
+      "temperature": {
+        "value": 325,
+        "unit": "fahrenheit"
+      },
+      "ingredients_used": [
+        "322b5415-c374-5e64-a8bf-3b7113507617"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add the beans back to the pot, along with molasses, brown sugar, apple cider vinegar, ground mustard, salt and pepper and 3 cups (750 mL) of reserved bean water.",
+      "ingredients_used": [
+        "348fbb92-eacd-59f3-904b-fa46d35a29a7",
+        "ba34faa3-a722-528d-bec2-739eb33984b5",
+        "8efd70d3-4089-5e3a-8216-3be2ecf70a61",
+        "5f9e3a6d-3793-55b1-ae79-8e8c3b34e837",
+        "6c23e7c6-e791-5945-9ccd-142bcac59ee4",
+        "dcc4378e-65b9-5e29-9e54-99dcc3910779",
+        "a5fd128d-f135-55f2-8867-ab63ab6e30f6"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Bake uncovered for 3 to 5 hours until the beans are tender, and the sauce has thickened, and the edges of the pot get sticky.",
+      "timer_seconds": 18000,
+      "ingredients_used": [
+        "348fbb92-eacd-59f3-904b-fa46d35a29a7"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "(Note: if beans get dry, add another cup of water.)",
+      "ingredients_used": [
+        "348fbb92-eacd-59f3-904b-fa46d35a29a7"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://canadianfoodfocus.org/recipes/classic-canadian-dishes-molasses-baked-beans/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

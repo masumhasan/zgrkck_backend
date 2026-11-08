@@ -1,0 +1,332 @@
+{
+  "id": "a3ebd45c-c69a-50b1-8a8c-d69ddc3851d0",
+  "version": "1.0.0",
+  "title": "Pollo en pepitoria",
+  "slug": "pollo-en-pepitoria",
+  "summary": "A traditional Spanish chicken stew cooked in a rich sauce of dry sherry, saffron, almonds, and egg yolks.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:09:43Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53162"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/li30ck1763281992.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/li30ck1763281992.jpg/small",
+      "alt_text": "Photo of Pollo en pepitoria",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=dam5k5HCE1Y"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 55,
+    "total_time_minutes": 75
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "servings",
+    "serving_size_description": "1 chicken thigh with sauce"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "tree_nuts",
+      "eggs",
+      "celery",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "1e22a1d8-fd62-5979-a835-098beb067108",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "73b24af1-50b7-5360-8e47-b025ce0d092d",
+          "ingredient_id": "6e4973c3-ed8a-5158-9a24-ca212d5e7092",
+          "name": "saffron",
+          "display_text": "Pinch Saffron",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3b357bd0-90e3-5e36-a61b-d6c6cf2b6760",
+          "ingredient_id": "96cc0c2b-795a-53be-a503-05d14e92b236",
+          "name": "extra virgin olive oil",
+          "display_text": "4 tbsp Extra Virgin Olive Oil",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "007fb35f-4212-5b8c-820e-25c4ed27aaa2",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "6 Garlic Clove",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "35f56fce-df16-5770-bba9-342ad4d4cc49",
+          "ingredient_id": "1f65be5f-ad9d-5713-aca2-600f7b2a1ee8",
+          "name": "almonds",
+          "display_text": "35g Almonds",
+          "quantity": 35.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 35.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "a5497810-27de-584a-ab53-4d2e6fe41bf6",
+          "ingredient_id": "b1bd988d-a0ff-584d-98ff-d49c9a89b3bd",
+          "name": "stale bread",
+          "display_text": "30g Stale bread",
+          "quantity": 30.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "cdab2165-2b9d-598c-84b6-b949af28f55b",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "2 tbs chopped Parsley",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "b2cde41f-216b-55a2-8b98-d930c1a8763c",
+          "ingredient_id": "e0e4d032-0f9f-5908-ab90-db9a8ec5b68c",
+          "name": "chicken thighs",
+          "display_text": "8 Chicken Thighs",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "7b210b37-483c-5b8b-95be-9df0e8061b6c",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "681738af-1812-504b-bce4-224bd91bdba9",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "1 chopped Carrots",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f0455dcc-f2d2-512c-ac7f-d4f6d8795fb1",
+          "ingredient_id": "ed4951b3-26e6-5bb4-a5af-9c61a46687a0",
+          "name": "celery",
+          "display_text": "1 chopped Celery",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "6282b81a-0af4-5e5f-a5c8-474662c4ed21",
+          "ingredient_id": "0878c803-3a75-5498-b12f-29ba3adbfea5",
+          "name": "dry sherry",
+          "display_text": "250ml Dry sherry",
+          "quantity": 250.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "28ccc82f-056c-5f53-a3f8-37f1878dfc6b",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "350ml Chicken Stock",
+          "quantity": 350.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 350.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "76d7088a-91c3-59dd-9289-6131deb488ce",
+          "ingredient_id": "815267d7-ad8f-543a-b885-c3fdabdc63fb",
+          "name": "cinnamon stick",
+          "display_text": "1 Cinnamon Stick",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "933281d1-e7f9-5d67-b466-87dd36e1081b",
+          "ingredient_id": "73063cfc-1094-5f58-87bf-49227197f2a2",
+          "name": "cloves",
+          "display_text": "Pinch Cloves",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "0bf5946d-1d77-57e6-8e5c-09c796f687ba",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaves",
+          "display_text": "2 Bay Leaves",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "058ae162-b1d2-521e-aa04-32b45bd05e2c",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "2 Egg",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "7a0f432a-af31-5fb9-8bca-43fb2ece8d3a",
+          "ingredient_id": "1f65be5f-ad9d-5713-aca2-600f7b2a1ee8",
+          "name": "almonds",
+          "display_text": "2 tblsp Almonds",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "nuts_seeds"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Put the saffron in a small bowl with 75ml of just-boiled water. Stir and set aside. Heat 2 tbsp of the oil in a broad, shallow casserole dish. Cook the garlic until pale gold in color, then add the blanched almonds and bread, and continue to fry until everything is golden. Tip into a food processor with some salt and pepper and the parsley, and whizz together.",
+      "ingredients_used": [
+        "73b24af1-50b7-5360-8e47-b025ce0d092d",
+        "35f56fce-df16-5770-bba9-342ad4d4cc49",
+        "a5497810-27de-584a-ab53-4d2e6fe41bf6",
+        "cdab2165-2b9d-598c-84b6-b949af28f55b",
+        "7a0f432a-af31-5fb9-8bca-43fb2ece8d3a"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat 2 more tbsp of the oil in the pan and brown the chicken all over, seasoning as you cook. Put in a bowl and set aside."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Remove all but about 2 tbsp of chicken fat from the pan and cook the onion, carrot and celery until golden. Add the sherry, stirring to dislodge any brown bits that have stuck to the pan. Pour in the stock and the saffron (with its water), and bring to the boil, then turn the heat down to a simmer. Add the spices and bay leaves, and put the chicken back in the pan with any juices. Season and gently cook the chicken for about 40 mins with the lid on.",
+      "timer_seconds": 2400,
+      "ingredients_used": [
+        "73b24af1-50b7-5360-8e47-b025ce0d092d",
+        "7b210b37-483c-5b8b-95be-9df0e8061b6c",
+        "f0455dcc-f2d2-512c-ac7f-d4f6d8795fb1",
+        "6282b81a-0af4-5e5f-a5c8-474662c4ed21",
+        "0bf5946d-1d77-57e6-8e5c-09c796f687ba"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Transfer the chicken to a bowl again, leaving the sauce in the pan, and cover with foil to keep warm. Remove the yolks from the eggs and roughly chop the whites. Mash the egg yolks in a small bowl and gradually mix in a couple of tbsp of the sauce. Bring the remaining sauce to the boil to reduce a bit (you want it to just coat the chicken), then turn the heat down. Remove the bay and cinnamon stick. Add the egg yolks and cook for a few mins until the mixture has thickened. Stir in the almond mixture that you made earlier (this will thicken the sauce, too). Put the chicken back in the pan and heat it for about 3 mins, spooning the sauce over it. Season to taste.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "76d7088a-91c3-59dd-9289-6131deb488ce",
+        "058ae162-b1d2-521e-aa04-32b45bd05e2c"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Scatter over the extra parsley, the almonds pieces and the chopped egg whites (if you’re going to use them). You can serve this straight from the dish with some rice, if you like.",
+      "ingredients_used": [
+        "35f56fce-df16-5770-bba9-342ad4d4cc49",
+        "cdab2165-2b9d-598c-84b6-b949af28f55b",
+        "058ae162-b1d2-521e-aa04-32b45bd05e2c",
+        "7a0f432a-af31-5fb9-8bca-43fb2ece8d3a"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/pollo-en-pepitoria"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

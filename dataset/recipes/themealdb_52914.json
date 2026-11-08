@@ -1,0 +1,185 @@
+{
+  "id": "36993ee0-1382-54f3-97e0-1aee074848b8",
+  "version": "1.0.0",
+  "title": "Boulangère Potatoes",
+  "slug": "boulangere-potatoes",
+  "summary": "A classic French side dish consisting of thinly sliced potatoes layered with onions and thyme, baked in vegetable stock until golden and tender.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:48:45Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52914"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/qywups1511796761.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/qywups1511796761.jpg/small",
+      "alt_text": "Photo of Boulangère Potatoes",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=gcXPruv1Mjg"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "fe8f07a1-591f-5711-ae5b-f3c9afcc3e60",
+        "slug": "french",
+        "name": "French"
+      }
+    ],
+    "tags": [
+      "sidedish"
+    ],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 65,
+    "total_time_minutes": 80
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "portions",
+    "serving_size_description": "a portion of potatoes"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "a6956c2b-1bc7-5435-bcf2-5f5010aa3694",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "45c5eed3-7db4-58a4-96e4-539de96738c0",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onions",
+          "display_text": "2 finely chopped Onions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "a8c62c6c-b075-5a57-be2b-dfb4c6f04a06",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "sprigs of fresh Thyme",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "sprigs of fresh",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "081de2df-0e8f-5bf8-85b9-265f61fd57a8",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tbs Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "289385de-10f6-5084-a0f9-dd8222258e79",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "1.5kg Potatoes",
+          "quantity": 1.5,
+          "unit": "kilogram",
+          "is_optional": false,
+          "metric_quantity": 1.5,
+          "metric_unit": "kilogram",
+          "category": "produce"
+        },
+        {
+          "id": "ae2495aa-ffbd-5c97-b1b4-c26c5e3bdf90",
+          "ingredient_id": "2d490c0b-0744-5be5-a104-641c87b13636",
+          "name": "vegetable stock",
+          "display_text": "425g Vegetable Stock",
+          "quantity": 425.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 425.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 200C/fan 180C/gas 6. Fry the onions and thyme sprigs in the oil until softened and lightly colored (about 5 mins).",
+      "timer_seconds": 300,
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "45c5eed3-7db4-58a4-96e4-539de96738c0",
+        "a8c62c6c-b075-5a57-be2b-dfb4c6f04a06"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Spread a layer of potatoes over the base of a 1.5-liter oiled gratin dish. Sprinkle over a few onions (see picture, above) and continue layering, finishing with a layer of potatoes. Pour over the stock and bake for 50-60 mins until the potatoes are cooked and the top is golden and crisp.",
+      "timer_seconds": 3600,
+      "ingredients_used": [
+        "45c5eed3-7db4-58a4-96e4-539de96738c0",
+        "289385de-10f6-5084-a0f9-dd8222258e79"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/5056/boulangre-potatoes"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

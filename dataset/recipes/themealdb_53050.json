@@ -1,0 +1,290 @@
+{
+  "id": "15197a13-f31d-569f-a5e4-f0dcdae52030",
+  "version": "1.0.0",
+  "title": "Ayam Percik",
+  "slug": "ayam-percik",
+  "summary": "Ayam Percik is a Malaysian dish featuring chicken thighs roasted in a rich, spiced coconut milk sauce. The marinade is made from a blend of aromatics, spices, and tamarind.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:00:16Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53050"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/020z181619788503.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/020z181619788503.jpg/small",
+      "alt_text": "Photo of Ayam Percik",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=9ytR28QK6I8"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "336a5cbb-5bdd-53e1-aca6-9d291720d97b",
+        "slug": "malaysian",
+        "name": "Malaysian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 65,
+    "marinating_time_minutes": 1440,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 1530
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 chicken thigh with sauce and rice"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "4a9993a2-5b87-57df-bae9-6b1bd4dacdde",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "259b1d55-9e8c-51ea-9991-6e57efeac202",
+          "ingredient_id": "e0e4d032-0f9f-5908-ab90-db9a8ec5b68c",
+          "name": "chicken thighs",
+          "display_text": "6 Chicken Thighs",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "085ec804-d038-52d4-acb7-396517ffb28d",
+          "ingredient_id": "b5be86c1-9338-59cc-924e-96de6771869c",
+          "name": "challots",
+          "display_text": "16 Challots",
+          "quantity": 16.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3fa38c5f-a409-564a-8b5f-8d1238e27762",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "1 1/2 Ginger",
+          "quantity": 1.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0245525c-99e9-53b0-88ba-ca2404873b7a",
+          "ingredient_id": "4f288f79-bc95-5f72-a7eb-7d30c679a22b",
+          "name": "garlic clove",
+          "display_text": "6 Garlic Clove",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "01b2de82-a676-50de-96aa-87f23214bdea",
+          "ingredient_id": "97dd86b9-4ad7-5a3a-bc6c-86485409c325",
+          "name": "cayenne pepper",
+          "display_text": "8 Cayenne Pepper",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "0daad70b-d8f9-5174-97a7-9ba8fcb93117",
+          "ingredient_id": "ab4d5e50-1105-53e2-be29-49b042b3d7fb",
+          "name": "turmeric",
+          "display_text": "2 tbs Turmeric",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "37ade184-44e6-576c-ba52-b6d0bb0ccb48",
+          "ingredient_id": "be79b3bd-bc90-5d15-aab2-4f95774b8de1",
+          "name": "cumin",
+          "display_text": "1 1/2 Cumin",
+          "quantity": 1.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "daea24cf-2e57-5d77-a6da-ca8aaeda6e80",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "1 1/2 Coriander",
+          "quantity": 1.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "0f56acbe-c784-5ad4-906d-03351006e231",
+          "ingredient_id": "90f6a581-b68c-51b8-bbe5-4d91c3f1b0ce",
+          "name": "fennel",
+          "display_text": "1 1/2 Fennel",
+          "quantity": 1.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "21520278-ccee-52e8-9cfe-868f70b5c685",
+          "ingredient_id": "459ccfd6-d28f-544c-80d1-1b5a80bf5bed",
+          "name": "tamarind paste",
+          "display_text": "2 tbs Tamarind Paste",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "59908892-bdd8-54a6-80e7-72fe40f22d04",
+          "ingredient_id": "0435e55e-84f6-566c-ac81-37617bbab91c",
+          "name": "coconut milk",
+          "display_text": "1 can Coconut Milk",
+          "quantity": 1.0,
+          "unit": "can",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "d50bb8ce-ef49-578e-9333-92f4b816c1b1",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 tsp Sugar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "e330efaa-6ed5-53ca-aa23-512cbb53c37f",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1 cup Water",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "In a blender, add the ingredients for the spice paste and blend until smooth."
+    },
+    {
+      "step_number": 2,
+      "instruction": "Over medium heat, pour the spice paste in a skillet or pan and fry for 10 minutes until fragrant. Add water or oil 1 tablespoon at a time if the paste becomes too dry. Don't burn the paste. Lower the fire slightly if needed.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "e330efaa-6ed5-53ca-aa23-512cbb53c37f"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the cloves, cardamom, tamarind pulp, coconut milk, water, sugar and salt. Turn the heat up and bring the mixture to boil. Turn the heat to medium low and simmer for 10 minutes. Stir occasionally. It will reduce slightly. This is the marinade/sauce, so taste and adjust seasoning if necessary. Don't worry if it's slightly bitter. It will go away when roasting.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "0245525c-99e9-53b0-88ba-ca2404873b7a",
+        "59908892-bdd8-54a6-80e7-72fe40f22d04",
+        "d50bb8ce-ef49-578e-9333-92f4b816c1b1",
+        "e330efaa-6ed5-53ca-aa23-512cbb53c37f"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "When the marinade/sauce has cooled, pour everything over the chicken and marinate overnight to two days."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Preheat the oven to 425 F.",
+      "temperature": {
+        "value": 425,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 6,
+      "instruction": "Remove the chicken from the marinade. Spoon the marinade onto a greased (or aluminum lined) baking sheet. Lay the chicken on top of the sauce (make sure the chicken covers the sauce and the sauce isn't exposed or it'll burn) and spread the remaining marinade on the chicken. Roast for 35-45 minutes or until internal temp of the thickest part of chicken is at least 175 F.",
+      "timer_seconds": 2700,
+      "temperature": {
+        "value": 175,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 7,
+      "instruction": "Let chicken rest for 5 minutes. Brush the chicken with some of the oil. Serve chicken with the sauce over steamed rice (or coconut rice).",
+      "timer_seconds": 300
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://www.curiousnut.com/roasted-spiced-chicken-ayam-percik/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

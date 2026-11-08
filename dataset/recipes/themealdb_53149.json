@@ -1,0 +1,203 @@
+{
+  "id": "667d34f7-3efc-525e-b0ee-ff1a1f220b0a",
+  "version": "1.0.0",
+  "title": "Ensaimada",
+  "slug": "ensaimada",
+  "summary": "Ensaimada is a traditional Spanish sweet pastry from Mallorca, characterized by its spiral shape and light, flaky texture.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:08:39Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53149"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/1ugsho1763248007.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/1ugsho1763248007.jpg/small",
+      "alt_text": "Photo of Ensaimada",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=_Quo9Tgxih4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [],
+    "difficulty": "advanced",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 18,
+    "rest_time_minutes": 1445,
+    "total_time_minutes": 1493
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 spiral pastry"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "82ea5636-3140-51fd-90be-c4eef0743db9",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "5f1904b6-4a69-59fb-a65c-f5d5747b0a32",
+          "ingredient_id": "28b21302-909b-59d3-a88f-a543e26ac34f",
+          "name": "yeast",
+          "display_text": "5g Yeast",
+          "quantity": 5.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "5c844d8b-43d5-5ff4-b4bb-54a9bab9134c",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "200g Caster Sugar",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "ebdbd8cf-7b2d-52e5-9fdb-a5e9474ca179",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "2 medium Egg",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "9155db88-5787-52f6-80f8-a0ae90f0f093",
+          "ingredient_id": "2792320f-e680-5b9e-9e82-1ae536ce731e",
+          "name": "strong white bread flour",
+          "display_text": "600g Strong white bread flour",
+          "quantity": 600.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 600.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "f3170ebc-5faa-5ace-b975-421b594ebc41",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "Drizzle Vegetable Oil",
+          "quantity": 1,
+          "unit": "drizzle",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "290814d7-2747-5c39-9c3a-7a91e3f01757",
+          "ingredient_id": "52a9e69e-4aca-513e-aee5-b38b82db2847",
+          "name": "lard",
+          "display_text": "100g Lard",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Pour 230ml lukewarm water into a bowl and add the yeast. Leave to stand for 3 mins, then add the caster sugar, eggs, flour and 1 tsp sea salt flakes. Mix together to form a dough, then knead for 10 mins in stand mixer using a dough hook (or 15 mins by hand) until the dough is elastic enough to be almost see-through when stretched. Cover and set aside to rest for 30 mins, then cut into four equal pieces. Transfer to a baking tray lined with baking parchment. Leave to rest for another 30 mins.",
+      "ingredients_used": [
+        "5f1904b6-4a69-59fb-a65c-f5d5747b0a32",
+        "5c844d8b-43d5-5ff4-b4bb-54a9bab9134c"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Oil the work surface and a rolling pin with vegetable oil. Working with one portion of dough at a time, flatten it against the surface using the palm of your hand, then roll it out into a thin rectangle, about 30 x 50cm. Let it rest for 2 mins while you spread a quarter of the lard over the top. (If you want to fill your pastry with sobrasada de Mallorca, mix 50g lard with the sobrasada, and spread this over the dough instead.) Pull one corner of the flattened dough and stretch it out as far as it will go without breaking. Repeat every 10cm or so around the dough rectangle in every direction until it reaches about 50 x 70cm.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "f3170ebc-5faa-5ace-b975-421b594ebc41",
+        "290814d7-2747-5c39-9c3a-7a91e3f01757"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Cut a strip from each of the shorter sides and lay these beside each other along one of the longer sides of the rectangle; this is what we call the heart of the ensaimada. From there, begin rolling the dough until you have a long pastry snake. Repeat with the remaining portions of dough."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Take the first roll of dough and stretch it until it is over a meter long. Then, roll it up into a spiral, leaving 1cm between each turn of the spiral so the dough can expand. Flatten a little and transfer to a baking sheet lined with baking parchment. Repeat with the remaining dough. Leave to rise in a warm place for at least 12 hrs, or ideally 24 hrs."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Heat the oven to 200C/180C fan/gas 6. Put the ensaimadas in the top third of the oven and immediately reduce the temperature to 180C/160C fan/gas 4. Bake for 18 mins until dark golden. Leave to cool on a wire rack. To fill your ensaimada with whipped cream, slice and open, then spread over the cream and close. Dust with a generous amount of icing sugar, if you like and cut into pieces to serve.",
+      "timer_seconds": 1080,
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      }
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/ensaimada"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "id": "d25b5f7f-4f4d-5382-a4f0-970851019db4",
+  "version": "1.0.0",
+  "title": "Baghlaw-e-Khanagi",
+  "slug": "baghlaw-e-khanagi",
+  "summary": "An Afghan dessert consisting of fried dough pieces coated in a thick sugar syrup and topped with ground walnuts.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:30:26Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53396"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/bjtjyl1779552068.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/bjtjyl1779552068.jpg/small",
+      "alt_text": "Photo of Baghlaw-e-Khanagi",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "e686c554-2e81-511f-b656-15ef0dcb3943",
+        "slug": "afghan",
+        "name": "Afghan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 25,
+    "rest_time_minutes": 10,
+    "total_time_minutes": 55
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "pieces",
+    "serving_size_description": "a portion of fried dough pieces"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "tree_nuts",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "c8dbaa02-9997-5004-aab1-72ca2f0459fd",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "0a066a6f-b6d8-572e-bfe3-1b9f3d5d947a",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "600g Flour",
+          "quantity": 600.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 600.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "30475feb-585f-54a8-8637-0ee366b38d04",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "3 Eggs",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "86e01573-a28e-51ef-8e75-96d438107ada",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "450ml Milk",
+          "quantity": 450.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "0b05ae80-d424-5d94-a8e9-3f7367eff723",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "75 ml Vegetable Oil",
+          "quantity": 75.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "ff7c5a4f-2e30-5493-bbad-e1550179d008",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 tsp Baking Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "0ba62558-c4fe-5291-b50d-9a9c359aa326",
+          "ingredient_id": "fc1246ff-3c9e-568d-b1db-3cb2acd93c1d",
+          "name": "ground walnuts",
+          "display_text": "50g Ground Walnuts",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "718aff97-abef-58bf-b92f-9addb93b9b69",
+          "ingredient_id": "d72c12ae-5cbc-534c-bbd5-bc044d844d0a",
+          "name": "cardamom",
+          "display_text": "10g Cardamom",
+          "quantity": 10.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "gram",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "6b210a5d-da7c-55f7-83b3-cebee21cd9b9",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "300g Sugar",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "4903cde3-e57f-5147-8e17-9b908be3d678",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1 L Water",
+          "quantity": 1.0,
+          "unit": "liter",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "liter",
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Place flour in a bowl, and create a hole in the middle of the flour. Whisk eggs, and then pour whisked eggs into the well.",
+      "ingredients_used": [
+        "0a066a6f-b6d8-572e-bfe3-1b9f3d5d947a",
+        "30475feb-585f-54a8-8637-0ee366b38d04"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add milk, and combine. Then, stir in the ground walnuts, baking powder and cardamom, and add to the mixture. Fold ingredients into the mixture until it forms an elastic dough consistency.",
+      "ingredients_used": [
+        "86e01573-a28e-51ef-8e75-96d438107ada",
+        "ff7c5a4f-2e30-5493-bbad-e1550179d008",
+        "0ba62558-c4fe-5291-b50d-9a9c359aa326",
+        "718aff97-abef-58bf-b92f-9addb93b9b69"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Take dough and with a rolling pin, roll out into a thin rectangle on a clean surface. Then, from the longest side of the rectangle, fold the dough into 3cm-wide lines, until the dough is fully rolled in a long line. Cut folded dough horizontally into 3cm pieces"
+    },
+    {
+      "step_number": 4,
+      "instruction": "Heat a deep pan of the vegetable oil, and wait till it reaches frying temperature. Whilst you are waiting. Fill a deep pan with 1 liter of water, and bring to the boil.  Then, pour in the sugar, and stir gently until it becomes thick and syrup-like. Turn down the heat and leave to simmer.",
+      "ingredients_used": [
+        "0b05ae80-d424-5d94-a8e9-3f7367eff723",
+        "6b210a5d-da7c-55f7-83b3-cebee21cd9b9",
+        "4903cde3-e57f-5147-8e17-9b908be3d678"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Carefully lower each piece of dough into the frying oil. Fry until golden brown."
+    },
+    {
+      "step_number": 6,
+      "instruction": "When golden brown, take the Baghlaw pieces out of the oil, and place them into the sugar syrup to coat.",
+      "ingredients_used": [
+        "6b210a5d-da7c-55f7-83b3-cebee21cd9b9"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Remove from the syrup and whilst still warm, sprinkle with ground walnuts, so they stick to the Baghlaw.",
+      "ingredients_used": [
+        "0ba62558-c4fe-5291-b50d-9a9c359aa326"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Leave to cool. Then, enjoy with your friends and family!"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.afghanaid.org.uk/baghlaw-e-khanagi-recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

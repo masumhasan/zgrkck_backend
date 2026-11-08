@@ -1,0 +1,200 @@
+{
+  "id": "d9b80c99-aedc-507e-8272-98c2f4a2cb6c",
+  "version": "1.0.0",
+  "title": "Christmas Pudding Flapjack",
+  "slug": "christmas-pudding-flapjack",
+  "summary": "A festive twist on a classic British oat bar, combining traditional flapjack ingredients with pieces of Christmas pudding and orange zest.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:37:59Z",
+  "updated_at": "2026-10-16T10:22:44Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52788"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/vvusxs1483907034.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/vvusxs1483907034.jpg/small",
+      "alt_text": "Photo of Christmas Pudding Flapjack",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=OaqvGvEiwzU"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "cake",
+      "snack"
+    ],
+    "meal_types": [
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "christmas"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 40,
+    "rest_time_minutes": 60,
+    "total_time_minutes": 110
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 square"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery"
+    ],
+    "may_contain": [
+      "sulfites"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "79b0b4c4-07f4-5d69-b9bd-f9e3c3d41af9",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "eda1b9c1-d8f2-5966-b1c7-4bc0bdc0f18b",
+          "ingredient_id": "61d59118-43ac-5ce0-8424-181c34200c44",
+          "name": "salted butter",
+          "display_text": "250g salted butter",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "959e6976-b367-51c4-90ba-f92418123f42",
+          "ingredient_id": "cf591b0c-14ec-52f8-acfd-4420544ab5ee",
+          "name": "dark soft brown sugar",
+          "display_text": "225g dark soft brown sugar",
+          "quantity": 225.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 225.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "24d68417-3b4f-5a50-b580-11d608ceb677",
+          "ingredient_id": "c41764f1-4930-56cd-9515-4a677dd7e880",
+          "name": "golden syrup",
+          "display_text": "150g golden syrup",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "2c9fc5e2-f4d9-5f89-865c-50cb9a9aa686",
+          "ingredient_id": "4f3b3c33-6392-5e5a-ac51-d269b68aa6e4",
+          "name": "orange",
+          "display_text": "Zest of 1 orange",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "zest",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "909d1ecb-d88f-555b-8764-8eda285e4a6e",
+          "ingredient_id": "8e5d528b-992e-5885-844c-9149259c9345",
+          "name": "rolled oats",
+          "display_text": "500g rolled oats",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "baa21d3e-4567-53ee-b7b0-749a5aff2a5d",
+          "ingredient_id": "1bdbcb65-6a49-5ea9-bdad-fa36344b050f",
+          "name": "christmas pudding",
+          "display_text": "250g Christmas pudding",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "other"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat the oven to 180°C/fan 160°C/gas mark 4 and grease and line a 25cm x 20cm tin. Melt the butter, sugar, syrup and orange zest in a large saucepan over a medium heat. The aim is to dissolve all the ingredients so that they are smooth, but to not lose any volume through boiling so be careful not to overheat.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "eda1b9c1-d8f2-5966-b1c7-4bc0bdc0f18b",
+        "24d68417-3b4f-5a50-b580-11d608ceb677",
+        "2c9fc5e2-f4d9-5f89-865c-50cb9a9aa686"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the oats and stir well until evenly coated. Stir through the leftover Christmas pudding and tip into the prepared tin. Use a spoon to flatten the top and bake for 40 minutes until the edges start to brown. Whilst still warm in the tin, score into 12 squares. Allow to cool completely before cutting along the scores.",
+      "timer_seconds": 2400,
+      "ingredients_used": [
+        "909d1ecb-d88f-555b-8764-8eda285e4a6e",
+        "baa21d3e-4567-53ee-b7b0-749a5aff2a5d"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Keeps for 5 days in an air tight tin or freeze for up to 1 month."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

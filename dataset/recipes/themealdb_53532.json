@@ -1,0 +1,253 @@
+{
+  "id": "1a1cd34f-4925-5379-b21e-1887a28670e8",
+  "version": "1.0.0",
+  "title": "Creamy Corn Soup Recipe",
+  "slug": "creamy-corn-soup-recipe",
+  "summary": "A creamy Colombian-style soup made with corn, potatoes, and scallions, finished with heavy cream.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:42:36Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53532"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/yf5eyw1783804464.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/yf5eyw1783804464.jpg/small",
+      "alt_text": "Photo of Creamy Corn Soup Recipe",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "50fefb0a-1f33-59b0-afdb-383ba2373950",
+        "slug": "colombian",
+        "name": "Colombian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "soup"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "weeknight_dinner"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 24,
+    "total_time_minutes": 39
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of soup"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "gluten",
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "f01318b2-f196-5cfc-88da-7ac8caa1f24d",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "d05eee52-0cae-5c6b-8692-c0c58e7c158c",
+          "ingredient_id": "55bc302f-50fd-538e-b133-9e1e0f302eff",
+          "name": "corn on the cob",
+          "display_text": "4 Corn On The Cob",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "2b981324-8f8a-5247-ad78-ddcfc6d438f5",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "6 cups Water",
+          "quantity": 6.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 1440.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "c2d1e6e7-8964-5d38-8958-9783144a2f55",
+          "ingredient_id": "c51e6b59-c18d-5488-827d-6e870113c2e5",
+          "name": "chicken stock cube",
+          "display_text": "2 Chicken Stock Cube",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "29657794-33b2-56b9-964e-85a55484e5b8",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves chopped Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f548d205-46c3-57f9-b981-452193cb8ffc",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/2 tsp Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "2d9aac5b-d605-50e2-9514-13429326adf9",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "1/2 tsp Pepper",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "7b263fcb-6efd-5b69-af51-6ec9282978ac",
+          "ingredient_id": "1655ccbe-97a7-59b3-9245-ebc95a0ed6d0",
+          "name": "cilantro",
+          "display_text": "2 tablespoons Cilantro",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "31356d85-4490-5c7e-83b1-33c0d2a6cd80",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "1/2 cup Potatoes",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "0b3568a6-6078-5586-b225-b89a5a62035e",
+          "ingredient_id": "24cbab0a-29d3-5e28-b361-77f90e93af9c",
+          "name": "scallions",
+          "display_text": "1/2 cup Scallions",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "b0b02861-78d3-5be7-884b-e0e4588ae91d",
+          "ingredient_id": "cb8d5d02-f2f1-547b-b7e6-054d6629adc1",
+          "name": "heavy cream",
+          "display_text": "1 cup Heavy Cream",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Place the corn, water, chicken or vegetable bouillon, garlic, salt, pepper, cilantro, potatoes and scallions in a large pot and bring to a boil. Reduce heat to medium low and simmer for approximately 4 minutes or until the corn is tender.",
+      "timer_seconds": 240,
+      "ingredients_used": [
+        "2b981324-8f8a-5247-ad78-ddcfc6d438f5",
+        "29657794-33b2-56b9-964e-85a55484e5b8",
+        "f548d205-46c3-57f9-b981-452193cb8ffc",
+        "2d9aac5b-d605-50e2-9514-13429326adf9",
+        "7b263fcb-6efd-5b69-af51-6ec9282978ac",
+        "31356d85-4490-5c7e-83b1-33c0d2a6cd80",
+        "0b3568a6-6078-5586-b225-b89a5a62035e"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Remove from the heat. Puruée the soup in a blender and return to the pot, add the cream and heat over medium heat for 15 minutes, stirring occasionally.",
+      "timer_seconds": 900
+    },
+    {
+      "step_number": 3,
+      "instruction": "Pour into bowls, garnish with cilantro and potato sticks.",
+      "ingredients_used": [
+        "7b263fcb-6efd-5b69-af51-6ec9282978ac"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Notes"
+    },
+    {
+      "step_number": 5,
+      "instruction": "*Fresh corn or frozen corn will work for this soup recipe. I usually use fresh corn, but I use organic corn kernels in the winter to make this soup."
+    },
+    {
+      "step_number": 6,
+      "instruction": "*To store: Place cooled corn soup in an airtight container and store in the fridge for up to 3 days."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.mycolombianrecipes.com/corn-soup-crema-de-mazorca/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

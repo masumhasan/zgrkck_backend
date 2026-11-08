@@ -1,0 +1,299 @@
+{
+  "id": "4b9991a5-1886-5e28-a43d-2290e89b5c86",
+  "version": "1.0.0",
+  "title": "Bajan Sweet Bread",
+  "slug": "bajan-sweet-bread",
+  "summary": "A traditional Barbadian sweet bread made with coconut, raisins, and almond essence, often served with tea.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:36:07Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53460"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/5vhbzt1782239221.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/5vhbzt1782239221.jpg/small",
+      "alt_text": "Photo of Bajan Sweet Bread",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ZrVAFmPQaZ0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "71413a66-c12a-5aba-a038-e60b4b3fcacc",
+        "slug": "barbadian",
+        "name": "Barbadian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "snack"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "afternoon_snack"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 60,
+    "rest_time_minutes": 20,
+    "total_time_minutes": 100
+  },
+  "yield": {
+    "servings": 10,
+    "serving_unit": "servings"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "tree_nuts",
+      "eggs",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "80e7a5d5-7bab-5ca8-b44c-6ba4fa166f4d",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "aa0fb351-97f7-55c0-8291-ee22bc645240",
+          "ingredient_id": "739769d2-a7f0-5fac-98c1-26e2aa7ce44e",
+          "name": "coconut",
+          "display_text": "2 1/2 cups Coconut",
+          "quantity": 2.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 600.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "e7faf295-3224-5cda-bcec-9434b070aabe",
+          "ingredient_id": "824a7073-84ed-52c2-97ef-4d532cabeb6d",
+          "name": "melted butter",
+          "display_text": "1/2 cup Melted Butter",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "7e01e152-a154-501b-80c0-8a71d67457b9",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "4 cups Flour",
+          "quantity": 4.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 960.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "b9275091-b3d7-5cdf-a5aa-f01b10801d8d",
+          "ingredient_id": "cf50c57a-f58a-5262-9fc9-cdfb406e4c9d",
+          "name": "shortening",
+          "display_text": "1 tablespoon Shortening",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "1f8b5341-c767-5ba2-9ae4-5e314c3a0b11",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 tablespoon Baking Powder",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "6a1c95ee-e3af-5416-b37f-b4eeec71b8af",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "be755230-64fb-5ed1-93df-7a08d9d60b1b",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "3/4 cup Sugar",
+          "quantity": 0.75,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 180.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "8367bb33-f561-542f-b68a-ef25c3e96d06",
+          "ingredient_id": "8d52ad34-1aea-57a9-8e92-aabab5116059",
+          "name": "raisins",
+          "display_text": "1 cup Raisins",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "242ccf89-8525-5dc8-a306-6846872b62ca",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 beaten Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "beaten",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "db6ec6bc-0bb6-5490-8d2e-a35965a2499e",
+          "ingredient_id": "3f3e98f3-1d35-5574-824d-3f8addf32c81",
+          "name": "evaporated milk",
+          "display_text": "1 1/4 cup Evaporated Milk",
+          "quantity": 1.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "c0126c91-f957-5c18-960b-15df3031f4f7",
+          "ingredient_id": "7580944b-0166-5315-a671-4d609bec5e2b",
+          "name": "almond essence",
+          "display_text": "1 tsp Almond Essence",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "nuts_seeds"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Add all the flour, baking powder, and salt to a large mixing bowl.",
+      "ingredients_used": [
+        "7e01e152-a154-501b-80c0-8a71d67457b9",
+        "1f8b5341-c767-5ba2-9ae4-5e314c3a0b11",
+        "6a1c95ee-e3af-5416-b37f-b4eeec71b8af"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Melt the butter in a saucepan.",
+      "ingredients_used": [
+        "e7faf295-3224-5cda-bcec-9434b070aabe"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Mix the coconut and most of the sugar in another bowl – leave some back to cover the loaves later, raisins, egg, milk, almond essence, vanilla essence, and melted butter.",
+      "ingredients_used": [
+        "aa0fb351-97f7-55c0-8291-ee22bc645240",
+        "e7faf295-3224-5cda-bcec-9434b070aabe",
+        "be755230-64fb-5ed1-93df-7a08d9d60b1b",
+        "8367bb33-f561-542f-b68a-ef25c3e96d06",
+        "242ccf89-8525-5dc8-a306-6846872b62ca",
+        "db6ec6bc-0bb6-5490-8d2e-a35965a2499e",
+        "c0126c91-f957-5c18-960b-15df3031f4f7"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Mix well until you have a creamy paste."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Add this to the bowl with the flour, baking powder, and salt. Mix until you form a stiff dough.",
+      "ingredients_used": [
+        "7e01e152-a154-501b-80c0-8a71d67457b9",
+        "1f8b5341-c767-5ba2-9ae4-5e314c3a0b11",
+        "6a1c95ee-e3af-5416-b37f-b4eeec71b8af"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Now divide the mixture between the baking tins."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Now boil the water."
+    },
+    {
+      "step_number": 8,
+      "instruction": "Mix two tablespoons of sugar with some hot water and brush the top of each loaf.",
+      "ingredients_used": [
+        "be755230-64fb-5ed1-93df-7a08d9d60b1b"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Bake in the center of the oven for 1 hour.",
+      "timer_seconds": 3600
+    },
+    {
+      "step_number": 10,
+      "instruction": "Leave to cool in tins before serving; slice and serve with a fresh pot of tea."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.totallybarbados.com/articles/barbados-recipes/bajan-sweet-bread/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

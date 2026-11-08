@@ -1,0 +1,214 @@
+{
+  "id": "a4b1fb6d-662e-55a2-a616-ebec6348fcbe",
+  "version": "1.0.0",
+  "title": "Fårikål (Norwegian National Dish)",
+  "slug": "farikal-norwegian-national-dish",
+  "summary": "A traditional Norwegian stew made by layering lamb and cabbage with whole peppercorns and simmering until tender.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:06:19Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53123"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ttfxxn1762773067.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ttfxxn1762773067.jpg/small",
+      "alt_text": "Photo of Fårikål (Norwegian National Dish)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/shorts/2mMT71Knp8E"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "56e78dbc-276d-5104-bca5-2bb213b93a49",
+        "slug": "norwegian",
+        "name": "Norwegian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 180,
+    "total_time_minutes": 200
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "a bowl of stew with lamb and cabbage"
+  },
+  "allergens": {
+    "contains": [
+      "gluten"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "135a6fee-6d7e-5dd8-a4a4-17a6f9f06236",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "72d334a9-1747-5022-ac4e-37d257562519",
+          "ingredient_id": "9d9a6681-e50b-5870-820c-5bf49172a394",
+          "name": "lamb",
+          "display_text": "3 Lbs Lamb",
+          "quantity": 3.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 1360.8,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "251d3845-8f22-5823-864a-00e18a24b423",
+          "ingredient_id": "21b2d42b-5b38-5551-ac7b-75008ee144d3",
+          "name": "white cabbage",
+          "display_text": "1 head White Cabbage",
+          "quantity": 1.0,
+          "unit": "head",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "201d8ff6-f2cc-54c5-abb2-e0c9e004ce83",
+          "ingredient_id": "e5d9bcf6-ca38-564a-8df8-eae8a14357c8",
+          "name": "whole black peppercorns",
+          "display_text": "3  tablespoons Whole black peppercorns",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "1daf5a99-4b40-5445-9784-d820bbeea873",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "3 tsp Salt",
+          "quantity": 3.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "59771543-ef81-59e8-a78e-ee7dbefefc20",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1 1/2 cups Water",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "d3a550a5-b8b0-5021-9a6c-dc24ccb7132f",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "5 tablespoons Flour",
+          "quantity": 5.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Cut the lamb into large pieces.",
+      "ingredients_used": [
+        "72d334a9-1747-5022-ac4e-37d257562519"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Slice the cabbage into large wedges, keeping the core attached.",
+      "ingredients_used": [
+        "251d3845-8f22-5823-864a-00e18a24b423"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add a layer of lamb pieces to the bottom of a large pot, fatty side down. Sprinkle with peppercorns and salt. Add a layer of cabbage wedges on top. Repeat with more layers of lamb, peppercorns, and cabbage, ending with cabbage on top.",
+      "ingredients_used": [
+        "72d334a9-1747-5022-ac4e-37d257562519",
+        "251d3845-8f22-5823-864a-00e18a24b423",
+        "201d8ff6-f2cc-54c5-abb2-e0c9e004ce83",
+        "1daf5a99-4b40-5445-9784-d820bbeea873"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Optional: Sprinkle a couple of tablespoons on top of the lamb for a thicker stew.",
+      "ingredients_used": [
+        "72d334a9-1747-5022-ac4e-37d257562519"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Add water to the pot and bring to a boil. Cover and reduce heat. Cook on low heat for 2 – 3 hours, until the lamb gently falls away from the bone.",
+      "timer_seconds": 10800,
+      "ingredients_used": [
+        "72d334a9-1747-5022-ac4e-37d257562519",
+        "59771543-ef81-59e8-a78e-ee7dbefefc20"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Serve with boiled potatoes and fresh parsley, covering generously with the fårikål broth."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://scandinaviancookbook.com/farikal-national-dish-of-norway/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "id": "2828ecc5-0bac-5f50-953c-26fad45d4d33",
+  "version": "1.0.0",
+  "title": "Keleya Zaara",
+  "slug": "keleya-zaara",
+  "summary": "A Tunisian lamb stew seasoned with saffron and served with fresh parsley and lemon.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:54:03Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52974"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/8x09hy1560460923.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/8x09hy1560460923.jpg/small",
+      "alt_text": "Photo of Keleya Zaara",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=u_OSIChzuL0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "23146f21-0265-5561-bbec-944b008fa0d1",
+        "slug": "tunisian",
+        "name": "Tunisian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of lamb stew"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "4bce5a33-acd2-5c4b-a72a-d1eafd82afc6",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "3d269d65-43ef-58b2-a7f2-a3643e2785eb",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "4 tbs Olive Oil",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "fb49b665-7c56-5d0a-af97-0b8f4e340726",
+          "ingredient_id": "9d9a6681-e50b-5870-820c-5bf49172a394",
+          "name": "lamb",
+          "display_text": "750g Lamb",
+          "quantity": 750.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 750.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "81d15e37-4124-524b-bcb5-7300e41c9805",
+          "ingredient_id": "6e4973c3-ed8a-5158-9a24-ca212d5e7092",
+          "name": "saffron",
+          "display_text": "1 1/2 tsp Saffron",
+          "quantity": 1.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "6f53f3ec-6fe4-52a7-b741-e461007f936b",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 Large Chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0013bb83-e55e-5354-94f6-ed80469ac9ca",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "25 ml Water",
+          "quantity": 25.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "abe8fb0e-a88f-50f8-8efb-1dd8270e2ae9",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "30g Parsley",
+          "quantity": 30.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "gram",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "b033ad6d-3c54-5c1b-838f-22f4a665245e",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "1 tbs Butter",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "e7851775-8a01-597a-883d-335cea2e2ee0",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "1 Lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the vegetable oil in a large frying pan over medium-high heat. Add the lamb and cook until browned on all sides, about 5 minutes. Season with saffron, salt and pepper to taste; stir in all but 4 tablespoons of the onion, and pour in the water. Bring to the boil, then cover, reduce heat to medium-low, and simmer until the lamb is tender, about 15 minutes.",
+      "ingredients_used": [
+        "fb49b665-7c56-5d0a-af97-0b8f4e340726",
+        "81d15e37-4124-524b-bcb5-7300e41c9805",
+        "6f53f3ec-6fe4-52a7-b741-e461007f936b",
+        "0013bb83-e55e-5354-94f6-ed80469ac9ca"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Uncover the pan, stir in the butter and allow the sauce reduce 5 to 10 minutes to desired consistency. Season to taste with salt and pepper, then pour into a serving dish. Sprinkle with the remaining chopped onions and parsley. Garnish with lemon wedges to serve.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "6f53f3ec-6fe4-52a7-b741-e461007f936b",
+        "abe8fb0e-a88f-50f8-8efb-1dd8270e2ae9",
+        "b033ad6d-3c54-5c1b-838f-22f4a665245e",
+        "e7851775-8a01-597a-883d-335cea2e2ee0"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://allrecipes.co.uk/recipe/43723/keleya-zaara-tunisian-lamb-with-saffron.aspx"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

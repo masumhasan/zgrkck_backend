@@ -1,0 +1,261 @@
+{
+  "id": "cf0c9a15-a262-5f69-be76-05d203848277",
+  "version": "1.0.0",
+  "title": "Turkey Bánh mì",
+  "slug": "turkey-banh-mi",
+  "summary": "A Vietnamese-style sandwich featuring turkey, chicken liver pâté, and a tangy pickled carrot and cabbage slaw served in a baguette.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:17:31Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53249"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/1wj8w31763781990.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/1wj8w31763781990.jpg/small",
+      "alt_text": "Photo of Turkey Bánh mì",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=L-ItzFfVgos"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "60481cf3-a7b7-5be4-a0dc-6b872c887e64",
+        "slug": "vietnamese",
+        "name": "Vietnamese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 0,
+    "marinating_time_minutes": 15,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 turkey sandwich"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "6d6f6117-2226-571b-983d-1e3b5b3447d7",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "84e18617-db05-5285-8eff-542f893c139d",
+          "ingredient_id": "43b5d3b2-0e2d-5ff1-9c0e-d047e896af5e",
+          "name": "baguette",
+          "display_text": "2 small Baguette",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "fb5c27e3-00d9-5c95-8851-d0a39c8d7a06",
+          "ingredient_id": "c95f13d3-bd87-5203-9f11-0767f1dcd326",
+          "name": "chicken liver",
+          "display_text": "50g Chicken Liver",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "poultry"
+        },
+        {
+          "id": "6fbda0ec-7bb3-5702-9f35-5dd9738cbc77",
+          "ingredient_id": "8f9e104a-822f-5bda-b376-eee34fc38609",
+          "name": "cucumber",
+          "display_text": "1/4 Cucumber",
+          "quantity": 0.25,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c5652eb6-d7b1-5e48-a427-57191588c68d",
+          "ingredient_id": "096fa709-1b83-57a7-b87f-48c45fa5cc2b",
+          "name": "turkey",
+          "display_text": "140g Turkey",
+          "quantity": 140.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 140.0,
+          "metric_unit": "gram",
+          "category": "poultry"
+        },
+        {
+          "id": "3e938a57-00bb-5daa-bd9a-e7bfb8b40715",
+          "ingredient_id": "6a3a5ec7-7840-5eff-a3ce-0e3aafbaa822",
+          "name": "mayonnaise",
+          "display_text": "1 tablespoon Mayonnaise",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "fe016630-3f07-55a0-8b6e-891368fb5b95",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "1 sliced Red Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7b9e45e2-4d0d-58f3-95cd-56fd3397e41a",
+          "ingredient_id": "0e838047-684d-55cb-884e-e7872e0e96c4",
+          "name": "mint",
+          "display_text": "Handful Mint",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "9e2e691b-7656-54b7-ae7b-76a8af231c3c",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "2 small Carrots",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "75520c33-4978-5d29-80fa-39674eafb849",
+          "ingredient_id": "93adfa8e-dfee-5a44-825f-075c81b606db",
+          "name": "red cabbage",
+          "display_text": "75g Red Cabbage",
+          "quantity": 75.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "c86ecef7-68f7-5e98-b721-7be4f8d00bf8",
+          "ingredient_id": "9c72d0cf-8d9c-53f6-b4c6-5631779ba66b",
+          "name": "ground ginger",
+          "display_text": "1/4 tsp Ground Ginger",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1177db58-32b2-51a5-8143-2a822ee9987c",
+          "ingredient_id": "cad15bc5-2770-5a5f-8572-c5ac5ad79569",
+          "name": "rice vinegar",
+          "display_text": "½ tablespoon Rice Vinegar",
+          "quantity": 0.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "7c538af8-dcbe-5bcf-afde-aef3d21d0725",
+          "ingredient_id": "327ade60-00f4-537f-920f-f35c82b0b4ac",
+          "name": "golden caster sugar",
+          "display_text": "1/2 teaspoon Golden Caster Sugar",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "To make the pickled slaw, tip the carrots and cabbage into a large bowl. In a small bowl, combine the ginger, rice vinegar, sugar and a few pinches of salt. Pour over the vegetables and toss together. Set aside for at least 15 mins.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "9e2e691b-7656-54b7-ae7b-76a8af231c3c",
+        "75520c33-4978-5d29-80fa-39674eafb849",
+        "c86ecef7-68f7-5e98-b721-7be4f8d00bf8",
+        "1177db58-32b2-51a5-8143-2a822ee9987c"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Halve the baguettes lengthways and spread the pâté over the bottom half. Top with the pickled slaw, cucumber and turkey. Mix the mayonnaise with the chopped chilli and dollop over the top. Scatter over the mint leaves and sliced chilli. Sandwich together and dig in.",
+      "ingredients_used": [
+        "84e18617-db05-5285-8eff-542f893c139d",
+        "6fbda0ec-7bb3-5702-9f35-5dd9738cbc77",
+        "c5652eb6-d7b1-5e48-a427-57191588c68d",
+        "3e938a57-00bb-5daa-bd9a-e7bfb8b40715",
+        "fe016630-3f07-55a0-8b6e-891368fb5b95",
+        "7b9e45e2-4d0d-58f3-95cd-56fd3397e41a"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/turkey-banh-mi"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "id": "9bb2697d-56c4-5c86-b110-9baddad37859",
+  "version": "1.0.0",
+  "title": "Pan De Yucca",
+  "slug": "pan-de-yucca",
+  "summary": "Pan de Yucca is a traditional Costa Rican dessert bread made with shredded yucca, cream cheese, and eggs.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:43:07Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53537"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/sumomx1784395153.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/sumomx1784395153.jpg/small",
+      "alt_text": "Photo of Pan De Yucca",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c34e726c-a17e-5cad-a035-3eaf9df4125f",
+        "slug": "costa-rican",
+        "name": "Costa Rican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 55,
+    "total_time_minutes": 75
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 slice of bread"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "e36d82da-b18f-54c0-b517-719036b34e2f",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "4a451c59-cf97-55a1-8112-1f6a1517ee3f",
+          "ingredient_id": "70cdd201-bdf7-5d03-8a0f-4420d810f6dc",
+          "name": "raw yucca",
+          "display_text": "3 Cups Raw Yucca",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "120f33ab-68c2-58c1-b248-6731a52ad374",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "1 knob Butter",
+          "quantity": 1.0,
+          "unit": "knob",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "f913501a-5ae3-5541-853c-3f015e98c01b",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "3/4 cup Sugar",
+          "quantity": 0.75,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 180.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "62f8166e-9244-5aaa-bf71-c2b432275b24",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "3 Eggs",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "fe9054b2-bd42-582f-801c-81e2307f407b",
+          "ingredient_id": "1ad32b47-90dc-570b-9ae6-d231b0342095",
+          "name": "vanilla",
+          "display_text": "1 tsp Vanilla",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "db7de89a-3e6e-578b-a38c-3d393a70ad5e",
+          "ingredient_id": "0523a624-2afe-5b39-a3e8-a4588a68c1c2",
+          "name": "cream cheese",
+          "display_text": "1 cup Cream Cheese",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "a0c37c6e-8098-5b3f-9e35-44b020415a9e",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "1 cup Flour",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "76a4e3ca-624a-5cc4-9573-0115fd850ed6",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "2 tsp Baking Powder",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "72a4c5ae-7208-58b0-abc2-87e77d8480cf",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/2 tsp Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat oven to 350 degrees F (175 degrees C).",
+      "temperature": {
+        "value": 350,
+        "unit": "fahrenheit"
+      }
+    },
+    {
+      "step_number": 2,
+      "instruction": "​"
+    },
+    {
+      "step_number": 3,
+      "instruction": "Grease and flour a 12 x 8' pyrex (you can use a smaller pyrex if you prefer the bread to be thicker).",
+      "ingredients_used": [
+        "a0c37c6e-8098-5b3f-9e35-44b020415a9e"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Peel and shred the yucca and set aside. In a medium bowl, combine flour, baking powder and salt and set aside.",
+      "ingredients_used": [
+        "4a451c59-cf97-55a1-8112-1f6a1517ee3f",
+        "a0c37c6e-8098-5b3f-9e35-44b020415a9e",
+        "76a4e3ca-624a-5cc4-9573-0115fd850ed6",
+        "72a4c5ae-7208-58b0-abc2-87e77d8480cf"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "​"
+    },
+    {
+      "step_number": 6,
+      "instruction": "In a large bowl cream the butter with the sugar. Beat in the eggs, one at a time, then stir in the vanilla.",
+      "ingredients_used": [
+        "120f33ab-68c2-58c1-b248-6731a52ad374",
+        "f913501a-5ae3-5541-853c-3f015e98c01b",
+        "62f8166e-9244-5aaa-bf71-c2b432275b24",
+        "fe9054b2-bd42-582f-801c-81e2307f407b"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Add half of the dry ingredients and mix well, add cream cheese, mix well and, add the other half of the dry ingredients and mix well.",
+      "ingredients_used": [
+        "db7de89a-3e6e-578b-a38c-3d393a70ad5e"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "With a wooden spoon incorporate the shredded yucca, until well incorporated.",
+      "ingredients_used": [
+        "4a451c59-cf97-55a1-8112-1f6a1517ee3f"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Pour or spoon batter into the prepared pan and cook for 45 to 55 min.",
+      "timer_seconds": 3300
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.recipesfromcostarica.com/recipes"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

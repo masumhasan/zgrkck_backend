@@ -1,0 +1,330 @@
+{
+  "id": "7b709921-fc95-5c88-84c5-1e7920fd65aa",
+  "version": "1.0.0",
+  "title": "Christmas cake",
+  "slug": "christmas-cake",
+  "summary": "A traditional British festive fruitcake made with dried fruits, nuts, and spices, soaked in sherry.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:55:07Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52990"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ldnrm91576791881.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ldnrm91576791881.jpg/small",
+      "alt_text": "Photo of Christmas cake",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=34yeL8TstO0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "christmas"
+    ],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "christmas"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 175,
+    "total_time_minutes": 195
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "servings"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "tree_nuts",
+      "eggs",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "e1ae4afc-82e9-5bbc-9863-d11eb199db38",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "efcd0c90-5efb-5775-826b-f5706f0c4566",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "200g Butter",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "78bca28e-6d86-513a-932a-45088c156b02",
+          "ingredient_id": "74d4f663-2935-561e-b6ec-45f204542152",
+          "name": "muscovado sugar",
+          "display_text": "200g Muscovado Sugar",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "38a6b6b0-089d-5913-a489-86bd526de44a",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "200g Plain Flour",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "80e09f0f-7fd6-5a99-b50f-cd1cfc8dae9b",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "4 Beaten Eggs",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "beaten",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "8f38bab8-fc45-5f2f-b84b-2e438feae712",
+          "ingredient_id": "41e42808-3e57-5cd0-b774-00a901be35d9",
+          "name": "ground almonds",
+          "display_text": "50g Ground Almonds",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "5df87691-ad62-5c46-a40b-7038e2017c4c",
+          "ingredient_id": "687f1448-031a-5497-be0c-5babc97de35e",
+          "name": "sherry",
+          "display_text": "100ml Sherry",
+          "quantity": 100.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "328d2420-114e-55f4-a830-7e09435e678a",
+          "ingredient_id": "0f05a86e-f2dc-5616-a03b-936ca1452526",
+          "name": "candied peel",
+          "display_text": "85g Candied Peel",
+          "quantity": 85.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 85.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "e60d92c7-a221-5653-af62-716acb51581f",
+          "ingredient_id": "5835a707-c0e5-5bb2-9255-bcbb79dd3416",
+          "name": "glace cherry",
+          "display_text": "85g Glace Cherry",
+          "quantity": 85.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 85.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "d95d5719-318b-5225-8ad6-644f883d0a8a",
+          "ingredient_id": "8d52ad34-1aea-57a9-8e92-aabab5116059",
+          "name": "raisins",
+          "display_text": "250g Raisins",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "42bdcfcd-6158-57cf-8ca8-fa7bb359a437",
+          "ingredient_id": "93362b54-1c13-5aa3-a85c-1ce0dc4f1e10",
+          "name": "currants",
+          "display_text": "250g Currants",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "7106c666-7fe2-5006-9139-84b040013fa3",
+          "ingredient_id": "8d7d8e57-30de-5aa2-83ba-f1f140d96726",
+          "name": "pecan nuts",
+          "display_text": "100g Pecan Nuts",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "e3448a90-4e59-573c-a901-e9e21643b5f8",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "Grated zest of 1 Lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "grated zest",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f413f65e-24d3-55cd-9c3e-a420e17e3448",
+          "ingredient_id": "fd2f8700-a6fa-536d-8882-3aeb56379497",
+          "name": "mixed spice",
+          "display_text": "1 ½ tbsp Mixed Spice",
+          "quantity": 1.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 22.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "6b6365a9-f6e2-594a-9405-972687c63c5a",
+          "ingredient_id": "d356faa1-a066-5da6-86f3-1f5a0f184ca1",
+          "name": "rose water",
+          "display_text": "1 ½ tbsp Rose water",
+          "quantity": 1.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 22.5,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "03be83b3-e499-5ec3-bce2-a5f5abfaba8d",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1/2 tsp Vanilla Extract",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "73d2e0c5-c736-5a8b-8e24-4c3e47993763",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1/2 tsp Baking Powder",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 160C/fan 140C/gas 3. Line the base and sides of a 20 cm round, 7.5 cm deep cake tin. Beat the butter and sugar with an electric hand mixer for 1-2 mins until very creamy and pale in color, scraping down the sides of the bowl half way through. Stir in a spoonful of the flour, then stir in the beaten egg and the rest of the flour alternately, a quarter at a time, beating well each time with a wooden spoon. Stir in the almonds.",
+      "timer_seconds": 120,
+      "temperature": {
+        "value": 160,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "efcd0c90-5efb-5775-826b-f5706f0c4566",
+        "8f38bab8-fc45-5f2f-b84b-2e438feae712"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Mix in the sherry (the mix will look curdled), then add the peel, cherries, raisins, cherries, nuts, lemon zest, spice, rosewater and vanilla. Beat together to mix, then stir in the baking powder.",
+      "ingredients_used": [
+        "5df87691-ad62-5c46-a40b-7038e2017c4c",
+        "328d2420-114e-55f4-a830-7e09435e678a",
+        "d95d5719-318b-5225-8ad6-644f883d0a8a",
+        "7106c666-7fe2-5006-9139-84b040013fa3",
+        "e3448a90-4e59-573c-a901-e9e21643b5f8",
+        "f413f65e-24d3-55cd-9c3e-a420e17e3448",
+        "73d2e0c5-c736-5a8b-8e24-4c3e47993763"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Spoon mixture into the tin and smooth the top, making a slight dip in the center. Bake for 30 mins, then lower temperature to 150C/fan 130C/gas 2 and bake a further 2-2¼ hrs, until a skewer insterted in the middle comes out clean. Leave to cool in the tin, then take out of the tin and peel off the lining paper. When completely cold, wrap well in cling film and foil to store until ready to decorate. The cake will keep for several months.",
+      "timer_seconds": 1800,
+      "temperature": {
+        "value": 150,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "328d2420-114e-55f4-a830-7e09435e678a"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/angela-nilsens-christmas-cake"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

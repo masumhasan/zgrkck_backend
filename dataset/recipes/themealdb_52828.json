@@ -1,0 +1,296 @@
+{
+  "id": "c9314907-54c8-5c3f-b344-c604596763ad",
+  "version": "1.0.0",
+  "title": "Vietnamese Grilled Pork (bun-thit-nuong)",
+  "slug": "vietnamese-grilled-pork-bun-thit-nuong",
+  "summary": "A Vietnamese dish featuring thinly sliced pork marinated in a sweet and savory sauce, served over rice vermicelli with fresh vegetables and egg rolls.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:40:59Z",
+  "updated_at": "2026-10-16T10:22:46Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52828"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/qqwypw1504642429.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/qqwypw1504642429.jpg/small",
+      "alt_text": "Photo of Vietnamese Grilled Pork (bun-thit-nuong)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Q3qcQcENzbU"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "60481cf3-a7b7-5be4-a0dc-6b872c887e64",
+        "slug": "vietnamese",
+        "name": "Vietnamese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 20,
+    "marinating_time_minutes": 60,
+    "total_time_minutes": 100
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of noodles with pork and egg rolls"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "peanuts",
+      "soy",
+      "eggs",
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "tree_nuts",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "55de71f2-a6f6-58d0-af62-9a4c7a98142a",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "4fa8e50e-f42d-596f-96b4-621954be77ba",
+          "ingredient_id": "f16b4344-55cf-5ee7-a3a2-d8f68550bd18",
+          "name": "pork",
+          "display_text": "1.5 pounds sliced Pork",
+          "quantity": 1.5,
+          "unit": "pound",
+          "preparation": "sliced",
+          "is_optional": false,
+          "metric_quantity": 680.4,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "3eda47ee-a33f-566d-a9d5-11fef30d7063",
+          "ingredient_id": "c723f050-9fff-54e0-a83d-1ac807fb2457",
+          "name": "rice vermicelli",
+          "display_text": "1 package thin Rice Vermicelli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "package thin",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "634df395-f3ef-5c98-9811-d82e8257d54a",
+          "ingredient_id": "68af4cf6-88e3-5fa3-a08b-61bf6c130430",
+          "name": "egg rolls",
+          "display_text": "4-6 Egg Rolls",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "other"
+        },
+        {
+          "id": "792ca09d-a88e-5a01-9c92-527a83555fef",
+          "ingredient_id": "b5be86c1-9338-59cc-924e-96de6771869c",
+          "name": "challots",
+          "display_text": "3 tablespoons minced Challots",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "preparation": "minced",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "deffb344-b6a4-5c8f-9c39-2ea99eb69446",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1.5 tablespoons minced garlic Garlic",
+          "quantity": 1.5,
+          "unit": "tablespoon",
+          "preparation": "minced garlic",
+          "is_optional": false,
+          "metric_quantity": 22.5,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "87f33d44-6906-5d84-9d7b-94f94ddac012",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "¼ cup Sugar",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "328d5c3b-e3de-57e2-9192-741249ff347c",
+          "ingredient_id": "de927c20-fdfa-5b98-8ee9-7840fa951a2f",
+          "name": "fish sauce",
+          "display_text": "1 tablespoon Fish Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "3a3328db-2aaf-5288-bce0-75d90c63cef3",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "½ tablespoon thick Soy sauce",
+          "quantity": 0.5,
+          "unit": "tablespoon",
+          "preparation": "thick",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "a8e551a2-68f0-5a2e-b511-ce0602cad318",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "½ tablespoon Pepper",
+          "quantity": 0.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e4d3a13d-f321-5c8d-aa92-9610239746b8",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "3 tablespoons Olive Oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "815841ee-040d-5221-9406-4727b54eada8",
+          "ingredient_id": "8f9e104a-822f-5bda-b376-eee34fc38609",
+          "name": "cucumber",
+          "display_text": "Sliced Cucumber",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "db691874-11db-568f-a810-9a3ae5063d2d",
+          "ingredient_id": "0e838047-684d-55cb-884e-e7872e0e96c4",
+          "name": "mint",
+          "display_text": "Leaves Mint",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "leaves",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "a885df98-6c7c-5b24-a374-19670a52a1af",
+          "ingredient_id": "200b7141-d967-52ee-b154-4f8ed303ac02",
+          "name": "peanuts",
+          "display_text": "Crushed Peanuts",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "crushed",
+          "is_optional": false,
+          "category": "nuts_seeds"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Slice the uncooked pork thinly, about ⅛\". It helps to slightly freeze it (optional).",
+      "ingredients_used": [
+        "4fa8e50e-f42d-596f-96b4-621954be77ba"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Mince garlic and shallots. Mix in a bowl with sugar, fish sauce, thick soy sauce, pepper, and oil until sugar dissolves.",
+      "ingredients_used": [
+        "deffb344-b6a4-5c8f-9c39-2ea99eb69446",
+        "87f33d44-6906-5d84-9d7b-94f94ddac012",
+        "328d5c3b-e3de-57e2-9192-741249ff347c",
+        "3a3328db-2aaf-5288-bce0-75d90c63cef3",
+        "a8e551a2-68f0-5a2e-b511-ce0602cad318"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Marinate the meat for 1 hour, or overnight for better results.",
+      "timer_seconds": 3600
+    },
+    {
+      "step_number": 4,
+      "instruction": "Bake the pork at 375F for 10-15 minutes or until about 80% cooked. Finish cooking by broiling in the oven until a nice golden brown color develops, flipping the pieces midway.",
+      "timer_seconds": 900,
+      "temperature": {
+        "value": 375,
+        "unit": "fahrenheit"
+      },
+      "ingredients_used": [
+        "4fa8e50e-f42d-596f-96b4-621954be77ba"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Assemble your bowl with veggies, noodles, and garnish. Many like to mix the whole bowl up and pour the fish sauce on top, but I like to make individual bites and sauce it slowly.",
+      "ingredients_used": [
+        "328d5c3b-e3de-57e2-9192-741249ff347c"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://www.hungryhuy.com/bun-thit-nuong-recipe-vietnamese-grilled-bbq-pork-with-rice-vermicelli-vegetables/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

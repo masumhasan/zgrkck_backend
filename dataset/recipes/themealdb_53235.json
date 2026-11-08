@@ -1,0 +1,247 @@
+{
+  "id": "63666f52-6127-5f8b-911a-36204fa3f8c7",
+  "version": "1.0.0",
+  "title": "Vietnamese-style caramel pork",
+  "slug": "vietnamese-style-caramel-pork",
+  "summary": "A Vietnamese-inspired dish featuring pork shoulder simmered in a sweet and savory caramel sauce made from sugar and fish sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:16:10Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53235"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/4mzt101763761546.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/4mzt101763761546.jpg/small",
+      "alt_text": "Photo of Vietnamese-style caramel pork",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=qmQe0Qxvyzc"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "60481cf3-a7b7-5be4-a0dc-6b872c887e64",
+        "slug": "vietnamese",
+        "name": "Vietnamese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 35
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of pork with rice and pak choi"
+  },
+  "allergens": {
+    "contains": [
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "33eaf9c1-6733-54de-aebb-9d877848a2cf",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "f2d6d27a-0259-536c-9e4e-74a84e81a540",
+          "ingredient_id": "91c1bd70-d7c7-5326-89ba-7c3530c157d5",
+          "name": "ground nut oil",
+          "display_text": "1 ½ tbsp Ground Nut Oil",
+          "quantity": 1.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 22.5,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "7ba9fec9-5755-5537-8498-655c37f29b58",
+          "ingredient_id": "f7f4eced-02f6-5bb5-8aca-93c380455801",
+          "name": "pork shoulder steaks",
+          "display_text": "500g Pork Shoulder Steaks",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "0bd90e61-c139-5644-b5c0-e9b7c4d76566",
+          "ingredient_id": "d22accc4-e562-59bf-9cbb-1ad38d461e99",
+          "name": "shallots",
+          "display_text": "2 chopped Shallots",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f76acdf2-f1ce-55ee-ad47-28ed9e0e5f63",
+          "ingredient_id": "9c72d0cf-8d9c-53f6-b4c6-5631779ba66b",
+          "name": "ground ginger",
+          "display_text": "1 tablespoon Ground Ginger",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "f42ca7cf-6547-593c-af96-c985a8b80a0b",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "1 chopped Red Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1f352215-2007-567a-8cf6-9ad1a4812b0d",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "75g Brown Sugar",
+          "quantity": 75.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "0a6d269a-d4d4-5f9b-869f-1764af638af7",
+          "ingredient_id": "de927c20-fdfa-5b98-8ee9-7840fa951a2f",
+          "name": "fish sauce",
+          "display_text": "1 tablespoon Fish Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "5bfd936f-782d-54bb-bdef-fb070066a0ba",
+          "ingredient_id": "d61c9f0f-74f1-5e2e-89cd-b1fb8144b774",
+          "name": "chilli sauce",
+          "display_text": "2 tsp Chilli Sauce",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "6e4ae6e1-ecff-57e9-940e-eaa09818983b",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "4 Spring Onions",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "91c95532-888b-500c-931e-dd0dd78c0e4f",
+          "ingredient_id": "025b8433-c498-5b37-813a-ec00ac6c2ae5",
+          "name": "rice",
+          "display_text": "Steamed Rice",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "steamed",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "e721de16-7b79-55b5-a8bc-9b717d6634d1",
+          "ingredient_id": "9d696147-e1f6-508e-ac82-2808fd1506bc",
+          "name": "pak choi",
+          "display_text": "To serve Pak Choi",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat 1 tbsp of the oil in a wok over a high heat and stir-fry the pork in batches until browned all over. Remove with a slotted spoon and set aside."
+    },
+    {
+      "step_number": 2,
+      "instruction": "Turn the heat right down and add the remaining oil, then stir in the shallots, ginger and chilli. Cook over a low heat for a couple of mins until just starting to soften. Add the sugar, fish sauce and 200ml water to the pan and stir everything together. Bring to the boil, stirring, so that the sugar dissolves, then return the pork to the pan. Bubble vigorously for 8-10 mins until the sauce thickens to coat the meat and become glossy. Taste and stir in a little more fish sauce, if needed, along with the chilli sauce. Sprinkle with the spring onions and serve with steamed rice and pak choi.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "0bd90e61-c139-5644-b5c0-e9b7c4d76566",
+        "f76acdf2-f1ce-55ee-ad47-28ed9e0e5f63",
+        "f42ca7cf-6547-593c-af96-c985a8b80a0b",
+        "0a6d269a-d4d4-5f9b-869f-1764af638af7",
+        "5bfd936f-782d-54bb-bdef-fb070066a0ba",
+        "6e4ae6e1-ecff-57e9-940e-eaa09818983b",
+        "91c95532-888b-500c-931e-dd0dd78c0e4f",
+        "e721de16-7b79-55b5-a8bc-9b717d6634d1"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/vietnamese-style-caramel-pork"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

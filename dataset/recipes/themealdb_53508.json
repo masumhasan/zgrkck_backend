@@ -1,0 +1,211 @@
+{
+  "id": "b752cb01-76ab-5c26-b317-57b0816e3868",
+  "version": "1.0.0",
+  "title": "Cassava Cake",
+  "slug": "cassava-cake",
+  "summary": "A traditional Caymanian dessert made from grated cassava, coconut milk, and warm spices like nutmeg and allspice.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:40:26Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53508"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/2mrghf1782773422.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/2mrghf1782773422.jpg/small",
+      "alt_text": "Photo of Cassava Cake",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c09eb408-33f5-5580-b0b4-cd787ea520ba",
+        "slug": "caymanian",
+        "name": "Caymanian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "holiday"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 210,
+    "rest_time_minutes": 30,
+    "total_time_minutes": 260
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "servings",
+    "serving_size_description": "1 slice of cake"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "b5ffd2b5-8d01-521a-98f6-f6f3c3173234",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "27cb5ae2-0a57-5971-a476-3a3a3aab078e",
+          "ingredient_id": "5849b0b1-aacb-5d74-b7bf-662e89c5ba0b",
+          "name": "cassava",
+          "display_text": "2 Lbs Cassava",
+          "quantity": 2.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 907.2,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "f94882d6-9981-554a-a88e-8cab60ffabe2",
+          "ingredient_id": "eeea6f2e-c44d-5cbc-84ad-c3d0dd87d6f3",
+          "name": "dark brown soft sugar",
+          "display_text": "1 lb Dark Brown Soft Sugar",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "f99a8baa-f175-54c9-9100-c5c84681bf4d",
+          "ingredient_id": "0435e55e-84f6-566c-ac81-37617bbab91c",
+          "name": "coconut milk",
+          "display_text": "1 can Coconut Milk",
+          "quantity": 1.0,
+          "unit": "can",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "43891244-1d63-52e8-aaef-f3781d9190df",
+          "ingredient_id": "9426e9cd-e7b2-540e-8ddb-187c01748931",
+          "name": "nutmeg",
+          "display_text": "1/4 Nutmeg",
+          "quantity": 0.25,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "219b1cb7-7822-522a-89b2-2cd740e6333e",
+          "ingredient_id": "38dedce7-9a7f-57ee-8e46-5162ab60eba8",
+          "name": "allspice",
+          "display_text": "1/2 tsp Allspice",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3e1bb03e-a0f0-5322-9148-f74cf9c1703b",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "1/2 tsp Cinnamon",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Bring coconut milk to a boil. Add sugar, stirring until completely dissolved and continue to boil for about 45 minutes.",
+      "timer_seconds": 2700,
+      "ingredients_used": [
+        "f99a8baa-f175-54c9-9100-c5c84681bf4d"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Reserve ½ cup of the coconut milk/sugar mixture for later. Combine remaining ingredients in a large mixing bowl, stir until well blended.",
+      "ingredients_used": [
+        "f99a8baa-f175-54c9-9100-c5c84681bf4d"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add hot coconut milk mixture and stir well. Mixture should be of a thick liquid texture.",
+      "ingredients_used": [
+        "f99a8baa-f175-54c9-9100-c5c84681bf4d"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Use 1 tablespoons of coconut milk mixture to grease baking pan. Pour batter into prepared baking pan and bake at 350°F (basting occasionally with reserved coconut milk mixture) for 2 to 3 hours or until knife inserted in center comes out clean.",
+      "timer_seconds": 10800,
+      "temperature": {
+        "value": 350,
+        "unit": "fahrenheit"
+      },
+      "ingredients_used": [
+        "f99a8baa-f175-54c9-9100-c5c84681bf4d"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Spread any remaining coconut milk mixture over top of cake. Place cake on top of stove to cool completely.",
+      "ingredients_used": [
+        "f99a8baa-f175-54c9-9100-c5c84681bf4d"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.ourcayman.ky/en-us/about/more-about-cayman/recipes"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

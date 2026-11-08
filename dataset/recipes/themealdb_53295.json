@@ -1,0 +1,259 @@
+{
+  "id": "46f7f29a-8e5f-52f9-8eb0-6ce246db912b",
+  "version": "1.0.0",
+  "title": "Polish chocolate & walnut cake",
+  "slug": "polish-chocolate-walnut-cake",
+  "summary": "A Polish dessert consisting of layers of chocolate sponge cake and walnut meringue, topped with a smooth chocolate glaze.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:21:33Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53295"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/e8ihjp1764123021.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/e8ihjp1764123021.jpg/small",
+      "alt_text": "Photo of Polish chocolate & walnut cake",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d40b0607-0a3a-5f5d-8012-7eaf1b714fa5",
+        "slug": "polish",
+        "name": "Polish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 75,
+    "rest_time_minutes": 120,
+    "total_time_minutes": 225
+  },
+  "yield": {
+    "servings": 10,
+    "serving_unit": "servings",
+    "serving_size_description": "1 slice of layered cake"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "tree_nuts",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": [
+      "soy"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "c216e1e0-784a-56ee-8d1e-52d7046fd383",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "4915e9e0-2462-5a20-9123-267f8d1219db",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "150g Plain Flour",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "6e4daaf1-443c-5ae7-8b11-713439ed5922",
+          "ingredient_id": "53d33d3e-9a63-5d27-800a-4e8284d4044d",
+          "name": "coco sugar",
+          "display_text": "50g Coco Sugar",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "2e0c8cd8-03b4-5813-b4b7-b8be86adc63a",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "8 Egg",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "64ea3dc8-e850-5246-84bd-1c28d95341c2",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "200g Caster Sugar",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "f010d85a-7e84-54c2-8d6b-5437eb5b49fd",
+          "ingredient_id": "87c4a7ca-7b0e-5143-aea3-d01ad00e4108",
+          "name": "egg white",
+          "display_text": "5 Egg White",
+          "quantity": 5.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "487944db-4a4d-5b29-aea4-2679acab2d22",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "200g Caster Sugar",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "0dbcd4b9-7012-5512-b65a-8990b982a1cd",
+          "ingredient_id": "0ad40f09-76c2-5007-b9ca-38f3ecd4a51d",
+          "name": "walnuts",
+          "display_text": "250g Walnuts",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "2b915249-b999-5f0c-9e54-559d27143a4a",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "1 tablespoon Plain Flour",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "3eeea90a-3997-5059-89e3-2793e6cd962b",
+          "ingredient_id": "f019243b-0caf-59fc-bb8e-29ddaeb36e37",
+          "name": "potato starch",
+          "display_text": "1 tablespoon Potato Starch",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "1e61a433-89ea-55fe-8968-3ff34863b346",
+          "ingredient_id": "81b5723b-47de-5017-987f-cdcc95dd362b",
+          "name": "double cream",
+          "display_text": "100g Double Cream",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "aeb508d6-01d5-5b21-ac95-d3157fa86bc2",
+          "ingredient_id": "57b0f0f3-9046-5bb1-a78b-0092062cf0a4",
+          "name": "chocolate chips",
+          "display_text": "100g Chocolate Chips",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the oven to 170C/150C fan/gas 3½. Line a 30 x 22cm shallow baking tin with baking parchment. Sift the flour and mix it with cocoa, then set aside. Beat the egg whites until stiff, then add the sugar to them in small batches. Add the egg yolks, one by one, whisking constantly. Tip in the flour mixture and gently fold everything together with a spatula. Pour the prepared batter into the lined tin and bake for 35 mins. Cool for 5 mins, remove from the tin and re-line the tin with baking parchment.",
+      "temperature": {
+        "value": 170,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "2e0c8cd8-03b4-5813-b4b7-b8be86adc63a",
+        "f010d85a-7e84-54c2-8d6b-5437eb5b49fd"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "To make the meringue, whisk the whites until stiff, then gradually whisk in the sugar, one tablespoon at a time. When you have a stiff and shiny meringue, fold in the finely chopped walnuts, flour and startch. Spread the mixture into the re-lined tin and cook for 40 mins on the same heat. Remove from the oven and leave to cool.",
+      "timer_seconds": 2400,
+      "ingredients_used": [
+        "f010d85a-7e84-54c2-8d6b-5437eb5b49fd",
+        "0dbcd4b9-7012-5512-b65a-8990b982a1cd"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "For the chocolate glaze, heat the cream over low heat, then remove from the heat, pour the chopped chocolate into it and mix it until it melts and becomes shiny."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Cut the cooled chocolate sponge cake and meringue into two layers. Put the nut meringue on top of the bottom layer of sponge and sprinkle on some of the reserved walnuts. Add another layer of meringue and then the upper layer of chocolate sponge cake and cover the top with chocolate glaze. Decorate with walnuts. Put the finished cake in the fridge for 1-2 hrs before serving.",
+      "timer_seconds": 7200,
+      "ingredients_used": [
+        "0dbcd4b9-7012-5512-b65a-8990b982a1cd"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/polish-chocolate-cake"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

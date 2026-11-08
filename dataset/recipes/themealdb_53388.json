@@ -1,0 +1,263 @@
+{
+  "id": "0189c608-6269-5960-995c-98deab021445",
+  "version": "1.0.0",
+  "title": "Runner Bean Mash (Snijbonen Stamppot)",
+  "slug": "runner-bean-mash-snijbonen-stamppot",
+  "summary": "A traditional Dutch stamppot consisting of mashed potatoes mixed with runner beans, sautéed onions, garlic, and cheese, served with crispy bacon.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:29:53Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53388"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/urq5w21777540535.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/urq5w21777540535.jpg/small",
+      "alt_text": "Photo of Runner Bean Mash (Snijbonen Stamppot)",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "74c070cf-0c42-573b-9e5c-54db497f25a3",
+        "slug": "dutch",
+        "name": "Dutch"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a large scoop of mash with bacon"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "mustard"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "f12195c7-0e5f-5dbd-9667-745783c59d72",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "de19146f-45a9-502a-a42a-53d60f4377fe",
+          "ingredient_id": "b399b6c5-07f7-5af5-83a2-20bb447eca25",
+          "name": "runner beans",
+          "display_text": "400g Runner Beans",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "79ebf485-5404-517e-bec0-0c65ef7a0206",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "adffaaf2-1849-5888-a1c8-37f9e57a0d24",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "377897c3-bbe2-5bdf-8330-8078721b748e",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "800g Potatoes",
+          "quantity": 800.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 800.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "abb0bcab-4d2f-5696-8d5a-e77951df1373",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "25g Butter",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "e190229a-8d8c-51ed-a43f-a40dec69303e",
+          "ingredient_id": "b9e3afdc-e194-5f5e-bbae-5c3659d35a67",
+          "name": "mustard",
+          "display_text": "1 tablespoon Mustard",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "54932feb-1d95-5302-8de3-99a2b8c5f591",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "1 dash Milk",
+          "quantity": 1.0,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "490e518e-66fb-5112-816e-db6d533a3247",
+          "ingredient_id": "9492d127-f816-5ce2-956c-6fe8fdc731f2",
+          "name": "cheese",
+          "display_text": "100g Cheese",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "db64c29f-9197-5bb5-bf35-98951ef2bc7f",
+          "ingredient_id": "956cfefc-d0f9-5c1f-9f20-d38a1e4dbdad",
+          "name": "bacon",
+          "display_text": "75g Bacon",
+          "quantity": 75.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "9abc6751-804b-5266-aaba-e9ab4e156da2",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Wash and chop the runner beans. Place in a saucepan with salted water and bring to a boil.",
+      "ingredients_used": [
+        "de19146f-45a9-502a-a42a-53d60f4377fe",
+        "9abc6751-804b-5266-aaba-e9ab4e156da2"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Cook the beans for about 10 minutes or until al dente. Drain and set aside.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "de19146f-45a9-502a-a42a-53d60f4377fe"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Meanwhile, add the potatoes and cook until tender.",
+      "ingredients_used": [
+        "377897c3-bbe2-5bdf-8330-8078721b748e"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Heat a small skillet with a little butter and sauté the onion until translucent. Add the garlic and cook briefly. Add the runner beans to the pan and stir-fry for a few minutes.",
+      "ingredients_used": [
+        "de19146f-45a9-502a-a42a-53d60f4377fe",
+        "79ebf485-5404-517e-bec0-0c65ef7a0206",
+        "adffaaf2-1849-5888-a1c8-37f9e57a0d24",
+        "abb0bcab-4d2f-5696-8d5a-e77951df1373"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Meanwhile, mash the potatoes with a masher. Add a knob of butter and a splash of milk. Add the bean mixture and grated cheese. Season with salt, pepper and mustard.",
+      "ingredients_used": [
+        "377897c3-bbe2-5bdf-8330-8078721b748e",
+        "abb0bcab-4d2f-5696-8d5a-e77951df1373",
+        "e190229a-8d8c-51ed-a43f-a40dec69303e",
+        "54932feb-1d95-5302-8de3-99a2b8c5f591",
+        "490e518e-66fb-5112-816e-db6d533a3247",
+        "9abc6751-804b-5266-aaba-e9ab4e156da2"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Fry the bacon and serve with the bean mash.",
+      "ingredients_used": [
+        "db64c29f-9197-5bb5-bf35-98951ef2bc7f"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://insimoneskitchen.com/runner-bean-mash/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

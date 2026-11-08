@@ -1,0 +1,270 @@
+{
+  "id": "bf1a779f-1685-598f-90e5-bb36749e7556",
+  "version": "1.0.0",
+  "title": "Dominica’s coconut rough cake",
+  "slug": "dominicas-coconut-rough-cake",
+  "summary": "A traditional Dominican dessert made with coconut, oats, and warm spices like cinnamon and nutmeg.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:46:06Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53571"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/sgqy9d1784832045.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/sgqy9d1784832045.jpg/small",
+      "alt_text": "Photo of Dominica’s coconut rough cake",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4da88d96-f05f-5f73-a14b-c5e37ee2541e",
+        "slug": "dominican",
+        "name": "Dominican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 35,
+    "total_time_minutes": 50
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 scooped drop or molded cake"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "19dc0b61-781b-5abf-abfe-aadabc4eb28e",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "85cd3d49-380c-56c8-baf5-0be5170d601e",
+          "ingredient_id": "228eb2df-c918-5369-a1e0-aa3a984b51f1",
+          "name": "wheat flour",
+          "display_text": "4 cups Wheat Flour",
+          "quantity": 4.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 960.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "ee128f75-6bac-5e8d-9627-90fd0f939e93",
+          "ingredient_id": "8e77f694-66fc-5ca4-97f6-deb23c629202",
+          "name": "oats",
+          "display_text": "1 cup Oats",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "f686fc83-be85-5b7a-bb32-aa56e3d7f2f3",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "1 1/2 cup Brown Sugar",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "c25f99cc-d985-5727-87e4-949a0ae82de5",
+          "ingredient_id": "739769d2-a7f0-5fac-98c1-26e2aa7ce44e",
+          "name": "coconut",
+          "display_text": "2 cups Coconut",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "2e30114e-8eed-5932-b9cc-e1c99675cec6",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1 tsp Vanilla Extract",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "44f9c5f6-3d7d-5b08-bc18-146ab99472b9",
+          "ingredient_id": "0435e55e-84f6-566c-ac81-37617bbab91c",
+          "name": "coconut milk",
+          "display_text": "2 1/2 cups Coconut Milk",
+          "quantity": 2.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 600.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "0d14637a-c397-5a21-a6c7-96b03090e9ff",
+          "ingredient_id": "5b3aa746-938c-5e92-be83-6710a36a51db",
+          "name": "bicarbonate of soda",
+          "display_text": "1 tsp Bicarbonate Of Soda",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "11852386-ec68-5e1a-975e-d0d7403dfd0e",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1/2 tsp Baking Powder",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "84bc8591-f801-567e-a459-5944c3b94751",
+          "ingredient_id": "7af3c207-3c37-5965-a096-bf34ac1db1f4",
+          "name": "ground cinnamon",
+          "display_text": "1 ½ tbsp Ground Cinnamon",
+          "quantity": 1.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 22.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "89324b4d-4c55-55c0-8995-1110eed76305",
+          "ingredient_id": "9426e9cd-e7b2-540e-8ddb-187c01748931",
+          "name": "nutmeg",
+          "display_text": "1 ½ tsp Nutmeg",
+          "quantity": 1.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "417a03cf-00df-5ccb-b903-1d8cb3d4b3f1",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "Zest of 1 Lime",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "zest",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0cb16d3e-8c51-5160-a43c-33b1fff5ca18",
+          "ingredient_id": "8d52ad34-1aea-57a9-8e92-aabab5116059",
+          "name": "raisins",
+          "display_text": "1/4 cup Raisins",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Mix all dry ingredients in bowl"
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add coconut milk to dry ingredients",
+      "ingredients_used": [
+        "c25f99cc-d985-5727-87e4-949a0ae82de5",
+        "44f9c5f6-3d7d-5b08-bc18-146ab99472b9"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Grease baking pan with vegetable oil"
+    },
+    {
+      "step_number": 4,
+      "instruction": "I use an ice cream scoop to form drops. I placed the scooped cake mixture on a baking sheet. I also used a cake mold and gently pressed the mixture in. You can use a baking pan as well."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Preheat your over at 350°"
+    },
+    {
+      "step_number": 6,
+      "instruction": "Bake for 25 to 35 minutes or until brown",
+      "timer_seconds": 2100
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://dominicagourmet.com/dominica-coconut-rough-cake-recipe/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

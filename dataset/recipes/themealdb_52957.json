@@ -1,0 +1,234 @@
+{
+  "id": "9a8585e7-2ba3-55cd-8ba9-a7962c828590",
+  "version": "1.0.0",
+  "title": "Fruit and Cream Cheese Breakfast Pastries",
+  "slug": "fruit-and-cream-cheese-breakfast-pastries",
+  "summary": "These breakfast pastries feature a sweet cream cheese filling topped with fresh summer berries, encased in flaky puff pastry.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:52:37Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52957"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/1543774956.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/1543774956.jpg/small",
+      "alt_text": "Photo of Fruit and Cream Cheese Breakfast Pastries",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b95bb9d4-1e18-5623-a50f-942c7d140e82",
+        "slug": "american",
+        "name": "American"
+      }
+    ],
+    "tags": [
+      "breakfast",
+      "summer"
+    ],
+    "meal_types": [
+      "breakfast"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "summer_refreshment"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 18,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 pastry square"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "775a7bd9-8df2-51cd-812c-2ff4dea6a9a3",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "799e9139-c611-560c-8246-c8e229a1c540",
+          "ingredient_id": "0523a624-2afe-5b39-a3e8-a4588a68c1c2",
+          "name": "cream cheese",
+          "display_text": "1 1/4 oz Cream Cheese",
+          "quantity": 1.25,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 35.4,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "0205239c-8248-52c5-b78a-93e849f38c3d",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 1/4 cup Sugar",
+          "quantity": 1.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "991d876e-86fd-5ea3-88b9-e8227a5223d3",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1 teaspoon Vanilla Extract",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "bf3fbf14-d4ff-5752-8099-261d59fd0635",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "Flour",
+          "quantity": 0,
+          "unit": "as_needed",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "c3472b3a-8278-5252-a7bf-b1572bc63e1b",
+          "ingredient_id": "a552ed18-91bb-59fa-a3c1-dad1308c6c3e",
+          "name": "puff pastry",
+          "display_text": "2 Puff Pastry",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "85aa2dec-c38a-522e-a6c7-98db429fd48e",
+          "ingredient_id": "8633a33a-dc11-5c17-a43b-c84d3669eb95",
+          "name": "strawberries",
+          "display_text": "Strawberries",
+          "quantity": 0,
+          "unit": "as_needed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0fd17170-924e-5f50-8c62-066b50031930",
+          "ingredient_id": "51e91b52-f7fc-5c02-9971-241fdb8abe3c",
+          "name": "raspberries",
+          "display_text": "Raspberries",
+          "quantity": 0,
+          "unit": "as_needed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "750d4499-79e5-5060-9fca-6186aa69f7ce",
+          "ingredient_id": "6a077770-26c3-5b86-8e16-a2d03421b135",
+          "name": "blackberries",
+          "display_text": "Blackberries",
+          "quantity": 0,
+          "unit": "as_needed",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat oven to 400ºF (200ºC), and prepare two cookie sheets with parchment paper. In a bowl, mix cream cheese, sugar, and vanilla until fully combined. Lightly flour the surface and roll out puff pastry on top to flatten. Cut each sheet of puff pastry into 9 equal squares. On the top right and bottom left of the pastry, cut an L shape approximately ½ inch (1 cm) from the edge.",
+      "temperature": {
+        "value": 400,
+        "unit": "fahrenheit"
+      },
+      "ingredients_used": [
+        "799e9139-c611-560c-8246-c8e229a1c540",
+        "0205239c-8248-52c5-b78a-93e849f38c3d",
+        "bf3fbf14-d4ff-5752-8099-261d59fd0635",
+        "c3472b3a-8278-5252-a7bf-b1572bc63e1b"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "NOTE: This L shape should reach all the way down and across the square, however both L shapes should not meet at the ends. Your pastry should look like a picture frame with two corners still intact.",
+      "ingredients_used": [
+        "c3472b3a-8278-5252-a7bf-b1572bc63e1b"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Take the upper right corner and fold down towards the inner bottom corner. You will now have a diamond shape."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Place 1 to 2 teaspoons of the cream cheese filling in the middle, then place berries on top.",
+      "ingredients_used": [
+        "799e9139-c611-560c-8246-c8e229a1c540"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Repeat with the remaining pastry squares and place them onto the parchment covered baking sheet.",
+      "ingredients_used": [
+        "c3472b3a-8278-5252-a7bf-b1572bc63e1b"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Bake for 15-20 minutes or until pastry is golden brown and puffed.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "c3472b3a-8278-5252-a7bf-b1572bc63e1b"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Enjoy!"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

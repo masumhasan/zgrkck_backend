@@ -1,0 +1,235 @@
+{
+  "id": "d6e39167-1716-54b4-a9c4-1a49c1e43638",
+  "version": "1.0.0",
+  "title": "Yaki Udon",
+  "slug": "yaki-udon",
+  "summary": "Yaki Udon is a Japanese stir-fried noodle dish featuring thick udon noodles, vegetables, and a savory sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:44:55Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52871"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/wrustq1511475474.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/wrustq1511475474.jpg/small",
+      "alt_text": "Photo of Yaki Udon",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=5Iy0MCowSvA"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "56a9f85e-d404-5cf3-b90f-babb495ba40f",
+        "slug": "japanese",
+        "name": "Japanese"
+      }
+    ],
+    "tags": [
+      "lowcalorie"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 12,
+    "total_time_minutes": 22
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 portion of noodles and vegetables"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "fish",
+      "sesame",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "shellfish",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "156f69cd-4c02-54c3-b4cd-2f605d2d4136",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "9ebd1d93-5de4-52a5-a257-336da7916b45",
+          "ingredient_id": "b931b5ea-f2d0-52e8-905f-fcfddeab6b25",
+          "name": "udon noodles",
+          "display_text": "250g Udon Noodles",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "35f25f98-5ab7-5159-9f0a-3721cefbb93b",
+          "ingredient_id": "653731ca-07ee-57df-aa38-0f8f2b71ccc6",
+          "name": "sesame seed oil",
+          "display_text": "2 tbs Sesame Seed Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "adb1997e-fa06-5935-bb51-c8a9ada3a887",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 sliced Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7e6ab909-d193-5fb3-82c6-16cef82089a3",
+          "ingredient_id": "8604c41c-a935-5634-b405-fed806fe806b",
+          "name": "cabbage",
+          "display_text": "0.25 Cabbage",
+          "quantity": 0.25,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "9c5fd3d0-5c32-5d0a-9a6d-394528f5d4fe",
+          "ingredient_id": "b1799df6-0136-5c15-b8f4-d13b39bf63d3",
+          "name": "shiitake mushrooms",
+          "display_text": "10 Shiitake Mushrooms",
+          "quantity": 10.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b8a51a71-aea9-5c16-b453-e54652d57c37",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "4 Spring Onions",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4c79cd7d-8465-5171-9b04-1686c982d736",
+          "ingredient_id": "df1f505e-69c3-53b3-b692-0e447812c941",
+          "name": "mirin",
+          "display_text": "4 tbsp Mirin",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "66db0604-655b-5ad9-8174-96f5bab79f04",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "2 tbs Soy Sauce",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "f105a37f-0df9-5d47-a30a-7da0d609cd64",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "1 tblsp Caster Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "0ad4cd65-a4fb-5b13-b8a8-82f21396b965",
+          "ingredient_id": "31e8f031-3e86-5406-8703-0e73554e2898",
+          "name": "worcestershire sauce",
+          "display_text": "1 tblsp Worcestershire Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Boil some water in a large saucepan. Add 250ml cold water and the udon noodles. (As they are so thick, adding cold water helps them to cook a little bit slower so the middle cooks through). If using frozen or fresh noodles, cook for 2 mins or until al dente; dried will take longer, about 5-6 mins. Drain and leave in the colander.",
+      "ingredients_used": [
+        "9ebd1d93-5de4-52a5-a257-336da7916b45"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat 1 tbsp of the oil, add the onion and cabbage and sauté for 5 mins until softened. Add the mushrooms and some spring onions, and sauté for 1 more min. Pour in the remaining sesame oil and the noodles. If using cold noodles, let them heat through before adding the ingredients for the sauce – otherwise tip in straight away and keep stir-frying until sticky and piping hot. Sprinkle with the remaining spring onions.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "9ebd1d93-5de4-52a5-a257-336da7916b45",
+        "adb1997e-fa06-5935-bb51-c8a9ada3a887",
+        "7e6ab909-d193-5fb3-82c6-16cef82089a3",
+        "9c5fd3d0-5c32-5d0a-9a6d-394528f5d4fe",
+        "b8a51a71-aea9-5c16-b453-e54652d57c37"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/yaki-udon"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

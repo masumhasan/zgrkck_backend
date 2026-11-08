@@ -1,0 +1,246 @@
+{
+  "id": "23001066-4a9c-5668-820d-eedfcc075b31",
+  "version": "1.0.0",
+  "title": "Beef stroganoff",
+  "slug": "beef-stroganoff",
+  "summary": "A classic Russian dish consisting of tender beef fillet strips cooked in a creamy sauce with mushrooms, onions, and mustard.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:41:32Z",
+  "updated_at": "2026-10-16T10:22:47Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52834"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/svprys1511176755.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/svprys1511176755.jpg/small",
+      "alt_text": "Photo of Beef stroganoff",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=PQHgQX1Ss74"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "89b023d7-b2bb-5d32-90aa-fbee4bddee90",
+        "slug": "russian",
+        "name": "Russian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 32,
+    "total_time_minutes": 47
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of beef with sauce and rice or pasta"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "mustard"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "5eb8ecc4-3afe-5050-a885-18118f1b0e1f",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "86ddb4f7-0019-5027-b00e-367e935a92d1",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 tbls Olive Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "ea9a4991-13a5-51b3-ab50-112d817c2dad",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onions",
+          "display_text": "1 Onions",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "04b8d84f-ed06-5da2-80b2-4e284d281b20",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "35f88545-f31b-5771-9d98-5dca3efb1351",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "1 tbsp Butter",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "a9c8b41a-0ae7-5f40-8158-88448e1b7d97",
+          "ingredient_id": "5031dcf8-ef4a-588f-ae8f-de7c2790dfac",
+          "name": "mushrooms",
+          "display_text": "250g Mushrooms",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "88d8bd2f-0221-543d-b82b-0e02bdcd40bd",
+          "ingredient_id": "d520ed56-24b8-5d5e-ba56-f31d734071eb",
+          "name": "beef fillet",
+          "display_text": "500g Beef Fillet",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "ae0d0506-b3fa-51de-a568-d8e451c38afb",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "1tbsp Plain Flour",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "b0c0fefc-5dba-5a38-949e-11b7b26099ed",
+          "ingredient_id": "5a0201c7-6447-5098-baf7-57a2595f11ba",
+          "name": "creme fraiche",
+          "display_text": "150g Creme Fraiche",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "72e4a4e0-21a3-59ec-9f53-fa49b7294bc7",
+          "ingredient_id": "3442e73c-2c01-58d5-ad72-6d20eeddcc9a",
+          "name": "english mustard",
+          "display_text": "1 tbsp English Mustard",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "d902a915-4dff-5528-853b-833c14448f86",
+          "ingredient_id": "39a746ef-3300-5229-b0b2-3e03970ea60c",
+          "name": "beef stock",
+          "display_text": "100ml Beef Stock",
+          "quantity": 100.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "f381732f-4a9a-5ab1-8d15-e3beae2cc1e9",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "Topping Parsley",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "topping",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the olive oil in a non-stick frying pan then add the sliced onion and cook on a medium heat until completely softened, so around 15 mins, adding a little splash of water if they start to stick at all. Crush in the garlic and cook for a 2-3 mins further, then add the butter. Once the butter is foaming a little, add the mushrooms and cook for around 5 mins until completely softened. Season everything well, then tip onto a plate.",
+      "ingredients_used": [
+        "86ddb4f7-0019-5027-b00e-367e935a92d1",
+        "04b8d84f-ed06-5da2-80b2-4e284d281b20",
+        "35f88545-f31b-5771-9d98-5dca3efb1351",
+        "a9c8b41a-0ae7-5f40-8158-88448e1b7d97"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Tip the flour into a bowl with a big pinch of salt and pepper, then toss the steak in the seasoned flour. Add the steak pieces to the pan, splashing in a little oil if the pan looks particularly dry, and fry for 3-4 mins, until well colored. Tip the onions and mushrooms back into the pan. Whisk the crème fraîche, mustard and beef stock together, then pour into the pan. Cook over a medium heat for around 5 mins. Scatter with parsley, then serve with pappardelle or rice.",
+      "ingredients_used": [
+        "ea9a4991-13a5-51b3-ab50-112d817c2dad",
+        "a9c8b41a-0ae7-5f40-8158-88448e1b7d97",
+        "72e4a4e0-21a3-59ec-9f53-fa49b7294bc7",
+        "d902a915-4dff-5528-853b-833c14448f86",
+        "f381732f-4a9a-5ab1-8d15-e3beae2cc1e9"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/beef-stroganoff"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

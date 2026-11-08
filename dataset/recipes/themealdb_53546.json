@@ -1,0 +1,309 @@
+{
+  "id": "f6cf0b3c-60f0-515a-b6fe-245cbd46ada5",
+  "version": "1.0.0",
+  "title": "Black Bean soup",
+  "slug": "black-bean-soup",
+  "summary": "A savory Cuban-style soup made with black beans, aromatics, and spices, finished with a creamy garnish.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:43:55Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53546"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/x0mreq1784577446.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/x0mreq1784577446.jpg/small",
+      "alt_text": "Photo of Black Bean soup",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "bd3047f5-b3e1-53bc-b58b-9c7b54443734",
+        "slug": "cuban",
+        "name": "Cuban"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "starter",
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of soup with garnishes"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "01a0007e-9363-5eaa-9aa3-509f067d518a",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "d018abdd-f0fd-5be8-8f1f-0588aff4d3d7",
+          "ingredient_id": "96cc0c2b-795a-53be-a503-05d14e92b236",
+          "name": "extra virgin olive oil",
+          "display_text": "2 tablespoons Extra Virgin Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "298a6de9-2c01-55f0-9c8d-c7718be069b0",
+          "ingredient_id": "716f7639-3b59-56a7-9146-1819649ebdad",
+          "name": "red onions",
+          "display_text": "1 medium Red Onions",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "f45fbc24-a148-5097-a85b-216a20a4114b",
+          "ingredient_id": "eef793c9-14cb-5fa6-bd09-7094600a8921",
+          "name": "jalapeno",
+          "display_text": "1 Jalapeno",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "cca735c9-8f4a-564d-92f1-1f81054aacb0",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves minced Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "minced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "8a226322-1acc-5fe4-86bd-a13bf2b13a3a",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "1 tablespoon Tomato Puree",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "8b89e7c3-3824-56c7-84b9-d304b118da1b",
+          "ingredient_id": "f60d2962-95b1-5ff5-80ec-2e8902992bc9",
+          "name": "kosher salt",
+          "display_text": "Pinch Kosher Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "77b42bea-2342-5174-941b-726e90f98396",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "Pinch Black Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "eab93b2e-196e-5f2a-90f4-8c6a4ba340ed",
+          "ingredient_id": "efa5be6a-3bc3-55ca-812f-22dd145ba53d",
+          "name": "ground cumin",
+          "display_text": "1/2 tsp Ground Cumin",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "5ad15a8c-99ff-5dc4-b2ba-17b2c5c9329e",
+          "ingredient_id": "6fab3ead-b910-5c38-a787-4d74e606a7e1",
+          "name": "chilli powder",
+          "display_text": "1 tsp Chilli Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "554856cd-ad58-5478-8e34-b2697c4fe209",
+          "ingredient_id": "4958b57f-af77-572c-8240-fdfa5d5543c8",
+          "name": "black beans",
+          "display_text": "3 cans Black Beans",
+          "quantity": 3.0,
+          "unit": "can",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "7f4de6d8-8341-5bd4-b64c-12450dd18895",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "3 Cups Chicken Stock",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "31ce4917-002c-5418-a566-c2410752f4d1",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "1 Bay Leaf",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1fcb58e7-a789-5f04-9008-71ae00cee95a",
+          "ingredient_id": "6ca777b1-4e80-5a4b-8ffe-88c954e2cc8a",
+          "name": "sour cream",
+          "display_text": "Garnish Sour Cream",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "garnish",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "4e82bdf5-fdc1-5959-aab6-0d137ff3f1bf",
+          "ingredient_id": "eb7e0cb5-be44-5074-93b2-98cbac9baf42",
+          "name": "avocado",
+          "display_text": "Garnish Avocado",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "garnish",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "08dadfab-c750-55ea-b6f0-f9b360224553",
+          "ingredient_id": "1655ccbe-97a7-59b3-9245-ebc95a0ed6d0",
+          "name": "cilantro",
+          "display_text": "Garnish Cilantro",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "garnish",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "b83c4aa1-14a3-56b9-8162-60d5392e14f1",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "To serve Lime",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "In a large pot over medium heat, heat oil. Add onion and cook until soft and translucent, about 5 minutes. Add jalapeños and garlic and cook until fragrant, about 2 minutes. Add tomato paste, stir to coat vegetables, and cook about a minute more. Season with salt, pepper, cumin, and chili powder and stir to coat.",
+      "ingredients_used": [
+        "cca735c9-8f4a-564d-92f1-1f81054aacb0",
+        "8b89e7c3-3824-56c7-84b9-d304b118da1b",
+        "eab93b2e-196e-5f2a-90f4-8c6a4ba340ed"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add black beans and broth. Stir soup, add bay leaf, and bring to a boil. Immediately reduce to a simmer and let simmer until slightly reduced and thickened, 15 to 20 minutes. (If a thinner soup is desired, add more broth as needed.)",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "554856cd-ad58-5478-8e34-b2697c4fe209",
+        "31ce4917-002c-5418-a566-c2410752f4d1"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Remove bay leaf and let cool slightly. Using an immersion blender or food processor, blend soup to desired consistency.",
+      "ingredients_used": [
+        "31ce4917-002c-5418-a566-c2410752f4d1"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Serve with a dollop of sour cream, sliced avocado, and cilantro.",
+      "ingredients_used": [
+        "1fcb58e7-a789-5f04-9008-71ae00cee95a",
+        "4e82bdf5-fdc1-5959-aab6-0d137ff3f1bf",
+        "08dadfab-c750-55ea-b6f0-f9b360224553"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.delish.com/cooking/recipe-ideas/a55504/easy-black-bean-soup-recipe/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

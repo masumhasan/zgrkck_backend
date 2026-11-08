@@ -1,0 +1,212 @@
+{
+  "id": "b7ae6e0c-696f-589b-97a3-af2bd247b52d",
+  "version": "1.0.0",
+  "title": "Cottage Cheese And Feta Stuffed Peppers",
+  "slug": "cottage-cheese-and-feta-stuffed-peppers",
+  "summary": "Red bell peppers stuffed with a creamy mixture of feta and cottage cheese, seasoned with fresh herbs and lemon juice.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:38:48Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53490"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/w0rsga1782683912.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/w0rsga1782683912.jpg/small",
+      "alt_text": "Photo of Cottage Cheese And Feta Stuffed Peppers",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "66ab8d60-8573-56c2-94b7-8a8e8cc659da",
+        "slug": "bulgarian",
+        "name": "Bulgarian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "snack",
+      "breakfast"
+    ],
+    "courses": [
+      "appetizer",
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 10
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 stuffed pepper"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "eef1649d-0249-53c8-a35c-da85060c0db4",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "f06070a1-e389-5db3-bba4-52b0d764652f",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "4 Red Pepper",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2cd21451-1fa6-54cd-bbcc-863dc2f1d20a",
+          "ingredient_id": "c42909a9-37ca-5099-9618-3534369e4dc2",
+          "name": "feta",
+          "display_text": "100g Feta",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "83c25a41-ec07-5f6e-82d6-8b7744fe19d6",
+          "ingredient_id": "947cece6-715c-5336-9344-341b5656b749",
+          "name": "cottage cheese",
+          "display_text": "200g Cottage Cheese",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "820ca73c-4480-522d-a934-6466f6823234",
+          "ingredient_id": "85291054-0b21-5fc5-ac52-86bee20f4bbc",
+          "name": "chives",
+          "display_text": "1 tablespoon chopped Chives",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d4077882-4385-5216-a1f3-46b550c9112e",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "1 tablespoon chopped Parsley",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "c4421b52-89be-5bb4-87bb-1ffe0b1b6a6d",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/4 tsp Salt",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "d2f0d5ff-8027-5809-bf9b-ce3e75aa6372",
+          "ingredient_id": "4020879e-a0a5-58e2-b093-33c7e85c8a08",
+          "name": "lemon juice",
+          "display_text": "1 tablespoon Lemon Juice",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Cut the peppers lengthwise and remove the seeds."
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a bowl combine 3.5 oz (100 grams) Feta cheese, 7 oz (200 grams) cottage cheese, 1 tbsp chopped chives (optional), 1 tbsp chopped parsley (optional), 1/4 tsp salt (more or less to taste) and 1 tbsp lemon juice.",
+      "ingredients_used": [
+        "2cd21451-1fa6-54cd-bbcc-863dc2f1d20a",
+        "83c25a41-ec07-5f6e-82d6-8b7744fe19d6",
+        "820ca73c-4480-522d-a934-6466f6823234",
+        "d4077882-4385-5216-a1f3-46b550c9112e",
+        "c4421b52-89be-5bb4-87bb-1ffe0b1b6a6d",
+        "d2f0d5ff-8027-5809-bf9b-ce3e75aa6372"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Fill the peppers with the mixture. Top with chopped chives and parsley.",
+      "ingredients_used": [
+        "820ca73c-4480-522d-a934-6466f6823234",
+        "d4077882-4385-5216-a1f3-46b550c9112e"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Serve."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://cookinglsl.com/cottage-cheese-stuffed-peppers/#wprm-recipe-container-59383"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

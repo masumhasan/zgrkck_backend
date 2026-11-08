@@ -1,0 +1,201 @@
+{
+  "id": "574d8976-e542-5bdf-ab40-7e009a470380",
+  "version": "1.0.0",
+  "title": "Chorizo & chickpea soup",
+  "slug": "chorizo-chickpea-soup",
+  "summary": "A hearty Spanish-style soup featuring spicy chorizo, chickpeas, and savoy cabbage in a tomato-based broth.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:10:15Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53168"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/kggfo91763288633.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/kggfo91763288633.jpg/small",
+      "alt_text": "Photo of Chorizo & chickpea soup",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=I_oZ8r6VxL4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [
+      "soup"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 6,
+    "total_time_minutes": 16
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of soup with bread"
+  },
+  "allergens": {
+    "contains": [
+      "gluten"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "59e6f6af-9bc1-53b5-b304-52f4bc25d98a",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "d1e9fdae-ab89-5d12-afca-f67bd128ad67",
+          "ingredient_id": "5cf11297-0a5b-55fb-85b2-ff239b80e4f4",
+          "name": "tinned tomatos",
+          "display_text": "400g Tinned Tomatos",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "0243a46a-c974-517c-be95-ce1bccb13c5d",
+          "ingredient_id": "d4235a95-0bb4-579b-8855-bbb8f4efeb46",
+          "name": "chorizo",
+          "display_text": "110g Chorizo",
+          "quantity": 110.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 110.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "599f0f26-1331-5653-a7db-4b77b6d82cb8",
+          "ingredient_id": "655d0b9d-0b82-506e-938d-30fefbf49957",
+          "name": "savoy cabbage",
+          "display_text": "140g Savoy Cabbage",
+          "quantity": 140.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 140.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "e5d7ea6e-793a-52ff-88fa-d498a14f2dbb",
+          "ingredient_id": "25e62537-6a4e-5945-adda-37c29baeffdd",
+          "name": "chilli flakes",
+          "display_text": "Sprinkling Chilli Flakes",
+          "quantity": 1,
+          "unit": "sprinkling",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "cc47732f-7806-56d4-967b-2d89efc61290",
+          "ingredient_id": "ae979dd7-6a1e-5882-9ed5-e0b09554efd0",
+          "name": "chickpeas",
+          "display_text": "400g can Chickpeas",
+          "quantity": 400.0,
+          "unit": "gram",
+          "preparation": "can",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "fae9123d-98bd-5245-854e-e569ed4ef781",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "1 Chicken Stock",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "6afd98aa-5c7b-5fef-b6b4-28ff946dc42a",
+          "ingredient_id": "aea11f92-660c-5997-b6dd-1a0030c1bfef",
+          "name": "crusty bread",
+          "display_text": "To serve Crusty Bread",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "grains_pasta"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Put a medium pan on the heat and tip in the tomatoes, followed by a can of water. While the tomatoes are heating, quickly chop the chorizo into chunky pieces (removing any skin) and shred the cabbage.",
+      "ingredients_used": [
+        "0243a46a-c974-517c-be95-ce1bccb13c5d",
+        "599f0f26-1331-5653-a7db-4b77b6d82cb8"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Pile the chorizo and cabbage into the pan with the chilli flakes and chickpeas, then crumble in the stock cube. Stir well, cover and leave to bubble over a high heat for 6 mins or until the cabbage is just tender. Ladle into bowls and eat with crusty or garlic bread.",
+      "timer_seconds": 360,
+      "ingredients_used": [
+        "0243a46a-c974-517c-be95-ce1bccb13c5d",
+        "599f0f26-1331-5653-a7db-4b77b6d82cb8",
+        "e5d7ea6e-793a-52ff-88fa-d498a14f2dbb",
+        "cc47732f-7806-56d4-967b-2d89efc61290",
+        "6afd98aa-5c7b-5fef-b6b4-28ff946dc42a"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/chorizo-chickpea-soup"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

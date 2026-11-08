@@ -1,0 +1,198 @@
+{
+  "id": "fb0cc132-4b33-559c-b040-f4c5d75d4e82",
+  "version": "1.0.0",
+  "title": "Quick salt & pepper squid",
+  "slug": "quick-salt-pepper-squid",
+  "summary": "A quick seafood dish featuring scored squid seasoned with Chinese five-spice, salt, and pepper, then grilled and served with sweet chilli sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:04:57Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53108"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/cp74zo1762341241.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/cp74zo1762341241.jpg/small",
+      "alt_text": "Photo of Quick salt & pepper squid",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=CxHTj_6sU_A"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6442c74c-e246-57a7-870b-9366b38050a8",
+        "slug": "australian",
+        "name": "Australian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "courses": [
+      "appetizer",
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "weeknight_dinner"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 2,
+    "total_time_minutes": 17
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "portions",
+    "serving_size_description": "one portion of scored squid"
+  },
+  "allergens": {
+    "contains": [
+      "fish",
+      "shellfish",
+      "sesame"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "0535c40b-1e2f-58a9-b8d6-46e11cdbd83b",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "98faa08c-ed04-5ad3-a0c9-d428edc8c42b",
+          "ingredient_id": "99692f34-e6c0-5343-b562-9ea531589faa",
+          "name": "squid",
+          "display_text": "400g Squid",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "seafood"
+        },
+        {
+          "id": "c2ae925c-bd42-5f8d-a320-a3abc4abf735",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "3  tablespoons Oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "3882b73e-f761-5f57-843e-3d0de4bba95e",
+          "ingredient_id": "35d089ee-90eb-5605-8f27-752f4a446869",
+          "name": "chinese five spice powder",
+          "display_text": "1/2 teaspoon Chinese five spice powder",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1423a297-0695-5cda-ac92-bf9d05e16de8",
+          "ingredient_id": "653731ca-07ee-57df-aa38-0f8f2b71ccc6",
+          "name": "sesame seed oil",
+          "display_text": "Dash Sesame Seed Oil",
+          "quantity": 1,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "19b1c11b-e01d-53b6-8c17-b15283b8a2fd",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "Sprigs of fresh Coriander",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "sprigs of fresh",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "427edbb9-0d19-5966-b571-5fdd7187ee17",
+          "ingredient_id": "971d8347-9290-5103-a357-dc6438aa5ef3",
+          "name": "sweet chilli sauce",
+          "display_text": "Drizzle sweet chilli sauce",
+          "quantity": 1,
+          "unit": "drizzle",
+          "is_optional": false,
+          "category": "condiments"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Ask the fishmonger to clean the squid; little ones often come ready-cleaned. Using kitchen scissors, cut open the body and open out. Wash well, then pat dry. If you have a large squid, cut the body into four portions, roughly square. Small squid can just be opened up.",
+      "ingredients_used": [
+        "98faa08c-ed04-5ad3-a0c9-d428edc8c42b"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Using the tip of a very sharp knife, score the top in a neat criss-cross. Brush with oil and set aside while you heat the barbecue or griddle until ready to cook.",
+      "ingredients_used": [
+        "c2ae925c-bd42-5f8d-a320-a3abc4abf735"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Mix together 2 tsp sea salt, Chinese five-spice and 1 tsp freshly ground black pepper. Sprinkle on both sides of the squid just before cooking, according to taste. You may not need it all. Heat the griddle pan to hot and cook about 1 min each side, until it starts to curl. Remove with tongs to a serving plate and drizzle with a little sesame oil. To serve, garnish with coriander leaves and serve with small bowls of sweet chilli sauce to dip into.",
+      "timer_seconds": 60,
+      "ingredients_used": [
+        "98faa08c-ed04-5ad3-a0c9-d428edc8c42b",
+        "c2ae925c-bd42-5f8d-a320-a3abc4abf735",
+        "19b1c11b-e01d-53b6-8c17-b15283b8a2fd",
+        "427edbb9-0d19-5966-b571-5fdd7187ee17"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/salt-pepper-squid-0"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

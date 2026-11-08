@@ -1,0 +1,218 @@
+{
+  "id": "093f5467-687f-5ee6-bf8a-fb3429dd254e",
+  "version": "1.0.0",
+  "title": "Toad In The Hole",
+  "slug": "toad-in-the-hole",
+  "summary": "A classic British dish consisting of sausages baked in a large, airy Yorkshire pudding batter, often served with gravy.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:40:26Z",
+  "updated_at": "2026-10-16T10:22:46Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52822"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ytuvwr1503070420.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ytuvwr1503070420.jpg/small",
+      "alt_text": "Photo of Toad In The Hole",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=t1dWkDrC330"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 35,
+    "total_time_minutes": 45
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "2 sausages with batter and tomatoes"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "fc69a4d5-f3ae-53f5-bb2d-bc5b3403f463",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "40442b47-713b-5ed9-8d02-6d876d08acda",
+          "ingredient_id": "0e53b5a4-2ff0-53fb-a8ef-b53dca6ce663",
+          "name": "sausages",
+          "display_text": "8 sausages",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "604c9479-f0a8-57e2-a384-c790a4464196",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "3 tbsp vegetable oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "210facad-ed8c-577d-979c-babd71c4e7bf",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "100g plain flour",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "af8d3214-51ac-5190-853c-475cc7898603",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "2 medium eggs",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "8f15ce76-75d3-5331-aa01-3f072526b4e6",
+          "ingredient_id": "98ed021c-cb84-56c2-a367-98ab900b94e3",
+          "name": "horseradish",
+          "display_text": "1 tbsp grated horseradish",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "preparation": "grated",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "21c09b80-a7f9-5348-b1fd-b0dc66dc9c6c",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "225ml milk",
+          "quantity": 225.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 225.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "a272b323-50d8-53e6-9995-4449c6506576",
+          "ingredient_id": "041e90f7-87c0-5883-b651-a9f26dce39b7",
+          "name": "cherry tomatoes",
+          "display_text": "200g cherry tomatoes",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat the oven to 200°C/fan180°C/gas 6. fry sausages in a non-stick pan until browned.",
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "40442b47-713b-5ed9-8d02-6d876d08acda"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Drizzle vegetable oil in a 30cm x 25cm x 6cm deep roasting tray and heat in the oven for 5 minutes.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "604c9479-f0a8-57e2-a384-c790a4464196"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Put the plain flour in a bowl, crack in the medium free-range eggs, then stir in the grated horseradish. Gradually beat in the semi-skimmed milk. Season.",
+      "ingredients_used": [
+        "210facad-ed8c-577d-979c-babd71c4e7bf",
+        "af8d3214-51ac-5190-853c-475cc7898603",
+        "8f15ce76-75d3-5331-aa01-3f072526b4e6",
+        "21c09b80-a7f9-5348-b1fd-b0dc66dc9c6c"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Put the sausages into the hot roasting tray and pour over the batter. Top with cherry tomatoes on the vine and cook for 30 minutes until puffed and golden.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "40442b47-713b-5ed9-8d02-6d876d08acda",
+        "a272b323-50d8-53e6-9995-4449c6506576"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://www.deliciousmagazine.co.uk/recipes/georgina-fuggles-horseradish-and-vine-tomato-toad-in-the-hole/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

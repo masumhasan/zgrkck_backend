@@ -1,0 +1,210 @@
+{
+  "id": "57ae6a3b-caca-52cc-af8c-e7ccac0fc9ad",
+  "version": "1.0.0",
+  "title": "Rømmegrøt – Norwegian Sour Cream Porridge",
+  "slug": "rmmegrt-norwegian-sour-cream-porridge",
+  "summary": "A traditional Norwegian porridge made by cooking sour cream and flour until the fat separates, then thickening with milk.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:05:53Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53118"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/hyk47c1762772689.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/hyk47c1762772689.jpg/small",
+      "alt_text": "Photo of Rømmegrøt – Norwegian Sour Cream Porridge",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=v4rIJOWXM3w"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "56e78dbc-276d-5104-bca5-2bb213b93a49",
+        "slug": "norwegian",
+        "name": "Norwegian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "dessert"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 15
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of porridge"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "e6972f5d-07ce-57bf-86c1-7ef1dca573ee",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "743b0995-0386-535a-832e-fa11a6414a33",
+          "ingredient_id": "288913e0-9452-5825-bb41-6d94a0b92505",
+          "name": "full fat sour cream",
+          "display_text": "2 cups Full fat sour cream",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "48e48570-e0b0-556d-904a-d677f497810c",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "3/4 cup Flour",
+          "quantity": 0.75,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 180.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "ede2328e-f144-533c-953f-04589d68489f",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "2 cups Milk",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "32355728-e8ad-5e9a-bbe2-9fdcfb0cfbe8",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "53dc1b20-31c6-551d-9dd0-44c25b68b171",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "Sprinkling Sugar",
+          "quantity": 1,
+          "unit": "sprinkling",
+          "is_optional": false,
+          "category": "sweeteners"
+        },
+        {
+          "id": "d52e3fe9-b71c-574b-8435-f81da75d12e2",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "Sprinkling Cinnamon",
+          "quantity": 1,
+          "unit": "sprinkling",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "b05c8f08-bcf2-5ccc-9455-b8990f486175",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "To taste Butter",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Cook the sour cream in a covered saucepan on medium heat for about 5 minutes.",
+      "timer_seconds": 300
+    },
+    {
+      "step_number": 2,
+      "instruction": "Turn down the heat and add half of the flour and stir well with a whisk. Once the flour is fully incorporated, let the mixture continue to cook, stirring occasionally, until fat starts to release. Use a spoon to gather as much of the fat as you can in a small bowl, saving for later. (Don't worry if you can't get any fat – in that case you can add butter later.)",
+      "ingredients_used": [
+        "48e48570-e0b0-556d-904a-d677f497810c",
+        "b05c8f08-bcf2-5ccc-9455-b8990f486175"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Whisk in the rest of the flour and then slowly add the milk, whisking constantly to avoid lumps. Let the porridge continue to cook on low heat for 5 minutes and then add salt.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "48e48570-e0b0-556d-904a-d677f497810c",
+        "ede2328e-f144-533c-953f-04589d68489f",
+        "32355728-e8ad-5e9a-bbe2-9fdcfb0cfbe8"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Serve with sugar, cinnamon, and the fat from the porridge. If you're using lower fat sour cream you can top the rømmegrøt with some butter instead.",
+      "ingredients_used": [
+        "53dc1b20-31c6-551d-9dd0-44c25b68b171",
+        "d52e3fe9-b71c-574b-8435-f81da75d12e2",
+        "b05c8f08-bcf2-5ccc-9455-b8990f486175"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://scandinaviancookbook.com/rommegrot-norwegian-sour-cream-porridge/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

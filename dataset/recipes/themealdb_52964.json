@@ -1,0 +1,320 @@
+{
+  "id": "15a27d96-fb61-5710-934b-421922526541",
+  "version": "1.0.0",
+  "title": "Smoked Haddock Kedgeree",
+  "slug": "smoked-haddock-kedgeree",
+  "summary": "A traditional Anglo-Indian breakfast dish consisting of flaked smoked fish, hard-boiled eggs, and spiced basmati rice.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:53:09Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52964"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/1550441275.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/1550441275.jpg/small",
+      "alt_text": "Photo of Smoked Haddock Kedgeree",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=QqdzDCWS4gQ"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b2b4e1bc-3c1e-50ce-abf4-9015553e6a16",
+        "slug": "indian",
+        "name": "Indian"
+      }
+    ],
+    "tags": [
+      "brunch",
+      "fish",
+      "fusion"
+    ],
+    "meal_types": [
+      "breakfast",
+      "brunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 35,
+    "total_time_minutes": 50
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a large bowl of rice with fish and egg"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "eggs",
+      "fish"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "0a9d8fb7-b692-57c1-8faa-a7e6d3032666",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "c1852a3d-7bd7-5311-be96-f469fbb15e3e",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "50g Butter",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "5e655b92-7d60-59de-ab20-4cccb2aad0b9",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ea4028d1-c303-5fb6-b0d5-3d129673f938",
+          "ingredient_id": "d72c12ae-5cbc-534c-bbd5-bc044d844d0a",
+          "name": "cardamom",
+          "display_text": "3 Pods Cardamom",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "pods",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "60b32d28-e4e8-5db6-b2d5-591a3ba43045",
+          "ingredient_id": "ab4d5e50-1105-53e2-be29-49b042b3d7fb",
+          "name": "turmeric",
+          "display_text": "1/4 tsp Turmeric",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "4da26ffc-f51e-5307-b1f0-7a1459844fb5",
+          "ingredient_id": "815267d7-ad8f-543a-b885-c3fdabdc63fb",
+          "name": "cinnamon stick",
+          "display_text": "1 small Cinnamon Stick",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "660e27e4-0148-5ac7-8947-7609a9b3758e",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "Sprigs of fresh Bay Leaf",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "sprigs of fresh",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "2f72c140-77e5-50c1-974c-4f929f22861f",
+          "ingredient_id": "83ffb65f-48c4-5295-bd29-b97975a1fcb1",
+          "name": "basmati rice",
+          "display_text": "450g Basmati Rice",
+          "quantity": 450.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "45d6ce6b-a7ce-5920-b910-286850dd0ddc",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "1 Liter Chicken Stock",
+          "quantity": 1.0,
+          "unit": "liter",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "liter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "782cfea7-443d-58eb-b0e5-ed29f231d6bf",
+          "ingredient_id": "8a36d527-b02f-5ec9-8866-59950c2f55e6",
+          "name": "smoked haddock",
+          "display_text": "750g Smoked Haddock",
+          "quantity": 750.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 750.0,
+          "metric_unit": "gram",
+          "category": "fish"
+        },
+        {
+          "id": "2077dc20-6e95-54b8-a64f-e4bd886e959c",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "3 Eggs",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "3d5fde13-6727-5784-bff6-9f6cb4a2cbc7",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "3 tblsp chopped Parsley",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "preparation": "chopped",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "2deeba20-724f-5500-987e-a749f057b371",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "1 chopped Lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Melt 50g butter in a large saucepan (about 20cm across), add 1 finely chopped medium onion and cook gently over a medium heat for 5 minutes, until softened but not browned.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "c1852a3d-7bd7-5311-be96-f469fbb15e3e",
+        "5e655b92-7d60-59de-ab20-4cccb2aad0b9"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Stir in 3 split cardamom pods, ¼ tsp turmeric, 1 small cinnamon stick and 2 bay leaves, then cook for 1 minute.",
+      "timer_seconds": 60,
+      "ingredients_used": [
+        "ea4028d1-c303-5fb6-b0d5-3d129673f938",
+        "60b32d28-e4e8-5db6-b2d5-591a3ba43045",
+        "4da26ffc-f51e-5307-b1f0-7a1459844fb5"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Tip in 450g basmati rice and stir until it is all well coated in the spicy butter.",
+      "ingredients_used": [
+        "c1852a3d-7bd7-5311-be96-f469fbb15e3e",
+        "2f72c140-77e5-50c1-974c-4f929f22861f"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Pour in 1 liter chicken or fish stock, add ½ teaspoon salt and bring to the boil, stir once to release any rice from the bottom of the pan. Cover with a close-fitting lid, reduce the heat to low and leave to cook very gently for 12 minutes.",
+      "timer_seconds": 720,
+      "ingredients_used": [
+        "2f72c140-77e5-50c1-974c-4f929f22861f"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Meanwhile, bring some water to the boil in a large shallow pan. Add 750g un-dyed smoked haddock fillet and simmer for 4 minutes, until the fish is just cooked. Lift it out onto a plate and leave until cool enough to handle.",
+      "timer_seconds": 240,
+      "ingredients_used": [
+        "782cfea7-443d-58eb-b0e5-ed29f231d6bf"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Hard-boil 3 eggs for 8 minutes.",
+      "timer_seconds": 480,
+      "ingredients_used": [
+        "2077dc20-6e95-54b8-a64f-e4bd886e959c"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Flake the fish, discarding any skin and bones. Drain the eggs, cool slightly, then peel and chop.",
+      "ingredients_used": [
+        "2077dc20-6e95-54b8-a64f-e4bd886e959c"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Uncover the rice and remove the bay leaves, cinnamon stick and cardamom pods if you wish to. Gently fork in the fish and the chopped eggs, cover again and return to the heat for 2-3 minutes, or until the fish has heated through.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "ea4028d1-c303-5fb6-b0d5-3d129673f938",
+        "4da26ffc-f51e-5307-b1f0-7a1459844fb5",
+        "2f72c140-77e5-50c1-974c-4f929f22861f",
+        "2077dc20-6e95-54b8-a64f-e4bd886e959c"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Gently stir in almost all the 3 tbsp chopped fresh parsley, and season with a little salt and black pepper to taste. Serve scattered with the remaining parsley and garnished with 1 lemon, cut into wedges.",
+      "ingredients_used": [
+        "3d5fde13-6727-5784-bff6-9f6cb4a2cbc7",
+        "2deeba20-724f-5500-987e-a749f057b371"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/2256/smoked-haddock-kedgeree"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

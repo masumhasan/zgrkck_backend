@@ -1,0 +1,217 @@
+{
+  "id": "f1ae17bf-fba5-5acc-8f4c-1a05c42b618a",
+  "version": "1.0.0",
+  "title": "Crispy Eggplant",
+  "slug": "crispy-eggplant",
+  "summary": "Crispy eggplant slices coated in breadcrumbs and sesame seeds, then fried until golden brown. This Filipino-style dish uses a salt-soaking technique to reduce bitterness.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:02:11Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53072"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/c7lzrl1683208757.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/c7lzrl1683208757.jpg/small",
+      "alt_text": "Photo of Crispy Eggplant",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=4mINk5d2hto"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "3e1a78f5-e83e-5b97-a090-8a1e2d2271a8",
+        "slug": "filipino",
+        "name": "Filipino"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "lunch",
+      "dinner",
+      "dessert"
+    ],
+    "courses": [
+      "side_dish",
+      "appetizer"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 6,
+    "marinating_time_minutes": 30,
+    "total_time_minutes": 46
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of eggplant slices"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "eggs",
+      "sesame"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "1fa9204f-ca5c-5ba9-a6bb-39504bbf81d9",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "d08955fa-ead5-569b-9728-ec6ee31aa12a",
+          "ingredient_id": "08b505fe-2af9-5025-98f3-845df35333e6",
+          "name": "egg plants",
+          "display_text": "1 large Egg Plants",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "76bc80b8-10cd-5bd0-8af3-281bd3d56a2b",
+          "ingredient_id": "00efa231-6d81-5c88-91fa-b330117cc5f4",
+          "name": "breadcrumbs",
+          "display_text": "1 cup Breadcrumbs",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "fdd52ee3-e7f3-5261-b1df-9ccae9de31b2",
+          "ingredient_id": "d5403c00-b586-53a5-a77f-fac320f14278",
+          "name": "sesame seed",
+          "display_text": "50g Sesame Seed",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d70fd6a3-5c90-5b05-a975-5b3ca80ab918",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "2 Eggs",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "68fffb11-d826-5504-a3e7-c4a5935a3908",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "92731963-b233-5d45-80f3-ac1c60a8df74",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "To taste Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "7c677325-9755-56bc-8b75-26bd55a66f59",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "For frying Vegetable Oil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "for frying",
+          "is_optional": false,
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Slice eggplant into 1 cm (0.4-inch) slices. Place them in a bowl and sprinkle them with salt. allow them to sit for 30 minutes to render some of their liquid and bitterness.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "68fffb11-d826-5504-a3e7-c4a5935a3908"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "After 30 minutes wash eggplant slices from salt and pat dry with a kitchen towel.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "68fffb11-d826-5504-a3e7-c4a5935a3908"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "In a large bowl/plate place breadcrumbs and sesame seeds. In another bowl beat 2 eggs with pinch salt and pepper.",
+      "ingredients_used": [
+        "76bc80b8-10cd-5bd0-8af3-281bd3d56a2b",
+        "fdd52ee3-e7f3-5261-b1df-9ccae9de31b2",
+        "d70fd6a3-5c90-5b05-a975-5b3ca80ab918",
+        "68fffb11-d826-5504-a3e7-c4a5935a3908",
+        "92731963-b233-5d45-80f3-ac1c60a8df74"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Heal oil in a large skillet over high heat."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Dip eggplant slices in egg, then in crumbs, and place in hot oil. Fry 2 to 3 minutes on each side, or until golden brown. Drain on a paper towel.",
+      "timer_seconds": 180
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://yummyfood.ph/recipe/crispiest-fried-eggplant/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

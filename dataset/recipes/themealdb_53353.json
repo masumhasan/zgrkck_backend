@@ -1,0 +1,219 @@
+{
+  "id": "1a090760-9c70-5c94-9413-d386f055a2e2",
+  "version": "1.0.0",
+  "title": "Jamaican Boiled Dumplings",
+  "slug": "jamaican-boiled-dumplings",
+  "summary": "A traditional Jamaican side dish consisting of dense, boiled dough disks made from flour and water.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:26:54Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53353"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/tsdbcq1764795636.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/tsdbcq1764795636.jpg/small",
+      "alt_text": "Photo of Jamaican Boiled Dumplings",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=RhUxdkYIHPY"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "2dfec5c8-490a-551c-9d2f-e8e21f706bda",
+        "slug": "jamaican",
+        "name": "Jamaican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "2-3 dumplings"
+  },
+  "allergens": {
+    "contains": [
+      "gluten"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "d154e32b-6763-5dca-ae2e-69379964a88c",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "631822ad-1b55-5953-a656-5e17481c673d",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "8 cups Water",
+          "quantity": 8.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 1920.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "a0efa4f3-dd6b-506d-ae24-c4d32c9dfdfb",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/2 tbs Salt",
+          "quantity": 0.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 7.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "97d95ffa-7fe8-535e-af37-1195bbb36bb5",
+          "ingredient_id": "d1e5ec78-b8c2-5649-962c-a9f67272ea92",
+          "name": "all purpose flour",
+          "display_text": "2 cups All purpose flour",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "eef390cd-0e01-5c4d-b817-b2438b09ba07",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "df3b867b-7482-5762-8235-526cf1850ab4",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1/2 cup Water",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Instructions"
+    },
+    {
+      "step_number": 2,
+      "instruction": "In a large pot, bring water and salt to a boil to boil the dumplings.",
+      "ingredients_used": [
+        "631822ad-1b55-5953-a656-5e17481c673d",
+        "a0efa4f3-dd6b-506d-ae24-c4d32c9dfdfb",
+        "eef390cd-0e01-5c4d-b817-b2438b09ba07",
+        "df3b867b-7482-5762-8235-526cf1850ab4"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "In a large mixing bowl, combine the all-purpose flour and salt, stirring to distribute the salt evenly throughout the flour. Gradually add water to the flour mixture, mixing with your hands until a dough forms.",
+      "ingredients_used": [
+        "631822ad-1b55-5953-a656-5e17481c673d",
+        "a0efa4f3-dd6b-506d-ae24-c4d32c9dfdfb",
+        "eef390cd-0e01-5c4d-b817-b2438b09ba07",
+        "df3b867b-7482-5762-8235-526cf1850ab4"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Divide the dough into equal-sized pieces, rolling each into a smooth ball. Flatten each ball slightly with the palm of your hand to form a round, circular dumpling. It should look like a thick disk."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Carefully drop the dumplings into the boiling water, one at a time, ensuring that they don't stick together. You can use a wooden spoon to stir the dumplings in the water.",
+      "ingredients_used": [
+        "631822ad-1b55-5953-a656-5e17481c673d",
+        "df3b867b-7482-5762-8235-526cf1850ab4"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Boil the dumplings for 15-20 minutes, or until they are cooked through and have risen to the surface of the water. Stir occasionally to prevent sticking.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "631822ad-1b55-5953-a656-5e17481c673d",
+        "df3b867b-7482-5762-8235-526cf1850ab4"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Use a slotted spoon to remove the cooked dumplings from the pot, allowing any excess water to drain.",
+      "ingredients_used": [
+        "631822ad-1b55-5953-a656-5e17481c673d",
+        "df3b867b-7482-5762-8235-526cf1850ab4"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Serve with your favorite recipes."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.myforkinglife.com/jamaican-boiled-dumplings/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

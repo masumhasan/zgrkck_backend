@@ -1,0 +1,257 @@
+{
+  "id": "61e189eb-d1ea-50e0-9f18-2e13cb1db1d8",
+  "version": "1.0.0",
+  "title": "Chicken Quinoa Greek Salad",
+  "slug": "chicken-quinoa-greek-salad",
+  "summary": "A Mediterranean-inspired salad featuring grilled chicken breast served over a base of quinoa, olives, red onion, and feta cheese, seasoned with lemon and mint.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:56:42Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53011"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/k29viq1585565980.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/k29viq1585565980.jpg/small",
+      "alt_text": "Photo of Chicken Quinoa Greek Salad",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=akcrkXYr61M"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "de767d0c-ee8d-59a9-8d05-02b9ae12a1ac",
+        "slug": "greek",
+        "name": "Greek"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 35
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 chicken breast with quinoa salad"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "c9ca66ef-a5bd-5819-8a30-5eea39d4969d",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "a30893db-bc76-5785-a718-bddf7822ed0e",
+          "ingredient_id": "aedecca6-4df3-5fc3-b84e-14a1b6433b77",
+          "name": "quinoa",
+          "display_text": "225g Quinoa",
+          "quantity": 225.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 225.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "96c91393-006e-539e-a696-f67b3f0b452a",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "25g Butter",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "3fd1e2a2-9b2c-5beb-a12b-b9de24979fb5",
+          "ingredient_id": "19497a2d-f7e9-5ffe-97fd-014f2f961aef",
+          "name": "red chilli",
+          "display_text": "1 chopped Red Chilli",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ca43dc68-9866-5cca-bce9-8711be72ad59",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove finely chopped Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "preparation": "finely chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e5d4a37e-e78b-5962-8ce1-fbaa32682a31",
+          "ingredient_id": "e23191a1-4966-5b21-a6f1-8df6f50b79db",
+          "name": "chicken breast",
+          "display_text": "400g Chicken Breast",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "poultry"
+        },
+        {
+          "id": "9cb0f719-6f59-5d9f-8f6e-8779bea11447",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tbs Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "702bb513-ad34-555c-82f6-ec8fdd2b5007",
+          "ingredient_id": "e0970f8f-509c-5d2f-a8b2-85ecb22b5660",
+          "name": "black olives",
+          "display_text": "Handful Black Olives",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "665d8a4d-d986-5930-b5bf-21449b471442",
+          "ingredient_id": "716f7639-3b59-56a7-9146-1819649ebdad",
+          "name": "red onions",
+          "display_text": "1 chopped Red Onions",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d955797a-f79e-5e96-95db-abb0a8d42842",
+          "ingredient_id": "c42909a9-37ca-5099-9618-3534369e4dc2",
+          "name": "feta",
+          "display_text": "100g Feta",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "00f43f2d-6b8d-5550-9607-476bf982d2df",
+          "ingredient_id": "0e838047-684d-55cb-884e-e7872e0e96c4",
+          "name": "mint",
+          "display_text": "Chopped Mint",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "927f3942-fe3b-5879-bfca-28fb4d8bda8c",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "Juice of 1/2 Lemon",
+          "quantity": 0.5,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Cook the quinoa following the pack instructions, then rinse in cold water and drain thoroughly.",
+      "ingredients_used": [
+        "a30893db-bc76-5785-a718-bddf7822ed0e"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Meanwhile, mix the butter, chilli and garlic into a paste. Toss the chicken fillets in 2 tsp of the olive oil with some seasoning. Lay in a hot griddle pan and cook for 3-4 mins each side or until cooked through. Transfer to a plate, dot with the spicy butter and set aside to melt.",
+      "timer_seconds": 240,
+      "ingredients_used": [
+        "96c91393-006e-539e-a696-f67b3f0b452a",
+        "3fd1e2a2-9b2c-5beb-a12b-b9de24979fb5",
+        "ca43dc68-9866-5cca-bce9-8711be72ad59",
+        "9cb0f719-6f59-5d9f-8f6e-8779bea11447"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Next, tip the tomatoes, olives, onion, feta and mint into a bowl. Toss in the cooked quinoa. Stir through the remaining olive oil, lemon juice and zest, and season well. Serve with the chicken fillets on top, drizzled with any buttery chicken juices.",
+      "ingredients_used": [
+        "a30893db-bc76-5785-a718-bddf7822ed0e",
+        "96c91393-006e-539e-a696-f67b3f0b452a",
+        "9cb0f719-6f59-5d9f-8f6e-8779bea11447",
+        "702bb513-ad34-555c-82f6-ec8fdd2b5007",
+        "d955797a-f79e-5e96-95db-abb0a8d42842",
+        "00f43f2d-6b8d-5550-9607-476bf982d2df",
+        "927f3942-fe3b-5879-bfca-28fb4d8bda8c"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/griddled-chicken-quinoa-greek-salad"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

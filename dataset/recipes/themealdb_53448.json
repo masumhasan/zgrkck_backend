@@ -1,0 +1,246 @@
+{
+  "id": "c5b16b2a-2e69-56ea-9d6e-fc5a12fea374",
+  "version": "1.0.0",
+  "title": "Tendir Choreyi (Tandoori Bread)",
+  "slug": "tendir-choreyi-tandoori-bread",
+  "summary": "Tendir Choreyi is an Azerbaijani-style bread traditionally cooked in a tandoor oven, though this version is adapted for a standard oven. It features a distinctive crosshatched pattern on top, brushed with egg yolk and sprinkled with poppy seeds.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:35:02Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53448"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/5mfmh01780158856.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/5mfmh01780158856.jpg/small",
+      "alt_text": "Photo of Tendir Choreyi (Tandoori Bread)",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4009f6eb-c732-5ba2-99bc-1e7c9f7e30cb",
+        "slug": "azerbaijani",
+        "name": "Azerbaijani"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "snack",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 25,
+    "rest_time_minutes": 90,
+    "total_time_minutes": 130
+  },
+  "yield": {
+    "servings": 1,
+    "serving_unit": "pieces"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "30f8113b-b16b-51ec-924e-c67481e392bf",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "018b949f-1984-5309-b9d1-9ecd050de9cc",
+          "ingredient_id": "28b21302-909b-59d3-a88f-a543e26ac34f",
+          "name": "yeast",
+          "display_text": "2 1/2 Tsp Yeast",
+          "quantity": 2.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 12.5,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "b5f06de7-67fa-5445-a55e-6d512c2efab0",
+          "ingredient_id": "390767a5-b5bd-56c6-93dd-03bf9dcc5356",
+          "name": "warm water",
+          "display_text": "1 1/2 cups Warm Water",
+          "quantity": 1.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 360.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "af2e9f00-8119-5ea7-8895-924443c6f052",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "d2a184bd-62fb-5174-90e9-78f67690b2ed",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "3 Cups Flour",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "cf2edfea-a9e5-5b67-803e-30242e264914",
+          "ingredient_id": "051a3118-01a4-5366-a922-19ecf618e2f9",
+          "name": "egg yolks",
+          "display_text": "For brushing Egg Yolks",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "for brushing",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "5c2b2d08-9524-521f-a94c-5739bd6f43ca",
+          "ingredient_id": "f4457ead-8545-546a-9caf-3192f0103aea",
+          "name": "poppy seeds",
+          "display_text": "1 tsp Poppy Seeds",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "nuts_seeds"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "First a quick note about tandoori bread (or tandoori anything, really). The name comes from the clay oven, or \"tandoor\" that it is traditionally cooked in, and you will never be able to duplicate the flavor of any tandoori recipe without one of those ovens, no matter how hard you try. Now, a tandoor oven is actually a part of my dream kitchen (I love naan bread and tandoori chicken) but I don't have one in my current kitchen, so this bread just goes in a plain oven, which makes it not very authentic. However, this is how an Azerbaijani stranded in the US would make a tandoori bread, so I guess I don't feel too bad about including it in my meal."
+    },
+    {
+      "step_number": 2,
+      "instruction": "The ingredients for this bread are roughly similar to the ingredients for a basic french bread, but the shape is different and it is topped with poppy seeds which actually makes it quite beautiful in appearance. In fact this bread is quite possibly the most beautiful thing I've ever baked (my cakes certainly don't fall into that category).",
+      "ingredients_used": [
+        "5c2b2d08-9524-521f-a94c-5739bd6f43ca"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "So as always I used my bread machine, but this time I didn't proof the yeast first. I just put it in the little yeast dispenser at the top of my machine, then added the water, flour and salt to the bucket. I put it on the dough cycle and then went and picked my kids up from school.",
+      "ingredients_used": [
+        "018b949f-1984-5309-b9d1-9ecd050de9cc",
+        "af2e9f00-8119-5ea7-8895-924443c6f052",
+        "d2a184bd-62fb-5174-90e9-78f67690b2ed"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "This bread uses very basic ingredients, including bread flour and salt.",
+      "ingredients_used": [
+        "af2e9f00-8119-5ea7-8895-924443c6f052",
+        "d2a184bd-62fb-5174-90e9-78f67690b2ed"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "If you want to do it the old-fashioned way:"
+    },
+    {
+      "step_number": 6,
+      "instruction": "Mix the yeast with the water and let stand for a few minutes. Then sift the flour with the salt into a large bowl. Gradually add the water and yeast and mix with your hand until the dough forms a ball.",
+      "ingredients_used": [
+        "018b949f-1984-5309-b9d1-9ecd050de9cc",
+        "af2e9f00-8119-5ea7-8895-924443c6f052",
+        "d2a184bd-62fb-5174-90e9-78f67690b2ed"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Turn out onto a lightly floured surface. Knead the dough for 8 to 10 minutes, or until it is smooth. Put it in a large bowl and cover, then let it rise in a warm spot until doubled (this typically takes 1 to 1 1/2 hours)."
+    },
+    {
+      "step_number": 8,
+      "instruction": "The dough after it has risen."
+    },
+    {
+      "step_number": 9,
+      "instruction": "Punch down and turn out onto a lightly floured surface. Stretch the dough until it is an oblong shape, then with a rolling pin roll it until it is about 1/2 inch thick. Transfer to a greased or non-stick baking sheet and let stand for another 15 minutes.",
+      "timer_seconds": 900
+    },
+    {
+      "step_number": 10,
+      "instruction": "After stretching and rolling, your dough should be roughly this shape."
+    },
+    {
+      "step_number": 11,
+      "instruction": "Cut crosshatches in the top of the dough, about four in either direction. Brush with the beaten egg yolk (I mixed mine with a little bit of water to make it easier to work with) and sprinkle with poppy seeds.",
+      "ingredients_used": [
+        "5c2b2d08-9524-521f-a94c-5739bd6f43ca"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Crosshatches, egg wash and poppy seeds give this bread its distinctive look.",
+      "ingredients_used": [
+        "5c2b2d08-9524-521f-a94c-5739bd6f43ca"
+      ]
+    },
+    {
+      "step_number": 13,
+      "instruction": "Bake in a preheated oven at about 400 degrees for 20 to 25 minutes, until golden on top",
+      "timer_seconds": 1500
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://travelbystove.blogspot.com/2012/01/recipes-from-azerbaijani.html"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "id": "08bc91d4-4ec1-5cfd-bfd8-c3997aa12c3c",
+  "version": "1.0.0",
+  "title": "Callaloo and SaltFish",
+  "slug": "callaloo-and-saltfish",
+  "summary": "A traditional Jamaican dish consisting of shredded salt cod sautéed with callaloo, bacon, and aromatic vegetables.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:27:28Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53361"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/73o3vq1765317873.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/73o3vq1765317873.jpg/small",
+      "alt_text": "Photo of Callaloo and SaltFish",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=n1fRCk-zTRM"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "2dfec5c8-490a-551c-9d2f-e8e21f706bda",
+        "slug": "jamaican",
+        "name": "Jamaican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast",
+      "brunch"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 portion of callaloo and saltfish"
+  },
+  "allergens": {
+    "contains": [
+      "fish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "aa33681c-9ba8-5d30-86c4-8229d50c7417",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "a01927d9-cb1e-5297-a376-e5797115f3c9",
+          "ingredient_id": "06385c78-0e19-5144-946a-22bd05df2c78",
+          "name": "salt cod",
+          "display_text": "1/2 lb Salt Cod",
+          "quantity": 0.5,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 226.8,
+          "metric_unit": "gram",
+          "category": "seasoning"
+        },
+        {
+          "id": "bf9b2338-638b-5ec4-8da9-a0f54ad28ef0",
+          "ingredient_id": "956cfefc-d0f9-5c1f-9f20-d38a1e4dbdad",
+          "name": "bacon",
+          "display_text": "4 Bacon",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "1e8bb1f4-9c18-5bb7-b5c5-2bc8c8be25d2",
+          "ingredient_id": "54e0239e-bea4-584e-96d9-421a2a76387d",
+          "name": "callaloo",
+          "display_text": "525g Callaloo",
+          "quantity": 525.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 525.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "2a6de8ab-07a6-5b63-931c-ca910b6683b9",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "a83ef025-eea1-52ef-aeed-11ee90e4ea36",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "2 chopped Spring Onions",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "76d5984e-3a21-5347-8a18-5888bf520abe",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves minced Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "minced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "11633248-04b3-5b5a-bacc-925b5c8aa8d5",
+          "ingredient_id": "cfe71375-907d-57ad-936c-b27b60946f4e",
+          "name": "scotch bonnet",
+          "display_text": "1 chopped Scotch Bonnet",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "cadc58de-73cb-5525-8f7d-051d4e5a0ec1",
+          "ingredient_id": "eef09ba5-f0a8-5d2e-a676-6a71ab7f1fab",
+          "name": "plum tomatoes",
+          "display_text": "2 chopped Plum Tomatoes",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "401af12f-22dd-522a-9653-41a4b2f644bf",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "2 sprigs Thyme",
+          "quantity": 2.0,
+          "unit": "sprig",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "9cd5725d-77ba-58fb-aeaa-c402a53f053e",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1/4 tsp Black Pepper",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Soak salted fish in water overnight. Next, heat salted fish in water on stove until water boils. You should see a foam on top. Remove from heat and drain. Set aside and shred salted fish once it cools."
+    },
+    {
+      "step_number": 2,
+      "instruction": "Cook bacon in skillet over medium heat until crispy. Remove bacon from heat and drain the majority of the bacon grease, leaving about 1 tablespoon in the skillet.",
+      "ingredients_used": [
+        "bf9b2338-638b-5ec4-8da9-a0f54ad28ef0"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add yellow onion, green onion, scotch bonnet pepper, and garlic to the skillet and stir. Cook for about 2 minutes or until onions soften. Add salted fish to skillet and stir. Cook for about a minute.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "2a6de8ab-07a6-5b63-931c-ca910b6683b9",
+        "a83ef025-eea1-52ef-aeed-11ee90e4ea36",
+        "76d5984e-3a21-5347-8a18-5888bf520abe",
+        "11633248-04b3-5b5a-bacc-925b5c8aa8d5"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Next, add callaloo, roma tomatoes, thyme, and black pepper. Stir to combine and cook until heated through, about 2 minutes.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "1e8bb1f4-9c18-5bb7-b5c5-2bc8c8be25d2",
+        "cadc58de-73cb-5525-8f7d-051d4e5a0ec1",
+        "401af12f-22dd-522a-9653-41a4b2f644bf",
+        "9cd5725d-77ba-58fb-aeaa-c402a53f053e"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Enjoy"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.myforkinglife.com/callaloo-and-saltfish/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

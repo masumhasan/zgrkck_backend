@@ -1,0 +1,289 @@
+{
+  "id": "939b4829-3a98-52f2-b2df-45e7208d0605",
+  "version": "1.0.0",
+  "title": "Cream Cheese Tart",
+  "slug": "cream-cheese-tart",
+  "summary": "A savory tart featuring a shortcrust pastry filled with a creamy mixture of cream cheese, milk, eggs, and parmesan, topped with balsamic-style marinated tomatoes.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:37:10Z",
+  "updated_at": "2026-10-16T10:22:43Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52779"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/wurrux1468416624.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/wurrux1468416624.jpg/small",
+      "alt_text": "Photo of Cream Cheese Tart",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=UhQPwO4uymo"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b95bb9d4-1e18-5623-a50f-942c7d140e82",
+        "slug": "american",
+        "name": "American"
+      }
+    ],
+    "tags": [
+      "cheesy",
+      "savory",
+      "tart"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "starter"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 45
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 slice of tart"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "d8a954f1-e307-5f5f-84e7-f7e9c2cb2645",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "051462ae-4d0d-502d-b50a-b033e75526cf",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "250g Flour",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "30f8b8fe-dc6c-5d20-9eaf-a2dda70ce64b",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "125g Butter",
+          "quantity": 125.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 125.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "d9b6cd13-73cb-5214-b804-267800e7eb70",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "6578d3a1-6a51-5db4-8d32-17bebb8913c6",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "95ca9b9c-eb87-5782-b110-6dc94f56e1bc",
+          "ingredient_id": "9492d127-f816-5ce2-956c-6fe8fdc731f2",
+          "name": "cheese",
+          "display_text": "300g Cheese",
+          "quantity": 300.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "c5bc1edb-8c9b-532f-9ec9-2dc97dd84b40",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "100ml milk Milk",
+          "quantity": 100.0,
+          "unit": "milliliter",
+          "preparation": "milk",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "0c8a58bc-110c-54dd-9bdc-e734f3566b6a",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "3 Eggs",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "ad1c8a36-07eb-5df4-b316-31795f884238",
+          "ingredient_id": "7db471f0-9bfa-5aae-91f1-5642980cae0d",
+          "name": "parmesan cheese",
+          "display_text": "100g Parmesan Cheese",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "0646b6bc-7257-5e19-aa35-455fa61a2849",
+          "ingredient_id": "eef09ba5-f0a8-5d2e-a676-6a71ab7f1fab",
+          "name": "plum tomatoes",
+          "display_text": "350g Plum tomatoes",
+          "quantity": 350.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 350.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "d6769d01-4968-58d0-8f1d-282f4abef8a8",
+          "ingredient_id": "b7b7e394-7e0b-5e0b-8f4c-19d0888f8705",
+          "name": "white vinegar",
+          "display_text": "3tbsp White Vinegar",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "ba2b8128-6861-520f-9fe9-6ea779a38160",
+          "ingredient_id": "7ad11d6e-3134-5831-97df-4db2a67589f7",
+          "name": "honey",
+          "display_text": "1 tbsp Honey",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "f6ec7d72-1862-5c9b-9ee2-0c2d00866962",
+          "ingredient_id": "fc6a825e-e02a-589c-91d6-b4e76ccc6354",
+          "name": "basil",
+          "display_text": "Topping Basil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "topping",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Crust: make a dough from 250g flour (I like mixing different flours like plain and wholegrain spelt flour), 125g butter, 1 egg and a pinch of salt, press it into a tart form and place it in the fridge. Filling: stir 300g cream cheese and 100ml milk until smooth, add in 3 eggs, 100g grated parmesan cheese and season with salt, pepper and nutmeg.",
+      "ingredients_used": [
+        "051462ae-4d0d-502d-b50a-b033e75526cf",
+        "30f8b8fe-dc6c-5d20-9eaf-a2dda70ce64b",
+        "d9b6cd13-73cb-5214-b804-267800e7eb70",
+        "6578d3a1-6a51-5db4-8d32-17bebb8913c6",
+        "95ca9b9c-eb87-5782-b110-6dc94f56e1bc",
+        "c5bc1edb-8c9b-532f-9ec9-2dc97dd84b40",
+        "0c8a58bc-110c-54dd-9bdc-e734f3566b6a",
+        "ad1c8a36-07eb-5df4-b316-31795f884238"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Take the crust out of the fridge and prick the bottom with a fork. Pour in the filling and bake at 175 degrees C for about 25 minutes.",
+      "timer_seconds": 1500,
+      "temperature": {
+        "value": 175,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 3,
+      "instruction": "Cover the tart with some aluminum foil after half the time. In the mean time, slice about 350g mini tomatoes.",
+      "ingredients_used": [
+        "0646b6bc-7257-5e19-aa35-455fa61a2849"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "In a small pan heat 3tbsp olive oil, 3tbsp white vinegar, 1 tbsp honey, salt and pepper and combine well. Pour over the tomato slices and mix well.",
+      "ingredients_used": [
+        "6578d3a1-6a51-5db4-8d32-17bebb8913c6",
+        "d6769d01-4968-58d0-8f1d-282f4abef8a8",
+        "ba2b8128-6861-520f-9fe9-6ea779a38160"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "With a spoon, place the tomato slices on the tart, avoiding too much liquid on it. Decorate with basil leaves and enjoy",
+      "ingredients_used": [
+        "f6ec7d72-1862-5c9b-9ee2-0c2d00866962"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.instagram.com/p/BHyuMZ1hZX0"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

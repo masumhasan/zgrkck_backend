@@ -1,0 +1,363 @@
+{
+  "id": "cab7ff21-129a-5fcb-9330-fc7d889486e3",
+  "version": "1.0.0",
+  "title": "Beef and Broccoli Stir-Fry",
+  "slug": "beef-and-broccoli-stir-fry",
+  "summary": "A classic Chinese stir-fry featuring tender slices of sirloin steak and crisp-tender broccoli tossed in a savory oyster sauce glaze.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:28:00Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53366"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/m0p0j81765568742.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/m0p0j81765568742.jpg/small",
+      "alt_text": "Photo of Beef and Broccoli Stir-Fry",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=BBABeZjlRM8"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6813a95e-62cf-55e7-9d4b-6f19ee1d7391",
+        "slug": "chinese",
+        "name": "Chinese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": [
+      "meal_prep"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "marinating_time_minutes": 10,
+    "total_time_minutes": 35
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of beef and broccoli"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "soy",
+      "fish",
+      "shellfish",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "eggs",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "5805d0e2-a786-59ea-821a-d80977493d13",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "3d574a74-f261-54b5-b4a3-c3ecc38815b2",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "1 tsp Soy Sauce",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "6fdd36a7-a608-51ba-947c-efa3d05a783d",
+          "ingredient_id": "0878c803-3a75-5498-b12f-29ba3adbfea5",
+          "name": "dry sherry",
+          "display_text": "1 tsp Dry sherry",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "dc98d6a4-73ed-5caa-a885-a550f70fbb17",
+          "ingredient_id": "4bdb1684-cdb6-5a8f-b220-c622cf2655cc",
+          "name": "cornstarch",
+          "display_text": "1/2 tsp Cornstarch",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "ce99fd0f-d0a8-57e8-851d-13bb7160f89e",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1/8 teaspoon Black Pepper",
+          "quantity": 0.125,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 0.6,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "d19b2e9a-7a89-5486-b01e-76141d933b89",
+          "ingredient_id": "febc81fb-5cd0-554c-b824-0241486907eb",
+          "name": "sirloin steak",
+          "display_text": "1 lb Sirloin steak",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "d977e19b-110b-5e23-b35c-b485d6577d29",
+          "ingredient_id": "42972e00-9d00-55f1-8658-5357075be010",
+          "name": "oyster sauce",
+          "display_text": "2 tablespoons Oyster Sauce",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "b7d56fc5-1af2-5394-a812-b84f661fb7ae",
+          "ingredient_id": "0878c803-3a75-5498-b12f-29ba3adbfea5",
+          "name": "dry sherry",
+          "display_text": "1 tsp Dry sherry",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "7e11fa94-f8af-55e0-9249-d01f5468f2ff",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "1 tablespoon Soy Sauce",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "9e10cef3-0233-5b2d-9635-5c85e274cc5d",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "1/4 cup Chicken Stock",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "6497624d-0a77-5f1d-a73a-82884a1d949d",
+          "ingredient_id": "31e88f63-2128-56b2-a28a-224d203ee96c",
+          "name": "broccoli",
+          "display_text": "1 lb Broccoli",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "639248dd-6a9a-516b-90d4-0e3c35b7483d",
+          "ingredient_id": "0fe9584b-fdea-5757-ae01-4be02d80238b",
+          "name": "high heat cooking oil",
+          "display_text": "2 tablespoons High Heat Cooking Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "6b1f1990-135a-51f6-8a77-f32e09f7fbea",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves minced Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "minced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3c93591d-240f-5304-a37c-231a1322985e",
+          "ingredient_id": "4bdb1684-cdb6-5a8f-b220-c622cf2655cc",
+          "name": "cornstarch",
+          "display_text": "1 tsp Cornstarch",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "65382374-8d93-5c5a-a971-f85015e4ea43",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1 tablespoon Water",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Marinate the beef:"
+    },
+    {
+      "step_number": 2,
+      "instruction": "Stir together the beef marinade ingredients (1 teaspoon soy sauce, 1 teaspoon Chinese rice wine, 1/2 teaspoon cornstarch, 1/8 teaspoon black pepper) in a medium bowl.",
+      "ingredients_used": [
+        "3d574a74-f261-54b5-b4a3-c3ecc38815b2",
+        "dc98d6a4-73ed-5caa-a885-a550f70fbb17",
+        "ce99fd0f-d0a8-57e8-851d-13bb7160f89e",
+        "7e11fa94-f8af-55e0-9249-d01f5468f2ff",
+        "3c93591d-240f-5304-a37c-231a1322985e"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the beef slices and stir until coated. Let stand for 10 minutes.",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 4,
+      "instruction": "Prepare the sauce:"
+    },
+    {
+      "step_number": 5,
+      "instruction": "Stir together the sauce ingredients (2 tablespoons oyster sauce, 1 teaspoon Chinese rice wine, 1 teaspoon soy sauce, 1/4 cup chicken broth) in a small bowl. Set aside.",
+      "ingredients_used": [
+        "3d574a74-f261-54b5-b4a3-c3ecc38815b2",
+        "d977e19b-110b-5e23-b35c-b485d6577d29",
+        "7e11fa94-f8af-55e0-9249-d01f5468f2ff"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Blanch or steam the broccoli:",
+      "ingredients_used": [
+        "6497624d-0a77-5f1d-a73a-82884a1d949d"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Bring a pot of water to a boil. Add the broccoli and cook until crisp-tender, about 2 minutes. Drain thoroughly.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "6497624d-0a77-5f1d-a73a-82884a1d949d",
+        "65382374-8d93-5c5a-a971-f85015e4ea43"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Stir-fry the beef:"
+    },
+    {
+      "step_number": 9,
+      "instruction": "Heat a large frying pan or wok over high heat until a bead of water sizzles and instantly evaporates upon contact. Add the cooking oil and swirl to coat.",
+      "ingredients_used": [
+        "65382374-8d93-5c5a-a971-f85015e4ea43"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "Add the beef and immediately spread it out all over the surface of the wok or pan in a single layer (preferably not touching)."
+    },
+    {
+      "step_number": 11,
+      "instruction": "Let the beef fry undisturbed for 1 minute. Flip the beef slices over, add the garlic to the pan, and fry for an additional 30 seconds to 1 minute until no longer pink.",
+      "ingredients_used": [
+        "6b1f1990-135a-51f6-8a77-f32e09f7fbea"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Add the sauce, cornstarch, and broccoli:",
+      "ingredients_used": [
+        "dc98d6a4-73ed-5caa-a885-a550f70fbb17",
+        "6497624d-0a77-5f1d-a73a-82884a1d949d",
+        "3c93591d-240f-5304-a37c-231a1322985e"
+      ]
+    },
+    {
+      "step_number": 13,
+      "instruction": "Pour in the sauce and the cornstarch slurry (1 teaspoon cornstarch dissolved in 1 tablespoon of water). Stir until the sauce boils and thickens, about 30 seconds. Stir in the broccoli.",
+      "timer_seconds": 30,
+      "ingredients_used": [
+        "dc98d6a4-73ed-5caa-a885-a550f70fbb17",
+        "6497624d-0a77-5f1d-a73a-82884a1d949d",
+        "3c93591d-240f-5304-a37c-231a1322985e",
+        "65382374-8d93-5c5a-a971-f85015e4ea43"
+      ]
+    },
+    {
+      "step_number": 14,
+      "instruction": "Serve immediately, with steamed rice or on its own."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.simplyrecipes.com/recipes/broccoli_beef/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

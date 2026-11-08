@@ -1,0 +1,240 @@
+{
+  "id": "b9997374-016c-5bce-a1e0-876237db9b6d",
+  "version": "1.0.0",
+  "title": "Gallo pinto",
+  "slug": "gallo-pinto",
+  "summary": "A traditional Costa Rican breakfast dish consisting of seasoned black beans and rice sautéed with vegetables and Lizano sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:43:23Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53541"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ytogg31784397116.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ytogg31784397116.jpg/small",
+      "alt_text": "Photo of Gallo pinto",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c34e726c-a17e-5cad-a035-3eaf9df4125f",
+        "slug": "costa-rican",
+        "name": "Costa Rican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "breakfast"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 17,
+    "total_time_minutes": 27
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of rice and beans"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "87ef346f-b98d-563a-9f27-600374b10cb2",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "3efd94b5-811a-5225-9249-5719a8a82cef",
+          "ingredient_id": "4958b57f-af77-572c-8240-fdfa5d5543c8",
+          "name": "black beans",
+          "display_text": "2/3 Cup Black Beans",
+          "quantity": 0.6667,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 160.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "6a2913ff-d95e-56b8-807e-86e16dfafd7b",
+          "ingredient_id": "025b8433-c498-5b37-813a-ec00ac6c2ae5",
+          "name": "rice",
+          "display_text": "1 1/4 cup Rice",
+          "quantity": 1.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "527620ef-689b-5a45-b09c-7b58ff8a37d6",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "2 tablespoons Onion",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "27c2a87e-b8ae-5694-81e7-8d4d70ece1bd",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "2 tablespoons Pepper",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "b08db3da-ebb4-598f-9f2d-abe39f02e63f",
+          "ingredient_id": "1655ccbe-97a7-59b3-9245-ebc95a0ed6d0",
+          "name": "cilantro",
+          "display_text": "2 tablespoons Cilantro",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "54f7198d-bca7-5dd0-834f-22500508e634",
+          "ingredient_id": "33905a02-8186-5be0-bcdc-52144af2ccb2",
+          "name": "salsa lizano",
+          "display_text": "1/2 tsp Salsa Lizano",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "f888f8c3-3f12-54d9-948d-6134a97d995b",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/2 tsp Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "ed54cb6c-ff75-5ce7-879b-7f93a5080d18",
+          "ingredient_id": "be79b3bd-bc90-5d15-aab2-4f95774b8de1",
+          "name": "cumin",
+          "display_text": "1/2 tsp Cumin",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "b00fd3ac-4351-517b-b0e0-de6615bea563",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "1/4 tsp Pepper",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat up a pan over medium high heat, add olive oil and let it get hot. Add onions, peppers, cilantro, garlic, cumin, salt and pepper, cook for 3 to 5 min until onion is translucent.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "527620ef-689b-5a45-b09c-7b58ff8a37d6",
+        "27c2a87e-b8ae-5694-81e7-8d4d70ece1bd",
+        "b08db3da-ebb4-598f-9f2d-abe39f02e63f",
+        "f888f8c3-3f12-54d9-948d-6134a97d995b",
+        "ed54cb6c-ff75-5ce7-879b-7f93a5080d18",
+        "b00fd3ac-4351-517b-b0e0-de6615bea563"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Mix in the beans, stir and reduce heat to medium, add the Lizano sauce, stir and cook for 5 more minutes.",
+      "ingredients_used": [
+        "3efd94b5-811a-5225-9249-5719a8a82cef",
+        "54f7198d-bca7-5dd0-834f-22500508e634"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the rice, stir and cooked for a few more minutes, to incorporate all the flavors in the rice. The time to cook it I will depend of how you like your gallo pinto, some people like it a little wet and some other like it a little toasted or dry.",
+      "ingredients_used": [
+        "6a2913ff-d95e-56b8-807e-86e16dfafd7b"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "I prefer it not too dry, so I cook it for about 5 to 7 min.",
+      "timer_seconds": 420
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.recipesfromcostarica.com/recipes"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

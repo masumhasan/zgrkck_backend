@@ -1,0 +1,356 @@
+{
+  "id": "554b83e0-b73f-5f8b-aedd-774f0058a244",
+  "version": "1.0.0",
+  "title": "Layered mango custard",
+  "slug": "layered-mango-custard",
+  "summary": "A Dominican dessert featuring a creamy milk-based custard layered with a smooth mango puree.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:46:03Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53570"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/u1gisz1784732667.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/u1gisz1784732667.jpg/small",
+      "alt_text": "Photo of Layered mango custard",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4da88d96-f05f-5f73-a14b-c5e37ee2541e",
+        "slug": "dominican",
+        "name": "Dominican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 15,
+    "rest_time_minutes": 360,
+    "total_time_minutes": 395
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1 small glass of layered custard"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "964b45ce-f3c4-519b-af3b-b7ec2f4a0ae8",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "cb46cc21-0262-57aa-9aad-067888544f52",
+          "ingredient_id": "57a7ebfe-8a5f-517b-9c50-20c587612d4a",
+          "name": "custard",
+          "display_text": "1 ½ tbsp Custard",
+          "quantity": 1.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 22.5,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "83757996-a45d-5cb6-a98e-09091f0fb8b6",
+          "ingredient_id": "ff546e66-3df1-5c50-bf15-42f51d91ab80",
+          "name": "whipping cream",
+          "display_text": "3 Cups Whipping Cream",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "059c5972-db59-50d3-9c85-bb917149acc5",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "3 Cups Milk",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "1e2c1430-1829-57e1-a55c-fddbb87cf083",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1/3 cup Sugar",
+          "quantity": 0.3333,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 80.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "bb42aaca-25e2-5f30-a3e2-a1dc5200452d",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "6 tablespoons Water",
+          "quantity": 6.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 90.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "3be22561-7623-57d2-a8a3-21b4e770dd19",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1 ½ tbsp Vanilla Extract",
+          "quantity": 1.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 22.5,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "9590615a-d95a-5253-a286-574f9a0bf33b",
+          "ingredient_id": "0e838047-684d-55cb-884e-e7872e0e96c4",
+          "name": "mint",
+          "display_text": "Garnish Mint",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "garnish",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "72fd3f33-769e-5975-81f7-9db2023c0e04",
+          "ingredient_id": "96878be2-434c-5f44-ad8d-01130790c5ef",
+          "name": "mango",
+          "display_text": "Garnish Mango",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "garnish",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "089c1947-7086-5dc2-9ec2-6762456c71ce",
+          "ingredient_id": "96878be2-434c-5f44-ad8d-01130790c5ef",
+          "name": "mango",
+          "display_text": "Topping Mango",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "topping",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7c957bc0-b2b9-5b28-8c19-1606c1bc0d6f",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "5 tablespoons Water",
+          "quantity": 5.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "bf813866-44e6-510e-adde-2a534f0ac840",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "To taste Sugar",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "sweeteners"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "For the pudding custard",
+      "ingredients_used": [
+        "cb46cc21-0262-57aa-9aad-067888544f52"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Combine water and gelatin in a bowl",
+      "ingredients_used": [
+        "bb42aaca-25e2-5f30-a3e2-a1dc5200452d",
+        "7c957bc0-b2b9-5b28-8c19-1606c1bc0d6f"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Let it rest for about 7-10 minutes",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 4,
+      "instruction": "Combine cream, milk and sugar and heat for a few minutes until all the sugar melts. Do not boil.",
+      "ingredients_used": [
+        "059c5972-db59-50d3-9c85-bb917149acc5",
+        "1e2c1430-1829-57e1-a55c-fddbb87cf083",
+        "bf813866-44e6-510e-adde-2a534f0ac840"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Take it off the stovetop and let it rest for about 5 minutes",
+      "timer_seconds": 300
+    },
+    {
+      "step_number": 6,
+      "instruction": "Add gelatin mixture and stir. Add vanilla essence."
+    },
+    {
+      "step_number": 7,
+      "instruction": "Pour mixture into small glasses at an angle. It's really rich so the smaller glasses will help reduce the serving."
+    },
+    {
+      "step_number": 8,
+      "instruction": "Transfer to refrigerator to chill for a minimum of 4 hours. ( I kept mine in the refrigerator overnight) Please don't put it in the freezer.",
+      "timer_seconds": 14400
+    },
+    {
+      "step_number": 9,
+      "instruction": "For the mango puree",
+      "ingredients_used": [
+        "72fd3f33-769e-5975-81f7-9db2023c0e04",
+        "089c1947-7086-5dc2-9ec2-6762456c71ce"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "When you're ready to add the mango purée to the top of the pudding, you can then start the process of preparing the puree",
+      "ingredients_used": [
+        "72fd3f33-769e-5975-81f7-9db2023c0e04",
+        "089c1947-7086-5dc2-9ec2-6762456c71ce"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Using a blender or hand help mixer, purée mango chunks/slices",
+      "ingredients_used": [
+        "72fd3f33-769e-5975-81f7-9db2023c0e04",
+        "089c1947-7086-5dc2-9ec2-6762456c71ce"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Strain purée for a finer consistency"
+    },
+    {
+      "step_number": 13,
+      "instruction": "You can use puree as is or you can add some sugar for a little more sweetness",
+      "ingredients_used": [
+        "1e2c1430-1829-57e1-a55c-fddbb87cf083",
+        "bf813866-44e6-510e-adde-2a534f0ac840"
+      ]
+    },
+    {
+      "step_number": 14,
+      "instruction": "To make the puree like pudding"
+    },
+    {
+      "step_number": 15,
+      "instruction": "Add sugar to puree",
+      "ingredients_used": [
+        "1e2c1430-1829-57e1-a55c-fddbb87cf083",
+        "bf813866-44e6-510e-adde-2a534f0ac840"
+      ]
+    },
+    {
+      "step_number": 16,
+      "instruction": "Transfer to a stove top and stir until sugar is dissolved. Remove from stovetop",
+      "ingredients_used": [
+        "1e2c1430-1829-57e1-a55c-fddbb87cf083",
+        "bf813866-44e6-510e-adde-2a534f0ac840"
+      ]
+    },
+    {
+      "step_number": 17,
+      "instruction": "Add gelatin mixture and stir consistently"
+    },
+    {
+      "step_number": 18,
+      "instruction": "Remove chilled creamy custard from refrigerator and add mango puree mixture to the top of it",
+      "ingredients_used": [
+        "cb46cc21-0262-57aa-9aad-067888544f52",
+        "72fd3f33-769e-5975-81f7-9db2023c0e04",
+        "089c1947-7086-5dc2-9ec2-6762456c71ce"
+      ]
+    },
+    {
+      "step_number": 19,
+      "instruction": "Chill for a minimum of 2 hours (longer is better)",
+      "timer_seconds": 7200
+    },
+    {
+      "step_number": 20,
+      "instruction": "Garnish with mint and small mango pieces and serve",
+      "ingredients_used": [
+        "9590615a-d95a-5253-a286-574f9a0bf33b",
+        "72fd3f33-769e-5975-81f7-9db2023c0e04",
+        "089c1947-7086-5dc2-9ec2-6762456c71ce"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://dominicagourmet.com/layered-mango-custard/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

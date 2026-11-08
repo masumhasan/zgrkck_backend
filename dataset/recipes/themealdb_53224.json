@@ -1,0 +1,358 @@
+{
+  "id": "63b6eeb1-f69f-5067-a5e1-325693fd7ecd",
+  "version": "1.0.0",
+  "title": "Pistachio Kunafa Chocolate Cake and Cupcakes",
+  "slug": "pistachio-kunafa-chocolate-cake-and-cupcakes",
+  "summary": "A layered dessert featuring a chocolate biscuit base, a pistachio paste mixed with roasted vermicelli (sevaiiya), and a dark chocolate ganache topping.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:15:17Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53224"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/yh3sg71763741307.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/yh3sg71763741307.jpg/small",
+      "alt_text": "Photo of Pistachio Kunafa Chocolate Cake and Cupcakes",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=vINcKAS7Ig8"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "dadedf2a-1088-576c-834c-66ae61df3c2a",
+        "slug": "saudi-arabian",
+        "name": "Saudi Arabian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "holiday"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 20,
+    "rest_time_minutes": 180,
+    "total_time_minutes": 230
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 slice of cake or 1 cupcake"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "tree_nuts",
+      "soy"
+    ],
+    "free_from": [
+      "peanuts",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "5fa1ab88-4107-5c34-b7b4-d0aaf4360cc4",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "2ee94e8b-d6eb-51d7-9578-e6d89c3952e7",
+          "ingredient_id": "4a6de44a-a749-58c9-85fa-719c9dca7c52",
+          "name": "white chocolate",
+          "display_text": "6 tablespoons White Chocolate",
+          "quantity": 6.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 90.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "31e136cf-a25e-55d3-b97d-557f1c0d9361",
+          "ingredient_id": "1f76f2d8-fa8e-5d90-866e-4f6db9489c6a",
+          "name": "unsalted pistachio",
+          "display_text": "1 cup Unsalted Pistachio",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "33ae9802-d788-513d-a493-c5c6c5d124a3",
+          "ingredient_id": "3fe531f9-aa92-5d4e-9940-e8eddf18456b",
+          "name": "condensed milk",
+          "display_text": "3  tablespoons Condensed Milk",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "43eba239-749f-557c-b980-34ef5f25c6ee",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "5 tablespoons Milk",
+          "quantity": 5.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "c5186ec9-6ff6-560e-8350-0841e3f16da8",
+          "ingredient_id": "b9195961-1030-5cf7-b770-eb43bd11272b",
+          "name": "oreo cream biscuits",
+          "display_text": "25 Oreo Cream Biscuits",
+          "quantity": 25.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "999108a3-6339-5870-be79-7e6c04a59066",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "1/2 cup Milk",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "412d1231-552d-5ebd-87dd-1a865e075f52",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1/2 teaspoon Baking Powder",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "574ed167-9615-516d-873e-59ecaaeb9da1",
+          "ingredient_id": "ab5b1e5d-c74e-59bc-9caa-0009568a07cb",
+          "name": "vinegar",
+          "display_text": "1/2 teaspoon Vinegar",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "752fc244-ec5d-5090-9117-aefbe3a5b4d3",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 pinch Salt",
+          "quantity": 1.0,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "6327a78d-7f39-52aa-a531-aa9f4ba1679f",
+          "ingredient_id": "de7324cd-b132-52e7-8d70-f4c92e8437a2",
+          "name": "sevaiiya",
+          "display_text": "150g Sevaiiya",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "00406681-2de9-58cd-933c-cad8847c104e",
+          "ingredient_id": "b5453b15-d5e8-5682-b751-28eb4120fb90",
+          "name": "ghee",
+          "display_text": "1 tablespoon Ghee",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "e34fa6af-97f0-5d19-b4ed-743d8b8f8f78",
+          "ingredient_id": "f553aca9-844a-5f4f-ba77-363733c03112",
+          "name": "dark chocolate",
+          "display_text": "120ml Dark Chocolate",
+          "quantity": 120.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "e1554f6f-515b-51f1-9790-02e773fdc2c2",
+          "ingredient_id": "2ce8da94-e3f8-5d69-8ccb-bd565b91c74d",
+          "name": "malai",
+          "display_text": "4 tablespoons Malai",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "For Chocolate Cake:Ready all the ingredients. Powder the oreo biscuits, pinch salt and mix warm milk as needed and make a cake batter. Add in baking powder and vinegar and mix.",
+      "ingredients_used": [
+        "2ee94e8b-d6eb-51d7-9578-e6d89c3952e7",
+        "33ae9802-d788-513d-a493-c5c6c5d124a3",
+        "43eba239-749f-557c-b980-34ef5f25c6ee",
+        "c5186ec9-6ff6-560e-8350-0841e3f16da8",
+        "999108a3-6339-5870-be79-7e6c04a59066",
+        "412d1231-552d-5ebd-87dd-1a865e075f52",
+        "574ed167-9615-516d-873e-59ecaaeb9da1",
+        "752fc244-ec5d-5090-9117-aefbe3a5b4d3",
+        "e34fa6af-97f0-5d19-b4ed-743d8b8f8f78"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Grease a loose bottomed tin. Pour a 1cm thick layer of the batter."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Bake in a preheated oven @160°C for 7-8 minutes or until the knife comes out clean. Cool on wire rack.",
+      "timer_seconds": 480,
+      "temperature": {
+        "value": 160,
+        "unit": "celsius"
+      }
+    },
+    {
+      "step_number": 4,
+      "instruction": "For Homemade Pistachio Paste:Ready all the pistachio paste ingredients. Slightly melt white chocolate on a double boiler.(else the mixer blade may break) Coarsely powder the pistachio in mixer. Add in condensed milk.",
+      "ingredients_used": [
+        "2ee94e8b-d6eb-51d7-9578-e6d89c3952e7",
+        "31e136cf-a25e-55d3-b97d-557f1c0d9361",
+        "33ae9802-d788-513d-a493-c5c6c5d124a3",
+        "43eba239-749f-557c-b980-34ef5f25c6ee",
+        "999108a3-6339-5870-be79-7e6c04a59066",
+        "e34fa6af-97f0-5d19-b4ed-743d8b8f8f78"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Add in slightly warmed and slightly melted white chocolate and milk as required and crush to a smooth paste.(Green food color can be add. I haven't.)",
+      "ingredients_used": [
+        "2ee94e8b-d6eb-51d7-9578-e6d89c3952e7",
+        "33ae9802-d788-513d-a493-c5c6c5d124a3",
+        "43eba239-749f-557c-b980-34ef5f25c6ee",
+        "999108a3-6339-5870-be79-7e6c04a59066",
+        "e34fa6af-97f0-5d19-b4ed-743d8b8f8f78"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "For Kunafa: In a kadhaai take ghee and roast the sevaiiya on slow gas. Keep stirring until a pleasant roasted aroma releases. Cool it. Add in the Homemade pistachio paste.Mix well.",
+      "ingredients_used": [
+        "31e136cf-a25e-55d3-b97d-557f1c0d9361",
+        "6327a78d-7f39-52aa-a531-aa9f4ba1679f",
+        "00406681-2de9-58cd-933c-cad8847c104e"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Lip smacking Kunafa is ready. Spread a 2 cm layer on the cooled chocolate cake.",
+      "ingredients_used": [
+        "2ee94e8b-d6eb-51d7-9578-e6d89c3952e7",
+        "e34fa6af-97f0-5d19-b4ed-743d8b8f8f78"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Melt dark chocolate and strained malai and prepare the chocolate ganache. Cool and pour on the Kunafa layer.",
+      "ingredients_used": [
+        "2ee94e8b-d6eb-51d7-9578-e6d89c3952e7",
+        "e34fa6af-97f0-5d19-b4ed-743d8b8f8f78",
+        "e1554f6f-515b-51f1-9790-02e773fdc2c2"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Garnish Pistachio Kunafa Chocolate Cake with chopped pistachio and silver balls. Keep in fridge for 2-3 hours. Then unmould the Kunafa Cake.",
+      "timer_seconds": 10800,
+      "ingredients_used": [
+        "2ee94e8b-d6eb-51d7-9578-e6d89c3952e7",
+        "31e136cf-a25e-55d3-b97d-557f1c0d9361",
+        "e34fa6af-97f0-5d19-b4ed-743d8b8f8f78"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "I also prepared Kunafa cupcakes. Cut and enjoy. The cake looked so pretty that we could either save it or have it!! ☺"
+    },
+    {
+      "step_number": 11,
+      "instruction": "Cross sectional view of the Pistachio Kunafa Chocolate Cake.",
+      "ingredients_used": [
+        "2ee94e8b-d6eb-51d7-9578-e6d89c3952e7",
+        "31e136cf-a25e-55d3-b97d-557f1c0d9361",
+        "e34fa6af-97f0-5d19-b4ed-743d8b8f8f78"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Enjoy with a new sweet delicacy this festive season with family and friends."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://cookpad.com/eng/recipes/25116037?ref=search&search_term=saudi+arabia"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

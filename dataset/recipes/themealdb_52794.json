@@ -1,0 +1,208 @@
+{
+  "id": "b3948d05-3eb2-546f-8450-eab0fa10c3cc",
+  "version": "1.0.0",
+  "title": "Vegan Chocolate Cake",
+  "slug": "vegan-chocolate-cake",
+  "summary": "A simple vegan chocolate cake made with flax eggs and almond milk, baked until tender.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:38:28Z",
+  "updated_at": "2026-10-16T10:22:44Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52794"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/qxutws1486978099.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/qxutws1486978099.jpg/small",
+      "alt_text": "Photo of Vegan Chocolate Cake",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=C3pAgB7pync"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b95bb9d4-1e18-5623-a50f-942c7d140e82",
+        "slug": "american",
+        "name": "American"
+      }
+    ],
+    "tags": [
+      "cake",
+      "chocolate",
+      "vegan"
+    ],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "party",
+      "afternoon_snack"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 55
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "servings"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "tree_nuts"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "933111e8-5afb-5780-858e-bbb16d58711f",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "1684f937-4d30-5d38-b04e-d07f4a66c53d",
+          "ingredient_id": "d923f6bd-1129-51bf-ba9e-32b3305fa65e",
+          "name": "self-raising flour",
+          "display_text": "1 1/4 cup Self-raising Flour",
+          "quantity": 1.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "baa2552e-2ebc-56fb-94a9-5feeb6c7cf1b",
+          "ingredient_id": "53d33d3e-9a63-5d27-800a-4e8284d4044d",
+          "name": "coco sugar",
+          "display_text": "1/2 cup coco sugar",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "42924bdb-613b-5e31-bd37-19f78b7083fb",
+          "ingredient_id": "0d51870a-299b-5182-96fa-cd72295ca251",
+          "name": "cacao",
+          "display_text": "1/3 cup raw cacao",
+          "quantity": 0.3333,
+          "unit": "cup",
+          "preparation": "raw",
+          "is_optional": false,
+          "metric_quantity": 80.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "2dacc095-f18e-5ba9-a592-46677f333ec8",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 tsp baking powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "a8197d35-393d-5418-8530-b94ac01b3d69",
+          "ingredient_id": "64831d28-7a55-5183-9f23-b1cb96137fbc",
+          "name": "flax eggs",
+          "display_text": "2 flax eggs",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "17bdab1b-ad17-5592-b17e-1e12c1e297c0",
+          "ingredient_id": "e1111a5b-a7a8-548e-b975-f2b9846d422b",
+          "name": "almond milk",
+          "display_text": "1/2 cup almond milk",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "204e85fd-8264-55dd-8cec-4a11584d35ff",
+          "ingredient_id": "1ad32b47-90dc-570b-9ae6-d231b0342095",
+          "name": "vanilla",
+          "display_text": "1 tsp vanilla",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "d05947b9-c263-564a-b205-0c9e0880041d",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1/2 cup boiling water",
+          "quantity": 0.5,
+          "unit": "cup",
+          "preparation": "boiling",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Simply mix all dry ingredients with wet ingredients and blend altogether. Bake for 45 min on 180 degrees.",
+      "timer_seconds": 2700
+    },
+    {
+      "step_number": 2,
+      "instruction": "Decorate with some melted vegan chocolate"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

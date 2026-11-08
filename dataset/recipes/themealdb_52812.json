@@ -1,0 +1,368 @@
+{
+  "id": "acbde0cd-d6f3-5b91-b2e2-511cd564e945",
+  "version": "1.0.0",
+  "title": "Beef Brisket Pot Roast",
+  "slug": "beef-brisket-pot-roast",
+  "summary": "A slow-cooked beef brisket prepared in a Dutch oven with onions, garlic, and aromatic herbs, served with carrots and gravy.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:39:36Z",
+  "updated_at": "2026-10-16T10:22:45Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52812"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ursuup1487348423.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ursuup1487348423.jpg/small",
+      "alt_text": "Photo of Beef Brisket Pot Roast",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=gh48wM6bPWQ"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b95bb9d4-1e18-5623-a50f-942c7d140e82",
+        "slug": "american",
+        "name": "American"
+      }
+    ],
+    "tags": [
+      "meat"
+    ],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "dinner_party",
+      "holiday"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 258,
+    "marinating_time_minutes": 30,
+    "rest_time_minutes": 10,
+    "total_time_minutes": 328
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "servings",
+    "serving_size_description": "1 slice of brisket with vegetables and gravy"
+  },
+  "allergens": {
+    "contains": [
+      "mustard"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "32736d4e-1dc8-5c2a-95e6-d40e710103f9",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "8891c769-20ad-5fed-81c5-f3de5bfc02ca",
+          "ingredient_id": "912306cc-7127-5c59-8a0d-abb900c0fa1c",
+          "name": "beef brisket",
+          "display_text": "4-5 pound Beef Brisket",
+          "quantity": 4.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 1814.4,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "47417704-5be4-572a-8370-aa97af8984a2",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Dash Salt",
+          "quantity": 1,
+          "unit": "dash",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "4a6d10cd-105d-502e-b6e3-520280aa01ab",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "3 Onion",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d20e9fdd-825c-557b-a3d8-1d670831016f",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "5 cloves Garlic",
+          "quantity": 5.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "7f71f23d-279b-5b45-b4cd-2a74be344a92",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "1 Sprig Thyme",
+          "quantity": 1.0,
+          "unit": "sprig",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "f3acc782-71a6-5e1f-9155-9261af36a29e",
+          "ingredient_id": "b0bbff87-223e-5a9c-aa07-1ee472617b84",
+          "name": "rosemary",
+          "display_text": "1 sprig Rosemary",
+          "quantity": 1.0,
+          "unit": "sprig",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "4ab29c41-3fff-54b0-b2ff-d7a09f14bd7d",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaves",
+          "display_text": "4 Bay Leaves",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "84a6fc61-8630-5584-98d1-b4e0c23669e6",
+          "ingredient_id": "39a746ef-3300-5229-b0b2-3e03970ea60c",
+          "name": "beef stock",
+          "display_text": "2 cups beef stock",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "0bd53d75-7fb4-5122-ae96-d7113ab427b8",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "3 Large Carrots",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "13a5752f-c219-5e16-b399-86b48922b192",
+          "ingredient_id": "b9e3afdc-e194-5f5e-bbae-5c3659d35a67",
+          "name": "mustard",
+          "display_text": "1 Tbsp Mustard",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "1b01b8c0-0016-53f1-9542-bb33841973d8",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "4 Mashed Potatoes",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "mashed",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "1 Prepare the brisket for cooking: On one side of the brisket there should be a layer of fat, which you want. If there are any large chunks of fat, cut them off and discard them. Large pieces of fat will not be able to render out completely.",
+      "ingredients_used": [
+        "8891c769-20ad-5fed-81c5-f3de5bfc02ca"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Using a sharp knife, score the fat in parallel lines, about 3/4-inch apart. Slice through the fat, not the beef. Repeat in the opposite direction to make a cross-hatch pattern."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Salt the brisket well and let it sit at room temperature for 30 minutes.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "8891c769-20ad-5fed-81c5-f3de5bfc02ca",
+        "47417704-5be4-572a-8370-aa97af8984a2"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "2 Sear the brisket: You'll need an oven-proof, thick-bottomed pot with a cover, or Dutch oven, that is just wide enough to hold the brisket roast with a little room for the onions.",
+      "ingredients_used": [
+        "8891c769-20ad-5fed-81c5-f3de5bfc02ca",
+        "4a6d10cd-105d-502e-b6e3-520280aa01ab"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Pat the brisket dry and place it, fatty side down, into the pot and place it on medium high heat. Cook for 5-8 minutes, lightly sizzling, until the fat side is nicely browned. (If the roast seems to be cooking too fast, turn the heat down to medium. You want a steady sizzle, not a raging sear.)",
+      "timer_seconds": 480,
+      "ingredients_used": [
+        "8891c769-20ad-5fed-81c5-f3de5bfc02ca"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Turn the brisket over and cook for a few minutes more to brown the other side.",
+      "ingredients_used": [
+        "8891c769-20ad-5fed-81c5-f3de5bfc02ca"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "3 Sauté the onions and garlic: When the brisket has browned, remove it from the pot and set aside. There should be a couple tablespoons of fat rendered in the pot, if not, add some olive oil.",
+      "ingredients_used": [
+        "8891c769-20ad-5fed-81c5-f3de5bfc02ca",
+        "4a6d10cd-105d-502e-b6e3-520280aa01ab",
+        "d20e9fdd-825c-557b-a3d8-1d670831016f"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Add the chopped onions and increase the heat to high. Sprinkle a little salt on the onions. Sauté, stirring often, until the onions are lightly browned, 5-8 minutes. Stir in the garlic and cook 1-2 more minutes.",
+      "timer_seconds": 480,
+      "ingredients_used": [
+        "47417704-5be4-572a-8370-aa97af8984a2",
+        "4a6d10cd-105d-502e-b6e3-520280aa01ab",
+        "d20e9fdd-825c-557b-a3d8-1d670831016f"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "4 Return brisket to pot, add herbs, stock, bring to simmer, cover, cook in oven: Preheat the oven to 300°F. Use kitchen twine to tie together the bay leaves, rosemary and thyme.",
+      "temperature": {
+        "value": 300,
+        "unit": "fahrenheit"
+      },
+      "ingredients_used": [
+        "8891c769-20ad-5fed-81c5-f3de5bfc02ca",
+        "7f71f23d-279b-5b45-b4cd-2a74be344a92",
+        "f3acc782-71a6-5e1f-9155-9261af36a29e",
+        "4ab29c41-3fff-54b0-b2ff-d7a09f14bd7d"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "Move the onions and garlic to the sides of the pot and nestle the brisket inside. Add the beef stock and the tied-up herbs. Bring the stock to a boil on the stovetop.",
+      "ingredients_used": [
+        "8891c769-20ad-5fed-81c5-f3de5bfc02ca",
+        "4a6d10cd-105d-502e-b6e3-520280aa01ab",
+        "d20e9fdd-825c-557b-a3d8-1d670831016f",
+        "84a6fc61-8630-5584-98d1-b4e0c23669e6"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "Cover the pot, place the pot in the 300°F oven and cook for 3 hours. Carefully flip the brisket every hour so it cooks evenly.",
+      "timer_seconds": 10800,
+      "temperature": {
+        "value": 300,
+        "unit": "fahrenheit"
+      },
+      "ingredients_used": [
+        "8891c769-20ad-5fed-81c5-f3de5bfc02ca"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "5 Add carrots, continue to cook: After 3 hours, add the carrots. Cover the pot and cook for 1 hour more, or until the carrots are cooked through and the brisket is falling-apart tender.",
+      "ingredients_used": [
+        "8891c769-20ad-5fed-81c5-f3de5bfc02ca",
+        "0bd53d75-7fb4-5122-ae96-d7113ab427b8"
+      ]
+    },
+    {
+      "step_number": 13,
+      "instruction": "6 Remove brisket to cutting board, tent with foil: When the brisket is falling-apart tender, take the pot out of the oven and remove the brisket to a cutting board. Cover it with foil. Pull out and discard the herbs.",
+      "ingredients_used": [
+        "8891c769-20ad-5fed-81c5-f3de5bfc02ca"
+      ]
+    },
+    {
+      "step_number": 14,
+      "instruction": "7 Make sauce (optional): At this point you have two options. You can serve as is, or you can make a sauce with the drippings and some of the onions. If you serve as is, skip this step.",
+      "ingredients_used": [
+        "4a6d10cd-105d-502e-b6e3-520280aa01ab"
+      ]
+    },
+    {
+      "step_number": 15,
+      "instruction": "To make a sauce, remove the carrots and half of the onions, set aside and cover them with foil. Pour the ingredients that are remaining into the pot into a blender, and purée until smooth. If you want, add 1 tablespoon of mustard to the mix. Put into a small pot and keep warm.",
+      "ingredients_used": [
+        "4a6d10cd-105d-502e-b6e3-520280aa01ab",
+        "0bd53d75-7fb4-5122-ae96-d7113ab427b8",
+        "13a5752f-c219-5e16-b399-86b48922b192"
+      ]
+    },
+    {
+      "step_number": 16,
+      "instruction": "8 Slice the meat across the grain: Notice the lines of the muscle fibers of the roast. This is the \"grain\" of the meat. Slice the meat perpendicular to these lines, or across the grain (cutting this way further tenderizes the meat), in 1/4-inch to 1/2-inch slices."
+    },
+    {
+      "step_number": 17,
+      "instruction": "Serve with the onions, carrots and gravy. Serve with mashed, roasted or boiled potatoes, egg noodles or polenta.",
+      "ingredients_used": [
+        "4a6d10cd-105d-502e-b6e3-520280aa01ab",
+        "0bd53d75-7fb4-5122-ae96-d7113ab427b8",
+        "1b01b8c0-0016-53f1-9542-bb33841973d8"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://www.simplyrecipes.com/recipes/beef_brisket_pot_roast/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

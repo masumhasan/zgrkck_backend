@@ -1,0 +1,272 @@
+{
+  "id": "ec6cd755-446d-5fed-9aa4-67ad72010e3b",
+  "version": "1.0.0",
+  "title": "Chicken in Orange Sauce Recipe (Pollo a la Naranja)",
+  "slug": "chicken-in-orange-sauce-recipe-pollo-a-la-naranja",
+  "summary": "A Colombian-style chicken dish featuring chicken legs simmered in a sweet and savory sauce made from orange juice, brown sugar, and aromatics.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:42:35Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53531"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/uuns781783804024.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/uuns781783804024.jpg/small",
+      "alt_text": "Photo of Chicken in Orange Sauce Recipe (Pollo a la Naranja)",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "50fefb0a-1f33-59b0-afdb-383ba2373950",
+        "slug": "colombian",
+        "name": "Colombian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 51,
+    "total_time_minutes": 61
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 chicken leg with sauce and rice"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "1401e87a-8e51-5940-90f1-78030d24eddc",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "9fba277f-61cb-5389-8d56-c2e7bde8b37e",
+          "ingredient_id": "e023ae45-1d37-5ed8-bd41-426cd1a6688c",
+          "name": "chicken legs",
+          "display_text": "4 Chicken Legs",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "poultry"
+        },
+        {
+          "id": "7df3e093-e38f-5abf-8360-f81397b33d54",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "2 tablespoons Olive Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "cd1ec20d-58a7-581c-8435-4acd304e56a4",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "2 tablespoons Butter",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "fe5f6bc6-0547-568d-a92b-aae2abcc24cf",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1/2 cup Onion",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "4faf0157-1d89-57dd-9970-5cd32de3da0a",
+          "ingredient_id": "a0cf6d40-2b1d-5ac8-af77-a42ac3fc6a73",
+          "name": "red pepper",
+          "display_text": "1 Red Pepper",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ad4d359f-ef0e-580b-beb6-803e227c2576",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "3 cloves Chopped Garlic",
+          "quantity": 3.0,
+          "unit": "clove",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2c1ef758-f549-5935-94b7-7a5656916fa9",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "6000e23e-13ba-54bf-9f77-ebbbee1bd4ab",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "1/2 tsp Black Pepper",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "176c7b8f-efa6-5164-9548-a27bb56cabac",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "1 cup Chicken Stock",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "256fafef-94de-522e-b16a-ced70665ee16",
+          "ingredient_id": "77e2c9f0-3777-523e-895f-e1cc9fa37997",
+          "name": "orange juice",
+          "display_text": "1/2 cup Orange Juice",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "bec4c271-be8f-51da-aeaf-2723b2f121b0",
+          "ingredient_id": "1cb7bda2-0c67-5d23-9009-67495223941b",
+          "name": "brown sugar",
+          "display_text": "3  tablespoons Brown Sugar",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "969cd6e2-bbfa-54db-9b4c-e7ba2af549cc",
+          "ingredient_id": "1655ccbe-97a7-59b3-9245-ebc95a0ed6d0",
+          "name": "cilantro",
+          "display_text": "1/4 cup Cilantro",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Place the olive oil and butter in a large sauce pan over medium heat. Add the chopped onions, red bell pepper and garlic. Cook for about 3 minutes, stirring often until the vegetables are soft.",
+      "timer_seconds": 180,
+      "ingredients_used": [
+        "7df3e093-e38f-5abf-8360-f81397b33d54",
+        "cd1ec20d-58a7-581c-8435-4acd304e56a4",
+        "fe5f6bc6-0547-568d-a92b-aae2abcc24cf",
+        "ad4d359f-ef0e-580b-beb6-803e227c2576"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the chicken legs and season with salt and pepper. Cook for about 1 minute on each side.",
+      "timer_seconds": 60,
+      "ingredients_used": [
+        "9fba277f-61cb-5389-8d56-c2e7bde8b37e",
+        "2c1ef758-f549-5935-94b7-7a5656916fa9"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the chicken broth, orange juice and cook for about 2 minutes scraping the bottom of the pan with a wooden spoon. Add the brown sugar and cover the pot. Reduce the heat to medium and cook for about 45 minutes or until chicken is cooked.",
+      "ingredients_used": [
+        "256fafef-94de-522e-b16a-ced70665ee16",
+        "bec4c271-be8f-51da-aeaf-2723b2f121b0"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Spoon the sauce over the chicken and serve over white rice. Garnish with fresh cilantro.",
+      "ingredients_used": [
+        "969cd6e2-bbfa-54db-9b4c-e7ba2af549cc"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.mycolombianrecipes.com/chicken-in-orange-sauce-pollo-a-la-naranja/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

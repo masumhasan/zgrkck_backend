@@ -1,0 +1,248 @@
+{
+  "id": "f78168e7-422b-5c4f-b6c5-0e348fb36014",
+  "version": "1.0.0",
+  "title": "Vietnamese prawn spiralized rolls",
+  "slug": "vietnamese-prawn-spiralized-rolls",
+  "summary": "Fresh Vietnamese-style rolls filled with king prawns, spiralized vegetables, and fresh herbs, served with a spicy lime and fish sauce dipping sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:16:59Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53243"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/9r2xrg1763771238.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/9r2xrg1763771238.jpg/small",
+      "alt_text": "Photo of Vietnamese prawn spiralized rolls",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=lNU0LKVtHC4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "60481cf3-a7b7-5be4-a0dc-6b872c887e64",
+        "slug": "vietnamese",
+        "name": "Vietnamese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "courses": [
+      "appetizer"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "summer_refreshment"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 25,
+    "cook_time_minutes": 5,
+    "marinating_time_minutes": 10,
+    "total_time_minutes": 40
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1 roll with dipping sauce"
+  },
+  "allergens": {
+    "contains": [
+      "fish",
+      "shellfish"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "cddea4c2-5b7c-5308-be6c-061b85a53e1c",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "91794f8e-f992-569a-957c-836cbd95d071",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "Juice of 1/2 Lime",
+          "quantity": 0.5,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4112218a-1b16-5703-a69f-be97b09c9932",
+          "ingredient_id": "cad15bc5-2770-5a5f-8572-c5ac5ad79569",
+          "name": "rice vinegar",
+          "display_text": "2 tablespoons Rice Vinegar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "9e0608ba-e7e1-53bb-b329-451bb866900a",
+          "ingredient_id": "a6dcdf7a-4604-5baa-8ac6-c4575ee672dc",
+          "name": "palm sugar",
+          "display_text": "1 tablespoon Palm Sugar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "6bc10740-5c05-52c5-90fb-8736f3342f05",
+          "ingredient_id": "de927c20-fdfa-5b98-8ee9-7840fa951a2f",
+          "name": "fish sauce",
+          "display_text": "3  tablespoons Fish Sauce",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "5fa3fcdf-12aa-592a-b6e4-c929c4208571",
+          "ingredient_id": "c34401c7-b5ba-5c77-b08c-3f81a2f87c95",
+          "name": "birds-eye chillies",
+          "display_text": "1 chopped Birds-eye Chillies",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "91f23066-8141-57c3-9e1e-56169041f6eb",
+          "ingredient_id": "14e49cf9-fca5-5e59-80e7-71e990354a46",
+          "name": "rice paper sheets",
+          "display_text": "6 Rice Paper Sheets",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "692dc940-7ce1-5d7b-9d67-6cdb43470f83",
+          "ingredient_id": "0e838047-684d-55cb-884e-e7872e0e96c4",
+          "name": "mint",
+          "display_text": "Small bunch Mint",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "small bunch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "89ec3f15-7c59-5c8f-a288-dc11b470131c",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "Small bunch Coriander",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "small bunch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "ec34722a-7f4b-5deb-9131-1d0b9c66b782",
+          "ingredient_id": "ebfe6676-831a-5bcc-841b-779f40bbb238",
+          "name": "king prawns",
+          "display_text": "12 King Prawns",
+          "quantity": 12.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "seafood"
+        },
+        {
+          "id": "ead5caa7-b7ef-57d2-8e0e-13e23d3aadc5",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "1 large Carrots",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "bd1efbdf-27d0-5547-849c-5091065a0271",
+          "ingredient_id": "868972c7-da7a-5cf2-864d-fe1f7aada74b",
+          "name": "courgettes",
+          "display_text": "1 Courgettes",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Mix all the ingredients for the dipping sauce along with 50ml water in a bowl and set aside to allow the sugar to dissolve and flavor to infuse."
+    },
+    {
+      "step_number": 2,
+      "instruction": "To assemble the rolls, fill a wide bowl with warm water and grab a clean damp tea towel to work on. Dip a rice paper wrapper into the water for a few seconds until it softens then carefully place onto the tea towel."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Put a few mint and coriander leaves in the center of the wrapper then top with two prawns and a small handful of the spiralized veg, which may need to be cut up if the spirals are too long.",
+      "ingredients_used": [
+        "692dc940-7ce1-5d7b-9d67-6cdb43470f83",
+        "89ec3f15-7c59-5c8f-a288-dc11b470131c",
+        "ec34722a-7f4b-5deb-9131-1d0b9c66b782"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Fold the sides of the wrapper into the center, over the filling, then fold in the edges, so that the filling is completely encased, then tightly roll. Repeat until all of the wrappers and filling have been used. To serve, slice on a diagonal and eat with the dipping sauce."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/vietnamese-prawn-spiralized-rolls"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

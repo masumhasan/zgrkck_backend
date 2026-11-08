@@ -1,0 +1,289 @@
+{
+  "id": "49857ad9-fc77-5ee5-9c11-f6fa511f42d6",
+  "version": "1.0.0",
+  "title": "Lamb Rogan josh",
+  "slug": "lamb-rogan-josh",
+  "summary": "A classic Indian lamb curry cooked in a spiced tomato and yogurt sauce with aromatic whole spices.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:39:19Z",
+  "updated_at": "2026-10-16T10:22:45Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52808"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/vvstvq1487342592.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/vvstvq1487342592.jpg/small",
+      "alt_text": "Photo of Lamb Rogan josh",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=NZVo32n7iS8"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "b2b4e1bc-3c1e-50ce-abf4-9015553e6a16",
+        "slug": "indian",
+        "name": "Indian"
+      }
+    ],
+    "tags": [
+      "alcoholic",
+      "curry",
+      "spicy"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 65,
+    "total_time_minutes": 80
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "a bowl of lamb curry with rice"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "3cd1a3da-9a63-56ec-ae6d-70c3ee1e386b",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "e7e467db-46e5-537d-a8d7-daf33fc81f85",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "2 quartered Onion",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "quartered",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "309bf3c9-1e3f-54e3-ba43-ea437730fa74",
+          "ingredient_id": "aa561384-0d26-5008-a25e-3ba9db4b2a3f",
+          "name": "sunflower oil",
+          "display_text": "4 tbsp Sunflower Oil",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "2f0806a3-77aa-517d-bd95-6a081fe17929",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "4 cloves Garlic",
+          "quantity": 4.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "54002948-7549-5312-9d14-1118068a6d93",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "Thumb sized peeled and very finely grated Ginger",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "thumb sized peeled and very finely grated",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e3ea55d8-ad96-5342-8c6b-ec3a13197f29",
+          "ingredient_id": "90b93f6c-f5b5-5eea-8a68-dedd80617810",
+          "name": "madras paste",
+          "display_text": "2 tbsp Madras Paste",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "85d09ce1-127e-55fa-a507-3c4f251812e1",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "2 tsp Paprika",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "56e1b0f6-cc36-5bf0-8cbe-6e3c4557497a",
+          "ingredient_id": "815267d7-ad8f-543a-b885-c3fdabdc63fb",
+          "name": "cinnamon stick",
+          "display_text": "1 cinnamon stick",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "d82fd46f-1d08-5530-a159-dbe5c932597a",
+          "ingredient_id": "d72c12ae-5cbc-534c-bbd5-bc044d844d0a",
+          "name": "cardamom",
+          "display_text": "6 bashed to break shells Cardamom",
+          "quantity": 6.0,
+          "unit": "piece",
+          "preparation": "bashed to break shells",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "8c328a39-4e43-5589-ba08-9269061e8386",
+          "ingredient_id": "73063cfc-1094-5f58-87bf-49227197f2a2",
+          "name": "cloves",
+          "display_text": "4 Cloves",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1bd921e0-6eb3-5711-ab33-fa98b6915345",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaf",
+          "display_text": "2 Bay Leaf",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "e6218c0d-15fd-537c-a3fa-19dcca616885",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato purée",
+          "display_text": "1 tbsp Tomato Purée",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "93d374e9-8966-5593-bdab-6fa29274c734",
+          "ingredient_id": "9d9a6681-e50b-5870-820c-5bf49172a394",
+          "name": "lamb",
+          "display_text": "1kg cubed Lamb",
+          "quantity": 1.0,
+          "unit": "kilogram",
+          "preparation": "cubed",
+          "is_optional": false,
+          "metric_quantity": 1.0,
+          "metric_unit": "kilogram",
+          "category": "meat"
+        },
+        {
+          "id": "70c4074c-8048-5476-9c44-8c21074290c4",
+          "ingredient_id": "ba22b73d-e619-5bc7-a859-f65b683613fe",
+          "name": "greek yogurt",
+          "display_text": "150ml Greek yogurt",
+          "quantity": 150.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "565c0471-1405-5752-93e8-55a360553532",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "Garnish chopped Coriander",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "garnish chopped",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Put the onions in a food processor and whizz until very finely chopped. Heat the oil in a large heavy-based pan, then fry the onion with the lid on, stirring every now and then, until it is really golden and soft. Add the garlic and ginger, then fry for 5 mins more.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "e7e467db-46e5-537d-a8d7-daf33fc81f85",
+        "2f0806a3-77aa-517d-bd95-6a081fe17929",
+        "54002948-7549-5312-9d14-1118068a6d93"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Tip the curry paste, all the spices and the bay leaves into the pan, with the tomato purée. Stir well over the heat for about 30 secs, then add the meat and 300ml water. Stir to mix, turn down the heat, then add the yogurt.",
+      "timer_seconds": 30,
+      "ingredients_used": [
+        "e6218c0d-15fd-537c-a3fa-19dcca616885",
+        "70c4074c-8048-5476-9c44-8c21074290c4"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Cover the pan, then gently simmer for 40-60 mins until the meat is tender and the sauce nice and thick. Serve scattered with coriander, with plain basmati or pilau rice.",
+      "timer_seconds": 3600,
+      "ingredients_used": [
+        "565c0471-1405-5752-93e8-55a360553532"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: http://www.bbcgoodfood.com/recipes/9643/onepan-rogan-josh"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

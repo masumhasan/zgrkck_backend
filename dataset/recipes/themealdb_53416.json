@@ -1,0 +1,259 @@
+{
+  "id": "8a2f41e5-43bf-56f2-ab95-1f1a6a238ee6",
+  "version": "1.0.0",
+  "title": "Trinxat (Potato, Cabbage and Bacon Hash)",
+  "slug": "trinxat-potato-cabbage-and-bacon-hash",
+  "summary": "A traditional Andorran dish consisting of mashed potatoes and cabbage fried in bacon fat until golden brown.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:32:17Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53416"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/khpso71779732715.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/khpso71779732715.jpg/small",
+      "alt_text": "Photo of Trinxat (Potato, Cabbage and Bacon Hash)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/shorts/Ro-S7zlFvN4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4ae69bee-e4d8-5b74-8959-5af11c0b3454",
+        "slug": "andorran",
+        "name": "Andorran"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 40,
+    "total_time_minutes": 55
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 hash patty"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "582c4e22-aa6d-50bc-8ade-2ceaeed91c5a",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "2e0f62c4-9bc8-545a-adf6-98bf77b0492c",
+          "ingredient_id": "8604c41c-a935-5634-b405-fed806fe806b",
+          "name": "cabbage",
+          "display_text": "1/2 Cabbage",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "31518a9e-ea97-5c89-a1b4-4e6845c3569c",
+          "ingredient_id": "dd855601-7333-53ea-84e3-5bbe01eea027",
+          "name": "russet potato",
+          "display_text": "2 medium Russet Potato",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "48965a69-6dcd-5d93-b433-fe0889cf2960",
+          "ingredient_id": "956cfefc-d0f9-5c1f-9f20-d38a1e4dbdad",
+          "name": "bacon",
+          "display_text": "4 Chopped Bacon",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "meat"
+        },
+        {
+          "id": "056d5534-df12-554a-b8b1-351a2d603f34",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves minced Garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "preparation": "minced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "aeb152db-c146-580b-879a-9e2fc3fd62ba",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "1 tablespoon Parsley",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "acb0a9fa-adcc-5394-a45c-331a28db85c7",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "dba41d9c-0891-534b-8b03-8328afa9ce31",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "To taste Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Bring salted water to boil in a large pot.",
+      "ingredients_used": [
+        "acb0a9fa-adcc-5394-a45c-331a28db85c7"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add in the cabbage and potatoes, cook until tender about 30-40 minutes",
+      "timer_seconds": 2400,
+      "ingredients_used": [
+        "2e0f62c4-9bc8-545a-adf6-98bf77b0492c",
+        "31518a9e-ea97-5c89-a1b4-4e6845c3569c"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "When tender, drain, very well."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Return the vegetables to the pot and turn on the burner to low. Let steam"
+    },
+    {
+      "step_number": 5,
+      "instruction": "Meanwhile cook up the bacon, reserving the fat for frying the hash.",
+      "ingredients_used": [
+        "48965a69-6dcd-5d93-b433-fe0889cf2960"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Chop up the bacon, into small pieces.",
+      "ingredients_used": [
+        "48965a69-6dcd-5d93-b433-fe0889cf2960"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Mash the potatoes and cabbage with a potato masher and add in the minced garlic.",
+      "ingredients_used": [
+        "2e0f62c4-9bc8-545a-adf6-98bf77b0492c",
+        "31518a9e-ea97-5c89-a1b4-4e6845c3569c",
+        "056d5534-df12-554a-b8b1-351a2d603f34"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Add in salt and pepper to taste.",
+      "ingredients_used": [
+        "acb0a9fa-adcc-5394-a45c-331a28db85c7",
+        "dba41d9c-0891-534b-8b03-8328afa9ce31"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Using a form for individual servings, press the hash mixture into the form with bacon on top, fry in the reserved bacon fat until golden brown, flip over and repeat on the other side.",
+      "ingredients_used": [
+        "48965a69-6dcd-5d93-b433-fe0889cf2960"
+      ]
+    },
+    {
+      "step_number": 10,
+      "instruction": "Remove form and garnish with chopped parsley.",
+      "ingredients_used": [
+        "aeb152db-c146-580b-879a-9e2fc3fd62ba"
+      ]
+    },
+    {
+      "step_number": 11,
+      "instruction": "If you want to make one big hash, just use a skillet, pressing the hash into the skillet with the bacon pieces and reserved fat, then flip over once golden brown. Cut into servings.",
+      "ingredients_used": [
+        "48965a69-6dcd-5d93-b433-fe0889cf2960"
+      ]
+    },
+    {
+      "step_number": 12,
+      "instruction": "Garnish with chopped parsley.",
+      "ingredients_used": [
+        "aeb152db-c146-580b-879a-9e2fc3fd62ba"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.internationalcuisine.com/trinxat/#wprm-recipe-container-12938"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

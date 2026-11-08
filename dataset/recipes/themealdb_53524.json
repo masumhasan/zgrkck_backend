@@ -1,0 +1,290 @@
+{
+  "id": "f5fab943-fae5-541b-b819-75363386bba6",
+  "version": "1.0.0",
+  "title": "Coconut Natilla Recipe",
+  "slug": "coconut-natilla-recipe",
+  "summary": "A traditional Colombian coconut custard made with milk, coconut, and cornstarch, flavored with cinnamon and vanilla.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:41:48Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53524"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/gp1sj51783799928.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/gp1sj51783799928.jpg/small",
+      "alt_text": "Photo of Coconut Natilla Recipe",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "50fefb0a-1f33-59b0-afdb-383ba2373950",
+        "slug": "colombian",
+        "name": "Colombian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 20,
+    "rest_time_minutes": 120,
+    "total_time_minutes": 155
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1 custard cup"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "2481bd7b-0f87-5202-a992-a8b4f7fa4f48",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "7febd239-d60b-57ad-80af-8eb4731b181e",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "3 Cups Milk",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "107b35e7-7c8f-5fb3-9e23-e486956ffde1",
+          "ingredient_id": "4bdb1684-cdb6-5a8f-b220-c622cf2655cc",
+          "name": "cornstarch",
+          "display_text": "1 cup Cornstarch",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "dc6bb87e-fe46-51ad-abd1-04bcc56b8bf7",
+          "ingredient_id": "4bdb1684-cdb6-5a8f-b220-c622cf2655cc",
+          "name": "cornstarch",
+          "display_text": "2 tablespoons Cornstarch",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "a31d68f4-6f25-5609-a58b-3773dfb705d0",
+          "ingredient_id": "0435e55e-84f6-566c-ac81-37617bbab91c",
+          "name": "coconut milk",
+          "display_text": "1 cup Coconut Milk",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "b7166ea4-a2db-5d04-8d63-da733d83c0a8",
+          "ingredient_id": "739769d2-a7f0-5fac-98c1-26e2aa7ce44e",
+          "name": "coconut",
+          "display_text": "1/2 cup Coconut",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "f9ba0d18-0d8c-5694-bdaa-24975dbdeda4",
+          "ingredient_id": "815267d7-ad8f-543a-b885-c3fdabdc63fb",
+          "name": "cinnamon stick",
+          "display_text": "2 Cinnamon Stick",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "772bd0b3-8e87-5d63-9488-fd3b035dba80",
+          "ingredient_id": "3fe531f9-aa92-5d4e-9940-e8eddf18456b",
+          "name": "condensed milk",
+          "display_text": "1 Can Condensed Milk",
+          "quantity": 1.0,
+          "unit": "can",
+          "is_optional": false,
+          "category": "dairy"
+        },
+        {
+          "id": "93731e57-5191-5948-82e0-4772c123f727",
+          "ingredient_id": "da099423-cd45-5925-b8b4-7ec03847ab48",
+          "name": "vanilla extract",
+          "display_text": "1/2 tsp Vanilla Extract",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "7eabbf00-cbf1-5f9a-bc0e-d9c58908f617",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1/3 cup Sugar",
+          "quantity": 0.3333,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 80.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "0f9f5032-de2c-5ad8-884a-8628706ae45e",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "d8518fc1-657f-5b9f-b3a4-616c5b0769a8",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "1 tablespoon Butter",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "42de9eac-23d2-55b0-b0b4-9bce859049db",
+          "ingredient_id": "7af3c207-3c37-5965-a096-bf34ac1db1f4",
+          "name": "ground cinnamon",
+          "display_text": "To taste Ground Cinnamon",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Place 1 cup of milk in a small bowl, add the cornstarch and stir to dissolve it, then set aside.",
+      "ingredients_used": [
+        "7febd239-d60b-57ad-80af-8eb4731b181e",
+        "107b35e7-7c8f-5fb3-9e23-e486956ffde1",
+        "dc6bb87e-fe46-51ad-abd1-04bcc56b8bf7",
+        "a31d68f4-6f25-5609-a58b-3773dfb705d0",
+        "772bd0b3-8e87-5d63-9488-fd3b035dba80"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Place the coconut milk and grated coconut in the blender and blend until smooth and set aside.",
+      "ingredients_used": [
+        "7febd239-d60b-57ad-80af-8eb4731b181e",
+        "a31d68f4-6f25-5609-a58b-3773dfb705d0",
+        "b7166ea4-a2db-5d04-8d63-da733d83c0a8",
+        "772bd0b3-8e87-5d63-9488-fd3b035dba80"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Place the rest of the milk and cinnamon sticks in a medium pot and bring the mixture to boil over medium-low heat. When the milk is a little warm, but not boiling, add the coconut mixture.",
+      "ingredients_used": [
+        "7febd239-d60b-57ad-80af-8eb4731b181e",
+        "a31d68f4-6f25-5609-a58b-3773dfb705d0",
+        "b7166ea4-a2db-5d04-8d63-da733d83c0a8",
+        "f9ba0d18-0d8c-5694-bdaa-24975dbdeda4",
+        "772bd0b3-8e87-5d63-9488-fd3b035dba80",
+        "42de9eac-23d2-55b0-b0b4-9bce859049db"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "When the milk starts boiling, add the condensed milk, sugar and salt. Stir well with a wooden spoon. Add the milk and cornstarch mixture and continue stirring constantly.",
+      "ingredients_used": [
+        "7febd239-d60b-57ad-80af-8eb4731b181e",
+        "107b35e7-7c8f-5fb3-9e23-e486956ffde1",
+        "dc6bb87e-fe46-51ad-abd1-04bcc56b8bf7",
+        "a31d68f4-6f25-5609-a58b-3773dfb705d0",
+        "772bd0b3-8e87-5d63-9488-fd3b035dba80",
+        "7eabbf00-cbf1-5f9a-bc0e-d9c58908f617",
+        "0f9f5032-de2c-5ad8-884a-8628706ae45e"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Add the vanilla extract. Reduce the heat to low and continue stirring until the Natilla thickens, about 10 to 20 minutes. Add the butter, stir and remove from the heat. Discard the cinnamon sticks. Ladle into a serving dish or individual custard cups. Sprinkle cinnamon powder on top and let it cool at room temperature for at least 2 hours. Refrigerate until ready to serve.",
+      "ingredients_used": [
+        "f9ba0d18-0d8c-5694-bdaa-24975dbdeda4",
+        "93731e57-5191-5948-82e0-4772c123f727",
+        "d8518fc1-657f-5b9f-b3a4-616c5b0769a8",
+        "42de9eac-23d2-55b0-b0b4-9bce859049db"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.mycolombianrecipes.com/natilla-colombiana-colombian-style-pudding/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "id": "5448440c-e735-54bb-9126-63f201ae4d9b",
+  "version": "1.0.0",
+  "title": "Chocolate Coconut Squares",
+  "slug": "chocolate-coconut-squares",
+  "summary": "A chocolate sponge cake base topped with a chocolate icing and rolled in desiccated coconut.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:04:19Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53101"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/8oupz51761848432.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/8oupz51761848432.jpg/small",
+      "alt_text": "Photo of Chocolate Coconut Squares",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=8TzqUo8PCLg"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6442c74c-e246-57a7-870b-9366b38050a8",
+        "slug": "australian",
+        "name": "Australian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 20,
+    "rest_time_minutes": 20,
+    "total_time_minutes": 55
+  },
+  "yield": {
+    "servings": 16,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 chocolate square"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": [
+      "soy"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "55b99861-8669-57b8-a431-a370236ad970",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "5fd0b0f3-c116-5759-9b89-d82604e38ff4",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "100g Butter",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "3faea28b-8c49-5634-91e3-b887227670fd",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "100g Caster Sugar",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "d5654ff2-70db-536d-8726-449ddd6a43dd",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "2 Egg",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "3fe930bc-1430-5073-9adf-c3e1f8d45abd",
+          "ingredient_id": "d923f6bd-1129-51bf-ba9e-32b3305fa65e",
+          "name": "self-raising flour",
+          "display_text": "140g Self-raising Flour",
+          "quantity": 140.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 140.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "e77901ed-3e7f-5aa5-9be6-955484222140",
+          "ingredient_id": "101ffa71-0ea7-5cbc-9c86-9163709fd9a3",
+          "name": "baking powder",
+          "display_text": "1 teaspoon Baking Powder",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "5675ce5f-c403-53dc-b2f9-f27306919dec",
+          "ingredient_id": "6c64db5e-ca58-5d5d-9518-d41d949dd540",
+          "name": "cocoa powder",
+          "display_text": "2 tablespoons Cocoa Powder",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "2afdcb74-9587-523b-b9de-8a2e2f8903d2",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "2 tablespoons Milk",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "cab38a9d-c9f9-5be6-8087-b314cce3ee2f",
+          "ingredient_id": "5249cdcb-b4e9-58d9-b02d-ab4627bed87e",
+          "name": "plain chocolate",
+          "display_text": "100g Plain Chocolate",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "c3358a62-12d1-52e2-bfe5-34c73a9484e4",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "25g Butter",
+          "quantity": 25.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 25.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "78ab61bc-1335-5e04-ad91-3d69c7d74a6e",
+          "ingredient_id": "c3b952d9-9879-569e-a989-b29a9b7ec664",
+          "name": "icing sugar",
+          "display_text": "100g Icing Sugar",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "5a50ec6f-468e-520b-b10f-77ac5f2e4704",
+          "ingredient_id": "4fa73e5a-853a-5513-bfa8-edb5e7f03cce",
+          "name": "desiccated coconut",
+          "display_text": "100g Desiccated Coconut",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 180C/fan 160C/gas 4. Butter and line the base of a 20cm square baking tin. Beat together the butter and sugar until pale and creamy, then beat in the eggs. Add 1 tbsp of the flour if the mix starts to curdle.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "5fd0b0f3-c116-5759-9b89-d82604e38ff4",
+        "c3358a62-12d1-52e2-bfe5-34c73a9484e4"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Sieve in the flour, baking powder and cocoa and fold in with a metal spoon. Stir in the milk. Scrape mix into the tin and level the top. Bake for 18-20 mins or until the cake springs back when pressed. Allow to cool in the tin.",
+      "timer_seconds": 1200,
+      "ingredients_used": [
+        "e77901ed-3e7f-5aa5-9be6-955484222140",
+        "2afdcb74-9587-523b-b9de-8a2e2f8903d2"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "To make the icing, put the chocolate, butter and 4 tbsp water in a pan and gently heat until melted. Allow to cool slightly, then beat in the icing sugar.",
+      "ingredients_used": [
+        "5fd0b0f3-c116-5759-9b89-d82604e38ff4",
+        "cab38a9d-c9f9-5be6-8087-b314cce3ee2f",
+        "c3358a62-12d1-52e2-bfe5-34c73a9484e4",
+        "78ab61bc-1335-5e04-ad91-3d69c7d74a6e"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Remove cake from tin and peel away paper. Cut into 16 squares. Dip the squares into the icing, then roll in the coconut. Allow to set on cooling rack.",
+      "ingredients_used": [
+        "5a50ec6f-468e-520b-b10f-77ac5f2e4704"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/isaacs-chocolate-coconut-squares"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

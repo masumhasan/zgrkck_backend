@@ -1,0 +1,284 @@
+{
+  "id": "b5d7173b-9236-5ddc-96c9-c69e4efb6684",
+  "version": "1.0.0",
+  "title": "Stuffed Grape Leaves",
+  "slug": "stuffed-grape-leaves",
+  "summary": "A traditional Armenian dish consisting of rice, spices, and aromatics, often used as a filling for grape leaves.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:33:55Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53435"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/oga0ax1780089591.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/oga0ax1780089591.jpg/small",
+      "alt_text": "Photo of Stuffed Grape Leaves",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "2e3a53d2-b262-5dd0-b1a9-2ef277b88347",
+        "slug": "armenian",
+        "name": "Armenian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 45
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 cup of filling"
+  },
+  "allergens": {
+    "contains": [
+      "tree_nuts",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "15372bf2-97c1-5a47-bf8f-a55ba3b5b992",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "453527d1-df97-50f6-b582-1f7c5884079c",
+          "ingredient_id": "025b8433-c498-5b37-813a-ec00ac6c2ae5",
+          "name": "rice",
+          "display_text": "1 cup Rice",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "9a1632b4-4da0-56e7-9e1f-70cff94f82b4",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "2 cups Chicken Stock",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "82277dda-f0f3-5ca2-88f3-e2de919525c1",
+          "ingredient_id": "90e5122f-4f82-5545-8a35-7a3d959514b3",
+          "name": "tomato sauce",
+          "display_text": "1 cup Tomato Sauce",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "89afea59-ebdf-5eab-bc5b-553320337613",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1/4 cup Olive Oil",
+          "quantity": 0.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "97de4048-f6b2-5d57-bd26-077dd36ff7e6",
+          "ingredient_id": "3c1f3ec3-71e9-5cc4-ad1e-cc142a823fa4",
+          "name": "ground allspice",
+          "display_text": "1/4 tsp Ground Allspice",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "b9195a3e-20b6-5db5-8456-ca20ff02d916",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "1/2 tsp Cinnamon",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "67096e61-a1ff-5083-9016-5e181bddc6e0",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e894a3f3-5d53-5816-a0a1-8113bb546ab8",
+          "ingredient_id": "8d52ad34-1aea-57a9-8e92-aabab5116059",
+          "name": "raisins",
+          "display_text": "1/2 cup Raisins",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "73f08acc-4880-5872-8cfc-ea3c97f47737",
+          "ingredient_id": "c20ef13e-7f52-5fce-847f-34f123e6392e",
+          "name": "dill",
+          "display_text": "1/2 cup Dill",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "a14ab3ba-039a-52fd-91dd-f11342c68c39",
+          "ingredient_id": "d33b80af-1e5d-5fa5-a5a8-1cc1a925e2ee",
+          "name": "pine nuts",
+          "display_text": "1/2 cup Pine Nuts",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "nuts_seeds"
+        },
+        {
+          "id": "83a5f2ab-a8da-5fba-9ca2-bf923a303c0c",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "Juice of 1 Lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "9fe2987d-e111-5ec4-8241-916b5d24d0b3",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "277e0464-8696-5487-921d-26eab050173b",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "To taste Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Wash rice in cold water until water runs clear.",
+      "ingredients_used": [
+        "453527d1-df97-50f6-b582-1f7c5884079c"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Sauté onions in olive oil until tender.",
+      "ingredients_used": [
+        "89afea59-ebdf-5eab-bc5b-553320337613",
+        "67096e61-a1ff-5083-9016-5e181bddc6e0"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add spices and stir until fragrant."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add remaining ingredients."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Bring to a gentle boil, then simmer for 30 minutes until all stock is absorbed and rice is tender.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "453527d1-df97-50f6-b582-1f7c5884079c"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Serve as a side dish or filling for dolmas."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.armenianmuseum.org/armenian-recipes/nanas-stuffed-grape-leaves"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

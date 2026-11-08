@@ -1,0 +1,265 @@
+{
+  "id": "6019a007-7e1b-5fcb-a1e9-407d8fb7f055",
+  "version": "1.0.0",
+  "title": "Pad See Ew",
+  "slug": "pad-see-ew",
+  "summary": "A Thai stir-fried noodle dish featuring wide rice noodles, chicken, and Chinese broccoli in a savory dark soy sauce.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:36:53Z",
+  "updated_at": "2026-10-16T10:22:43Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52774"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg/small",
+      "alt_text": "Photo of Pad See Ew",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Ohy1DELF4is"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "724b7c6a-f254-57d4-9729-335a2b2d93b1",
+        "slug": "thai",
+        "name": "Thai"
+      }
+    ],
+    "tags": [
+      "pasta"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 25
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 plate of noodles with chicken and broccoli"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "peanuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish"
+    ],
+    "free_from": [
+      "dairy",
+      "tree_nuts",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "93c159ef-e91c-5def-8168-69f36d42958d",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "4a4abdf5-cd07-556c-b6ec-55be0dac059c",
+          "ingredient_id": "e5b3cc9e-c722-5a7a-9386-b7349fa3eaa2",
+          "name": "rice stick noodles",
+          "display_text": "6oz/180g rice stick noodles",
+          "quantity": 6.0,
+          "unit": "ounce",
+          "is_optional": false,
+          "metric_quantity": 170.1,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "a287a6a7-28e7-5d43-99cd-430326d6fdaf",
+          "ingredient_id": "e10c10bd-6de1-5804-8764-2242b1cff330",
+          "name": "dark soy sauce",
+          "display_text": "2 tbsp dark soy sauce",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "a996ac9e-0bec-56dd-9048-ce009d217821",
+          "ingredient_id": "42972e00-9d00-55f1-8658-5357075be010",
+          "name": "oyster sauce",
+          "display_text": "2 tbsp oyster sauce",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "09bd8e0a-8bec-59c0-9b8a-1356bcc414c2",
+          "ingredient_id": "12f28e74-3836-5324-90e5-1510a4498cfd",
+          "name": "soy sauce",
+          "display_text": "2 tsp soy sauce",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "238fa087-3373-5b09-ac79-d6390776420b",
+          "ingredient_id": "b7b7e394-7e0b-5e0b-8f4c-19d0888f8705",
+          "name": "white vinegar",
+          "display_text": "2 tsp white vinegar",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "ddb89f19-2016-5410-a2dd-2684e02e97f0",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "2 tsp sugar",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "bc8ee7d2-6ef7-5cba-9681-106b14e6cf18",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "2 tbsp water",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "c4dbbb4a-8265-59fa-a513-987e46b7ff28",
+          "ingredient_id": "fcf01683-f48b-5ffc-bf64-b06f7405707c",
+          "name": "peanut oil",
+          "display_text": "2 tbsp peanut oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "2b7f861a-3d44-50e3-a6e5-361853a7c1a6",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "2 cloves garlic",
+          "quantity": 2.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "946d395a-065f-553e-b48a-b709ea925b89",
+          "ingredient_id": "96643234-56e3-5df9-9877-487e63d7cb8b",
+          "name": "chicken",
+          "display_text": "1 cup Chicken",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "poultry"
+        },
+        {
+          "id": "c3a93354-7db1-564e-a0ab-2f7765c9eb11",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "1 Egg",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "ed75869d-ba98-530d-86b3-a41c1896f521",
+          "ingredient_id": "f92f7715-0730-5d6e-946b-35f767bb7793",
+          "name": "chinese broccoli",
+          "display_text": "4 cups Chinese broccoli",
+          "quantity": 4.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 960.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Mix Sauce in small bowl."
+    },
+    {
+      "step_number": 2,
+      "instruction": "Mince garlic into wok with oil. Place over high heat, when hot, add chicken and Chinese broccoli stems, cook until chicken is light golden.",
+      "ingredients_used": [
+        "2b7f861a-3d44-50e3-a6e5-361853a7c1a6",
+        "946d395a-065f-553e-b48a-b709ea925b89",
+        "ed75869d-ba98-530d-86b3-a41c1896f521"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Push to the side of the wok, crack egg in and scramble. Don't worry if it sticks to the bottom of the wok - it will char and which adds authentic flavor.",
+      "ingredients_used": [
+        "c3a93354-7db1-564e-a0ab-2f7765c9eb11"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add noodles, Chinese broccoli leaves and sauce. Gently mix together until the noodles are stained dark and leaves are wilted. Serve immediately!",
+      "ingredients_used": [
+        "4a4abdf5-cd07-556c-b6ec-55be0dac059c",
+        "ed75869d-ba98-530d-86b3-a41c1896f521"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

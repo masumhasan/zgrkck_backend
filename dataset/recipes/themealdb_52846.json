@@ -1,0 +1,272 @@
+{
+  "id": "22c948ff-52bd-5407-8af5-52f590aea985",
+  "version": "1.0.0",
+  "title": "Chicken & mushroom Hotpot",
+  "slug": "chicken-mushroom-hotpot",
+  "summary": "A classic British comfort dish consisting of chicken and mushrooms in a creamy sauce, topped with sliced potatoes and baked until golden.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:42:35Z",
+  "updated_at": "2026-10-16T10:22:48Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52846"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg/small",
+      "alt_text": "Photo of Chicken & mushroom Hotpot",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=bXKWu4GojNI"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 47,
+    "total_time_minutes": 62
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 portion of chicken and potato hotpot"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "mustard"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "6edfa34c-566a-5b49-a441-943111126422",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "02b087f0-c40a-58ad-a878-b43071f03e48",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "50g Butter",
+          "quantity": 50.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 50.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "c3287fe3-1b32-5eb9-aa06-f97924e308d1",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d147edce-5778-581f-bfe7-f910f84f8b07",
+          "ingredient_id": "5031dcf8-ef4a-588f-ae8f-de7c2790dfac",
+          "name": "mushrooms",
+          "display_text": "100g Mushrooms",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "58002e85-7a0b-500f-93fc-c762cdc862fe",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "40g Plain Flour",
+          "quantity": 40.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 40.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "268bcc7b-191d-5258-8902-41117e1eb03e",
+          "ingredient_id": "c51e6b59-c18d-5488-827d-6e870113c2e5",
+          "name": "chicken stock cube",
+          "display_text": "1 Chicken Stock Cube",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "f16c0461-331e-528f-a375-39e861e7ea00",
+          "ingredient_id": "9426e9cd-e7b2-540e-8ddb-187c01748931",
+          "name": "nutmeg",
+          "display_text": "pinch Nutmeg",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "80cbaa1f-4a99-54fe-9246-4c6d3bc06973",
+          "ingredient_id": "d359ecfb-a1ce-5f43-b904-6b077bf752ea",
+          "name": "mustard powder",
+          "display_text": "pinch Mustard Powder",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "condiments"
+        },
+        {
+          "id": "aee53270-50e0-52c7-8bca-80969fa5adf8",
+          "ingredient_id": "96643234-56e3-5df9-9877-487e63d7cb8b",
+          "name": "chicken",
+          "display_text": "250g Chicken",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "poultry"
+        },
+        {
+          "id": "d623a0b1-c9f0-5cac-842a-e2e2590e937e",
+          "ingredient_id": "92714bc1-780e-51dd-976e-bfbc04bc95a8",
+          "name": "sweetcorn",
+          "display_text": "2 Handfuls Sweetcorn",
+          "quantity": 2.0,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "canned_goods"
+        },
+        {
+          "id": "e88d1a25-7018-5731-950c-73ac82517ea5",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "2 large Potatoes",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "e8899c27-5d78-5a55-90b5-f51808289911",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "1 knob Butter",
+          "quantity": 1.0,
+          "unit": "knob",
+          "is_optional": false,
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 200C/180C fan/gas 6. Put the butter in a medium-size saucepan and place over a medium heat. Add the onion and leave to cook for 5 mins, stirring occasionally. Add the mushrooms to the saucepan with the onions.",
+      "timer_seconds": 300,
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "02b087f0-c40a-58ad-a878-b43071f03e48",
+        "c3287fe3-1b32-5eb9-aa06-f97924e308d1",
+        "d147edce-5778-581f-bfe7-f910f84f8b07",
+        "e8899c27-5d78-5a55-90b5-f51808289911"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Once the onion and mushrooms are almost cooked, stir in the flour – this will make a thick paste called a roux. If you are using a stock cube, crumble the cube into the roux now and stir well. Put the roux over a low heat and stir continuously for 2 mins – this will cook the flour and stop the sauce from having a floury taste.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "c3287fe3-1b32-5eb9-aa06-f97924e308d1",
+        "d147edce-5778-581f-bfe7-f910f84f8b07",
+        "268bcc7b-191d-5258-8902-41117e1eb03e"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Take the roux off the heat. Slowly add the fresh stock, if using, or pour in 500ml water if you’ve used a stock cube, stirring all the time. Once all the liquid has been added, season with pepper, a pinch of nutmeg and mustard powder. Put the saucepan back onto a medium heat and slowly bring it to the boil, stirring all the time. Once the sauce has thickened, place on a very low heat. Add the cooked chicken and vegetables to the sauce and stir well. Grease a medium-size ovenproof pie dish with a little butter and pour in the chicken and mushroom filling.",
+      "ingredients_used": [
+        "02b087f0-c40a-58ad-a878-b43071f03e48",
+        "268bcc7b-191d-5258-8902-41117e1eb03e",
+        "f16c0461-331e-528f-a375-39e861e7ea00",
+        "80cbaa1f-4a99-54fe-9246-4c6d3bc06973",
+        "aee53270-50e0-52c7-8bca-80969fa5adf8",
+        "e8899c27-5d78-5a55-90b5-f51808289911"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Carefully lay the potatoes on top of the hot-pot filling, overlapping them slightly, almost like a pie top.",
+      "ingredients_used": [
+        "e88d1a25-7018-5731-950c-73ac82517ea5"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Brush the potatoes with a little melted butter and cook in the oven for about 35 mins. The hot-pot is ready once the potatoes are cooked and golden brown.",
+      "timer_seconds": 2100,
+      "ingredients_used": [
+        "02b087f0-c40a-58ad-a878-b43071f03e48",
+        "e88d1a25-7018-5731-950c-73ac82517ea5",
+        "e8899c27-5d78-5a55-90b5-f51808289911"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/chicken-mushroom-hot-pot"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "id": "55845024-8b21-5641-a51c-214e2b5c4939",
+  "version": "1.0.0",
+  "title": "Cucumber & fennel salad",
+  "slug": "cucumber-fennel-salad",
+  "summary": "A refreshing Polish salad made with sliced cucumber and fennel tossed in a creamy lemon and dill dressing.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:22:53Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53309"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/ei21r61764365935.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/ei21r61764365935.jpg/small",
+      "alt_text": "Photo of Cucumber & fennel salad",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=gfNjne0AMb0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d40b0607-0a3a-5f5d-8012-7eaf1b714fa5",
+        "slug": "polish",
+        "name": "Polish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "courses": [
+      "side_dish",
+      "salad"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": [
+      "summer_refreshment"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 0,
+    "marinating_time_minutes": 10,
+    "total_time_minutes": 20
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of salad"
+  },
+  "allergens": {
+    "contains": [
+      "dairy"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "724283f9-bfdb-598b-a6e1-3aeb894f70b0",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "cfd8dfef-fa87-5921-acbe-9a2d838e1128",
+          "ingredient_id": "8f9e104a-822f-5bda-b376-eee34fc38609",
+          "name": "cucumber",
+          "display_text": "1 large Cucumber",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ebb9bdae-f1e3-5a4a-ad47-c37823dd4e77",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "1 tsp Sugar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "6cef3d4d-ee2b-588e-8064-66a4eba1fb00",
+          "ingredient_id": "b82bdfe9-4fe1-5840-ab6c-b4bb8469fe4e",
+          "name": "fennel bulb",
+          "display_text": "1 sliced Fennel Bulb",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "074dfb27-7f31-51b2-9d61-9b6da3608028",
+          "ingredient_id": "6ca777b1-4e80-5a4b-8ffe-88c954e2cc8a",
+          "name": "sour cream",
+          "display_text": "150ml Sour Cream",
+          "quantity": 150.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "406b8c43-a17e-54da-bbf0-4490c03ac740",
+          "ingredient_id": "8623e7db-e215-5668-966a-9f2bb4f5dac2",
+          "name": "lemon",
+          "display_text": "Juice of 1 Lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "96f81454-bab8-575c-996e-4837d3c73d24",
+          "ingredient_id": "fa7445fe-6dac-523d-9bc7-0bdbcf354913",
+          "name": "white wine vinegar",
+          "display_text": "1 tablespoon White Wine Vinegar",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "8de5971f-907f-5e47-b305-da0817f6e1c1",
+          "ingredient_id": "c20ef13e-7f52-5fce-847f-34f123e6392e",
+          "name": "dill",
+          "display_text": "Bunch Dill",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "bunch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Put cucumber in a sieve. Sprinkle with 1 tsp salt and the sugar, then leave for 10 mins. Add fennel.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "cfd8dfef-fa87-5921-acbe-9a2d838e1128",
+        "ebb9bdae-f1e3-5a4a-ad47-c37823dd4e77"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Mix soured cream, lemon juice, vinegar and dill, then season with black pepper and add to fennel mix.",
+      "ingredients_used": [
+        "406b8c43-a17e-54da-bbf0-4490c03ac740",
+        "8de5971f-907f-5e47-b305-da0817f6e1c1"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/cucumber-fennel-salad"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "id": "a0162efa-1a97-5c26-9a76-b100451ac8a9",
+  "version": "1.0.0",
+  "title": "Pear Tarte Tatin",
+  "slug": "pear-tarte-tatin",
+  "summary": "A classic French dessert consisting of caramelized pears topped with a golden puff pastry crust, served upside down.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:48:53Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52916"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/rxvxrr1511797671.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/rxvxrr1511797671.jpg/small",
+      "alt_text": "Photo of Pear Tarte Tatin",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=8U1tKWKDeWA"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "fe8f07a1-591f-5711-ae5b-f3c9afcc3e60",
+        "slug": "french",
+        "name": "French"
+      }
+    ],
+    "tags": [
+      "baking",
+      "glazed",
+      "tart"
+    ],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 42,
+    "rest_time_minutes": 10,
+    "total_time_minutes": 72
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 pear slice with pastry"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "fa93e17d-a128-500e-9861-4e2d896a1ce3",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "74d40a0c-d61b-5a51-bdeb-982a48a5787c",
+          "ingredient_id": "f860719d-0ad4-5af5-9d9d-6c7b92066f56",
+          "name": "pears",
+          "display_text": "8 Pears",
+          "quantity": 8.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ec51c07d-7f0d-5ad7-9b1f-6078f65ebb77",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "100g Caster Sugar",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "c0ef534b-e873-5d49-9770-1008db8fcec8",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "100g Butter",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "792ae770-e09b-55c7-b394-a8ead9acbadd",
+          "ingredient_id": "64157e8a-c6c6-55a2-a87b-181db452c2d2",
+          "name": "star anise",
+          "display_text": "2 Star Anise",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "ece5ecb8-f26e-5b5a-bcb4-45cffffa180e",
+          "ingredient_id": "d72c12ae-5cbc-534c-bbd5-bc044d844d0a",
+          "name": "cardamom",
+          "display_text": "3 Pods Cardamom",
+          "quantity": 3.0,
+          "unit": "piece",
+          "preparation": "pods",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "b8f8cc70-59a7-578a-b740-3aefff4580c6",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "1 large Cinnamon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "cda225dc-48f4-54f1-ab45-51b4c078b6c1",
+          "ingredient_id": "063ff6f2-ecba-5f08-abd6-0646882f3f1d",
+          "name": "brandy",
+          "display_text": "2 tbs Brandy",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "f39e7a02-1b75-5432-bdd1-a6d073318530",
+          "ingredient_id": "a552ed18-91bb-59fa-a3c1-dad1308c6c3e",
+          "name": "puff pastry",
+          "display_text": "500g Puff Pastry",
+          "quantity": 500.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 500.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Core the pears, then peel as neatly as possible and halve. If you like, they can be prepared up to a day ahead and kept in the fridge, uncovered, so that they dry out.",
+      "ingredients_used": [
+        "74d40a0c-d61b-5a51-bdeb-982a48a5787c"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Tip the sugar, butter, star anise, cardamom and cinnamon into an ovenproof frying pan, about 20cm wide, and place over a high heat until bubbling. Shake the pan and stir the buttery sauce until it separates and the sugar caramelizes to a toffee color.",
+      "ingredients_used": [
+        "c0ef534b-e873-5d49-9770-1008db8fcec8",
+        "792ae770-e09b-55c7-b394-a8ead9acbadd",
+        "ece5ecb8-f26e-5b5a-bcb4-45cffffa180e",
+        "b8f8cc70-59a7-578a-b740-3aefff4580c6"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Lay the pears in the pan, then cook in the sauce for 10-12 mins, tossing occasionally, until completely caramelized. Don’t worry about them burning – they won’t – but you want to caramelize them as much as possible. Splash in the brandy and let it flambé, then set the pears aside.",
+      "timer_seconds": 720,
+      "ingredients_used": [
+        "74d40a0c-d61b-5a51-bdeb-982a48a5787c",
+        "cda225dc-48f4-54f1-ab45-51b4c078b6c1"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Heat oven to 200C/fan 180C/gas 6. Roll the pastry out to the thickness of a £1 coin. Using a plate slightly larger than the top of the pan, cut out a circle, then press the edges of the circle of pastry to thin them out.",
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "f39e7a02-1b75-5432-bdd1-a6d073318530"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "When the pears have cooled slightly, arrange them in the pan, cut side up, in a floral shape, with the pears around the edge pointing inwards. Rest the cinnamon stick on the top in the center, with the cardamom pods scattered around.",
+      "ingredients_used": [
+        "74d40a0c-d61b-5a51-bdeb-982a48a5787c",
+        "ece5ecb8-f26e-5b5a-bcb4-45cffffa180e",
+        "b8f8cc70-59a7-578a-b740-3aefff4580c6"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Drape the pastry over the pears, then tuck the edges down the pan sides and under the fruit (see Gordon’s guide). Pierce the pastry a few times, then bake for 15 mins. If a lot of juice bubbles up the side of the pan, pour it off at this stage (see guide). Reduce oven to 180C/fan 160C/gas 4 and bake for 15 mins more until the pastry is golden. Leave the tart to stand for 10 mins, then invert it carefully onto a serving dish.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "74d40a0c-d61b-5a51-bdeb-982a48a5787c",
+        "f39e7a02-1b75-5432-bdd1-a6d073318530"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/4778/pear-tarte-tatin"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

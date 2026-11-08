@@ -1,0 +1,287 @@
+{
+  "id": "f49209b8-d8d6-510d-a01b-bb2bcfb187aa",
+  "version": "1.0.0",
+  "title": "Fiskesuppe (Creamy Norwegian Fish Soup)",
+  "slug": "fiskesuppe-creamy-norwegian-fish-soup",
+  "summary": "A creamy Norwegian seafood soup featuring fish fillets, shrimp, and vegetables in a rich, thickened broth.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:06:13Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53122"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/raqjbj1762773035.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/raqjbj1762773035.jpg/small",
+      "alt_text": "Photo of Fiskesuppe (Creamy Norwegian Fish Soup)",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.bing.com/videos/riverview/relatedvideo?&q=Fiskesuppe+(Creamy+Norwegian+Fish+Soup)+youtube&qpvt=Fiskesuppe+(Creamy+Norwegian+Fish+Soup)+youtube&mid=BA1D06D0C6BB703F9960BA1D06D0C6BB703F9960&&mcid=1B82C46C54684D60AEB9F663316D725F&FORM=VRDGAR"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "56e78dbc-276d-5104-bca5-2bb213b93a49",
+        "slug": "norwegian",
+        "name": "Norwegian"
+      }
+    ],
+    "tags": [
+      "soup"
+    ],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "soup"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "bowls",
+    "serving_size_description": "1 bowl of soup"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "fish",
+      "shellfish"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "3f5e68e0-7b6c-5ad1-a0fc-44253636d06e",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "cc32e75a-9efa-5a71-bdd8-95525a1cca6f",
+          "ingredient_id": "2f08406c-d076-5ac2-9443-c634a0b4ce03",
+          "name": "fish fillet",
+          "display_text": "1 lb Fish fillet",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "fish"
+        },
+        {
+          "id": "d1be3c03-102f-5cfd-8c0e-2e94ada6dca6",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "1 clove Garlic",
+          "quantity": 1.0,
+          "unit": "clove",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "a03e2b5c-6767-5c72-9c51-ebe26dfe60ec",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "2 medium Potatoes",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "medium",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ce24a254-9353-54cf-b8c2-3456666eb3ba",
+          "ingredient_id": "90a042d0-e069-53d1-9e13-bb8d87fbf3de",
+          "name": "carrots",
+          "display_text": "2 Carrots",
+          "quantity": 2.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "c0da2ac6-4933-5578-a7ad-510601e39e4d",
+          "ingredient_id": "ef5d99bc-384e-522a-8c0f-1c8501f6612c",
+          "name": "leek",
+          "display_text": "1 Leek",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "9c3410fa-fc71-5b02-a5bf-2e2010acfee6",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "3  tablespoons Butter",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "17cddc66-4bd6-58a9-b886-3904ee4507c8",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "5 tablespoons Flour",
+          "quantity": 5.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "b4129180-d046-5b10-a188-034e73b08928",
+          "ingredient_id": "c118d44d-de17-5a99-9978-c0acc2b19a6e",
+          "name": "fish stock",
+          "display_text": "4 cups Fish Stock",
+          "quantity": 4.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 960.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "ae6651de-693e-596a-91fc-8b78b51539c2",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "1 cup Milk",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "206f6daa-c428-5966-b27b-db1eb56a28f5",
+          "ingredient_id": "5a0201c7-6447-5098-baf7-57a2595f11ba",
+          "name": "creme fraiche",
+          "display_text": "1 1/4 cup Creme Fraiche",
+          "quantity": 1.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "e25d4855-ee09-50ba-bc1e-7cd7ea23b694",
+          "ingredient_id": "495feb0d-c0ab-535f-8cf6-cd706b58f4d5",
+          "name": "shrimp",
+          "display_text": "1 cup Shrimp",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "seafood"
+        },
+        {
+          "id": "b156149a-806f-5502-9c51-bdd5415a62e2",
+          "ingredient_id": "85291054-0b21-5fc5-ac52-86bee20f4bbc",
+          "name": "chives",
+          "display_text": "1 tablespoon Chives",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Cut the fish fillets in cubes or strips. Crush or chop the garlic. Rinse the vegetables and cut into thin strips.",
+      "ingredients_used": [
+        "cc32e75a-9efa-5a71-bdd8-95525a1cca6f",
+        "d1be3c03-102f-5cfd-8c0e-2e94ada6dca6"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat the butter in a pot and add the garlic. Once the garlic starts to turn golden add the flour, whisking well.",
+      "ingredients_used": [
+        "d1be3c03-102f-5cfd-8c0e-2e94ada6dca6",
+        "9c3410fa-fc71-5b02-a5bf-2e2010acfee6",
+        "17cddc66-4bd6-58a9-b886-3904ee4507c8"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the fish stock and continue to whisk until there are no lumps.",
+      "ingredients_used": [
+        "b4129180-d046-5b10-a188-034e73b08928"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Add the vegetables and milk and bring to a boil. Cook for about 10 minutes.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "ae6651de-693e-596a-91fc-8b78b51539c2"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Add the crème fraîche (or sour cream). Bring the soup back to a simmer and once the soup begins to bubble again turn off the heat. Keep the soup on the burner and add the fish. Let the fish cook in the hot soup for 5 minutes. If using shrimp, add right before serving.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "e25d4855-ee09-50ba-bc1e-7cd7ea23b694"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Sprinkle with chives (or dill or parsley) before serving.",
+      "ingredients_used": [
+        "b156149a-806f-5502-9c51-bdd5415a62e2"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://scandinaviancookbook.com/fiskesuppe-creamy-norwegian-fish-soup/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

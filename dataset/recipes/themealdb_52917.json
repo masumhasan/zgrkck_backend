@@ -1,0 +1,199 @@
+{
+  "id": "870ed489-cb94-517e-af6b-3d246180f826",
+  "version": "1.0.0",
+  "title": "White chocolate creme brulee",
+  "slug": "white-chocolate-creme-brulee",
+  "summary": "A rich French dessert consisting of a creamy custard infused with vanilla and white chocolate, finished with a crisp caramelized sugar topping.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:49:01Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52917"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/uryqru1511798039.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/uryqru1511798039.jpg/small",
+      "alt_text": "Photo of White chocolate creme brulee",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=LmJ0lsPLHDc"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "fe8f07a1-591f-5711-ae5b-f3c9afcc3e60",
+        "slug": "french",
+        "name": "French"
+      }
+    ],
+    "tags": [
+      "desert",
+      "dinnerparty",
+      "pudding"
+    ],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 20,
+    "rest_time_minutes": 240,
+    "total_time_minutes": 275
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "1 ramekin"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "eggs"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": [
+      "soy"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "c661d9c7-a22e-50cf-95eb-7192b74502e3",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "19962261-e6d8-5a8e-8e7a-1b24f97fc4a9",
+          "ingredient_id": "81b5723b-47de-5017-987f-cdcc95dd362b",
+          "name": "double cream",
+          "display_text": "568ml Double Cream",
+          "quantity": 568.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 568.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "872d7da6-f41a-5a6e-b66f-b2dd97d154b6",
+          "ingredient_id": "a0957ef2-972e-5a79-8aca-388b440f8174",
+          "name": "white chocolate chips",
+          "display_text": "100g White Chocolate Chips",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "028a1adb-ece7-5b39-ad3c-6b73cd5d10f1",
+          "ingredient_id": "1ad32b47-90dc-570b-9ae6-d231b0342095",
+          "name": "vanilla",
+          "display_text": "Pod of Vanilla",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "pod of",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "d8a60431-eb5a-5c5b-a292-f473f08f831f",
+          "ingredient_id": "051a3118-01a4-5366-a922-19ecf618e2f9",
+          "name": "egg yolks",
+          "display_text": "6 Egg Yolks",
+          "quantity": 6.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "21df26fc-b785-5d7a-bdb2-c2510201fb83",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "2 tbs Caster Sugar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "4bcdce34-bf87-524f-b681-356c39687527",
+          "ingredient_id": "c4822b25-5782-533c-992e-f78a8999a4b8",
+          "name": "caster sugar",
+          "display_text": "Top Caster Sugar",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "top",
+          "is_optional": false,
+          "category": "sweeteners"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the cream, chocolate and vanilla pod in a pan until the chocolate has melted. Take off the heat and allow to infuse for 10 mins, scraping the pod seeds into the cream. If using the vanilla extract, add straight away. Heat oven to 160C/fan 140C/gas 3.",
+      "timer_seconds": 600,
+      "temperature": {
+        "value": 160,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "028a1adb-ece7-5b39-ad3c-6b73cd5d10f1"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Beat yolks and sugar until pale. stir in the chocolate cream. Strain into a jug and pour into ramekins. Place in a deep roasting tray and pour boiling water halfway up the sides. Bake for 15-20 mins until just set with a wobbly center. Chill in the fridge for at least 4 hrs.",
+      "ingredients_used": [
+        "d8a60431-eb5a-5c5b-a292-f473f08f831f"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "To serve, sprinkle some sugar on top of the brûlées and caramelize with a blowtorch or briefly under a hot grill. Leave caramel to harden, then serve."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/2540/white-chocolate-crme-brle"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

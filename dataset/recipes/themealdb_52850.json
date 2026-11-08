@@ -1,0 +1,234 @@
+{
+  "id": "17f743eb-0b46-520e-88c8-d02857b9e457",
+  "version": "1.0.0",
+  "title": "Chicken Couscous",
+  "slug": "chicken-couscous",
+  "summary": "A Moroccan-inspired dish featuring chicken breast cooked with harissa, dried apricots, and chickpeas, served over fluffy couscous.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:43:01Z",
+  "updated_at": "2026-10-16T10:22:48Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52850"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/qxytrx1511304021.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/qxytrx1511304021.jpg/small",
+      "alt_text": "Photo of Chicken Couscous",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=GZQGy9oscVk"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "118c0c07-e5c2-5a71-ac2b-49c1d77823aa",
+        "slug": "moroccan",
+        "name": "Moroccan"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "rest_time_minutes": 5,
+    "total_time_minutes": 35
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "1 portion of chicken and couscous"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "sulfites"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "de5dc0dd-584a-50d4-9cea-b6cb0a2f99cf",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "7484f1ea-0c94-58e0-8cee-a7694ce25bd0",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 tbsp Olive Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "78c21a56-a83e-52f6-a17a-11ec7e4ebd7a",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "db6bdddc-807b-5d05-86d6-5a228a6e034d",
+          "ingredient_id": "e23191a1-4966-5b21-a6f1-8df6f50b79db",
+          "name": "chicken breast",
+          "display_text": "200g Chicken Breast",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "poultry"
+        },
+        {
+          "id": "9ac293aa-db1b-511f-8baa-b59a252c0855",
+          "ingredient_id": "be84b469-e553-57de-94bd-aca19bdca649",
+          "name": "ginger",
+          "display_text": "pinch Ginger",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "ad05cf66-80d2-5fcd-82ed-48b62a9a8eb8",
+          "ingredient_id": "de3a4289-f9da-523e-971e-192a1995a29a",
+          "name": "harissa spice",
+          "display_text": "2 tblsp Harissa Spice",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "02d0e49d-5f09-5c0e-9d75-3afcef2f9a9a",
+          "ingredient_id": "4e2337c2-e42a-5ed6-9e7b-4b439f982bd2",
+          "name": "dried apricots",
+          "display_text": "10 Dried Apricots",
+          "quantity": 10.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "baking_goods"
+        },
+        {
+          "id": "1de7e4d9-ef72-583a-8753-188c693d72c1",
+          "ingredient_id": "ae979dd7-6a1e-5882-9ed5-e0b09554efd0",
+          "name": "chickpeas",
+          "display_text": "220g Chickpeas",
+          "quantity": 220.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 220.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "bcbb4968-acf7-572b-87f3-e0da2698d927",
+          "ingredient_id": "c2b6c88e-6bee-5b11-a840-6c6f211b45fb",
+          "name": "couscous",
+          "display_text": "200g Couscous",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "50579efb-8c7f-5847-8d68-72049c6c521f",
+          "ingredient_id": "c6a0ad74-848f-5cc6-a7ab-a2fdce1c99f7",
+          "name": "chicken stock",
+          "display_text": "200ml Chicken Stock",
+          "quantity": 200.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "115e81cd-b6b9-5579-aa1b-abd21675ee3e",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "Handful Coriander",
+          "quantity": 1,
+          "unit": "handful",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the olive oil in a large frying pan and cook the onion for 1-2 mins just until softened. Add the chicken and fry for 7-10 mins until cooked through and the onions have turned golden. Grate over the ginger, stir through the harissa to coat everything and cook for 1 min more.",
+      "ingredients_used": [
+        "7484f1ea-0c94-58e0-8cee-a7694ce25bd0",
+        "78c21a56-a83e-52f6-a17a-11ec7e4ebd7a",
+        "9ac293aa-db1b-511f-8baa-b59a252c0855"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Tip in the apricots, chickpeas and couscous, then pour over the stock and stir once. Cover with a lid or tightly cover the pan with foil and leave for about 5 mins until the couscous has soaked up all the stock and is soft. Fluff up the couscous with a fork and scatter over the coriander to serve. Serve with extra harissa, if you like.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "02d0e49d-5f09-5c0e-9d75-3afcef2f9a9a",
+        "1de7e4d9-ef72-583a-8753-188c693d72c1",
+        "bcbb4968-acf7-572b-87f3-e0da2698d927",
+        "115e81cd-b6b9-5579-aa1b-abd21675ee3e"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/13139/onepan-chicken-couscous"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

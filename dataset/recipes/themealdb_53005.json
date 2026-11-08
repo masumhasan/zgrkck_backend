@@ -1,0 +1,370 @@
+{
+  "id": "b6160862-19c7-5aef-ad39-b79b008a253c",
+  "version": "1.0.0",
+  "title": "Strawberry Rhubarb Pie",
+  "slug": "strawberry-rhubarb-pie",
+  "summary": "A classic British dessert featuring a lattice pastry crust filled with a sweet and tart mixture of strawberries and rhubarb.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:56:09Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53005"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/178z5o1585514569.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/178z5o1585514569.jpg/small",
+      "alt_text": "Photo of Strawberry Rhubarb Pie",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=tGw5Pwm4YA0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "c331fdfd-5489-53c2-bc2c-a03a08356454",
+        "slug": "british",
+        "name": "British"
+      }
+    ],
+    "tags": [
+      "baking",
+      "fruity",
+      "glazed",
+      "pie",
+      "pudding"
+    ],
+    "meal_types": [
+      "dessert"
+    ],
+    "courses": [
+      "dessert"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "difficulty": "intermediate",
+    "occasions": [
+      "afternoon_snack",
+      "dinner_party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 45,
+    "cook_time_minutes": 45,
+    "marinating_time_minutes": 60,
+    "rest_time_minutes": 180,
+    "total_time_minutes": 330
+  },
+  "yield": {
+    "servings": 8,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 slice of pie"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "936da11f-135e-5d26-bd2d-8b9216f9aaf9",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "a47ca360-552b-5d22-afe4-f73499d406a2",
+          "ingredient_id": "53143a6a-ae50-5a38-8c78-2b7a8aaa1365",
+          "name": "flour",
+          "display_text": "350g Flour",
+          "quantity": 350.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 350.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "87d4d84d-ca4f-50de-982a-95f4365a7fae",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1 tsp Salt",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "a66e3f8b-7037-567b-a0f2-4b4b48ffe1f7",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "2 tbs Sugar",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "58ea05ca-5544-5fb3-81dc-f672d3b499a4",
+          "ingredient_id": "a18f7e09-43cd-5a30-93c4-be3434e1e60c",
+          "name": "butter",
+          "display_text": "1 cup Butter",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "02d48bc8-35b9-587c-81e4-5b4c7474bac0",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1/2 cup Water",
+          "quantity": 0.5,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 120.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "6f60616e-a064-5151-83d3-1900948af5c2",
+          "ingredient_id": "dd3dd5c3-244c-5ac3-8988-9ec55a5c49d6",
+          "name": "rhubarb",
+          "display_text": "450g Rhubarb",
+          "quantity": 450.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "22a2c589-ddb9-53d0-8a22-63a9b55ac969",
+          "ingredient_id": "8633a33a-dc11-5c17-a43b-c84d3669eb95",
+          "name": "strawberries",
+          "display_text": "450g Strawberries",
+          "quantity": 450.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "03e26885-22f3-5567-abad-8cfa9b254385",
+          "ingredient_id": "4bdb1684-cdb6-5a8f-b220-c622cf2655cc",
+          "name": "cornstarch",
+          "display_text": "3 tbs Cornstarch",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "df815bc1-5ea2-5115-b12a-4501677170d4",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "150g Sugar",
+          "quantity": 150.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "gram",
+          "category": "sweeteners"
+        },
+        {
+          "id": "4129fc24-8e1a-5b83-994f-ca45c09d2b83",
+          "ingredient_id": "4fb94e32-8dec-5866-bbc0-ca31197ae8f6",
+          "name": "cinnamon",
+          "display_text": "1/4 tsp Cinnamon",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "6f31c888-3137-5a52-936b-30083225a53e",
+          "ingredient_id": "4020879e-a0a5-58e2-b093-33c7e85c8a08",
+          "name": "lemon juice",
+          "display_text": "1 tsp Lemon Juice",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "produce"
+        },
+        {
+          "id": "5f8fc9d7-e8e2-57a2-a8ee-d8c0766aff2b",
+          "ingredient_id": "bc46b2a6-8a59-50ee-a044-ce38bddb125c",
+          "name": "unsalted butter",
+          "display_text": "2 tbs Unsalted Butter",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "2ad70983-8cb0-5cf5-bca3-0768e446123a",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "2 tbs Milk",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "ba9798cc-a22a-5bdf-9ae2-349e4fa94598",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "Spinkling Sugar",
+          "quantity": 1,
+          "unit": "sprinkling",
+          "is_optional": false,
+          "category": "sweeteners"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Pie Crust:  In a food processor, place the flour, salt, and sugar and process until combined. Add the butter and process until the mixture resembles coarse",
+      "ingredients_used": [
+        "a47ca360-552b-5d22-afe4-f73499d406a2",
+        "87d4d84d-ca4f-50de-982a-95f4365a7fae",
+        "a66e3f8b-7037-567b-a0f2-4b4b48ffe1f7",
+        "58ea05ca-5544-5fb3-81dc-f672d3b499a4",
+        "df815bc1-5ea2-5115-b12a-4501677170d4",
+        "5f8fc9d7-e8e2-57a2-a8ee-d8c0766aff2b",
+        "ba9798cc-a22a-5bdf-9ae2-349e4fa94598"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "meal (about 15 seconds). Pour 1/4 cup (60 ml) water in a slow, steady stream, through the feed tube until the dough just holds together when pinched. If necessary, add more water. Do not process more than 30 seconds.",
+      "ingredients_used": [
+        "02d48bc8-35b9-587c-81e4-5b4c7474bac0"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Turn the dough onto your work surface and gather into a ball. Divide the dough in half, flattening each half into a disk, cover with plastic wrap, and refrigerate for about one hour before using. This will chill the butter and relax the gluten in the flour.",
+      "ingredients_used": [
+        "a47ca360-552b-5d22-afe4-f73499d406a2",
+        "58ea05ca-5544-5fb3-81dc-f672d3b499a4",
+        "5f8fc9d7-e8e2-57a2-a8ee-d8c0766aff2b"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "After the dough has chilled sufficiently, remove one portion of the dough from the fridge and place it on a lightly floured surface.  Roll the pastry into a 12 inch (30 cm) circle. (To prevent the pastry from sticking to the counter and to ensure uniform thickness, keep lifting up and turning the pastry a quarter turn as you roll (always roll from the center of the pastry outwards).)  Fold the dough in half and gently transfer to a 9 inch (23 cm) pie pan. Brush off any excess flour and trim any overhanging pastry to an edge of 1/2 inch (1.5 cm). Refrigerate the pastry, covered with plastic wrap, while you make the filling.",
+      "ingredients_used": [
+        "a47ca360-552b-5d22-afe4-f73499d406a2"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Remove the second round of pastry and roll it into a 13 inch (30 cm) circle. Using a pastry wheel or pizza cutter, cut the pastry into about 3/4 inch (2 cm) strips. Place the strips of pastry on a parchment paper-lined baking sheet, cover with plastic wrap, and place in the refrigerator for about 10 minutes.",
+      "timer_seconds": 600
+    },
+    {
+      "step_number": 6,
+      "instruction": "Make the Strawberry Rhubarb Filling: Place the cut strawberries and rhubarb in a large bowl. In a small bowl mix together the cornstarch, sugar, and ground cinnamon.",
+      "ingredients_used": [
+        "a66e3f8b-7037-567b-a0f2-4b4b48ffe1f7",
+        "6f60616e-a064-5151-83d3-1900948af5c2",
+        "22a2c589-ddb9-53d0-8a22-63a9b55ac969",
+        "03e26885-22f3-5567-abad-8cfa9b254385",
+        "df815bc1-5ea2-5115-b12a-4501677170d4",
+        "4129fc24-8e1a-5b83-994f-ca45c09d2b83",
+        "ba9798cc-a22a-5bdf-9ae2-349e4fa94598"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Remove the chilled pie crust from the fridge. Sprinkle about 2 tablespoons of the sugar mixture over the bottom of the pastry crust. Add the remaining sugar mixture to the strawberries and rhubarb and gently toss to combine. Pour the fruit mixture into the prepared pie shell. Sprinkle the fruit with about 1 teaspoon of lemon juice and dot with 2 tablespoons of butter.",
+      "ingredients_used": [
+        "a66e3f8b-7037-567b-a0f2-4b4b48ffe1f7",
+        "58ea05ca-5544-5fb3-81dc-f672d3b499a4",
+        "6f60616e-a064-5151-83d3-1900948af5c2",
+        "22a2c589-ddb9-53d0-8a22-63a9b55ac969",
+        "df815bc1-5ea2-5115-b12a-4501677170d4",
+        "6f31c888-3137-5a52-936b-30083225a53e",
+        "5f8fc9d7-e8e2-57a2-a8ee-d8c0766aff2b",
+        "ba9798cc-a22a-5bdf-9ae2-349e4fa94598"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Remove the lattice pastry from the refrigerator and, starting at the center with the longest strips and working outwards, place half the strips, spacing about 1 inch (2.5 cm) apart, on top of the filling. (Use the shortest pastry strips at the outer edges.) Then, gently fold back, about halfway, every other strip of pastry. Take another strip of pastry and place it perpendicular on top of the first strips of pastry. Unfold the bottom strips of pastry and then fold back the strips that weren't folded back the first time. Lay another strip of pastry perpendicular on top of the filling and then continue with the remaining strips. Trim the edges of the pastry strips, leaving a 1 inch (2.5 cm) overhang. Seal the edges of the pastry strips by folding them under the bottom pastry crust and flute the edges of the pastry. Brush the lattice pastry with milk and sprinkle with a little sugar. Cover and place in the refrigerator while you preheat the oven to 400 degrees F (205 degrees C) and place the oven rack in the lower third of the oven. Put a baking sheet, lined with aluminum foil, on the oven rack (to catch any spills.)",
+      "temperature": {
+        "value": 400,
+        "unit": "fahrenheit"
+      },
+      "ingredients_used": [
+        "a66e3f8b-7037-567b-a0f2-4b4b48ffe1f7",
+        "df815bc1-5ea2-5115-b12a-4501677170d4",
+        "2ad70983-8cb0-5cf5-bca3-0768e446123a",
+        "ba9798cc-a22a-5bdf-9ae2-349e4fa94598"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Place the pie plate on the hot baking sheet and bake the pie for about 35 minutes and then, if the edges of the pie are browning too much, cover with a foil ring. Continue to bake the pie for about another 10 minutes or until the crust is a golden brown color and the fruit juices begin to bubble."
+    },
+    {
+      "step_number": 10,
+      "instruction": "Remove the pie from the oven and place on a wire rack to cool for several hours. Serve at room temperature with softly whipped cream or vanilla ice cream. Leftovers can be stored in the refrigerator for about 3 days. Reheat before serving. This pie can be frozen."
+    },
+    {
+      "step_number": 11,
+      "instruction": "Makes one 9 inch (23 cm) pie."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.joyofbaking.com/StrawberryRhubarbPie.html"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

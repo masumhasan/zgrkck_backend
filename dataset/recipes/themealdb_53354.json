@@ -1,0 +1,329 @@
+{
+  "id": "1113e28d-de0b-5929-9d6b-d1960531f5fe",
+  "version": "1.0.0",
+  "title": "Jamaican Curry Goat",
+  "slug": "jamaican-curry-goat",
+  "summary": "A traditional Jamaican stew featuring tender goat meat seasoned with curry powder, allspice, and ginger, slow-cooked under pressure with potatoes and scotch bonnet pepper.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:26:56Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53354"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/uc9qp11764796575.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/uc9qp11764796575.jpg/small",
+      "alt_text": "Photo of Jamaican Curry Goat",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=SrX2KMsWbF4"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "2dfec5c8-490a-551c-9d2f-e8e21f706bda",
+        "slug": "jamaican",
+        "name": "Jamaican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 65,
+    "marinating_time_minutes": 240,
+    "rest_time_minutes": 10,
+    "total_time_minutes": 335
+  },
+  "yield": {
+    "servings": 6,
+    "serving_unit": "servings",
+    "serving_size_description": "a hearty portion of goat and potato"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "07dc5481-8959-5a01-956e-5610bf12c3c8",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "55b3cb20-429b-503e-ad80-18ba451b1bee",
+          "ingredient_id": "14dd58bc-bef2-5046-9a0b-b99fbbeb2089",
+          "name": "goat meat",
+          "display_text": "3 Lbs Goat Meat",
+          "quantity": 3.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 1360.8,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "3c782b6f-b2b6-558b-ba8a-7dad65fbf835",
+          "ingredient_id": "165b3dbf-4a20-55b8-b06e-6bd72da9abff",
+          "name": "jamaican curry powder",
+          "display_text": "2.5 tbsp Jamaican Curry Powder",
+          "quantity": 2.5,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 37.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "7870ec2c-cd85-5a75-b98e-b1316181c1d6",
+          "ingredient_id": "9c72d0cf-8d9c-53f6-b4c6-5631779ba66b",
+          "name": "ground ginger",
+          "display_text": "1/2 tsp Ground Ginger",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "11dcec46-54c0-547f-9b4b-975acc453301",
+          "ingredient_id": "cc13d994-4056-5662-bfdc-da000c2a117b",
+          "name": "all-purpose seasoning",
+          "display_text": "1/2 tsp All-purpose Seasoning",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "a9befe1f-3cea-57d0-954a-092a8f70e91c",
+          "ingredient_id": "38dedce7-9a7f-57ee-8e46-5162ab60eba8",
+          "name": "allspice",
+          "display_text": "1/4 tsp Allspice",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "7fdec786-af40-5682-bd55-d184468ba1c2",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 chopped Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "eac16f5f-e824-5645-850e-d99228bd0a04",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "6 cloves sliced Garlic",
+          "quantity": 6.0,
+          "unit": "clove",
+          "preparation": "sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "91b4c78c-b29d-5c5d-b67c-4e090eed1f5c",
+          "ingredient_id": "c6c0a692-bee4-5bb6-bee4-efcbc8e6da9b",
+          "name": "thyme",
+          "display_text": "3 sprigs Thyme",
+          "quantity": 3.0,
+          "unit": "sprig",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1d71866a-c7b2-5b24-9483-72a13ba378d5",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "2 tablespoons Oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "404227ea-8296-5476-a2a8-62797069e452",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "1 1/4 cup Water",
+          "quantity": 1.25,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 300.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "5a2adeaf-2e53-5e38-ac44-98682a5ea412",
+          "ingredient_id": "cfe71375-907d-57ad-936c-b27b60946f4e",
+          "name": "scotch bonnet",
+          "display_text": "1 Scotch Bonnet",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1e9d8718-cf1a-52bc-9902-91c0669b255a",
+          "ingredient_id": "dd855601-7333-53ea-84e3-5bbe01eea027",
+          "name": "russet potato",
+          "display_text": "1 large Russet Potato",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "d494abbf-ce2d-5ed8-941d-8f48c064ff87",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "46b92a71-4b52-5afc-a27a-d6ffceef629e",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "To taste Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Equipment"
+    },
+    {
+      "step_number": 2,
+      "instruction": "6QT Pressure cooker"
+    },
+    {
+      "step_number": 3,
+      "instruction": "Instructions"
+    },
+    {
+      "step_number": 4,
+      "instruction": "Rinse goat meat with vinegar and water.",
+      "ingredients_used": [
+        "55b3cb20-429b-503e-ad80-18ba451b1bee",
+        "404227ea-8296-5476-a2a8-62797069e452"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Season goat meat with 1 ½ tablespoon curry powder, all-purpose seasoning, ground ginger, allspice, onion, garlic cloves, and thyme. Marinate for at least 4 hours or up to overnight.",
+      "timer_seconds": 14400,
+      "ingredients_used": [
+        "55b3cb20-429b-503e-ad80-18ba451b1bee",
+        "7870ec2c-cd85-5a75-b98e-b1316181c1d6",
+        "11dcec46-54c0-547f-9b4b-975acc453301",
+        "a9befe1f-3cea-57d0-954a-092a8f70e91c",
+        "7fdec786-af40-5682-bd55-d184468ba1c2",
+        "eac16f5f-e824-5645-850e-d99228bd0a04",
+        "91b4c78c-b29d-5c5d-b67c-4e090eed1f5c"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Remove onion and garlic from goat and set aside.",
+      "ingredients_used": [
+        "7fdec786-af40-5682-bd55-d184468ba1c2",
+        "eac16f5f-e824-5645-850e-d99228bd0a04"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Set an electric pressure cooker, like an Instant Pot, on high sauté and add oil. Add goat meat and brown, about 2-3 minutes per side. Remove goat from insert and add 1 tablespoon oil and remaining curry powder and sauté for about 10 seconds. Then add onions and garlic and sauté until softened. About 4 minutes. If the onions look dry, add a little water and continue to sauté.",
+      "ingredients_used": [
+        "55b3cb20-429b-503e-ad80-18ba451b1bee",
+        "7fdec786-af40-5682-bd55-d184468ba1c2",
+        "eac16f5f-e824-5645-850e-d99228bd0a04",
+        "1d71866a-c7b2-5b24-9483-72a13ba378d5",
+        "404227ea-8296-5476-a2a8-62797069e452"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Add goat and water to the pressure cooker and cover the pressure cooker. Cook for 40 minutes on high pressure. Allow to naturally release for 10 minutes, then release the remaining pressure.",
+      "ingredients_used": [
+        "404227ea-8296-5476-a2a8-62797069e452"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Once all the pressure has been released, open the pressure cooker. Place on sauté for 10-15 minutes, add potatoes and a whole scotch bonnet pepper. Cook until potatoes have softened. Remove scotch bonnet pepper.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "5a2adeaf-2e53-5e38-ac44-98682a5ea412",
+        "1e9d8718-cf1a-52bc-9902-91c0669b255a",
+        "46b92a71-4b52-5afc-a27a-d6ffceef629e"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.myforkinglife.com/jamaican-curry-goat/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

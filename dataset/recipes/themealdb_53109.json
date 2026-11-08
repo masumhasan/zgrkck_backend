@@ -1,0 +1,286 @@
+{
+  "id": "abcff23e-c6dd-5385-b695-bc5c2b9c8df2",
+  "version": "1.0.0",
+  "title": "Mini chilli beef pies",
+  "slug": "mini-chilli-beef-pies",
+  "summary": "Small pastry cases filled with a spiced minced beef and kidney bean chili, topped with creamy mashed potato. These bite-sized pies are a flavorful Australian-style snack or appetizer.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:05:04Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53109"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/6sarfo1762340107.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/6sarfo1762340107.jpg/small",
+      "alt_text": "Photo of Mini chilli beef pies",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=PHuU1L92-Ns"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6442c74c-e246-57a7-870b-9366b38050a8",
+        "slug": "australian",
+        "name": "Australian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "appetizer",
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": [
+      "party"
+    ]
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 56,
+    "total_time_minutes": 76
+  },
+  "yield": {
+    "servings": 12,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 mini pie"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "b785302f-31ae-510c-adb8-1f17d2de89f4",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "4d4d37ea-880e-5ac0-8710-26328b9eba28",
+          "ingredient_id": "49fb6736-8fbc-55c6-8544-5d54ce626eec",
+          "name": "ready rolled shortcrust pastry",
+          "display_text": "450g Ready rolled shortcrust pastry",
+          "quantity": 450.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 450.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "e9663475-1d61-5279-9bcf-b89936205064",
+          "ingredient_id": "aa561384-0d26-5008-a25e-3ba9db4b2a3f",
+          "name": "sunflower oil",
+          "display_text": "1 tablespoon Sunflower Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "5d2f255e-dcd1-50ad-9ba8-82c12a2cbf56",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "1 small Onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "small",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "930f0b75-6c14-5682-9820-27d0aa76a45c",
+          "ingredient_id": "e1e0714b-b15e-5ad6-8153-985f2878f800",
+          "name": "hot chilli powder",
+          "display_text": "2 tsp Hot Chilli Powder",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "b26ba4ac-7c48-54fe-9dfb-d6ac378bd164",
+          "ingredient_id": "efa5be6a-3bc3-55ca-812f-22dd145ba53d",
+          "name": "ground cumin",
+          "display_text": "2 tsp Ground Cumin",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "19c8d13a-0dc6-58bc-9dc5-ec0662d4971d",
+          "ingredient_id": "32de35ba-e219-523e-a9c8-e8bef0b536c9",
+          "name": "minced beef",
+          "display_text": "250g Minced Beef",
+          "quantity": 250.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 250.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "b2d61e4d-3c51-52c6-ae5c-5d8c30129c2d",
+          "ingredient_id": "34bd812e-d6dd-53e4-b522-5d592a8723af",
+          "name": "tomato puree",
+          "display_text": "85g Tomato Puree",
+          "quantity": 85.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 85.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "adb52cbf-aa0d-53eb-a4ae-3a586ce0f376",
+          "ingredient_id": "39a746ef-3300-5229-b0b2-3e03970ea60c",
+          "name": "beef stock",
+          "display_text": "150ml Beef Stock",
+          "quantity": 150.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 150.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "cd2cea6d-c44c-5296-90be-fe1a57ba4e08",
+          "ingredient_id": "7af3c207-3c37-5965-a096-bf34ac1db1f4",
+          "name": "ground cinnamon",
+          "display_text": "Pinch Ground Cinnamon",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "08540d39-96fa-57e1-a7ec-043d50a056ca",
+          "ingredient_id": "ba890946-fbb1-5386-9394-aa912a5bb5a0",
+          "name": "kidney beans",
+          "display_text": "200g Kidney Beans",
+          "quantity": 200.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "194454d3-027a-5878-8d01-2196b1667a6d",
+          "ingredient_id": "9bae5add-3ad1-5adf-9bc0-81a1a4bd0b4e",
+          "name": "potatoes",
+          "display_text": "1 large Potatoes",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "2c1b8af9-2a86-59ec-8967-6d0ea3e1c54c",
+          "ingredient_id": "6ca777b1-4e80-5a4b-8ffe-88c954e2cc8a",
+          "name": "sour cream",
+          "display_text": "3  tablespoons Sour Cream",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "951a0ece-0b3e-578c-94ac-c7fb1ffbce9f",
+          "ingredient_id": "22fd46f0-e671-53eb-8ce0-674df3daadca",
+          "name": "chopped chive",
+          "display_text": "2 tablespoons Chopped Chive",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "To make chilli, heat oil in a pan and fry onion for 5 mins until soft. Add spices; fry for 1 min. Stir in beef and cook for a few mins. Add tomato purée, stock and cinnamon. Give it a stir, bring to the boil, then simmer for 15-20 mins until very little liquid is left. Add beans 5 mins before the end of cooking. Check seasoning and cool.",
+      "ingredients_used": [
+        "5d2f255e-dcd1-50ad-9ba8-82c12a2cbf56",
+        "19c8d13a-0dc6-58bc-9dc5-ec0662d4971d",
+        "cd2cea6d-c44c-5296-90be-fe1a57ba4e08",
+        "08540d39-96fa-57e1-a7ec-043d50a056ca"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Heat oven to 200C/fan 180C/gas 6. Using a 7cm pastry cutter, stamp out 12 circles from the pastry. Use to line a 12-hole mini muffin tray, prick the base of the pastry with a fork, and bake for 10 mins. Remove from oven and cool on a wire tray. Repeat with remaining pastry.",
+      "timer_seconds": 600,
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "4d4d37ea-880e-5ac0-8710-26328b9eba28"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Meanwhile, cook the potato in boiling water until tender. Drain, mash with soured cream and seasoning, then stir through chives. Spoon 1-2 tsp of chilli mix into the pastry cases and top with a tsp of mash. Ruffle mash with a fork; return to the oven for 15 mins or until golden.",
+      "timer_seconds": 900,
+      "ingredients_used": [
+        "4d4d37ea-880e-5ac0-8710-26328b9eba28",
+        "951a0ece-0b3e-578c-94ac-c7fb1ffbce9f"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/mini-chilli-beef-pies"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

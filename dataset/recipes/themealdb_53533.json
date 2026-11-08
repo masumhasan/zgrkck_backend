@@ -1,0 +1,244 @@
+{
+  "id": "d02652aa-6073-5099-b199-2808d0671a07",
+  "version": "1.0.0",
+  "title": "Breaded Steak Recipe (Lomo de Res Apanado)",
+  "slug": "breaded-steak-recipe-lomo-de-res-apanado",
+  "summary": "A Colombian-style dish featuring beef steaks that are pounded thin, marinated in aliños sauce, and coated in a seasoned breading before being pan-fried.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:42:37Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53533"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/lmwaf61783805434.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/lmwaf61783805434.jpg/small",
+      "alt_text": "Photo of Breaded Steak Recipe (Lomo de Res Apanado)",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "50fefb0a-1f33-59b0-afdb-383ba2373950",
+        "slug": "colombian",
+        "name": "Colombian"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 8,
+    "marinating_time_minutes": 180,
+    "total_time_minutes": 208
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "pieces",
+    "serving_size_description": "1 breaded steak"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "99ef6829-e7e6-52a7-bf43-56338f32cdb3",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "67ca5a22-d54c-5a4b-9480-87bbf8f8be3b",
+          "ingredient_id": "c2102b4e-a5b4-5bab-b7d5-bdfa5244ae7b",
+          "name": "beef",
+          "display_text": "2 Lbs Beef",
+          "quantity": 2.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 907.2,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "741f6bf9-8c66-53f5-84c7-277ef4f0ef2b",
+          "ingredient_id": "407f4e08-947a-5da9-b67c-d875a643a232",
+          "name": "alinos sauce",
+          "display_text": "1 cup Alinos Sauce",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "deaea9c8-2ab0-50eb-bb7e-624af1644600",
+          "ingredient_id": "d1e5ec78-b8c2-5649-962c-a9f67272ea92",
+          "name": "all purpose flour",
+          "display_text": "1 cup All purpose flour",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "fb8c1fbf-cea1-52f6-bdd2-e1044dee545a",
+          "ingredient_id": "00efa231-6d81-5c88-91fa-b330117cc5f4",
+          "name": "breadcrumbs",
+          "display_text": "2 cups Breadcrumbs",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "bbae9719-220e-5730-b39b-7aaddc3f94e6",
+          "ingredient_id": "efa5be6a-3bc3-55ca-812f-22dd145ba53d",
+          "name": "ground cumin",
+          "display_text": "1 tsp Ground Cumin",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "60535ea5-0947-5491-b072-f0d0dc08793d",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "3 Eggs",
+          "quantity": 3.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "224ed16b-c986-5cf7-bb38-a1b4c01565f4",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "To taste Salt",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "043cfefb-597b-568e-aa8d-2255415ee7ae",
+          "ingredient_id": "8e63f8d3-5f51-52ea-88cd-34f900b25008",
+          "name": "black pepper",
+          "display_text": "To taste Black Pepper",
+          "quantity": 0,
+          "unit": "to_taste",
+          "is_optional": false,
+          "category": "seasoning"
+        },
+        {
+          "id": "0b42dbf8-ad3d-55e2-968d-8876cb65a60e",
+          "ingredient_id": "13c9c21f-508d-552c-a752-1ecb149e69eb",
+          "name": "parsley",
+          "display_text": "2 tablespoons Parsley",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "584e0a91-ad7f-59ec-b7b7-522345d7d4bf",
+          "ingredient_id": "54073964-102c-5510-8fb1-f62c028bdadf",
+          "name": "oil",
+          "display_text": "For frying Oil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "for frying",
+          "is_optional": false,
+          "category": "oils_fats"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Place each piece of steak in between two large pieces of plastic and using a mallet, pound it until it is about ¼″ to ½″ thick. Place the pounded steak in a glass container, add the aliños sauce and let it rest for about 3 hours or overnight in the fridge.",
+      "timer_seconds": 10800
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add the flour, bread crumbs, spices and parsley to a plate or bowl.",
+      "ingredients_used": [
+        "0b42dbf8-ad3d-55e2-968d-8876cb65a60e"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Cover the steak on all sides with the flour mixture, then the eggs, and finally the flour mixture again.",
+      "ingredients_used": [
+        "60535ea5-0947-5491-b072-f0d0dc08793d"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Once the pieces of steak are coated, you can either add them right to a pan with oil for cooking or layer them on parchment paper until ready to fry.",
+      "ingredients_used": [
+        "584e0a91-ad7f-59ec-b7b7-522345d7d4bf"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Add the oil to a large skillet over medium heat. As soon as it begins to smoke lightly, add the breaded steak and cook it for about 3 to 4 minutes per side or until golden brown. Take them out of the oil and place on a plate lined with paper towels to drain off any excess oil and serve.",
+      "timer_seconds": 240,
+      "ingredients_used": [
+        "584e0a91-ad7f-59ec-b7b7-522345d7d4bf"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.mycolombianrecipes.com/breaded-steak-lomo-de-res-apanado/#recipe"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

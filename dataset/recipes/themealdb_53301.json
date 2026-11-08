@@ -1,0 +1,267 @@
+{
+  "id": "56d108cb-5584-554e-82aa-ab8bce89e9d4",
+  "version": "1.0.0",
+  "title": "Pork & sauerkraut goulash",
+  "slug": "pork-sauerkraut-goulash",
+  "summary": "A hearty Polish stew made with pork shoulder, sauerkraut, and aromatic spices like cumin and paprika, finished with cream.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:22:05Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53301"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/cyuhwp1764362103.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/cyuhwp1764362103.jpg/small",
+      "alt_text": "Photo of Pork & sauerkraut goulash",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=91FM8lHEGbQ"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d40b0607-0a3a-5f5d-8012-7eaf1b714fa5",
+        "slug": "polish",
+        "name": "Polish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 84,
+    "total_time_minutes": 99
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 bowl of goulash"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "sulfites"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "0b9823c3-2d7e-58dc-8641-86c4571e4f71",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "eb3dbeb3-65f8-54b7-b2a6-f6f7c97daa05",
+          "ingredient_id": "52a9e69e-4aca-513e-aee5-b38b82db2847",
+          "name": "lard",
+          "display_text": "3  tablespoons Lard",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 45.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "66b7e0a3-cc1f-5de5-afde-25ff294ca6e6",
+          "ingredient_id": "fbf0fed1-54fc-5f3a-8a80-6b2d4ce37da5",
+          "name": "onion",
+          "display_text": "4 Chopped Onion",
+          "quantity": 4.0,
+          "unit": "piece",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "aeeab6c9-5b21-5671-bc83-804ffae30e02",
+          "ingredient_id": "e03a9d77-1724-50c7-abdd-1b6af998189f",
+          "name": "cumin seeds",
+          "display_text": "1 tablespoon Cumin Seeds",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "3869f03b-5567-5d2b-a2a8-7bda36cc04fe",
+          "ingredient_id": "d9ebfce1-d14a-5b53-afb1-816b0200e76b",
+          "name": "pork shoulder",
+          "display_text": "800g Pork Shoulder",
+          "quantity": 800.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 800.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "c158b09d-92bf-590e-831b-e0a44ed14059",
+          "ingredient_id": "a6b6f19f-71e2-5219-b401-fae4c835e21b",
+          "name": "garlic",
+          "display_text": "4 Cloves Crushed Garlic",
+          "quantity": 4.0,
+          "unit": "clove",
+          "preparation": "crushed",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "1790d397-d712-53f8-a354-c1d2dfd8b08d",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "2 tablespoons Plain Flour",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "dd8ccbf6-3118-5805-b4b6-264a507beb09",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "2 tablespoons Paprika",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 30.0,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "1b377c39-c641-5085-a676-8d532dc09fb7",
+          "ingredient_id": "39a746ef-3300-5229-b0b2-3e03970ea60c",
+          "name": "beef stock",
+          "display_text": "1 1/2 L Beef Stock",
+          "quantity": 1.5,
+          "unit": "liter",
+          "is_optional": false,
+          "metric_quantity": 1.5,
+          "metric_unit": "liter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "96257369-7943-531d-9b64-754cce8f999e",
+          "ingredient_id": "6951eb55-312d-5d64-ab5f-88056a3b0a30",
+          "name": "bay leaves",
+          "display_text": "4 Bay Leaves",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "f5fa7cd3-82c9-574c-8dac-8629ff436f6d",
+          "ingredient_id": "e4c78875-812c-5dd3-9f46-3c92ab766306",
+          "name": "white sauerkraut",
+          "display_text": "400g White Sauerkraut",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "produce"
+        },
+        {
+          "id": "5714cb5a-353a-5867-a6a3-b9d096b30973",
+          "ingredient_id": "ff546e66-3df1-5c50-bf15-42f51d91ab80",
+          "name": "whipping cream",
+          "display_text": "200ml Whipping Cream",
+          "quantity": 200.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 200.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "62c7cfbf-c8d1-565b-be59-cc56456071f8",
+          "ingredient_id": "6ca777b1-4e80-5a4b-8ffe-88c954e2cc8a",
+          "name": "sour cream",
+          "display_text": "4 tablespoons Sour Cream",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat the lard in a saucepan over a medium heat and fry the finely chopped onion until golden, around 5-8 mins. Tip in the cumin and pork, and fry for 10 mins all over until browned. Add the garlic, season well and scatter over the flour. Cook for about a minute, then add the paprika and cook for 1 min more.",
+      "ingredients_used": [
+        "eb3dbeb3-65f8-54b7-b2a6-f6f7c97daa05",
+        "66b7e0a3-cc1f-5de5-afde-25ff294ca6e6",
+        "c158b09d-92bf-590e-831b-e0a44ed14059",
+        "dd8ccbf6-3118-5805-b4b6-264a507beb09"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Pour in half of the stock, add the bay leaves, and simmer with the lid on over a low heat for 30 mins.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "96257369-7943-531d-9b64-754cce8f999e"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Add the sauerkraut, remaining stock and a drizzle of the sauerkraut pickling juices. Simmer with the lid for 30 mins, stirring occasionally, until the meat is tender. Stir in the cream and simmer for 5 mins to combine the flavors. Season to taste, the serve garnished with a spoonful of soured cream.",
+      "ingredients_used": [
+        "f5fa7cd3-82c9-574c-8dac-8629ff436f6d"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "This recipe has been provided by Apetit Online and not been re-tested by us."
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/pork-sauerkraut-goulash"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

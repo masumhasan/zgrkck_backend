@@ -1,0 +1,292 @@
+{
+  "id": "caa454cf-2a59-58a5-a98b-48ce3a01514b",
+  "version": "1.0.0",
+  "title": "Chinese Tomato Egg Stir Fry",
+  "slug": "chinese-tomato-egg-stir-fry",
+  "summary": "A classic Chinese home-style dish consisting of soft scrambled eggs stir-fried with juicy tomatoes and seasoned with sugar and sesame oil.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:28:33Z",
+  "updated_at": "2026-10-16T10:22:52Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53372"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/rwvw8q1765660071.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/rwvw8q1765660071.jpg/small",
+      "alt_text": "Photo of Chinese Tomato Egg Stir Fry",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Wn8ox93Qhus"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "6813a95e-62cf-55e7-9d4b-6f19ee1d7391",
+        "slug": "chinese",
+        "name": "Chinese"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "dairy_free"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 13,
+    "total_time_minutes": 23
+  },
+  "yield": {
+    "servings": 2,
+    "serving_unit": "servings",
+    "serving_size_description": "a portion of scrambled eggs and tomatoes with rice"
+  },
+  "allergens": {
+    "contains": [
+      "gluten",
+      "eggs",
+      "sesame"
+    ],
+    "free_from": [
+      "dairy",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "shellfish",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "fish",
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "c22db857-561d-5100-8761-3cab5b8304d5",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "abd9dfa6-9630-536c-8f56-e65c319b6a4c",
+          "ingredient_id": "eef09ba5-f0a8-5d2e-a676-6a71ab7f1fab",
+          "name": "plum tomatoes",
+          "display_text": "1 lb Plum Tomatoes",
+          "quantity": 1.0,
+          "unit": "pound",
+          "is_optional": false,
+          "metric_quantity": 453.6,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "15d942b9-3a2a-5c47-b923-9e9244ffae9b",
+          "ingredient_id": "3d0e8f92-8c18-580b-98dd-7663365ca3ec",
+          "name": "vegetable oil",
+          "display_text": "1 tablespoon Vegetable Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "9aed9fd1-4d4b-5e37-9554-bdbb001013d5",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "eggs",
+          "display_text": "5 Large Eggs",
+          "quantity": 5.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "80641d27-d44e-5354-94ef-fe789ba4da97",
+          "ingredient_id": "653731ca-07ee-57df-aa38-0f8f2b71ccc6",
+          "name": "sesame seed oil",
+          "display_text": "1 tsp Sesame Seed Oil",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 5.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "b83e2c18-e9f1-52e7-8c54-258c5112a6af",
+          "ingredient_id": "26e6f497-8664-5743-92c3-8a36b2b81680",
+          "name": "chicken bouillon powder",
+          "display_text": "2 tsp Chicken Bouillon Powder",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "poultry"
+        },
+        {
+          "id": "f270ec55-129c-5992-95c5-f18e28e47f62",
+          "ingredient_id": "6d55729c-e8a7-5684-9282-e1f401e65754",
+          "name": "sugar",
+          "display_text": "2 tsp Sugar",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "sweeteners"
+        },
+        {
+          "id": "16d57b2f-588d-5f4a-ba53-79303355e3c7",
+          "ingredient_id": "1a71198b-91df-5642-97b6-09c44af58416",
+          "name": "pepper",
+          "display_text": "1/2 tsp Pepper",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 2.5,
+          "metric_unit": "milliliter",
+          "category": "herbs_spices"
+        },
+        {
+          "id": "829edee3-d92a-530a-a006-dba502494eb3",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "1/4 tsp Salt",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 1.2,
+          "metric_unit": "milliliter",
+          "category": "seasoning"
+        },
+        {
+          "id": "8fd4efa3-5da8-54b4-af7b-3e968ed9f5cd",
+          "ingredient_id": "b2238f52-9e68-57aa-a38e-0bda41359d1b",
+          "name": "spring onions",
+          "display_text": "1 Spring Onions",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3d9a20b5-53fb-51e1-9e1e-8b674f28442b",
+          "ingredient_id": "5e15f536-69f0-5645-a107-7aef5fc85d55",
+          "name": "jasmine rice",
+          "display_text": "2 cups Jasmine Rice",
+          "quantity": 2.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 480.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "You can use chicken broth in place of the chicken bouillon powder. Add 1/4 cup of broth followed by 2 teaspoons of cornstarch dissolved in 1 tablespoPrepare the tomatoes:",
+      "ingredients_used": [
+        "abd9dfa6-9630-536c-8f56-e65c319b6a4c",
+        "b83e2c18-e9f1-52e7-8c54-258c5112a6af"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Slice the tomatoes in half. Remove the tough stem from each half that connects to the vine. Cut each half into equal thirds (you’ll get 6 slices from each tomato).",
+      "ingredients_used": [
+        "abd9dfa6-9630-536c-8f56-e65c319b6a4c"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Make the soft scrambled eggs:",
+      "ingredients_used": [
+        "9aed9fd1-4d4b-5e37-9554-bdbb001013d5"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "In a cold, 8 to 10-inch nonstick skillet, add the vegetable oil and beaten eggs. Turn the heat to medium. Once a thin layer of eggs is just beginning to cook on the bottom, push the eggs in one direction to create layers of scrambled eggs.",
+      "ingredients_used": [
+        "15d942b9-3a2a-5c47-b923-9e9244ffae9b",
+        "9aed9fd1-4d4b-5e37-9554-bdbb001013d5"
+      ]
+    },
+    {
+      "step_number": 5,
+      "instruction": "Cook, gently stirring the whole time, until the scramble eggs are mostly set but still slightly wet and shiny, 2 to 5 minutes. Remove the eggs to a plate and, if needed, wipe out the pan.",
+      "timer_seconds": 300,
+      "ingredients_used": [
+        "9aed9fd1-4d4b-5e37-9554-bdbb001013d5"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Stir-fry the tomatoes and seasonings:",
+      "ingredients_used": [
+        "abd9dfa6-9630-536c-8f56-e65c319b6a4c"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Add the sesame oil to the pan followed by the tomatoes and stir-fry over medium heat until the tomatoes are softened but not mushy, about 3 minutes. Add the chicken bouillon powder, sugar, and white pepper. Toss until combined and the sugar and bouillon have dissolved, about 1 minute.",
+      "ingredients_used": [
+        "abd9dfa6-9630-536c-8f56-e65c319b6a4c",
+        "b83e2c18-e9f1-52e7-8c54-258c5112a6af",
+        "f270ec55-129c-5992-95c5-f18e28e47f62",
+        "16d57b2f-588d-5f4a-ba53-79303355e3c7"
+      ]
+    },
+    {
+      "step_number": 8,
+      "instruction": "Add eggs, stir-fry, and garnish:",
+      "ingredients_used": [
+        "9aed9fd1-4d4b-5e37-9554-bdbb001013d5"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "Add the eggs back to the pan with the tomatoes. Stir-fry for about 2 minutes to heat through and combine. Taste, adding salt only if needed. Sprinkle with the green onions and serve with steamed rice.on of water, plus salt to taste.",
+      "timer_seconds": 120,
+      "ingredients_used": [
+        "abd9dfa6-9630-536c-8f56-e65c319b6a4c",
+        "9aed9fd1-4d4b-5e37-9554-bdbb001013d5",
+        "829edee3-d92a-530a-a006-dba502494eb3",
+        "8fd4efa3-5da8-54b4-af7b-3e968ed9f5cd",
+        "3d9a20b5-53fb-51e1-9e1e-8b674f28442b"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.simplyrecipes.com/chinese-tomato-egg-recipe-7562056"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

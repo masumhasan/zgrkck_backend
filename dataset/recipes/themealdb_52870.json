@@ -1,0 +1,290 @@
+{
+  "id": "d5175174-eaef-56b4-9d24-b35dead809db",
+  "version": "1.0.0",
+  "title": "Chickpea Fajitas",
+  "slug": "chickpea-fajitas",
+  "summary": "Roasted chickpeas served in charred corn tortillas with pickled tomatoes and onions, creamy harissa sour cream, and fresh guacamole.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T14:44:46Z",
+  "updated_at": "2026-10-16T10:22:50Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/52870"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/tvtxpq1511464705.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/tvtxpq1511464705.jpg/small",
+      "alt_text": "Photo of Chickpea Fajitas",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=LGY3V7EGpT0"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "d92b5023-5f76-56a5-b92d-341aaabd6a80",
+        "slug": "mexican",
+        "name": "Mexican"
+      }
+    ],
+    "tags": [
+      "vegetarian"
+    ],
+    "meal_types": [
+      "dinner",
+      "lunch"
+    ],
+    "courses": [
+      "main_course"
+    ],
+    "dietary_flags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 25,
+    "marinating_time_minutes": 10,
+    "total_time_minutes": 50
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "1 tortilla with chickpea filling"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "sulfites"
+    ],
+    "free_from": [
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "5c1866e4-5f74-57a8-8398-37bb2ce8c10b",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "eb9f13bd-e686-5a6a-bdf2-5b7b399d9f30",
+          "ingredient_id": "ae979dd7-6a1e-5882-9ed5-e0b09554efd0",
+          "name": "chickpeas",
+          "display_text": "400g Chickpeas",
+          "quantity": 400.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 400.0,
+          "metric_unit": "gram",
+          "category": "canned_goods"
+        },
+        {
+          "id": "c9faeaf5-cb87-5a2f-970a-e6edd0e1863f",
+          "ingredient_id": "593d60e9-dae2-500b-bf48-032eca01b9a4",
+          "name": "olive oil",
+          "display_text": "1 tblsp Olive Oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 15.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "b3960541-1aff-5b46-8da3-71b6d1dce5d3",
+          "ingredient_id": "1e69d03a-522b-521c-936c-6a8fdd07947d",
+          "name": "paprika",
+          "display_text": "pinch Paprika",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "herbs_spices"
+        },
+        {
+          "id": "a4f1b17a-5789-5cc0-9669-0d79303a05e4",
+          "ingredient_id": "f823e923-c1c8-58c5-af09-ea7e8724fec7",
+          "name": "tomatoes",
+          "display_text": "2 small cut chunks Tomatoes",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "small cut chunks",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "b401b813-e8f8-5e75-bd96-65cad04578f5",
+          "ingredient_id": "716f7639-3b59-56a7-9146-1819649ebdad",
+          "name": "red onions",
+          "display_text": "1 finely sliced Red Onions",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "finely sliced",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "0dc6be7e-2878-558b-b9fb-321211d40fcc",
+          "ingredient_id": "38df984b-29a1-5431-8935-d850dfe8f8f7",
+          "name": "red wine vinegar",
+          "display_text": "2 tsp Red Wine Vinegar",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "11d5d7c0-af34-5e0c-9e1c-92f34e04d9d7",
+          "ingredient_id": "eb7e0cb5-be44-5074-93b2-98cbac9baf42",
+          "name": "avocado",
+          "display_text": "1 Avocado",
+          "quantity": 1.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "891ce4f8-a1cb-5835-a8fc-26e30bb5dd78",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "Juice of 1 Lime",
+          "quantity": 1.0,
+          "unit": "piece",
+          "preparation": "juice",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "3ea1faf7-2cc7-51c7-ae60-f97ce584c6c4",
+          "ingredient_id": "8c36c364-2f40-5d93-9c9e-fb0b2500b510",
+          "name": "lime",
+          "display_text": "Chopped Lime",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "chopped",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "234baedf-ecad-57f8-933b-342502ed6262",
+          "ingredient_id": "6ca777b1-4e80-5a4b-8ffe-88c954e2cc8a",
+          "name": "sour cream",
+          "display_text": "100g Sour Cream",
+          "quantity": 100.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 100.0,
+          "metric_unit": "gram",
+          "category": "dairy"
+        },
+        {
+          "id": "5ac007c8-1a5f-5934-9967-e1260c11a214",
+          "ingredient_id": "de3a4289-f9da-523e-971e-192a1995a29a",
+          "name": "harissa spice",
+          "display_text": "2 tsp Harissa Spice",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "is_optional": false,
+          "metric_quantity": 10.0,
+          "metric_unit": "milliliter",
+          "category": "condiments"
+        },
+        {
+          "id": "26daa104-ee31-50b6-8b3d-14060a9e8d4b",
+          "ingredient_id": "c5fb2c9d-7328-5d17-ae93-1746d0bc3a32",
+          "name": "corn tortillas",
+          "display_text": "4 Corn Tortillas",
+          "quantity": 4.0,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "grains_pasta"
+        },
+        {
+          "id": "b1ce527b-4725-55ff-b058-b5665d9f985c",
+          "ingredient_id": "92b6bf15-5e8e-5a0f-a3a1-8c8483d8672e",
+          "name": "coriander",
+          "display_text": "to serve Coriander",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "to serve",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Heat oven to 200C/180C fan/gas 6 and line a baking tray with foil. Drain the chickpeas, pat dry and tip onto the prepared baking tray. Add the oil and paprika, toss to coat, then roast for 20-25 mins until browned and crisp, shaking halfway through cooking.",
+      "timer_seconds": 1500,
+      "temperature": {
+        "value": 200,
+        "unit": "celsius"
+      },
+      "ingredients_used": [
+        "eb9f13bd-e686-5a6a-bdf2-5b7b399d9f30",
+        "b3960541-1aff-5b46-8da3-71b6d1dce5d3"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Meanwhile, put the tomatoes and onion in a small bowl with the vinegar and set aside to pickle. Put the avocado in another bowl and mash with a fork, leaving some larger chunks. Stir in the lime juice and season well. Mix the soured cream with the harissa and set aside until ready to serve.",
+      "ingredients_used": [
+        "a4f1b17a-5789-5cc0-9669-0d79303a05e4",
+        "11d5d7c0-af34-5e0c-9e1c-92f34e04d9d7",
+        "891ce4f8-a1cb-5835-a8fc-26e30bb5dd78",
+        "3ea1faf7-2cc7-51c7-ae60-f97ce584c6c4"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Heat a griddle pan until nearly smoking. Add the tortillas , one at a time, charring each side until hot with griddle lines.",
+      "ingredients_used": [
+        "26daa104-ee31-50b6-8b3d-14060a9e8d4b"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Put everything on the table and build the fajitas : spread a little of the harissa cream over the tortilla, top with roasted chickpeas, guacamole, pickled salsa and coriander, if you like. Serve with the lime wedges for squeezing over.",
+      "ingredients_used": [
+        "eb9f13bd-e686-5a6a-bdf2-5b7b399d9f30",
+        "891ce4f8-a1cb-5835-a8fc-26e30bb5dd78",
+        "3ea1faf7-2cc7-51c7-ae60-f97ce584c6c4",
+        "b1ce527b-4725-55ff-b058-b5665d9f985c"
+      ]
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/chickpea-fajitas"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

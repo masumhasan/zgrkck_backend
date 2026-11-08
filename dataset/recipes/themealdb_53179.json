@@ -1,0 +1,291 @@
+{
+  "id": "8a1678e7-b712-5c88-877d-771f0185ee73",
+  "version": "1.0.0",
+  "title": "Ham croquetas",
+  "slug": "ham-croquetas",
+  "summary": "Spanish-style croquettes made with a thick béchamel base flavored with jamón ibérico and leeks, coated in breadcrumbs and fried until golden.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:11:13Z",
+  "updated_at": "2026-10-16T10:22:51Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53179"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/6dpa7m1763331105.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/6dpa7m1763331105.jpg/small",
+      "alt_text": "Photo of Ham croquetas",
+      "width": 700,
+      "height": 700
+    },
+    "video": {
+      "url": "https://www.youtube.com/shorts/nT8MGiWldHk"
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "9e662508-8f39-53e4-920b-2409aef3c9b9",
+        "slug": "spanish",
+        "name": "Spanish"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "lunch",
+      "dinner",
+      "breakfast"
+    ],
+    "courses": [
+      "appetizer",
+      "side_dish"
+    ],
+    "dietary_flags": [],
+    "difficulty": "intermediate",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 25,
+    "marinating_time_minutes": 90,
+    "total_time_minutes": 135
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "servings",
+    "serving_size_description": "3-4 croquetas"
+  },
+  "allergens": {
+    "contains": [
+      "dairy",
+      "gluten",
+      "eggs"
+    ],
+    "free_from": [
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "sulfites"
+    ],
+    "may_contain": [
+      "celery"
+    ]
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "82f8b7c1-d6bb-5640-82a0-e4ed3b04e2de",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "9c6d88a3-08c0-59c4-b414-fc783ed1c6ac",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "75g Plain Flour",
+          "quantity": 75.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "52abd463-6184-5fc0-b429-1e3f28107f60",
+          "ingredient_id": "2c6cfa96-b52b-5fa7-a094-f0a7ab0fe6e1",
+          "name": "egg",
+          "display_text": "2 large Egg",
+          "quantity": 2.0,
+          "unit": "piece",
+          "preparation": "large",
+          "is_optional": false,
+          "category": "eggs"
+        },
+        {
+          "id": "bba2a77b-d154-563b-94f2-ab147475b455",
+          "ingredient_id": "00efa231-6d81-5c88-91fa-b330117cc5f4",
+          "name": "breadcrumbs",
+          "display_text": "75g Breadcrumbs",
+          "quantity": 75.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "gram",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "c57927cd-35d5-5a10-9cc7-641200e13a18",
+          "ingredient_id": "aa561384-0d26-5008-a25e-3ba9db4b2a3f",
+          "name": "sunflower oil",
+          "display_text": "For frying Sunflower Oil",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "for frying",
+          "is_optional": false,
+          "category": "oils_fats"
+        },
+        {
+          "id": "b324823d-1c6e-5f0e-a922-5d4e22075889",
+          "ingredient_id": "96cc0c2b-795a-53be-a503-05d14e92b236",
+          "name": "extra virgin olive oil",
+          "display_text": "4 tbsp Extra Virgin Olive Oil",
+          "quantity": 4.0,
+          "unit": "tablespoon",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "milliliter",
+          "category": "oils_fats"
+        },
+        {
+          "id": "7b810455-4af3-561c-9809-a158a22326a9",
+          "ingredient_id": "ef5d99bc-384e-522a-8c0f-1c8501f6612c",
+          "name": "leek",
+          "display_text": "1/2 Leek",
+          "quantity": 0.5,
+          "unit": "piece",
+          "is_optional": false,
+          "category": "produce"
+        },
+        {
+          "id": "4f1cf2ef-9087-54a6-a282-f455dbfba1c4",
+          "ingredient_id": "69257f0e-517e-5b83-b89c-068f92373dcc",
+          "name": "jamón ibérico",
+          "display_text": "70g jamón ibérico",
+          "quantity": 70.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 70.0,
+          "metric_unit": "gram",
+          "category": "meat"
+        },
+        {
+          "id": "1d58866a-2a01-5366-b58e-703eb6b52718",
+          "ingredient_id": "3332d6f3-1fa3-556c-ac4a-133ed0d0e86f",
+          "name": "plain flour",
+          "display_text": "60g Plain Flour",
+          "quantity": 60.0,
+          "unit": "gram",
+          "is_optional": false,
+          "metric_quantity": 60.0,
+          "metric_unit": "gram",
+          "category": "baking_goods"
+        },
+        {
+          "id": "81259f17-ed08-5d77-8c97-57286bf08c63",
+          "ingredient_id": "2d490c0b-0744-5be5-a104-641c87b13636",
+          "name": "vegetable stock",
+          "display_text": "75 ml Vegetable Stock",
+          "quantity": 75.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 75.0,
+          "metric_unit": "milliliter",
+          "category": "canned_goods"
+        },
+        {
+          "id": "0ff8de47-9d66-5dc2-b74a-86cdfd8ad432",
+          "ingredient_id": "b5e2005c-b573-5330-b6ad-7f29b1cfa52b",
+          "name": "milk",
+          "display_text": "330ml Milk",
+          "quantity": 330.0,
+          "unit": "milliliter",
+          "is_optional": false,
+          "metric_quantity": 330.0,
+          "metric_unit": "milliliter",
+          "category": "dairy"
+        },
+        {
+          "id": "050cec00-438a-5c88-a70a-e399405349fd",
+          "ingredient_id": "9426e9cd-e7b2-540e-8ddb-187c01748931",
+          "name": "nutmeg",
+          "display_text": "Grated Nutmeg",
+          "quantity": 0,
+          "unit": "as_needed",
+          "preparation": "grated",
+          "is_optional": false,
+          "category": "herbs_spices"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "To make the filling, heat the olive oil in a pan until it starts to shimmer. Add the leek and sauté until soft but not colored. Stir in the ham with a wooden spoon, fry for 1 min, then stir in the flour and fry over a medium heat, stirring occasionally, until the mixture is golden but not burnt – this will take about 5 mins.",
+      "ingredients_used": [
+        "7b810455-4af3-561c-9809-a158a22326a9"
+      ]
+    },
+    {
+      "step_number": 2,
+      "instruction": "Meanwhile, combine the stock and milk in a small pan and heat until steaming but not boiling. Season with a few scrapes of nutmeg. Gradually add the liquid, a few tbsp at a time, stirring constantly.",
+      "ingredients_used": [
+        "0ff8de47-9d66-5dc2-b74a-86cdfd8ad432",
+        "050cec00-438a-5c88-a70a-e399405349fd"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "Once you’ve incorporated all the milk stock, continue to cook the filling over a medium heat for about 10 mins or until it thickens and leaves the sides of the pan when you stir it.",
+      "timer_seconds": 600,
+      "ingredients_used": [
+        "0ff8de47-9d66-5dc2-b74a-86cdfd8ad432"
+      ]
+    },
+    {
+      "step_number": 4,
+      "instruction": "Season with black pepper, taste and adjust the salt if necessary – the ham can be very salty to start with. The filling is now done: it has to be really thick because you don’t want the croquetas to turn into pancakes."
+    },
+    {
+      "step_number": 5,
+      "instruction": "Smooth the mixture onto a baking tray (30 x 20cm is fine). Once it has stopped steaming, cover with cling film to stop it drying out. Leave to cool before putting it in the fridge for 1 hr.",
+      "timer_seconds": 3600
+    },
+    {
+      "step_number": 6,
+      "instruction": "When you're ready for the next stage, line up three bowls: the first filled with the flour, the second with beaten egg and the third with breadcrumbs. Take the ham mixture out of the fridge. Put a little bit of olive oil on your hands to make it easier to roll the croquetas.",
+      "ingredients_used": [
+        "52abd463-6184-5fc0-b429-1e3f28107f60",
+        "bba2a77b-d154-563b-94f2-ab147475b455"
+      ]
+    },
+    {
+      "step_number": 7,
+      "instruction": "Roll a spoonful of the mixture between your palms. The size and shape of the croquetas is up to you, but the easiest is a walnut-sized ball. Then begin coating as follows."
+    },
+    {
+      "step_number": 8,
+      "instruction": "Dunk the croquetas into the flour – you want a dusting – followed by the egg, then the breadcrumbs. Put them on a tray and, when you’ve used up all the mixture, place in the fridge for 30 mins.",
+      "timer_seconds": 1800,
+      "ingredients_used": [
+        "52abd463-6184-5fc0-b429-1e3f28107f60",
+        "bba2a77b-d154-563b-94f2-ab147475b455"
+      ]
+    },
+    {
+      "step_number": 9,
+      "instruction": "If you have a deep-fat fryer, heat the oil to 180C and fry for a couple of mins. If not, heat the oil in a deep, heavy-bottomed saucepan until it starts to shimmer. Then add 5-6 croquetas at a time and fry until golden all over. Once cooked, drain on kitchen paper and eat straight away.",
+      "temperature": {
+        "value": 180,
+        "unit": "celsius"
+      }
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://www.bbcgoodfood.com/recipes/ham-croquetas"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}

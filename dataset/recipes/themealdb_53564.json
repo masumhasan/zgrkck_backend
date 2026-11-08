@@ -1,0 +1,179 @@
+{
+  "id": "c3ebce31-6428-5683-b006-d4fab3aace6b",
+  "version": "1.0.0",
+  "title": "Cassava bread",
+  "slug": "cassava-bread",
+  "summary": "A traditional Dominican side dish made from cassava flour and water, cooked on a griddle until lightly browned.",
+  "status": "review",
+  "language": "en-US",
+  "created_at": "2026-10-14T15:45:31Z",
+  "updated_at": "2026-10-16T10:22:53Z",
+  "source": {
+    "type": "website",
+    "name": "TheMealDB",
+    "url": "https://www.themealdb.com/meal/53564"
+  },
+  "media": {
+    "primary_image": {
+      "url": "https://www.themealdb.com/images/media/meals/fnfnhi1784671116.jpg",
+      "thumbnail_url": "https://www.themealdb.com/images/media/meals/fnfnhi1784671116.jpg/small",
+      "alt_text": "Photo of Cassava bread",
+      "width": 700,
+      "height": 700
+    }
+  },
+  "meta": {
+    "cuisines": [
+      {
+        "id": "4da88d96-f05f-5f73-a14b-c5e37ee2541e",
+        "slug": "dominican",
+        "name": "Dominican"
+      }
+    ],
+    "tags": [],
+    "meal_types": [
+      "snack",
+      "breakfast"
+    ],
+    "courses": [
+      "side_dish"
+    ],
+    "dietary_flags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "difficulty": "beginner",
+    "occasions": []
+  },
+  "timing": {
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 30
+  },
+  "yield": {
+    "servings": 4,
+    "serving_unit": "pieces",
+    "serving_size_description": "2-3 cassava disks"
+  },
+  "allergens": {
+    "contains": [],
+    "free_from": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "tree_nuts",
+      "soy",
+      "eggs",
+      "fish",
+      "shellfish",
+      "sesame",
+      "mustard",
+      "celery",
+      "sulfites"
+    ],
+    "may_contain": []
+  },
+  "ingredient_groups": [
+    {
+      "group_id": "aafe3ee3-4e74-577f-a690-6f37a32f3c8c",
+      "group_name": "Ingredients",
+      "sort_order": 1,
+      "ingredients": [
+        {
+          "id": "a7e95855-97fb-5cf7-889b-6ad5056ad688",
+          "ingredient_id": "ad6ef99d-7361-5107-beb0-7b894d2821bb",
+          "name": "farine",
+          "display_text": "3 Cups Farine",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "grains_pasta"
+        },
+        {
+          "id": "7664dac2-eedd-515f-ad6f-35ab96b693de",
+          "ingredient_id": "26c42d10-7cd7-555b-91a2-a78d6db61c9c",
+          "name": "water",
+          "display_text": "3 Cups Water",
+          "quantity": 3.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 720.0,
+          "metric_unit": "milliliter",
+          "category": "beverages"
+        },
+        {
+          "id": "90db3b6f-ed74-53f5-9946-7cb92e2ef4d7",
+          "ingredient_id": "f01e1407-533b-58f6-af69-099e71e164db",
+          "name": "cassava flour",
+          "display_text": "1 cup Cassava Flour",
+          "quantity": 1.0,
+          "unit": "cup",
+          "is_optional": false,
+          "metric_quantity": 240.0,
+          "metric_unit": "milliliter",
+          "category": "baking_goods"
+        },
+        {
+          "id": "985b4f70-6bab-5c05-87fb-6ac89bfb1351",
+          "ingredient_id": "e8d89db7-6b84-5ed8-bab4-a89664d09c5c",
+          "name": "salt",
+          "display_text": "Pinch Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "is_optional": false,
+          "category": "seasoning"
+        }
+      ]
+    }
+  ],
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "instruction": "Mix dry ingredients in a bowl"
+    },
+    {
+      "step_number": 2,
+      "instruction": "Add water and mix well",
+      "ingredients_used": [
+        "7664dac2-eedd-515f-ad6f-35ab96b693de"
+      ]
+    },
+    {
+      "step_number": 3,
+      "instruction": "When mixture has achieved a doughy like consistency, roll into little balls"
+    },
+    {
+      "step_number": 4,
+      "instruction": "Roll balls with the palm of your hands, and flatten slightly like s disk"
+    },
+    {
+      "step_number": 5,
+      "instruction": "In a plate, cover balls with the rest of the farine to create a very course texture",
+      "ingredients_used": [
+        "a7e95855-97fb-5cf7-889b-6ad5056ad688"
+      ]
+    },
+    {
+      "step_number": 6,
+      "instruction": "Place on a hot heavy cast iron griddle pressing down to flatten with and roast on both sides until lightly brown"
+    },
+    {
+      "step_number": 7,
+      "instruction": "Remove and serve or add your special accompaniment"
+    }
+  ],
+  "notes_and_tips": [
+    {
+      "type": "attribution",
+      "text": "Original recipe source: https://dominicagourmet.com/how-to-make-cassava-bread/"
+    },
+    {
+      "type": "attribution",
+      "text": "Recipe data and image from TheMealDB (https://www.themealdb.com)."
+    }
+  ]
+}
