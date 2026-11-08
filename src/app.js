@@ -3,6 +3,8 @@ const cors = require('cors');
 const authRoutes = require('./routes/auth.routes');
 const onboardingRoutes = require('./routes/onboarding.routes');
 const userRoutes = require('./routes/user.routes');
+const recipeRoutes = require('./routes/recipe.routes');
+const planRoutes = require('./routes/plan.routes');
 const { errorHandler } = require('./middleware/error.middleware');
 
 const app = express();
@@ -20,6 +22,8 @@ app.get('/health', (req, res) => {
 app.use('/api/v1/auth', authRoutes);
 app.use('/api/v1/onboarding', onboardingRoutes);
 app.use('/api/v1/users', userRoutes);
+app.use('/api/v1/recipes', recipeRoutes);
+app.use('/api/v1/plans', planRoutes);
 
 // Global Error Handler
 app.use(errorHandler);

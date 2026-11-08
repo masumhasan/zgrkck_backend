@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "nodemon server.js",
     "start": "node server.js",
+    "seed": "node src/scripts/seed_dataset.js",
     "build": "echo \"No build step required for Node.js runtime\""
   },
   "repository": {

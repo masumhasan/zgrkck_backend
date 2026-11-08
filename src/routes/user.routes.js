@@ -1,5 +1,6 @@
 const express = require('express');
 const userRepository = require('../repositories/user.repository');
+const nutritionTargetService = require('../services/nutrition_target.service');
 const { authGuard } = require('../middleware/auth.middleware');
 const { validate } = require('../middleware/validation.middleware');
 const { personalInfoSchema } = require('../validators/personal_info.validator');
@@ -11,9 +12,15 @@ router.use(authGuard);
 
 router.get('/me', async (req, res, next) => {
   try {
-    const user = await userRepository.findById(req.user.id);
+    let user = await userRepository.findById(req.user.id);
     if (!user) {
       return errorResponse(res, 'User not found', 404);
+    }
+
+    // Auto-initialize nutrition target if not set yet
+    if (!user.nutritionTarget || !user.nutritionTarget.calories) {
+      const initialTarget = await nutritionTargetService.calculateAITarget(user);
+      user = await userRepository.updateNutritionTarget(user._id, initialTarget);
     }
 
     return successResponse(
@@ -28,9 +35,19 @@ router.get('/me', async (req, res, next) => {
         personalInfoCompleted: user.personalInfoCompleted || false,
         personalInfo: user.personalInfo || {},
         onboarding: user.onboarding || {},
+        nutritionTarget: user.nutritionTarget || {},
       },
       'User profile fetched successfully'
     );
+  } catch (err) {
+    next(err);
+  }
+});
+
+router.post('/regenerate-target', async (req, res, next) => {
+  try {
+    const updatedTarget = await nutritionTargetService.regenerateUserTarget(req.user.id);
+    return successResponse(res, updatedTarget, 'Nutrition target regenerated successfully');
   } catch (err) {
     next(err);
   }

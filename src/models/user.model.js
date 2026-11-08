@@ -48,6 +48,17 @@ const userSchema = new mongoose.Schema(
       default: false,
       index: true,
     },
+    nutritionTarget: {
+      calories: { type: Number, default: 1900 },
+      protein: { type: Number, default: 130 },
+      carbs: { type: Number, default: 210 },
+      fat: { type: Number, default: 65 },
+      caloriesConsumed: { type: Number, default: 1420 },
+      proteinConsumed: { type: Number, default: 92 },
+      carbsConsumed: { type: Number, default: 145 },
+      fatConsumed: { type: Number, default: 48 },
+      lastCalculatedAt: { type: Date, default: null },
+    },
     personalInfo: {
       age: {
         type: Number,

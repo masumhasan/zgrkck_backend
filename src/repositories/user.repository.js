@@ -16,6 +16,25 @@ class UserRepository {
     return user.save();
   }
 
+  async updateNutritionTarget(userId, targetData) {
+    const update = {
+      $set: {
+        'nutritionTarget.calories': targetData.calories,
+        'nutritionTarget.protein': targetData.protein,
+        'nutritionTarget.carbs': targetData.carbs,
+        'nutritionTarget.fat': targetData.fat,
+        'nutritionTarget.caloriesConsumed': targetData.caloriesConsumed,
+        'nutritionTarget.proteinConsumed': targetData.proteinConsumed,
+        'nutritionTarget.carbsConsumed': targetData.carbsConsumed,
+        'nutritionTarget.fatConsumed': targetData.fatConsumed,
+        'nutritionTarget.lastCalculatedAt': targetData.lastCalculatedAt || new Date(),
+      },
+    };
+    return User.findByIdAndUpdate(userId, update, { returnDocument: 'after' })
+      .lean()
+      .exec();
+  }
+
   async updatePassword(userId, hashedPassword) {
     return User.findByIdAndUpdate(userId, { password: hashedPassword }).exec();
   }
