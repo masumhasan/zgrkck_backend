@@ -38,6 +38,8 @@ class AuthService {
         email: user.email,
         role: user.role,
         onboardingCompleted: user.onboardingCompleted,
+        personalInfoCompleted: user.personalInfoCompleted || false,
+        personalInfo: user.personalInfo || {},
       },
       token,
     };
@@ -64,6 +66,21 @@ class AuthService {
       role: user.role,
     });
 
+    const pInfo = user.personalInfo || {};
+    const hasAllPersonalInfo = Boolean(
+      pInfo.age != null &&
+      pInfo.height != null &&
+      pInfo.weight != null &&
+      pInfo.gender
+    );
+    const personalInfoDone = Boolean(user.personalInfoCompleted || hasAllPersonalInfo);
+
+    if (hasAllPersonalInfo && !user.personalInfoCompleted) {
+      userRepository.updatePersonalInfo(user._id, pInfo).catch((err) =>
+        console.error('Failed to sync personalInfoCompleted flag:', err.message)
+      );
+    }
+
     return {
       user: {
         id: user._id,
@@ -72,7 +89,9 @@ class AuthService {
         email: user.email,
         role: user.role,
         onboardingCompleted: user.onboardingCompleted,
-        onboarding: user.onboarding,
+        personalInfoCompleted: personalInfoDone,
+        personalInfo: pInfo,
+        onboarding: user.onboarding || {},
       },
       token,
     };

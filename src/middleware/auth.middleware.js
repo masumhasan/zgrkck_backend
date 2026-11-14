@@ -27,5 +27,17 @@ const requireRole = (...roles) => {
   };
 };
 
-module.exports = { authGuard, requireRole };
+const optionalAuth = (req, res, next) => {
+  const authHeader = req.headers.authorization;
+  if (authHeader && authHeader.startsWith('Bearer ')) {
+    const token = authHeader.split(' ')[1];
+    const decoded = verifyToken(token);
+    if (decoded) {
+      req.user = decoded;
+    }
+  }
+  next();
+};
+
+module.exports = { authGuard, requireRole, optionalAuth };
 
