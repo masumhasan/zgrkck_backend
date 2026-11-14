@@ -1,5 +1,6 @@
 const express = require('express');
 const recipeService = require('../services/recipe.service');
+const cuisineService = require('../services/cuisine.service');
 const { Cuisine } = require('../models/cuisine.model');
 const { Ingredient } = require('../models/ingredient.model');
 const { successResponse, errorResponse } = require('../utils/response.util');
@@ -17,7 +18,7 @@ router.get('/', async (req, res, next) => {
 
 router.get('/cuisines', async (req, res, next) => {
   try {
-    const cuisines = await Cuisine.find().sort({ recipeCount: -1 }).lean().exec();
+    const cuisines = await cuisineService.getAllCuisines();
     return successResponse(res, cuisines, 'Cuisines retrieved successfully');
   } catch (err) {
     next(err);

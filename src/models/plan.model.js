@@ -25,9 +25,12 @@ const mealItemSchema = new mongoose.Schema(
 const dayPlanSchema = new mongoose.Schema(
   {
     date: { type: String, required: true }, // 'YYYY-MM-DD'
-    dayNumber: { type: Number, required: true }, // e.g. 24
-    dayName: { type: String, required: true }, // 'Monday'
-    dayLabel: { type: String, default: '' }, // 'Today', 'Tomorrow', '3 meals planned'
+    dayNumber: { type: Number, required: true }, // e.g. 14
+    month: { type: Number, required: true }, // 1-12
+    monthName: { type: String, default: '' }, // 'Nov'
+    year: { type: Number, required: true }, // 2026
+    dayName: { type: String, required: true }, // 'Saturday'
+    dayLabel: { type: String, default: '' }, // 'Today', 'Tomorrow', 'Completed', etc.
     meals: [mealItemSchema],
   },
   { _id: false }
@@ -41,6 +44,8 @@ const mealPlanSchema = new mongoose.Schema(
       required: true,
       index: true,
     },
+    generationDate: { type: String, required: true }, // 'YYYY-MM-DD'
+    generatedAt: { type: Date, default: Date.now },
     startDate: { type: String, required: true }, // 'YYYY-MM-DD'
     endDate: { type: String, required: true }, // 'YYYY-MM-DD'
     days: [dayPlanSchema],
@@ -57,8 +62,8 @@ const mealPlanSchema = new mongoose.Schema(
 );
 
 mealPlanSchema.index({ userId: 1, startDate: 1 });
+mealPlanSchema.index({ userId: 1, endDate: 1 });
 
 const MealPlan = mongoose.model('MealPlan', mealPlanSchema);
 
 module.exports = { MealPlan };
-

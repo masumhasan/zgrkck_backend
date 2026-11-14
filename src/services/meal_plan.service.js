@@ -1,20 +1,73 @@
-const https = require('https');
-const { config } = require('../config/env');
 const recipeService = require('./recipe.service');
 const userRepository = require('../repositories/user.repository');
 const { MealPlan } = require('../models/plan.model');
 
+function toDateString(date) {
+  const y = date.getFullYear();
+  const m = String(date.getMonth() + 1).padStart(2, '0');
+  const d = String(date.getDate()).padStart(2, '0');
+  return `${y}-${m}-${d}`;
+}
+
+const MONTH_NAMES = [
+  'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
+  'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec',
+];
+
+const DAY_NAMES = [
+  'Sunday', 'Monday', 'Tuesday', 'Wednesday',
+  'Thursday', 'Friday', 'Saturday',
+];
+
 class MealPlanService {
   async getCurrentPlan(userId) {
-    const today = new Date().toISOString().split('T')[0];
-    // Find active plan where endDate >= today
+    const today = new Date();
+    const todayStr = toDateString(today);
+
+    // Active plan must not have ended before today
     const plan = await MealPlan.findOne({
       userId,
-      endDate: { $gte: today },
+      endDate: { $gte: todayStr },
     })
       .sort({ createdAt: -1 })
       .lean()
       .exec();
+
+    if (!plan) {
+      return null;
+    }
+
+    const tomorrow = new Date(today.getFullYear(), today.getMonth(), today.getDate() + 1);
+    const tomorrowStr = toDateString(tomorrow);
+
+    let activeDayIndex = 0;
+    let foundToday = false;
+
+    plan.days = (plan.days || []).map((day, idx) => {
+      let label = '3 meals planned';
+      if (day.date === todayStr) {
+        label = 'Today';
+        activeDayIndex = idx;
+        foundToday = true;
+      } else if (day.date === tomorrowStr) {
+        label = 'Tomorrow';
+      } else if (day.date < todayStr) {
+        label = 'Completed';
+      }
+
+      return {
+        ...day,
+        dayLabel: label,
+      };
+    });
+
+    if (!foundToday && plan.days.length > 0) {
+      // If plan starts in the future, first day is active
+      activeDayIndex = 0;
+    }
+
+    plan.activeDayIndex = activeDayIndex;
+    plan.todayDate = todayStr;
 
     return plan;
   }
@@ -28,40 +81,40 @@ class MealPlanService {
     }
 
     const onboarding = user.onboarding || {};
-    const personalInfo = user.personalInfo || {};
     const nutritionTarget = user.nutritionTarget || {};
 
-    // Get candidate recipes safe for user
     const safeCandidates = await recipeService.getSafeCandidateRecipes(onboarding, 60);
     if (!safeCandidates || safeCandidates.length === 0) {
       throw new Error('No recipes matched your dietary preferences and restrictions.');
     }
 
-    // Generate 7-day schedule starting today
-    const startDate = new Date();
-    const days = [];
-    const dayNames = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+    const now = new Date();
+    const generationDate = toDateString(now);
+    const startDateStr = generationDate;
 
-    // Separate candidates by meal types for breakfast, lunch, and dinner
-    const breakfasts = safeCandidates.filter((r) =>
-      r.meta?.mealTypes?.includes('breakfast') || r.meta?.mealTypes?.includes('snack')
+    const breakfasts = safeCandidates.filter(
+      (r) => r.meta?.mealTypes?.includes('breakfast') || r.meta?.mealTypes?.includes('snack')
     );
-    const lunches = safeCandidates.filter((r) =>
-      r.meta?.mealTypes?.includes('lunch') || r.meta?.mealTypes?.includes('dinner')
+    const lunches = safeCandidates.filter(
+      (r) => r.meta?.mealTypes?.includes('lunch') || r.meta?.mealTypes?.includes('dinner')
     );
-    const dinners = safeCandidates.filter((r) =>
-      r.meta?.mealTypes?.includes('dinner') || r.meta?.mealTypes?.includes('lunch')
+    const dinners = safeCandidates.filter(
+      (r) => r.meta?.mealTypes?.includes('dinner') || r.meta?.mealTypes?.includes('lunch')
     );
 
     const bPool = breakfasts.length > 0 ? breakfasts : safeCandidates;
     const lPool = lunches.length > 0 ? lunches : safeCandidates;
     const dPool = dinners.length > 0 ? dinners : safeCandidates;
 
+    const days = [];
+
     for (let i = 0; i < 7; i++) {
-      const currDate = new Date(startDate.getTime() + i * 24 * 60 * 60 * 1000);
-      const dateStr = currDate.toISOString().split('T')[0];
+      const currDate = new Date(now.getFullYear(), now.getMonth(), now.getDate() + i);
+      const dateStr = toDateString(currDate);
       const dayNum = currDate.getDate();
-      const dayName = dayNames[currDate.getDay()];
+      const monthNum = currDate.getMonth() + 1;
+      const monthName = MONTH_NAMES[currDate.getMonth()];
+      const dayName = DAY_NAMES[currDate.getDay()];
       const dayLabel = i === 0 ? 'Today' : i === 1 ? 'Tomorrow' : '3 meals planned';
 
       const bRecipe = bPool[i % bPool.length];
@@ -124,19 +177,23 @@ class MealPlanService {
       days.push({
         date: dateStr,
         dayNumber: dayNum,
+        month: monthNum,
+        monthName,
+        year: currDate.getFullYear(),
         dayName,
         dayLabel,
         meals,
       });
     }
 
-    const endDate = days[6].date;
+    const endDateStr = days[days.length - 1].date;
     const goalText = onboarding.goal ? `On track for ${onboarding.goal}` : 'On track for Weight Maintenance';
 
     const newPlan = await MealPlan.create({
       userId,
-      startDate: days[0].date,
-      endDate,
+      generationDate,
+      startDate: startDateStr,
+      endDate: endDateStr,
       days,
       overview: {
         avgKcalPerDay: nutritionTarget.calories || 1850,
@@ -145,7 +202,10 @@ class MealPlanService {
       },
     });
 
-    return newPlan.toObject();
+    const planObj = newPlan.toObject();
+    planObj.activeDayIndex = 0;
+    planObj.todayDate = generationDate;
+    return planObj;
   }
 }
 

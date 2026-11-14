@@ -82,7 +82,13 @@ class RecipeService {
       filter.$text = { $search: query };
     }
     if (cuisine) {
-      filter['meta.cuisines.slug'] = cuisine.toLowerCase();
+      const clean = cuisine.trim();
+      const slugVariant = clean.toLowerCase().replace(/\s+/g, '-');
+      filter.$or = [
+        { 'meta.cuisines.slug': clean.toLowerCase() },
+        { 'meta.cuisines.slug': slugVariant },
+        { 'meta.cuisines.name': new RegExp(`^${clean}$`, 'i') },
+      ];
     }
     if (mealType) {
       filter['meta.mealTypes'] = mealType.toLowerCase();
@@ -91,19 +97,25 @@ class RecipeService {
       filter['timing.totalMinutes'] = { $lte: parseInt(maxTime, 10) };
     }
 
-    const skip = (page - 1) * limit;
+    const pageNum = Math.max(1, parseInt(page, 10) || 1);
+    const limitNum = Math.max(1, parseInt(limit, 10) || 20);
+    const skip = (pageNum - 1) * limitNum;
+
     const [recipes, total] = await Promise.all([
-      Recipe.find(filter).skip(skip).limit(limit).lean().exec(),
+      Recipe.find(filter).skip(skip).limit(limitNum).lean().exec(),
       Recipe.countDocuments(filter),
     ]);
+
+    const totalPages = Math.ceil(total / limitNum);
 
     return {
       recipes,
       pagination: {
-        page: parseInt(page, 10),
-        limit: parseInt(limit, 10),
+        page: pageNum,
+        limit: limitNum,
         total,
-        totalPages: Math.ceil(total / limit),
+        totalPages,
+        hasMore: pageNum < totalPages,
       },
     };
   }
