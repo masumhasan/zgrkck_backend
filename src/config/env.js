@@ -10,6 +10,8 @@ const config = {
   otpEmail: process.env.OTP_EMAIL || '',
   appPassword: process.env.APP_PASSWORD || '',
   openaiApiKey: process.env.OPENAI_API_KEY || '',
+  adminEmail: (process.env.ADMIN_EMAIL || '').trim().toLowerCase(),
+  adminPassword: process.env.ADMIN_PASSWORD || '',
 };
 
 module.exports = { config };

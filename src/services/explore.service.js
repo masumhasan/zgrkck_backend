@@ -1,5 +1,5 @@
 const https = require('https');
-const { Recipe } = require('../models/recipe.model');
+const { Recipe, PUBLISHED_FILTER } = require('../models/recipe.model');
 const { PantryItem } = require('../models/pantry.model');
 const { User } = require('../models/user.model');
 const config = require('../config/env');
@@ -168,15 +168,15 @@ Rules: understoodChips must be 2-4 short badges. keywords must be 1-3 food terms
       filter['timing.totalMinutes'] = { $lte: intent.maxMinutes + 5 };
     }
 
-    let docs = await Recipe.find(filter).limit(35).lean().exec();
+    let docs = await Recipe.find({ ...filter, ...PUBLISHED_FILTER }).limit(35).lean().exec();
 
     // Fallback relaxation if strict query yielded too few
     if (docs.length < 4 && intent.maxMinutes) {
       delete filter['timing.totalMinutes'];
-      docs = await Recipe.find(filter).limit(35).lean().exec();
+      docs = await Recipe.find({ ...filter, ...PUBLISHED_FILTER }).limit(35).lean().exec();
     }
     if (docs.length === 0) {
-      docs = await Recipe.find({}).limit(25).lean().exec();
+      docs = await Recipe.find(PUBLISHED_FILTER).limit(25).lean().exec();
     }
 
     // Sort: recipes with keyword in title rank highest
@@ -251,9 +251,9 @@ Rules: understoodChips must be 2-4 short badges. keywords must be 1-3 food terms
       ];
     }
 
-    let candidates = await Recipe.find(query).limit(40).lean().exec();
+    let candidates = await Recipe.find({ ...query, ...PUBLISHED_FILTER }).limit(40).lean().exec();
     if (!candidates || candidates.length === 0) {
-      candidates = await Recipe.find(excludeId ? { _id: { $ne: excludeId } } : {}).limit(20).lean().exec();
+      candidates = await Recipe.find(excludeId ? { ...PUBLISHED_FILTER, _id: { $ne: excludeId } } : PUBLISHED_FILTER).limit(20).lean().exec();
     }
 
     // Random selection

@@ -1,8 +1,8 @@
-const { Recipe } = require('../models/recipe.model');
+const { Recipe, PUBLISHED_FILTER } = require('../models/recipe.model');
 
 class RecipeService {
   buildFilterFromUserPreferences(onboarding = {}) {
-    const filter = {};
+    const filter = { ...PUBLISHED_FILTER };
 
     // 1. Allergies hard exclusion
     if (!onboarding.hasNoRestrictions && Array.isArray(onboarding.allergies) && onboarding.allergies.length > 0) {
@@ -77,7 +77,7 @@ class RecipeService {
   }
 
   async searchRecipes({ query, cuisine, mealType, maxTime, page = 1, limit = 20 }) {
-    const filter = {};
+    const filter = { ...PUBLISHED_FILTER };
     if (query) {
       filter.$text = { $search: query };
     }

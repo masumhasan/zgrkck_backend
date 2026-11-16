@@ -4,6 +4,8 @@ const { Otp } = require('../models/otp.model');
 const { generateToken } = require('../utils/token.util');
 const { generateOtp } = require('../utils/otp.util');
 const { sendOtpEmail } = require('../config/mailer');
+const activityService = require('./activity.service');
+const { User, UserStatus } = require('../models/user.model');
 
 class AuthService {
   async register({ firstName, lastName, email, password }) {
@@ -29,6 +31,11 @@ class AuthService {
       email: user.email,
       role: user.role,
     });
+
+    activityService.log(
+      'user_registered',
+      `New user registered: ${user.firstName} ${user.lastName}`
+    );
 
     return {
       user: {
@@ -59,6 +66,14 @@ class AuthService {
       error.statusCode = 401;
       throw error;
     }
+
+    if (user.status && user.status !== UserStatus.ACTIVE) {
+      const error = new Error('Your account has been suspended. Please contact support.');
+      error.statusCode = 403;
+      throw error;
+    }
+
+    User.updateOne({ _id: user._id }, { lastActiveAt: new Date() }).exec().catch(() => {});
 
     const token = generateToken({
       id: user._id,
