@@ -18,6 +18,7 @@ const mealItemSchema = new mongoose.Schema(
     servings: { type: Number, default: 1 },
     imageUrl: { type: String, default: '' },
     cookTimeMinutes: { type: Number, default: 30 },
+    isFavorite: { type: Boolean, default: false },
   },
   { _id: false }
 );

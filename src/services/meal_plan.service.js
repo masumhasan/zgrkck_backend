@@ -19,12 +19,18 @@ const DAY_NAMES = [
   'Thursday', 'Friday', 'Saturday',
 ];
 
+const MEAL_ORDER = {
+  BREAKFAST: 1,
+  LUNCH: 2,
+  SNACK: 3,
+  DINNER: 4,
+};
+
 class MealPlanService {
   async getCurrentPlan(userId) {
     const today = new Date();
     const todayStr = toDateString(today);
 
-    // Active plan must not have ended before today
     const plan = await MealPlan.findOne({
       userId,
       endDate: { $gte: todayStr },
@@ -33,18 +39,15 @@ class MealPlanService {
       .lean()
       .exec();
 
-    if (!plan) {
-      return null;
-    }
+    if (!plan) return null;
 
     const tomorrow = new Date(today.getFullYear(), today.getMonth(), today.getDate() + 1);
     const tomorrowStr = toDateString(tomorrow);
-
     let activeDayIndex = 0;
     let foundToday = false;
 
     plan.days = (plan.days || []).map((day, idx) => {
-      let label = '3 meals planned';
+      let label = `${day.meals?.length || 0} meals planned`;
       if (day.date === todayStr) {
         label = 'Today';
         activeDayIndex = idx;
@@ -61,15 +64,60 @@ class MealPlanService {
       };
     });
 
-    if (!foundToday && plan.days.length > 0) {
-      // If plan starts in the future, first day is active
-      activeDayIndex = 0;
-    }
-
+    if (!foundToday && plan.days.length > 0) activeDayIndex = 0;
     plan.activeDayIndex = activeDayIndex;
     plan.todayDate = todayStr;
-
     return plan;
+  }
+
+  _createMeal(type, recipe, nutritionTarget, onboarding) {
+    let time = '12:30 PM';
+    let kcalPct = 0.35;
+    let protPct = 0.38;
+
+    switch (type) {
+      case 'BREAKFAST':
+        time = '8:30 AM';
+        kcalPct = 0.25;
+        protPct = 0.25;
+        break;
+      case 'LUNCH':
+        time = '12:30 PM';
+        kcalPct = 0.35;
+        protPct = 0.38;
+        break;
+      case 'SNACK':
+        time = '3:30 PM';
+        kcalPct = 0.15;
+        protPct = 0.12;
+        break;
+      case 'DINNER':
+        time = '7:30 PM';
+        kcalPct = 0.35;
+        protPct = 0.35;
+        break;
+    }
+
+    const kcal = Math.round((nutritionTarget.calories || 1900) * kcalPct);
+    const proteinG = Math.round((nutritionTarget.protein || 130) * protPct);
+    const carbsG = Math.round((kcal * 0.45) / 4);
+    const fatG = Math.round((kcal * 0.28) / 9);
+
+    return {
+      mealType: type,
+      time,
+      recipeId: recipe._id,
+      name: recipe.title,
+      description: recipe.summary || `${type.charAt(0) + type.slice(1).toLowerCase()} prepared in ${recipe.timing?.totalMinutes || 25} mins.`,
+      kcal,
+      proteinG,
+      carbsG,
+      fatG,
+      servings: recipe.yield?.servings || 2,
+      imageUrl: recipe.media?.imageUrl || '',
+      cookTimeMinutes: recipe.timing?.totalMinutes || 25,
+      isFavorite: false,
+    };
   }
 
   async generateAndSavePlan(userId, options = {}) {
@@ -88,112 +136,133 @@ class MealPlanService {
       throw new Error('No recipes matched your dietary preferences and restrictions.');
     }
 
-    const now = new Date();
-    const generationDate = toDateString(now);
-    const startDateStr = generationDate;
+    const bPool = safeCandidates.filter((r) => r.meta?.mealTypes?.includes('breakfast') || r.meta?.tags?.includes('breakfast'));
+    const lPool = safeCandidates.filter((r) => r.meta?.mealTypes?.includes('lunch') || r.meta?.mealTypes?.includes('dinner'));
+    const dPool = safeCandidates.filter((r) => r.meta?.mealTypes?.includes('dinner') || r.meta?.mealTypes?.includes('lunch'));
+    const sPool = safeCandidates.filter((r) => r.meta?.mealTypes?.includes('snack') || r.meta?.tags?.includes('snack') || r.meta?.courses?.includes('side') || r.meta?.courses?.includes('dessert'));
 
-    const breakfasts = safeCandidates.filter(
-      (r) => r.meta?.mealTypes?.includes('breakfast') || r.meta?.mealTypes?.includes('snack')
-    );
-    const lunches = safeCandidates.filter(
-      (r) => r.meta?.mealTypes?.includes('lunch') || r.meta?.mealTypes?.includes('dinner')
-    );
-    const dinners = safeCandidates.filter(
-      (r) => r.meta?.mealTypes?.includes('dinner') || r.meta?.mealTypes?.includes('lunch')
-    );
+    const pools = {
+      BREAKFAST: bPool.length > 0 ? bPool : safeCandidates,
+      LUNCH: lPool.length > 0 ? lPool : safeCandidates,
+      SNACK: sPool.length > 0 ? sPool : safeCandidates,
+      DINNER: dPool.length > 0 ? dPool : safeCandidates,
+    };
 
-    const bPool = breakfasts.length > 0 ? breakfasts : safeCandidates;
-    const lPool = lunches.length > 0 ? lunches : safeCandidates;
-    const dPool = dinners.length > 0 ? dinners : safeCandidates;
+    const range = options.range || 'Next 3 days';
+    const rawTypes = Array.isArray(options.mealTypes) && options.mealTypes.length > 0
+      ? options.mealTypes.map((m) => m.toUpperCase())
+      : ['BREAKFAST', 'LUNCH', 'DINNER'];
+    const selectedTypes = rawTypes.map((m) => (m === 'SNACKS' ? 'SNACK' : m));
+    const keepPlanned = options.keepPlanned !== undefined ? Boolean(options.keepPlanned) : true;
+    const keepFavourites = options.keepFavourites !== undefined ? Boolean(options.keepFavourites) : false;
 
+    const today = new Date();
+    const todayStr = toDateString(today);
+
+    // Determine target dates
+    const targetDates = [];
+    if (range === 'Rest of today') {
+      targetDates.push(todayStr);
+    } else if (range === 'Tomorrow') {
+      targetDates.push(toDateString(new Date(today.getFullYear(), today.getMonth(), today.getDate() + 1)));
+    } else if (range === 'Next 3 days') {
+      for (let i = 0; i < 3; i++) {
+        targetDates.push(toDateString(new Date(today.getFullYear(), today.getMonth(), today.getDate() + i)));
+      }
+    } else {
+      for (let i = 0; i < 7; i++) {
+        targetDates.push(toDateString(new Date(today.getFullYear(), today.getMonth(), today.getDate() + i)));
+      }
+    }
+
+    const existingPlan = await MealPlan.findOne({
+      userId,
+      endDate: { $gte: todayStr },
+    }).sort({ createdAt: -1 });
+
+    if (existingPlan && existingPlan.days && existingPlan.days.length > 0) {
+      existingPlan.days = existingPlan.days.map((day, dIdx) => {
+        if (!targetDates.includes(day.date)) return day;
+
+        let meals = [...(day.meals || [])];
+        if (keepPlanned) {
+          // Keep planned, only fill empty slots of selected types
+          for (const type of selectedTypes) {
+            const hasType = meals.some((m) => m.mealType === type);
+            if (!hasType) {
+              const pool = pools[type] || safeCandidates;
+              const recipe = pool[(dIdx + (MEAL_ORDER[type] || 0)) % pool.length];
+              meals.push(this._createMeal(type, recipe, nutritionTarget, onboarding));
+            }
+          }
+        } else {
+          // Replace, preserving favourites if enabled
+          const keptMeals = keepFavourites ? meals.filter((m) => m.isFavorite) : [];
+          const newMeals = [];
+          for (const type of selectedTypes) {
+            const existingFav = keptMeals.find((m) => m.mealType === type);
+            if (existingFav) {
+              newMeals.push(existingFav);
+            } else {
+              const pool = pools[type] || safeCandidates;
+              const recipe = pool[(dIdx + (MEAL_ORDER[type] || 0)) % pool.length];
+              newMeals.push(this._createMeal(type, recipe, nutritionTarget, onboarding));
+            }
+          }
+          meals = newMeals;
+        }
+
+        meals.sort((a, b) => (MEAL_ORDER[a.mealType] || 99) - (MEAL_ORDER[b.mealType] || 99));
+        return {
+          ...day.toObject?.() || day,
+          meals,
+          dayLabel: day.date === todayStr ? 'Today' : `${meals.length} meals planned`,
+        };
+      });
+
+      existingPlan.generationDate = todayStr;
+      existingPlan.markModified('days');
+      await existingPlan.save();
+
+      const planObj = existingPlan.toObject();
+      planObj.activeDayIndex = Math.max(0, planObj.days.findIndex((d) => d.date === todayStr));
+      planObj.todayDate = todayStr;
+      return planObj;
+    }
+
+    // Otherwise create full 7-day week plan
     const days = [];
-
     for (let i = 0; i < 7; i++) {
-      const currDate = new Date(now.getFullYear(), now.getMonth(), now.getDate() + i);
+      const currDate = new Date(today.getFullYear(), today.getMonth(), today.getDate() + i);
       const dateStr = toDateString(currDate);
-      const dayNum = currDate.getDate();
-      const monthNum = currDate.getMonth() + 1;
-      const monthName = MONTH_NAMES[currDate.getMonth()];
-      const dayName = DAY_NAMES[currDate.getDay()];
-      const dayLabel = i === 0 ? 'Today' : i === 1 ? 'Tomorrow' : '3 meals planned';
+      const isTargeted = targetDates.includes(dateStr);
+      const activeTypes = isTargeted ? selectedTypes : ['BREAKFAST', 'LUNCH', 'DINNER'];
 
-      const bRecipe = bPool[i % bPool.length];
-      const lRecipe = lPool[(i + 1) % lPool.length];
-      const dRecipe = dPool[(i + 2) % dPool.length];
+      const meals = activeTypes.map((type) => {
+        const pool = pools[type] || safeCandidates;
+        const recipe = pool[(i + (MEAL_ORDER[type] || 0)) % pool.length];
+        return this._createMeal(type, recipe, nutritionTarget, onboarding);
+      });
 
-      const bKcal = Math.round((nutritionTarget.calories || 1900) * 0.25);
-      const lKcal = Math.round((nutritionTarget.calories || 1900) * 0.38);
-      const dKcal = Math.round((nutritionTarget.calories || 1900) * 0.37);
-
-      const bProt = Math.round((nutritionTarget.protein || 130) * 0.25);
-      const lProt = Math.round((nutritionTarget.protein || 130) * 0.40);
-      const dProt = Math.round((nutritionTarget.protein || 130) * 0.35);
-
-      const meals = [
-        {
-          mealType: 'BREAKFAST',
-          time: '8:30 AM',
-          recipeId: bRecipe._id,
-          name: bRecipe.title,
-          description: bRecipe.summary || `Nutritious breakfast prepared in ${bRecipe.timing?.totalMinutes || 20} mins.`,
-          kcal: bKcal,
-          proteinG: bProt,
-          carbsG: Math.round(bKcal * 0.5 / 4),
-          fatG: Math.round(bKcal * 0.25 / 9),
-          servings: bRecipe.yield?.servings || 1,
-          imageUrl: bRecipe.media?.imageUrl || '',
-          cookTimeMinutes: bRecipe.timing?.totalMinutes || 20,
-        },
-        {
-          mealType: 'LUNCH',
-          time: '12:30 PM',
-          recipeId: lRecipe._id,
-          name: lRecipe.title,
-          description: lRecipe.summary || `Energizing lunch crafted for ${onboarding.goal || 'healthy nutrition'}.`,
-          kcal: lKcal,
-          proteinG: lProt,
-          carbsG: Math.round(lKcal * 0.45 / 4),
-          fatG: Math.round(lKcal * 0.28 / 9),
-          servings: lRecipe.yield?.servings || 2,
-          imageUrl: lRecipe.media?.imageUrl || '',
-          cookTimeMinutes: lRecipe.timing?.totalMinutes || 30,
-        },
-        {
-          mealType: 'DINNER',
-          time: '7:30 PM',
-          recipeId: dRecipe._id,
-          name: dRecipe.title,
-          description: dRecipe.summary || `Wholesome dinner with balanced macros.`,
-          kcal: dKcal,
-          proteinG: dProt,
-          carbsG: Math.round(dKcal * 0.4 / 4),
-          fatG: Math.round(dKcal * 0.3 / 9),
-          servings: dRecipe.yield?.servings || 2,
-          imageUrl: dRecipe.media?.imageUrl || '',
-          cookTimeMinutes: dRecipe.timing?.totalMinutes || 40,
-        },
-      ];
-
+      meals.sort((a, b) => (MEAL_ORDER[a.mealType] || 99) - (MEAL_ORDER[b.mealType] || 99));
       days.push({
         date: dateStr,
-        dayNumber: dayNum,
-        month: monthNum,
-        monthName,
+        dayNumber: currDate.getDate(),
+        month: currDate.getMonth() + 1,
+        monthName: MONTH_NAMES[currDate.getMonth()],
         year: currDate.getFullYear(),
-        dayName,
-        dayLabel,
+        dayName: DAY_NAMES[currDate.getDay()],
+        dayLabel: i === 0 ? 'Today' : i === 1 ? 'Tomorrow' : `${meals.length} meals planned`,
         meals,
       });
     }
 
-    const endDateStr = days[days.length - 1].date;
     const goalText = onboarding.goal ? `On track for ${onboarding.goal}` : 'On track for Weight Maintenance';
-
     const newPlan = await MealPlan.create({
       userId,
-      generationDate,
-      startDate: startDateStr,
-      endDate: endDateStr,
+      generationDate: todayStr,
+      startDate: days[0].date,
+      endDate: days[days.length - 1].date,
       days,
       overview: {
         avgKcalPerDay: nutritionTarget.calories || 1850,
@@ -204,7 +273,7 @@ class MealPlanService {
 
     const planObj = newPlan.toObject();
     planObj.activeDayIndex = 0;
-    planObj.todayDate = generationDate;
+    planObj.todayDate = todayStr;
     return planObj;
   }
 }

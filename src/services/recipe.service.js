@@ -121,7 +121,17 @@ class RecipeService {
   }
 
   async getRecipeById(id) {
-    return Recipe.findById(id).lean().exec();
+    const recipe = await Recipe.findById(id).lean().exec();
+    if (!recipe) return null;
+    if (recipe.media) {
+      const v = recipe.media.videoUrl;
+      if (!v || typeof v !== 'string' || !v.trim() || v.trim().toLowerCase() === 'null') {
+        recipe.media.videoUrl = null;
+      } else {
+        recipe.media.videoUrl = v.trim();
+      }
+    }
+    return recipe;
   }
 }
 
