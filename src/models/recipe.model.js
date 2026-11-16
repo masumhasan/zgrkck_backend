@@ -22,6 +22,16 @@ const recipeSchema = new mongoose.Schema(
       lowercase: true,
       index: true,
     },
+    status: {
+      type: String,
+      enum: ['Published', 'Needs Review', 'Draft'],
+      default: 'Published',
+      index: true,
+    },
+    updatedBy: {
+      type: String,
+      default: 'System',
+    },
     summary: {
       type: String,
       trim: true,
@@ -101,4 +111,7 @@ recipeSchema.index({ title: 'text', summary: 'text' });
 
 const Recipe = mongoose.model('Recipe', recipeSchema);
 
-module.exports = { Recipe };
+// Recipes visible to the mobile app: anything not explicitly held back by an admin.
+const PUBLISHED_FILTER = { status: { $nin: ['Draft', 'Needs Review'] } };
+
+module.exports = { Recipe, PUBLISHED_FILTER };

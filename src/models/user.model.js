@@ -5,6 +5,12 @@ const UserRole = {
   ADMIN: 'admin',
 };
 
+const UserStatus = {
+  ACTIVE: 'active',
+  INACTIVE: 'inactive',
+  SUSPENDED: 'suspended',
+};
+
 const userSchema = new mongoose.Schema(
   {
     firstName: {
@@ -37,6 +43,29 @@ const userSchema = new mongoose.Schema(
       enum: Object.values(UserRole),
       default: UserRole.USER,
       index: true,
+    },
+    status: {
+      type: String,
+      enum: Object.values(UserStatus),
+      default: UserStatus.ACTIVE,
+      index: true,
+    },
+    planId: {
+      type: mongoose.Schema.Types.ObjectId,
+      ref: 'SubscriptionPlan',
+      default: null,
+      index: true,
+    },
+    lastActiveAt: {
+      type: Date,
+      default: null,
+    },
+    adminPreferences: {
+      notifications: {
+        safetyAlerts: { type: Boolean, default: true },
+        recipeReviewAlerts: { type: Boolean, default: true },
+        systemAlerts: { type: Boolean, default: false },
+      },
     },
     onboardingCompleted: {
       type: Boolean,
@@ -165,5 +194,5 @@ userSchema.index({ email: 1, role: 1 });
 
 const User = mongoose.model('User', userSchema);
 
-module.exports = { User, UserRole };
+module.exports = { User, UserRole, UserStatus };
 

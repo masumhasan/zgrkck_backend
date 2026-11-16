@@ -9,6 +9,12 @@ const ingredientRoutes = require('./routes/ingredient.routes');
 const pantryRoutes = require('./routes/pantry.routes');
 const shoppingRoutes = require('./routes/shopping.routes');
 const cuisineRoutes = require('./routes/cuisine.routes');
+const adminAuthRoutes = require('./routes/admin_auth.routes');
+const adminUserRoutes = require('./routes/admin_user.routes');
+const adminRecipeRoutes = require('./routes/admin_recipe.routes');
+const adminPlanRoutes = require('./routes/admin_plan.routes');
+const adminDashboardRoutes = require('./routes/admin_dashboard.routes');
+const { AVATAR_FILE } = require('./utils/admin_mapper.util');
 const { errorHandler } = require('./middleware/error.middleware');
 
 const app = express();
@@ -22,6 +28,12 @@ app.get('/health', (req, res) => {
   res.status(200).json({ status: 'ok', timestamp: new Date().toISOString() });
 });
 
+// Placeholder avatar used for all accounts in the admin dashboard
+app.get('/assets/user.jpg', (req, res) => {
+  res.set('Cross-Origin-Resource-Policy', 'cross-origin');
+  res.sendFile(AVATAR_FILE);
+});
+
 // Mount modular API v1 routes
 app.use('/api/v1/auth', authRoutes);
 app.use('/api/v1/onboarding', onboardingRoutes);
@@ -32,6 +44,13 @@ app.use('/api/v1/ingredients', ingredientRoutes);
 app.use('/api/v1/pantry', pantryRoutes);
 app.use('/api/v1/shopping', shoppingRoutes);
 app.use('/api/v1/cuisines', cuisineRoutes);
+
+// Admin dashboard API (admin role required except login)
+app.use('/api/v1/admin/auth', adminAuthRoutes);
+app.use('/api/v1/admin/users', adminUserRoutes);
+app.use('/api/v1/admin/recipes', adminRecipeRoutes);
+app.use('/api/v1/admin/plans', adminPlanRoutes);
+app.use('/api/v1/admin/dashboard', adminDashboardRoutes);
 
 // Global Error Handler
 app.use(errorHandler);

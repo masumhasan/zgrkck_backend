@@ -1,7 +1,8 @@
 const { verifyToken } = require('../utils/token.util');
 const { errorResponse } = require('../utils/response.util');
+const { User, UserStatus } = require('../models/user.model');
 
-const authGuard = (req, res, next) => {
+const authGuard = async (req, res, next) => {
   const authHeader = req.headers.authorization;
   if (!authHeader || !authHeader.startsWith('Bearer ')) {
     return errorResponse(res, 'Authentication token required', 401);
@@ -14,7 +15,19 @@ const authGuard = (req, res, next) => {
     return errorResponse(res, 'Invalid or expired token', 401);
   }
 
-  req.user = decoded;
+  try {
+    // Re-check the account so suspension/deletion revokes access immediately.
+    const account = await User.findById(decoded.id).select('status role').lean().exec();
+    if (!account) {
+      return errorResponse(res, 'Account no longer exists', 401);
+    }
+    if (account.status && account.status !== UserStatus.ACTIVE) {
+      return errorResponse(res, 'Your account has been suspended', 403);
+    }
+    req.user = { ...decoded, role: account.role };
+  } catch (err) {
+    return next(err);
+  }
   next();
 };
 

@@ -1,6 +1,7 @@
 const express = require('express');
 const userRepository = require('../repositories/user.repository');
 const nutritionTargetService = require('../services/nutrition_target.service');
+const progressService = require('../services/progress.service');
 const { authGuard } = require('../middleware/auth.middleware');
 const { validate } = require('../middleware/validation.middleware');
 const { personalInfoSchema } = require('../validators/personal_info.validator');
@@ -9,6 +10,15 @@ const { successResponse, errorResponse } = require('../utils/response.util');
 const router = express.Router();
 
 router.use(authGuard);
+
+router.get('/progress', async (req, res, next) => {
+  try {
+    const data = await progressService.getUserProgress(req.user.id);
+    return successResponse(res, data, 'User progress retrieved successfully');
+  } catch (err) {
+    next(err);
+  }
+});
 
 router.get('/me', async (req, res, next) => {
   try {

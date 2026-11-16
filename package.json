@@ -4,10 +4,10 @@
   "description": "zgrkck_backend",
   "main": "server.js",
   "scripts": {
-    "dev": "nodemon server.js",
-    "start": "node server.js",
+    "dev": "node init && nodemon server.js",
+    "start": "node init && node server.js",
     "seed": "node src/scripts/seed_dataset.js",
-    "build": "echo \"No build step required for Node.js runtime\""
+    "build": "node init && echo \"No build step required for Node.js runtime\""
   },
   "repository": {
     "type": "git",
