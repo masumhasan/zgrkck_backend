@@ -28,6 +28,8 @@ const recipeSchema = new mongoose.Schema(
       default: 'Published',
       index: true,
     },
+    // null = catalogue recipe; set = added by that user (only shown in their My Recipes)
+    createdBy: { type: mongoose.Schema.Types.ObjectId, ref: 'User', default: null, index: true },
     updatedBy: {
       type: String,
       default: 'System',
@@ -112,6 +114,6 @@ recipeSchema.index({ title: 'text', summary: 'text' });
 const Recipe = mongoose.model('Recipe', recipeSchema);
 
 // Recipes visible to the mobile app: anything not explicitly held back by an admin.
-const PUBLISHED_FILTER = { status: { $nin: ['Draft', 'Needs Review'] } };
+const PUBLISHED_FILTER = { status: { $nin: ['Draft', 'Needs Review'] }, createdBy: null };
 
 module.exports = { Recipe, PUBLISHED_FILTER };

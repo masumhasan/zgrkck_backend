@@ -28,8 +28,8 @@ router.get('/me', async (req, res, next) => {
     }
 
     // Auto-initialize nutrition target if not set yet
-    if (!user.nutritionTarget || !user.nutritionTarget.calories) {
-      const initialTarget = await nutritionTargetService.calculateAITarget(user);
+    if (user.personalInfoCompleted && !user.nutritionTarget?.lastCalculatedAt) {
+      const initialTarget = nutritionTargetService.calculateTarget(user);
       user = await userRepository.updateNutritionTarget(user._id, initialTarget);
     }
 

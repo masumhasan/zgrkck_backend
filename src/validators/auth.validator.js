@@ -8,6 +8,12 @@ const registerSchema = Joi.object({
   confirmPassword: Joi.string().valid(Joi.ref('password')).required().messages({
     'any.only': 'Confirm password must match password',
   }),
+  // REQ-ONB-04: terms consent is required and recorded; marketing is a separate, optional opt-in
+  acceptTerms: Joi.boolean().valid(true).required().messages({
+    'any.only': 'You must accept the Terms and Privacy Policy',
+    'any.required': 'You must accept the Terms and Privacy Policy',
+  }),
+  marketingOptIn: Joi.boolean().default(false),
 });
 
 const signInSchema = Joi.object({

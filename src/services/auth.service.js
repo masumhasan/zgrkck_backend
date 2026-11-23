@@ -1,3 +1,4 @@
+const crypto = require('crypto');
 const bcrypt = require('bcrypt');
 const userRepository = require('../repositories/user.repository');
 const { Otp } = require('../models/otp.model');
@@ -7,8 +8,14 @@ const { sendOtpEmail } = require('../config/mailer');
 const activityService = require('./activity.service');
 const { User, UserStatus } = require('../models/user.model');
 
+const MAX_OTP_ATTEMPTS = 5;
+// bump when the Terms & Privacy text changes so we know which version each user accepted
+const TERMS_VERSION = '2026-11';
+// OTPs are stored hashed so a database leak doesn't expose live reset codes
+const hashOtp = (code) => crypto.createHash('sha256').update(String(code)).digest('hex');
+
 class AuthService {
-  async register({ firstName, lastName, email, password }) {
+  async register({ firstName, lastName, email, password, marketingOptIn = false }) {
     const existing = await userRepository.findByEmail(email);
     if (existing) {
       const error = new Error('A user with this email address already exists');
@@ -24,6 +31,13 @@ class AuthService {
       lastName,
       email,
       password: hashedPassword,
+      // the validator guarantees acceptTerms === true before we get here
+      consents: {
+        termsVersion: TERMS_VERSION,
+        termsAcceptedAt: new Date(),
+        marketingOptIn: Boolean(marketingOptIn),
+        marketingUpdatedAt: new Date(),
+      },
     });
 
     const token = generateToken({
@@ -123,37 +137,45 @@ class AuthService {
     const expiresAt = new Date(Date.now() + 10 * 60 * 1000); // 10 mins
 
     await Otp.deleteMany({ email });
-    await Otp.create({ email, code: otpCode, expiresAt });
+    await Otp.create({ email, code: hashOtp(otpCode), expiresAt });
 
     await sendOtpEmail(email, otpCode);
     return { sent: true };
   }
 
-  async verifyOtp(email, otp) {
-    const record = await Otp.findOne({ email, code: otp, consumed: false });
-    if (!record || record.expiresAt < new Date()) {
-      const error = new Error('Invalid or expired OTP code');
-      error.statusCode = 400;
-      throw error;
+  // Returns the matching OTP record. Wrong guesses are counted; after MAX_OTP_ATTEMPTS the code is burned.
+  async _checkOtp(email, otp) {
+    const invalid = () => Object.assign(new Error('Invalid or expired OTP code'), { statusCode: 400 });
+    const record = await Otp.findOne({ email, consumed: false });
+    if (!record || record.expiresAt < new Date() || record.attempts >= MAX_OTP_ATTEMPTS) throw invalid();
+    const a = Buffer.from(record.code);
+    const b = Buffer.from(hashOtp(otp));
+    if (a.length !== b.length || !crypto.timingSafeEqual(a, b)) {
+      await Otp.updateOne({ _id: record._id }, { $inc: { attempts: 1 } });
+      throw invalid();
     }
+    return record;
+  }
+
+  async verifyOtp(email, otp) {
+    await this._checkOtp(email, otp);
     return { verified: true };
   }
 
   async resetPassword(email, otp, newPassword) {
-    await this.verifyOtp(email, otp);
+    const record = await this._checkOtp(email, otp);
 
     const user = await userRepository.findByEmail(email);
     if (!user) {
-      const error = new Error('User not found');
-      error.statusCode = 404;
-      throw error;
+      // same answer as a bad code, so this route doesn't reveal which emails have accounts
+      throw Object.assign(new Error('Invalid or expired OTP code'), { statusCode: 400 });
     }
 
     const salt = await bcrypt.genSalt(10);
     const hashedPassword = await bcrypt.hash(newPassword, salt);
     await userRepository.updatePassword(user._id, hashedPassword);
 
-    await Otp.updateOne({ email, code: otp }, { consumed: true });
+    await Otp.updateOne({ _id: record._id }, { consumed: true });
     return { success: true };
   }
 }

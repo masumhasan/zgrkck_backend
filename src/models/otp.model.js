@@ -19,6 +19,10 @@ const otpSchema = new mongoose.Schema(
       required: true,
       index: { expires: 0 }, // MongoDB TTL auto-cleanup
     },
+    attempts: {
+      type: Number,
+      default: 0,
+    },
     consumed: {
       type: Boolean,
       default: false,

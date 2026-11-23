@@ -1,6 +1,9 @@
 const recipeService = require('./recipe.service');
 const userRepository = require('../repositories/user.repository');
 const { MealPlan } = require('../models/plan.model');
+const { Recipe } = require('../models/recipe.model');
+const { filterSafe } = require('./safety_filter.service');
+const { score, getWeights } = require('./ranking.service');
 
 function toDateString(date) {
   const y = date.getFullYear();
@@ -70,36 +73,24 @@ class MealPlanService {
     return plan;
   }
 
-  _createMeal(type, recipe, nutritionTarget, onboarding) {
-    let time = '12:30 PM';
-    let kcalPct = 0.35;
-    let protPct = 0.38;
+  // the slot's share of the day's target (deterministic arithmetic, never the model's)
+  slotBudget(type, nutritionTarget = {}) {
+    const SLOTS = {
+      BREAKFAST: { time: '8:30 AM', kcalPct: 0.25, protPct: 0.25 },
+      LUNCH: { time: '12:30 PM', kcalPct: 0.35, protPct: 0.38 },
+      SNACK: { time: '3:30 PM', kcalPct: 0.15, protPct: 0.12 },
+      DINNER: { time: '7:30 PM', kcalPct: 0.35, protPct: 0.35 },
+    };
+    const { time, kcalPct, protPct } = SLOTS[type] || SLOTS.LUNCH;
+    return {
+      time,
+      kcal: Math.round((nutritionTarget.calories || 1900) * kcalPct),
+      proteinG: Math.round((nutritionTarget.protein || 130) * protPct),
+    };
+  }
 
-    switch (type) {
-      case 'BREAKFAST':
-        time = '8:30 AM';
-        kcalPct = 0.25;
-        protPct = 0.25;
-        break;
-      case 'LUNCH':
-        time = '12:30 PM';
-        kcalPct = 0.35;
-        protPct = 0.38;
-        break;
-      case 'SNACK':
-        time = '3:30 PM';
-        kcalPct = 0.15;
-        protPct = 0.12;
-        break;
-      case 'DINNER':
-        time = '7:30 PM';
-        kcalPct = 0.35;
-        protPct = 0.35;
-        break;
-    }
-
-    const kcal = Math.round((nutritionTarget.calories || 1900) * kcalPct);
-    const proteinG = Math.round((nutritionTarget.protein || 130) * protPct);
+  _createMeal(type, recipe, nutritionTarget, onboarding, weights = {}) {
+    const { time, kcal, proteinG } = this.slotBudget(type, nutritionTarget);
     const carbsG = Math.round((kcal * 0.45) / 4);
     const fatG = Math.round((kcal * 0.28) / 9);
 
@@ -117,7 +108,19 @@ class MealPlanService {
       imageUrl: recipe.media?.imageUrl || '',
       cookTimeMinutes: recipe.timing?.totalMinutes || 25,
       isFavorite: false,
+      reason: score(recipe, onboarding, weights).reason,
+      status: 'planned',
     };
+  }
+
+  async _unsafeRecipeIds(plan, onboarding) {
+    const ids = [...new Set(plan.days.flatMap((d) => (d.meals || []).map((m) => m.recipeId && String(m.recipeId)).filter(Boolean)))];
+    if (!ids.length) return new Set();
+    const docs = await Recipe.find({ _id: { $in: ids } }).select('allergens meta.dietaryFlags status createdBy').lean().exec();
+    const safe = new Set(
+      filterSafe(docs.filter((r) => !['Draft', 'Needs Review'].includes(r.status)), onboarding).map((r) => String(r._id))
+    );
+    return new Set(ids.filter((id) => !safe.has(id)));
   }
 
   async generateAndSavePlan(userId, options = {}) {
@@ -131,9 +134,17 @@ class MealPlanService {
     const onboarding = user.onboarding || {};
     const nutritionTarget = user.nutritionTarget || {};
 
-    const safeCandidates = await recipeService.getSafeCandidateRecipes(onboarding, 60);
+    // retrieve with the safety filter, validate in code, then rank by fit (best 30 feed the rotation)
+    const weights = await getWeights(userId);
+    const safeCandidates = filterSafe(await recipeService.getSafeCandidateRecipes(onboarding, 60), onboarding)
+      .map((r) => ({ r, m: score(r, onboarding, weights).match }))
+      .sort((a, b) => b.m - a.m)
+      .slice(0, 30)
+      .map((x) => x.r);
     if (!safeCandidates || safeCandidates.length === 0) {
-      throw new Error('No recipes matched your dietary preferences and restrictions.');
+      const err = new Error('No recipes matched your dietary preferences and restrictions.');
+      err.statusCode = 422;
+      throw err;
     }
 
     const bPool = safeCandidates.filter((r) => r.meta?.mealTypes?.includes('breakfast') || r.meta?.tags?.includes('breakfast'));
@@ -150,9 +161,14 @@ class MealPlanService {
 
     const range = options.range || 'Next 3 days';
     const rawTypes = Array.isArray(options.mealTypes) && options.mealTypes.length > 0
-      ? options.mealTypes.map((m) => m.toUpperCase())
+      ? options.mealTypes.map((m) => String(m).toUpperCase())
       : ['BREAKFAST', 'LUNCH', 'DINNER'];
-    const selectedTypes = rawTypes.map((m) => (m === 'SNACKS' ? 'SNACK' : m));
+    const selectedTypes = rawTypes.map((m) => (m === 'SNACKS' ? 'SNACK' : m)).filter((m) => MEAL_ORDER[m] !== undefined);
+    if (selectedTypes.length === 0) {
+      const err = new Error('Choose at least one valid meal type.');
+      err.statusCode = 400;
+      throw err;
+    }
     const keepPlanned = options.keepPlanned !== undefined ? Boolean(options.keepPlanned) : true;
     const keepFavourites = options.keepFavourites !== undefined ? Boolean(options.keepFavourites) : false;
 
@@ -181,10 +197,15 @@ class MealPlanService {
     }).sort({ createdAt: -1 });
 
     if (existingPlan && existingPlan.days && existingPlan.days.length > 0) {
+      // re-validate meals already in the plan (allergies may have changed, recipes may be unpublished)
+      const unsafeIds = await this._unsafeRecipeIds(existingPlan, onboarding);
       existingPlan.days = existingPlan.days.map((day, dIdx) => {
-        if (!targetDates.includes(day.date)) return day;
+        const kept = (day.meals || []).filter((m) => !m.recipeId || !unsafeIds.has(String(m.recipeId)));
+        if (!targetDates.includes(day.date)) {
+          return kept.length === (day.meals || []).length ? day : { ...(day.toObject?.() || day), meals: kept };
+        }
 
-        let meals = [...(day.meals || [])];
+        let meals = [...kept];
         if (keepPlanned) {
           // Keep planned, only fill empty slots of selected types
           for (const type of selectedTypes) {
@@ -192,7 +213,7 @@ class MealPlanService {
             if (!hasType) {
               const pool = pools[type] || safeCandidates;
               const recipe = pool[(dIdx + (MEAL_ORDER[type] || 0)) % pool.length];
-              meals.push(this._createMeal(type, recipe, nutritionTarget, onboarding));
+              meals.push(this._createMeal(type, recipe, nutritionTarget, onboarding, weights));
             }
           }
         } else {
@@ -206,7 +227,7 @@ class MealPlanService {
             } else {
               const pool = pools[type] || safeCandidates;
               const recipe = pool[(dIdx + (MEAL_ORDER[type] || 0)) % pool.length];
-              newMeals.push(this._createMeal(type, recipe, nutritionTarget, onboarding));
+              newMeals.push(this._createMeal(type, recipe, nutritionTarget, onboarding, weights));
             }
           }
           meals = newMeals;
@@ -241,7 +262,7 @@ class MealPlanService {
       const meals = activeTypes.map((type) => {
         const pool = pools[type] || safeCandidates;
         const recipe = pool[(i + (MEAL_ORDER[type] || 0)) % pool.length];
-        return this._createMeal(type, recipe, nutritionTarget, onboarding);
+        return this._createMeal(type, recipe, nutritionTarget, onboarding, weights);
       });
 
       meals.sort((a, b) => (MEAL_ORDER[a.mealType] || 99) - (MEAL_ORDER[b.mealType] || 99));
@@ -257,7 +278,8 @@ class MealPlanService {
       });
     }
 
-    const goalText = onboarding.goal ? `On track for ${onboarding.goal}` : 'On track for Weight Maintenance';
+    // a plan is a plan, not a result: don't claim the user is 'on track' before anything is cooked
+    const goalText = onboarding.goal ? `Planned around: ${onboarding.goal}` : 'Planned around a balanced week';
     const newPlan = await MealPlan.create({
       userId,
       generationDate: todayStr,

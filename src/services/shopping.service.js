@@ -148,6 +148,9 @@ class ShoppingService {
 
   async addItem(userId, data) {
     const { name, category = 'Produce', qty = '1', unit = '' } = data;
+    // repeated taps (e.g. 'add missing to list') must not create duplicates
+    const existing = await ShoppingItem.findOne({ userId, name: name.trim(), checked: false });
+    if (existing) return existing;
     const item = await ShoppingItem.create({
       userId,
       name: name.trim(),
@@ -158,6 +161,36 @@ class ShoppingService {
       isManual: true,
     });
     return item;
+  }
+
+  // Adds several items at once. A name already on the list (manual or from the plan, ticked or
+  // not, any letter case) or repeated in the request is skipped, so nothing is listed twice.
+  async addItems(userId, items) {
+    const list = await this.getShoppingList(userId);
+    const onList = new Set(
+      list.categories.flatMap((c) => c.items).map((i) => String(i.name).toLowerCase().trim()),
+    );
+    const toCreate = [];
+    const skipped = [];
+    for (const { name, category = 'Produce', qty = '1', unit = '' } of items) {
+      const key = name.toLowerCase().trim();
+      if (onList.has(key)) {
+        skipped.push(name.trim());
+        continue;
+      }
+      onList.add(key);
+      toCreate.push({
+        userId,
+        name: name.trim(),
+        category: this._classifyAisle(category),
+        qty: String(qty).trim(),
+        unit: String(unit).trim(),
+        checked: false,
+        isManual: true,
+      });
+    }
+    if (toCreate.length) await ShoppingItem.insertMany(toCreate);
+    return { added: toCreate.map((i) => i.name), skipped };
   }
 
   async toggleItem(userId, { name, checked, itemId }) {

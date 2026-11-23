@@ -19,6 +19,13 @@ const mealItemSchema = new mongoose.Schema(
     imageUrl: { type: String, default: '' },
     cookTimeMinutes: { type: Number, default: 30 },
     isFavorite: { type: Boolean, default: false },
+    // a named entry with no recipe (REQ-PLAN-05): no shopping-list impact, kcal only if the user gave one
+    isCustom: { type: Boolean, default: false },
+    // why this meal was picked (one reason line on every plan meal)
+    reason: { type: String, default: '' },
+    status: { type: String, enum: ['planned', 'cooked', 'skipped'], default: 'planned' },
+    rating: { type: Number, min: 1, max: 5, default: null },
+    cookedAt: { type: Date, default: null },
   },
   { _id: false }
 );

@@ -60,6 +60,13 @@ const userSchema = new mongoose.Schema(
       type: Date,
       default: null,
     },
+    // REQ-PRO-08: each notification type is switched on/off on its own
+    notificationPrefs: {
+      planReady: { type: Boolean, default: true },
+      shoppingReminder: { type: Boolean, default: true },
+      useItUp: { type: Boolean, default: true },
+      weeklyReport: { type: Boolean, default: true },
+    },
     adminPreferences: {
       notifications: {
         safetyAlerts: { type: Boolean, default: true },
@@ -82,11 +89,29 @@ const userSchema = new mongoose.Schema(
       protein: { type: Number, default: 130 },
       carbs: { type: Number, default: 210 },
       fat: { type: Number, default: 65 },
-      caloriesConsumed: { type: Number, default: 1420 },
-      proteinConsumed: { type: Number, default: 92 },
-      carbsConsumed: { type: Number, default: 145 },
-      fatConsumed: { type: Number, default: 48 },
+      caloriesConsumed: { type: Number, default: 0 },
+      proteinConsumed: { type: Number, default: 0 },
+      carbsConsumed: { type: Number, default: 0 },
+      fatConsumed: { type: Number, default: 0 },
       lastCalculatedAt: { type: Date, default: null },
+    },
+    // consent record (REQ-ONB-04): which terms version was accepted and when; marketing kept separate
+    consents: {
+      termsVersion: { type: String, default: null },
+      termsAcceptedAt: { type: Date, default: null },
+      marketingOptIn: { type: Boolean, default: false },
+      marketingUpdatedAt: { type: Date, default: null },
+    },
+    // what cooking/skipping/swapping taught us: cuisine name (sanitised) -> weight, used to re-rank
+    tasteWeights: { type: Map, of: Number, default: {} },
+    // catalogue recipes the user added to My Recipes (their own creations are found via Recipe.createdBy)
+    savedRecipes: [{ type: mongoose.Schema.Types.ObjectId, ref: 'Recipe' }],
+    // recipes the user hearted on Recipe Details (separate from the My Recipes bookmark above)
+    favoriteRecipes: [{ type: mongoose.Schema.Types.ObjectId, ref: 'Recipe' }],
+    // daily ranked For You picks; key ties it to the day and the profile it was built for
+    forYouCache: {
+      key: { type: String, default: null },
+      items: [{ _id: false, recipeId: mongoose.Schema.Types.ObjectId, match: Number, reason: String }],
     },
     personalInfo: {
       age: {

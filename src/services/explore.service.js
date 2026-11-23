@@ -1,8 +1,10 @@
 const https = require('https');
-const { Recipe, PUBLISHED_FILTER } = require('../models/recipe.model');
+const mongoose = require('mongoose');
+const { Recipe } = require('../models/recipe.model');
 const { PantryItem } = require('../models/pantry.model');
 const { User } = require('../models/user.model');
-const config = require('../config/env');
+const { config } = require('../config/env');
+const { buildSafeFilter, filterSafe, escapeRegex } = require('./safety_filter.service');
 
 // explore service — handles AI semantic search and personalized surprise me recommendations
 class ExploreService {
@@ -132,35 +134,24 @@ Rules: understoodChips must be 2-4 short badges. keywords must be 1-3 food terms
   async aiSearchRecipes(user, query = '') {
     const intent = await this.parseSearchIntent(query);
     const onboarding = user?.onboarding || {};
-    const filter = {};
-
-    // Auto-applied profile banner note
-    let profileNote = null;
-    if (Array.isArray(onboarding.allergies) && onboarding.allergies.length > 0) {
-      profileNote = `Filtered for: ${onboarding.allergies[0]}-free (auto-applied from profile)`;
-      const lowerAllergies = onboarding.allergies.map((a) => a.toLowerCase().trim());
-      filter['allergens.contains'] = { $nin: lowerAllergies };
-    } else if (onboarding.dietaryPreference && onboarding.dietaryPreference !== 'No preference') {
-      profileNote = `Filtered for: ${onboarding.dietaryPreference} (auto-applied from profile)`;
-      filter['meta.tags'] = { $in: [onboarding.dietaryPreference.toLowerCase()] };
-    } else {
-      profileNote = 'Filtered for: Dairy-free (auto-applied from profile)';
-    }
+    // Every search starts from the full safety filter (allergies, diet, religion, avoid-list)
+    const filter = buildSafeFilter(onboarding);
+    const applied = [];
+    if (!onboarding.hasNoRestrictions && onboarding.allergies?.length) applied.push(`${onboarding.allergies.join(', ')}-free`);
+    if (onboarding.dietaryPreference && onboarding.dietaryPreference !== 'No preference') applied.push(onboarding.dietaryPreference);
+    const profileNote = applied.length ? `Filtered for: ${applied.join(' · ')} (auto-applied from profile)` : null;
 
     // Keywords filter
     if (intent.keywords.length > 0) {
-      const regexes = intent.keywords.map((k) => new RegExp(k, 'i'));
+      const regexes = intent.keywords.map((k) => new RegExp(escapeRegex(k), 'i'));
       filter.$or = [
         { title: { $in: regexes } },
         { 'ingredientGroups.ingredients.name': { $in: regexes } },
         { 'meta.tags': { $in: regexes } },
       ];
     } else if (query.trim()) {
-      filter.$or = [
-        { title: new RegExp(query.trim(), 'i') },
-        { summary: new RegExp(query.trim(), 'i') },
-        { 'meta.tags': new RegExp(query.trim(), 'i') },
-      ];
+      const rx = new RegExp(escapeRegex(query.trim()), 'i');
+      filter.$or = [{ title: rx }, { summary: rx }, { 'meta.tags': rx }];
     }
 
     // Total time constraint
@@ -168,16 +159,15 @@ Rules: understoodChips must be 2-4 short badges. keywords must be 1-3 food terms
       filter['timing.totalMinutes'] = { $lte: intent.maxMinutes + 5 };
     }
 
-    let docs = await Recipe.find({ ...filter, ...PUBLISHED_FILTER }).limit(35).lean().exec();
+    let docs = await Recipe.find(filter).limit(35).lean().exec();
 
     // Fallback relaxation if strict query yielded too few
     if (docs.length < 4 && intent.maxMinutes) {
       delete filter['timing.totalMinutes'];
-      docs = await Recipe.find({ ...filter, ...PUBLISHED_FILTER }).limit(35).lean().exec();
+      docs = await Recipe.find(filter).limit(35).lean().exec();
     }
-    if (docs.length === 0) {
-      docs = await Recipe.find(PUBLISHED_FILTER).limit(25).lean().exec();
-    }
+    // never widen past the safety filter; re-check results in code
+    docs = filterSafe(docs, onboarding);
 
     // Sort: recipes with keyword in title rank highest
     if (intent.keywords.length > 0) {
@@ -191,31 +181,22 @@ Rules: understoodChips must be 2-4 short badges. keywords must be 1-3 food terms
       });
     }
 
-    const recipes = docs.map((doc, idx) => {
-      const minutes = doc.timing?.totalMinutes || (doc.timing?.cookMinutes || 0) + (doc.timing?.prepMinutes || 0) || 25;
-      const matchScore = Math.max(78, 97 - idx * 3);
-      const proteinG = intent.minProtein ? Math.max(intent.minProtein, 38 + (idx % 7)) : 32 + (idx % 15);
-      const kcal = 380 + (idx % 6) * 40;
-
-      let insight = `${doc.title.split(' ')[0]} delivers ${proteinG}g protein while keeping prep under ${minutes} minutes.`;
-      if (idx === 0) {
-        insight = `Chicken breast hits your 40g+ protein target while keeping total prep under ${minutes} minutes.`;
-      } else if (idx === 1) {
-        insight = `High heat gives crispy skin in just ${minutes} minutes without extra dishes.`;
-      } else if (idx === 2) {
-        insight = `Fastest option: ${minutes}-minute sear. Uses olive oil and herbs from your pantry.`;
-      }
+    // only facts we actually know: no invented match scores, calories or protein
+    const recipes = docs.map((doc) => {
+      const minutes = doc.timing?.totalMinutes || (doc.timing?.cookMinutes || 0) + (doc.timing?.prepMinutes || 0) || 0;
+      const kw = intent.keywords.find((k) => (doc.title || '').toLowerCase().includes(k.toLowerCase()));
+      const facts = [];
+      if (kw) facts.push(`Matches "${kw}"`);
+      if (doc.meta?.cuisines?.[0]?.name) facts.push(`${doc.meta.cuisines[0].name} cuisine`);
+      if (minutes) facts.push(`Ready in ${minutes} min`);
 
       return {
         _id: doc._id.toString(),
         id: doc._id.toString(),
         title: doc.title,
-        match: `${matchScore}% Match`,
-        time: `${minutes} min`,
-        kcal: `${kcal} kcal`,
-        protein: `${proteinG}g protein`,
-        insight,
-        image: doc.media?.imageUrl || 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800&q=80',
+        time: minutes ? `${minutes} min` : '',
+        insight: facts.join(' · '),
+        image: doc.media?.imageUrl || '',
       };
     });
 
@@ -230,20 +211,17 @@ Rules: understoodChips must be 2-4 short badges. keywords must be 1-3 food terms
   // Get personalized surprise recipe based on body, goals, and pantry
   async getSurpriseRecipe(user, { filter = 'Something new', excludeId = '' } = {}) {
     const onboarding = user?.onboarding || {};
-    const query = {};
+    const query = buildSafeFilter(onboarding);
 
-    if (excludeId) {
-      query._id = { $ne: excludeId };
-    }
-
-    // Allergies exclusion
-    if (Array.isArray(onboarding.allergies) && onboarding.allergies.length > 0) {
-      query['allergens.contains'] = { $nin: onboarding.allergies.map((a) => a.toLowerCase().trim()) };
+    if (excludeId && /^[a-f0-9]{24}$/i.test(String(excludeId))) {
+      query._id = { $ne: new mongoose.Types.ObjectId(String(excludeId)) }; // aggregate does not cast strings
     }
 
     // Apply tab filter criteria
     if (filter === 'Quick') {
-      query['timing.totalMinutes'] = { $gt: 0, $lte: 30 };
+      // never looser than the user's own cooking-time limit from the safe filter
+      const ownLimit = query['timing.totalMinutes']?.$lte;
+      query['timing.totalMinutes'] = { $gt: 0, $lte: Math.min(30, ownLimit || 30) };
     } else if (filter === 'High Protein') {
       query.$or = [
         { 'ingredientGroups.ingredients.name': { $in: [/chicken/i, /salmon/i, /beef/i, /lentil/i, /egg/i] } },
@@ -251,39 +229,51 @@ Rules: understoodChips must be 2-4 short badges. keywords must be 1-3 food terms
       ];
     }
 
-    let candidates = await Recipe.find({ ...query, ...PUBLISHED_FILTER }).limit(40).lean().exec();
-    if (!candidates || candidates.length === 0) {
-      candidates = await Recipe.find(excludeId ? { ...PUBLISHED_FILTER, _id: { $ne: excludeId } } : PUBLISHED_FILTER).limit(20).lean().exec();
+    // Only the app's own recipe library: `query` starts from the safe filter, which already limits
+    // it to published dataset recipes (no user-created or held-back ones). $sample draws from the
+    // whole matching library, not just the first 40 documents.
+    const candidates = filterSafe(
+      await Recipe.aggregate([{ $match: query }, { $sample: { size: 40 } }]).exec(),
+      onboarding
+    );
+    if (candidates.length === 0) return null;
+
+    // pantry overlap is computed from real data; 'Use what I have' prefers the best overlap
+    const pantryNames = user?._id
+      ? (await PantryItem.find({ userId: user._id }).select('name').lean().exec()).map((i) => i.name.trim().toLowerCase()).filter(Boolean)
+      : [];
+    const overlapOf = (r) => {
+      const have = (r.ingredientGroups || []).flatMap((g) => g.ingredients.map((i) => i.name.toLowerCase()));
+      return pantryNames.filter((n) => have.some((h) => h.includes(n)));
+    };
+    let pool = candidates;
+    if (filter === 'Use what I have') {
+      const scored = candidates.map((r) => ({ r, used: overlapOf(r) })).filter((x) => x.used.length);
+      if (!scored.length) return null;
+      const best = Math.max(...scored.map((x) => x.used.length));
+      pool = scored.filter((x) => x.used.length === best).map((x) => x.r);
     }
+    const chosen = pool[Math.floor(Math.random() * pool.length)];
+    const used = overlapOf(chosen);
 
-    // Random selection
-    const randomIndex = Math.floor(Math.random() * candidates.length);
-    const chosen = candidates[randomIndex] || candidates[0];
-
-    // Personalization reasoning based on user's goal & pantry
-    const userGoal = onboarding.goal || 'high-protein goal';
-    const cuisineName = chosen.meta?.cuisines?.[0]?.name || 'Mediterranean';
-    const totalMins = chosen.timing?.totalMinutes || 25;
-    const proteinG = 42;
-    const kcal = 520;
-
-    let reason = `Matches your ${userGoal.toLowerCase()} · you like ${cuisineName} food · 6 of 8 ingredients at home`;
-    if (filter === 'Quick') {
-      reason = `Rich in protein · Fits your 30-minute preference · Ready in ${totalMins} minutes`;
-    } else if (filter === 'Use what I have') {
-      reason = `Utilizes ingredients in your fridge & pantry · Saves grocery trips`;
+    const totalMins = chosen.timing?.totalMinutes || 0;
+    const reasons = [];
+    const cuisine = chosen.meta?.cuisines?.[0]?.name;
+    if (cuisine && (onboarding.favouriteCuisines || []).some((c) => c.toLowerCase() === cuisine.toLowerCase())) {
+      reasons.push(`You like ${cuisine} food`);
+    } else if (cuisine) {
+      reasons.push(`${cuisine} cuisine`);
     }
+    if (totalMins) reasons.push(`Ready in ${totalMins} minutes`);
+    if (used.length) reasons.push(`Uses ${used.slice(0, 3).join(', ')} from your pantry`);
 
     return {
       _id: chosen._id.toString(),
       id: chosen._id.toString(),
       title: chosen.title,
-      time: `${totalMins} min`,
-      kcal: `${kcal} kcal`,
-      protein: `${proteinG}g protein`,
-      match: `${Math.floor(Math.random() * 5) + 93}% Match`,
-      reason,
-      image: chosen.media?.imageUrl || 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800&q=80',
+      time: totalMins ? `${totalMins} min` : '',
+      reason: reasons.join(' · ') || 'Picked from recipes that fit your profile',
+      image: chosen.media?.imageUrl || '',
     };
   }
 }

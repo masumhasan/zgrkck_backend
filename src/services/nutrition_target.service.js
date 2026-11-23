@@ -1,18 +1,18 @@
-const https = require('https');
-const { config } = require('../config/env');
 const userRepository = require('../repositories/user.repository');
 
+// Daily calorie floor by sex (client safety rule). Never go below it.
+const CALORIE_FLOOR = { female: 1200, male: 1500, other: 1350 };
+const CALORIE_CEILING = 3800;
+
+// Nutrition targets are decided by code only (AI-layer contract: the AI never sets targets).
 class NutritionTargetService {
-  /**
-   * Deterministic Harris-Benedict & goal-adjusted macro calculator.
-   * Serves as reliable baseline and fallback for AI calculation.
-   */
-  calculateBaselineTarget(user) {
+  calculateTarget(user) {
     const pInfo = user.personalInfo || {};
     const onboarding = user.onboarding || {};
     const goal = (onboarding.goal || '').toLowerCase();
     const focuses = (onboarding.nutritionFocuses || []).map((f) => f.toLowerCase());
-    const gender = (pInfo.gender || 'male').toLowerCase();
+    const gender = (pInfo.gender || '').toLowerCase();
+    const sex = gender.includes('female') ? 'female' : gender === 'male' ? 'male' : 'other';
 
     let weightKg = pInfo.weight || 70;
     if (pInfo.weightUnit === 'lbs') weightKg = weightKg * 0.453592;
@@ -22,26 +22,21 @@ class NutritionTargetService {
 
     const age = pInfo.age || 28;
 
-    // Basal Metabolic Rate (BMR) - Mifflin-St Jeor equation
-    let bmr;
-    if (gender.includes('female') || gender.includes('woman')) {
-      bmr = 10 * weightKg + 6.25 * heightCm - 5 * age - 161;
-    } else {
-      bmr = 10 * weightKg + 6.25 * heightCm - 5 * age + 5;
-    }
+    // Basal Metabolic Rate - Mifflin-St Jeor; unspecified sex uses the midpoint of both constants
+    const sexConstant = { female: -161, male: 5, other: -78 }[sex];
+    const bmr = 10 * weightKg + 6.25 * heightCm - 5 * age + sexConstant;
 
     // Activity multiplier estimate (moderately active standard: ~1.4)
     let tdee = Math.round(bmr * 1.4);
 
-    // Goal adjustments
-    if (goal.includes('lose weight') || goal.includes('reduce')) {
-      tdee -= 400; // Deficit
+    // Goal adjustments. No weight-loss deficit under 18.
+    if (age >= 18 && (goal.includes('lose weight') || goal.includes('reduce'))) {
+      tdee -= 400;
     } else if (goal.includes('build muscle') || goal.includes('gain')) {
-      tdee += 300; // Surplus
+      tdee += 300;
     }
 
-    // Floor calories at safe minimums
-    tdee = Math.max(1300, Math.min(3800, Math.round(tdee / 50) * 50));
+    tdee = Math.max(CALORIE_FLOOR[sex], Math.min(CALORIE_CEILING, Math.round(tdee / 50) * 50));
 
     // Protein calculation based on goal and focuses
     let proteinGramsPerKg = 1.6;
@@ -50,95 +45,27 @@ class NutritionTargetService {
     } else if (goal.includes('lose weight')) {
       proteinGramsPerKg = 1.8;
     }
-    let protein = Math.round(weightKg * proteinGramsPerKg);
-    protein = Math.max(70, Math.min(240, protein));
+    const protein = Math.max(70, Math.min(240, Math.round(weightKg * proteinGramsPerKg)));
 
     // Fat calculation (approx 25-30% of total calories)
-    let fatRatio = 0.28;
-    if (focuses.some((f) => f.includes('low carb') || f.includes('keto'))) {
-      fatRatio = 0.38;
-    }
-    let fat = Math.round((tdee * fatRatio) / 9);
+    const fatRatio = focuses.some((f) => f.includes('low carb') || f.includes('keto')) ? 0.38 : 0.28;
+    const fat = Math.round((tdee * fatRatio) / 9);
 
     // Carbs from remaining calories (4 kcal per g carb & protein, 9 per g fat)
-    const carbCalories = tdee - (protein * 4 + fat * 9);
-    let carbs = Math.max(50, Math.round(carbCalories / 4));
+    const carbs = Math.max(50, Math.round((tdee - (protein * 4 + fat * 9)) / 4));
 
-    // Consumed values for today's representation
-    const caloriesConsumed = Math.round(tdee * 0.72);
-    const proteinConsumed = Math.round(protein * 0.71);
-    const carbsConsumed = Math.round(carbs * 0.69);
-    const fatConsumed = Math.round(fat * 0.74);
-
+    // Nothing is eaten/logged yet, so consumed starts at zero (no invented intake).
     return {
       calories: tdee,
       protein,
       carbs,
       fat,
-      caloriesConsumed,
-      proteinConsumed,
-      carbsConsumed,
-      fatConsumed,
+      caloriesConsumed: 0,
+      proteinConsumed: 0,
+      carbsConsumed: 0,
+      fatConsumed: 0,
       lastCalculatedAt: new Date(),
     };
-  }
-
-  async calculateAITarget(user) {
-    const baseline = this.calculateBaselineTarget(user);
-
-    if (!config.openaiApiKey || config.openaiApiKey.includes('PLACEHOLDER')) {
-      return baseline;
-    }
-
-    const pInfo = user.personalInfo || {};
-    const onboarding = user.onboarding || {};
-
-    const prompt = `You are an expert sports and clinical nutritionist for Mealist.ai.
-Compute the recommended daily caloric and macronutrient targets for this user based on their data:
-- Name: ${user.firstName || 'User'}
-- Gender: ${pInfo.gender || 'Not specified'}
-- Age: ${pInfo.age || 28}
-- Height: ${pInfo.height || 175} ${pInfo.heightUnit || 'cm'}
-- Weight: ${pInfo.weight || 70} ${pInfo.weightUnit || 'kg'}
-- Primary Goal: ${onboarding.goal || 'Eat healthier'}
-- Dietary Preference: ${onboarding.dietaryPreference || 'No preference'}
-- Nutrition Focuses: ${(onboarding.nutritionFocuses || []).join(', ') || 'Balanced'}
-
-Baseline guideline: ${baseline.calories} kcal, ${baseline.protein}g protein, ${baseline.carbs}g carbs, ${baseline.fat}g fat.
-
-Respond with ONLY valid JSON:
-{
-  "calories": <integer, total daily calories>,
-  "protein": <integer, grams of protein>,
-  "carbs": <integer, grams of carbohydrates>,
-  "fat": <integer, grams of fat>
-}`;
-
-    try {
-      const responseText = await this._callOpenAI(prompt);
-      const jsonMatch = responseText.match(/\{[\s\S]*\}/);
-      if (jsonMatch) {
-        const parsed = JSON.parse(jsonMatch[0]);
-        if (parsed.calories && parsed.protein && parsed.carbs && parsed.fat) {
-          const cal = parseInt(parsed.calories, 10);
-          return {
-            calories: cal,
-            protein: parseInt(parsed.protein, 10),
-            carbs: parseInt(parsed.carbs, 10),
-            fat: parseInt(parsed.fat, 10),
-            caloriesConsumed: Math.round(cal * 0.72),
-            proteinConsumed: Math.round(parseInt(parsed.protein, 10) * 0.71),
-            carbsConsumed: Math.round(parseInt(parsed.carbs, 10) * 0.69),
-            fatConsumed: Math.round(parseInt(parsed.fat, 10) * 0.74),
-            lastCalculatedAt: new Date(),
-          };
-        }
-      }
-    } catch (e) {
-      console.warn('AI target generation failed; using baseline calculation:', e.message);
-    }
-
-    return baseline;
   }
 
   async regenerateUserTarget(userId) {
@@ -149,59 +76,9 @@ Respond with ONLY valid JSON:
       throw err;
     }
 
-    const newTarget = await this.calculateAITarget(user);
-    const updatedUser = await userRepository.updateNutritionTarget(userId, newTarget);
+    const updatedUser = await userRepository.updateNutritionTarget(userId, this.calculateTarget(user));
     return updatedUser.nutritionTarget;
-  }
-
-  _callOpenAI(prompt) {
-    return new Promise((resolve, reject) => {
-      const payload = JSON.stringify({
-        model: 'gpt-4o-mini',
-        messages: [{ role: 'user', content: prompt }],
-        temperature: 0.3,
-        response_format: { type: 'json_object' },
-      });
-
-      const options = {
-        hostname: 'api.openai.com',
-        path: '/v1/chat/completions',
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          Authorization: `Bearer ${config.openaiApiKey}`,
-        },
-        timeout: 12000,
-      };
-
-      const req = https.request(options, (res) => {
-        let body = '';
-        res.on('data', (chunk) => (body += chunk));
-        res.on('end', () => {
-          if (res.statusCode >= 200 && res.statusCode < 300) {
-            try {
-              const data = JSON.parse(body);
-              resolve(data.choices[0].message.content);
-            } catch (err) {
-              reject(err);
-            }
-          } else {
-            reject(new Error(`OpenAI HTTP ${res.statusCode}: ${body}`));
-          }
-        });
-      });
-
-      req.on('error', reject);
-      req.on('timeout', () => {
-        req.destroy();
-        reject(new Error('OpenAI API request timed out'));
-      });
-
-      req.write(payload);
-      req.end();
-    });
   }
 }
 
 module.exports = new NutritionTargetService();
-

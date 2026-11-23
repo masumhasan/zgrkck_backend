@@ -1,126 +1,61 @@
 const { MealPlan } = require('../models/plan.model');
+const { CookLog } = require('../models/cook_log.model');
 const userRepository = require('../repositories/user.repository');
 
+const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+
+// Monday of the week containing `date`, as a local YYYY-MM-DD key
+const weekKey = (date) => {
+  const d = new Date(date.getFullYear(), date.getMonth(), date.getDate());
+  d.setDate(d.getDate() - ((d.getDay() + 6) % 7));
+  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+};
+
+// Only reports what is actually known: cooked meals come from the cook log. Protein/balance/insights
+// need recipe nutrition we don't have yet, so they stay empty instead of being invented.
 class ProgressService {
   async getUserProgress(userId) {
     const user = await userRepository.findById(userId);
-    const targetProtein = user?.nutritionTarget?.protein || 130;
+    const targetProtein = user?.nutritionTarget?.protein || 0;
 
-    // Fetch user's latest meal plan
-    const latestPlan = await MealPlan.findOne({ userId })
-      .sort({ createdAt: -1 })
-      .lean()
-      .exec();
-
-    // Determine week label
-    let weekLabel = 'Week of Aug 11–17';
     const now = new Date();
-    const dayOfWeek = (now.getDay() + 6) % 7; // Monday = 0
-    const monday = new Date(now);
-    monday.setDate(now.getDate() - dayOfWeek);
+    const monday = new Date(weekKey(now) + 'T00:00:00');
     const sunday = new Date(monday);
     sunday.setDate(monday.getDate() + 6);
+    const weekLabel = `Week of ${MONTHS[monday.getMonth()]} ${monday.getDate()}–${sunday.getDate()}`;
 
-    const monthNames = [
-      'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
-      'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec',
-    ];
+    const plans = await MealPlan.find({ userId }).sort({ startDate: -1 }).limit(12).select('startDate days.meals.mealType').lean().exec();
 
-    if (latestPlan && latestPlan.days && latestPlan.days.length >= 7) {
-      const dFirst = latestPlan.days[0];
-      const dLast = latestPlan.days[latestPlan.days.length - 1];
-      if (dFirst.monthName && dFirst.dayNumber && dLast.dayNumber) {
-        weekLabel = `Week of ${dFirst.monthName} ${dFirst.dayNumber}–${dLast.dayNumber}`;
-      } else {
-        weekLabel = `Week of ${monthNames[monday.getMonth()]} ${monday.getDate()}–${sunday.getDate()}`;
-      }
-    } else {
-      weekLabel = `Week of ${monthNames[monday.getMonth()]} ${monday.getDate()}–${sunday.getDate()}`;
-    }
+    // meals planned this week
+    const thisWeek = weekKey(now);
+    const planned = plans
+      .filter((p) => p.startDate && weekKey(new Date(p.startDate + 'T00:00:00')) === thisWeek)
+      .reduce((sum, p) => sum + (p.days || []).reduce((n, d) => n + (d.meals?.length || 0), 0), 0);
 
-    // Determine meals summary
-    let totalMeals = 21;
-    let cookedMeals = 18;
-    if (latestPlan && latestPlan.days && latestPlan.days.length > 0) {
-      totalMeals = latestPlan.days.reduce((acc, d) => acc + (d.meals?.length || 0), 0) || 21;
-      cookedMeals = Math.min(totalMeals, Math.max(1, Math.round(totalMeals * 0.86)));
-    }
-    const mealsPercentage = Math.round((cookedMeals / totalMeals) * 100);
+    // consecutive weeks (ending this week) in which the user had a plan
+    const weeks = new Set(plans.filter((p) => p.startDate).map((p) => weekKey(new Date(p.startDate + 'T00:00:00'))));
+    let streak = 0;
+    for (const cursor = new Date(monday); weeks.has(weekKey(cursor)); cursor.setDate(cursor.getDate() - 7)) streak++;
 
-    // Protein goal by day for 7 days M, T, W, T, F, S, S
-    const dayLetters = ['M', 'T', 'W', 'T', 'F', 'S', 'S'];
-    const defaultRatios = [1.0, 0.9, 1.05, 0.72, 1.02, 0.62, 1.0];
-    const proteinDays = [];
-    let hitCount = 0;
-
-    for (let i = 0; i < 7; i++) {
-      let proteinValue = 0;
-      if (latestPlan && latestPlan.days && latestPlan.days[i]) {
-        const dayMeals = latestPlan.days[i].meals || [];
-        proteinValue = dayMeals.reduce((sum, m) => sum + (m.proteinG || 0), 0);
-      }
-      if (proteinValue <= 0) {
-        proteinValue = Math.round(targetProtein * defaultRatios[i]);
-      }
-      const hit = proteinValue >= targetProtein;
-      if (hit) hitCount++;
-      proteinDays.push({
-        dayLabel: dayLetters[i],
-        protein: proteinValue,
-        targetHit: hit,
-      });
-    }
-
-    // Habits
-    const planningStreak = 4;
-    let uniqueRecipesCount = 11;
-    if (latestPlan && latestPlan.days) {
-      const set = new Set();
-      latestPlan.days.forEach(d => (d.meals || []).forEach(m => {
-        if (m.name) set.add(m.name);
-      }));
-      if (set.size > 0) uniqueRecipesCount = set.size;
-    }
-    const foodWasteAvoidedKg = 2.4;
-
-    // Balance metrics
-    const balance = {
-      vegetables: 82,
-      wholeGrains: 44,
-      varietyOfCuisines: 71,
-      repeatDishes: 28,
-    };
-
-    // AI Insight
-    const aiInsight = {
-      title: 'Try one more whole-grain side next week',
-      subtitle: 'General guidance, not medical or dietary advice',
-    };
+    // what the user actually cooked this week
+    const logs = await CookLog.find({ userId, cookedAt: { $gte: monday } }).select('recipeId').lean().exec();
+    const cooked = logs.length;
+    const recipeIds = [...new Set(logs.map((l) => String(l.recipeId)))];
+    const seenBefore = await Promise.all(recipeIds.map((id) => CookLog.exists({ userId, recipeId: id, cookedAt: { $lt: monday } })));
+    const newRecipes = seenBefore.filter((seen) => !seen).length;
+    const total = Math.max(planned, cooked);
+    const percentage = total ? Math.round((cooked / total) * 100) : 0;
+    // tone: never punitive, no calorie streaks
+    const tagline = !cooked ? null : percentage >= 80 ? 'A great rhythm this week' : 'Every meal you cook counts';
 
     return {
       weekLabel,
-      meals: {
-        cookedCount: cookedMeals,
-        totalCount: totalMeals,
-        percentage: mealsPercentage,
-        tagline: 'Your best week so far',
-      },
-      proteinGoal: {
-        target: targetProtein,
-        unit: 'g',
-        targetLabel: `${targetProtein} g target`,
-        hitDaysCount: hitCount,
-        totalDaysCount: 7,
-        hitText: `Hit on ${hitCount} of 7 days`,
-        days: proteinDays,
-      },
-      habits: {
-        planningStreakWeeks: planningStreak,
-        newRecipesTried: uniqueRecipesCount,
-        foodWasteAvoidedKg: foodWasteAvoidedKg,
-      },
-      balance,
-      aiInsight,
+      hasData: cooked > 0,
+      meals: { cookedCount: cooked, totalCount: total, percentage, tagline },
+      proteinGoal: { target: targetProtein, unit: 'g', targetLabel: targetProtein ? `${targetProtein} g target` : null, hitText: null, days: [] },
+      habits: { planningStreakWeeks: streak, newRecipesTried: newRecipes, foodWasteAvoidedKg: 0 },
+      balance: null,
+      aiInsight: null,
     };
   }
 }

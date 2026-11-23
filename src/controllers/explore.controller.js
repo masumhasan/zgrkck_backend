@@ -8,8 +8,8 @@ class ExploreController {
     try {
       const query = req.body?.query || req.query?.query || req.query?.q || '';
       let user = null;
-      if (req.user?.userId) {
-        user = await User.findById(req.user.userId).lean();
+      if (req.user?.id) {
+        user = await User.findById(req.user.id).lean();
       }
 
       const result = await exploreService.aiSearchRecipes(user, query);
@@ -23,11 +23,12 @@ class ExploreController {
     try {
       const { filter = 'Something new', excludeId = '' } = req.query;
       let user = null;
-      if (req.user?.userId) {
-        user = await User.findById(req.user.userId).lean();
+      if (req.user?.id) {
+        user = await User.findById(req.user.id).lean();
       }
 
       const result = await exploreService.getSurpriseRecipe(user, { filter, excludeId });
+      if (!result) return errorResponse(res, 'No recipe matches your profile right now', 404);
       return successResponse(res, result, 'Surprise recipe fetched successfully');
     } catch (err) {
       next(err);

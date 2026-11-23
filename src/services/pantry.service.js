@@ -88,6 +88,7 @@ class PantryService {
   async updateItem(userId, itemId, data) {
     const updateData = { ...data };
     if (updateData.useBy !== undefined) {
+      updateData.useBy = updateData.useBy || null;
       updateData.urgency = this._calculateUrgency(updateData.useBy);
     }
 
@@ -105,6 +106,27 @@ class PantryService {
       throw err;
     }
     return item;
+  }
+
+  // Cooking uses up pantry items that appear in the recipe.
+  // shortcut: only counted items (pcs/piece/blank unit) are decremented by 1 per meal; weights and
+  // volumes are left alone because we don't know how much a recipe used. Upgrade with recipe quantities.
+  async consumeForRecipe(userId, recipe) {
+    const have = (recipe.ingredientGroups || []).flatMap((g) => g.ingredients.map((i) => i.name.toLowerCase()));
+    if (!have.length) return [];
+    const items = await PantryItem.find({ userId }).lean().exec();
+    const used = [];
+    for (const item of items) {
+      const name = item.name.trim().toLowerCase();
+      const unit = String(item.unit || '').trim().toLowerCase();
+      const qty = parseFloat(item.qty);
+      if (!name || !have.some((h) => h.includes(name))) continue;
+      if (!['', 'pcs', 'pc', 'piece', 'pieces'].includes(unit) || !(qty >= 1)) continue;
+      if (qty - 1 < 1) await PantryItem.deleteOne({ _id: item._id });
+      else await PantryItem.updateOne({ _id: item._id }, { $set: { qty: String(qty - 1) } });
+      used.push(item.name);
+    }
+    return used;
   }
 
   async deleteItem(userId, itemId) {
