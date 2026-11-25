@@ -1,6 +1,6 @@
 const test = require('node:test');
 const assert = require('node:assert');
-const { score, tasteKey } = require('../src/services/ranking.service');
+const { score, mealBudget, tasteKey } = require('../src/services/ranking.service');
 
 const recipe = (cuisine, minutes = 30) => ({ meta: { cuisines: [{ name: cuisine }], tags: [] }, timing: { totalMinutes: minutes } });
 
@@ -25,6 +25,25 @@ test('taste learning is capped so one cuisine cannot dominate', () => {
 
 test('every score carries a reason line', () => {
   assert.ok(score(recipe('Greek'), {}, {}).reason.length > 0);
+});
+
+const withNutrition = (kcal, protein) => ({ ...recipe('Greek'), nutrition: { status: 'complete', perServing: { kcal, protein } } });
+const budget = { kcal: 600, proteinG: 40 };
+
+test('a recipe near the per-meal calorie/protein budget outranks one far off it, and says why', () => {
+  const good = score(withNutrition(620, 42), {}, {}, budget);
+  const bad = score(withNutrition(1300, 5), {}, {}, budget);
+  assert.ok(good.match > bad.match);
+  assert.match(good.reason, /calorie goal/);
+  assert.match(good.reason, /protein goal/);
+});
+
+test('no budget or no nutrition data means no goal term', () => {
+  const plain = score(recipe('Greek'), {}, {});
+  assert.deepStrictEqual(score(withNutrition(620, 42), {}, {}), plain);
+  assert.deepStrictEqual(score(recipe('Greek'), {}, {}, budget), plain);
+  assert.strictEqual(mealBudget({}), null);
+  assert.deepStrictEqual(mealBudget({ calories: 1800, protein: 120 }), { kcal: 600, proteinG: 40 });
 });
 
 test('taste keys are safe for Mongo map keys', () => {

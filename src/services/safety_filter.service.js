@@ -95,7 +95,9 @@ const isRecipeSafe = (recipe, onboarding = {}) => {
   if (p.allergies.length) {
     const bad = new Set([...(a.contains || []), ...(a.mayContain || [])].map(normaliseAllergen));
     if (p.allergies.some((x) => bad.has(x))) return false;
-    if (!(a.contains || []).length && !(a.freeFrom || []).length && !(a.mayContain || []).length) return false;
+    // imported / typed-in recipes carry verified:false until the user confirms the ingredient list
+    if (a.verified === false) return false;
+    if (a.verified !== true && !(a.contains || []).length && !(a.freeFrom || []).length && !(a.mayContain || []).length) return false;
   }
   const flags = recipe.meta?.dietaryFlags;
   if (flags) {
@@ -107,4 +109,22 @@ const isRecipeSafe = (recipe, onboarding = {}) => {
 
 const filterSafe = (recipes, onboarding) => recipes.filter((r) => isRecipeSafe(r, onboarding));
 
-module.exports = { buildSafeFilter, isRecipeSafe, filterSafe, escapeRegex, normaliseAllergen };
+// Which allergens an ingredient list (names) points to, as dataset keys. Deliberately broad: it only
+// FLAGS for the user to confirm; it never clears a recipe (see verified in isRecipeSafe).
+const ALLERGEN_WORDS = {
+  dairy: /\b(milk|cheese|butter|cream|yogh?urt|whey|ghee|casein|custard|mascarpone|ricotta|paneer|parmesan|mozzarella|feta|halloumi|kefir)\b/i,
+  eggs: /\b(eggs?|mayonnaise|mayo|meringue|aioli)\b/i,
+  gluten: /\b(wheat|flour|bread(crumbs)?|pasta|spaghetti|noodles?|barley|rye|couscous|semolina|bulgur|farro|spelt|seitan|biscuits?|tortillas?|pastry|dough|soy sauce|lasagn?e|panko)\b/i,
+  tree_nuts: /\b(almonds?|walnuts?|cashews?|pecans?|pistachios?|hazelnuts?|macadamias?|brazil nuts?|pine nuts?|marzipan|praline|nutella)\b/i,
+  peanuts: /\b(peanuts?|groundnuts?)\b/i,
+  soy: /\b(soy|soya|tofu|edamame|miso|tempeh|tamari)\b/i,
+  fish: /\b(fish|salmon|tuna|cod|anchov(y|ies)|sardines?|haddock|mackerel|trout|halibut|bass|herring|pollock)\b/i,
+  shellfish: /\b(shrimps?|prawns?|crab|lobster|mussels?|clams?|oysters?|scallops?|squid|calamari|crayfish|langoustines?)\b/i,
+  sesame: /\b(sesame|tahini|hummus)\b/i,
+  mustard: /\b(mustard)\b/i,
+  celery: /\b(celery|celeriac)\b/i,
+  sulfites: /\b(wine|dried (apricots?|fruit)|sulph?ites?)\b/i,
+};
+const detectAllergens = (names = []) => Object.keys(ALLERGEN_WORDS).filter((k) => names.some((n) => ALLERGEN_WORDS[k].test(String(n))));
+
+module.exports = { buildSafeFilter, isRecipeSafe, filterSafe, escapeRegex, normaliseAllergen, detectAllergens };

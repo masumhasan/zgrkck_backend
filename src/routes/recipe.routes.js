@@ -9,9 +9,14 @@ const { escapeRegex } = require('../services/safety_filter.service');
 const userRecipeService = require('../services/user_recipe.service');
 const favoriteService = require('../services/favorite.service');
 const { validate } = require('../middleware/validation.middleware');
-const { createRecipeSchema } = require('../validators/user_recipe.validator');
+const { createRecipeSchema, importLinkSchema, importTextSchema, draftStepsSchema } = require('../validators/user_recipe.validator');
+const recipeStepsDraft = require('../services/recipe_steps_draft.service');
+const recipeImportService = require('../services/recipe_import.service');
+const { createRateLimiter } = require('../middleware/rate_limit.middleware');
 const { authGuard, optionalAuth } = require('../middleware/auth.middleware');
 const { successResponse, errorResponse } = require('../utils/response.util');
+
+const recipeActions = require('../services/recipe_actions.service');
 
 const router = express.Router();
 
@@ -53,6 +58,31 @@ router.get('/mine', authGuard, async (req, res, next) => {
   try {
     return successResponse(res, await userRecipeService.listMine(req.user.id), 'Your recipes retrieved successfully');
   } catch (err) {
+    next(err);
+  }
+});
+
+// Imports return a DRAFT for the review screen (nothing is saved). They fetch pages / call AI, so they are rate limited per user.
+const importLimiter = createRateLimiter({ windowMs: 15 * 60 * 1000, max: 20, keyFn: (req) => req.user.id });
+const importRoute = (run) => async (req, res, next) => {
+  try {
+    return successResponse(res, { draft: await run(req) }, 'Recipe read successfully');
+  } catch (err) {
+    // 5xx messages are hidden by the error handler; this one is meant for the user
+    if (err.code === 'PHOTO_UNAVAILABLE') return errorResponse(res, err.message, 503);
+    next(err);
+  }
+};
+router.post('/import/link', authGuard, importLimiter, validate(importLinkSchema), importRoute((req) => recipeImportService.fromLink(req.body.url)));
+router.post('/import/text', authGuard, importLimiter, validate(importTextSchema), importRoute((req) => recipeImportService.fromText(req.body.text)));
+router.post('/import/photo', authGuard, importLimiter, express.raw({ type: ['image/*', 'application/octet-stream'], limit: '8mb' }), importRoute((req) => recipeImportService.fromPhoto(req.body)));
+
+// AI-drafted preparation steps for the creator's ingredient list (a draft, nothing saved)
+router.post('/draft-steps', authGuard, importLimiter, validate(draftStepsSchema), async (req, res, next) => {
+  try {
+    return successResponse(res, { steps: await recipeStepsDraft.draftSteps(req.body) }, 'Steps drafted');
+  } catch (err) {
+    if (err.statusCode === 503 || err.statusCode === 422) return errorResponse(res, err.message, err.statusCode);
     next(err);
   }
 });
@@ -117,6 +147,7 @@ router.get('/:id', optionalAuth, async (req, res, next) => {
       return errorResponse(res, 'Recipe not found', 404);
     }
     recipe.isFavorite = await favoriteService.isFavorite(req.user?.id, recipe._id);
+    Object.assign(recipe, await recipeActions.membership(req.user?.id, recipe));
     return successResponse(res, recipe, 'Recipe details retrieved successfully');
   } catch (err) {
     next(err);

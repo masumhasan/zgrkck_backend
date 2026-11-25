@@ -2,6 +2,10 @@ const express = require('express');
 const userRepository = require('../repositories/user.repository');
 const nutritionTargetService = require('../services/nutrition_target.service');
 const progressService = require('../services/progress.service');
+const avatarService = require('../services/avatar.service');
+const appSettingsService = require('../services/app_settings.service');
+const dataExportService = require('../services/data_export.service');
+const { appSettingsSchema } = require('../validators/app_settings.validator');
 const { authGuard } = require('../middleware/auth.middleware');
 const { validate } = require('../middleware/validation.middleware');
 const { personalInfoSchema } = require('../validators/personal_info.validator');
@@ -40,6 +44,7 @@ router.get('/me', async (req, res, next) => {
         firstName: user.firstName,
         lastName: user.lastName,
         email: user.email,
+        avatarUrl: user.avatarUrl || null,
         role: user.role,
         onboardingCompleted: user.onboardingCompleted,
         personalInfoCompleted: user.personalInfoCompleted || false,
@@ -49,6 +54,39 @@ router.get('/me', async (req, res, next) => {
       },
       'User profile fetched successfully'
     );
+  } catch (err) {
+    next(err);
+  }
+});
+
+router.get('/me/settings', async (req, res, next) => {
+  try {
+    return successResponse(res, await appSettingsService.get(req.user.id), 'Settings retrieved successfully');
+  } catch (err) {
+    next(err);
+  }
+});
+
+router.put('/me/settings', validate(appSettingsSchema), async (req, res, next) => {
+  try {
+    return successResponse(res, await appSettingsService.update(req.user.id, req.body), 'Settings updated successfully');
+  } catch (err) {
+    next(err);
+  }
+});
+
+router.post('/me/export', async (req, res, next) => {
+  try {
+    return successResponse(res, await dataExportService.emailExport(req.user.id), 'Your data export is on its way');
+  } catch (err) {
+    next(err);
+  }
+});
+
+// profile photo: the raw image bytes as the request body (Content-Type image/jpeg|png|webp)
+router.post('/me/avatar', express.raw({ type: ['image/*', 'application/octet-stream'], limit: '5mb' }), async (req, res, next) => {
+  try {
+    return successResponse(res, await avatarService.setAvatar(req.user.id, req.body), 'Profile photo updated');
   } catch (err) {
     next(err);
   }

@@ -6,6 +6,8 @@ const recipeService = require('./recipe.service');
 const mealPlanService = require('./meal_plan.service');
 const pantryService = require('./pantry.service');
 const { filterSafe } = require('./safety_filter.service');
+const { planProfile } = require('./household.service');
+const safetyEscalation = require('./safety_escalation.service');
 const { score, getWeights, applyTaste, cuisineOf } = require('./ranking.service');
 
 const ORDER = { BREAKFAST: 1, LUNCH: 2, SNACK: 3, DINNER: 4 };
@@ -22,7 +24,7 @@ class PlanSlotService {
     const plan = await MealPlan.findOne({ userId, endDate: { $gte: localToday() } }).sort({ createdAt: -1 });
     if (!plan) throw httpError('You have no active plan yet', 404);
     const user = await User.findById(userId).select('onboarding nutritionTarget').lean().exec();
-    return { plan, onboarding: user?.onboarding || {}, target: user?.nutritionTarget || {}, weights: await getWeights(userId) };
+    return { plan, onboarding: await planProfile(userId, user?.onboarding || {}), target: user?.nutritionTarget || {}, weights: await getWeights(userId) };
   }
 
   _day(plan, date) {
@@ -47,7 +49,10 @@ class PlanSlotService {
   async _safeRecipe(userId, recipeId, onboarding) {
     const recipe = await Recipe.findOne({ _id: recipeId, $or: [{ ...PUBLISHED_FILTER }, { createdBy: userId }] }).lean().exec();
     if (!recipe) throw httpError('Recipe not found', 404);
-    if (!filterSafe([recipe], onboarding).length) throw httpError('This recipe is not safe for your profile', 422);
+    if (!filterSafe([recipe], onboarding).length) {
+      await safetyEscalation.record(userId, 'allergen_block');
+      throw httpError('This recipe is not safe for your profile', 422);
+    }
     return recipe;
   }
 
@@ -76,7 +81,34 @@ class PlanSlotService {
   }
 
   // cooked: logs it, uses pantry items, teaches the ranking, marks the plan slot if there is one
+  // a custom entry (no recipe) eaten: just marks the slot, so its calories count towards the day
+  async _cookedCustom(userId, { date, mealType, rating }) {
+    const { plan } = await this._load(userId);
+    const { meal } = this._slot(plan, date, mealType);
+    if (meal.recipeId) return this.cooked(userId, { recipeId: String(meal.recipeId), date, mealType, rating });
+    const alreadyCooked = meal.status === 'cooked';
+    if (!alreadyCooked) {
+      meal.status = 'cooked';
+      meal.cookedAt = new Date();
+    }
+    return { plan: await this._save(plan, userId), pantryUsed: [], alreadyCooked };
+  }
+
+  // "I ate this" from a recipe page. If the slot already holds this recipe it is marked cooked; otherwise the recipe
+  // takes the slot (replacing a meal that was only planned there) and is marked cooked. Logged meals are never replaced.
+  async eaten(userId, { recipeId, date, mealType }) {
+    const { plan } = await this._load(userId);
+    const { meals } = this._day(plan, date);
+    const existing = meals.find((m) => m.mealType === mealType);
+    if (existing?.status === 'cooked') throw httpError('You already logged this meal.', 409);
+    if (!existing || String(existing.recipeId) !== String(recipeId)) {
+      await this.addMeal(userId, { date, mealType, recipeId, servings: 1, replace: Boolean(existing) });
+    }
+    return this.cooked(userId, { recipeId, date, mealType });
+  }
+
   async cooked(userId, { recipeId, date, mealType, rating }) {
+    if (!recipeId) return this._cookedCustom(userId, { date, mealType, rating });
     const recipe = await Recipe.findById(recipeId).lean().exec();
     if (!recipe) throw httpError('Recipe not found', 404);
 
@@ -104,8 +136,9 @@ class PlanSlotService {
     const alreadyCooked = meal?.status === 'cooked';
     let pantryUsed = [];
     if (!alreadyCooked) {
-      await CookLog.create({ userId, recipeId, rating: rating || null, planDate: date || null, mealType: mealType || null, cuisine: cuisineOf(recipe) });
-      pantryUsed = await pantryService.consumeForRecipe(userId, recipe);
+      const pantry = await pantryService.consumeForRecipe(userId, recipe);
+      pantryUsed = pantry.used;
+      await CookLog.create({ userId, recipeId, rating: rating || null, planDate: date || null, mealType: mealType || null, cuisine: cuisineOf(recipe), usedSoon: pantry.soon });
       await applyTaste(userId, recipe, 1 + (rating ? (rating - 3) * 0.5 : 0));
     }
     if (!meal) return { plan: loaded ? await mealPlanService.getCurrentPlan(userId) : null, pantryUsed };
@@ -172,6 +205,7 @@ class PlanSlotService {
     const day = this._day(plan, date);
     const existing = day.meals.find((m) => m.mealType === mealType);
     if (existing && !replace) throw httpError('That slot already has a meal', 409);
+    if (existing?.status === 'cooked') throw httpError('You already logged this meal.', 409); // never lose logged consumption
 
     let meal;
     if (customName) {

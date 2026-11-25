@@ -1,6 +1,7 @@
 const { MealPlan } = require('../models/plan.model');
 const { CookLog } = require('../models/cook_log.model');
 const userRepository = require('../repositories/user.repository');
+const { dayNutrition } = require('./meal_plan.service');
 
 const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
@@ -11,8 +12,24 @@ const weekKey = (date) => {
   return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
 };
 
-// Only reports what is actually known: cooked meals come from the cook log. Protein/balance/insights
-// need recipe nutrition we don't have yet, so they stay empty instead of being invented.
+const ymd = (d) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+const DAY_LABELS = ['M', 'T', 'W', 'T', 'F', 'S', 'S'];
+
+// Protein eaten per day this week (Mon-Sun): cooked/eaten meals with computed nutrition, same rule as the
+// calorie ring (dayNutrition), newest plan wins when two plans cover a date. Days still to come stay 0.
+const proteinByDay = (plans, monday) => {
+  const byDate = new Map();
+  for (const p of plans) for (const d of p.days || []) if (!byDate.has(d.date)) byDate.set(d.date, d);
+  return DAY_LABELS.map((dayLabel, i) => {
+    const date = new Date(monday);
+    date.setDate(monday.getDate() + i);
+    const day = byDate.get(ymd(date));
+    return { dayLabel, date: ymd(date), protein: day ? Math.round(dayNutrition(day.meals).cooked.proteinG) : 0 };
+  });
+};
+
+// Only reports what is actually known: cooked meals come from the cook log, protein from computed recipe
+// nutrition. Balance and the AI insight stay empty instead of being invented.
 class ProgressService {
   async getUserProgress(userId) {
     const user = await userRepository.findById(userId);
@@ -38,7 +55,13 @@ class ProgressService {
     for (const cursor = new Date(monday); weeks.has(weekKey(cursor)); cursor.setDate(cursor.getDate() - 7)) streak++;
 
     // what the user actually cooked this week
-    const logs = await CookLog.find({ userId, cookedAt: { $gte: monday } }).select('recipeId').lean().exec();
+    const logs = await CookLog.find({ userId, cookedAt: { $gte: monday } }).select('recipeId usedSoon').lean().exec();
+    const weekPlans = await MealPlan.find({ userId, startDate: { $lte: ymd(sunday) }, endDate: { $gte: ymd(monday) } })
+      .sort({ createdAt: -1 }).select('days.date days.meals').lean().exec();
+    const days = proteinByDay(weekPlans, monday);
+    const today = ymd(now);
+    const counted = days.filter((d) => d.date <= today && d.protein > 0);
+    const hits = targetProtein ? counted.filter((d) => d.protein >= targetProtein).length : 0;
     const cooked = logs.length;
     const recipeIds = [...new Set(logs.map((l) => String(l.recipeId)))];
     const seenBefore = await Promise.all(recipeIds.map((id) => CookLog.exists({ userId, recipeId: id, cookedAt: { $lt: monday } })));
@@ -52,8 +75,9 @@ class ProgressService {
       weekLabel,
       hasData: cooked > 0,
       meals: { cookedCount: cooked, totalCount: total, percentage, tagline },
-      proteinGoal: { target: targetProtein, unit: 'g', targetLabel: targetProtein ? `${targetProtein} g target` : null, hitText: null, days: [] },
-      habits: { planningStreakWeeks: streak, newRecipesTried: newRecipes, foodWasteAvoidedKg: 0 },
+      proteinGoal: { target: targetProtein, unit: 'g', targetLabel: targetProtein ? `${targetProtein} g target` : null, hitText: counted.length && targetProtein ? `${hits} of ${counted.length} days on target` : null, days },
+      // items, not kilograms: pantry quantities are free text, so we only know an item was used in time
+      habits: { planningStreakWeeks: streak, newRecipesTried: newRecipes, itemsUsedBeforeUseBy: logs.reduce((n, l) => n + (l.usedSoon || 0), 0) },
       balance: null,
       aiInsight: null,
     };
@@ -61,3 +85,4 @@ class ProgressService {
 }
 
 module.exports = new ProgressService();
+module.exports.proteinByDay = proteinByDay;

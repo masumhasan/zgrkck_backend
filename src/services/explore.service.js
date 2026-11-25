@@ -5,6 +5,7 @@ const { PantryItem } = require('../models/pantry.model');
 const { User } = require('../models/user.model');
 const { config } = require('../config/env');
 const { buildSafeFilter, filterSafe, escapeRegex } = require('./safety_filter.service');
+const { publicNutrition } = require('../utils/nutrition_public.util');
 
 // explore service — handles AI semantic search and personalized surprise me recommendations
 class ExploreService {
@@ -197,6 +198,7 @@ Rules: understoodChips must be 2-4 short badges. keywords must be 1-3 food terms
         time: minutes ? `${minutes} min` : '',
         insight: facts.join(' · '),
         image: doc.media?.imageUrl || '',
+        nutrition: publicNutrition(doc.nutrition),
       };
     });
 
@@ -274,6 +276,7 @@ Rules: understoodChips must be 2-4 short badges. keywords must be 1-3 food terms
       time: totalMins ? `${totalMins} min` : '',
       reason: reasons.join(' · ') || 'Picked from recipes that fit your profile',
       image: chosen.media?.imageUrl || '',
+      nutrition: publicNutrition(chosen.nutrition),
     };
   }
 }

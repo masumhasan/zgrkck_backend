@@ -8,7 +8,9 @@
     "start": "node server.js",
     "seed": "node src/scripts/seed_dataset.js",
     "test": "node --test \"test/**/*.test.js\"",
-    "build": "echo \"No build step required for Node.js runtime\""
+    "build": "echo \"No build step required for Node.js runtime\"",
+    "nutrition:refresh": "node src/scripts/nutrition_refresh.js",
+    "nutrition:apply-review": "node src/scripts/apply_mapping_review.js"
   },
   "repository": {
     "type": "git",

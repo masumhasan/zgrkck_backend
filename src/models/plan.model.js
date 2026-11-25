@@ -11,10 +11,13 @@ const mealItemSchema = new mongoose.Schema(
     recipeId: { type: mongoose.Schema.Types.ObjectId, ref: 'Recipe', default: null },
     name: { type: String, required: true },
     description: { type: String, default: '' },
-    kcal: { type: Number, default: 450 },
-    proteinG: { type: Number, default: 30 },
-    carbsG: { type: Number, default: 45 },
-    fatG: { type: Number, default: 15 },
+    // snapshot of the recipe's per-serving nutrition at the moment it entered the plan: later recalculations
+    // never change it, so past days keep the values that were counted. 0 + status 'none' = not counted.
+    kcal: { type: Number, default: 0 },
+    proteinG: { type: Number, default: 0 },
+    carbsG: { type: Number, default: 0 },
+    fatG: { type: Number, default: 0 },
+    nutritionStatus: { type: String, enum: ['complete', 'estimated', 'none', null], default: null }, // null = custom entry
     servings: { type: Number, default: 1 },
     imageUrl: { type: String, default: '' },
     cookTimeMinutes: { type: Number, default: 30 },

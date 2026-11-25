@@ -14,7 +14,7 @@ const mapAdmin = (admin, req) => ({
   name: `${admin.firstName} ${admin.lastName}`.trim(),
   email: admin.email,
   role: 'Super Admin',
-  avatarUrl: getAvatarUrl(req),
+  avatarUrl: getAvatarUrl(req, admin),
   notifications: {
     safetyAlerts: admin.adminPreferences?.notifications?.safetyAlerts ?? true,
     recipeReviewAlerts: admin.adminPreferences?.notifications?.recipeReviewAlerts ?? true,

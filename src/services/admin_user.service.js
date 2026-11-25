@@ -3,11 +3,11 @@ const { SubscriptionPlan } = require('../models/subscription_plan.model');
 const { MealPlan } = require('../models/plan.model');
 const { PantryItem } = require('../models/pantry.model');
 const { ShoppingItem } = require('../models/shopping.model');
-const { Otp } = require('../models/otp.model');
 const { mapUserSummary, displayStatus } = require('../utils/admin_mapper.util');
 const { parsePagination, buildPagination, escapeRegex } = require('../utils/pagination.util');
 const planService = require('./subscription_plan.service');
 const activityService = require('./activity.service');
+const { purgeUserData } = require('./account.service');
 
 const httpError = (message, statusCode) => {
   const err = new Error(message);
@@ -181,13 +181,7 @@ class AdminUserService {
 
   async remove(id) {
     const user = await this.findUserOrFail(id);
-    await Promise.all([
-      MealPlan.deleteMany({ userId: user._id }),
-      PantryItem.deleteMany({ userId: user._id }),
-      ShoppingItem.deleteMany({ userId: user._id }),
-      Otp.deleteMany({ email: user.email }),
-    ]);
-    await User.deleteOne({ _id: user._id });
+    await purgeUserData(user);
     activityService.log('user_deleted', `User ${user.firstName} ${user.lastName} permanently deleted`);
     return { deleted: true, status: displayStatus(user) };
   }

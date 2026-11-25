@@ -3,7 +3,10 @@ const userRepository = require('../repositories/user.repository');
 const { MealPlan } = require('../models/plan.model');
 const { Recipe } = require('../models/recipe.model');
 const { filterSafe } = require('./safety_filter.service');
+const { planProfile } = require('./household.service');
+const { composePlan, slotKey } = require('./plan_compose.service');
 const { score, getWeights } = require('./ranking.service');
+const { publicNutrition } = require('../utils/nutrition_public.util');
 
 function toDateString(date) {
   const y = date.getFullYear();
@@ -21,6 +24,28 @@ const DAY_NAMES = [
   'Sunday', 'Monday', 'Tuesday', 'Wednesday',
   'Thursday', 'Friday', 'Saturday',
 ];
+
+// Totals the app shows (ring, day card): counts Complete and Estimated recipes and custom entries,
+// leaves out 'none' ones and lists them so the app can say they are not counted.
+function dayNutrition(meals = []) {
+  const zero = () => ({ kcal: 0, proteinG: 0, carbsG: 0, fatG: 0 });
+  const planned = zero();
+  const cooked = zero();
+  const excluded = [];
+  let estimated = false;
+  for (const m of meals) {
+    if (m.nutritionStatus === 'none') {
+      excluded.push({ mealType: m.mealType, name: m.name });
+      continue;
+    }
+    if (m.nutritionStatus === 'estimated') estimated = true;
+    for (const [k, v] of [['kcal', m.kcal], ['proteinG', m.proteinG], ['carbsG', m.carbsG], ['fatG', m.fatG]]) {
+      planned[k] += v || 0;
+      if (m.status === 'cooked') cooked[k] += v || 0;
+    }
+  }
+  return { planned, cooked, estimated, excluded };
+}
 
 const MEAL_ORDER = {
   BREAKFAST: 1,
@@ -64,6 +89,7 @@ class MealPlanService {
       return {
         ...day,
         dayLabel: label,
+        nutrition: dayNutrition(day.meals),
       };
     });
 
@@ -90,9 +116,9 @@ class MealPlanService {
   }
 
   _createMeal(type, recipe, nutritionTarget, onboarding, weights = {}) {
-    const { time, kcal, proteinG } = this.slotBudget(type, nutritionTarget);
-    const carbsG = Math.round((kcal * 0.45) / 4);
-    const fatG = Math.round((kcal * 0.28) / 9);
+    const { time } = this.slotBudget(type, nutritionTarget);
+    const n = publicNutrition(recipe.nutrition);
+    const per = n.perServing || {};
 
     return {
       mealType: type,
@@ -100,10 +126,12 @@ class MealPlanService {
       recipeId: recipe._id,
       name: recipe.title,
       description: recipe.summary || `${type.charAt(0) + type.slice(1).toLowerCase()} prepared in ${recipe.timing?.totalMinutes || 25} mins.`,
-      kcal,
-      proteinG,
-      carbsG,
-      fatG,
+      // snapshot at the moment it enters the plan; later recalculations never change it. 0 + 'none' = not counted.
+      kcal: Math.round(per.kcal || 0),
+      proteinG: Math.round(per.protein || 0),
+      carbsG: Math.round(per.carbs || 0),
+      fatG: Math.round(per.fat || 0),
+      nutritionStatus: n.status,
       servings: recipe.yield?.servings || 2,
       imageUrl: recipe.media?.imageUrl || '',
       cookTimeMinutes: recipe.timing?.totalMinutes || 25,
@@ -131,7 +159,7 @@ class MealPlanService {
       throw err;
     }
 
-    const onboarding = user.onboarding || {};
+    const onboarding = await planProfile(userId, user.onboarding || {});
     const nutritionTarget = user.nutritionTarget || {};
 
     // retrieve with the safety filter, validate in code, then rank by fit (best 30 feed the rotation)
@@ -191,6 +219,18 @@ class MealPlanService {
       }
     }
 
+    // optional LLM arrangement of the safe candidates; validated in code, falls back slot by slot (plan_compose.service)
+    const composed = await composePlan({
+      slots: targetDates.flatMap((date) => selectedTypes.map((type) => ({ date, type }))),
+      candidates: safeCandidates,
+      pools,
+    });
+    const rotate = (type, i) => {
+      const pool = pools[type] || safeCandidates;
+      return pool[(i + (MEAL_ORDER[type] || 0)) % pool.length];
+    };
+    const pick = (type, date, i) => composed.get(slotKey(date, type)) || rotate(type, i);
+
     const existingPlan = await MealPlan.findOne({
       userId,
       endDate: { $gte: todayStr },
@@ -211,8 +251,7 @@ class MealPlanService {
           for (const type of selectedTypes) {
             const hasType = meals.some((m) => m.mealType === type);
             if (!hasType) {
-              const pool = pools[type] || safeCandidates;
-              const recipe = pool[(dIdx + (MEAL_ORDER[type] || 0)) % pool.length];
+              const recipe = pick(type, day.date, dIdx);
               meals.push(this._createMeal(type, recipe, nutritionTarget, onboarding, weights));
             }
           }
@@ -225,8 +264,7 @@ class MealPlanService {
             if (existingFav) {
               newMeals.push(existingFav);
             } else {
-              const pool = pools[type] || safeCandidates;
-              const recipe = pool[(dIdx + (MEAL_ORDER[type] || 0)) % pool.length];
+              const recipe = pick(type, day.date, dIdx);
               newMeals.push(this._createMeal(type, recipe, nutritionTarget, onboarding, weights));
             }
           }
@@ -260,8 +298,7 @@ class MealPlanService {
       const activeTypes = isTargeted ? selectedTypes : ['BREAKFAST', 'LUNCH', 'DINNER'];
 
       const meals = activeTypes.map((type) => {
-        const pool = pools[type] || safeCandidates;
-        const recipe = pool[(i + (MEAL_ORDER[type] || 0)) % pool.length];
+        const recipe = pick(type, dateStr, i);
         return this._createMeal(type, recipe, nutritionTarget, onboarding, weights);
       });
 
@@ -301,3 +338,4 @@ class MealPlanService {
 }
 
 module.exports = new MealPlanService();
+module.exports.dayNutrition = dayNutrition;

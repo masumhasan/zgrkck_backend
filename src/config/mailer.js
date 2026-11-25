@@ -44,5 +44,21 @@ const sendOtpEmail = async (toEmail, otpCode) => {
   }
 };
 
-module.exports = { sendOtpEmail };
+const sendDataExportEmail = async (toEmail, json) => {
+  try {
+    await getTransporter().sendMail({
+      from: `"Mealist.ai" <${config.otpEmail}>`,
+      to: toEmail,
+      subject: 'Your Mealist.ai data export',
+      text: 'The data you asked for is attached as a JSON file. If you did not request it, please change your password.',
+      attachments: [{ filename: 'mealist_data.json', content: json, contentType: 'application/json' }],
+    });
+    return true;
+  } catch (error) {
+    console.error(`❌ Failed to send data export email: ${error.message}`);
+    return false;
+  }
+};
+
+module.exports = { sendOtpEmail, sendDataExportEmail };
 

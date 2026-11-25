@@ -60,12 +60,24 @@ const userSchema = new mongoose.Schema(
       type: Date,
       default: null,
     },
+    // profile photo on Cloudinary (null = app shows a placeholder)
+    avatarUrl: { type: String, default: null },
     // REQ-PRO-08: each notification type is switched on/off on its own
     notificationPrefs: {
       planReady: { type: Boolean, default: true },
       shoppingReminder: { type: Boolean, default: true },
       useItUp: { type: Boolean, default: true },
       weeklyReport: { type: Boolean, default: true },
+    },
+    // App > Profile > Settings: planner slots, units and the two on-device reminders (the phone schedules them)
+    appSettings: {
+      units: { type: String, enum: ['metric', 'imperial'], default: 'metric' },
+      mealSchedule: { type: [String], default: ['Breakfast', 'Lunch', 'Dinner'] },
+      planningDay: { type: String, default: 'Off' },
+      cookingReminder: {
+        enabled: { type: Boolean, default: false },
+        time: { type: String, default: '17:00' },
+      },
     },
     adminPreferences: {
       notifications: {
@@ -102,6 +114,8 @@ const userSchema = new mongoose.Schema(
       marketingOptIn: { type: Boolean, default: false },
       marketingUpdatedAt: { type: Date, default: null },
     },
+    // REQ-PRO-06: false = plans, slot actions and default servings use the owner alone
+    planForHousehold: { type: Boolean, default: true },
     // what cooking/skipping/swapping taught us: cuisine name (sanitised) -> weight, used to re-rank
     tasteWeights: { type: Map, of: Number, default: {} },
     // catalogue recipes the user added to My Recipes (their own creations are found via Recipe.createdBy)

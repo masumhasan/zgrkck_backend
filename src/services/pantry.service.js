@@ -1,5 +1,6 @@
 const { PantryItem } = require('../models/pantry.model');
 const { Ingredient } = require('../models/ingredient.model');
+const { makeCovers } = require('../utils/ingredient_match.util');
 
 class PantryService {
   _calculateUrgency(useByDateStr) {
@@ -18,6 +19,14 @@ class PantryService {
     if (diffDays <= 4) return `Use in ${diffDays} days`;
     if (diffDays <= 7) return `Use within ${diffDays} days`;
     return null;
+  }
+
+  _daysLeft(useByStr) {
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+    const target = new Date(useByStr);
+    target.setHours(0, 0, 0, 0);
+    return Math.ceil((target - today) / 86400000);
   }
 
   async getUserPantry(userId) {
@@ -111,22 +120,28 @@ class PantryService {
   // Cooking uses up pantry items that appear in the recipe.
   // shortcut: only counted items (pcs/piece/blank unit) are decremented by 1 per meal; weights and
   // volumes are left alone because we don't know how much a recipe used. Upgrade with recipe quantities.
+  // Returns { used, soon }: used = names decremented, soon = how many pantry items the recipe used while
+  // within 3 days of their use-by date (the "waste avoided" count, any unit).
   async consumeForRecipe(userId, recipe) {
-    const have = (recipe.ingredientGroups || []).flatMap((g) => g.ingredients.map((i) => i.name.toLowerCase()));
-    if (!have.length) return [];
+    const have = (recipe.ingredientGroups || []).flatMap((g) => g.ingredients.map((i) => i.name));
+    if (!have.length) return { used: [], soon: 0 };
     const items = await PantryItem.find({ userId }).lean().exec();
     const used = [];
+    let soon = 0;
     for (const item of items) {
-      const name = item.name.trim().toLowerCase();
+      const name = item.name.trim();
       const unit = String(item.unit || '').trim().toLowerCase();
       const qty = parseFloat(item.qty);
-      if (!name || !have.some((h) => h.includes(name))) continue;
+      const covers = makeCovers([name]);
+      if (!name || !have.some((h) => covers(h))) continue;
+      const left = item.useBy ? this._daysLeft(item.useBy) : null;
+      if (left !== null && left >= 0 && left <= 3) soon++;
       if (!['', 'pcs', 'pc', 'piece', 'pieces'].includes(unit) || !(qty >= 1)) continue;
       if (qty - 1 < 1) await PantryItem.deleteOne({ _id: item._id });
       else await PantryItem.updateOne({ _id: item._id }, { $set: { qty: String(qty - 1) } });
       used.push(item.name);
     }
-    return used;
+    return { used, soon };
   }
 
   async deleteItem(userId, itemId) {

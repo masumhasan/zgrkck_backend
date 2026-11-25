@@ -72,6 +72,18 @@ const recipeSchema = new mongoose.Schema(
       contains: { type: [String], default: [] }, // dairy, gluten, peanuts, etc.
       freeFrom: { type: [String], default: [] },
       mayContain: { type: [String], default: [] },
+      // user recipes only: false until the user confirms the ingredient list (isRecipeSafe never serves it to allergic users)
+      verified: { type: Boolean },
+    },
+    // REQ-REC-10: an Ask Mealist version points at the recipe it came from (the root, never a chain)
+    parentRecipeId: { type: mongoose.Schema.Types.ObjectId, ref: 'Recipe', default: null, index: true },
+    version: { type: Number, default: 1 },
+    // user recipes imported from a link / text / photo: where it came from (REQ-REC-11)
+    source: {
+      type: { type: String, enum: ['link', 'text', 'photo', 'adapted'] },
+      url: String,
+      name: String,
+      importedAt: Date,
     },
     ingredientGroups: [
       {
@@ -91,6 +103,23 @@ const recipeSchema = new mongoose.Schema(
         ],
       },
     ],
+    // computed from ingredients against USDA (recipe_nutrition.service.js); absent = not calculated yet
+    nutrition: {
+      status: { type: String, enum: ['complete', 'estimated', 'none'] },
+      perServing: {
+        kcal: { type: Number, default: null },
+        protein: { type: Number, default: null },
+        carbs: { type: Number, default: null },
+        fat: { type: Number, default: null },
+        fibre: { type: Number, default: null },
+        sugar: { type: Number, default: null },
+        sodium: { type: Number, default: null },
+      },
+      unmatchedPct: { type: Number, default: 0 }, // share of recipe weight we could not price
+      calculatedAt: { type: Date },
+      source: { type: String, default: 'usda' },
+      flag: { type: String, enum: ['implausible', null], default: null }, // over 1,500 kcal per serving -> hidden for review
+    },
     instructionSteps: [
       {
         stepNumber: { type: Number, required: true },

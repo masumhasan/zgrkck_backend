@@ -2,6 +2,8 @@ const { ShoppingItem } = require('../models/shopping.model');
 const { Recipe } = require('../models/recipe.model');
 const { PantryItem } = require('../models/pantry.model');
 const mealPlanService = require('./meal_plan.service');
+const { ingredientKey } = require('../utils/ingredient_match.util');
+const { amountOf, baseAmount, formatAmount, formatTotals } = require('../utils/quantity.util');
 
 class ShoppingService {
   _classifyAisle(category = '') {
@@ -25,10 +27,9 @@ class ShoppingService {
       mealPlanService.getCurrentPlan(userId),
     ]);
 
+    // strict ingredient matching (pantry "egg" is not "egg plants"), see utils/ingredient_match.util.js
     const pantryMap = new Map();
-    for (const p of pantryItems) {
-      pantryMap.set(p.name.toLowerCase().trim(), p);
-    }
+    for (const p of pantryItems) pantryMap.set(ingredientKey(p.name), p);
 
     const checkedMap = new Map();
     for (const m of manualItems) {
@@ -43,7 +44,7 @@ class ShoppingService {
       const allRecipeIds = [];
       for (const day of plan.days) {
         for (const meal of day.meals || []) {
-          if (meal.recipeId) allRecipeIds.push(meal.recipeId);
+          if (meal.recipeId && meal.status !== 'cooked') allRecipeIds.push(meal.recipeId); // already eaten: nothing left to buy
         }
       }
 
@@ -51,41 +52,41 @@ class ShoppingService {
       const recipes = await Recipe.find({ _id: { $in: uniqueRecipeIds } }).lean().exec();
       const recipeMap = new Map(recipes.map((r) => [r._id.toString(), r]));
 
+      // one entry per ingredient across the whole plan: amounts add up per unit family and follow the
+      // servings planned for each meal (meal.servings / the recipe's own servings)
+      const merged = new Map();
       for (const day of plan.days) {
         for (const meal of day.meals || []) {
+          if (meal.status === 'cooked') continue;
           const recipe = meal.recipeId ? recipeMap.get(meal.recipeId.toString()) : null;
           const recipeItems = [];
 
           if (recipe && Array.isArray(recipe.ingredientGroups)) {
+            const factor = meal.servings > 0 && recipe.yield?.servings > 0 ? meal.servings / recipe.yield.servings : 1;
             for (const grp of recipe.ingredientGroups) {
               for (const ing of grp.ingredients || []) {
+                const key = ingredientKey(ing.name) || ing.name.toLowerCase().trim();
                 const normName = ing.name.toLowerCase().trim();
-                const matchedPantry = pantryMap.get(normName);
+                const amount = amountOf(ing, factor);
+                const text = amount ? formatAmount(amount.family, amount.amount) : ing.displayText || `${ing.quantity || 1} ${ing.unit || ''}`.trim();
 
-                let buyStr = null;
-                let pantryStr = null;
-
-                if (matchedPantry) {
-                  smartPantryApplied += 1;
-                  pantryStr = `${matchedPantry.qty} ${matchedPantry.unit || ''}`.trim();
-                  buyStr = `${ing.quantity || 1} ${ing.unit || ''}`.trim();
-                }
-
-                const itemData = {
+                const have = pantryMap.get(key);
+                recipeItems.push({
                   name: ing.name,
                   category: this._classifyAisle(ing.category),
-                  qty: ing.displayText || `${ing.quantity || 1} ${ing.unit || ''}`.trim(),
-                  pantry: pantryStr,
-                  buy: buyStr,
+                  qty: text,
+                  pantry: have ? `${have.qty} ${have.unit || ''}`.trim() : null,
+                  buy: have ? text : null,
                   checked: checkedMap.get(normName) || false,
                   recipeName: recipe.title,
-                };
+                });
 
-                recipeItems.push(itemData);
-
-                if (!plannedItemsMap.has(normName)) {
-                  plannedItemsMap.set(normName, itemData);
+                let entry = merged.get(key);
+                if (!entry) {
+                  entry = { name: ing.name, normName, category: this._classifyAisle(ing.category), totals: new Map(), fallback: text, recipeName: recipe.title };
+                  merged.set(key, entry);
                 }
+                if (amount) entry.totals.set(amount.family, (entry.totals.get(amount.family) || 0) + amount.amount);
               }
             }
           }
@@ -98,6 +99,35 @@ class ShoppingService {
             });
           }
         }
+      }
+
+      for (const [key, entry] of merged) {
+        const have = pantryMap.get(key);
+        const need = new Map(entry.totals);
+        let pantryStr = null;
+        let buyStr = null;
+        if (have) {
+          smartPantryApplied += 1;
+          pantryStr = `${have.qty} ${have.unit || ''}`.trim();
+          // take the pantry amount off the matching unit family; other units are left as they are
+          const owned = baseAmount(have.qty, have.unit);
+          if (owned && need.has(owned.family)) {
+            const left = need.get(owned.family) - owned.amount;
+            if (left > 1e-6) need.set(owned.family, left);
+            else need.delete(owned.family);
+          }
+          buyStr = need.size ? formatTotals(need) : null;
+          if (entry.totals.size && !need.size) continue; // the pantry covers all of it: nothing to buy
+        }
+        plannedItemsMap.set(key, {
+          name: entry.name,
+          category: entry.category,
+          qty: entry.totals.size ? formatTotals(entry.totals) : entry.fallback,
+          pantry: pantryStr,
+          buy: have && !buyStr ? entry.fallback : buyStr,
+          checked: checkedMap.get(entry.normName) || false,
+          recipeName: entry.recipeName,
+        });
       }
     }
 

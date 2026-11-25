@@ -1,4 +1,5 @@
 const userRepository = require('../repositories/user.repository');
+const safetyEscalation = require('./safety_escalation.service');
 
 // Daily calorie floor by sex (client safety rule). Never go below it.
 const CALORIE_FLOOR = { female: 1200, male: 1500, other: 1350 };
@@ -36,6 +37,7 @@ class NutritionTargetService {
       tdee += 300;
     }
 
+    const floorApplied = tdee < CALORIE_FLOOR[sex];
     tdee = Math.max(CALORIE_FLOOR[sex], Math.min(CALORIE_CEILING, Math.round(tdee / 50) * 50));
 
     // Protein calculation based on goal and focuses
@@ -65,6 +67,7 @@ class NutritionTargetService {
       carbsConsumed: 0,
       fatConsumed: 0,
       lastCalculatedAt: new Date(),
+      floorApplied, // not stored: updateNutritionTarget copies named fields only
     };
   }
 
@@ -76,7 +79,9 @@ class NutritionTargetService {
       throw err;
     }
 
-    const updatedUser = await userRepository.updateNutritionTarget(userId, this.calculateTarget(user));
+    const target = this.calculateTarget(user);
+    if (target.floorApplied) await safetyEscalation.record(userId, 'floor_trigger');
+    const updatedUser = await userRepository.updateNutritionTarget(userId, target);
     return updatedUser.nutritionTarget;
   }
 }

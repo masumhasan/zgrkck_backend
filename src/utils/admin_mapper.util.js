@@ -2,8 +2,8 @@ const path = require('path');
 
 const AVATAR_FILE = path.join(__dirname, '..', '..', 'user.jpg');
 
-// Placeholder avatar for every account until real profile images are supported.
-const getAvatarUrl = (req) => `${req.protocol}://${req.get('host')}/assets/user.jpg`;
+// The photo the user uploaded (Cloudinary URL); accounts without one get the placeholder.
+const getAvatarUrl = (req, user) => user?.avatarUrl || `${req.protocol}://${req.get('host')}/assets/user.jpg`;
 
 const initialsOf = (firstName = '', lastName = '') =>
   `${firstName[0] || ''}${lastName[0] || ''}`.toUpperCase();
@@ -35,7 +35,7 @@ const mapUserSummary = (user, plan, req) => ({
   name: `${user.firstName} ${user.lastName}`.trim(),
   email: user.email,
   initials: initialsOf(user.firstName, user.lastName),
-  avatarUrl: getAvatarUrl(req),
+  avatarUrl: getAvatarUrl(req, user),
   plan: plan ? plan.name : 'Free',
   planId: plan ? String(plan._id) : null,
   status: displayStatus(user),

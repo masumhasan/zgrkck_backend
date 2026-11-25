@@ -4,6 +4,7 @@ const { ShoppingItem } = require('../models/shopping.model');
 const { MealPlan } = require('../models/plan.model');
 const { CookLog } = require('../models/cook_log.model');
 const mealPlanService = require('./meal_plan.service');
+const { planProfile } = require('./household.service');
 const notificationService = require('./notification.service');
 const msg = require('./notification_messages');
 
@@ -71,7 +72,7 @@ class NotificationTriggers {
   // REQ-PLAN-08: upcoming meals that the safety filter now rejects (allergies or diet changed,
   // recipe withdrawn). The plan is never rewritten silently; the user decides in the Plan tab.
   async _planConflict(userId, user, plan, today) {
-    const unsafe = await mealPlanService._unsafeRecipeIds(plan, user.onboarding || {});
+    const unsafe = await mealPlanService._unsafeRecipeIds(plan, await planProfile(userId, user.onboarding || {}));
     if (!unsafe.size) return;
     const meals = plan.days
       .filter((d) => d.date >= today)

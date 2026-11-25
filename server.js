@@ -6,6 +6,7 @@ const { bootstrapAdminData } = require('./src/services/admin_bootstrap.service')
 const startServer = async () => {
   await connectDB();
   await bootstrapAdminData();
+  require('./src/services/import_nutrition.service').warm(); // not awaited: do not delay startup
 
   const server = app.listen(config.port, () => {
     console.log(

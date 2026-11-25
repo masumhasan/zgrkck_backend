@@ -19,6 +19,17 @@ const config = {
   otpEmail: process.env.OTP_EMAIL || '',
   appPassword: process.env.APP_PASSWORD || '',
   openaiApiKey: process.env.OPENAI_API_KEY || '',
+  cloudinary: {
+    cloudName: process.env.CLOUDINARY_CLOUD_NAME || '',
+    apiKey: process.env.CLOUDINARY_API_KEY || '',
+    apiSecret: process.env.CLOUDINARY_API_SECRET || '',
+  },
+  // USDA FoodData Central downloads used by the nutrition refresh. Foundation Foods is dated:
+  // bump USDA_FOUNDATION_URL when USDA publishes a newer release (see fdc.nal.usda.gov/download-datasets).
+  usda: {
+    srLegacyUrl: process.env.USDA_SR_LEGACY_URL || 'https://fdc.nal.usda.gov/fdc-datasets/FoodData_Central_sr_legacy_food_csv_2018-04.zip',
+    foundationUrl: process.env.USDA_FOUNDATION_URL || 'https://fdc.nal.usda.gov/fdc-datasets/FoodData_Central_foundation_food_csv_2025-12-18.zip',
+  },
   adminEmail: (process.env.ADMIN_EMAIL || '').trim().toLowerCase(),
   adminPassword: process.env.ADMIN_PASSWORD || '',
 };

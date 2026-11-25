@@ -46,6 +46,14 @@ const ingredientSchema = new mongoose.Schema(
       type: Number,
       default: 0,
     },
+    // link to the USDA food used for nutrition + how it was chosen (null = unmatched)
+    usda: {
+      fdcId: Number,
+      description: String,
+      method: { type: String, enum: ['auto', 'curated'] },
+    },
+    // copy of that food's nutrients per 100 g (sodium in mg); null values = unknown
+    nutritionPer100g: { type: mongoose.Schema.Types.Mixed, default: null },
   },
   {
     timestamps: true,

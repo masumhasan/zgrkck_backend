@@ -24,12 +24,16 @@ const relocateSchema = slotSchema.keys({
   toMealType: mealType,
 });
 const servingsSchema = slotSchema.keys({ servings: Joi.number().integer().min(1).max(12).required() });
-// date + mealType are optional: cooking straight from a recipe has no slot
+// a recipe, or a slot (date + mealType) alone for a custom entry that has no recipe; cooking straight from a recipe has no slot
 const cookedSchema = Joi.object({
-  recipeId: objectId.required(),
+  recipeId: objectId,
   date: Joi.string().pattern(/^\d{4}-\d{2}-\d{2}$/),
   mealType,
   rating: Joi.number().integer().min(1).max(5),
-}).and('date', 'mealType');
+})
+  .and('date', 'mealType')
+  .or('recipeId', 'date');
+// "I ate this" from a recipe page: put the recipe in today's slot and mark it eaten in one step
+const eatenSchema = slotSchema.keys({ recipeId: objectId.required() });
 
-module.exports = { slotSchema, alternativesQuerySchema, replaceSchema, addMealSchema, relocateSchema, servingsSchema, cookedSchema };
+module.exports = { slotSchema, alternativesQuerySchema, replaceSchema, addMealSchema, relocateSchema, servingsSchema, cookedSchema, eatenSchema };

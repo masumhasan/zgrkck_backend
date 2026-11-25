@@ -57,6 +57,7 @@ router.get('/slot/target', async (req, res, next) => {
   }
 });
 router.post('/cooked', validate(v.cookedSchema), handle('Marked as cooked', (req) => slots.cooked(req.user.id, req.body)));
+router.post('/eaten', validate(v.eatenSchema), handle('Marked as eaten', (req) => slots.eaten(req.user.id, req.body)));
 router.post('/slot/skip', validate(v.slotSchema), handle('Meal skipped', (req) => slots.skip(req.user.id, req.body)));
 router.post('/slot/replace', validate(v.replaceSchema), handle('Meal replaced', (req) => slots.replace(req.user.id, req.body)));
 router.post('/slot/remove', validate(v.slotSchema), handle('Meal removed', (req) => slots.remove(req.user.id, req.body)));

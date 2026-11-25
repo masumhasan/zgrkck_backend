@@ -1,4 +1,5 @@
 const exploreService = require('../services/explore.service');
+const safetyEscalation = require('../services/safety_escalation.service');
 const { User } = require('../models/user.model');
 const { successResponse, errorResponse } = require('../utils/response.util');
 
@@ -12,6 +13,8 @@ class ExploreController {
         user = await User.findById(req.user.id).lean();
       }
 
+      const escalation = await safetyEscalation.screen(req.user?.id, query);
+      if (escalation) return successResponse(res, { chips: [], recipes: [], total: 0, escalation }, 'We cannot search for that');
       const result = await exploreService.aiSearchRecipes(user, query);
       return successResponse(res, result, 'Recipes found successfully');
     } catch (err) {

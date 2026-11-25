@@ -1,4 +1,5 @@
 const { Recipe, PUBLISHED_FILTER } = require('../models/recipe.model');
+const { withNutrition } = require('../utils/nutrition_public.util');
 const { buildSafeFilter, escapeRegex } = require('./safety_filter.service');
 
 class RecipeService {
@@ -9,7 +10,7 @@ class RecipeService {
 
   async getSafeCandidateRecipes(onboarding = {}, limit = 40) {
     const filter = this.buildFilterFromUserPreferences(onboarding);
-    const fields = 'title summary media meta timing allergens yield';
+    const fields = 'title summary media meta timing allergens yield nutrition';
 
     // If user has favourite cuisines, boost or match them
     if (Array.isArray(onboarding.favouriteCuisines) && onboarding.favouriteCuisines.length > 0) {
@@ -57,7 +58,7 @@ class RecipeService {
     const skip = (pageNum - 1) * limitNum;
 
     const [recipes, total] = await Promise.all([
-      Recipe.find(filter).skip(skip).limit(limitNum).lean().exec(),
+      Recipe.find(filter).skip(skip).limit(limitNum).lean().exec().then((docs) => docs.map(withNutrition)),
       Recipe.countDocuments(filter),
     ]);
 
@@ -88,7 +89,7 @@ class RecipeService {
         recipe.media.videoUrl = v.trim();
       }
     }
-    return recipe;
+    return withNutrition(recipe);
   }
 }
 

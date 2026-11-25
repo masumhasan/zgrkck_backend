@@ -10,6 +10,7 @@ const cookLogSchema = new mongoose.Schema(
     planDate: { type: String, default: null }, // 'YYYY-MM-DD' of the plan slot it fulfilled, if any
     mealType: { type: String, default: null },
     cuisine: { type: String, default: '' },
+    usedSoon: { type: Number, default: 0 }, // pantry items used while within 3 days of their use-by date
   },
   { versionKey: false }
 );
