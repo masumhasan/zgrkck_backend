@@ -41,11 +41,23 @@ const record = async (userId, kind) => {
   }
 };
 
-// text -> null when fine, otherwise { message }; logs the event for the monthly report
+const REPEATED_MESSAGE =
+  `${MESSAGE} If you'd like immediate support, you can reach out to a local helpline (e.g. Beat in the UK on 0808 801 0677, or 988 / NEDA resources in the US) or speak with a healthcare professional.`;
+
+// text -> null when fine, otherwise { message }; logs the event and tracks repeats over 30 days
 const screen = async (userId, text) => {
   if (!flagged(text)) return null;
   await record(userId, 'escalation');
-  return { message: MESSAGE };
+  let repeatCount = 1;
+  if (userId) {
+    const since = new Date(Date.now() - 30 * 86400000);
+    repeatCount = await SafetyEvent.countDocuments({
+      userId,
+      kind: 'escalation',
+      createdAt: { $gte: since },
+    }).catch(() => 1);
+  }
+  return { message: repeatCount >= 2 ? REPEATED_MESSAGE : MESSAGE, repeated: repeatCount >= 2 };
 };
 
 // zeros included: "report even when zero" (REQ-SAFE-13)

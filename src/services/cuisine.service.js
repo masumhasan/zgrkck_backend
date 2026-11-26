@@ -1,4 +1,5 @@
 const { Cuisine } = require('../models/cuisine.model');
+const { Recipe, PUBLISHED_FILTER } = require('../models/recipe.model');
 
 // Curated high-resolution food photography URLs mapped by cuisine slug / name
 const CUISINE_IMAGE_MAP = {
@@ -63,12 +64,39 @@ class CuisineService {
   }
 
   async getAllCuisines() {
-    const list = await Cuisine.find().sort({ recipeCount: -1 }).lean().exec();
-    return list.map((c) => ({
-      ...c,
-      image: this.getCuisineImageUrl(c.slug, c.name),
-      imageUrl: this.getCuisineImageUrl(c.slug, c.name),
-    }));
+    const [list, recipeImages] = await Promise.all([
+      Cuisine.find().sort({ recipeCount: -1 }).lean().exec(),
+      Recipe.aggregate([
+        { $match: { ...PUBLISHED_FILTER, 'media.imageUrl': { $nin: [null, ''] } } },
+        { $unwind: '$meta.cuisines' },
+        {
+          $group: {
+            _id: { $toLower: { $ifNull: ['$meta.cuisines.slug', '$meta.cuisines.name'] } },
+            nameKey: { $first: { $toLower: '$meta.cuisines.name' } },
+            imageUrl: { $first: '$media.imageUrl' },
+          },
+        },
+      ]).exec(),
+    ]);
+
+    const byKey = new Map();
+    for (const row of recipeImages) {
+      if (row._id && row.imageUrl) byKey.set(row._id, row.imageUrl);
+      if (row.nameKey && row.imageUrl && !byKey.has(row.nameKey)) {
+        byKey.set(row.nameKey, row.imageUrl);
+      }
+    }
+
+    return list.map((c) => {
+      const s = (c.slug || '').toLowerCase().trim();
+      const n = (c.name || '').toLowerCase().trim();
+      const img = byKey.get(s) || byKey.get(n) || this.getCuisineImageUrl(c.slug, c.name);
+      return {
+        ...c,
+        image: img,
+        imageUrl: img,
+      };
+    });
   }
 }
 
