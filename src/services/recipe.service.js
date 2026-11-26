@@ -1,5 +1,7 @@
 const { Recipe, PUBLISHED_FILTER } = require('../models/recipe.model');
+const { User } = require('../models/user.model');
 const { withNutrition } = require('../utils/nutrition_public.util');
+const { score, mealBudget } = require('./ranking.service');
 const { buildSafeFilter, escapeRegex } = require('./safety_filter.service');
 
 class RecipeService {
@@ -31,7 +33,7 @@ class RecipeService {
     return Recipe.find(filter).select(fields).limit(limit).lean().exec();
   }
 
-  async searchRecipes({ query, cuisine, mealType, maxTime, page = 1, limit = 20 }) {
+  async searchRecipes({ query, cuisine, mealType, maxTime, page = 1, limit = 20, userId = null }) {
     const filter = { ...PUBLISHED_FILTER };
     if (query) {
       filter.$text = { $search: String(query) };
@@ -57,10 +59,26 @@ class RecipeService {
     const limitNum = Math.min(50, Math.max(1, parseInt(limit, 10) || 20));
     const skip = (pageNum - 1) * limitNum;
 
-    const [recipes, total] = await Promise.all([
-      Recipe.find(filter).skip(skip).limit(limitNum).lean().exec().then((docs) => docs.map(withNutrition)),
+    const [docs, total, user] = await Promise.all([
+      Recipe.find(filter).skip(skip).limit(limitNum).lean().exec(),
       Recipe.countDocuments(filter),
+      userId ? User.findById(userId).select('onboarding tasteWeights nutritionTarget').lean().exec() : null,
     ]);
+
+    const onboarding = user?.onboarding || {};
+    const weights = user?.tasteWeights || {};
+    const budget = mealBudget(user?.nutritionTarget);
+
+    const recipes = docs.map((doc) => {
+      const base = withNutrition(doc);
+      if (!user) return base;
+      const { match, reason } = score(doc, onboarding, weights, budget);
+      return {
+        ...base,
+        match,
+        reason,
+      };
+    });
 
     const totalPages = Math.ceil(total / limitNum);
 

@@ -20,9 +20,12 @@ const recipeActions = require('../services/recipe_actions.service');
 
 const router = express.Router();
 
-router.get('/', async (req, res, next) => {
+router.get('/', optionalAuth, async (req, res, next) => {
   try {
-    const result = await recipeService.searchRecipes(req.query);
+    const result = await recipeService.searchRecipes({
+      ...req.query,
+      userId: req.user?.id || null,
+    });
     return successResponse(res, result, 'Recipes retrieved successfully');
   } catch (err) {
     next(err);
