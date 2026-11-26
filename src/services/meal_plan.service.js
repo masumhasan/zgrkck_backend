@@ -7,52 +7,14 @@ const { planProfile } = require('./household.service');
 const { composePlan, slotKey } = require('./plan_compose.service');
 const { score, getWeights } = require('./ranking.service');
 const { publicNutrition } = require('../utils/nutrition_public.util');
-
-function toDateString(date) {
-  const y = date.getFullYear();
-  const m = String(date.getMonth() + 1).padStart(2, '0');
-  const d = String(date.getDate()).padStart(2, '0');
-  return `${y}-${m}-${d}`;
-}
-
-const MONTH_NAMES = [
-  'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
-  'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec',
-];
-
-const DAY_NAMES = [
-  'Sunday', 'Monday', 'Tuesday', 'Wednesday',
-  'Thursday', 'Friday', 'Saturday',
-];
-
-// Totals the app shows (ring, day card): counts Complete and Estimated recipes and custom entries,
-// leaves out 'none' ones and lists them so the app can say they are not counted.
-function dayNutrition(meals = []) {
-  const zero = () => ({ kcal: 0, proteinG: 0, carbsG: 0, fatG: 0 });
-  const planned = zero();
-  const cooked = zero();
-  const excluded = [];
-  let estimated = false;
-  for (const m of meals) {
-    if (m.nutritionStatus === 'none') {
-      excluded.push({ mealType: m.mealType, name: m.name });
-      continue;
-    }
-    if (m.nutritionStatus === 'estimated') estimated = true;
-    for (const [k, v] of [['kcal', m.kcal], ['proteinG', m.proteinG], ['carbsG', m.carbsG], ['fatG', m.fatG]]) {
-      planned[k] += v || 0;
-      if (m.status === 'cooked') cooked[k] += v || 0;
-    }
-  }
-  return { planned, cooked, estimated, excluded };
-}
-
-const MEAL_ORDER = {
-  BREAKFAST: 1,
-  LUNCH: 2,
-  SNACK: 3,
-  DINNER: 4,
-};
+const {
+  MONTH_NAMES,
+  DAY_NAMES,
+  MEAL_ORDER,
+  toDateString,
+  dayNutrition,
+  buildPools,
+} = require('./meal_plan_helpers');
 
 class MealPlanService {
   async getCurrentPlan(userId) {
@@ -68,6 +30,12 @@ class MealPlanService {
       .exec();
 
     if (!plan) return null;
+
+    // REQ-PLAN-08: flag upcoming un-cooked meals that no longer pass the current safety filter
+    const user = await userRepository.findById(userId);
+    const unsafeIds = user
+      ? await this._unsafeRecipeIds(plan, await planProfile(userId, user.onboarding || {}))
+      : new Set();
 
     const tomorrow = new Date(today.getFullYear(), today.getMonth(), today.getDate() + 1);
     const tomorrowStr = toDateString(tomorrow);
@@ -86,10 +54,20 @@ class MealPlanService {
         label = 'Completed';
       }
 
+      const meals = (day.meals || []).map((m) => ({
+        ...m,
+        hasConflict:
+          day.date >= todayStr &&
+          m.status !== 'cooked' &&
+          Boolean(m.recipeId) &&
+          unsafeIds.has(String(m.recipeId)),
+      }));
+
       return {
         ...day,
+        meals,
         dayLabel: label,
-        nutrition: dayNutrition(day.meals),
+        nutrition: dayNutrition(meals),
       };
     });
 
@@ -175,17 +153,7 @@ class MealPlanService {
       throw err;
     }
 
-    const bPool = safeCandidates.filter((r) => r.meta?.mealTypes?.includes('breakfast') || r.meta?.tags?.includes('breakfast'));
-    const lPool = safeCandidates.filter((r) => r.meta?.mealTypes?.includes('lunch') || r.meta?.mealTypes?.includes('dinner'));
-    const dPool = safeCandidates.filter((r) => r.meta?.mealTypes?.includes('dinner') || r.meta?.mealTypes?.includes('lunch'));
-    const sPool = safeCandidates.filter((r) => r.meta?.mealTypes?.includes('snack') || r.meta?.tags?.includes('snack') || r.meta?.courses?.includes('side') || r.meta?.courses?.includes('dessert'));
-
-    const pools = {
-      BREAKFAST: bPool.length > 0 ? bPool : safeCandidates,
-      LUNCH: lPool.length > 0 ? lPool : safeCandidates,
-      SNACK: sPool.length > 0 ? sPool : safeCandidates,
-      DINNER: dPool.length > 0 ? dPool : safeCandidates,
-    };
+    const pools = buildPools(safeCandidates);
 
     const range = options.range || 'Next 3 days';
     const rawTypes = Array.isArray(options.mealTypes) && options.mealTypes.length > 0

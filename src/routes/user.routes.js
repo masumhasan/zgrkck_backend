@@ -101,6 +101,15 @@ router.post('/regenerate-target', async (req, res, next) => {
   }
 });
 
+router.put('/custom-target', async (req, res, next) => {
+  try {
+    const updated = await nutritionTargetService.setCustomTarget(req.user.id, req.body || {});
+    return successResponse(res, updated, 'Custom nutrition target saved');
+  } catch (err) {
+    next(err);
+  }
+});
+
 router.post('/personal-info', validate(personalInfoSchema), async (req, res, next) => {
   try {
     const updatedUser = await userRepository.updatePersonalInfo(

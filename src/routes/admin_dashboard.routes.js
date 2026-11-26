@@ -2,6 +2,7 @@ const express = require('express');
 const dashboardService = require('../services/admin_dashboard.service');
 const activityService = require('../services/activity.service');
 const safetyEscalation = require('../services/safety_escalation.service');
+const legalService = require('../services/legal.service');
 const { authGuard, requireRole } = require('../middleware/auth.middleware');
 const { successResponse } = require('../utils/response.util');
 
@@ -37,6 +38,14 @@ router.get('/usage', async (req, res, next) => {
 router.get('/activity', async (req, res, next) => {
   try {
     return successResponse(res, await activityService.recent(req.query.limit), 'Recent activity retrieved');
+  } catch (err) {
+    next(err);
+  }
+});
+
+router.patch('/legal', async (req, res, next) => {
+  try {
+    return successResponse(res, await legalService.updateLegal(req.body), 'Legal content saved');
   } catch (err) {
     next(err);
   }

@@ -23,6 +23,8 @@ const adminNutritionRoutes = require('./routes/admin_nutrition.routes');
 const { AVATAR_FILE } = require('./utils/admin_mapper.util');
 const { errorHandler } = require('./middleware/error.middleware');
 const { config } = require('./config/env');
+const legalService = require('./services/legal.service');
+const { successResponse } = require('./utils/response.util');
 
 const app = express();
 
@@ -57,6 +59,13 @@ app.use('/api/v1/account', accountRoutes);
 app.use('/api/v1/shopping', shoppingRoutes);
 app.use('/api/v1/cuisines', cuisineRoutes);
 app.use('/api/v1/notifications', notificationRoutes);
+app.get('/api/v1/legal', async (req, res, next) => {
+  try {
+    return successResponse(res, await legalService.getLegal(), 'Legal content retrieved');
+  } catch (err) {
+    next(err);
+  }
+});
 
 // Admin dashboard API (admin role required except login)
 app.use('/api/v1/admin/auth', adminAuthRoutes);

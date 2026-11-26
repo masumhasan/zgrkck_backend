@@ -96,6 +96,16 @@ router.post('/', authGuard, validate(createRecipeSchema), async (req, res, next)
   }
 });
 
+router.put('/:id', authGuard, validate(createRecipeSchema), async (req, res, next) => {
+  try {
+    const recipe = await userRecipeService.update(req.user.id, req.params.id, req.body);
+    if (!recipe) return errorResponse(res, 'Recipe not found', 404);
+    return successResponse(res, recipe, 'Recipe updated successfully');
+  } catch (err) {
+    next(err);
+  }
+});
+
 router.get('/cuisines', async (req, res, next) => {
   try {
     const cuisines = await cuisineService.getAllCuisines();

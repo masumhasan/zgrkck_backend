@@ -25,20 +25,14 @@ async function nutritionFor(data, lines, servings) {
 
 // Recipes a user added themselves. Catalogue queries exclude these (PUBLISHED_FILTER).
 class UserRecipeService {
-  async create(userId, data) {
-    const suffix = `${Date.now().toString(36)}${Math.random().toString(36).slice(2, 6)}`;
+  async _fieldsFromData(data, { isUpdate = false } = {}) {
     const prep = data.prepMinutes || 0;
     const cook = data.cookMinutes || 0;
     const servings = data.servings || 4;
     const lines = (data.ingredients || []).map(toLine);
-
-    return Recipe.create({
-      externalId: `USR-${suffix.toUpperCase()}`,
+    const fields = {
       title: data.title,
-      slug: `user-${suffix}`,
       summary: data.summary || '',
-      createdBy: userId,
-      updatedBy: 'User',
       media: { imageUrl: data.imageUrl || null, altText: data.title },
       meta: {
         cuisines: data.cuisine ? [{ name: data.cuisine, slug: data.cuisine.toLowerCase().replace(/\s+/g, '-') }] : [],
@@ -48,11 +42,34 @@ class UserRecipeService {
       yield: { servings },
       // flagged by keywords for the user to confirm; unverified recipes are never served to allergic users
       allergens: { contains: detectAllergens(lines.map((l) => l.name)), verified: Boolean(data.allergensVerified) },
-      source: data.source ? { ...data.source, importedAt: new Date() } : undefined,
       nutrition: await nutritionFor(data, lines, servings),
       ingredientGroups: lines.length ? [{ groupName: 'Ingredients', ingredients: lines.map((l) => ({ ...lineFor(l), ...(l.displayText ? { displayText: l.displayText } : {}) })) }] : [],
       instructionSteps: (data.steps || []).map((instruction, i) => ({ stepNumber: i + 1, instruction })),
+    };
+    if (!isUpdate && data.source) fields.source = { ...data.source, importedAt: new Date() };
+    return fields;
+  }
+
+  async create(userId, data) {
+    const suffix = `${Date.now().toString(36)}${Math.random().toString(36).slice(2, 6)}`;
+    const fields = await this._fieldsFromData(data);
+    return Recipe.create({
+      externalId: `USR-${suffix.toUpperCase()}`,
+      slug: `user-${suffix}`,
+      createdBy: userId,
+      updatedBy: 'User',
+      ...fields,
     });
+  }
+
+  async update(userId, recipeId, data) {
+    if (!mongoose.isValidObjectId(recipeId)) return null;
+    const fields = await this._fieldsFromData(data, { isUpdate: true });
+    return Recipe.findOneAndUpdate(
+      { _id: recipeId, createdBy: userId },
+      { $set: { ...fields, updatedBy: 'User' } },
+      { returnDocument: 'after' }
+    ).lean().exec();
   }
 
   // Own recipes plus catalogue recipes the user saved (still published only).

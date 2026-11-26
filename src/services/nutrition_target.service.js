@@ -84,6 +84,37 @@ class NutritionTargetService {
     const updatedUser = await userRepository.updateNutritionTarget(userId, target);
     return updatedUser.nutritionTarget;
   }
+
+  async setCustomTarget(userId, { calories, protein, carbs, fat }) {
+    const user = await userRepository.findById(userId);
+    if (!user) {
+      const err = new Error('User not found');
+      err.statusCode = 404;
+      throw err;
+    }
+    const gender = (user.personalInfo?.gender || '').toLowerCase();
+    const sex = gender.includes('female') ? 'female' : gender === 'male' ? 'male' : 'other';
+    const floor = CALORIE_FLOOR[sex];
+    const requested = Number(calories) || floor;
+    const floorApplied = requested < floor;
+    const safeCalories = Math.max(floor, Math.min(CALORIE_CEILING, Math.round(requested)));
+    if (floorApplied) await safetyEscalation.record(userId, 'floor_trigger');
+
+    const cur = user.nutritionTarget || {};
+    const target = {
+      calories: safeCalories,
+      protein: Math.max(40, Math.min(300, Math.round(Number(protein) || cur.protein || 120))),
+      carbs: Math.max(20, Math.min(500, Math.round(Number(carbs) || cur.carbs || 200))),
+      fat: Math.max(20, Math.min(200, Math.round(Number(fat) || cur.fat || 60))),
+      caloriesConsumed: 0,
+      proteinConsumed: 0,
+      carbsConsumed: 0,
+      fatConsumed: 0,
+      lastCalculatedAt: new Date(),
+    };
+    const updatedUser = await userRepository.updateNutritionTarget(userId, target);
+    return { ...updatedUser.nutritionTarget, floorApplied, floor };
+  }
 }
 
 module.exports = new NutritionTargetService();
