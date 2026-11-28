@@ -4,7 +4,7 @@ const { config } = require('./env');
 let isConnected = false;
 
 const connectDB = async () => {
-  if (isConnected) return;
+  if (isConnected && mongoose.connection.readyState === 1) return;
 
   const mongoUri = config.mongodbUri;
 
